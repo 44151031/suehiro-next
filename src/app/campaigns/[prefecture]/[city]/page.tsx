@@ -3,39 +3,34 @@ import { prefectures } from "@/lib/prefectures";
 import { cities } from "@/lib/cities";
 import { notFound } from "next/navigation";
 
-// ✅ Props型を先に定義
-interface PageProps {
-  params: {
-    prefecture: string;
-    city: string;
-  };
-}
+// ✅ generateMetadata 修正（any化）
+export async function generateMetadata({ params }: any): Promise<Metadata> {
+  const { prefecture, city } = params;
 
-// ✅ 動的メタデータ生成
-export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const prefecture = prefectures.find(p => p.slug === params.prefecture);
-  const city = cities.find(c => c.prefectureSlug === params.prefecture && c.slug === params.city);
+  const prefectureData = prefectures.find(p => p.slug === prefecture);
+  const cityData = cities.find(c => c.prefectureSlug === prefecture && c.slug === city);
 
-  const title = prefecture && city
-    ? `${prefecture.name} ${city.name}のPayPayキャンペーン情報`
+  const title = prefectureData && cityData
+    ? `${prefectureData.name} ${cityData.name}のPayPayキャンペーン情報`
     : "キャンペーン情報が見つかりません";
-  const description = title;
 
-  return { title, description };
+  return { title, description: title };
 }
 
-// ✅ ページ本体
-export default function CityPage({ params }: PageProps) {
-  const prefecture = prefectures.find(p => p.slug === params.prefecture);
-  const city = cities.find(c => c.prefectureSlug === params.prefecture && c.slug === params.city);
+// ✅ ページ本体 修正（any化）
+export default function CityPage({ params }: any) {
+  const prefectureData = prefectures.find(p => p.slug === params.prefecture);
+  const cityData = cities.find(c => c.prefectureSlug === params.prefecture && c.slug === params.city);
 
-  if (!prefecture || !city) {
+  if (!prefectureData || !cityData) {
     notFound();
   }
 
   return (
     <div className="p-8">
-      <h1 className="text-2xl font-bold mb-4">{prefecture.name} {city.name} キャンペーン詳細</h1>
+      <h1 className="text-2xl font-bold mb-4">
+        {prefectureData.name} {cityData.name} キャンペーン詳細
+      </h1>
       <p>※キャンペーン詳細は準備中です。</p>
     </div>
   );
