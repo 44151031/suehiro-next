@@ -1,10 +1,18 @@
+import { Metadata } from "next";
 import { prefectures } from "@/lib/prefectures";
 import { cities } from "@/lib/cities";
 import { notFound } from "next/navigation";
-import { Metadata } from "next";
+
+// ✅ Props型を先に定義
+interface PageProps {
+  params: {
+    prefecture: string;
+    city: string;
+  };
+}
 
 // ✅ 動的メタデータ生成
-export async function generateMetadata({ params }: { params: { prefecture: string; city: string } }): Promise<Metadata> {
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const prefecture = prefectures.find(p => p.slug === params.prefecture);
   const city = cities.find(c => c.prefectureSlug === params.prefecture && c.slug === params.city);
 
@@ -16,8 +24,8 @@ export async function generateMetadata({ params }: { params: { prefecture: strin
   return { title, description };
 }
 
-// ✅ ページ表示処理
-export default function CityPage({ params }: { params: { prefecture: string; city: string } }) {
+// ✅ ページ本体
+export default function CityPage({ params }: PageProps) {
   const prefecture = prefectures.find(p => p.slug === params.prefecture);
   const city = cities.find(c => c.prefectureSlug === params.prefecture && c.slug === params.city);
 
