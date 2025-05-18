@@ -4,6 +4,7 @@ import { cities } from "@/lib/cities";
 import { notFound } from "next/navigation";
 
 // ✅ generateMetadata 修正（any化）
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 export async function generateMetadata({ params }: any): Promise<Metadata> {
   const { prefecture, city } = params;
 
@@ -18,6 +19,7 @@ export async function generateMetadata({ params }: any): Promise<Metadata> {
 }
 
 // ✅ ページ本体 修正（any化）
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 export default function CityPage({ params }: any) {
   const prefectureData = prefectures.find(p => p.slug === params.prefecture);
   const cityData = cities.find(c => c.prefectureSlug === params.prefecture && c.slug === params.city);
