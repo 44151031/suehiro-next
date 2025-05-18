@@ -1,10 +1,11 @@
+// /components/campaign/CampaignGroupSection.tsx
+
 import Link from "next/link";
 import { campaigns } from "@/lib/campaigns";
 import { prefectures } from "@/lib/prefectures";
+import { isCampaignActive, formatJapaneseDate } from "@/lib/utils";
 
-type CampaignGroupSectionProps = {
-  groupName: string;
-};
+type CampaignGroupSectionProps = { groupName: string };
 
 export default function CampaignGroupSection({ groupName }: CampaignGroupSectionProps) {
   const groupPrefectures = prefectures.filter(p => p.group === groupName);
@@ -12,10 +13,12 @@ export default function CampaignGroupSection({ groupName }: CampaignGroupSection
   return (
     <section>
       <h2 className="text-2xl font-bold mb-4">{groupName}</h2>
-
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         {groupPrefectures.map(pref => {
-          const prefCampaigns = campaigns.filter(c => c.prefectureSlug === pref.slug);
+          const prefCampaigns = campaigns
+            .filter(c => c.prefectureSlug === pref.slug && isCampaignActive(c.endDate))
+            .sort((a, b) => new Date(a.startDate).getTime() - new Date(b.startDate).getTime());
+
           if (prefCampaigns.length === 0) return null;
 
           return (
@@ -29,10 +32,10 @@ export default function CampaignGroupSection({ groupName }: CampaignGroupSection
                     className="min-w-[200px] border rounded p-4 shadow-sm hover:shadow-md transition"
                   >
                     <h4 className="font-semibold mb-2">{c.offer}</h4>
-                    <p className="text-sm text-gray-600">
-                      {c.prefecture} {c.city}
+                    <p className="text-sm text-gray-600">{c.prefecture} {c.city}</p>
+                    <p className="text-sm text-gray-500">
+                      {formatJapaneseDate(c.startDate, "から")} 〜 {formatJapaneseDate(c.endDate, "まで")}
                     </p>
-                    <p className="text-sm text-gray-500">{c.period}</p>
                   </Link>
                 ))}
               </div>

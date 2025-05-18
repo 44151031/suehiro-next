@@ -1,6 +1,7 @@
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { campaigns } from "@/lib/campaigns";
+import { formatJapaneseDate } from "@/lib/utils"; // ✅ 日付整形ユーティリティを追加
 import {
   CampaignSummary,
   CampaignEfficiencyTip,
@@ -19,7 +20,7 @@ export async function generateMetadata({ params }: { params: { prefecture: strin
   }
 
   const title = `${campaign.prefecture}${campaign.city}のPayPayキャンペーン情報`;
-  const description = `${campaign.start} から ${campaign.period} ${campaign.offer} ［付与上限］${campaign.onepoint}P／回・${campaign.fullpoint}P／期間`;
+  const description = `${formatJapaneseDate(campaign.startDate, "から")} ${formatJapaneseDate(campaign.endDate, "まで")} ${campaign.offer} ［付与上限］${campaign.onepoint}P／回・${campaign.fullpoint}P／期間`;
 
   return { title, description };
 }

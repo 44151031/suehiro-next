@@ -3,7 +3,7 @@ import { popularSearches } from "@/lib/popularSearches";
 
 export default function Footer() {
   return (
-    <footer className="bg-gray-900 text-white py-8 px-4 mt-16">
+    <footer className="bg-gray-100 text-gray-600 py-8 px-4 mt-16">
       <div className="max-w-[1200px] mx-auto flex flex-col items-center gap-4 text-center">
         <p className="text-lg font-semibold">PayPay自治体キャンペーン特集</p>
 

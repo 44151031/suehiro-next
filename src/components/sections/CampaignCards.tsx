@@ -1,5 +1,6 @@
 import { campaigns } from "@/lib/campaigns";
 import Link from "next/link";
+import { formatJapaneseDate } from "@/lib/utils";
 
 export default function CampaignCards() {
   return (
@@ -14,7 +15,7 @@ export default function CampaignCards() {
           >
             <p className="text-sm font-semibold">{c.prefecture} {c.city}</p>
             <p className="text-lg font-bold mt-2">{c.offer}</p>
-            <p className="text-sm mt-1">{c.period}</p>
+            <p className="text-sm mt-1">{formatJapaneseDate(c.endDate, "まで")}</p>
           </Link>
         ))}
       </div>

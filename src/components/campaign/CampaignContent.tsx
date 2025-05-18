@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { campaigns } from "@/lib/campaigns";
+import { formatJapaneseDate } from "@/lib/utils";  // ✅ 追加
 
 type Campaign = typeof campaigns[0];
 type CampaignProps = { campaign: Campaign };
@@ -10,7 +11,11 @@ export function CampaignSummary({ campaign }: CampaignProps) {
   return (
     <div className="mb-6">
       <h1 className="text-2xl font-bold mb-4">{campaign.prefecture}{campaign.city} {campaign.offer}キャンペーン</h1>
-      <p>{campaign.start}から{campaign.period}まで実施されるお得なPayPayキャンペーンです。</p>
+      <p>
+        {formatJapaneseDate(campaign.startDate, "から")} 
+        {formatJapaneseDate(campaign.endDate, "まで")} 
+        実施されるお得なPayPayキャンペーンです。
+      </p>
     </div>
   );
 }
@@ -20,7 +25,9 @@ export function CampaignEfficiencyTip({ campaign }: CampaignProps) {
   return (
     <div className="mb-6">
       <h2 className="text-xl font-semibold mb-2">効率的なポイント獲得方法</h2>
-      <p>1回{campaign.onepay}円の買い物を{campaign.paytime}回、合計{campaign.fullpay}円使うと最大{campaign.fullpoint}円分のボーナスが獲得できます。</p>
+      <p>
+        1回{campaign.onepay}円の買い物を{campaign.paytime}回、合計{campaign.fullpay}円使うと最大{campaign.fullpoint}円分のボーナスが獲得できます。
+      </p>
     </div>
   );
 }
@@ -31,7 +38,11 @@ export function CampaignOverviewTable({ campaign }: CampaignProps) {
     <table className="w-full border border-gray-300 mb-6">
       <tbody>
         <tr><th className="p-2 border">キャンペーン対象</th><td className="p-2 border">{campaign.city}の対象店舗</td></tr>
-        <tr><th className="p-2 border">キャンペーン期間</th><td className="p-2 border">{campaign.start} ～ {campaign.period}</td></tr>
+        <tr><th className="p-2 border">キャンペーン期間</th>
+          <td className="p-2 border">
+            {formatJapaneseDate(campaign.startDate, "から")} ～ {formatJapaneseDate(campaign.endDate, "まで")}
+          </td>
+        </tr>
         <tr><th className="p-2 border">還元率</th><td className="p-2 border">{campaign.offer}</td></tr>
         <tr><th className="p-2 border">1回上限</th><td className="p-2 border">{campaign.onepoint}円</td></tr>
         <tr><th className="p-2 border">期間上限</th><td className="p-2 border">{campaign.fullpoint}円</td></tr>

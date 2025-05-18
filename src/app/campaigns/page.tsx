@@ -1,3 +1,5 @@
+// /app/campaign/page.tsx
+
 import { prefectureGroups } from "@/lib/prefectures";
 import CampaignGroupSection from "@/components/campaign/CampaignGroupSection";
 

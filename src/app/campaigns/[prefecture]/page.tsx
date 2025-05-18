@@ -4,7 +4,10 @@ import { notFound } from "next/navigation";
 import { prefectures } from "@/lib/prefectures";
 import { cities } from "@/lib/cities";
 import { campaigns } from "@/lib/campaigns";
+import { formatJapaneseDate } from "@/lib/utils"; // ✅ 日付整形ユーティリティを追加
+import Card from "@/components/common/Card"; // ✅ 共通カードコンポーネントを利用
 
+// ✅ 動的メタデータ生成
 export async function generateMetadata({ params }: { params: { prefecture: string } }): Promise<Metadata> {
   const prefecture = prefectures.find(p => p.slug === params.prefecture);
   if (!prefecture) {
@@ -20,6 +23,7 @@ export async function generateMetadata({ params }: { params: { prefecture: strin
   return { title, description };
 }
 
+// ✅ ページ表示処理
 export default function PrefecturePage({ params }: { params: { prefecture: string } }) {
   const prefecture = prefectures.find(p => p.slug === params.prefecture);
   if (!prefecture) return notFound();
@@ -35,18 +39,20 @@ export default function PrefecturePage({ params }: { params: { prefecture: strin
       {prefectureCampaigns.length > 0 ? (
         <ul className="space-y-4 mb-8">
           {prefectureCampaigns.map(campaign => (
-            <li key={`${campaign.prefectureSlug}-${campaign.citySlug}`} className="border p-4 rounded shadow-sm hover:shadow-md transition">
+            <Card key={`${campaign.prefectureSlug}-${campaign.citySlug}`}>
               <Link href={`/campaigns/${campaign.prefectureSlug}/${campaign.citySlug}`}>
                 <div>
                   <h2 className="text-xl font-semibold mb-2">{campaign.prefecture}{campaign.city}</h2>
-                  <p className="text-sm mb-1">{campaign.start} から {campaign.period}</p>
+                  <p className="text-sm mb-1">
+                    {formatJapaneseDate(campaign.startDate, "から")} 〜 {formatJapaneseDate(campaign.endDate, "まで")}
+                  </p>
                   <p className="mb-1">{campaign.offer}</p>
                   <p className="text-sm text-gray-600">
                     ［付与上限］{campaign.onepoint}P／回・{campaign.fullpoint}P／期間
                   </p>
                 </div>
               </Link>
-            </li>
+            </Card>
           ))}
         </ul>
       ) : (
@@ -58,11 +64,11 @@ export default function PrefecturePage({ params }: { params: { prefecture: strin
       {prefectureCities.length > 0 ? (
         <ul className="space-y-4">
           {prefectureCities.map(city => (
-            <li key={city.slug} className="border p-4 rounded shadow-sm hover:shadow-md transition">
+            <Card key={city.slug}>
               <Link href={`/campaigns/${prefecture.slug}/${city.slug}`} className="text-blue-600 underline">
                 {city.name}のキャンペーンを見る
               </Link>
-            </li>
+            </Card>
           ))}
         </ul>
       ) : (
