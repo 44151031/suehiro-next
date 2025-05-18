@@ -1,12 +1,22 @@
 import { campaigns } from "@/lib/campaigns";
 import Link from "next/link";
 
-export default function CampaignCards() {
+// 数値部分だけを抽出して比較する関数
+function extractPercentage(text: string) {
+  const match = text.match(/\d+/);
+  return match ? parseInt(match[0], 10) : 0;
+}
+
+export default function HighDiscountCampaigns() {
+  const highDiscounts = campaigns.filter((c) => extractPercentage(c.offer) >= 30);
+
+  if (highDiscounts.length === 0) return null;
+
   return (
-    <section className="max-w-[1200px] mx-auto px-4 py-16 bg-gray-50">
-      <h2 className="text-2xl font-bold mb-8 text-center">開催中のキャンペーン</h2>
+    <section className="max-w-[1200px] mx-auto px-4 py-16 bg-yellow-50">
+      <h2 className="text-2xl font-bold mb-8 text-center">高還元キャンペーン特集（30%以上）</h2>
       <div className="flex overflow-x-auto space-x-4 pb-4">
-        {campaigns.map((c, index) => (
+        {highDiscounts.map((c, index) => (
           <Link
             key={index}
             href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`}

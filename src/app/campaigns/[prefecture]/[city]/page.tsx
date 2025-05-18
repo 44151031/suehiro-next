@@ -1,41 +1,49 @@
 import { Metadata } from "next";
-import { prefectures } from "@/lib/prefectures";
-import { cities } from "@/lib/cities";
 import { notFound } from "next/navigation";
+import { campaigns } from "@/lib/campaigns";
+import {
+  CampaignSummary,
+  CampaignEfficiencyTip,
+  CampaignOverviewTable,
+  PrefectureCampaignList,
+} from "@/components/campaign/CampaignContent";
 
-// ✅ generateMetadata 修正
-export async function generateMetadata(
-  { params }: { params: { prefecture: string; city: string } }
-): Promise<Metadata> {
-  const { prefecture, city } = params;
-
-  const prefectureData = prefectures.find(p => p.slug === prefecture);
-  const cityData = cities.find(c => c.prefectureSlug === prefecture && c.slug === city);
-
-  const title = prefectureData && cityData
-    ? `${prefectureData.name} ${cityData.name}のPayPayキャンペーン情報`
-    : "キャンペーン情報が見つかりません";
-
-  return { title, description: title };
-}
-
-// ✅ ページ本体 修正
-export default function CityPage(
-  { params }: { params: { prefecture: string; city: string } }
-) {
-  const prefectureData = prefectures.find(p => p.slug === params.prefecture);
-  const cityData = cities.find(c => c.prefectureSlug === params.prefecture && c.slug === params.city);
-
-  if (!prefectureData || !cityData) {
-    notFound();
+// ✅ 動的メタデータ生成
+export async function generateMetadata({ params }: { params: { prefecture: string; city: string } }): Promise<Metadata> {
+  const campaign = campaigns.find(c => c.prefectureSlug === params.prefecture && c.citySlug === params.city);
+  if (!campaign) {
+    return {
+      title: "キャンペーン情報が見つかりません",
+      description: "お探しのキャンペーンは存在しないか、URLが間違っている可能性があります。",
+    };
   }
 
+  const title = `${campaign.prefecture}${campaign.city}のPayPayキャンペーン情報`;
+  const description = `${campaign.start} から ${campaign.period} ${campaign.offer} ［付与上限］${campaign.onepoint}P／回・${campaign.fullpoint}P／期間`;
+
+  return { title, description };
+}
+
+// ✅ ページ表示処理
+export default function CityPage({ params }: { params: { prefecture: string; city: string } }) {
+  const campaign = campaigns.find(c => c.prefectureSlug === params.prefecture && c.citySlug === params.city);
+  if (!campaign) return notFound();
+
   return (
-    <div className="p-8">
-      <h1 className="text-2xl font-bold mb-4">
-        {prefectureData.name} {cityData.name} キャンペーン詳細
-      </h1>
-      <p>※キャンペーン詳細は準備中です。</p>
+    <div className="p-4 max-w-3xl mx-auto">
+      <CampaignSummary campaign={campaign} />
+      <CampaignEfficiencyTip campaign={campaign} />
+      <CampaignOverviewTable campaign={campaign} />
+      <PrefectureCampaignList prefectureSlug={campaign.prefectureSlug} />
+
+      <div className="mt-8">
+        <a href={`/campaigns/${campaign.prefectureSlug}`} className="text-blue-500 underline block mb-2">
+          {campaign.prefecture}のキャンペーン一覧へ戻る
+        </a>
+        <a href="/" className="text-blue-500 underline block">
+          トップページへ戻る
+        </a>
+      </div>
     </div>
   );
 }

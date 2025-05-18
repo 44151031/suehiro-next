@@ -1,18 +1,43 @@
-import Link from "next/link";
 import { campaigns } from "@/lib/campaigns";
-import { Button } from "@/components/ui/button";
+import { prefectures, prefectureGroups } from "@/lib/prefectures";
+import Link from "next/link";
 
 export default function PrefectureList() {
-  const prefectures = [...new Set(campaigns.map(c => c.prefectureSlug))];
+  // キャンペーン掲載中の都道府県slugリスト
+  const activePrefectureSlugs = campaigns.map((c) => c.prefectureSlug);
+
   return (
-    <section className="p-8">
-      <h2 className="text-xl font-bold mb-4">都道府県から探す</h2>
-      <div className="flex flex-wrap gap-4">
-        {prefectures.map(slug => (
-          <Button key={slug} variant="outline" className="text-sm px-4 py-2">
-            <Link href={`/campaigns/${slug}`}>{slug}</Link>
-          </Button>
-        ))}
+    <section className="max-w-[1200px] mx-auto px-4 py-16 bg-gray-50">
+      <h2 className="text-2xl font-bold mb-8 text-center">エリア別キャンペーン</h2>
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+        {prefectureGroups.map((group) => {
+          const groupPrefectures = prefectures.filter((p) => p.group === group);
+
+          return (
+            <div key={group}>
+              <h3 className="text-lg font-semibold mb-2">{group}</h3>
+              <div className="flex flex-wrap gap-2">
+                {groupPrefectures.map((pref) => {
+                  const isActive = activePrefectureSlugs.includes(pref.slug);
+
+                  return isActive ? (
+                    <Link
+                      key={pref.slug}
+                      href={`/campaigns/${pref.slug}`}
+                      className="text-blue-500 underline"
+                    >
+                      {pref.name}
+                    </Link>
+                  ) : (
+                    <span key={pref.slug} className="text-gray-400">
+                      {pref.name}
+                    </span>
+                  );
+                })}
+              </div>
+            </div>
+          );
+        })}
       </div>
     </section>
   );
