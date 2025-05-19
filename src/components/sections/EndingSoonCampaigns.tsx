@@ -1,28 +1,10 @@
-// ✅ /components/sections/EndingSoonCampaigns.tsx
-
 import { campaigns } from "@/lib/campaigns";
 import Link from "next/link";
-import Card from "@/components/common/Card"; // ✅ 共通Cardを利用
-
-// ✅ 日付文字列を Date オブジェクトに変換するユーティリティ
-function parseDate(text: string) {
-  const match = text.match(/(\d{4})年(\d{1,2})月(\d{1,2})日/);
-  if (!match) return null;
-  const [_, year, month, day] = match;
-  return new Date(Number(year), Number(month) - 1, Number(day));
-}
-
-// ✅ 終了まで15日以内か判定
-function isEndingSoon(endDateText: string) {
-  const endDate = parseDate(endDateText);
-  if (!endDate) return false;
-  const today = new Date();
-  const diffTime = endDate.getTime() - today.getTime();
-  const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
-  return diffDays >= 0 && diffDays <= 15;
-}
+import CampaignCard from "@/components/common/CampaignCard";
+import { isEndingSoon } from "@/lib/campaignUtils"; // ✅ 直接 isEndingSoon を利用
 
 export default function EndingSoonCampaigns() {
+  // ✅ まもなく終了のキャンペーンのみ抽出
   const endingSoon = campaigns.filter((c) => isEndingSoon(c.endDate));
 
   if (endingSoon.length === 0) return null;
@@ -32,13 +14,14 @@ export default function EndingSoonCampaigns() {
       <h2 className="text-2xl font-bold mb-8 text-center">まもなく終了のキャンペーン</h2>
       <div className="flex overflow-x-auto space-x-4 pb-4">
         {endingSoon.map((c, index) => (
-          <Card key={index} className="min-w-[220px] max-w-[240px] bg-white rounded-2xl">
-            <Link href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`} className="block">
-              <p className="text-sm font-semibold">{c.prefecture} {c.city}</p>
-              <p className="text-lg font-bold mt-2">{c.offer}</p>
-              <p className="text-sm mt-1">{c.endDate}</p>
-            </Link>
-          </Card>
+          <Link key={index} href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`} className="block">
+            <CampaignCard
+              prefecture={c.prefecture}
+              city={c.city}
+              offer={c.offer}
+              period={c.endDate}
+            />
+          </Link>
         ))}
       </div>
       <div className="mt-4 text-center">
