@@ -1,8 +1,7 @@
 import { campaigns } from "@/lib/campaigns";
 import Link from "next/link";
 import CampaignCard from "@/components/common/CampaignCard";
-import { formatJapaneseDate } from "@/lib/utils";
-import { isCampaignActive } from "@/lib/campaignUtils"; // ✅ 有効キャンペーン判定をインポート
+import { isCampaignActive, formatJapaneseDate } from "@/lib/campaignUtils"; // ✅ 有効キャンペーン判定をインポート
 
 export default function CampaignCards() {
   // ✅ 終了していないキャンペーンのみ表示

@@ -3,35 +3,32 @@ import { Campaign } from "@/types/campaign"; // ✅ 型をインポート
 
 
 /**
- * 日付文字列を Date オブジェクトに変換するユーティリティ
- * @param text - 例: "2025年6月30日"
+ * ISO形式の日付文字列（例: "2025-06-30"）を日本語形式に変換
+ * @param isoDate - ISO 8601 日付文字列
+ * @param suffix - "から" または "まで"
  */
-export function parseDate(text: string): Date | null {
-  const match = text.match(/(\d{4})年(\d{1,2})月(\d{1,2})日/);
-  if (!match) return null;
-  const [_, year, month, day] = match;
-  return new Date(Number(year), Number(month) - 1, Number(day));
+export function formatJapaneseDate(isoDate: string, suffix: "から" | "まで"): string {
+  const date = new Date(isoDate);
+  if (isNaN(date.getTime())) return "日付不明";
+
+  const year = date.getFullYear();
+  const month = date.getMonth() + 1;
+  const day = date.getDate();
+  return `${year}年${month}月${day}日${suffix}`;
 }
 
-/**
- * 終了まで15日以内か判定
- * @param endDateText - 日付文字列（例: "2025年6月30日"）
- */
-export function isEndingSoon(endDateText: string): boolean {
-  const endDate = parseDate(endDateText);
-  if (!endDate) return false;
+// 終了まで15日以内
+export function isEndingSoon(isoDate: string): boolean {
+  const endDate = new Date(isoDate);
   const today = new Date();
   const diffTime = endDate.getTime() - today.getTime();
   const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
   return diffDays >= 0 && diffDays <= 15;
 }
-/**
- * キャンペーンが現在有効かどうかを判定
- * @param endDateText - 例: "2025年6月30日"
- */
-export function isCampaignActive(endDateText: string): boolean {
-  const endDate = parseDate(endDateText);
-  if (!endDate) return true; // 日付不明なら表示する
+
+// 終了していないか
+export function isCampaignActive(isoDate: string): boolean {
+  const endDate = new Date(isoDate);
   const today = new Date();
   return endDate >= today;
 }

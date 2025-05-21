@@ -2,9 +2,8 @@
 
 import { campaigns } from "@/lib/campaigns";
 import Link from "next/link";
-import { formatJapaneseDate } from "@/lib/utils";
 import CampaignCard from "@/components/common/CampaignCard";
-import { getHighDiscountCampaigns } from "@/lib/campaignUtils"; // ✅ 共通取得関数
+import { getHighDiscountCampaigns, formatJapaneseDate } from "@/lib/campaignUtils"; // ✅ 共通取得関数
 
 export default function HighDiscountCampaigns() {
   const highDiscounts = getHighDiscountCampaigns(campaigns); // ✅ 30%以上抽出

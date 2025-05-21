@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { campaigns } from "@/lib/campaigns";
-import { formatJapaneseDate } from "@/lib/utils"; // ✅ 日付整形ユーティリティを追加
+import { formatJapaneseDate } from "@/lib/campaignUtils";
 import {
   CampaignSummary,
   CampaignEfficiencyTip,

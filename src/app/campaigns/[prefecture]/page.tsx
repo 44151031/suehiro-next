@@ -4,9 +4,8 @@ import { notFound } from "next/navigation";
 import { prefectures } from "@/lib/prefectures";
 import { cities } from "@/lib/cities";
 import { campaigns } from "@/lib/campaigns";
-import { formatJapaneseDate } from "@/lib/utils";
 import CampaignCard from "@/components/common/CampaignCard";
-import { isCampaignActive } from "@/lib/campaignUtils"; // ✅ 有効キャンペーン判定をインポート
+import { isCampaignActive, formatJapaneseDate } from "@/lib/campaignUtils"; // ✅ 有効キャンペーン判定をインポート
 
 // ✅ 動的メタデータ生成
 export async function generateMetadata({ params }: { params: { prefecture: string } }): Promise<Metadata> {

@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { campaigns } from "@/lib/campaigns";
-import { formatJapaneseDate } from "@/lib/utils";  // ✅ 追加
+import { formatJapaneseDate } from "@/lib/campaignUtils"; // ✅ 有効キャンペーン判定をインポート
 
 type Campaign = typeof campaigns[0];
 type CampaignProps = { campaign: Campaign };
