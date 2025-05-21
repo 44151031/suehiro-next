@@ -1,3 +1,6 @@
+// app/page.tsx
+
+import Header from "@/components/layout/Header";
 import Hero from "@/components/sections/Hero";
 import SearchForm from "@/components/sections/SearchForm";
 import CampaignCards from "@/components/sections/CampaignCards";
@@ -6,17 +9,21 @@ import Cta from "@/components/sections/Cta";
 import HighDiscountCampaigns from "@/components/sections/HighDiscountCampaigns";
 import EndingSoonCampaigns from "@/components/sections/EndingSoonCampaigns";
 import PopularSearches from "@/components/sections/PopularSearches";
+
 export default function HomePage() {
   return (
-    <main>
-      <Hero />
-      <SearchForm />
-      <PopularSearches /> {/* ← 追加 */}
-      <CampaignCards />
-      <PrefectureList />
-      <HighDiscountCampaigns />
-      <EndingSoonCampaigns />
-      <Cta />
-    </main>
+    <>
+      <Header />
+      <main className="pt-16"> {/* ヘッダーの高さ分マージン */}
+        <Hero />
+        <SearchForm />
+        <CampaignCards />
+        <PrefectureList />
+        <HighDiscountCampaigns />
+        <EndingSoonCampaigns />
+        <PopularSearches />
+        <Cta />
+      </main>
+    </>
   );
 }

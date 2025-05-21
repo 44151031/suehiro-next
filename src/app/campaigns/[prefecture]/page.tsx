@@ -1,3 +1,5 @@
+// ✅ /campaigns/[prefecture]/page.tsx
+
 import { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -5,9 +7,8 @@ import { prefectures } from "@/lib/prefectures";
 import { cities } from "@/lib/cities";
 import { campaigns } from "@/lib/campaigns";
 import CampaignCard from "@/components/common/CampaignCard";
-import { isCampaignActive, formatJapaneseDate } from "@/lib/campaignUtils"; // ✅ 有効キャンペーン判定をインポート
+import { isCampaignActive } from "@/lib/campaignUtils";
 
-// ✅ 動的メタデータ生成
 export async function generateMetadata({ params }: { params: { prefecture: string } }): Promise<Metadata> {
   const prefecture = prefectures.find(p => p.slug === params.prefecture);
   if (!prefecture) {
@@ -23,7 +24,6 @@ export async function generateMetadata({ params }: { params: { prefecture: strin
   return { title, description };
 }
 
-// ✅ ページ表示処理
 export default function PrefecturePage({ params }: { params: { prefecture: string } }) {
   const prefecture = prefectures.find(p => p.slug === params.prefecture);
   if (!prefecture) return notFound();
@@ -31,13 +31,13 @@ export default function PrefecturePage({ params }: { params: { prefecture: strin
   const prefectureCities = cities.filter(c => c.prefectureSlug === params.prefecture);
   const prefectureCampaigns = campaigns
     .filter(c => c.prefectureSlug === params.prefecture)
-    .filter(c => isCampaignActive(c.endDate)); // ✅ 終了済み除外
+    .filter(c => isCampaignActive(c.endDate));
 
   return (
     <div className="p-4 max-w-3xl mx-auto">
       <h1 className="text-3xl font-bold mb-6">{prefecture.name}のキャンペーン一覧</h1>
 
-      {/* ✅ キャンペーン一覧（リンク付き CampaignCard 利用） */}
+      {/* ✅ キャンペーン一覧 */}
       {prefectureCampaigns.length > 0 ? (
         <ul className="space-y-4 mb-8">
           {prefectureCampaigns.map(campaign => (
@@ -47,7 +47,9 @@ export default function PrefecturePage({ params }: { params: { prefecture: strin
                   prefecture={campaign.prefecture}
                   city={campaign.city}
                   offer={campaign.offer}
-                  period={`${formatJapaneseDate(campaign.startDate, "から")} 〜 ${formatJapaneseDate(campaign.endDate, "まで")}`}
+                  startDate={campaign.startDate}
+                  endDate={campaign.endDate}
+                  fullpoint={campaign.fullpoint}
                 />
               </Link>
             </li>
@@ -57,7 +59,7 @@ export default function PrefecturePage({ params }: { params: { prefecture: strin
         <p className="text-gray-600 mb-8">現在、{prefecture.name}の登録キャンペーンはありません。</p>
       )}
 
-      {/* ✅ 市区町村一覧 */}
+      {/* ✅ 市区町村リンク一覧（ダミーカード風） */}
       <h2 className="text-2xl font-semibold mb-4">市区町村別キャンペーン</h2>
       {prefectureCities.length > 0 ? (
         <ul className="space-y-4">
@@ -67,8 +69,10 @@ export default function PrefecturePage({ params }: { params: { prefecture: strin
                 <CampaignCard
                   prefecture={prefecture.name}
                   city={city.name}
-                  offer=""
-                  period="キャンペーン情報を見る"
+                  offer={0} // ダミー表示なので 0
+                  startDate=""
+                  endDate=""
+                  fullpoint=""
                 />
               </Link>
             </li>

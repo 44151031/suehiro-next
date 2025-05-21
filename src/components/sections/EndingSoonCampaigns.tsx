@@ -1,25 +1,41 @@
-import { campaigns } from "@/lib/campaigns";
+// ✅ /components/sections/EndingSoonCampaigns.tsx
+"use client";
+
 import Link from "next/link";
+import { campaigns } from "@/lib/campaigns";
 import CampaignCard from "@/components/common/CampaignCard";
-import { isEndingSoon } from "@/lib/campaignUtils"; // ✅ 直接 isEndingSoon を利用
+import { isEndingSoon } from "@/lib/campaignUtils";
+import { useSortedCampaignsByDistance } from "@/hooks/useSortedCampaignsByDistance";
+import type { Campaign } from "@/types/campaign";
 
 export default function EndingSoonCampaigns() {
   // ✅ まもなく終了のキャンペーンのみ抽出
-  const endingSoon = campaigns.filter((c) => isEndingSoon(c.endDate));
+  const endingSoon: Campaign[] = campaigns.filter((c) => isEndingSoon(c.endDate));
 
-  if (endingSoon.length === 0) return null;
+  // ✅ 現在地から近い順に並び替え
+  const sorted = useSortedCampaignsByDistance(endingSoon);
+
+  if (!sorted || sorted.length === 0) return null;
 
   return (
     <section className="max-w-[1200px] mx-auto px-4 py-16 bg-red-50">
-      <h2 className="text-2xl font-bold mb-8 text-center">まもなく終了のキャンペーン</h2>
+      <h2 className="text-2xl font-bold mb-8 text-center text-red-800">
+        まもなく終了のキャンペーン（近い順）
+      </h2>
       <div className="flex overflow-x-auto space-x-4 pb-4">
-        {endingSoon.map((c, index) => (
-          <Link key={index} href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`} className="block">
+        {sorted.map((c) => (
+          <Link
+            key={`${c.prefectureSlug}-${c.citySlug}`}
+            href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`}
+            className="block"
+          >
             <CampaignCard
               prefecture={c.prefecture}
               city={c.city}
               offer={c.offer}
-              period={c.endDate}
+              startDate={c.startDate}
+              endDate={c.endDate}
+              fullpoint={c.fullpoint}
             />
           </Link>
         ))}

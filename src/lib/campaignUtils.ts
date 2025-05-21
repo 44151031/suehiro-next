@@ -1,19 +1,29 @@
 // ✅ /src/lib/campaignUtils.ts
-import { Campaign } from "@/types/campaign"; // ✅ 型をインポート
 
+import { Campaign } from "@/types/campaign";
 
 /**
  * ISO形式の日付文字列（例: "2025-06-30"）を日本語形式に変換
  * @param isoDate - ISO 8601 日付文字列
  * @param suffix - "から" または "まで"
+ * @param options - 年を省略するかどうか（omitYear: true で省略）
  */
-export function formatJapaneseDate(isoDate: string, suffix: "から" | "まで"): string {
+export function formatJapaneseDate(
+  isoDate: string,
+  suffix: "から" | "まで",
+  options?: { omitYear?: boolean }
+): string {
   const date = new Date(isoDate);
   if (isNaN(date.getTime())) return "日付不明";
 
   const year = date.getFullYear();
   const month = date.getMonth() + 1;
   const day = date.getDate();
+
+  if (options?.omitYear) {
+    return `${month}月${day}日${suffix}`;
+  }
+
   return `${year}年${month}月${day}日${suffix}`;
 }
 
@@ -45,19 +55,21 @@ export function getActiveCampaignsByPrefecture(prefectureSlug: string, campaigns
 }
 
 /**
- * 数値部分だけを抽出して数値化
- * @param text - 例: "最大30%還元"
- */
-export function extractPercentage(text: string): number {
-  const match = text.match(/\d+/);
-  return match ? parseInt(match[0], 10) : 0;
-}
-
-/**
  * 指定以上の還元率のキャンペーンを取得（デフォルト30%）
  * @param campaigns - キャンペーンデータ一覧
  * @param minPercentage - 最低還元率（デフォルト30）
  */
 export function getHighDiscountCampaigns(campaigns: Campaign[], minPercentage = 30) {
-  return campaigns.filter(c => extractPercentage(c.offer) >= minPercentage);
+  return campaigns.filter(c => Number(c.offer) >= minPercentage);
+}
+
+export function getDistanceKm(lat1: number, lng1: number, lat2: number, lng2: number): number {
+  const R = 6371;
+  const toRad = (deg: number) => (deg * Math.PI) / 180;
+  const dLat = toRad(lat2 - lat1);
+  const dLng = toRad(lng2 - lng1);
+  const a =
+    Math.sin(dLat / 2) ** 2 +
+    Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLng / 2) ** 2;
+  return R * (2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a)));
 }

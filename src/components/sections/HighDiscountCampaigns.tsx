@@ -1,26 +1,36 @@
 // ✅ /components/sections/HighDiscountCampaigns.tsx
+"use client";
 
-import { campaigns } from "@/lib/campaigns";
 import Link from "next/link";
+import { campaigns } from "@/lib/campaigns";
+import { getHighDiscountCampaigns } from "@/lib/campaignUtils";
+import { useSortedCampaignsByDistance } from "@/hooks/useSortedCampaignsByDistance"; // ✅ カスタムフック導入
 import CampaignCard from "@/components/common/CampaignCard";
-import { getHighDiscountCampaigns, formatJapaneseDate } from "@/lib/campaignUtils"; // ✅ 共通取得関数
+import type { Campaign } from "@/types/campaign";
 
 export default function HighDiscountCampaigns() {
-  const highDiscounts = getHighDiscountCampaigns(campaigns); // ✅ 30%以上抽出
+  const highDiscounts: Campaign[] = getHighDiscountCampaigns(campaigns); // ✅ 30%以上抽出
+  const sorted = useSortedCampaignsByDistance(highDiscounts); // ✅ 現在地から近い順に並び替え
 
-  if (highDiscounts.length === 0) return null;
+  if (!sorted || sorted.length === 0) return null;
 
   return (
     <section className="max-w-[1200px] mx-auto px-4 py-16 bg-yellow-50">
-      <h2 className="text-2xl font-bold mb-8 text-center">高還元キャンペーン特集（30%以上）</h2>
+      <h2 className="text-2xl font-bold mb-8 text-center">高還元キャンペーン特集（現在地に近い順）</h2>
       <div className="flex overflow-x-auto space-x-4 pb-4">
-        {highDiscounts.map((c, index) => (
-          <Link key={index} href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`} className="block">
+        {sorted.map((c) => (
+          <Link
+            key={`${c.prefectureSlug}-${c.citySlug}`}
+            href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`}
+            className="block"
+          >
             <CampaignCard
               prefecture={c.prefecture}
               city={c.city}
               offer={c.offer}
-              period={formatJapaneseDate(c.endDate, "まで")}
+              startDate={c.startDate}
+              endDate={c.endDate}
+              fullpoint={c.fullpoint}
             />
           </Link>
         ))}
