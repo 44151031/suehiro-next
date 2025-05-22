@@ -5,7 +5,7 @@ import CampaignGroupSection from "@/components/campaign/CampaignGroupSection";
 
 export default function CampaignTopPage() {
   return (
-    <div className="p-4 space-y-12">
+    <div className="p-4 max-w-3xl mx-auto">
       {prefectureGroups.map(group => (
         <CampaignGroupSection key={group} groupName={group} />
       ))}

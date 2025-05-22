@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { campaigns } from "@/lib/campaigns";
 import { prefectures } from "@/lib/prefectures";
-import { isCampaignActive, formatJapaneseDate } from "@/lib/utils";
+import { isCampaignActive, formatJapaneseDate } from "@/lib/campaignUtils";
 
 type CampaignGroupSectionProps = { groupName: string };
 
