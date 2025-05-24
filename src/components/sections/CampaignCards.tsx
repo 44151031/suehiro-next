@@ -1,8 +1,6 @@
-// ✅ /components/sections/CampaignCards.tsx
 "use client";
 
 import Link from "next/link";
-import Image from "next/image";
 import { campaigns } from "@/lib/campaigns";
 import CampaignCard from "@/components/common/CampaignCard";
 import { isCampaignActive } from "@/lib/campaignUtils";
@@ -16,30 +14,20 @@ export default function CampaignCards() {
   if (!sorted || sorted.length === 0) return null;
 
   return (
-    <section className="relative w-full py-16 overflow-hidden">
-      {/* ✅ 背景画像（publicから直接参照） */}
-      <Image
-        src="/images/top/campaigns-bg.png"
-        alt="キャンペーン背景"
-        fill
-        className="object-cover object-center"
-        priority
-      />
-      
-      {/* ✅ オーバーレイ */}
-      <div className="absolute inset-0 bg-black/30 backdrop-brightness-75" />
-
-      {/* ✅ コンテンツ */}
+    <section className="relative w-full py-16 bg-secondary text-secondary-foreground overflow-hidden">
       <div className="relative z-10 max-w-[1200px] mx-auto px-4">
-        <h2 className="text-2xl font-bold mb-8 text-white drop-shadow text-center">
+        {/* タイトル */}
+        <h2 className="text-2xl font-bold text-primary drop-shadow-md mb-8 text-center">
           開催中のキャンペーン（近い順）
         </h2>
-        <div className="flex overflow-x-auto space-x-4 pb-4">
+
+        {/* キャンペーンカードリスト */}
+        <div className="flex overflow-x-auto space-x-4 pb-4 scrollbar-hide">
           {sorted.map((c) => (
             <Link
               key={`${c.prefectureSlug}-${c.citySlug}`}
               href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`}
-              className="block"
+              className="block flex-shrink-0"
             >
               <CampaignCard
                 prefecture={c.prefecture}
@@ -52,10 +40,12 @@ export default function CampaignCards() {
             </Link>
           ))}
         </div>
-        <div className="mt-4 text-center">
+
+        {/* 一覧ボタン */}
+        <div className="mt-6 text-center">
           <Link
             href="/campaigns"
-            className="inline-block bg-blue-500 text-white rounded px-6 py-2 hover:bg-blue-600 transition"
+            className="inline-block bg-primary text-primary-foreground font-bold text-sm rounded-full px-6 py-2 hover:bg-accent hover:text-accent-foreground transition"
           >
             一覧を見る
           </Link>

@@ -1,35 +1,41 @@
 import Link from "next/link";
 import { popularSearches } from "@/lib/popularSearches";
+import Container from "@/components/layout/Container";
 
 export default function Footer() {
   return (
-    <footer className="bg-gray-100 text-gray-600 py-8 px-4 mt-16">
-      <div className="max-w-[1200px] mx-auto flex flex-col items-center gap-4 text-center">
-        <p className="text-lg font-semibold">PayPay自治体キャンペーン特集</p>
+    <footer className="bg-muted text-muted-foreground py-12 px-4 mt-16">
+      <Container className="flex flex-col items-center gap-6 text-center">
+        {/* サイト名 */}
+        <p className="text-lg font-bold text-primary">PayPay自治体キャンペーン特集</p>
 
-        <nav className="flex flex-wrap justify-center gap-4">
-          <Link href="/" className="hover:underline">トップ</Link>
-          <Link href="/campaigns" className="hover:underline">キャンペーン一覧</Link>
-          <Link href="/about" className="hover:underline">サイトについて</Link>
-          <Link href="/contact" className="hover:underline">お問い合わせ</Link>
+        {/* ナビゲーション */}
+        <nav className="flex flex-wrap justify-center gap-4 text-sm font-medium">
+          <Link href="/" className="hover:text-accent transition">トップ</Link>
+          <Link href="/campaigns" className="hover:text-accent transition">キャンペーン一覧</Link>
+          <Link href="/about" className="hover:text-accent transition">サイトについて</Link>
+          <Link href="/contact" className="hover:text-accent transition">お問い合わせ</Link>
         </nav>
 
-        {/* ✅ 追加：よく検索されるリンク */}
-        <div className="text-sm text-gray-400 mt-4">
-          <span>よく検索されるキャンペーン: </span>
+        {/* よく検索されるリンク */}
+        <div className="text-sm text-muted-foreground mt-2 flex flex-wrap justify-center gap-x-2 gap-y-1">
+          <span className="font-medium text-gray-500">よく検索されるキャンペーン:</span>
           {popularSearches.map((item, index) => (
             <Link
               key={index}
               href={`/campaigns/${item.prefectureSlug}/${item.citySlug}`}
-              className="hover:underline ml-1"
+              className="text-primary hover:text-accent transition"
             >
               {item.label}
             </Link>
           ))}
         </div>
 
-        <p className="text-sm text-gray-400 mt-4">&copy; {new Date().getFullYear()} PayPay自治体キャンペーン特集</p>
-      </div>
+        {/* コピーライト */}
+        <p className="text-xs text-gray-400 mt-6">
+          &copy; {new Date().getFullYear()} PayPay自治体キャンペーン特集
+        </p>
+      </Container>
     </footer>
   );
 }

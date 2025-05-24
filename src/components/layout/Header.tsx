@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 import { Menu, X } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { PrefectureSelector } from "@/components/common/PrefectureSelector";
+import Container from "@/components/layout/Container";
 
 const menuItems = [
   { name: "トップ", href: "/" },
@@ -25,7 +26,6 @@ export default function Header() {
 
   return (
     <>
-      {/* モバイルメニューのオーバーレイ */}
       {menuOpen && (
         <div
           className="fixed inset-0 z-40 bg-white/70 backdrop-blur-sm transition-opacity duration-300"
@@ -33,35 +33,35 @@ export default function Header() {
         />
       )}
 
-      {/* ヘッダー本体 */}
       <header
         className={cn(
           "fixed top-0 left-0 right-0 z-50 h-16 transition-all duration-300",
           isScrolled ? "bg-white shadow" : "bg-white/80 backdrop-blur-md"
         )}
       >
-        <div className="max-w-screen-xl mx-auto px-4 h-16 flex items-center justify-between">
-          <Link
-            href="/"
-            className="text-sm sm:text-base md:text-lg font-bold text-gray-800 hover:opacity-80"
-          >
-            PayPay自治体クーポン体験「<span className="text-red-500">Pay市</span>（ペイイチ）」
-          </Link>
-
-          <div className="flex items-center space-x-4">
-            <PrefectureSelector currentPrefecture="山梨県甲府市" storeCount={12} />
-            <button
-              className="sm:hidden text-gray-600"
-              onClick={() => setMenuOpen(!menuOpen)}
-              aria-label="メニュー"
+        <Container>
+          <div className="h-16 flex items-center justify-between">
+            <Link
+              href="/"
+              className="text-sm sm:text-base md:text-lg font-bold text-gray-800 hover:opacity-80"
             >
-              {menuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
-            </button>
+              PayPay自治体クーポン体験「<span className="text-red-500">Pay市</span>（ペイイチ）」
+            </Link>
+
+            <div className="flex items-center space-x-4">
+              <PrefectureSelector currentPrefecture="山梨県甲府市" storeCount={12} />
+              <button
+                className="sm:hidden text-gray-600"
+                onClick={() => setMenuOpen(!menuOpen)}
+                aria-label="メニュー"
+              >
+                {menuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
+              </button>
+            </div>
           </div>
-        </div>
+        </Container>
       </header>
 
-      {/* モバイルメニュー本体 */}
       {menuOpen && (
         <nav className="fixed top-0 left-0 z-[60] w-3/4 h-full bg-white shadow-lg p-6 transition-transform duration-300">
           <ul className="space-y-4">

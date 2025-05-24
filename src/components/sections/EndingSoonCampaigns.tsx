@@ -1,4 +1,3 @@
-// ✅ /components/sections/EndingSoonCampaigns.tsx
 "use client";
 
 import Link from "next/link";
@@ -9,44 +8,48 @@ import { useSortedCampaignsByDistance } from "@/hooks/useSortedCampaignsByDistan
 import type { Campaign } from "@/types/campaign";
 
 export default function EndingSoonCampaigns() {
-  // ✅ まもなく終了のキャンペーンのみ抽出
   const endingSoon: Campaign[] = campaigns.filter((c) => isEndingSoon(c.endDate));
-
-  // ✅ 現在地から近い順に並び替え
   const sorted = useSortedCampaignsByDistance(endingSoon);
 
   if (!sorted || sorted.length === 0) return null;
 
   return (
-    <section className="max-w-[1200px] mx-auto px-4 py-16 bg-red-50">
-      <h2 className="text-2xl font-bold mb-8 text-center text-red-800">
-        まもなく終了のキャンペーン（近い順）
-      </h2>
-      <div className="flex overflow-x-auto space-x-4 pb-4">
-        {sorted.map((c) => (
+    <section className="w-full py-16 bg-accent/10 text-foreground">
+      <div className="max-w-[1200px] mx-auto px-4">
+        {/* 見出し */}
+        <h2 className="text-2xl font-bold text-accent drop-shadow-md mb-8 text-center">
+          まもなく終了のキャンペーン（近い順）
+        </h2>
+
+        {/* キャンペーンカードリスト */}
+        <div className="flex overflow-x-auto space-x-4 pb-4 scrollbar-hide">
+          {sorted.map((c) => (
+            <Link
+              key={`${c.prefectureSlug}-${c.citySlug}`}
+              href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`}
+              className="block flex-shrink-0"
+            >
+              <CampaignCard
+                prefecture={c.prefecture}
+                city={c.city}
+                offer={c.offer}
+                startDate={c.startDate}
+                endDate={c.endDate}
+                fullpoint={c.fullpoint}
+              />
+            </Link>
+          ))}
+        </div>
+
+        {/* 一覧ボタン */}
+        <div className="mt-6 text-center">
           <Link
-            key={`${c.prefectureSlug}-${c.citySlug}`}
-            href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`}
-            className="block"
+            href="/campaigns"
+            className="inline-block bg-primary text-primary-foreground font-bold text-sm rounded-full px-6 py-2 hover:bg-accent hover:text-accent-foreground transition"
           >
-            <CampaignCard
-              prefecture={c.prefecture}
-              city={c.city}
-              offer={c.offer}
-              startDate={c.startDate}
-              endDate={c.endDate}
-              fullpoint={c.fullpoint}
-            />
+            一覧を見る
           </Link>
-        ))}
-      </div>
-      <div className="mt-4 text-center">
-        <Link
-          href="/campaigns"
-          className="inline-block bg-blue-500 text-white rounded px-6 py-2 hover:bg-blue-600 transition"
-        >
-          一覧を見る
-        </Link>
+        </div>
       </div>
     </section>
   );
