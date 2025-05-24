@@ -6,6 +6,7 @@ import { getHighDiscountCampaigns } from "@/lib/campaignUtils";
 import { useSortedCampaignsByDistance } from "@/hooks/useSortedCampaignsByDistance";
 import CampaignCard from "@/components/common/CampaignCard";
 import type { Campaign } from "@/types/campaign";
+import Button from "@/components/ui/Button/Button";
 
 export default function HighDiscountCampaigns() {
   const highDiscounts: Campaign[] = getHighDiscountCampaigns(campaigns); // 30%以上抽出
@@ -43,12 +44,9 @@ export default function HighDiscountCampaigns() {
 
         {/* 一覧ボタン */}
         <div className="mt-6 text-center">
-          <Link
-            href="/campaigns"
-            className="inline-block bg-primary text-primary-foreground font-bold text-sm rounded-full px-6 py-2 hover:bg-accent hover:text-accent-foreground transition"
-          >
+          <Button href="/campaigns">
             一覧を見る
-          </Link>
+          </Button>
         </div>
       </div>
     </section>
