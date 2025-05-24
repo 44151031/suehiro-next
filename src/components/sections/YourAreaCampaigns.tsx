@@ -8,7 +8,12 @@ import { useSortedCampaignsByDistance } from "@/hooks/useSortedCampaignsByDistan
 import type { Campaign } from "@/types/campaign";
 
 export default function CampaignCards() {
-  const activeCampaigns: Campaign[] = campaigns.filter((c) => isCampaignActive(c.endDate));
+  // ✅ 終了済みを除外：開催中のものだけフィルタリング
+  const activeCampaigns: Campaign[] = campaigns.filter((c) =>
+    isCampaignActive(c.endDate)
+  );
+
+  // ✅ 近い順に並び替え
   const sorted = useSortedCampaignsByDistance(activeCampaigns);
 
   if (!sorted || sorted.length === 0) return null;
@@ -18,7 +23,7 @@ export default function CampaignCards() {
       <div className="relative z-10 max-w-[1200px] mx-auto px-4">
         {/* タイトル */}
         <h2 className="text-2xl font-bold text-primary drop-shadow-md mb-8 text-center">
-          開催中のキャンペーン（近い順）
+          あなたのエリアのキャンペーン一覧
         </h2>
 
         {/* キャンペーンカードリスト */}
@@ -33,9 +38,13 @@ export default function CampaignCards() {
                 prefecture={c.prefecture}
                 city={c.city}
                 offer={c.offer}
+                fullpoint={c.fullpoint}
                 startDate={c.startDate}
                 endDate={c.endDate}
-                fullpoint={c.fullpoint}
+                period={`${c.startDate && c.endDate
+                  ? `${new Date(c.startDate).getMonth() + 1}月${new Date(c.startDate).getDate()}日〜${new Date(c.endDate).getMonth() + 1}月${new Date(c.endDate).getDate()}日`
+                  : ""
+                }`}
               />
             </Link>
           ))}

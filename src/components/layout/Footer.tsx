@@ -4,7 +4,7 @@ import Container from "@/components/layout/Container";
 
 export default function Footer() {
   return (
-    <footer className="bg-muted text-muted-foreground py-12 px-4 mt-16">
+    <footer className="bg-muted text-muted-foreground py-12 px-4">
       <Container className="flex flex-col items-center gap-6 text-center">
         {/* サイト名 */}
         <p className="text-lg font-bold text-primary">PayPay自治体キャンペーン特集</p>

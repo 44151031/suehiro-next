@@ -27,6 +27,15 @@ export function formatJapaneseDate(
   return `${year}年${month}月${day}日${suffix}`;
 }
 
+// 開催中
+export function isNowInCampaignPeriod(startDateStr: string, endDateStr: string): boolean {
+  const today = new Date();
+  const start = new Date(startDateStr);
+  const end = new Date(endDateStr);
+  return start <= today && today <= end;
+}
+
+
 // 終了まで15日以内
 export function isEndingSoon(isoDate: string): boolean {
   const endDate = new Date(isoDate);
@@ -73,3 +82,5 @@ export function getDistanceKm(lat1: number, lng1: number, lat2: number, lng2: nu
     Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLng / 2) ** 2;
   return R * (2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a)));
 }
+
+

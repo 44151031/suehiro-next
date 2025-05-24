@@ -3,7 +3,7 @@
 import Header from "@/components/layout/Header";
 import Hero from "@/components/sections/Hero";
 import SearchForm from "@/components/sections/SearchForm";
-import CampaignCards from "@/components/sections/CampaignCards";
+import YourAreaCampaigns from "@/components/sections/YourAreaCampaigns";
 import PrefectureList from "@/components/sections/PrefectureList";
 import Cta from "@/components/sections/Cta";
 import HighDiscountCampaigns from "@/components/sections/HighDiscountCampaigns";
@@ -17,7 +17,7 @@ export default function HomePage() {
       <main className="pt-16"> {/* ヘッダーの高さ分マージン */}
         <Hero />
         <SearchForm />
-        <CampaignCards />
+        <YourAreaCampaigns />
         <PrefectureList />
         <HighDiscountCampaigns />
         <EndingSoonCampaigns />

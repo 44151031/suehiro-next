@@ -14,6 +14,7 @@ export default function PrefecturePage({
   const list = campaigns.filter(
     (c) => c.prefectureSlug === params.prefecture
   );
+
   if (list.length === 0) return notFound();
 
   const prefectureName = list[0].prefecture;
@@ -21,14 +22,16 @@ export default function PrefecturePage({
   return (
     <div className="bg-white w-full">
       <div className="max-w-[1200px] mx-auto px-4 py-8">
-        <h1 className="text-3xl font-bold mb-8">
+        {/* タイトル */}
+        <h1 className="text-3xl font-bold text-primary mb-8">
           {prefectureName}のPayPayキャンペーン一覧
         </h1>
 
+        {/* キャンペーンカード */}
         <div className="grid gap-6 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
-          {list.map((c, index) => (
+          {list.map((c) => (
             <Link
-              key={index}
+              key={`${c.prefectureSlug}-${c.citySlug}`}
               href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`}
               className="block"
             >
@@ -36,15 +39,16 @@ export default function PrefecturePage({
                 prefecture={c.prefecture}
                 city={c.city}
                 offer={c.offer}
-                period={`${formatJapaneseDate(
-                  c.startDate,
-                  "から"
-                )} ${formatJapaneseDate(c.endDate, "まで")}`}
+                fullpoint={c.fullpoint}
+                startDate={c.startDate}
+                endDate={c.endDate}
+                period={`${formatJapaneseDate(c.startDate, "から", { omitYear: true })}〜${formatJapaneseDate(c.endDate, "まで", { omitYear: true })}`}
               />
             </Link>
           ))}
         </div>
 
+        {/* 戻るリンク */}
         <div className="mt-12 border-t pt-6 text-center">
           <Link href="/" className="text-blue-600 underline text-sm">
             トップページへ戻る

@@ -1,5 +1,4 @@
-// components/common/CampaignCard.tsx
-import { formatJapaneseDate } from "@/lib/campaignUtils";
+import { formatJapaneseDate, isNowInCampaignPeriod } from "@/lib/campaignUtils";
 
 type CampaignCardProps = {
   prefecture: string;
@@ -21,9 +20,17 @@ export default function CampaignCard({
   fullpoint,
 }: CampaignCardProps) {
   const hasDate = startDate && endDate;
+  const isActive = hasDate ? isNowInCampaignPeriod(startDate, endDate) : false;
 
   return (
-    <div className="bg-card text-card-foreground border border-border rounded-xl shadow-md hover:shadow-lg transition p-4 w-full min-w-[240px] max-w-[280px]">
+    <div className="relative bg-card text-card-foreground border border-border rounded-xl shadow-md hover:shadow-lg transition p-4 w-full min-w-[240px] max-w-[280px]">
+      {/* ✅ 開催中バッジ */}
+      {isActive && (
+        <span className="absolute top-2 right-2 bg-accent text-white text-xs font-bold px-2 py-1 rounded">
+          開催中
+        </span>
+      )}
+
       {/* 地域 */}
       <p className="text-sm font-medium mb-1">
         <span className="text-base font-bold text-primary">{prefecture}</span>{" "}
