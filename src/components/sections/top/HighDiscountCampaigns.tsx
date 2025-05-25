@@ -9,7 +9,8 @@ import ScopedCampaignSlider from "@/components/common/ScopedCampaignSlider";
 export default function HighDiscountCampaigns() {
   const highDiscounts = getHighDiscountCampaigns(campaigns);
   const sorted = useSortedCampaignsByDistance(highDiscounts);
-
+  if (!sorted) return null;
+  
   return (
     <ScopedCampaignSlider
       campaigns={sorted}
