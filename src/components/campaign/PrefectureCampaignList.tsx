@@ -1,25 +1,37 @@
-import Link from "next/link";
+"use client";
+
+import { useSortedCampaignsByDistance } from "@/hooks/useSortedCampaignsByDistance";
+import { isCampaignActive } from "@/lib/campaignUtils";
 import { campaigns } from "@/lib/campaigns";
+import ScopedCampaignSlider from "@/components/common/ScopedCampaignSlider";
+import type { Campaign } from "@/types/campaign";
 
 type Props = {
   prefectureSlug: string;
+  excludeCitySlug?: string;
 };
 
-export default function PrefectureCampaignList({ prefectureSlug }: Props) {
-  const relatedCampaigns = campaigns.filter(c => c.prefectureSlug === prefectureSlug);
+export default function PrefectureCampaignList({
+  prefectureSlug,
+  excludeCitySlug,
+}: Props) {
+  // 対象都道府県で、開催中 & 除外されていない市区町村のキャンペーンを取得
+  const filtered: Campaign[] = campaigns.filter(
+    (c) =>
+      c.prefectureSlug === prefectureSlug &&
+      c.citySlug !== excludeCitySlug &&
+      isCampaignActive(c.endDate)
+  );
+
+  const sorted = useSortedCampaignsByDistance(filtered);
+
+  if (!sorted || sorted.length === 0) return null;
 
   return (
-    <div className="mt-8">
-      <h2 className="text-xl font-semibold mb-4">同じ都道府県の開催中キャンペーン</h2>
-      <ul className="space-y-2">
-        {relatedCampaigns.map(c => (
-          <li key={c.citySlug}>
-            <Link href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`} className="text-blue-500 underline">
-              {c.prefecture}{c.city} {c.offer}
-            </Link>
-          </li>
-        ))}
-      </ul>
-    </div>
+    <ScopedCampaignSlider
+      campaigns={sorted}
+      title={`他のキャンペーン（${sorted[0].prefecture}内）`}
+      bgColor="#f8f7f2"
+    />
   );
 }

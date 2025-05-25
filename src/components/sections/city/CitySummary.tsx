@@ -16,9 +16,6 @@ type PrefectureListProps = {
 export function CampaignSummary({ campaign }: CampaignProps) {
   return (
     <div className="mb-6">
-      <h1 className="text-3xl font-extrabold mb-4 text-gray-900">
-        {campaign.prefecture}{campaign.city} 最大{campaign.offer}%還元キャンペーン
-      </h1>
       <p className="text-gray-700 text-base">
         {formatJapaneseDate(campaign.startDate, "から")}〜
         {formatJapaneseDate(campaign.endDate, "まで")} 実施されるお得なPayPayキャンペーンです。

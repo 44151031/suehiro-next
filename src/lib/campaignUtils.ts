@@ -82,4 +82,7 @@ export function getDistanceKm(lat1: number, lng1: number, lat2: number, lng2: nu
   return R * (2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a)));
 }
 
-
+// キャンペーン詳細ページの画像パスのルール
+export function getCampaignImagePath(prefectureSlug: string, citySlug: string): string {
+  return `/images/campaigns/${prefectureSlug}-${citySlug}.jpg`;
+}

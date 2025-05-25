@@ -38,7 +38,7 @@ export default function CampaignGroupSection({
         {groupName}
       </h2>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
+      <div className="grid grid-cols-1 xl:grid-cols-2 gap-10">
         {groupPrefectures.map((pref) => {
           const prefCampaigns = campaigns.filter(
             (c) =>

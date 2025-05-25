@@ -7,7 +7,8 @@ import {
   CampaignEfficiencyTip,
   CampaignOverviewTable,
   PrefectureCampaignList,
-} from "@/components/campaign/CampaignContent";
+} from "@/components/sections/city/CitySummary";
+import CampaignSummaryCard from "@/components/sections/city/CampaignSummaryCard";
 
 // ✅ 動的メタデータ生成
 export async function generateMetadata({
@@ -54,9 +55,9 @@ export default function CityPage({
       <div className="max-w-[1200px] mx-auto px-4 py-10">
         {/* タイトル */}
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-neutral-800 mb-6">
-          {campaign.prefecture}{campaign.city}のPayPayキャンペーン情報
+          {campaign.prefecture}{campaign.city}のPayPayキャンペーン
         </h1>
-
+<CampaignSummaryCard campaign={campaign} />
         {/* キャンペーン概要・効率・表 */}
         <CampaignSummary campaign={campaign} />
         <CampaignEfficiencyTip campaign={campaign} />
