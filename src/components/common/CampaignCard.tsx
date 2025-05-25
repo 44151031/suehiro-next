@@ -23,30 +23,32 @@ export default function CampaignCard({
   const isActive = hasDate ? isNowInCampaignPeriod(startDate, endDate) : false;
 
   return (
-    <div className="relative bg-card text-card-foreground border border-border rounded-xl shadow-md hover:shadow-lg transition p-4 w-full min-w-[240px] max-w-[280px]">
+    <div className="relative bg-white text-card-foreground border border-border rounded-2xl shadow-lg hover:shadow-xl transition duration-300 p-6 w-full min-w-[240px] max-w-[300px]">
       {/* ✅ 開催中バッジ */}
       {isActive && (
-        <span className="absolute top-2 right-2 bg-accent text-white text-xs font-bold px-2 py-1 rounded">
+        <span className="absolute top-3 right-3 bg-accent text-white text-xs font-semibold px-2 py-1 rounded-full shadow-sm tracking-wide">
           開催中
         </span>
       )}
 
-      {/* 地域 */}
-      <p className="text-sm font-medium mb-1">
-        <span className="text-base font-bold text-primary">{prefecture}</span>{" "}
-        <span className="text-sm text-muted-foreground">{city}</span>
+      {/* 都道府県・市区町村 */}
+      <p className="text-base font-medium mb-1 leading-tight">
+        <span className="text-xl font-extrabold text-neutral-900 dark:text-white">
+          {prefecture}
+        </span>
+        <span className="text-base text-neutral-700"> {city}</span>
       </p>
 
       {/* 還元率 */}
-      <p className="text-sm mb-1">
-        <span className="text-base font-bold text-accent">{offer}%</span> 還元
+      <p className="text-base mb-1 leading-tight">
+        <span className="text-2xl font-extrabold text-accent">{offer}%</span> 還元
       </p>
 
-      {/* 表示期間 */}
+      {/* キャンペーン期間 */}
       {period ? (
-        <p className="text-xs text-muted-foreground mb-2">{period}</p>
+        <p className="text-sm text-neutral-700 leading-snug">{period}</p>
       ) : hasDate ? (
-        <p className="text-xs text-muted-foreground mb-2">
+        <p className="text-sm text-neutral-700 leading-snug">
           {formatJapaneseDate(startDate, "から", { omitYear: true })}〜
           {formatJapaneseDate(endDate, "まで", { omitYear: true })}
         </p>
@@ -54,12 +56,12 @@ export default function CampaignCard({
 
       {/* 最大ポイント */}
       {fullpoint && (
-        <p className="text-sm font-bold text-primary mt-2">
-          最大{" "}
-          <span className="text-lg font-extrabold text-accent">
+        <p className="text-base font-semibold text-neutral-700 leading-tight flex items-baseline gap-1">
+          <span>最大</span>
+          <span className="text-3xl font-extrabold text-accent">
             {Number(fullpoint).toLocaleString()}
-          </span>{" "}
-          pt
+          </span>
+          <span className="text-sm text-neutral-700">pt</span>
         </p>
       )}
     </div>

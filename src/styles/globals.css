@@ -27,17 +27,23 @@
   --font-sans: "Noto Sans JP", sans-serif;
   --font-mono: "Fira Code", monospace;
 
-  --text-h1: 2rem;       /* 32px */
+  --text-h1: 2rem;
+  /* 32px */
   --leading-h1: 2.5rem;
-  --text-h2: 1.5rem;     /* 24px */
+  --text-h2: 1.5rem;
+  /* 24px */
   --leading-h2: 2rem;
-  --text-h3: 1.25rem;    /* 20px */
+  --text-h3: 1.25rem;
+  /* 20px */
   --leading-h3: 1.75rem;
-  --text-base: 1rem;     /* 16px */
+  --text-base: 1rem;
+  /* 16px */
   --leading-base: 1.75rem;
-  --text-sm: 0.875rem;   /* 14px */
+  --text-sm: 0.875rem;
+  /* 14px */
   --leading-sm: 1.5rem;
-  --text-xs: 0.75rem;    /* 12px */
+  --text-xs: 0.75rem;
+  /* 12px */
   --leading-xs: 1.25rem;
 
   /* === ラディウス === */
@@ -125,5 +131,18 @@
     line-height: var(--leading-xs);
     font-weight: 500;
     color: var(--color-muted-foreground);
+  }
+
+  /* 完全にスクロールバーを消す */
+  .scrollbar-none {
+    -ms-overflow-style: none;
+    /* IE, Edge */
+    scrollbar-width: none;
+    /* Firefox */
+  }
+
+  .scrollbar-none::-webkit-scrollbar {
+    display: none;
+    /* Chrome, Safari */
   }
 }

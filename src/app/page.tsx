@@ -1,7 +1,7 @@
 // app/page.tsx
 
 import Header from "@/components/layout/Header";
-import Hero from "@/components/sections/Hero";
+import HeroTop from "@/components/sections/top/HeroTop";
 import SearchForm from "@/components/sections/SearchForm";
 import PrefectureList from "@/components/sections/PrefectureList";
 import YourAreaCampaigns from "@/components/sections/top/YourAreaCampaigns";
@@ -15,7 +15,7 @@ export default function HomePage() {
     <>
       <Header />
       <main className="pt-16"> {/* ヘッダーの高さ分マージン */}
-        <Hero />
+        <HeroTop />
         <SearchForm />
         <YourAreaCampaigns />
         <PrefectureList />

@@ -9,7 +9,7 @@ type CardProps = {
 export default function Card({ children, className = "" }: CardProps) {
   return (
     <div
-      className={`bg-card text-card-foreground border border-border rounded-xl shadow-md hover:shadow-lg transition p-4 ${className}`}
+      className={`bg-white text-card-foreground border border-border rounded-2xl shadow-lg hover:shadow-xl transition duration-300 p-5 ${className}`}
     >
       {children}
     </div>

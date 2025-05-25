@@ -9,22 +9,20 @@ import { Campaign } from "@/types/campaign";
  * @param options - 年を省略するかどうか（omitYear: true で省略）
  */
 export function formatJapaneseDate(
-  isoDate: string,
-  suffix: "から" | "まで",
+  dateStr: string,
+  label?: "から" | "まで",
   options?: { omitYear?: boolean }
 ): string {
-  const date = new Date(isoDate);
-  if (isNaN(date.getTime())) return "日付不明";
-
+  const date = new Date(dateStr);
   const year = date.getFullYear();
   const month = date.getMonth() + 1;
   const day = date.getDate();
 
-  if (options?.omitYear) {
-    return `${month}月${day}日${suffix}`;
-  }
+  const datePart = options?.omitYear
+    ? `${month}月${day}日`
+    : `${year}年${month}月${day}日`;
 
-  return `${year}年${month}月${day}日${suffix}`;
+  return label ? `${datePart}${label}` : datePart;
 }
 
 // 終了していないかどうか

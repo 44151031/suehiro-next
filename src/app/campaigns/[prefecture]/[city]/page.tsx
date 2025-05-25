@@ -50,25 +50,36 @@ export default function CityPage({
   if (!campaign) return notFound();
 
   return (
-    <div className="bg-white w-full">
-      <div className="max-w-[1200px] mx-auto px-4 py-8">
+    <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
+      <div className="max-w-[1200px] mx-auto px-4 py-10">
+        {/* タイトル */}
+        <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-neutral-800 mb-6">
+          {campaign.prefecture}{campaign.city}のPayPayキャンペーン情報
+        </h1>
+
+        {/* キャンペーン概要・効率・表 */}
         <CampaignSummary campaign={campaign} />
         <CampaignEfficiencyTip campaign={campaign} />
         <CampaignOverviewTable campaign={campaign} />
 
+        {/* 他の市区町村の一覧 */}
         <PrefectureCampaignList
           prefectureSlug={campaign.prefectureSlug}
           excludeCitySlug={campaign.citySlug}
         />
 
-        <div className="mt-8">
+        {/* 戻るリンク */}
+        <div className="mt-12 flex flex-col sm:flex-row sm:justify-end gap-3">
           <a
             href={`/campaigns/${campaign.prefectureSlug}`}
-            className="text-blue-500 underline block mb-2"
+            className="inline-block bg-white text-primary border border-border rounded-full px-5 py-2 text-sm font-semibold hover:bg-accent/10 transition"
           >
             {campaign.prefecture}のキャンペーン一覧へ戻る
           </a>
-          <a href="/" className="text-blue-500 underline block">
+          <a
+            href="/"
+            className="inline-block bg-white text-primary border border-border rounded-full px-5 py-2 text-sm font-semibold hover:bg-accent/10 transition"
+          >
             トップページへ戻る
           </a>
         </div>
