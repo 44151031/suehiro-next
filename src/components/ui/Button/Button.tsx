@@ -1,7 +1,6 @@
 // src/components/ui/Button/Button.tsx
 import Link from "next/link";
 import React from "react";
-import "./button.css";
 
 type ButtonProps = {
   href?: string;

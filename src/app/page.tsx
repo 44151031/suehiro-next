@@ -3,12 +3,12 @@
 import Header from "@/components/layout/Header";
 import Hero from "@/components/sections/Hero";
 import SearchForm from "@/components/sections/SearchForm";
-import YourAreaCampaigns from "@/components/sections/YourAreaCampaigns";
 import PrefectureList from "@/components/sections/PrefectureList";
-import Cta from "@/components/sections/Cta";
-import HighDiscountCampaigns from "@/components/sections/HighDiscountCampaigns";
-import EndingSoonCampaigns from "@/components/sections/EndingSoonCampaigns";
+import YourAreaCampaigns from "@/components/sections/top/YourAreaCampaigns";
+import HighDiscountCampaigns from "@/components/sections/top/HighDiscountCampaigns";
+import EndingSoonCampaigns from "@/components/sections/top/EndingSoonCampaigns";
 import PopularSearches from "@/components/sections/PopularSearches";
+import Cta from "@/components/sections/Cta";
 
 export default function HomePage() {
   return (

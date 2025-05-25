@@ -27,6 +27,13 @@ export function formatJapaneseDate(
   return `${year}年${month}月${day}日${suffix}`;
 }
 
+// 終了していないかどうか
+export function isCampaignActive(isoDate: string): boolean {
+  const endDate = new Date(isoDate);
+  const today = new Date();
+  return endDate >= today;
+}
+
 // 開催中
 export function isNowInCampaignPeriod(startDateStr: string, endDateStr: string): boolean {
   const today = new Date();
@@ -34,7 +41,6 @@ export function isNowInCampaignPeriod(startDateStr: string, endDateStr: string):
   const end = new Date(endDateStr);
   return start <= today && today <= end;
 }
-
 
 // 終了まで15日以内
 export function isEndingSoon(isoDate: string): boolean {
@@ -45,12 +51,7 @@ export function isEndingSoon(isoDate: string): boolean {
   return diffDays >= 0 && diffDays <= 15;
 }
 
-// 終了していないか
-export function isCampaignActive(isoDate: string): boolean {
-  const endDate = new Date(isoDate);
-  const today = new Date();
-  return endDate >= today;
-}
+
 
 /**
  * 指定された都道府県Slugに基づき、終了していないキャンペーン一覧を取得

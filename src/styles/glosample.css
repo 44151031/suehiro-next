@@ -1,0 +1,121 @@
+/* ===========================
+   Tailwind CSSのインポート
+   =========================== */
+@import "tailwindcss"; /* v4ではこれだけでOK */
+
+/* ===========================
+   デザインシステムの基準値（CSS変数）
+   ここで全体のカラーやフォント、サイズなどを一元管理
+   =========================== */
+@theme {
+  /* --- カラー --- */
+  --color-background: #ffffff;      /* サイトの背景色 */
+  --color-foreground: #222222;      /* メインの文字色 */
+  --color-primary: #1e40af;         /* ブランドのメインカラー（例：青） */
+  --color-primary-foreground: #ffffff;
+  --color-secondary: #f7931e;       /* サブカラー（例：オレンジ） */
+  --color-secondary-foreground: #222222;
+  --color-accent: #e60012;          /* アクセントカラー（例：赤） */
+  --color-accent-foreground: #ffffff;
+  --color-muted: #f9f9f9;           /* サブ背景やボーダー用の薄い色 */
+  --color-muted-foreground: #666666;
+  --color-border: #e0e0e0;          /* 枠線や区切り線の色 */
+
+  /* --- フォント --- */
+  --font-sans: "Noto Sans JP", "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "Fira Mono", monospace;
+
+  /* --- タイポグラフィ --- */
+  --text-h1: 2rem;       /* 32px */
+  --leading-h1: 2.5rem;
+  --text-h2: 1.5rem;     /* 24px */
+  --leading-h2: 2rem;
+  --text-h3: 1.25rem;    /* 20px */
+  --leading-h3: 1.75rem;
+  --text-base: 1rem;     /* 16px */
+  --leading-base: 1.75rem;
+  --text-sm: 0.875rem;   /* 14px */
+  --leading-sm: 1.5rem;
+  --text-xs: 0.75rem;    /* 12px */
+  --leading-xs: 1.25rem;
+
+  /* --- ラディウス（角丸） --- */
+  --radius-sm: 0.375rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  --radius-xl: 1rem;
+}
+
+/* ===========================
+   ダークモード用の上書き
+   =========================== */
+.dark {
+  --color-background: #222222;
+  --color-foreground: #ffffff;
+  --color-muted: #2f2f2f;
+  --color-muted-foreground: #bbbbbb;
+  --color-border: #444444;
+  --color-card: #2a2a2a;
+  --color-card-foreground: #ffffff;
+  --color-input: #333333;
+}
+
+/* ===========================
+   base.cssの読み込み
+   （h1〜h6やp, ul, liなどHTMLタグの基本スタイルをまとめたファイル）
+   =========================== */
+@import "./base.css";
+
+/* ===========================
+   サイト全体のリセット・共通スタイル
+   =========================== */
+
+/* すべての要素のbox-sizingをborder-boxに（余白や幅計算が直感的になる） */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+/* デフォルトのbodyスタイルをリセット＆ベースカラー適用 */
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans, sans-serif);
+  min-height: 100vh;
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* aタグのデフォルトカラーとホバー時の装飾 */
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+a:hover {
+  color: var(--color-accent);
+  text-decoration: underline;
+}
+
+/* 画像の最大幅を親要素に合わせる（レスポンシブ画像） */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* フォーム要素のフォントを統一 */
+input, textarea, select, button {
+  font-family: inherit;
+}
+
+/* スクロールバーのカスタマイズ（必要に応じて） */
+::-webkit-scrollbar {
+  width: 8px;
+  background: var(--color-muted);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 4px;
+}
