@@ -1,5 +1,3 @@
-// /components/sections/top/HeroTop.tsx
-
 "use client";
 
 import "keen-slider/keen-slider.min.css";
@@ -7,69 +5,75 @@ import { useKeenSlider } from "keen-slider/react";
 import Image from "next/image";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
-import { useEffect, useRef } from "react";
+import { useEffect, useState } from "react";
+import { campaigns } from "@/lib/campaigns";
 
-const slides = [
-  {
-    image: "/images/top/slide-top1.webp",
-    title: "札幌市 最大30%還元",
-    description: "PayPayでおトクに買い物",
-    href: "/campaigns/hokkaido/sapporo",
-  },
-  {
-    image: "/images/top/slide-top2.webp",
-    title: "大阪市 商店街を応援しよう",
-    description: "飲食店で使えるクーポン満載",
-    href: "/campaigns/osaka/osaka",
-  },
-  {
-    image: "/images/top/slide-top3.webp",
-    title: "福岡市 対象店舗拡大中！",
-    description: "日用品やランチにも使える",
-    href: "/campaigns/fukuoka/fukuoka",
-  },
-  {
-    image: "/images/top/slide-top4.webp",
-    title: "名古屋市 最大25%還元",
-    description: "小売・飲食・交通も対象",
-    href: "/campaigns/aichi/nagoya",
-  },
-  {
-    image: "/images/hero/slide5.webp",
-    title: "仙台市 地元応援キャンペーン",
-    description: "PayPayで地域貢献",
-    href: "/campaigns/miyagi/sendai",
-  },
-];
+function truncate(text: string | undefined, max: number) {
+  if (!text) return "";
+  return text.length > max ? text.slice(0, max) + "…" : text;
+}
 
 export default function HeroTop() {
-const [sliderRef, instanceRef] = useKeenSlider<HTMLDivElement>({
-  loop: true,
-  mode: "snap",
-  slides: {
-    perView: 1.1,
-    spacing: 16,
-  },
-  breakpoints: {
-    "(min-width: 769px)": {
-      slides: {
-        perView: 2.5,
-        spacing: 24,
-      },
-    },
-    "(min-width: 1025px)": {
-      slides: {
-        perView: 4,
-        spacing: 32,
-      },
-    },
-  },
-});
+  const [slides, setSlides] = useState<
+    { image: string; title: string; description: string; href: string }[]
+  >([]);
 
+  const [sliderRef, instanceRef] = useKeenSlider<HTMLDivElement>({
+    loop: true,
+    mode: "snap",
+    slides: {
+      perView: 1.1,
+      spacing: 16,
+    },
+    breakpoints: {
+      "(min-width: 769px)": {
+        slides: { perView: 2.5, spacing: 24 },
+      },
+      "(min-width: 1025px)": {
+        slides: { perView: 4, spacing: 32 },
+      },
+    },
+  });
+
+  // キャンペーン取得
+  useEffect(() => {
+    const now = new Date();
+    const active = campaigns.filter(
+      (c) =>
+        new Date(c.startDate) <= now && new Date(c.endDate) >= now
+    );
+
+    const shuffled = [...active].sort(() => 0.5 - Math.random()).slice(0, 5);
+
+    const formatted = shuffled.map((c) => ({
+      image: `/images/campaigns/${c.prefectureSlug}-${c.citySlug}.jpg`,
+      title: truncate(c.campaigntitle ?? `${c.city}のキャンペーン`, 13),
+      description: `${c.prefecture}${c.city}`,
+      href: `/campaigns/${c.prefectureSlug}/${c.citySlug}`,
+    }));
+
+    setSlides(formatted);
+  }, []);
+
+  // 初期化直後にスライダー再計算（バグ防止）
+  useEffect(() => {
+    if (instanceRef.current) {
+      instanceRef.current.update();
+    }
+  }, [slides]);
+
+  // 自動スライド
   useEffect(() => {
     const interval = setInterval(() => {
-      instanceRef.current?.next();
+      if (instanceRef.current?.next) {
+        try {
+          instanceRef.current.next();
+        } catch (e) {
+          console.warn("スライダー移動エラー:", e);
+        }
+      }
     }, 4000);
+
     return () => clearInterval(interval);
   }, [instanceRef]);
 
@@ -96,11 +100,9 @@ const [sliderRef, instanceRef] = useKeenSlider<HTMLDivElement>({
               <h2 className="text-base sm:text-xl md:text-2xl font-bold mb-1 drop-shadow">
                 {slide.title}
               </h2>
-              {slide.description && (
-                <p className="text-xs sm:text-sm md:text-base mb-2 text-white/90">
-                  {slide.description}
-                </p>
-              )}
+              <p className="text-xs sm:text-sm md:text-base mb-2 text-white/90">
+                {slide.description}
+              </p>
               <Link href={slide.href}>
                 <Button variant="secondary" size="sm">
                   キャンペーンを見る

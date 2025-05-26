@@ -1,0 +1,45 @@
+// ✅ /components/common/CampaignListByPrefecture.tsx
+
+import Link from "next/link";
+import CampaignCard from "@/components/common/CampaignCard";
+import { campaigns } from "@/lib/campaigns";
+import { formatJapaneseDate } from "@/lib/campaignUtils";
+
+type Props = {
+  prefectureSlug: string;
+  excludeCitySlug?: string;
+};
+
+export function CampaignListByPrefecture({ prefectureSlug, excludeCitySlug }: Props) {
+  const list = campaigns.filter(
+    (c) => c.prefectureSlug === prefectureSlug && c.citySlug !== excludeCitySlug
+  );
+
+  if (list.length === 0) return null;
+
+  return (
+    <div className="grid gap-6 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+      {list.map((c) => (
+        <Link
+          key={`${c.prefectureSlug}-${c.citySlug}`}
+          href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`}
+          className="block transition-transform hover:scale-[1.02]"
+        >
+          <CampaignCard
+            prefecture={c.prefecture}
+            city={c.city}
+            offer={c.offer}
+            fullpoint={c.fullpoint}
+            startDate={c.startDate}
+            endDate={c.endDate}
+            period={
+              c.startDate && c.endDate
+                ? `${formatJapaneseDate(c.startDate, undefined, { omitYear: true })}〜${formatJapaneseDate(c.endDate, undefined, { omitYear: true })}`
+                : ""
+            }
+          />
+        </Link>
+      ))}
+    </div>
+  );
+}

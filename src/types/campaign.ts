@@ -11,4 +11,5 @@ export type Campaign = {
   fullpay: string;         // 還元対象金額（例: "15000"）
   onepay: string;          // 単回の還元対象金額
   paytime: string;         // 回数（例: "3"）
+  campaigntitle: string;         // 回数（例: "3"）
 };

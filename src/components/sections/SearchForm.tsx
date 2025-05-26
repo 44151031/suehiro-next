@@ -31,7 +31,7 @@ export default function SearchForm() {
     <section className="-mt-6 z-10 relative">
       <div className="max-w-[1200px] mx-auto px-4">
         <div className="bg-white rounded-2xl shadow-xl px-6 py-10 border border-border">
-          <h2 className="text-3xl font-semibold text-muted-foreground text-center mb-8 tracking-tight">
+          <h2 className="text-3xl sm:text-4xl font-extrabold text-neutral-800 text-center mb-8 tracking-tight">
             地域からキャンペーンを探す
           </h2>
 
