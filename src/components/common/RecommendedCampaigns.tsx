@@ -1,8 +1,8 @@
 import Link from "next/link";
 import { campaigns } from "@/lib/campaigns";
 import { prefectures } from "@/lib/prefectures";
-import CampaignCard from "@/components/common/CampaignCard";
-import { formatJapaneseDate } from "@/lib/campaignUtils";
+import { isNowInCampaignPeriod, formatJapaneseDate } from "@/lib/campaignUtils";
+import CampaignLineCard from "@/components/common/CampaignLineCard";
 
 type Props = {
   prefectureSlug: string;
@@ -20,16 +20,15 @@ export function RecommendedCampaigns({ prefectureSlug, citySlug }: Props) {
     const currentPref = prefectures.find((p) => p.slug === prefectureSlug);
     if (currentPref) {
       const distance = (lat1: number, lon1: number, lat2: number, lon2: number) => {
-        const R = 6371; // km
+        const R = 6371;
         const dLat = ((lat2 - lat1) * Math.PI) / 180;
         const dLon = ((lon2 - lon1) * Math.PI) / 180;
         const a =
-          Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+          Math.sin(dLat / 2) ** 2 +
           Math.cos((lat1 * Math.PI) / 180) *
             Math.cos((lat2 * Math.PI) / 180) *
-            Math.sin(dLon / 2) *
-            Math.sin(dLon / 2);
-        return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+            Math.sin(dLon / 2) ** 2;
+        return R * (2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a)));
       };
 
       const nearbyPrefectures = prefectures
@@ -61,32 +60,27 @@ export function RecommendedCampaigns({ prefectureSlug, citySlug }: Props) {
 
   return (
     <section className="mt-16">
-      <h2 className="text-xl font-semibold mb-6 text-gray-900">
+      <h2 className="text-xl sm:text-2xl font-bold text-neutral-800 mb-6 border-l-4 border-brand-primary pl-4">
         おすすめのPayPayキャンペーン
       </h2>
-      <div className="grid gap-4 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+      <ul className="grid grid-cols-1 sm:grid-cols-2 gap-4">
         {recommended.slice(0, 4).map((c) => (
-          <Link
-            key={`${c.prefectureSlug}-${c.citySlug}`}
-            href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`}
-            className="block transition-transform hover:scale-[1.02]"
-          >
-            <CampaignCard
-              prefecture={c.prefecture}
-              city={c.city}
-              offer={c.offer}
-              fullpoint={c.fullpoint}
-              startDate={c.startDate}
-              endDate={c.endDate}
-              period={
-                c.startDate && c.endDate
-                  ? `${formatJapaneseDate(c.startDate, undefined, { omitYear: true })}〜${formatJapaneseDate(c.endDate, undefined, { omitYear: true })}`
-                  : ""
-              }
-            />
-          </Link>
+          <li key={`${c.prefectureSlug}-${c.citySlug}`}>
+            <Link href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`}>
+              <CampaignLineCard
+                prefecture={c.prefecture} // ✅ 都道府県も表示
+                city={c.city}
+                startDate={c.startDate}
+                endDate={c.endDate}
+                offer={c.offer}
+                fullpoint={c.fullpoint}
+                onepoint={c.onepoint}
+                isActive={isNowInCampaignPeriod(c.startDate, c.endDate)}
+              />
+            </Link>
+          </li>
         ))}
-      </div>
+      </ul>
     </section>
   );
 }

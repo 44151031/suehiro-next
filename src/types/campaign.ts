@@ -12,4 +12,5 @@ export type Campaign = {
   onepay: string;          // 単回の還元対象金額
   paytime: string;         // 回数（例: "3"）
   campaigntitle: string;         // 回数（例: "3"）
+  isActive?: boolean;
 };

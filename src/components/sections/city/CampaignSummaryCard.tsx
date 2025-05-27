@@ -1,5 +1,7 @@
 import Image from "next/image";
+import Link from "next/link";
 import { getCampaignImagePath } from "@/lib/campaignUtils";
+import { loadGenres } from "@/lib/loadGenres";
 import type { campaigns } from "@/lib/campaigns";
 
 type Campaign = typeof campaigns[0];
@@ -9,6 +11,8 @@ const formatNumber = (num: number | string) =>
   Number(num).toLocaleString("ja-JP");
 
 export default function CampaignSummaryCard({ campaign }: Props) {
+  const genres = loadGenres(campaign.prefectureSlug, campaign.citySlug);
+
   return (
     <section className="bg-white rounded-2xl shadow-md border border-gray-100 overflow-hidden">
       <div className="flex flex-col md:flex-row">
@@ -24,7 +28,7 @@ export default function CampaignSummaryCard({ campaign }: Props) {
         </div>
 
         {/* 右テキスト */}
-        <div className="flex-1 px-6 py-2.5 sm:px-8 sm:py-3 space-y-3">
+        <div className="flex-1 px-6 py-3 sm:px-8 sm:py-4 space-y-4 relative">
           {/* 概要テキスト */}
           <p className="text-sm text-gray-500 mb-0">
             {campaign.prefecture}{campaign.city}の対象店舗でのPayPay支払いで
@@ -63,6 +67,26 @@ export default function CampaignSummaryCard({ campaign }: Props) {
               <span className="text-red-600 text-lg font-bold">{formatNumber(campaign.fullpoint)}</span> 円分のPayPayポイントが獲得できます。
             </p>
           </div>
+
+          {/* ジャンルバッジ */}
+          {genres.length > 0 && (
+            <div className="mt-2">
+              <p className="text-sm text-gray-600 font-medium mb-2">
+                {campaign.prefecture}{campaign.city}の対象店舗ジャンル
+              </p>
+              <div className="flex flex-wrap gap-2">
+                {genres.map((genre) => (
+                  <a
+                    key={genre}
+                    href={`#genre-${genre}`}
+                    className="text-xs sm:text-sm bg-gray-100 text-gray-800 px-3 py-1 rounded-full border border-gray-300 hover:bg-gray-200 transition"
+                  >
+                    {genre}
+                  </a>
+                ))}
+              </div>
+            </div>
+          )}
         </div>
       </div>
     </section>
