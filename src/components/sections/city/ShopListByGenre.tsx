@@ -1,6 +1,7 @@
 "use client";
 
 import { useRef, useState } from "react";
+import { genrePriority } from "@/lib/shopGenrePriority";
 
 type Shop = {
   name: string;
@@ -53,7 +54,7 @@ export default function ShopListByGenre({ genre, shops }: Props) {
         <div className="text-center mt-4">
           <button
             onClick={toggle}
-            className="inline-block bg-primary text-white text-sm font-semibold rounded-full px-6 py-2 hover:bg-primary/90 transition"
+            className="inline-block bg-primary text-white text-sm font-semibold rounded-full px-6 py-2 hover:bg-primary/90 transition cursor-pointer"
           >
             {expanded ? "閉じる" : "さらに表示する"}
           </button>

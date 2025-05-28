@@ -32,6 +32,16 @@ export default function CityPage({
         {/* サマリーカード */}
         <CampaignSummaryCard campaign={campaign} />
 
+        {/* 全国キャンペーン一覧リンク */}
+        <div className="mt-8 mb-8 text-center">
+          <Link
+            href="/campaigns"
+            className="inline-block bg-brand-primary text-white text-sm sm:text-base font-bold px-6 py-3 rounded-full shadow hover:bg-brand-primary/90 transition"
+          >
+            全国のキャンペーン一覧を見る
+          </Link>
+        </div>
+
         {/* リード文・説明 */}
         <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
           <p>
@@ -73,30 +83,20 @@ export default function CityPage({
           />
         </div>
 
-        {/* 下部リンクエリア */}
-        <div className="mt-16 flex flex-col sm:flex-row sm:justify-between sm:items-center gap-4">
-          <div className="flex flex-col sm:flex-row gap-3">
-            <a
-              href={`/campaigns/${campaign.prefectureSlug}`}
-              className="inline-block bg-white text-primary border border-border rounded-full px-6 py-3 text-sm font-semibold hover:bg-accent/10 transition"
-            >
-              {prefecture}のキャンペーン一覧へ戻る
-            </a>
-            <a
-              href="/"
-              className="inline-block bg-white text-primary border border-border rounded-full px-6 py-3 text-sm font-semibold hover:bg-accent/10 transition"
-            >
-              トップページへ戻る
-            </a>
-          </div>
-
-          {/* 全国キャンペーンへのボタン */}
-          <Link
-            href="/campaigns"
+        {/* 戻るリンク */}
+        <div className="mt-16 flex flex-col sm:flex-row sm:justify-end gap-4">
+          <a
+            href={`/campaigns/${campaign.prefectureSlug}`}
             className="inline-block bg-white text-primary border border-border rounded-full px-6 py-3 text-sm font-semibold hover:bg-accent/10 transition"
           >
-            全国のキャンペーン一覧を見る
-          </Link>
+            {prefecture}のキャンペーン一覧へ戻る
+          </a>
+          <a
+            href="/"
+            className="inline-block bg-white text-primary border border-border rounded-full px-6 py-3 text-sm font-semibold hover:bg-accent/10 transition"
+          >
+            トップページへ戻る
+          </a>
         </div>
       </div>
     </div>
