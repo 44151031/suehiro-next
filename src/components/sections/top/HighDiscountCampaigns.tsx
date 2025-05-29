@@ -5,6 +5,7 @@ import { campaigns } from "@/lib/campaigns";
 import { getHighDiscountCampaigns } from "@/lib/campaignUtils";
 import { useSortedCampaignsByDistance } from "@/hooks/useSortedCampaignsByDistance";
 import ScopedCampaignSlider from "@/components/common/ScopedCampaignSlider";
+import Button from "@/components/ui/Button/Button";
 
 export default function HighDiscountCampaigns() {
   const highDiscounts = getHighDiscountCampaigns(campaigns);
@@ -14,7 +15,7 @@ export default function HighDiscountCampaigns() {
   return (
     <ScopedCampaignSlider
       campaigns={sorted}
-      title="高還元キャンペーン特集（現在地に近い順）"
+      title="高還元キャンペーン特集"
       bgColor="#ffffff"
     />
   );

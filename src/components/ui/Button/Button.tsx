@@ -18,7 +18,7 @@ export default function Button({
   type = "button",
 }: ButtonProps) {
   const baseClass =
-    "inline-block bg-primary text-primary-foreground font-bold text-sm rounded-full px-6 py-2 hover:bg-accent hover:text-accent-foreground transition";
+    "inline-block bg-white text-[#f7931e] border border-[#f7931e] text-base font-bold px-6 py-3 rounded-full shadow hover:bg-[#f7931e] hover:text-white transition-colors";
 
   // hrefがある場合はLink、なければbutton
   if (href) {

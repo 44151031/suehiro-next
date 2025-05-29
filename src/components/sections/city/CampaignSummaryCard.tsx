@@ -14,7 +14,7 @@ export default function CampaignSummaryCard({ campaign }: Props) {
   const genres = loadGenres(campaign.prefectureSlug, campaign.citySlug);
 
   return (
-    <section className="bg-white rounded-2xl shadow-md border border-gray-100 overflow-hidden">
+    <section className="bg-white rounded-t-2xl shadow-md border-t border-l border-r border-gray-100 overflow-hidden">
       <div className="flex flex-col md:flex-row">
         {/* 左画像 */}
         <div className="relative w-full md:w-72 h-48 md:h-auto">
@@ -67,26 +67,6 @@ export default function CampaignSummaryCard({ campaign }: Props) {
               <span className="text-red-600 text-lg font-bold">{formatNumber(campaign.fullpoint)}</span> 円分のPayPayポイントが獲得できます。
             </p>
           </div>
-
-          {/* ジャンルバッジ */}
-          {genres.length > 0 && (
-            <div className="mt-2">
-              <p className="text-sm text-gray-600 font-medium mb-2">
-                {campaign.prefecture}{campaign.city}の対象店舗ジャンル
-              </p>
-              <div className="flex flex-wrap gap-2">
-                {genres.map((genre) => (
-                  <a
-                    key={genre}
-                    href={`#genre-${genre}`}
-                    className="text-xs sm:text-sm bg-gray-100 text-gray-800 px-3 py-1 rounded-full border border-gray-300 hover:bg-gray-200 transition"
-                  >
-                    {genre}
-                  </a>
-                ))}
-              </div>
-            </div>
-          )}
         </div>
       </div>
     </section>

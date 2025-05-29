@@ -10,16 +10,12 @@ type Props = {
   campaigns: Campaign[];
   title: string;
   bgColor?: string;
-  buttonHref?: string;
-  buttonText?: string;
 };
 
 export default function ScopedCampaignSlider({
   campaigns,
   title,
   bgColor = "#ffffff",
-  buttonHref = "/campaigns",
-  buttonText = "PayPay自治体キャンペーンを一覧で確認",
 }: Props) {
   const scrollRef = useRef<HTMLDivElement>(null);
   const [isDragging, setIsDragging] = useState(false);
@@ -48,7 +44,7 @@ export default function ScopedCampaignSlider({
   if (!campaigns || campaigns.length === 0) return null;
 
   return (
-    <section className={`w-full py-10 relative mt-6`} style={{ backgroundColor: bgColor }}>
+    <section className="w-full py-10 relative mt-6" style={{ backgroundColor: bgColor }}>
       <div className="max-w-[1200px] mx-auto px-4 relative z-10">
         <h2 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-center mb-8 text-neutral-800 drop-shadow-sm">
           {title}
@@ -102,15 +98,6 @@ export default function ScopedCampaignSlider({
 
             <div className="shrink-0 w-4 sm:w-6 md:w-8" />
           </div>
-        </div>
-
-        <div className="mt-6 text-center">
-          <Link
-            href={buttonHref}
-            className="inline-block bg-primary text-primary-foreground font-bold text-sm rounded-full px-6 py-2 hover:bg-accent hover:text-accent-foreground transition"
-          >
-            {buttonText}
-          </Link>
         </div>
       </div>
     </section>

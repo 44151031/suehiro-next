@@ -34,7 +34,7 @@ export default function Breadcrumbs() {
   });
 
   return (
-    <nav className="relative z-40 mt-16 bg-white/80 backdrop-blur-md border-b border-gray-200">
+    <nav className="relative z-40 mt-16 bg-[#f8f7f2] backdrop-blur-md">
       <Container>
         <ol className="flex flex-wrap items-center gap-x-1 gap-y-2 text-sm text-gray-700 py-3">
           <li>

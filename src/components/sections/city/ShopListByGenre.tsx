@@ -33,7 +33,7 @@ export default function ShopListByGenre({ genre, shops }: Props) {
       <h2
         ref={headingRef}
         id={`genre-${genre}`}
-        className="scroll-mt-28 text-xl sm:text-2xl font-semibold text-neutral-800 border-l-4 border-primary pl-4"
+        className="scroll-mt-40 text-xl sm:text-2xl font-semibold text-neutral-800 border-l-4 border-primary pl-4"
       >
         {genre}ジャンルの対象店舗
       </h2>

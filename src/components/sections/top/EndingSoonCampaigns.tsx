@@ -19,7 +19,7 @@ export default function EndingSoonCampaigns() {
   return (
     <ScopedCampaignSlider
       campaigns={sorted}
-      title="まもなく終了のキャンペーン（近い順）"
+      title="まもなく終了のキャンペーン"
       bgColor="#eeeeee"
     />
   );
