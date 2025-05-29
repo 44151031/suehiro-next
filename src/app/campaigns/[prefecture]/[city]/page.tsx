@@ -54,7 +54,7 @@ export default function CityPage({
           </h2>
           <p>
             <strong>{prefecture}{city}「{campaign.campaigntitle}」</strong> は、
-            対象店舗でPayPayを利用すると <span className="text-brand-primary font-bold">{offer}％</span> が戻ってくるお得なキャンペーン。
+            対象店舗でPayPayを利用すると <span className="text-brand-primary font-bold">{offer}％</span> が戻ってくるお得なキャンペーンです。
           </p>
         </section>
 

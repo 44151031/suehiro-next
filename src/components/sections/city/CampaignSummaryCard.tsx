@@ -16,8 +16,18 @@ export default function CampaignSummaryCard({ campaign }: Props) {
   return (
     <section className="bg-white rounded-t-2xl shadow-md border-t border-l border-r border-gray-100 overflow-hidden">
       <div className="flex flex-col md:flex-row">
-        {/* 左画像 */}
+        {/* 左画像＋バッジ */}
         <div className="relative w-full md:w-72 h-48 md:h-auto">
+          {/* ✅ 最大〇％戻ってくるバッジ（改行 & 数字強調） */}
+          <div className="absolute inset-0 flex items-center justify-center z-10">
+            <div className="bg-white/90 text-black text-center px-4 py-3 rounded-2xl shadow-2xl leading-tight font-extrabold">
+              <div className="leading-tight">
+                最大 <span className="text-5xl sm:text-7xl font-extrabold text-red-600">{campaign.offer}</span>％
+              </div>
+              <div className="mt-0.5">戻ってくる</div>
+            </div>
+          </div>
+
           <Image
             src={getCampaignImagePath(campaign.prefectureSlug, campaign.citySlug)}
             alt={`${campaign.city}のキャンペーン画像`}
