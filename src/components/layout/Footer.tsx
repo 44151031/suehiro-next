@@ -7,7 +7,7 @@ export default function Footer() {
     <footer className="bg-muted text-muted-foreground py-12 px-4">
       <Container className="flex flex-col items-center gap-6 text-center">
         {/* サイト名 */}
-        <p className="text-lg font-bold text-primary">PayPay自治体キャンペーン特集</p>
+        <p className="text-lg font-bold text-primary">PayPayキャンペーン体験「Pay市」</p>
 
         {/* ナビゲーション */}
         <nav className="flex flex-wrap justify-center gap-4 text-sm font-medium">
@@ -33,7 +33,7 @@ export default function Footer() {
 
         {/* コピーライト */}
         <p className="text-xs text-gray-400 mt-6">
-          &copy; {new Date().getFullYear()} PayPay自治体キャンペーン特集
+          &copy; {new Date().getFullYear()} PayPayキャンペーン特集[pay市]
         </p>
       </Container>
     </footer>

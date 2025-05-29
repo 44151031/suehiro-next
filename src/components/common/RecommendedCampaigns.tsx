@@ -63,7 +63,7 @@ export function RecommendedCampaigns({ prefectureSlug, citySlug }: Props) {
       <h2 className="text-xl sm:text-2xl font-bold text-neutral-800 mb-6 border-l-4 border-brand-primary pl-4">
         おすすめのPayPayキャンペーン
       </h2>
-      <ul className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+      <ul className="grid grid-cols-1 xl:grid-cols-2 gap-4">
         {recommended.slice(0, 4).map((c) => (
           <li key={`${c.prefectureSlug}-${c.citySlug}`}>
             <Link href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`}>
@@ -76,6 +76,7 @@ export function RecommendedCampaigns({ prefectureSlug, citySlug }: Props) {
                 fullpoint={c.fullpoint}
                 onepoint={c.onepoint}
                 isActive={isNowInCampaignPeriod(c.startDate, c.endDate)}
+                showPrefecture={true} // ✅ ここだけ true にする
               />
             </Link>
           </li>

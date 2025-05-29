@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { prefectureGroups } from "@/lib/prefectures";
 import CampaignGroupSection from "@/components/campaign/CampaignGroupSection";
+import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 
 export default function CampaignTopPage() {
   const [showOnlyActive, setShowOnlyActive] = useState(false);
@@ -15,14 +16,14 @@ export default function CampaignTopPage() {
           PayPayキャンペーン都道府県一覧
         </h1>
 
-        {/* ✅ 絞り込みフィルター（右寄せ） */}
+        {/* ✅ 絞り込みフィルター（右寄せ・目立つ表示） */}
         <div className="flex justify-end mb-10">
-          <label className="inline-flex items-center gap-2 text-base text-neutral-800">
+          <label className="inline-flex items-center gap-3 px-4 py-2 bg-[#f7931e] rounded-full shadow text-white text-base font-semibold">
             <input
               type="checkbox"
               checked={showOnlyActive}
               onChange={() => setShowOnlyActive((prev) => !prev)}
-              className="form-checkbox h-5 w-5 rounded border-border text-primary"
+              className="form-checkbox h-5 w-5 rounded border-white text-white bg-white/20 checked:bg-white checked:text-[#f7931e] focus:ring-0"
             />
             開催中だけに絞る
           </label>
@@ -38,6 +39,7 @@ export default function CampaignTopPage() {
             />
           ))}
         </div>
+        <BackNavigationButtons />
       </div>
     </div>
   );

@@ -1,6 +1,6 @@
 "use client";
 
-import { useRef, useState } from "react";
+import { useRef, useState, useEffect } from "react";
 import Link from "next/link";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import CampaignCard from "@/components/common/CampaignCard";
@@ -24,6 +24,7 @@ export default function ScopedCampaignSlider({
 
   const handleMouseDown = (e: React.MouseEvent) => {
     if (!scrollRef.current) return;
+    e.preventDefault(); // ⬅️ URLドラッグ防止
     setIsDragging(true);
     setStartX(e.pageX - scrollRef.current.offsetLeft);
     setScrollLeft(scrollRef.current.scrollLeft);
@@ -36,7 +37,18 @@ export default function ScopedCampaignSlider({
     scrollRef.current.scrollLeft = scrollLeft - walk;
   };
 
-  const handleMouseUp = () => setIsDragging(false);
+  const handleMouseUp = () => {
+    setIsDragging(false);
+  };
+
+  // ✅ ドラッグ解除の補足：ウィンドウ離脱もキャッチ
+  useEffect(() => {
+    window.addEventListener("mouseup", handleMouseUp);
+    return () => {
+      window.removeEventListener("mouseup", handleMouseUp);
+    };
+  }, []);
+
   const scrollByAmount = (amount: number) => {
     scrollRef.current?.scrollBy({ left: amount, behavior: "smooth" });
   };
@@ -70,7 +82,6 @@ export default function ScopedCampaignSlider({
             onMouseDown={handleMouseDown}
             onMouseMove={handleMouseMove}
             onMouseLeave={handleMouseUp}
-            onMouseUp={handleMouseUp}
           >
             <div className="shrink-0 w-4 sm:w-6 md:w-8 snap-start" />
 
@@ -78,6 +89,7 @@ export default function ScopedCampaignSlider({
               <Link
                 key={`${c.prefectureSlug}-${c.citySlug}`}
                 href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`}
+                draggable={false} // ⬅️ ここが重要
                 className="shrink-0 snap-start w-[90%] sm:w-[260px] md:w-[280px] lg:w-[300px] transition-transform hover:scale-[1.02]"
               >
                 <CampaignCard

@@ -48,7 +48,9 @@ export default function Header() {
             href="/"
             className="text-sm sm:text-base md:text-lg font-bold text-gray-800 hover:opacity-80"
           >
-            PayPay自治体クーポン体験「<span className="text-red-500">Pay市</span>（ペイイチ）」
+            PayPayキャンペーン体験
+            <br className="block sm:hidden" />
+            「<span className="text-red-500">Pay市</span>（ペイイチ）」
           </Link>
 
           <div className="flex items-center space-x-4">

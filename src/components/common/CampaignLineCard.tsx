@@ -11,6 +11,7 @@ type Props = {
   onepoint?: string;
   fullpoint?: string;
   isActive?: boolean; // ✅ 開催中ラベル用
+  showPrefecture?: boolean; // ✅ オプションで都道府県表示切り替え
 };
 
 export default function CampaignLineCard({
@@ -22,6 +23,7 @@ export default function CampaignLineCard({
   onepoint,
   fullpoint,
   isActive,
+  showPrefecture = false, // ✅ デフォルトは false（＝非表示）
 }: Props) {
 const start = formatJapaneseDate(startDate, undefined, { omitYear: true });
 const end = formatJapaneseDate(endDate, undefined, { omitYear: true });
@@ -37,11 +39,11 @@ const end = formatJapaneseDate(endDate, undefined, { omitYear: true });
       : "font-semibold text-neutral-900";
 
   return (
-    <div className="w-full bg-white border border-border rounded-xl shadow-sm px-4 py-2 text-sm text-neutral-800">
+    <div className="w-full bg-white border border-border rounded-xl shadow-sm px-4 py-2 text-sm text-neutral-800 transition-transform hover:scale-[1.02]">
       <div className="inline-flex flex-wrap sm:flex-nowrap items-center gap-x-[6px] whitespace-nowrap leading-snug">
         {/* 市区町村 */}
         <span className="font-semibold text-neutral-900">
-          {city}
+          {showPrefecture ? `${prefecture}${city}` : city}
         </span>
 
         {/* 日付 */}

@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { ArrowRight } from "lucide-react"; // ✅ アイコン追加
 import { campaigns } from "@/lib/campaigns";
 import { prefectures } from "@/lib/prefectures";
 import {
@@ -20,7 +21,6 @@ export default function CampaignGroupSection({
 }: Props) {
   const groupPrefectures = prefectures.filter((p) => p.group === groupName);
 
-  // ✅ このエリア内に表示可能なキャンペーンが1件もなければ、セクションごと非表示にする
   const hasVisibleCampaigns = groupPrefectures.some((pref) =>
     campaigns.some(
       (c) =>
@@ -33,7 +33,6 @@ export default function CampaignGroupSection({
 
   return (
     <section className="mb-16">
-      {/* エリア見出し */}
       <h2 className="text-lg sm:text-xl font-bold text-neutral-800 border-l-4 border-neutral-800 pl-3 mb-4">
         {groupName}
       </h2>
@@ -53,9 +52,13 @@ export default function CampaignGroupSection({
 
           return (
             <div key={pref.slug} className="space-y-3">
-              <h3 className="text-base font-semibold text-neutral-700 mb-1">
-                {pref.name}
-              </h3>
+              <Link
+                href={`/campaigns/${pref.slug}`}
+                className="inline-flex items-center gap-1 text-base font-semibold text-neutral-700 mb-2 hover:underline hover:text-brand-primary transition-colors"
+              >
+                <span>{pref.name}</span>
+                <ArrowRight className="w-4 h-4" />
+              </Link>
 
               {filtered.map((c) => (
                 <Link

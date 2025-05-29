@@ -3,6 +3,7 @@ import { campaigns } from "@/lib/campaigns";
 import Link from "next/link";
 import { formatJapaneseDate, isNowInCampaignPeriod } from "@/lib/campaignUtils";
 import { CampaignListByPrefecture } from "@/components/common/CampaignListByPrefecture";
+import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 
 export default function PrefecturePage({
   params,
@@ -27,31 +28,17 @@ export default function PrefecturePage({
           <p className="text-base sm:text-lg text-neutral-700 leading-snug">
             <span className="text-[17px] sm:text-xl font-semibold">
               {prefectureName}では、現在{" "}
-              <span className="text-green-700 font-bold">{active.length}件</span> のキャンペーンが開催中です。
+              <span className="text-orange-600 font-bold">{active.length}件</span> のキャンペーンが開催中です。
             </span>
             <span className="ml-1 text-[17px] sm:text-xl font-semibold">
-              <span className="text-orange-600 font-bold">{upcoming}件</span> は開催予定となっています。
+              <span className="text-green-700 font-bold">{upcoming}件</span> は開催予定となっています。
             </span>
           </p>
-
-          <Link
-            href="/campaigns"
-            className="inline-block bg-white text-primary border border-border rounded-full px-5 py-2 text-sm font-semibold hover:bg-accent/10 transition whitespace-nowrap"
-          >
-            全国のキャンペーン一覧へ
-          </Link>
         </div>
 
         <CampaignListByPrefecture prefectureSlug={params.prefecture} />
 
-        <div className="mt-12 flex justify-end">
-          <Link
-            href="/"
-            className="inline-block bg-white text-primary border border-border rounded-full px-5 py-2 text-sm font-semibold hover:bg-accent/10 transition"
-          >
-            トップページへ戻る
-          </Link>
-        </div>
+        <BackNavigationButtons />
       </div>
     </div>
   );

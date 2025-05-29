@@ -22,40 +22,15 @@ export function PrefectureSelector() {
   const [selectedGroup, setSelectedGroup] = useState<string | null>(null);
 
   const sortedCampaigns = useSortedCampaignsByDistance(campaigns);
-  const segments = pathname.split("/").filter(Boolean);
-  const [prefSlug, citySlug] =
-    segments[0] === "campaigns" && segments.length >= 3
-      ? [segments[1], segments[2]]
-      : [null, null];
-
-  const campaignFromSlug =
-    prefSlug && citySlug
-      ? campaigns.find(
-          (c) =>
-            c.prefectureSlug === prefSlug &&
-            c.citySlug === citySlug &&
-            isCampaignActive(c.endDate)
-        )
-      : null;
 
   const fallbackCampaign =
     sortedCampaigns?.find((c) => isCampaignActive(c.endDate)) || null;
 
-  const isOnCityPage = Boolean(campaignFromSlug);
+  const isOnTopPage = pathname === "/";
 
-  // 表示名
-  let displayName = "都道府県を選択してください";
-  let linkHref: string | null = null;
-  let onClick: () => void = () => setOpen(true);
-
-  if (isOnCityPage && campaignFromSlug) {
-    displayName = `${campaignFromSlug.prefecture}${campaignFromSlug.city} PayPay対象店舗`;
-    onClick = () => setOpen(true);
-  } else if (fallbackCampaign) {
-    displayName = `${fallbackCampaign.prefecture} PayPay対象店舗はこちら`;
-    linkHref = `/campaigns/${fallbackCampaign.prefectureSlug}`;
-    onClick = () => router.push(linkHref!);
-  }
+  const displayName = isOnTopPage && fallbackCampaign
+    ? `${fallbackCampaign.prefecture} のキャンペーンはこちら`
+    : "都道府県を選択してください";
 
   const activePrefectureSlugToCount = campaigns.reduce<Record<string, number>>((acc, c) => {
     if (isCampaignActive(c.endDate)) {
@@ -74,6 +49,21 @@ export function PrefectureSelector() {
     ? prefectures.filter((p) => p.group === selectedGroup)
     : [];
 
+  // ✅ トップページならそのまま遷移、それ以外はモーダル
+  if (isOnTopPage && fallbackCampaign) {
+    return (
+      <Button
+        variant="outline"
+        className="rounded-full text-xs sm:text-sm"
+        onClick={() =>
+          router.push(`/campaigns/${fallbackCampaign.prefectureSlug}`)
+        }
+      >
+        {displayName}
+      </Button>
+    );
+  }
+
   return (
     <Dialog
       open={open}
@@ -86,7 +76,7 @@ export function PrefectureSelector() {
         <Button
           variant="outline"
           className="rounded-full text-xs sm:text-sm"
-          onClick={onClick}
+          onClick={() => setOpen(true)}
         >
           {displayName}
         </Button>

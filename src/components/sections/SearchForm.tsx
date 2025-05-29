@@ -36,20 +36,20 @@ export default function SearchForm() {
           </h2>
 
           <div className="flex flex-col sm:flex-row sm:items-center sm:justify-center gap-4">
-            <div className="flex w-full max-w-xl rounded-full border bg-white shadow-md focus-within:ring-2 focus-within:ring-primary transition">
+            <div className="flex w-full max-w-xl rounded-full border bg-white shadow-md focus-within:ring-2 focus-within:ring-orange-400 transition">
               <Input
                 type="text"
                 placeholder="市区町村や都道府県名を入力"
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 onKeyDown={handleKeyDown}
-                className="flex-1 rounded-full border-0 bg-transparent px-6 py-4 text-base focus-visible:ring-0"
+                className="flex-1 h-14 rounded-full border-0 bg-transparent px-6 py-5 text-lg placeholder-gray-400 focus-visible:ring-0"
               />
               <Button
                 onClick={handleSearch}
-                className="rounded-full rounded-l-none px-6 py-4 text-sm font-semibold bg-primary text-primary-foreground hover:bg-primary/90 transition"
+                className="h-14 rounded-full rounded-l-none px-6 text-base font-semibold bg-primary text-primary-foreground hover:bg-primary/90 transition"
               >
-                <Search className="mr-2 h-4 w-4" />
+                <Search className="mr-2 w-5 h-5" />
                 検索
               </Button>
             </div>

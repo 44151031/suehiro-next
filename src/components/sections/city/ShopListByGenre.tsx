@@ -1,7 +1,7 @@
+// /components/sections/city/ShopListByGenre.tsx
 "use client";
 
 import { useRef, useState } from "react";
-import { genrePriority } from "@/lib/shopGenrePriority";
 
 type Shop = {
   name: string;
@@ -17,15 +17,15 @@ export default function ShopListByGenre({ genre, shops }: Props) {
   const [expanded, setExpanded] = useState(false);
   const headingRef = useRef<HTMLHeadingElement>(null);
 
-  const threshold = 3;
+  const threshold = 6;
   const showToggle = shops.length > threshold;
   const visibleShops = expanded ? shops : shops.slice(0, threshold);
 
-  const toggle = () => {
+  const toggleExpanded = () => {
     if (expanded && headingRef.current) {
       headingRef.current.scrollIntoView({ behavior: "smooth", block: "start" });
     }
-    setExpanded(!expanded);
+    setExpanded((prev) => !prev);
   };
 
   return (
@@ -38,27 +38,35 @@ export default function ShopListByGenre({ genre, shops }: Props) {
         {genre}ジャンルの対象店舗
       </h2>
 
-      <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 text-sm">
-        {visibleShops.map((shop, idx) => (
-          <li
-            key={idx}
-            className="bg-white border border-gray-200 rounded-lg shadow-sm px-4 py-3"
-          >
-            <p className="font-semibold text-gray-900">{shop.name}</p>
-            <p className="text-gray-600 text-sm">{shop.address}</p>
-          </li>
-        ))}
-      </ul>
+      {shops.length === 0 ? (
+        <p className="text-gray-600 text-sm">
+          公表されましたらこのページで紹介いたします。
+        </p>
+      ) : (
+        <>
+          <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 text-sm">
+            {visibleShops.map((shop, idx) => (
+              <li
+                key={idx}
+                className="bg-white border border-gray-200 rounded-lg shadow-sm px-4 py-3"
+              >
+                <p className="font-semibold text-gray-900">{shop.name}</p>
+                <p className="text-gray-600 text-sm">{shop.address}</p>
+              </li>
+            ))}
+          </ul>
 
-      {showToggle && (
-        <div className="text-center mt-4">
-          <button
-            onClick={toggle}
-            className="inline-block bg-primary text-white text-sm font-semibold rounded-full px-6 py-2 hover:bg-primary/90 transition cursor-pointer"
-          >
-            {expanded ? "閉じる" : "さらに表示する"}
-          </button>
-        </div>
+          {showToggle && (
+            <div className="text-center mt-4">
+              <button
+                onClick={toggleExpanded}
+                className="inline-block bg-primary text-white text-sm font-semibold rounded-full px-6 py-2 hover:bg-primary/90 transition cursor-pointer"
+              >
+                {expanded ? "閉じる" : "さらに表示する"}
+              </button>
+            </div>
+          )}
+        </>
       )}
     </section>
   );
