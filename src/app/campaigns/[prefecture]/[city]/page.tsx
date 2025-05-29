@@ -34,7 +34,7 @@ export default function CityPage({
   return (
     <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
       <main className="max-w-[1200px] mx-auto px-4 py-10">
-        <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-neutral-800 mb-6 border-l-4 border-brand-primary pl-4">
+        <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-neutral-800 mb-6">
           {city}のPayPay{offer}%還元キャンペーン
         </h1>
 
