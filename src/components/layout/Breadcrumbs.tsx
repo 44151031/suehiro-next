@@ -1,6 +1,6 @@
 'use client';
 
-import { usePathname, useSearchParams } from "next/navigation";
+import { usePathname } from "next/navigation";
 import Link from "next/link";
 import { breadcrumbLabels } from "@/lib/breadcrumbLabels";
 import { campaigns } from "@/lib/campaigns";
@@ -8,13 +8,11 @@ import Container from "@/components/layout/Container";
 
 export default function Breadcrumbs() {
   const path = usePathname();
-  const searchParams = useSearchParams();
   const segments = path.split("/").filter(Boolean);
 
   if (segments.length === 0) return null;
 
   const isSearchPage = path.startsWith("/campaigns/search");
-  const queryKeyword = searchParams.get("q");
 
   const crumbs = segments.map((seg, i) => {
     const href = "/" + segments.slice(0, i + 1).join("/");
@@ -44,7 +42,7 @@ export default function Breadcrumbs() {
             <span className="mx-1 text-gray-400">/</span>
           </li>
 
-          {isSearchPage && queryKeyword ? (
+          {isSearchPage ? (
             <>
               <li>
                 <Link href="/campaigns" className="text-blue-600 hover:underline">
@@ -53,7 +51,7 @@ export default function Breadcrumbs() {
                 <span className="mx-1 text-gray-400">/</span>
               </li>
               <li className="text-gray-800 font-medium">
-                「{decodeURIComponent(queryKeyword)}」の検索結果
+                検索結果
               </li>
             </>
           ) : (
