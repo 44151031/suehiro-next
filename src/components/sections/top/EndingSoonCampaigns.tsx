@@ -5,7 +5,7 @@ import { isEndingSoon } from "@/lib/campaignUtils";
 import { useSortedCampaignsByDistance } from "@/hooks/useSortedCampaignsByDistance";
 import type { Campaign } from "@/types/campaign";
 import ScopedCampaignSlider from "@/components/common/CampaignSlider";
-import Button from "@/components/ui/button/Button";
+import Button from "@/components/ui/tmp/tmp";
 
 export default function EndingSoonCampaigns() {
   // まもなく終了するキャンペーンを抽出
