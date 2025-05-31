@@ -16,9 +16,9 @@ import ShopListGroup from "@/components/sections/city/ShopListGroupSortByGenrePr
 export default function CityPaytypePage({
   params,
 }: {
-  params: { prefecture: string; city: string; paytype: string };
+  params: { prefecture: string; city: string; pay: string };
 }) {
-  const paytypeId = SlugToPayTypeId[params.paytype];
+  const paytypeId = SlugToPayTypeId[params.pay];
   if (!paytypeId) return notFound();
 
   const campaign = campaigns.find(

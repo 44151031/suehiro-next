@@ -2,8 +2,9 @@
 
 import Link from "next/link";
 import CampaignCard from "@/components/common/CampaignCard";
-import { campaigns } from "@/lib/campaigns";
+import { campaigns } from "@/lib/campaignMaster";
 import { formatJapaneseDate } from "@/lib/campaignUtils";
+import { PayTypeSlugMap } from "@/lib/payType"; // ✅ スラッグマップをインポート
 
 type Props = {
   prefectureSlug: string;
@@ -21,8 +22,8 @@ export function CampaignListByPrefecture({ prefectureSlug, excludeCitySlug }: Pr
     <div className="grid gap-6 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
       {list.map((c) => (
         <Link
-          key={`${c.prefectureSlug}-${c.citySlug}`}
-          href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`}
+          key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}
+          href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${PayTypeSlugMap[c.paytype]}`} // ✅ paytypeを含めたURL
           className="block transition-transform hover:scale-[1.02]"
         >
           <CampaignCard
@@ -37,7 +38,7 @@ export function CampaignListByPrefecture({ prefectureSlug, excludeCitySlug }: Pr
                 ? `${formatJapaneseDate(c.startDate, undefined, { omitYear: true })}〜${formatJapaneseDate(c.endDate, undefined, { omitYear: true })}`
                 : ""
             }
-            paytype={c.paytype} // ✅ 追加！
+            paytype={c.paytype}
           />
         </Link>
       ))}

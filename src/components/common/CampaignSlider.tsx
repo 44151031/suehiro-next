@@ -1,4 +1,4 @@
-//components/common/CampaignSlider.tsx
+// ✅ /components/common/CampaignSlider.tsx
 
 "use client";
 
@@ -7,6 +7,7 @@ import Link from "next/link";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import CampaignCard from "@/components/common/CampaignCard";
 import type { Campaign } from "@/types/campaign";
+import { PayTypeSlugMap } from "@/lib/payType"; // ✅ 追加
 
 type Props = {
   campaigns: Campaign[];
@@ -26,7 +27,7 @@ export default function ScopedCampaignSlider({
 
   const handleMouseDown = (e: React.MouseEvent) => {
     if (!scrollRef.current) return;
-    e.preventDefault(); // ⬅️ URLドラッグ防止
+    e.preventDefault();
     setIsDragging(true);
     setStartX(e.pageX - scrollRef.current.offsetLeft);
     setScrollLeft(scrollRef.current.scrollLeft);
@@ -43,7 +44,6 @@ export default function ScopedCampaignSlider({
     setIsDragging(false);
   };
 
-  // ✅ ドラッグ解除の補足：ウィンドウ離脱もキャッチ
   useEffect(() => {
     window.addEventListener("mouseup", handleMouseUp);
     return () => {
@@ -89,9 +89,9 @@ export default function ScopedCampaignSlider({
 
             {campaigns.map((c) => (
               <Link
-                key={`${c.prefectureSlug}-${c.citySlug}`}
-                href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`}
-                draggable={false} // ⬅️ ここが重要
+                key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`} // paytypeもkeyに含めてユニーク性強化
+                href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${PayTypeSlugMap[c.paytype]}`} // ✅ 修正箇所
+                draggable={false}
                 className="shrink-0 snap-start w-[90%] sm:w-[260px] md:w-[280px] lg:w-[300px] transition-transform hover:scale-[1.02]"
               >
                 <CampaignCard
@@ -106,7 +106,7 @@ export default function ScopedCampaignSlider({
                       ? `${new Date(c.startDate).getMonth() + 1}月${new Date(c.startDate).getDate()}日〜${new Date(c.endDate).getMonth() + 1}月${new Date(c.endDate).getDate()}日`
                       : ""
                   }
-                  paytype={c.paytype} // ✅ 追加！
+                  paytype={c.paytype}
                 />
               </Link>
             ))}
