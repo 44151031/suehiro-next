@@ -1,6 +1,6 @@
 // /components/sections/city/ShopListGroupSortByGenrePriority.tsx
 
-import ShopListByGenre from "./ShopListByGenre";
+import ShopListByGenre from "./GroupedShopListByGenre";
 import { sortGenresByPriority } from "@/lib/genreSortPriority";
 
 type Shop = {

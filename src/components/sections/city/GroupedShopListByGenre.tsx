@@ -1,4 +1,4 @@
-// /components/sections/city/ShopListByGenre.tsx
+// /components/sections/city/GroupedShopListByGenre.tsx
 "use client";
 
 import { useRef, useState } from "react";
