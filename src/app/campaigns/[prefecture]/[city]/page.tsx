@@ -60,7 +60,7 @@ export default function CityPage({
           {city}の{payLabel}{offer}%還元キャンペーン
         </h1>
 
-        <CampaignSummaryCard campaign={{ ...campaign, onepay, fullpay, paytime }} />
+        <CampaignSummaryCard campaign={campaign} />
 
         <GenreHeaderNav genres={genres} />
 
@@ -86,11 +86,11 @@ export default function CityPage({
         </section>
 
         <div className="mt-10">
-          <CampaignOverviewTable campaign={{ ...campaign, onepay, fullpay, paytime }} />
+          <CampaignOverviewTable campaign={campaign} />
         </div>
 
         <div className="mt-10">
-          <CampaignNotice campaign={{ ...campaign, onepay, fullpay, paytime }} />
+          <CampaignNotice campaign={campaign} />
         </div>
 
         <h2 className="text-2xl font-bold text-gray-900 border-b border-gray-300 pb-1 mt-12">
