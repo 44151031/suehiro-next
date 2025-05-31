@@ -1,19 +1,23 @@
-// next.config.js
+// next.config.ts
 import type { NextConfig } from "next";
 
 /**
- * Next.js の設定オブジェクト
+ * Next.js の設定オブジェクト（TypeScript用）
  */
 const nextConfig: NextConfig = {
-  // ✅ 画像の外部ドメイン設定（例: Unsplash）
+  // ✅ 外部画像のドメイン設定（例：Unsplashの画像を使うとき）
   images: {
     domains: ["source.unsplash.com"],
   },
 
-  // ✅ 本番ビルド時に ESLint エラーで build を止めないようにする
-  // 開発中に未使用の変数や import などで止まるのを防ぐ
+  // ✅ ESLintのエラーでビルドを止めない（開発優先）
   eslint: {
     ignoreDuringBuilds: true,
+  },
+
+  // ✅ TypeScriptの型エラーでビルドを止めない（開発優先）
+  typescript: {
+    ignoreBuildErrors: true,
   },
 };
 

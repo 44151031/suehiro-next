@@ -1,27 +1,63 @@
 {
   "compilerOptions": {
+    // 変換対象のJavaScriptバージョン（ES2017以降の機能を使える）
     "target": "ES2017",
+
+    // 使用するライブラリ（DOM操作やESNextの構文）
     "lib": ["dom", "dom.iterable", "esnext"],
+
+    // JSファイルも許容（必要な場合のみ true）
     "allowJs": true,
+
+    // ✅ ライブラリの型チェックをスキップ（ビルド高速化）
     "skipLibCheck": true,
+
+    // 型安全を強くチェック（ただし ignoreBuildErrors があるのでビルドは止まらない）
     "strict": true,
+
+    // ✅ 実際にコードを出力しない（Next.jsでは通常 true）
     "noEmit": true,
+
+    // ESModule互換のimport/exportを許容
     "esModuleInterop": true,
+
+    // モジュール解決方式
     "module": "esnext",
     "moduleResolution": "bundler",
+
+    // JSONもインポート可能にする
     "resolveJsonModule": true,
+
+    // 各ファイルを個別にトランスパイル（Next.js推奨）
     "isolatedModules": true,
+
+    // JSXの構文を残したまま（Next.jsが処理するため）
     "jsx": "preserve",
+
+    // 増分ビルド（変更点だけコンパイル）
     "incremental": true,
+
+    // Next.js の補助プラグイン
     "plugins": [
       {
         "name": "next"
       }
     ],
+
+    // ✅ エイリアス（@/components などを使うための設定）
     "paths": {
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+
+  // ✅ コンパイル対象のファイルを指定
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts"
+  ],
+
+  // node_modules は除外
   "exclude": ["node_modules"]
 }
