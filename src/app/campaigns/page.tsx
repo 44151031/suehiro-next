@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { prefectureGroups } from "@/lib/prefectures";
-import CampaignGroupSection from "@/components/campaign/CampaignGroupSection";
+import CampaignGroupSection from "@/components/sections/campaign/RegionCampaignSection";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 
 export default function CampaignTopPage() {

@@ -10,7 +10,7 @@ import {
   Mail,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
-import { PrefectureSelector } from "@/components/common/PrefectureSelector";
+import { PrefectureSelector } from "@/components/ui/selectors/RegionPrefectureSelector";
 import Container from "@/components/layout/Container";
 import {
   Sheet,

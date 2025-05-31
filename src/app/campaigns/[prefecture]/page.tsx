@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import { campaigns } from "@/lib/campaigns";
 import Link from "next/link";
 import { formatJapaneseDate, isNowInCampaignPeriod } from "@/lib/campaignUtils";
-import { CampaignListByPrefecture } from "@/components/common/CampaignListByPrefecture.tsx";
+import { CampaignListByPrefecture } from "@/components/common/CampaignListByPrefecture";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 
 export default function PrefecturePage({

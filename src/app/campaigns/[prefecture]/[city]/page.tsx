@@ -9,7 +9,7 @@ import { formatJapaneseDate } from "@/lib/campaignUtils";
 import { CampaignOverviewTable } from "@/components/sections/city/CampaignOverviewTable";
 import CampaignNotice from "@/components/sections/city/CampaignNotice";
 import CampaignSummaryCard from "@/components/sections/city/CampaignSummaryCard";
-import { RecommendedCampaigns } from "@/components/common/RecommendedCampaigns";
+import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCampaigns";
 import GenreHeaderNav from "@/components/sections/city/GenreHeaderNav";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import ShopListGroup from "@/components/sections/city/ShopListGroupSortByGenrePriority";

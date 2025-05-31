@@ -1,3 +1,11 @@
+/**
+ * RecommendedCampaigns.tsx
+ *
+ * 現在表示中の市区町村以外でおすすめのPayPayキャンペーンを最大4件表示するセクション。
+ * 同一都道府県内の他キャンペーンを優先し、足りない場合は近隣都道府県のキャンペーンを距離順に補完。
+ *
+ * 使用例：/campaigns/[prefecture]/[city] ページの下部
+ */
 import Link from "next/link";
 import { campaigns } from "@/lib/campaigns";
 import { prefectures } from "@/lib/prefectures";

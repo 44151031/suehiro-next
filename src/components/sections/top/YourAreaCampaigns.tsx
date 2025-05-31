@@ -4,8 +4,8 @@
 import { campaigns } from "@/lib/campaigns";
 import { isCampaignActive } from "@/lib/campaignUtils";
 import { useSortedCampaignsByDistance } from "@/hooks/useSortedCampaignsByDistance";
-import ScopedCampaignSlider from "@/components/common/ScopedCampaignSlider";
-import Button from "@/components/ui/Button/Button";
+import ScopedCampaignSlider from "@/components/common/CampaignSlider";
+import Button from "@/components/ui/button/Button";
 
 export default function AreaCampaignSlider() {
   const activeCampaigns = campaigns.filter((c) => isCampaignActive(c.endDate));
@@ -16,7 +16,7 @@ export default function AreaCampaignSlider() {
     <>
       <ScopedCampaignSlider
         campaigns={sorted}
-        title="あなたのエリアのキャンペーン一覧"
+        title="あなたのエリアのキャンペーン"
         bgColor="#f6f6f6"
       />
       {/* ✅ 一覧ページへのボタン */}

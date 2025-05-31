@@ -4,7 +4,8 @@ import { campaigns } from "@/lib/campaigns";
 import { isEndingSoon } from "@/lib/campaignUtils";
 import { useSortedCampaignsByDistance } from "@/hooks/useSortedCampaignsByDistance";
 import type { Campaign } from "@/types/campaign";
-import ScopedCampaignSlider from "@/components/common/ScopedCampaignSlider";
+import ScopedCampaignSlider from "@/components/common/CampaignSlider";
+import Button from "@/components/ui/button/Button";
 
 export default function EndingSoonCampaigns() {
   // まもなく終了するキャンペーンを抽出
@@ -17,10 +18,16 @@ export default function EndingSoonCampaigns() {
   if (!sorted || sorted.length === 0) return null;
 
   return (
-    <ScopedCampaignSlider
-      campaigns={sorted}
-      title="まもなく終了のキャンペーン"
-      bgColor="#eeeeee"
-    />
+    <>
+      <ScopedCampaignSlider
+        campaigns={sorted}
+        title="まもなく終了のキャンペーン"
+        bgColor="#eeeeee"
+      />
+      {/* ✅ 一覧ページへのボタン */}
+      <div className="pb-6 text-center" style={{ backgroundColor: "#eeeeee" }}>
+        <Button href="/campaigns">全国の自治体キャンペーン一覧</Button>
+      </div>
+    </>
   );
 }
