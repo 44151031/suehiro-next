@@ -48,9 +48,9 @@ export default function Header() {
             href="/"
             className="text-sm sm:text-base md:text-lg font-bold text-gray-800 hover:opacity-80"
           >
-            PayPayキャンペーン体験
+            PayPay・auPay・楽天pay・d払い市区町村キャンペーン体験
             <br className="block sm:hidden" />
-            「<span className="text-red-500">Pay市</span>（ペイイチ）」
+            「<span className="text-red-500">キャンPay</span>(キャンペイ)」
           </Link>
 
           <div className="flex items-center space-x-4">

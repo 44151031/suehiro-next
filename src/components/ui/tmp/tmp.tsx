@@ -1,4 +1,4 @@
-// src/components/ui/button/Button.tsx
+// src/components/ui/Button/Button.tsx
 import Link from "next/link";
 import React from "react";
 

@@ -5,7 +5,7 @@ import { campaigns } from "@/lib/campaigns";
 import { isCampaignActive } from "@/lib/campaignUtils";
 import { useSortedCampaignsByDistance } from "@/hooks/useSortedCampaignsByDistance";
 import ScopedCampaignSlider from "@/components/common/CampaignSlider";
-import Button from "@/components/ui/button/Button";
+import Button from "@/components/ui/tmp/tmp";
 
 export default function AreaCampaignSlider() {
   const activeCampaigns = campaigns.filter((c) => isCampaignActive(c.endDate));
