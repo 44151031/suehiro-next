@@ -4,7 +4,7 @@ import "keen-slider/keen-slider.min.css";
 import { useKeenSlider } from "keen-slider/react";
 import Image from "next/image";
 import Link from "next/link";
-import Button from "@/components/ui/tmp/tmp";
+import { Button } from "@/components/ui/button";
 import { useEffect, useState } from "react";
 import { campaigns } from "@/lib/campaigns";
 
