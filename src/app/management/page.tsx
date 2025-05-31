@@ -1,4 +1,4 @@
-// ✅ /app/admin/page.tsx
+// ✅ /app/management/page.tsx
 
 import Container from "@/components/layout/Container";
 

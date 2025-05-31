@@ -22,3 +22,8 @@ export type CampaignWithCalc = Campaign & {
   // 例:
   // estimatedReturn: number;
 };
+
+export type MetadataContext = {
+  prefecture?: string;
+  city?: string;
+};

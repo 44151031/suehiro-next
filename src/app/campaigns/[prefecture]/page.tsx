@@ -1,10 +1,20 @@
 import { notFound } from "next/navigation";
+import { Metadata } from "next";
 import { campaigns } from "@/lib/campaignMaster";
 import Link from "next/link";
 import { formatJapaneseDate, isNowInCampaignPeriod } from "@/lib/campaignUtils";
 import { CampaignListByPrefecture } from "@/components/common/CampaignListByPrefecture";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
-import CampaignTotalPointSummary from "@/components/common/CampaignTotalPointSummary"; // ✅ 追加
+import CampaignTotalPointSummary from "@/components/common/CampaignTotalPointSummary";
+import { getPrefectureMetadata } from "@/lib/metadataGenerators";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: { prefecture: string };
+}): Promise<Metadata> {
+  return getPrefectureMetadata(params.prefecture);
+}
 
 export default function PrefecturePage({
   params,
@@ -21,10 +31,12 @@ export default function PrefecturePage({
   return (
     <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
       <div className="max-w-[1200px] mx-auto px-4 py-10">
+        {/* タイトル */}
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-neutral-800 mb-6">
           {prefectureName}のキャッシュレスキャンペーン一覧
         </h1>
 
+        {/* 概要文 */}
         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
           <p className="text-base sm:text-lg text-neutral-700 leading-snug">
             <span className="text-[17px] sm:text-xl font-semibold">
@@ -37,14 +49,13 @@ export default function PrefecturePage({
           </p>
         </div>
 
-        {/* ✅ 目立たせたポイント合計表示 */}
-        <CampaignTotalPointSummary
-          campaigns={list}
-          areaLabel={prefectureName}
-        />
+        {/* 合計ポイント */}
+        <CampaignTotalPointSummary campaigns={list} areaLabel={prefectureName} />
 
+        {/* 一覧 */}
         <CampaignListByPrefecture prefectureSlug={params.prefecture} />
 
+        {/* 戻る */}
         <BackNavigationButtons prefectureSlug={params.prefecture} prefecture={prefectureName} />
       </div>
     </div>

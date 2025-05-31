@@ -1,9 +1,10 @@
 import { notFound } from "next/navigation";
+import { Metadata } from "next";
 import { campaigns } from "@/lib/campaignMaster";
+import { SlugToPayTypeId, PayTypeLabels } from "@/lib/payType";
+import { formatJapaneseDate } from "@/lib/campaignUtils";
 import { loadShopList } from "@/lib/loadShopList";
 import { loadGenres } from "@/lib/loadGenres";
-import { formatJapaneseDate } from "@/lib/campaignUtils";
-import { PayTypeLabels, SlugToPayTypeId } from "@/lib/payType";
 
 import { CampaignOverviewTable } from "@/components/sections/city/CampaignOverviewTable";
 import CampaignNotice from "@/components/sections/city/CampaignNotice";
@@ -13,6 +14,32 @@ import GenreHeaderNav from "@/components/sections/city/GenreHeaderNav";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import ShopListGroup from "@/components/sections/city/ShopListGroupSortByGenrePriority";
 
+// ✅ 追加：動的タイトル・description生成
+export async function generateMetadata({
+  params,
+}: {
+  params: { prefecture: string; city: string; pay: string };
+}): Promise<Metadata> {
+  const paytypeId = SlugToPayTypeId[params.pay];
+  const campaign = campaigns.find(
+    (c) =>
+      c.prefectureSlug === params.prefecture &&
+      c.citySlug === params.city &&
+      c.paytype === paytypeId
+  );
+
+  if (!campaign) return { title: "キャンペーン情報 - Payキャン" };
+
+  const { city, paytype, offer } = campaign;
+  const payLabel = PayTypeLabels[paytype];
+
+  return {
+    title: `${city}の${payLabel}${offer}%還元キャンペーン情報 - Payキャン`,
+    description: `${city}で実施されている${payLabel}の${offer}%還元キャンペーンの詳細を紹介します。期間・付与上限・対象店舗情報なども網羅。`,
+  };
+}
+
+// ✅ ページ本体（変更なし）
 export default function CityPaytypePage({
   params,
 }: {
@@ -53,13 +80,9 @@ export default function CityPaytypePage({
           {city}の{payLabel}{offer}%還元キャンペーン
         </h1>
 
-        {/* 概要カード（計算処理は内部で実施） */}
         <CampaignSummaryCard campaign={campaign} />
-
-        {/* ジャンルリンク */}
         <GenreHeaderNav genres={genres} />
 
-        {/* 説明 */}
         <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
           <p>
             <span className="font-semibold">{prefecture}{city}</span>で
@@ -81,17 +104,14 @@ export default function CityPaytypePage({
           </p>
         </section>
 
-        {/* 概要テーブル */}
         <div className="mt-10">
           <CampaignOverviewTable campaign={campaign} />
         </div>
 
-        {/* 注意事項 */}
         <div className="mt-10">
           <CampaignNotice campaign={campaign} />
         </div>
 
-        {/* 対象店舗 */}
         <h2 className="text-2xl font-bold text-gray-900 border-b border-gray-300 pb-1 mt-12">
           {city}の{offer}%還元キャンペーン対象店舗
         </h2>
@@ -105,7 +125,6 @@ export default function CityPaytypePage({
           <ShopListGroup shopList={shopList} />
         )}
 
-        {/* 他キャンペーン */}
         <div className="mt-20">
           <RecommendedCampaigns
             prefectureSlug={prefectureSlug}
@@ -113,7 +132,6 @@ export default function CityPaytypePage({
           />
         </div>
 
-        {/* 戻るボタン */}
         <BackNavigationButtons
           prefecture={prefecture}
           prefectureSlug={prefectureSlug}
