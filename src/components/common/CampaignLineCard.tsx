@@ -1,6 +1,7 @@
 "use client";
 
 import { formatJapaneseDate } from "@/lib/campaignUtils";
+import { PayTypeId, PayTypeBadgeMap } from "@/lib/payType";
 
 type Props = {
   prefecture: string;
@@ -10,8 +11,9 @@ type Props = {
   endDate: string;
   onepoint?: string;
   fullpoint?: string;
-  isActive?: boolean; // ✅ 開催中ラベル用
-  showPrefecture?: boolean; // ✅ オプションで都道府県表示切り替え
+  isActive?: boolean;
+  showPrefecture?: boolean;
+  paytype: PayTypeId;
 };
 
 export default function CampaignLineCard({
@@ -23,20 +25,21 @@ export default function CampaignLineCard({
   onepoint,
   fullpoint,
   isActive,
-  showPrefecture = false, // ✅ デフォルトは false（＝非表示）
+  showPrefecture = false,
+  paytype,
 }: Props) {
-const start = formatJapaneseDate(startDate, undefined, { omitYear: true });
-const end = formatJapaneseDate(endDate, undefined, { omitYear: true });
+  const start = formatJapaneseDate(startDate, undefined, { omitYear: true });
+  const end = formatJapaneseDate(endDate, undefined, { omitYear: true });
 
-  // 数値変換
   const onePt = Number(onepoint);
   const fullPt = Number(fullpoint);
 
-  // 1万以上で赤
   const pointClass = (pt: number) =>
     pt >= 10000
       ? "font-semibold text-red-600"
       : "font-semibold text-neutral-900";
+
+  const badge = PayTypeBadgeMap[paytype];
 
   return (
     <div className="w-full bg-white border border-border rounded-xl shadow-sm px-4 py-2 text-sm text-neutral-800 transition-transform hover:scale-[1.02]">
@@ -58,18 +61,28 @@ const end = formatJapaneseDate(endDate, undefined, { omitYear: true });
           <span className="font-semibold text-neutral-900">還元</span>
         </span>
 
-        {/* 付与上限 */}
+        {/* 付与上限 + 決済サービスバッジ */}
         {onepoint && fullpoint && (
-          <span className="text-neutral-700">
-            ［上限］
+          <span className="text-neutral-700 inline-flex items-center gap-x-1">
+            [上限]
             <span className={pointClass(onePt)}>
               {onePt.toLocaleString()}P
             </span>
-            ／回・
+            /回・
             <span className={pointClass(fullPt)}>
               {fullPt.toLocaleString()}P
             </span>
-            ／期間
+            /期間
+            {/* ✅ 丸型バッジ：存在する場合のみ表示 */}
+            {badge && (
+              <span
+                className="ml-1 text-white text-[11px] font-bold rounded-full w-5 h-5 flex items-center justify-center"
+                style={{ backgroundColor: badge.bg }}
+                title={badge.label}
+              >
+                {badge.label}
+              </span>
+            )}
           </span>
         )}
 

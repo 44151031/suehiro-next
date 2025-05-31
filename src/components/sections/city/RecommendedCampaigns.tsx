@@ -7,10 +7,11 @@
  * 使用例：/campaigns/[prefecture]/[city] ページの下部
  */
 import Link from "next/link";
-import { campaigns } from "@/lib/campaigns";
+import { campaigns } from "@/lib/campaignMaster";
 import { prefectures } from "@/lib/prefectures";
-import { isNowInCampaignPeriod, formatJapaneseDate } from "@/lib/campaignUtils";
+import { isNowInCampaignPeriod } from "@/lib/campaignUtils";
 import CampaignLineCard from "@/components/common/CampaignLineCard";
+import { PayTypeSlugMap } from "@/lib/payType"; // ✅ 追加
 
 type Props = {
   prefectureSlug: string;
@@ -69,26 +70,35 @@ export function RecommendedCampaigns({ prefectureSlug, citySlug }: Props) {
   return (
     <section className="mt-16">
       <h2 className="text-xl sm:text-2xl font-bold text-neutral-800 mb-6 border-l-4 border-brand-primary pl-4">
-        おすすめのPayPayキャンペーン
+        このページを見た方にオススメのキャンペーン
       </h2>
       <ul className="grid grid-cols-1 xl:grid-cols-2 gap-4">
-        {recommended.slice(0, 4).map((c) => (
-          <li key={`${c.prefectureSlug}-${c.citySlug}`}>
-            <Link href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`}>
-              <CampaignLineCard
-                prefecture={c.prefecture} // ✅ 都道府県も表示
-                city={c.city}
-                startDate={c.startDate}
-                endDate={c.endDate}
-                offer={c.offer}
-                fullpoint={c.fullpoint}
-                onepoint={c.onepoint}
-                isActive={isNowInCampaignPeriod(c.startDate, c.endDate)}
-                showPrefecture={true} // ✅ ここだけ true にする
-              />
-            </Link>
-          </li>
-        ))}
+        {recommended.slice(0, 4).map((c) => {
+          const paySlug = PayTypeSlugMap[c.paytype];
+          if (!paySlug) return null;
+
+          return (
+            <li key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}>
+              <Link
+                href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${paySlug}`}
+                className="block"
+              >
+                <CampaignLineCard
+                  prefecture={c.prefecture}
+                  city={c.city}
+                  startDate={c.startDate}
+                  endDate={c.endDate}
+                  offer={c.offer}
+                  fullpoint={c.fullpoint}
+                  onepoint={c.onepoint}
+                  paytype={c.paytype}
+                  isActive={isNowInCampaignPeriod(c.startDate, c.endDate)}
+                  showPrefecture={true}
+                />
+              </Link>
+            </li>
+          );
+        })}
       </ul>
     </section>
   );

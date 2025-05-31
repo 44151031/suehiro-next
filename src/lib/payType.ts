@@ -20,3 +20,11 @@ export const SlugToPayTypeId: Record<string, PayTypeId> = {
   rakutenpay: 3,
   dbarai: 4,
 };
+
+// ✅ バッジ表示用（ラベル＋背景色）
+export const PayTypeBadgeMap: Record<PayTypeId, { label: string; bg: string }> = {
+  1: { label: "P", bg: "#ef2a36" },     // PayPay
+  2: { label: "au", bg: "#f58220" },    // au PAY
+  3: { label: "楽", bg: "#bf0000" },    // 楽天ペイ
+  4: { label: "d", bg: "#b11f27" },     // d払い
+};

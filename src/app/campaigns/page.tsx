@@ -13,7 +13,7 @@ export default function CampaignTopPage() {
       <div className="max-w-[1200px] mx-auto px-4 py-10">
         {/* ✅ タイトル */}
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-neutral-800 mb-4">
-          PayPayキャンペーン都道府県一覧
+          全国のキャッシュレスキャンペーン一覧
         </h1>
 
         {/* ✅ 絞り込みフィルター（右寄せ・目立つ表示） */}

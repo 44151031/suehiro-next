@@ -1,127 +1,84 @@
 import { notFound } from "next/navigation";
 import { campaigns } from "@/lib/campaignMaster";
-import { PayTypeLabels } from "@/lib/payType";
-import {
-  calculateFullPay,
-  calculateOnePay,
-  calculatePayTime,
-} from "@/lib/campaignCalculations";
-import { loadShopList } from "@/lib/loadShopList";
-import { loadGenres } from "@/lib/loadGenres";
-import { formatJapaneseDate } from "@/lib/campaignUtils";
-
-import { CampaignOverviewTable } from "@/components/sections/city/CampaignOverviewTable";
-import CampaignNotice from "@/components/sections/city/CampaignNotice";
-import CampaignSummaryCard from "@/components/sections/city/CampaignSummaryCard";
-import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCampaigns";
-import GenreHeaderNav from "@/components/sections/city/GenreHeaderNav";
+import { formatJapaneseDate, isNowInCampaignPeriod } from "@/lib/campaignUtils";
+import CampaignCard from "@/components/common/CampaignCard";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
-import ShopListGroup from "@/components/sections/city/ShopListGroupSortByGenrePriority";
+import CampaignTotalPointSummary from "@/components/common/CampaignTotalPointSummary";
 
-export default function CityPage({
+export default function CityCampaignsPage({
   params,
 }: {
   params: { prefecture: string; city: string };
 }) {
-  const campaign = campaigns.find(
-    (c) =>
-      c.prefectureSlug === params.prefecture &&
-      c.citySlug === params.city
+  const { prefecture, city } = params;
+
+  const list = campaigns.filter(
+    (c) => c.prefectureSlug === prefecture && c.citySlug === city
   );
-  if (!campaign) return notFound();
 
-  const shopList = loadShopList(params.prefecture, params.city);
-  const genres = loadGenres(params.prefecture, params.city);
+  if (list.length === 0) return notFound();
 
-  const {
-    prefecture,
-    city,
-    startDate,
-    endDate,
-    offer,
-    fullpoint,
-    onepoint,
-    paytype,
-    campaigntitle,
-    prefectureSlug,
-    citySlug,
-  } = campaign;
+  const cityName = list[0].city;
+  const prefectureName = list[0].prefecture;
 
-  // 動的に金額ロジックを計算
-  const onepay = calculateOnePay(Number(onepoint), offer);
-  const fullpay = calculateFullPay(Number(fullpoint), offer);
-  const paytime = calculatePayTime(fullpay, onepay);
-  const payLabel = PayTypeLabels[paytype];
+  const active = list.filter((c) => isNowInCampaignPeriod(c.startDate, c.endDate));
+  const upcoming = list.length - active.length;
 
   return (
-    <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
-      <main className="max-w-[1200px] mx-auto px-4 py-10">
+    <main className="w-full bg-[#f8f7f2] text-secondary-foreground">
+      <div className="max-w-[1200px] mx-auto px-4 py-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-neutral-800 mb-6">
-          {city}の{payLabel}{offer}%還元キャンペーン
+          {cityName}のキャッシュレスキャンペーン一覧
         </h1>
 
-        <CampaignSummaryCard campaign={campaign} />
-
-        <GenreHeaderNav genres={genres} />
-
-        <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
-          <p>
-            <span className="font-semibold">{prefecture}{city}</span>で
-            <span className="text-brand-primary font-bold">
-              {formatJapaneseDate(startDate)}～{formatJapaneseDate(endDate)}
+        <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
+          <p className="text-base sm:text-lg text-neutral-700 leading-snug">
+            <span className="text-[17px] sm:text-xl font-semibold">
+              {cityName}では、現在{" "}
+              <span className="text-orange-600 font-bold">{active.length}件</span> のキャンペーンが開催中です。
             </span>
-            まで、{offer}％還元キャッシュレス応援キャンペーンが開催中。最大
-            {formatNumber(fullpoint)}円分のポイントを獲得できます。
+            <span className="ml-1 text-[17px] sm:text-xl font-semibold">
+              <span className="text-green-700 font-bold">{upcoming}件</span> は開催予定となっています。
+            </span>
           </p>
-
-          <h2 className="text-2xl font-bold text-gray-900 border-b border-gray-300 pb-1 mt-12">
-            {city}の{payLabel}還元キャンペーンとは？
-          </h2>
-          <p>
-            <strong>{prefecture}{city}「{campaigntitle}」</strong> は、
-            対象店舗で{payLabel}を利用すると{" "}
-            <span className="text-brand-primary font-bold">{offer}％</span> が
-            戻ってくるお得なキャンペーンです。
-          </p>
-        </section>
-
-        <div className="mt-10">
-          <CampaignOverviewTable campaign={campaign} />
         </div>
 
-        <div className="mt-10">
-          <CampaignNotice campaign={campaign} />
-        </div>
+        {/* ✅ ポイント合計表示（市単位） */}
+        <CampaignTotalPointSummary campaigns={list} areaLabel={cityName} />
 
-        <h2 className="text-2xl font-bold text-gray-900 border-b border-gray-300 pb-1 mt-12">
-          {city}の{offer}%還元キャンペーン対象店舗
-        </h2>
-
-        {!shopList ? (
-          <p className="mt-10 text-gray-700 text-base">
-            現時点では対象店舗情報が公表されていません。<br />
-            公表されましたらこのページで紹介いたします。
-          </p>
-        ) : (
-          <ShopListGroup shopList={shopList} />
-        )}
-
-        <div className="mt-20">
-          <RecommendedCampaigns
-            prefectureSlug={prefectureSlug}
-            citySlug={citySlug}
-          />
+        <div className="grid gap-6 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+          {list.map((c) => (
+            <div
+              key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}
+              className="transition-transform hover:scale-[1.02]"
+            >
+              <CampaignCard
+                prefecture={c.prefecture}
+                city={c.city}
+                offer={c.offer}
+                fullpoint={c.fullpoint}
+                startDate={c.startDate}
+                endDate={c.endDate}
+                period={
+                  c.startDate && c.endDate
+                    ? `${formatJapaneseDate(c.startDate, undefined, { omitYear: true })}〜${formatJapaneseDate(
+                        c.endDate,
+                        undefined,
+                        { omitYear: true }
+                      )}`
+                    : ""
+                }
+                paytype={c.paytype}
+              />
+            </div>
+          ))}
         </div>
 
         <BackNavigationButtons
-          prefecture={prefecture}
-          prefectureSlug={prefectureSlug}
+          prefecture={prefectureName}
+          prefectureSlug={prefecture}
         />
-      </main>
-    </div>
+      </div>
+    </main>
   );
-}
-// カンマ区切りの数値整形
-function formatNumber(value: number | string) {
-  return Number(value).toLocaleString("ja-JP");
 }

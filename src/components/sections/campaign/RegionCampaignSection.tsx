@@ -1,14 +1,15 @@
 "use client";
 
 import Link from "next/link";
-import { ArrowRight } from "lucide-react"; // ✅ アイコン追加
-import { campaigns } from "@/lib/campaigns";
+import { ArrowRight } from "lucide-react";
+import { campaigns } from "@/lib/campaignMaster";
 import { prefectures } from "@/lib/prefectures";
 import {
   isCampaignActive,
   isNowInCampaignPeriod,
 } from "@/lib/campaignUtils";
 import CampaignLineCard from "@/components/common/CampaignLineCard";
+import { PayTypeSlugMap } from "@/lib/payType"; // ✅ スラッグ変換追加
 
 type Props = {
   groupName: string;
@@ -62,8 +63,8 @@ export default function CampaignGroupSection({
 
               {filtered.map((c) => (
                 <Link
-                  key={`${c.prefectureSlug}-${c.citySlug}`}
-                  href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`}
+                  key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}
+                  href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${PayTypeSlugMap[c.paytype]}`} // ✅ ここだけ変更
                   className="block"
                 >
                   <CampaignLineCard
@@ -78,6 +79,7 @@ export default function CampaignGroupSection({
                       c.startDate,
                       c.endDate
                     )}
+                    paytype={c.paytype} 
                   />
                 </Link>
               ))}
