@@ -1,7 +1,7 @@
 // ✅ /components/sections/top/HighDiscountCampaigns.tsx
 "use client";
 
-import { campaigns } from "@/lib/campaigns";
+import { campaigns } from "@/lib/campaignMaster";
 import { getHighDiscountCampaigns } from "@/lib/campaignUtils";
 import { useSortedCampaignsByDistance } from "@/hooks/useSortedCampaignsByDistance";
 import ScopedCampaignSlider from "@/components/common/CampaignSlider";

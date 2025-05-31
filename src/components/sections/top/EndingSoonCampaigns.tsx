@@ -1,6 +1,6 @@
 "use client";
 
-import { campaigns } from "@/lib/campaigns";
+import { campaigns } from "@/lib/campaignMaster";
 import { isEndingSoon } from "@/lib/campaignUtils";
 import { useSortedCampaignsByDistance } from "@/hooks/useSortedCampaignsByDistance";
 import type { Campaign } from "@/types/campaign";

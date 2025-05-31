@@ -1,7 +1,6 @@
-// ✅ /components/sections/top/YourAreaCampaigns.tsx
 "use client";
 
-import { campaigns } from "@/lib/campaigns";
+import { campaigns } from "@/lib/campaignMaster";
 import { isCampaignActive } from "@/lib/campaignUtils";
 import { useSortedCampaignsByDistance } from "@/hooks/useSortedCampaignsByDistance";
 import ScopedCampaignSlider from "@/components/common/CampaignSlider";

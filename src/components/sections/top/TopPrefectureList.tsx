@@ -1,4 +1,4 @@
-import { campaigns } from "@/lib/campaigns";
+import { campaigns } from "@/lib/campaignMaster";
 import { prefectures, prefectureGroups } from "@/lib/prefectures";
 import Link from "next/link";
 

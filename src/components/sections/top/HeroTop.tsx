@@ -6,7 +6,8 @@ import Image from "next/image";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { useEffect, useState } from "react";
-import { campaigns } from "@/lib/campaigns";
+import { campaigns } from "@/lib/campaignMaster";
+import { PayTypeId, PayTypeLabels } from "@/lib/payType";
 
 function truncate(text: string | undefined, max: number) {
   if (!text) return "";
@@ -15,7 +16,13 @@ function truncate(text: string | undefined, max: number) {
 
 export default function HeroTop() {
   const [slides, setSlides] = useState<
-    { image: string; title: string; description: string; href: string }[]
+    {
+      image: string;
+      title: string;
+      description: string;
+      href: string;
+      paytype?: PayTypeId;
+    }[]
   >([]);
 
   const [sliderRef, instanceRef] = useKeenSlider<HTMLDivElement>({
@@ -50,6 +57,7 @@ export default function HeroTop() {
       title: truncate(c.campaigntitle ?? `${c.city}のキャンペーン`, 13),
       description: `${c.prefecture}${c.city}`,
       href: `/campaigns/${c.prefectureSlug}/${c.citySlug}`,
+      paytype: c.paytype,
     }));
 
     setSlides(formatted);
@@ -83,34 +91,41 @@ export default function HeroTop() {
         ref={sliderRef}
         className="keen-slider max-w-[100vw] px-6 sm:px-8 lg:px-12"
       >
-        {slides.map((slide, idx) => (
-          <div
-            key={idx}
-            className="keen-slider__slide w-[90%] mx-auto lg:w-[487px] relative rounded-2xl overflow-hidden h-[195px] sm:h-[220px] md:h-[260px] shadow-xl"
-          >
-            <Image
-              src={slide.image}
-              alt={slide.title}
-              fill
-              className="object-cover"
-              sizes="(max-width: 768px) 90vw, 25vw"
-            />
-            <div className="absolute inset-0 bg-black/40 z-0" />
-            <div className="absolute inset-0 flex flex-col justify-center items-center text-center px-4 z-10">
-              <h2 className="text-base sm:text-xl md:text-2xl font-bold mb-1 drop-shadow">
-                {slide.title}
-              </h2>
-              <p className="text-xs sm:text-sm md:text-base mb-2 text-white/90">
-                {slide.description}
-              </p>
-              <Link href={slide.href}>
-                <Button variant="secondary" size="sm">
-                  キャンペーンを見る
-                </Button>
-              </Link>
+        {slides.map((slide, idx) => {
+          const paytypeLabel = slide.paytype
+            ? PayTypeLabels[slide.paytype] ?? ""
+            : "";
+          return (
+            <div
+              key={idx}
+              className="keen-slider__slide w-[90%] mx-auto lg:w-[487px] relative rounded-2xl overflow-hidden h-[195px] sm:h-[220px] md:h-[260px] shadow-xl"
+            >
+              <Image
+                src={slide.image}
+                alt={slide.title}
+                fill
+                className="object-cover"
+                sizes="(max-width: 768px) 90vw, 25vw"
+              />
+              <div className="absolute inset-0 bg-black/40 z-0" />
+              <div className="absolute inset-0 flex flex-col justify-center items-center text-center px-4 z-10">
+                <h2 className="text-base sm:text-xl md:text-2xl font-bold mb-1 drop-shadow">
+                  {slide.title}
+                </h2>
+                <p className="text-xs sm:text-sm md:text-base mb-2 text-white/90">
+                  {slide.description}
+                </p>
+                <Link href={slide.href}>
+                  <Button variant="secondary" size="sm">
+                    {paytypeLabel
+                      ? `${paytypeLabel}キャンペーンを見る`
+                      : "キャンペーンを見る"}
+                  </Button>
+                </Link>
+              </div>
             </div>
-          </div>
-        ))}
+          );
+        })}
       </div>
     </section>
   );

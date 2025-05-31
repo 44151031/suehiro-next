@@ -1,3 +1,5 @@
+//components/common/CampaignSlider.tsx
+
 "use client";
 
 import { useRef, useState, useEffect } from "react";
@@ -104,6 +106,7 @@ export default function ScopedCampaignSlider({
                       ? `${new Date(c.startDate).getMonth() + 1}月${new Date(c.startDate).getDate()}日〜${new Date(c.endDate).getMonth() + 1}月${new Date(c.endDate).getDate()}日`
                       : ""
                   }
+                  paytype={c.paytype} // ✅ 追加！
                 />
               </Link>
             ))}

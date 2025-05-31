@@ -1,4 +1,5 @@
 import { formatJapaneseDate, isNowInCampaignPeriod } from "@/lib/campaignUtils";
+import { PayTypeId, PayTypeLabels } from "@/lib/payType";
 
 type CampaignCardProps = {
   prefecture: string;
@@ -8,6 +9,7 @@ type CampaignCardProps = {
   endDate?: string;
   period?: string;
   fullpoint?: string;
+  paytype?: PayTypeId; // ← 追加
 };
 
 export default function CampaignCard({
@@ -18,9 +20,11 @@ export default function CampaignCard({
   endDate,
   period,
   fullpoint,
+  paytype,
 }: CampaignCardProps) {
   const hasDate = startDate && endDate;
   const isActive = hasDate ? isNowInCampaignPeriod(startDate, endDate) : false;
+  const paytypeLabel = paytype ? PayTypeLabels[paytype] ?? "その他" : "";
 
   return (
     <div className="relative bg-white text-card-foreground border border-border rounded-2xl shadow-lg hover:shadow-xl transition duration-300 p-6 w-full min-w-[240px] max-w-[300px]">
@@ -41,6 +45,9 @@ export default function CampaignCard({
 
       {/* 還元率 */}
       <p className="text-base mb-1 leading-tight">
+        {paytypeLabel && (
+          <span className="text-sm text-gray-500 mr-1">{paytypeLabel}</span>
+        )}
         <span className="text-2xl font-extrabold text-accent">{offer}%</span> 還元
       </p>
 

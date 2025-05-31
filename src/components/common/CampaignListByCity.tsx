@@ -43,6 +43,7 @@ export default function CityCampaignsPage({
                     ? `${formatJapaneseDate(c.startDate, undefined, { omitYear: true })}〜${formatJapaneseDate(c.endDate, undefined, { omitYear: true })}`
                     : ""
                 }
+                paytype={c.paytype} // ✅ 追加！
               />
             </Link>
           ))}
