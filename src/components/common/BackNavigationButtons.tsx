@@ -2,7 +2,7 @@
 
 "use client";
 
-import Button from "@/components/ui/tmp/tmp";
+import Button from "@/components/ui/tmp/button";
 import { usePathname } from "next/navigation";
 
 export default function BackNavigationButtons({ prefectureSlug, prefecture }: {

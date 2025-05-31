@@ -5,7 +5,7 @@ import { campaigns } from "@/lib/campaigns";
 import { getHighDiscountCampaigns } from "@/lib/campaignUtils";
 import { useSortedCampaignsByDistance } from "@/hooks/useSortedCampaignsByDistance";
 import ScopedCampaignSlider from "@/components/common/CampaignSlider";
-import Button from "@/components/ui/tmp/tmp";
+import Button from "@/components/ui/tmp/button";
 
 export default function HighDiscountCampaigns() {
   const highDiscounts = getHighDiscountCampaigns(campaigns);
