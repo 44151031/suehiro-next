@@ -50,7 +50,7 @@ export default function Header() {
           >
             PayPay・auPay・楽天pay・d払い市区町村キャンペーン体験
             <br className="block sm:hidden" />
-            「<span className="text-red-500">キャンPay</span>(キャンペイ)」
+            「<span className="text-red-500">Payキャン</span>(ペイキャン)」
           </Link>
 
           <div className="flex items-center space-x-4">
