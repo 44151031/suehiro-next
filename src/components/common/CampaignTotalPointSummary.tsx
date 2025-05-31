@@ -25,7 +25,7 @@ export default function CampaignTotalPointSummary({ campaigns, areaLabel }: Prop
     <div className="mt-6 mb-10 bg-white border border-neutral-300 rounded-xl shadow-sm px-6 py-4">
       <p className="text-base sm:text-lg font-medium text-neutral-800 text-center leading-snug">
         <span className="font-semibold">{areaLabel}</span>
-        のキャンペーン開催中に獲得できるポイントは
+        で現在開催中のキャンペーンで獲得できるポイントの合計は
         <span className="ml-1 text-4xl text-red-600 font-extrabold">
           {formatNumber(totalFullpoint)}
         </span>円

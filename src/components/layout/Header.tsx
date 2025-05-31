@@ -44,19 +44,25 @@ export default function Header() {
     >
       <Container>
         <div className="h-16 flex items-center justify-between">
-          <Link
-            href="/"
-            className="text-sm sm:text-base md:text-lg font-bold text-gray-800 hover:opacity-80"
-          >
-            PayPay・auPay・楽天pay・d払い市区町村キャンペーン体験
-            <br className="block sm:hidden" />
-            「<span className="text-red-500">Payキャン</span>(ペイキャン)」
-          </Link>
+          {/* ✅ タイトル */}
+<Link href="/" className="flex flex-col leading-tight group">
+  <span className="text-xs sm:text-sm text-neutral-600 mt">
+    PayPay・auPay・楽天pay・d払い 市区町村キャンペーン体験
+  </span>
+  <span className="text-2xl sm:text-3xl font-extrabold tracking-tight text-gray-900">
+    <span className="text-red-600">Pay</span>
+    <span className="text-xl text-neutral-300 font-medium ml-1 align-middle">キャン</span>
+    <span className="text-sm text-neutral-300 font-medium ml-1 align-middle">
+      （ペイキャン）
+    </span>
+  </span>
+</Link>
 
+          {/* ✅ 右側操作エリア */}
           <div className="flex items-center space-x-4">
-            {/* PrefectureSelector 内部ですべて自己完結 */}
             <PrefectureSelector />
 
+            {/* ✅ モバイルメニュー */}
             <Sheet>
               <SheetTrigger asChild>
                 <button
