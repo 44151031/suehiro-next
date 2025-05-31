@@ -121,7 +121,6 @@ export default function CityPage({
     </div>
   );
 }
-
 // カンマ区切りの数値整形
 function formatNumber(value: number | string) {
   return Number(value).toLocaleString("ja-JP");
