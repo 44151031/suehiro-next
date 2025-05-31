@@ -23,7 +23,6 @@ const menuItems = [
   { name: "トップ", href: "/", icon: Home },
   { name: "キャンペーン一覧", href: "/campaigns", icon: Gift },
   { name: "サイトについて", href: "/about", icon: Info },
-  { name: "お問い合わせ", href: "/contact", icon: Mail },
 ];
 
 export default function Header() {
@@ -51,8 +50,8 @@ export default function Header() {
   </span>
   <span className="text-2xl sm:text-3xl font-extrabold tracking-tight text-gray-900">
     <span className="text-red-600">Pay</span>
-    <span className="text-xl text-neutral-300 font-medium ml-1 align-middle">キャン</span>
-    <span className="text-sm text-neutral-300 font-medium ml-1 align-middle">
+    <span className="text-xl text-gray-800 font-medium ml-1 align-middle">キャン</span>
+    <span className="text-sm text-gray-600 font-medium align-middle">
       （ペイキャン）
     </span>
   </span>

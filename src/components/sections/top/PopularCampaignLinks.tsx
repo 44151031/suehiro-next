@@ -1,5 +1,6 @@
-import { popularSearches } from "@/lib/popularSearches";
 import Link from "next/link";
+import { popularSearches } from "@/lib/popularSearches";
+import { PayTypeSlugMap, PayTypeId } from "@/lib/payType";
 
 export default function PopularSearches() {
   return (
@@ -12,15 +13,21 @@ export default function PopularSearches() {
 
         {/* 人気検索キーワードリスト */}
         <div className="flex flex-wrap justify-center gap-3">
-          {popularSearches.map((item, index) => (
-            <Link
-              key={index}
-              href={`/campaigns/${item.prefectureSlug}/${item.citySlug}`}
-              className="px-4 py-2 rounded-full bg-white border border-border text-primary font-medium text-sm hover:bg-accent/10 transition"
-            >
-              {item.label}
-            </Link>
-          ))}
+          {popularSearches.map((item, index) => {
+            // ✅ PayTypeIdの型補完＆フォールバック（1=PayPay）
+            const paytype: PayTypeId = (item.paytype ?? 1) as PayTypeId;
+            const slug = PayTypeSlugMap[paytype];
+
+            return (
+              <Link
+                key={index}
+                href={`/campaigns/${item.prefectureSlug}/${item.citySlug}/${slug}`}
+                className="px-4 py-2 rounded-full bg-white border border-border text-primary font-medium text-sm hover:bg-accent/10 transition"
+              >
+                {item.label}
+              </Link>
+            );
+          })}
         </div>
       </div>
     </section>
