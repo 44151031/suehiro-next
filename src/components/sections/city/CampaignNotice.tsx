@@ -1,24 +1,34 @@
-// components/sections/campaign/CampaignNotice.tsx
+// ✅ /components/sections/campaign/CampaignNotice.tsx
 
 import { AlertCircle } from "lucide-react";
 import { cn } from "@/lib/utils";
-import { Campaign } from "@/types/campaign";
 import { formatJapaneseDate } from "@/lib/campaignUtils";
+import { PayTypeLabels } from "@/lib/payType";
+import type { CampaignWithCalc } from "@/types/campaign";
 
 type Props = {
-  campaign: Campaign;
+  campaign: CampaignWithCalc;
 };
 
 export default function CampaignNotice({ campaign }: Props) {
-  const formattedStart = formatJapaneseDate(campaign.startDate);
-  const formattedEnd = formatJapaneseDate(campaign.endDate);
+  const {
+    prefecture,
+    city,
+    startDate,
+    endDate,
+    paytype,
+  } = campaign;
+
+  const formattedStart = formatJapaneseDate(startDate);
+  const formattedEnd = formatJapaneseDate(endDate);
+  const payLabel = PayTypeLabels[paytype];
 
   return (
     <section className="bg-white border border-yellow-300 rounded-2xl p-6 shadow-sm space-y-4">
       <div className="flex items-center gap-2">
         <AlertCircle className="text-yellow-500" />
         <h2 className="text-lg font-bold text-yellow-700">
-          ご注意点（{campaign.prefecture}{campaign.city}のPayPay還元キャンペーン対象店舗一覧）
+          ご注意点（{campaign.prefecture}{campaign.city}の{payLabel}還元キャンペーン対象店舗一覧）
         </h2>
       </div>
       <ul className="list-disc list-inside text-gray-700 text-sm space-y-2">

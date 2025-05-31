@@ -13,4 +13,14 @@ export type Campaign = {
   fullpoint: string; // 期間中還元上限 (ポイント数)
   campaigntitle: string;
   isActive?: boolean;
+  onepay: number;
+  fullpay: number;
+  paytime: number;
+};
+
+// ✅ 追加型（動的算出値付きキャンペーン型）
+export type CampaignWithCalc = Campaign & {
+  onepay: number;
+  fullpay: number;
+  paytime: number;
 };

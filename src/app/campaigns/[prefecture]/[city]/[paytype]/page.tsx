@@ -1,14 +1,9 @@
 import { notFound } from "next/navigation";
 import { campaigns } from "@/lib/campaignMaster";
-import { PayTypeLabels } from "@/lib/payType";
-import {
-  calculateFullPay,
-  calculateOnePay,
-  calculatePayTime,
-} from "@/lib/campaignCalculations";
 import { loadShopList } from "@/lib/loadShopList";
 import { loadGenres } from "@/lib/loadGenres";
 import { formatJapaneseDate } from "@/lib/campaignUtils";
+import { PayTypeLabels, SlugToPayTypeId } from "@/lib/payType";
 
 import { CampaignOverviewTable } from "@/components/sections/city/CampaignOverviewTable";
 import CampaignNotice from "@/components/sections/city/CampaignNotice";
@@ -18,15 +13,19 @@ import GenreHeaderNav from "@/components/sections/city/GenreHeaderNav";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import ShopListGroup from "@/components/sections/city/ShopListGroupSortByGenrePriority";
 
-export default function CityPage({
+export default function CityPaytypePage({
   params,
 }: {
-  params: { prefecture: string; city: string };
+  params: { prefecture: string; city: string; paytype: string };
 }) {
+  const paytypeId = SlugToPayTypeId[params.paytype];
+  if (!paytypeId) return notFound();
+
   const campaign = campaigns.find(
     (c) =>
       c.prefectureSlug === params.prefecture &&
-      c.citySlug === params.city
+      c.citySlug === params.city &&
+      c.paytype === paytypeId
   );
   if (!campaign) return notFound();
 
@@ -40,18 +39,12 @@ export default function CityPage({
     endDate,
     offer,
     fullpoint,
-    onepoint,
-    paytype,
     campaigntitle,
     prefectureSlug,
     citySlug,
   } = campaign;
 
-  // 動的に金額ロジックを計算
-  const onepay = calculateOnePay(Number(onepoint), offer);
-  const fullpay = calculateFullPay(Number(fullpoint), offer);
-  const paytime = calculatePayTime(fullpay, onepay);
-  const payLabel = PayTypeLabels[paytype];
+  const payLabel = PayTypeLabels[paytypeId];
 
   return (
     <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
@@ -60,10 +53,13 @@ export default function CityPage({
           {city}の{payLabel}{offer}%還元キャンペーン
         </h1>
 
-        <CampaignSummaryCard campaign={{ ...campaign, onepay, fullpay, paytime }} />
+        {/* 概要カード（計算処理は内部で実施） */}
+        <CampaignSummaryCard campaign={campaign} />
 
+        {/* ジャンルリンク */}
         <GenreHeaderNav genres={genres} />
 
+        {/* 説明 */}
         <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
           <p>
             <span className="font-semibold">{prefecture}{city}</span>で
@@ -79,20 +75,23 @@ export default function CityPage({
           </h2>
           <p>
             <strong>{prefecture}{city}「{campaigntitle}」</strong> は、
-            対象店舗で{payLabel}を利用すると{" "}
-            <span className="text-brand-primary font-bold">{offer}％</span> が
+            対象店舗で{payLabel}を利用すると
+            <span className="text-brand-primary font-bold">{offer}％</span>が
             戻ってくるお得なキャンペーンです。
           </p>
         </section>
 
+        {/* 概要テーブル */}
         <div className="mt-10">
-          <CampaignOverviewTable campaign={{ ...campaign, onepay, fullpay, paytime }} />
+          <CampaignOverviewTable campaign={campaign} />
         </div>
 
+        {/* 注意事項 */}
         <div className="mt-10">
-          <CampaignNotice campaign={{ ...campaign, onepay, fullpay, paytime }} />
+          <CampaignNotice campaign={campaign} />
         </div>
 
+        {/* 対象店舗 */}
         <h2 className="text-2xl font-bold text-gray-900 border-b border-gray-300 pb-1 mt-12">
           {city}の{offer}%還元キャンペーン対象店舗
         </h2>
@@ -106,6 +105,7 @@ export default function CityPage({
           <ShopListGroup shopList={shopList} />
         )}
 
+        {/* 他キャンペーン */}
         <div className="mt-20">
           <RecommendedCampaigns
             prefectureSlug={prefectureSlug}
@@ -113,6 +113,7 @@ export default function CityPage({
           />
         </div>
 
+        {/* 戻るボタン */}
         <BackNavigationButtons
           prefecture={prefecture}
           prefectureSlug={prefectureSlug}
@@ -122,7 +123,6 @@ export default function CityPage({
   );
 }
 
-// カンマ区切りの数値整形
 function formatNumber(value: number | string) {
   return Number(value).toLocaleString("ja-JP");
 }
