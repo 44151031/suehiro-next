@@ -22,7 +22,6 @@ export default function Footer() {
           <Link href="/" className="hover:text-red-600 transition">トップ</Link>
           <Link href="/campaigns" className="hover:text-red-600 transition">キャンペーン一覧</Link>
           <Link href="/management" className="hover:text-red-600 transition">運営管理</Link>
-          <Link href="/contact" className="hover:text-red-600 transition">お問い合わせ</Link>
         </nav>
 
         {/* よく検索されるリンク */}
