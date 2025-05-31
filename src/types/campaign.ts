@@ -1,16 +1,16 @@
+import type { PayTypeId } from "@/lib/payType";
+
 export type Campaign = {
+  paytype: PayTypeId;
   prefectureSlug: string;
   citySlug: string;
   prefecture: string;
   city: string;
-  offer: number;           // ✅ 数値型に変更（例: 30）
-  startDate: string;       // ISO日付形式
-  endDate: string;
-  onepoint: string;        // 単発上限ポイント
-  fullpoint: string;       // 期間上限ポイント
-  fullpay: string;         // 還元対象金額（例: "15000"）
-  onepay: string;          // 単回の還元対象金額
-  paytime: string;         // 回数（例: "3"）
-  campaigntitle: string;         // 回数（例: "3"）
+  offer: number;
+  startDate: string; // "YYYY-MM-DD"
+  endDate: string;   // "YYYY-MM-DD"
+  onepoint: string;  // 1回あたり還元上限 (ポイント数)
+  fullpoint: string; // 期間中還元上限 (ポイント数)
+  campaigntitle: string;
   isActive?: boolean;
 };
