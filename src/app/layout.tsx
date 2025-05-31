@@ -18,19 +18,19 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "全国PayPay自治体キャンペーン情報サイト",
-  description: "全国のPayPay自治体キャンペーンを地域別にまとめて紹介。あなたの街の最新キャンペーンをチェックしよう！",
+  title: "PayPay・auPay・楽天Pay・d払いキャンペーン体験-Payキャン",
+  description: "全国のPayPay・auPay・楽天Pay・d払いキャンペーンをまとめて紹介。各地域で獲得出来る総額もわかるから、効率よくポイントを獲得出来ます。",
   openGraph: {
-    title: "全国PayPay自治体キャンペーン情報サイト",
-    description: "全国のPayPay自治体キャンペーンを地域別にまとめて紹介。あなたの街の最新キャンペーンをチェックしよう！",
-    url: "https://あなたのドメイン",
-    siteName: "PayPay自治体キャンペーン情報",
+    title: "PayPay・auPay・楽天Pay・d払いキャンペーン体験-Payキャン",
+    description: "全国のPayPay・auPay・楽天Pay・d払いキャンペーンをまとめて紹介。各地域で獲得出来る総額もわかるから、効率よくポイントを獲得出来ます。",
+    url: "https://paycancampaign.com",
+    siteName: "Payキャン",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "全国PayPay自治体キャンペーン情報サイト",
-    description: "全国のPayPay自治体キャンペーンを地域別にまとめて紹介。あなたの街の最新キャンペーンをチェックしよう！",
+    title: "PayPay・auPay・楽天Pay・d払いキャンペーン体験-Payキャン",
+    description: "全国のPayPay・auPay・楽天Pay・d払いキャンペーンをまとめて紹介。各地域で獲得出来る総額もわかるから、効率よくポイントを獲得出来ます。",
   },
 };
 
