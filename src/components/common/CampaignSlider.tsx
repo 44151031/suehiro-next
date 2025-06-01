@@ -1,5 +1,4 @@
 // ✅ /components/common/CampaignSlider.tsx
-
 "use client";
 
 import { useRef, useState, useEffect } from "react";
@@ -7,7 +6,7 @@ import Link from "next/link";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import CampaignCard from "@/components/common/CampaignCard";
 import type { Campaign } from "@/types/campaign";
-import { PayTypeSlugMap } from "@/lib/payType"; // ✅ 追加
+import { PayTypeSlugMap } from "@/lib/payType";
 
 type Props = {
   campaigns: Campaign[];
@@ -80,19 +79,19 @@ export default function ScopedCampaignSlider({
 
           <div
             ref={scrollRef}
-            className="flex overflow-x-auto scroll-smooth snap-x snap-mandatory bg-white rounded-xl px-6 sm:px-8 lg:px-10 py-6 gap-2 sm:gap-3 md:gap-4 scrollbar-none cursor-grab active:cursor-grabbing"
+            className="flex overflow-x-auto scroll-smooth snap-x snap-mandatory bg-white rounded-xl px-4 sm:px-8 lg:px-10 py-6 gap-1 sm:gap-3 md:gap-4 scrollbar-none cursor-grab active:cursor-grabbing"
             onMouseDown={handleMouseDown}
             onMouseMove={handleMouseMove}
             onMouseLeave={handleMouseUp}
           >
-            <div className="shrink-0 w-4 sm:w-6 md:w-8 snap-start" />
+            <div className="shrink-0 w-2 sm:w-4 md:w-6 snap-start" />
 
             {campaigns.map((c) => (
               <Link
-                key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`} // paytypeもkeyに含めてユニーク性強化
-                href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${PayTypeSlugMap[c.paytype]}`} // ✅ 修正箇所
+                key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}
+                href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${PayTypeSlugMap[c.paytype]}`}
                 draggable={false}
-                className="shrink-0 snap-start w-[90%] sm:w-[260px] md:w-[280px] lg:w-[300px] transition-transform hover:scale-[1.02]"
+                className="shrink-0 snap-start w-[85%] sm:w-[260px] md:w-[280px] lg:w-[300px] transition-transform hover:scale-[1.02]"
               >
                 <CampaignCard
                   prefecture={c.prefecture}
@@ -111,7 +110,7 @@ export default function ScopedCampaignSlider({
               </Link>
             ))}
 
-            <div className="shrink-0 w-4 sm:w-6 md:w-8" />
+            <div className="shrink-0 w-2 sm:w-4 md:w-6" />
           </div>
         </div>
       </div>
