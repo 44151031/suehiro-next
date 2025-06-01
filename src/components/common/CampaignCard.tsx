@@ -40,7 +40,7 @@ export default function CampaignCard({
         <span className="text-xl font-extrabold text-neutral-900 dark:text-white">
           {prefecture}
         </span>
-        <span className="text-base text-neutral-700"> {city}</span>
+        <span className="text-base text-neutral-900 font-extrabold"> {city}</span>
       </p>
 
       {/* 還元率 */}
