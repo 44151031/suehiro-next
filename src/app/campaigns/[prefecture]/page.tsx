@@ -31,12 +31,16 @@ export default function PrefecturePage({
   return (
     <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
       <div className="max-w-[1200px] mx-auto px-4 py-10">
-        {/* タイトル */}
+
+        {/* ✅ タイトル */}
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-neutral-800 mb-6">
           {prefectureName}のキャッシュレスキャンペーン一覧
         </h1>
 
-        {/* 概要文 */}
+        {/* ✅ 合計ポイント */}
+        <CampaignTotalPointSummary campaigns={list} areaLabel={prefectureName} />
+
+        {/* ✅ 概要文 */}
         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
           <p className="text-base sm:text-lg text-neutral-700 leading-snug">
             <span className="text-[17px] sm:text-xl font-semibold">
@@ -49,13 +53,10 @@ export default function PrefecturePage({
           </p>
         </div>
 
-        {/* 合計ポイント */}
-        <CampaignTotalPointSummary campaigns={list} areaLabel={prefectureName} />
-
-        {/* 一覧 */}
+        {/* ✅ 一覧 */}
         <CampaignListByPrefecture prefectureSlug={params.prefecture} />
 
-        {/* 戻る */}
+        {/* ✅ 戻る */}
         <BackNavigationButtons prefectureSlug={params.prefecture} prefecture={prefectureName} />
       </div>
     </div>
