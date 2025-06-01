@@ -1,30 +1,30 @@
-export type PayTypeId = 1 | 2 | 3 | 4;
+// ✅ 型定義として使用するIDとラベルのマスター
+export const PayTypes = {
+  1: { id: 1, slug: "paypay", label: "PayPay", badge: { label: "P", bg: "#ef2a36" } },
+  2: { id: 2, slug: "aupay", label: "au PAY", badge: { label: "au", bg: "#f58220" } },
+  3: { id: 3, slug: "rakutenpay", label: "楽天ペイ", badge: { label: "楽", bg: "#bf0000" } },
+  4: { id: 4, slug: "dbarai", label: "d払い", badge: { label: "d", bg: "#b11f27" } },
+} as const;
 
-export const PayTypeLabels: Record<PayTypeId, string> = {
-  1: "PayPay",
-  2: "au PAY",
-  3: "楽天ペイ",
-  4: "d払い",
-};
+// ✅ PayTypeId の型（1 | 2 | 3 | 4）
+export type PayTypeId = keyof typeof PayTypes;
 
-export const PayTypeSlugMap: Record<PayTypeId, string> = {
-  1: "paypay",
-  2: "aupay",
-  3: "rakutenpay",
-  4: "dbarai",
-};
+// ✅ slug 型（"paypay" | "aupay" | ...）
+export type PayTypeSlug = (typeof PayTypes)[PayTypeId]["slug"];
 
-export const SlugToPayTypeId: Record<string, PayTypeId> = {
-  paypay: 1,
-  aupay: 2,
-  rakutenpay: 3,
-  dbarai: 4,
-};
+// ✅ 各種マップ展開（必要に応じて）
+export const PayTypeLabels: Record<PayTypeId, string> = Object.fromEntries(
+  Object.entries(PayTypes).map(([id, v]) => [id, v.label])
+) as Record<PayTypeId, string>;
 
-// ✅ バッジ表示用（ラベル＋背景色）
-export const PayTypeBadgeMap: Record<PayTypeId, { label: string; bg: string }> = {
-  1: { label: "P", bg: "#ef2a36" },     // PayPay
-  2: { label: "au", bg: "#f58220" },    // au PAY
-  3: { label: "楽", bg: "#bf0000" },    // 楽天ペイ
-  4: { label: "d", bg: "#b11f27" },     // d払い
-};
+export const PayTypeSlugMap: Record<PayTypeId, string> = Object.fromEntries(
+  Object.entries(PayTypes).map(([id, v]) => [id, v.slug])
+) as Record<PayTypeId, string>;
+
+export const SlugToPayTypeId: Record<PayTypeSlug, PayTypeId> = Object.fromEntries(
+  Object.entries(PayTypes).map(([id, v]) => [v.slug, Number(id)])
+) as Record<PayTypeSlug, PayTypeId>;
+
+export const PayTypeBadgeMap: Record<PayTypeId, { label: string; bg: string }> = Object.fromEntries(
+  Object.entries(PayTypes).map(([id, v]) => [id, v.badge])
+) as Record<PayTypeId, { label: string; bg: string }>;

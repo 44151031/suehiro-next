@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import { campaigns } from "@/lib/campaignMaster";
-import { SlugToPayTypeId, PayTypeLabels } from "@/lib/payType";
+import { SlugToPayTypeId, PayTypeLabels, PayTypeId } from "@/lib/payType";
 import { formatJapaneseDate } from "@/lib/campaignUtils";
 import { loadShopList } from "@/lib/loadShopList";
 import { loadGenres } from "@/lib/loadGenres";
@@ -12,7 +12,6 @@ import CampaignSummaryCard from "@/components/sections/city/CampaignSummaryCard"
 import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCampaigns";
 import GenreHeaderNav from "@/components/sections/city/GenreHeaderNav";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
-import ShopListGroup from "@/components/sections/city/ShopListGroupSortByGenrePriority";
 
 export async function generateMetadata({
   params,
@@ -20,6 +19,8 @@ export async function generateMetadata({
   params: { prefecture: string; city: string; pay: string };
 }): Promise<Metadata> {
   const paytypeId = SlugToPayTypeId[params.pay];
+  if (!paytypeId) return { title: "キャンペーン情報 - Payキャン" };
+
   const campaign = campaigns.find(
     (c) =>
       c.prefectureSlug === params.prefecture &&
@@ -29,8 +30,8 @@ export async function generateMetadata({
 
   if (!campaign) return { title: "キャンペーン情報 - Payキャン" };
 
-  const { city, paytype, offer } = campaign;
-  const payLabel = PayTypeLabels[paytype];
+  const { city, offer } = campaign;
+  const payLabel = PayTypeLabels[paytypeId as PayTypeId];
 
   return {
     title: `${city}の${payLabel}${offer}%還元キャンペーン情報 - Payキャン`,
@@ -54,9 +55,9 @@ export default function CityPaytypePage({
   );
   if (!campaign) return notFound();
 
+  const payLabel = PayTypeLabels[paytypeId as PayTypeId];
   const isPayPay = params.pay === "paypay";
 
-  // ✅ PayPayのときだけ JSON を読み込む
   const shopList = isPayPay
     ? loadShopList(params.prefecture, params.city)
     : null;
@@ -75,8 +76,6 @@ export default function CityPaytypePage({
     prefectureSlug,
     citySlug,
   } = campaign;
-
-  const payLabel = PayTypeLabels[paytypeId];
 
   return (
     <div className="w-full bg-[#f8f7f2] text-secondary-foreground">

@@ -5,6 +5,7 @@ export type Campaign = {
   paytype: PayTypeId;
   prefectureSlug: string;
   citySlug: string;
+ lastModified?: string; // ← ✅ これがないと sitemap.ts に波線が出る
   prefecture: string;
   city: string;
   offer: number;
