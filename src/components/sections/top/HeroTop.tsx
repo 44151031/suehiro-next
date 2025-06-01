@@ -7,7 +7,7 @@ import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { useEffect, useState } from "react";
 import { campaigns } from "@/lib/campaignMaster";
-import { PayTypeId, PayTypeLabels } from "@/lib/payType";
+import { PayTypeId, PayTypeLabels, PayTypeSlugMap } from "@/lib/payType";
 
 function truncate(text: string | undefined, max: number) {
   if (!text) return "";
@@ -56,7 +56,7 @@ export default function HeroTop() {
       image: `/images/campaigns/${c.prefectureSlug}-${c.citySlug}.jpg`,
       title: truncate(c.campaigntitle ?? `${c.city}のキャンペーン`, 13),
       description: `${c.prefecture}${c.city}`,
-      href: `/campaigns/${c.prefectureSlug}/${c.citySlug}`,
+      href: `/campaigns/${c.prefectureSlug}/${c.citySlug}/${PayTypeSlugMap[c.paytype]}`,
       paytype: c.paytype,
     }));
 
