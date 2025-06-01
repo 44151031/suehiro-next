@@ -46,7 +46,7 @@ export default function CampaignCard({
       {/* 還元率 */}
       <p className="text-base mb-1 leading-tight">
         {paytypeLabel && (
-          <span className="text-sm text-gray-500 mr-1">{paytypeLabel}</span>
+          <span className="text-sm text-gray-800 mr-1 font-extrabold">{paytypeLabel}</span>
         )}
         <span className="text-2xl font-extrabold text-accent">{offer}%</span> 還元
       </p>

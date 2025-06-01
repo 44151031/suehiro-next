@@ -1,6 +1,13 @@
-// ✅ /app/management/page.tsx
+// /app/management/page.tsx
 
+import type { Metadata } from "next";
 import Container from "@/components/layout/Container";
+
+// ✅ metadataを追加
+export const metadata: Metadata = {
+  title: "運営管理",
+  description: "Payキャンの管理情報を掲載しています。管理者名やURL、連絡先などを確認できます。",
+};
 
 export default function AdminPage() {
   return (

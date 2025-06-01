@@ -1,13 +1,53 @@
-// /lib/popularSearches.ts
+// lib/popularSearches.ts
 
-import type { PayTypeId } from "./payType";
+import { campaigns } from "./campaignMaster";
 
-export const popularSearches: {
-  prefectureSlug: string;
-  citySlug: string;
-  label: string;
-  paytype?: PayTypeId; // ✅ これを追加
-}[] = [
-  { prefectureSlug: "tokyo", citySlug: "suginami", label: "東京都 杉並区" },
-  { prefectureSlug: "tokyo", citySlug: "nerima", label: "東京都 練馬区" },
-];
+// 人気検索ワード（日本語）
+const rawPopularSearches = [
+  "東京都杉並区",
+  "東京都練馬区",
+  "福島県喜多方市",
+  "北海道札幌市",
+] as const;
+
+// 都道府県・市区町村を抽出
+const extractPrefectureAndCity = (label: string) => {
+  const prefectureMatch = label.match(/^(.+?[都道府県])/);
+  const cityMatch = label.match(/[都道府県](.+?[市区町村])$/);
+  return {
+    prefecture: prefectureMatch?.[1] || "",
+    city: cityMatch?.[1] || "",
+  };
+};
+
+// campaignMasterからslugを逆引き
+const findSlugs = (prefecture: string, city: string) => {
+  // prefectureSlug
+  const prefectureEntry = campaigns.find(
+    (c) => c.prefecture === prefecture
+  );
+  const prefectureSlug = prefectureEntry?.prefectureSlug || "";
+
+  // citySlug
+  const cityEntry = campaigns.find(
+    (c) => c.prefecture === prefecture && c.city === city
+  );
+  const citySlug = cityEntry?.citySlug || "";
+
+  return { prefectureSlug, citySlug };
+};
+
+export const popularSearches = rawPopularSearches.map((label) => {
+  const { prefecture, city } = extractPrefectureAndCity(label);
+  const { prefectureSlug, citySlug } = findSlugs(prefecture, city);
+
+  return {
+    label,
+    prefecture,
+    city,
+    prefectureSlug,
+    citySlug,
+    // 英語slugでURLを生成
+    url: `/campaigns/${prefectureSlug}/${citySlug}`,
+  };
+});
