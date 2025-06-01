@@ -18,19 +18,25 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "PayPay・auPay・楽天Pay・d払いキャンペーン体験-Payキャン",
-  description: "全国のPayPay・auPay・楽天Pay・d払いキャンペーンをまとめて紹介。各地域で獲得出来る総額もわかるから、効率よくポイントを獲得出来ます。",
+  title: {
+    default: "PayPay・auPay・楽天Pay・d払いキャンペーン体験 - Payキャン",
+    template: "%s - Payキャン", // ✅ ページごとのタイトルに対応
+  },
+  description:
+    "全国のPayPay・auPay・楽天Pay・d払いキャンペーンをまとめて紹介。各地域で獲得出来る総額もわかるから、効率よくポイントを獲得出来ます。",
   openGraph: {
-    title: "PayPay・auPay・楽天Pay・d払いキャンペーン体験-Payキャン",
-    description: "全国のPayPay・auPay・楽天Pay・d払いキャンペーンをまとめて紹介。各地域で獲得出来る総額もわかるから、効率よくポイントを獲得出来ます。",
+    title: "PayPay・auPay・楽天Pay・d払いキャンペーン体験 - Payキャン",
+    description:
+      "全国のPayPay・auPay・楽天Pay・d払いキャンペーンをまとめて紹介。各地域で獲得出来る総額もわかるから、効率よくポイントを獲得出来ます。",
     url: "https://paycancampaign.com",
     siteName: "Payキャン",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "PayPay・auPay・楽天Pay・d払いキャンペーン体験-Payキャン",
-    description: "全国のPayPay・auPay・楽天Pay・d払いキャンペーンをまとめて紹介。各地域で獲得出来る総額もわかるから、効率よくポイントを獲得出来ます。",
+    title: "PayPay・auPay・楽天Pay・d払いキャンペーン体験 - Payキャン",
+    description:
+      "全国のPayPay・auPay・楽天Pay・d払いキャンペーンをまとめて紹介。各地域で獲得出来る総額もわかるから、効率よくポイントを獲得出来ます。",
   },
 };
 
@@ -42,11 +48,9 @@ export default function RootLayout({
   return (
     <html lang="ja" className="scroll-smooth">
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
-        <Header /> {/* 共通ヘッダー */}
-        <LayoutShell>
-          {children}
-        </LayoutShell>
-        <Footer /> {/* 共通フッター */}
+        <Header />
+        <LayoutShell>{children}</LayoutShell>
+        <Footer />
       </body>
     </html>
   );
