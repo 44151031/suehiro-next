@@ -1,16 +1,32 @@
 // ✅ /middleware.ts
-import { NextResponse } from "next/server";
-import type { NextRequest } from "next/server";
+import { NextResponse } from 'next/server';
+import type { NextRequest } from 'next/server';
 
-// メンテナンス中かどうかを切り替えるフラグ
-const IS_MAINTENANCE_MODE = true;
+// ✅ true にすると全ページがメンテナンスモードになる
+const isMaintenanceMode = true;
+
+// ✅ 除外したいパス（メンテ中でも表示させたいページ）
+const excludePaths = [
+  '/maintenance',
+  '/favicon.ico',
+  '/_next',
+  '/images',
+  '/api',
+];
 
 export function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
-  // メンテナンスページ自体は除外
-  if (IS_MAINTENANCE_MODE && !pathname.startsWith("/maintenance")) {
-    return NextResponse.rewrite(new URL("/maintenance", request.url));
+  // 除外パスを許可
+  if (excludePaths.some(path => pathname.startsWith(path))) {
+    return NextResponse.next();
+  }
+
+  // メンテナンスモード中なら強制的に /maintenance へリダイレクト
+  if (isMaintenanceMode) {
+    const maintenanceUrl = request.nextUrl.clone();
+    maintenanceUrl.pathname = '/maintenance';
+    return NextResponse.rewrite(maintenanceUrl);
   }
 
   return NextResponse.next();
