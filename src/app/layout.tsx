@@ -17,10 +17,11 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+// ✅ SEOメタデータ設定
 export const metadata: Metadata = {
   title: {
     default: "PayPay・auPay・楽天Pay・d払いキャンペーン体験 - Payキャン",
-    template: "%s - Payキャン", // ✅ ページごとのタイトルに対応
+    template: "%s - Payキャン",
   },
   description:
     "全国のPayPay・auPay・楽天Pay・d払いキャンペーンをまとめて紹介。各地域で獲得出来る総額もわかるから、効率よくポイントを獲得出来ます。",
@@ -40,6 +41,9 @@ export const metadata: Metadata = {
   },
 };
 
+// ✅ GTMのID
+const GTM_ID = process.env.NEXT_PUBLIC_GTM_ID!;
+
 export default function RootLayout({
   children,
 }: {
@@ -47,7 +51,31 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ja" className="scroll-smooth">
+      <head>
+        {/* ✅ Google Tag Manager スクリプト（head内） */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+              new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+              j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+              'https://www.googletagmanager.com/gtm.js?id=' + i + dl;f.parentNode.insertBefore(j,f);
+              })(window,document,'script','dataLayer','${GTM_ID}');
+            `,
+          }}
+        />
+      </head>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+        {/* ✅ Google Tag Manager noscript fallback（body直下） */}
+        <noscript>
+          <iframe
+            src={`https://www.googletagmanager.com/ns.html?id=${GTM_ID}`}
+            height="0"
+            width="0"
+            style={{ display: "none", visibility: "hidden" }}
+          />
+        </noscript>
+
         <Header />
         <LayoutShell>{children}</LayoutShell>
         <Footer />
