@@ -11,8 +11,6 @@ import { Button } from "@/components/ui/button";
 import { usePathname, useRouter } from "next/navigation";
 import { useState } from "react";
 import { campaigns } from "@/lib/campaigns";
-import { isCampaignActive } from "@/lib/campaignUtils";
-import { useSortedCampaignsByDistance } from "@/hooks/useSortedCampaignsByDistance";
 import { prefectures, prefectureGroups } from "@/lib/prefectures";
 
 export function PrefectureSelector() {
@@ -21,24 +19,30 @@ export function PrefectureSelector() {
   const [open, setOpen] = useState(false);
   const [selectedGroup, setSelectedGroup] = useState<string | null>(null);
 
-  const sortedCampaigns = useSortedCampaignsByDistance(campaigns);
+  // ページ階層を抽出
+  const segments = pathname.split("/");
+  const [_, __, prefSlug, citySlug, paytypeSlug] = segments;
 
-  const fallbackCampaign =
-    sortedCampaigns?.find((c) => isCampaignActive(c.endDate)) || null;
+  const isPrefPage = !!prefSlug && !citySlug;
+  const isCityPage = !!prefSlug && !!citySlug && !paytypeSlug;
+  const isCityPaytypePage = !!prefSlug && !!citySlug && !!paytypeSlug;
 
-  const isOnTopPage = pathname === "/";
+  // 現在のページにマッチするキャンペーン取得
+  const currentCampaign = campaigns.find(
+    (c) =>
+      c.prefectureSlug === prefSlug &&
+      (isCityPage || isCityPaytypePage ? c.citySlug === citySlug : true)
+  );
 
-  const displayName = isOnTopPage && fallbackCampaign
-    ? `${fallbackCampaign.prefecture} のキャンペーンはこちら`
+  const label = currentCampaign
+    ? isCityPage || isCityPaytypePage
+      ? `${currentCampaign.prefecture}${currentCampaign.city}｜エリア変更`
+      : `${currentCampaign.prefecture}｜エリア変更`
     : "都道府県を選択してください";
 
-  const activePrefectureSlugToCount = campaigns.reduce<Record<string, number>>((acc, c) => {
-    if (isCampaignActive(c.endDate)) {
-      acc[c.prefectureSlug] = (acc[c.prefectureSlug] || 0) + 1;
-    }
-    return acc;
-  }, {});
-  const activePrefectureSlugs = Object.keys(activePrefectureSlugToCount);
+  const activePrefectureSlugs = Array.from(
+    new Set(campaigns.map((c) => c.prefectureSlug))
+  );
 
   const isGroupActive = (group: string) =>
     prefectures.some(
@@ -48,21 +52,6 @@ export function PrefectureSelector() {
   const filteredPrefectures = selectedGroup
     ? prefectures.filter((p) => p.group === selectedGroup)
     : [];
-
-  // ✅ トップページならそのまま遷移、それ以外はモーダル
-  if (isOnTopPage && fallbackCampaign) {
-    return (
-      <Button
-        variant="outline"
-        className="rounded-full text-xs sm:text-sm"
-        onClick={() =>
-          router.push(`/campaigns/${fallbackCampaign.prefectureSlug}`)
-        }
-      >
-        {displayName}
-      </Button>
-    );
-  }
 
   return (
     <Dialog
@@ -78,7 +67,7 @@ export function PrefectureSelector() {
           className="rounded-full text-xs sm:text-sm"
           onClick={() => setOpen(true)}
         >
-          {displayName}
+          {label}
         </Button>
       </DialogTrigger>
 

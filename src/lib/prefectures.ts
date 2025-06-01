@@ -1,3 +1,4 @@
+//lib/prefectures.ts
 export const prefectures = [
   { slug: "hokkaido", name: "北海道", group: "北海道・東北", lat: 43.0642, lng: 141.3469 },
   { slug: "aomori", name: "青森県", group: "北海道・東北", lat: 40.8244, lng: 140.7400 },

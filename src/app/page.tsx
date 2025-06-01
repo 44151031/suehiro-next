@@ -9,6 +9,7 @@ import HighDiscountCampaigns from "@/components/sections/top/HighDiscountCampaig
 import EndingSoonCampaigns from "@/components/sections/top/EndingSoonCampaigns";
 import PopularSearches from "@/components/sections/top/PopularCampaignLinks";
 import Cta from "@/components/sections/top/TopCta";
+import LocationSortSection from "@/components/sections/top/GetLocationButtonSection";
 
 export default function HomePage() {
   return (
@@ -17,7 +18,11 @@ export default function HomePage() {
       <main className="pt-16"> {/* ヘッダーの高さ分マージン */}
         <HeroTop />
         <SearchForm />
+        <LocationSortSection />
+        <YourAreaCampaigns />
         <PrefectureList />
+        <HighDiscountCampaigns />
+        <EndingSoonCampaigns />
         <PopularSearches />
         <Cta />
       </main>

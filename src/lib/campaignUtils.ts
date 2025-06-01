@@ -71,15 +71,30 @@ export function getHighDiscountCampaigns(campaigns: Campaign[], minPercentage = 
   return campaigns.filter(c => Number(c.offer) >= minPercentage);
 }
 
-export function getDistanceKm(lat1: number, lng1: number, lat2: number, lng2: number): number {
-  const R = 6371;
-  const toRad = (deg: number) => (deg * Math.PI) / 180;
-  const dLat = toRad(lat2 - lat1);
-  const dLng = toRad(lng2 - lng1);
+import { prefectures } from "@/lib/prefectures";
+
+/**
+ * 2地点間の距離を計算（単位：km）
+ */
+export function calculateDistance(lat1: number, lng1: number, lat2: number, lng2: number): number {
+  const R = 6371; // 地球の半径 (km)
+  const dLat = ((lat2 - lat1) * Math.PI) / 180;
+  const dLng = ((lng2 - lng1) * Math.PI) / 180;
   const a =
     Math.sin(dLat / 2) ** 2 +
-    Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLng / 2) ** 2;
-  return R * (2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a)));
+    Math.cos((lat1 * Math.PI) / 180) *
+      Math.cos((lat2 * Math.PI) / 180) *
+      Math.sin(dLng / 2) ** 2;
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+  return R * c;
+}
+
+/**
+ * 都道府県 slug から緯度経度を取得
+ */
+export function getPrefectureCoordinates(slug: string): { lat: number; lng: number } | null {
+  const match = prefectures.find((p) => p.slug === slug);
+  return match ? { lat: match.lat, lng: match.lng } : null;
 }
 
 // キャンペーン詳細ページの画像パスのルール
