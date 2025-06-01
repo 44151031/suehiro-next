@@ -1,19 +1,19 @@
+//types/campaign.ts
 import type { PayTypeId } from "@/lib/payType";
 
-// ベース型
 export type Campaign = {
   paytype: PayTypeId;
   prefectureSlug: string;
   citySlug: string;
- lastModified?: string; // ← ✅ これがないと sitemap.ts に波線が出る
   prefecture: string;
   city: string;
   offer: number;
-  startDate: string;        // "YYYY-MM-DD"
-  endDate: string;          // "YYYY-MM-DD"
-  onepoint: string;         // 1回あたり還元上限 (ポイント数、文字列で定義)
-  fullpoint: string;        // 期間中還元上限 (ポイント数、文字列で定義)
-  campaigntitle: string;    // キャンペーンのタイトル
+  startDate: string;
+  endDate: string;
+  onepoint: string;
+  fullpoint: string;
+  campaigntitle: string;
+  lastModified?: string; // ← ✅ これがないと sitemap.ts に波線が出る
   isActive?: boolean;       // 動的に付加される可能性のあるフラグ
 };
 

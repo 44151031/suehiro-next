@@ -101,3 +101,8 @@ export function getPrefectureCoordinates(slug: string): { lat: number; lng: numb
 export function getCampaignImagePath(prefectureSlug: string, citySlug: string): string {
   return `/images/campaigns/${prefectureSlug}-${citySlug}.jpg`;
 }
+
+// ✅ /lib/campaignUtils.ts に追加
+export function formatNumber(value: number | string) {
+  return Number(value).toLocaleString("ja-JP");
+}
