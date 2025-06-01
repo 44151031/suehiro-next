@@ -1,19 +1,24 @@
-// ✅ hooks/useSortedCampaignsByDistance.ts
 "use client";
 
 import { useEffect, useState } from "react";
 import { prefectures } from "@/lib/prefectures";
-import { getDistanceKm } from "@/lib/campaignUtils"; // ← Haversine関数はここに
+import { getDistanceKm } from "@/lib/campaignUtils";
 import { Campaign } from "@/types/campaign";
 
-export function useSortedCampaignsByDistance(campaigns: Campaign[]): Campaign[] | null {
-  const [sorted, setSorted] = useState<Campaign[] | null>(null);
+export function useSortedCampaignsByDistance(campaigns: Campaign[]): Campaign[] {
+  const [sorted, setSorted] = useState<Campaign[]>([]);
 
   useEffect(() => {
     if (!navigator.geolocation) {
       setSorted(campaigns);
       return;
     }
+
+    const geoOptions = {
+      timeout: 3000, // 3秒でタイムアウト
+      maximumAge: 0,
+      enableHighAccuracy: false,
+    };
 
     navigator.geolocation.getCurrentPosition(
       ({ coords }) => {
@@ -36,7 +41,8 @@ export function useSortedCampaignsByDistance(campaigns: Campaign[]): Campaign[] 
       (err) => {
         console.warn("位置情報の取得に失敗しました", err);
         setSorted(campaigns); // fallback
-      }
+      },
+      geoOptions
     );
   }, [campaigns]);
 
