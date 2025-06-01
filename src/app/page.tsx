@@ -17,10 +17,7 @@ export default function HomePage() {
       <main className="pt-16"> {/* ヘッダーの高さ分マージン */}
         <HeroTop />
         <SearchForm />
-        <YourAreaCampaigns />
         <PrefectureList />
-        <HighDiscountCampaigns />
-        <EndingSoonCampaigns />
         <PopularSearches />
         <Cta />
       </main>
