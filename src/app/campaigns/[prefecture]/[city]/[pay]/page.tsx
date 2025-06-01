@@ -14,7 +14,6 @@ import GenreHeaderNav from "@/components/sections/city/GenreHeaderNav";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import ShopListGroup from "@/components/sections/city/ShopListGroupSortByGenrePriority";
 
-// ✅ 追加：動的タイトル・description生成
 export async function generateMetadata({
   params,
 }: {
@@ -39,7 +38,6 @@ export async function generateMetadata({
   };
 }
 
-// ✅ ページ本体（変更なし）
 export default function CityPaytypePage({
   params,
 }: {
@@ -56,8 +54,15 @@ export default function CityPaytypePage({
   );
   if (!campaign) return notFound();
 
-  const shopList = loadShopList(params.prefecture, params.city);
-  const genres = loadGenres(params.prefecture, params.city);
+  const isPayPay = params.pay === "paypay";
+
+  // ✅ PayPayのときだけ JSON を読み込む
+  const shopList = isPayPay
+    ? loadShopList(params.prefecture, params.city)
+    : null;
+  const genres = isPayPay
+    ? loadGenres(params.prefecture, params.city)
+    : [];
 
   const {
     prefecture,
