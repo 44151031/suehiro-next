@@ -35,8 +35,8 @@ export async function generateMetadata({
   const payLabel = PayTypeLabels[paytypeId];
 
   return {
-    title: `${city}の${payLabel}${offer}%還元キャンペーン情報 - Payキャン`,
-    description: `${city}で実施されている${payLabel}の${offer}%還元キャンペーンの詳細を紹介します。期間・付与上限・対象店舗情報なども網羅。`,
+    title: `${city}の${payLabel}${offer}%還元キャンペーン対象店舗 - Payキャン`,
+    description: `${city}で実施されている${payLabel}の${offer}%還元キャンペーンの詳細を紹介します。期間・付与上限・対象店舗情報など`,
   };
 }
 
