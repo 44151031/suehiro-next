@@ -13,7 +13,7 @@ export function getPrefectureMetadata(prefectureSlug: string): Metadata {
   const prefecture = campaigns.find(c => c.prefectureSlug === prefectureSlug)?.prefecture || "全国";
 
   return {
-    title: `${prefecture}の還元キャンペーン情報 - Payキャン`,
+    title: `${prefecture}の還元キャンペーン情報`,
     description: `${prefecture}で開催中のキャッシュレス還元キャンペーン一覧を紹介します。`,
   };
 }
@@ -25,7 +25,7 @@ export function getCityMetadata(prefectureSlug: string, citySlug: string): Metad
 
   if (!campaign) {
     return {
-      title: "還元キャンペーン情報 - Payキャン",
+      title: "還元キャンペーン情報",
       description: "市区町村のキャッシュレスキャンペーン情報を紹介します。",
     };
   }
@@ -33,8 +33,8 @@ export function getCityMetadata(prefectureSlug: string, citySlug: string): Metad
   const { prefecture, city, paytype, offer } = campaign;
 
   const title = paytype
-    ? `${city}の${paytype} ${offer}％還元キャンペーン情報 - Payキャン`
-    : `${prefecture}${city}の還元キャンペーン情報 - Payキャン`;
+    ? `${city}の${paytype} ${offer}％還元キャンペーン情報`
+    : `${prefecture}${city}の還元キャンペーン情報`;
 
   const description = `${prefecture}${city}で実施中のキャンペーンを紹介。${paytype ? `${paytype}による${offer}％還元対象！` : ""}`;
 
