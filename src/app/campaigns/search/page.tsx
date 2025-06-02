@@ -4,8 +4,12 @@ import { Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { campaigns } from '@/lib/campaignMaster';
 import CampaignCard from '@/components/common/CampaignCard';
-import BackNavigationButtons from "@/components/common/BackNavigationButtons";
+import BackNavigationButtons from '@/components/common/BackNavigationButtons';
 import Link from 'next/link';
+
+import Header from '@/components/layout/Header';
+import Footer from '@/components/layout/Footer';
+import LayoutShell from '@/components/layout/LayoutShell';
 
 function SearchResultsInner() {
   const searchParams = useSearchParams();
@@ -20,7 +24,8 @@ function SearchResultsInner() {
   return (
     <>
       <h1 className="text-3xl sm:text-4xl font-extrabold text-neutral-800 mb-8">
-        「{keyword}」の検索結果 <span className="text-base text-gray-500">（{filtered.length}件）</span>
+        「{keyword}」の検索結果{' '}
+        <span className="text-base text-gray-500">（{filtered.length}件）</span>
       </h1>
 
       {filtered.length === 0 ? (
@@ -33,8 +38,7 @@ function SearchResultsInner() {
             <Link
               key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}
               href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`}
-              className="block transition-transform hover:scale-[1.02]"
-            >
+              className="block transition-transform hover:scale-[1.02]">
               <CampaignCard
                 prefecture={c.prefecture}
                 city={c.city}
@@ -54,12 +58,12 @@ function SearchResultsInner() {
 
 export default function SearchResultsPage() {
   return (
-    <div className="w-full bg-[#f8f7f2] text-secondary-foreground min-h-screen">
+    <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
       <div className="max-w-[1200px] mx-auto px-4 py-10">
+        <Header />
         <Suspense fallback={<div>検索中...</div>}>
           <SearchResultsInner />
         </Suspense>
-
         <BackNavigationButtons />
       </div>
     </div>
