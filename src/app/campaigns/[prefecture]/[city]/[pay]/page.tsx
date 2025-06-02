@@ -86,7 +86,10 @@ export default function CityPaytypePage({
         </h1>
 
         <CampaignSummaryCard campaign={campaign} />
-        <GenreHeaderNav genres={genres} />
+        <GenreHeaderNav
+          genres={genres}
+          paytypeLabel={PayTypeLabels[paytypeId]}
+        />
 
         <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
           <p>
