@@ -13,7 +13,7 @@ export default function Footer() {
           <span className="text-sm text-gray-600 font-medium align-middle">（ペイキャン）</span>
           <br />
           <span className="text-sm sm:text-base font-normal text-gray-500">
-            PayPay・auPay・楽天pay・d払い 市区町村キャンペーン体験
+            PayPay・auPay・楽天ペイ・d払い 市区町村キャンペーン体験
           </span>
         </p>
 

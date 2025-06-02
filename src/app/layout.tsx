@@ -20,24 +20,24 @@ const geistMono = Geist_Mono({
 // ✅ SEOメタデータ設定
 export const metadata: Metadata = {
   title: {
-    default: "PayPay・auPay・楽天Pay・d払いキャンペーン体験 - Payキャン",
+    default: "PayPay・auPay・楽天ペイ・d払いキャンペーン体験 - Payキャン",
     template: "%s - Payキャン",
   },
   description:
-    "全国のPayPay・auPay・楽天Pay・d払いキャンペーンをまとめて紹介。各地域で獲得出来る総額もわかるから、効率よくポイントを獲得出来ます。",
+    "全国のPayPay・auPay・楽天ペイ・d払いキャンペーンをまとめて紹介。各地域で獲得出来る総額もわかるから、効率よくポイントを獲得出来ます。",
   openGraph: {
-    title: "PayPay・auPay・楽天Pay・d払いキャンペーン体験 - Payキャン",
+    title: "PayPay・auPay・楽天ペイ・d払いキャンペーン体験 - Payキャン",
     description:
-      "全国のPayPay・auPay・楽天Pay・d払いキャンペーンをまとめて紹介。各地域で獲得出来る総額もわかるから、効率よくポイントを獲得出来ます。",
+      "全国のPayPay・auPay・楽天ペイ・d払いキャンペーンをまとめて紹介。各地域で獲得出来る総額もわかるから、効率よくポイントを獲得出来ます。",
     url: "https://paycancampaign.com",
     siteName: "Payキャン",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "PayPay・auPay・楽天Pay・d払いキャンペーン体験 - Payキャン",
+    title: "PayPay・auPay・楽天ペイ・d払いキャンペーン体験 - Payキャン",
     description:
-      "全国のPayPay・auPay・楽天Pay・d払いキャンペーンをまとめて紹介。各地域で獲得出来る総額もわかるから、効率よくポイントを獲得出来ます。",
+      "全国のPayPay・auPay・楽天ペイ・d払いキャンペーンをまとめて紹介。各地域で獲得出来る総額もわかるから、効率よくポイントを獲得出来ます。",
   },
 };
 
