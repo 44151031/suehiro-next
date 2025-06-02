@@ -9,7 +9,6 @@ import {
   isNowInCampaignPeriod,
 } from "@/lib/campaignUtils";
 import CampaignLineCard from "@/components/common/CampaignLineCard";
-import { PayTypeSlugMap } from "@/lib/payType"; // ✅ スラッグ変換追加
 
 type Props = {
   groupName: string;
@@ -64,7 +63,7 @@ export default function CampaignGroupSection({
               {filtered.map((c) => (
                 <Link
                   key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}
-                  href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${PayTypeSlugMap[c.paytype]}`} // ✅ ここだけ変更
+                  href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`}
                   className="block"
                 >
                   <CampaignLineCard
@@ -79,7 +78,7 @@ export default function CampaignGroupSection({
                       c.startDate,
                       c.endDate
                     )}
-                    paytype={c.paytype} 
+                    paytype={c.paytype}
                   />
                 </Link>
               ))}

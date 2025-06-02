@@ -1,6 +1,6 @@
 // ✅ /lib/metadataGenerators.ts
 import { Metadata } from "next";
-import { campaigns } from "@/lib/campaigns";
+import { campaigns } from "@/lib/campaignMaster";
 
 export function getNationalMetadata(): Metadata {
   return {

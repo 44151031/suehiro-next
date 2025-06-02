@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import { campaigns } from "@/lib/campaignMaster";
-import { SlugToPayTypeId, PayTypeLabels, PayTypeId } from "@/lib/payType";
+import { PayTypeLabels, PayTypeId } from "@/lib/payType";
 import { formatJapaneseDate } from "@/lib/campaignUtils";
 import { loadShopList } from "@/lib/loadShopList";
 import { loadGenres } from "@/lib/loadGenres";
@@ -12,13 +12,14 @@ import CampaignSummaryCard from "@/components/sections/city/CampaignSummaryCard"
 import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCampaigns";
 import GenreHeaderNav from "@/components/sections/city/GenreHeaderNav";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
+import ShopListGroup from "@/components/sections/city/ShopListGroupSortByGenrePriority";
 
 export async function generateMetadata({
   params,
 }: {
   params: { prefecture: string; city: string; pay: string };
 }): Promise<Metadata> {
-  const paytypeId = SlugToPayTypeId[params.pay];
+  const paytypeId = params.pay as PayTypeId;
   if (!paytypeId) return { title: "キャンペーン情報 - Payキャン" };
 
   const campaign = campaigns.find(
@@ -31,7 +32,7 @@ export async function generateMetadata({
   if (!campaign) return { title: "キャンペーン情報 - Payキャン" };
 
   const { city, offer } = campaign;
-  const payLabel = PayTypeLabels[paytypeId as PayTypeId];
+  const payLabel = PayTypeLabels[paytypeId];
 
   return {
     title: `${city}の${payLabel}${offer}%還元キャンペーン情報 - Payキャン`,
@@ -44,7 +45,7 @@ export default function CityPaytypePage({
 }: {
   params: { prefecture: string; city: string; pay: string };
 }) {
-  const paytypeId = SlugToPayTypeId[params.pay];
+  const paytypeId = params.pay as PayTypeId;
   if (!paytypeId) return notFound();
 
   const campaign = campaigns.find(
@@ -55,8 +56,8 @@ export default function CityPaytypePage({
   );
   if (!campaign) return notFound();
 
-  const payLabel = PayTypeLabels[paytypeId as PayTypeId];
-  const isPayPay = params.pay === "paypay";
+  const payLabel = PayTypeLabels[paytypeId];
+  const isPayPay = paytypeId === "paypay";
 
   const shopList = isPayPay
     ? loadShopList(params.prefecture, params.city)

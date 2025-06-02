@@ -3,7 +3,7 @@
 import { usePathname } from "next/navigation";
 import Link from "next/link";
 import { breadcrumbLabels } from "@/lib/breadcrumbLabels";
-import { campaigns } from "@/lib/campaigns";
+import { campaigns } from "@/lib/campaignMaster";
 import Container from "@/components/layout/Container";
 
 export default function Breadcrumbs() {

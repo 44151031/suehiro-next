@@ -1,4 +1,3 @@
-// ✅ /components/common/CampaignSlider.tsx
 "use client";
 
 import { useRef, useState, useEffect } from "react";
@@ -6,7 +5,6 @@ import Link from "next/link";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import CampaignCard from "@/components/common/CampaignCard";
 import type { Campaign } from "@/types/campaign";
-import { PayTypeSlugMap } from "@/lib/payType";
 
 type Props = {
   campaigns: Campaign[];
@@ -66,13 +64,13 @@ export default function ScopedCampaignSlider({
         <div className="relative">
           <button
             onClick={() => scrollByAmount(-300)}
-            className="absolute left-0 top-1/2 -translate-y-1/2 z-20 bg-white/70 hover:bg-white/90 shadow-md rounded-full p-2 backdrop-blur-sm hidden md:block"
+            className="absolute left-0 top-1/2 -translate-y-1/2 z-20 bg-white/70 opacity-50 hover:opacity-90 shadow-md rounded-full p-2 backdrop-blur-sm hidden md:block"
           >
             <ChevronLeft className="w-5 h-5" />
           </button>
           <button
             onClick={() => scrollByAmount(300)}
-            className="absolute right-0 top-1/2 -translate-y-1/2 z-20 bg-white/70 hover:bg-white/90 shadow-md rounded-full p-2 backdrop-blur-sm hidden md:block"
+            className="absolute right-0 top-1/2 -translate-y-1/2 z-20 bg-white/70 opacity-50 hover:opacity-90 shadow-md rounded-full p-2 backdrop-blur-sm hidden md:block"
           >
             <ChevronRight className="w-5 h-5" />
           </button>
@@ -89,7 +87,7 @@ export default function ScopedCampaignSlider({
             {campaigns.map((c) => (
               <Link
                 key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}
-                href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${PayTypeSlugMap[c.paytype]}`}
+                href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`}
                 draggable={false}
                 className="shrink-0 snap-start w-[85%] sm:w-[260px] md:w-[280px] lg:w-[300px] transition-transform hover:scale-[1.02]"
               >

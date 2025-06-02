@@ -1,7 +1,6 @@
 import { campaigns } from "@/lib/campaignMaster";
 import CampaignCard from "@/components/common/CampaignCard";
 import { formatJapaneseDate } from "@/lib/campaignUtils";
-import { PayTypeSlugMap } from "@/lib/payType"; // ✅ 追加
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
@@ -29,7 +28,7 @@ export default function CityCampaignsPage({
           {list.map((c) => (
             <Link
               key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}
-              href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${PayTypeSlugMap[c.paytype]}`} // ✅ 修正
+              href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`}
               className="block transition-transform hover:scale-[1.02]"
             >
               <CampaignCard

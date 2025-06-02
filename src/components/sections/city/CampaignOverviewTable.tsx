@@ -1,18 +1,17 @@
 // ✅ /components/sections/city/CampaignOverviewTable.tsx
 
 import { formatJapaneseDate } from "@/lib/campaignUtils";
-import { PayTypeLabels } from "@/lib/payType";
+// ✅ 修正：PayTypeLabels → PayTypes に変更
+import { PayTypes } from "@/lib/payType";
 import { calculateOnePay, calculateFullPay, calculatePayTime } from "@/lib/campaignCalculations";
 import type { Campaign } from "@/types/campaign";
-
-type Props = { campaign: Campaign };
 
 // ✅ カンマ付き数値
 function formatNumber(val: number | string) {
   return Number(val).toLocaleString("ja-JP");
 }
 
-export function CampaignOverviewTable({ campaign }: Props) {
+export function CampaignOverviewTable({ campaign }: { campaign: Campaign }) {
   const {
     prefecture,
     city,
@@ -27,7 +26,9 @@ export function CampaignOverviewTable({ campaign }: Props) {
   const onepay = calculateOnePay(Number(onepoint), offer);
   const fullpay = calculateFullPay(Number(fullpoint), offer);
   const paytime = calculatePayTime(fullpay, onepay);
-  const payLabel = PayTypeLabels[paytype];
+
+  // ✅ 修正箇所：ラベルを PayTypes から取得
+  const payLabel = PayTypes[paytype].label;
 
   return (
     <section className="bg-white border border-gray-200 rounded-2xl shadow-sm p-6 sm:p-8 mt-10">

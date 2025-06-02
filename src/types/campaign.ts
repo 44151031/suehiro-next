@@ -1,5 +1,5 @@
 //types/campaign.ts
-import type { PayTypeId } from "@/lib/payType";
+export type PayTypeId = "paypay" | "aupay" | "rakutenpay" | "dbarai";
 
 export type Campaign = {
   paytype: PayTypeId;

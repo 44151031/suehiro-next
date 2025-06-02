@@ -11,7 +11,6 @@ import { campaigns } from "@/lib/campaignMaster";
 import { prefectures } from "@/lib/prefectures";
 import { isNowInCampaignPeriod } from "@/lib/campaignUtils";
 import CampaignLineCard from "@/components/common/CampaignLineCard";
-import { PayTypeSlugMap } from "@/lib/payType"; // ✅ 追加
 
 type Props = {
   prefectureSlug: string;
@@ -74,7 +73,7 @@ export function RecommendedCampaigns({ prefectureSlug, citySlug }: Props) {
       </h2>
       <ul className="grid grid-cols-1 xl:grid-cols-2 gap-4">
         {recommended.slice(0, 4).map((c) => {
-          const paySlug = PayTypeSlugMap[c.paytype];
+          const paySlug = c.paytype;
           if (!paySlug) return null;
 
           return (

@@ -10,7 +10,7 @@ import {
 import { Button } from "@/components/ui/button";
 import { usePathname, useRouter } from "next/navigation";
 import { useState } from "react";
-import { campaigns } from "@/lib/campaigns";
+import { campaigns } from "@/lib/campaignMaster";
 import { prefectures, prefectureGroups } from "@/lib/prefectures";
 
 export function PrefectureSelector() {

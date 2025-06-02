@@ -7,7 +7,7 @@ import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { useEffect, useState } from "react";
 import { campaigns } from "@/lib/campaignMaster";
-import { PayTypeId, PayTypeLabels, PayTypeSlugMap } from "@/lib/payType";
+import { PayTypeId, PayTypeLabels } from "@/lib/payType";
 
 function truncate(text: string | undefined, max: number) {
   if (!text) return "";
@@ -46,8 +46,7 @@ export default function HeroTop() {
   useEffect(() => {
     const now = new Date();
     const active = campaigns.filter(
-      (c) =>
-        new Date(c.startDate) <= now && new Date(c.endDate) >= now
+      (c) => new Date(c.startDate) <= now && new Date(c.endDate) >= now
     );
 
     const shuffled = [...active].sort(() => 0.5 - Math.random()).slice(0, 5);
@@ -56,21 +55,19 @@ export default function HeroTop() {
       image: `/images/campaigns/${c.prefectureSlug}-${c.citySlug}.jpg`,
       title: truncate(c.campaigntitle ?? `${c.city}のキャンペーン`, 13),
       description: `${c.prefecture}${c.city}`,
-      href: `/campaigns/${c.prefectureSlug}/${c.citySlug}/${PayTypeSlugMap[c.paytype]}`,
+      href: `/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`,
       paytype: c.paytype,
     }));
 
     setSlides(formatted);
   }, []);
 
-  // 初期化直後にスライダー再計算（バグ防止）
   useEffect(() => {
     if (instanceRef.current) {
       instanceRef.current.update();
     }
   }, [slides]);
 
-  // 自動スライド
   useEffect(() => {
     const interval = setInterval(() => {
       if (instanceRef.current?.next) {

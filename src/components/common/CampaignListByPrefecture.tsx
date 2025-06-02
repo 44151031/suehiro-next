@@ -1,10 +1,7 @@
-// ✅ /components/common/CampaignListByPrefecture.tsx
-
 import Link from "next/link";
 import CampaignCard from "@/components/common/CampaignCard";
 import { campaigns } from "@/lib/campaignMaster";
 import { formatJapaneseDate } from "@/lib/campaignUtils";
-import { PayTypeSlugMap } from "@/lib/payType"; // ✅ スラッグマップをインポート
 
 type Props = {
   prefectureSlug: string;
@@ -23,7 +20,7 @@ export function CampaignListByPrefecture({ prefectureSlug, excludeCitySlug }: Pr
       {list.map((c) => (
         <Link
           key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}
-          href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${PayTypeSlugMap[c.paytype]}`} // ✅ paytypeを含めたURL
+          href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`}
           className="block transition-transform hover:scale-[1.02]"
         >
           <CampaignCard

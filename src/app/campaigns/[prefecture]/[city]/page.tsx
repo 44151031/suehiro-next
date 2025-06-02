@@ -3,11 +3,11 @@ import { Metadata } from "next";
 import Link from "next/link";
 import { campaigns } from "@/lib/campaignMaster";
 import { formatJapaneseDate, isNowInCampaignPeriod } from "@/lib/campaignUtils";
-import { PayTypeSlugMap } from "@/lib/payType";
 import CampaignCard from "@/components/common/CampaignCard";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import CampaignTotalPointSummary from "@/components/common/CampaignTotalPointSummary";
 import { getCityMetadata } from "@/lib/metadataGenerators";
+import type { PayTypeId } from "@/lib/payType";
 
 // ✅ メタデータ（市区町村ページ）
 export async function generateMetadata({
@@ -64,8 +64,8 @@ export default function CityCampaignsPage({
         {/* キャンペーンカード一覧 */}
         <div className="grid gap-6 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
           {list.map((c) => {
-            const paySlug = PayTypeSlugMap[c.paytype];
-            if (!paySlug) return null; // 念のため無効スキップ
+            const paySlug = c.paytype as PayTypeId;
+            if (!paySlug) return null;
 
             return (
               <Link
@@ -89,7 +89,7 @@ export default function CityCampaignsPage({
                         })}`
                       : ""
                   }
-                  paytype={c.paytype}
+                  paytype={paySlug}
                 />
               </Link>
             );

@@ -1,5 +1,5 @@
 import { formatJapaneseDate, isNowInCampaignPeriod } from "@/lib/campaignUtils";
-import { PayTypeId, PayTypeLabels } from "@/lib/payType";
+import { PayTypeId, PayTypes } from "@/lib/payType";
 
 type CampaignCardProps = {
   prefecture: string;
@@ -9,7 +9,7 @@ type CampaignCardProps = {
   endDate?: string;
   period?: string;
   fullpoint?: string;
-  paytype?: PayTypeId; // ← 追加
+  paytype?: PayTypeId;
 };
 
 export default function CampaignCard({
@@ -24,18 +24,16 @@ export default function CampaignCard({
 }: CampaignCardProps) {
   const hasDate = startDate && endDate;
   const isActive = hasDate ? isNowInCampaignPeriod(startDate, endDate) : false;
-  const paytypeLabel = paytype ? PayTypeLabels[paytype] ?? "その他" : "";
+  const paytypeLabel = paytype && PayTypes[paytype] ? PayTypes[paytype].label : "その他";
 
   return (
     <div className="relative bg-white text-card-foreground border border-border rounded-2xl shadow-lg hover:shadow-xl transition duration-300 p-6 w-full min-w-[240px] max-w-[300px]">
-      {/* ✅ 開催中バッジ */}
       {isActive && (
         <span className="absolute top-3 right-3 bg-accent text-white text-xs font-semibold px-2 py-1 rounded-full shadow-sm tracking-wide">
           開催中
         </span>
       )}
 
-      {/* 都道府県・市区町村 */}
       <p className="text-base font-medium mb-1 leading-tight">
         <span className="text-xl font-extrabold text-neutral-900 dark:text-white">
           {prefecture}
@@ -43,7 +41,6 @@ export default function CampaignCard({
         <span className="text-base text-neutral-900 font-extrabold"> {city}</span>
       </p>
 
-      {/* 還元率 */}
       <p className="text-base mb-1 leading-tight">
         {paytypeLabel && (
           <span className="text-sm text-gray-800 mr-1 font-extrabold">{paytypeLabel}</span>
@@ -51,7 +48,6 @@ export default function CampaignCard({
         <span className="text-2xl font-extrabold text-accent">{offer}%</span> 還元
       </p>
 
-      {/* キャンペーン期間 */}
       {period ? (
         <p className="text-sm text-neutral-700 leading-snug">{period}</p>
       ) : hasDate ? (
@@ -61,7 +57,6 @@ export default function CampaignCard({
         </p>
       ) : null}
 
-      {/* 最大ポイント */}
       {fullpoint && (
         <p className="text-base font-semibold text-neutral-700 leading-tight flex items-baseline gap-1">
           <span>最大</span>

@@ -6,7 +6,6 @@ import { campaigns } from '@/lib/campaignMaster';
 import CampaignCard from '@/components/common/CampaignCard';
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import Link from 'next/link';
-import { PayTypeSlugMap } from "@/lib/payType";
 
 function SearchResultsInner() {
   const searchParams = useSearchParams();
@@ -33,7 +32,7 @@ function SearchResultsInner() {
           {filtered.map((c) => (
             <Link
               key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}
-              href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${PayTypeSlugMap[c.paytype]}`}
+              href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`}
               className="block transition-transform hover:scale-[1.02]"
             >
               <CampaignCard
