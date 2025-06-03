@@ -77,7 +77,7 @@ export default function ScopedCampaignSlider({
 
           <div
             ref={scrollRef}
-            className="flex overflow-x-auto scroll-smooth snap-x snap-mandatory bg-white rounded-xl px-4 sm:px-8 lg:px-10 py-6 gap-1 sm:gap-3 md:gap-4 scrollbar-none cursor-grab active:cursor-grabbing"
+            className="flex overflow-x-auto scroll-smooth snap-x snap-mandatory bg-white rounded-xl px-4 sm:px-8 lg:px-10 py-6 gap-[2px] sm:gap-3 md:gap-4 scrollbar-none cursor-grab active:cursor-grabbing"
             onMouseDown={handleMouseDown}
             onMouseMove={handleMouseMove}
             onMouseLeave={handleMouseUp}
@@ -89,7 +89,7 @@ export default function ScopedCampaignSlider({
                 key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}
                 href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`}
                 draggable={false}
-                className="shrink-0 snap-start w-[57%] sm:w-[240px] md:w-[260px] lg:w-[280px] transition-transform hover:scale-[1.02]"
+                className="shrink-0 snap-start w-[82%] sm:w-[240px] md:w-[260px] lg:w-[280px] transition-transform hover:scale-[1.02]"
               >
                 <CampaignCard
                   prefecture={c.prefecture}
