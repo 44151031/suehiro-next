@@ -89,7 +89,7 @@ export default function ScopedCampaignSlider({
                 key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}
                 href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`}
                 draggable={false}
-                className="shrink-0 snap-start w-[85%] sm:w-[260px] md:w-[280px] lg:w-[300px] transition-transform hover:scale-[1.02]"
+                className="shrink-0 snap-start w-[57%] sm:w-[240px] md:w-[260px] lg:w-[280px] transition-transform hover:scale-[1.02]"
               >
                 <CampaignCard
                   prefecture={c.prefecture}
