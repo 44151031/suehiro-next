@@ -46,7 +46,7 @@ export default function Header() {
           {/* ✅ タイトル */}
 <Link href="/" className="flex flex-col leading-tight group">
   <span className="text-xs sm:text-sm text-neutral-600 mt leading-tight">
-    PayPay・auPay・楽天ペイ・d払い 市区町村キャンペーン体験
+    PayPay・auPay・楽天ペイ・d払い キャンペーン体験
   </span>
   <span className="text-2xl sm:text-3xl font-extrabold tracking-tight text-gray-900 leading-tight">
     <span className="text-red-600">Pay</span>
