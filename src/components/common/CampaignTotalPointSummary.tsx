@@ -23,9 +23,12 @@ export default function CampaignTotalPointSummary({ campaigns, areaLabel }: Prop
   const totalScheduledFullpoint = sumFullpoint(scheduledCampaigns);
   const totalAllFullpoint = totalFullpoint + totalScheduledFullpoint;
 
+  const hasScheduled = totalScheduledFullpoint > 0;
+  const hasActive = totalFullpoint > 0;
+
   return (
     <div className="mt-6 mb-5 bg-white border border-neutral-300 rounded-xl shadow-sm px-6 py-4">
-      {totalFullpoint > 0 ? (
+      {hasActive ? (
         <p className="text-base sm:text-lg font-medium text-neutral-800 text-center leading-snug">
           {areaLabel}の開催中のキャンペーンで
           <span className="sm:hidden"><br /></span>
@@ -38,14 +41,19 @@ export default function CampaignTotalPointSummary({ campaigns, areaLabel }: Prop
           <span className="text-sm text-neutral-500">
             （相当のポイントまたは残高）
           </span>
-          <br />
-          <span className="text-sm text-neutral-500">
-            ちなみに開催予定も含めるとナント
-            <span className="mx-1 text-green-600 font-bold">
-              {formatNumber(totalAllFullpoint)}
-            </span>
-            円！
-          </span>
+
+          {hasScheduled && (
+            <>
+              <br />
+              <span className="text-sm text-neutral-500">
+                ちなみに開催予定も含めるとナント
+                <span className="mx-1 text-green-600 font-bold">
+                  {formatNumber(totalAllFullpoint)}
+                </span>
+                円！
+              </span>
+            </>
+          )}
         </p>
       ) : (
         <p className="text-base sm:text-lg font-medium text-neutral-500 text-center leading-snug">
