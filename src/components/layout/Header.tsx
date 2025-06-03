@@ -45,10 +45,10 @@ export default function Header() {
         <div className="h-16 flex items-center justify-between">
           {/* ✅ タイトル */}
 <Link href="/" className="flex flex-col leading-tight group">
-  <span className="text-xs sm:text-sm text-neutral-600 mt">
+  <span className="text-xs sm:text-sm text-neutral-600 mt leading-tight">
     PayPay・auPay・楽天ペイ・d払い 市区町村キャンペーン体験
   </span>
-  <span className="text-2xl sm:text-3xl font-extrabold tracking-tight text-gray-900">
+  <span className="text-2xl sm:text-3xl font-extrabold tracking-tight text-gray-900 leading-tight">
     <span className="text-red-600">Pay</span>
     <span className="text-xl text-gray-800 font-medium ml-1 align-middle">キャン</span>
     <span className="text-sm text-gray-600 font-medium align-middle">
