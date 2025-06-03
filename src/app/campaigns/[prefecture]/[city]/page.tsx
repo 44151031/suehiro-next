@@ -1,15 +1,13 @@
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
-import Link from "next/link";
 import { campaigns } from "@/lib/campaignMaster";
 import { formatJapaneseDate, isNowInCampaignPeriod } from "@/lib/campaignUtils";
-import CampaignCard from "@/components/common/CampaignCard";
-import BackNavigationButtons from "@/components/common/BackNavigationButtons";
-import CampaignTotalPointSummary from "@/components/common/CampaignTotalPointSummary";
 import { getCityMetadata } from "@/lib/metadataGenerators";
-import type { PayTypeId } from "@/lib/payType";
 
-// ✅ メタデータ（市区町村ページ）
+import CampaignTotalPointSummary from "@/components/common/CampaignTotalPointSummary";
+import BackNavigationButtons from "@/components/common/BackNavigationButtons";
+import { CampaignCardList } from "@/components/common/CampaignCardList";
+
 export async function generateMetadata({
   params,
 }: {
@@ -28,7 +26,6 @@ export default function CityCampaignsPage({
   const list = campaigns.filter(
     (c) => c.prefectureSlug === prefecture && c.citySlug === city
   );
-
   if (list.length === 0) return notFound();
 
   const cityName = list[0].city;
@@ -61,42 +58,12 @@ export default function CityCampaignsPage({
         {/* 合計ポイント */}
         <CampaignTotalPointSummary campaigns={list} areaLabel={cityName} />
 
-        {/* キャンペーンカード一覧 */}
-        <div className="grid gap-6 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
-          {list.map((c) => {
-            const paySlug = c.paytype as PayTypeId;
-            if (!paySlug) return null;
-
-            return (
-              <Link
-                key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}
-                href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${paySlug}`}
-                className="block transition-transform hover:scale-[1.02]"
-              >
-                <CampaignCard
-                  prefecture={c.prefecture}
-                  city={c.city}
-                  offer={c.offer}
-                  fullpoint={c.fullpoint}
-                  startDate={c.startDate}
-                  endDate={c.endDate}
-                  period={
-                    c.startDate && c.endDate
-                      ? `${formatJapaneseDate(c.startDate, undefined, {
-                          omitYear: true,
-                        })}〜${formatJapaneseDate(c.endDate, undefined, {
-                          omitYear: true,
-                        })}`
-                      : ""
-                  }
-                  paytype={paySlug}
-                />
-              </Link>
-            );
-          })}
+        {/* カード一覧 */}
+        <div className="city-page-card-container">
+          <CampaignCardList campaigns={list} />
         </div>
 
-        {/* 戻る */}
+        {/* 戻るボタン */}
         <BackNavigationButtons
           prefecture={prefectureName}
           prefectureSlug={prefecture}

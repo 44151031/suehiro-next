@@ -1,3 +1,4 @@
+//CampaignListByPrefecture.tsx
 import Link from "next/link";
 import CampaignCard from "@/components/common/CampaignCard";
 import { campaigns } from "@/lib/campaignMaster";

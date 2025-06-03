@@ -146,3 +146,10 @@
     /* Chrome, Safari */
   }
 }
+
+/* スマホ時にキャンペーンカードを90%に */
+@media (max-width: 640px) {
+  .prefecture-page-card-container .min-w-\[240px\] {
+    width: 90% !important;
+  }
+}
