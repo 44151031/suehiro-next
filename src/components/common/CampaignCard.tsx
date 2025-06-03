@@ -27,7 +27,7 @@ export default function CampaignCard({
   const paytypeLabel = paytype && PayTypes[paytype] ? PayTypes[paytype].label : "その他";
 
   return (
-    <div className="relative w-4/5 sm:w-full min-w-[220px] max-w-[250px] p-6 border border-border rounded-2xl bg-white text-card-foreground shadow-lg hover:shadow-xl transition duration-300">
+    <div className="relative w-[90%] sm:w-full max-w-[320px] px-4 py-6 border border-border rounded-2xl bg-white text-card-foreground shadow-lg hover:shadow-xl transition duration-300 mx-auto text-[clamp(0.85rem,2vw,1rem)]">
       {isActive && (
         <span className="absolute top-3 right-3 bg-accent text-white text-xs font-semibold px-2 py-1 rounded-full shadow-sm tracking-wide">
           開催中
