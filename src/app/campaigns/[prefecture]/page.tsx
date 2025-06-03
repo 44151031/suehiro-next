@@ -53,8 +53,10 @@ export default function PrefecturePage({
           </p>
         </div>
 
-        {/* ✅ 一覧 */}
-        <CampaignListByPrefecture prefectureSlug={params.prefecture} />
+        {/* ✅ 一覧（スマホで縮小表示） */}
+        <div className="sm:scale-100 origin-top">
+          <CampaignListByPrefecture prefectureSlug={params.prefecture} />
+        </div>
 
         {/* ✅ 戻る */}
         <BackNavigationButtons prefectureSlug={params.prefecture} prefecture={prefectureName} />
