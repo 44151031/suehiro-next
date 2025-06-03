@@ -42,4 +42,7 @@ export const campaigns: Campaign[] = [
 {paytype: "dbarai", prefectureSlug: "gifu", citySlug: "gifu", prefecture: "岐阜県", city: "岐阜市", offer: 10, startDate: "2025-06-01", endDate: "2025-06-30", onepoint: "1000", fullpoint: "5000",campaigntitle: "岐阜市物価高騰支援事業 10%還元キャンペーン"},
 {paytype: "dbarai", prefectureSlug: "wakayama", citySlug: "tanabe", prefecture: "和歌山県", city: "田辺市", offer: 20, startDate: "2025-06-01", endDate: "2025-07-15", onepoint: "1000", fullpoint: "3000",campaigntitle: "田辺市キャッシュレス決済ポイント 最大20％戻ってくるキャンペーン第3弾"},
 {paytype: "dbarai", prefectureSlug: "kagoshima", citySlug: "satsuma", prefecture: "鹿児島県", city: "さつま町", offer: 30, startDate: "2025-06-01", endDate: "2025-06-30", onepoint: "1000", fullpoint: "3000",campaigntitle: "スマホでピっと応援！キャッシュレス決済キャンペーン"},
+{paytype: "paypay", prefectureSlug: "tochigi", citySlug: "yaita", prefecture: "栃木県", city: "矢板市", offer: 20, startDate: "2025-07-25", endDate: "2025-08-24", onepoint: "1000", fullpoint: "10000",campaigntitle: "やいた暮らし応援キャンペーン"},
+{paytype: "paypay", prefectureSlug: "kanagawa", citySlug: "sagamihara", prefecture: "神奈川県", city: "相模原市", offer: 20, startDate: "2025-07-01", endDate: "2025-07-31", onepoint: "1000", fullpoint: "2500",campaigntitle: "“さがみはら”のお店を応援！最大20％戻ってくるキャンペーン2025"},
+{paytype: "paypay", prefectureSlug: "tokushima", citySlug: "tokushima", prefecture: "徳島県", city: "徳島市", offer: 10, startDate: "2025-07-01", endDate: "2025-07-31", onepoint: "1000", fullpoint: "3000",campaigntitle: "徳島市内のお店で買い物しよう！最大10％戻ってくるキャンペーン"},
 ];
