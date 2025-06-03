@@ -12,23 +12,30 @@ import CampaignLineCard from "@/components/common/CampaignLineCard";
 
 type Props = {
   groupName: string;
-  showOnlyActive: boolean;
+  showOnlyActive?: boolean;
+  showOnlyOver30Percent?: boolean;
+  showOnlyOver10000Yen?: boolean;
 };
 
 export default function CampaignGroupSection({
   groupName,
-  showOnlyActive,
+  showOnlyActive = false,
+  showOnlyOver30Percent = false,
+  showOnlyOver10000Yen = false,
 }: Props) {
   const groupPrefectures = prefectures.filter((p) => p.group === groupName);
 
   const hasVisibleCampaigns = groupPrefectures.some((pref) =>
-    campaigns.some(
-      (c) =>
-        c.prefectureSlug === pref.slug &&
-        isCampaignActive(c.endDate) &&
-        (!showOnlyActive || isNowInCampaignPeriod(c.startDate, c.endDate))
-    )
+    campaigns.some((c) => {
+      if (c.prefectureSlug !== pref.slug) return false;
+      if (!isCampaignActive(c.endDate)) return false;
+      if (showOnlyActive && !isNowInCampaignPeriod(c.startDate, c.endDate)) return false;
+      if (showOnlyOver30Percent && c.offer < 30) return false;
+      if (showOnlyOver10000Yen && Number(c.fullpoint) < 10000) return false;
+      return true;
+    })
   );
+
   if (!hasVisibleCampaigns) return null;
 
   return (
@@ -39,14 +46,14 @@ export default function CampaignGroupSection({
 
       <div className="grid grid-cols-1 xl:grid-cols-2 gap-10">
         {groupPrefectures.map((pref) => {
-          const prefCampaigns = campaigns.filter(
-            (c) =>
-              c.prefectureSlug === pref.slug && isCampaignActive(c.endDate)
-          );
-
-          const filtered = prefCampaigns.filter((c) =>
-            !showOnlyActive || isNowInCampaignPeriod(c.startDate, c.endDate)
-          );
+          const filtered = campaigns.filter((c) => {
+            if (c.prefectureSlug !== pref.slug) return false;
+            if (!isCampaignActive(c.endDate)) return false;
+            if (showOnlyActive && !isNowInCampaignPeriod(c.startDate, c.endDate)) return false;
+            if (showOnlyOver30Percent && c.offer < 30) return false;
+            if (showOnlyOver10000Yen && Number(c.fullpoint) < 10000) return false;
+            return true;
+          });
 
           if (filtered.length === 0) return null;
 
@@ -74,10 +81,7 @@ export default function CampaignGroupSection({
                     endDate={c.endDate}
                     onepoint={c.onepoint}
                     fullpoint={c.fullpoint}
-                    isActive={isNowInCampaignPeriod(
-                      c.startDate,
-                      c.endDate
-                    )}
+                    isActive={isNowInCampaignPeriod(c.startDate, c.endDate)}
                     paytype={c.paytype}
                   />
                 </Link>

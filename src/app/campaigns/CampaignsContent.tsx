@@ -10,10 +10,15 @@ import CampaignTotalPointSummary from "@/components/common/CampaignTotalPointSum
 
 export default function CampaignTopPageClient() {
   const [showOnlyActive, setShowOnlyActive] = useState(false);
+  const [showOnlyOver30Percent, setShowOnlyOver30Percent] = useState(false);
+  const [showOnlyOver10000Yen, setShowOnlyOver10000Yen] = useState(false);
 
-  const filtered = showOnlyActive
-    ? campaigns.filter((c) => isNowInCampaignPeriod(c.startDate, c.endDate))
-    : campaigns;
+  const filtered = campaigns.filter((c) => {
+    if (showOnlyActive && !isNowInCampaignPeriod(c.startDate, c.endDate)) return false;
+    if (showOnlyOver30Percent && c.offer < 30) return false;
+    if (showOnlyOver10000Yen && Number(c.fullpoint) < 10000) return false;
+    return true;
+  });
 
   return (
     <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
@@ -21,27 +26,59 @@ export default function CampaignTopPageClient() {
         <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight text-neutral-800 mb-4">
           全国のキャッシュレスキャンペーン一覧
         </h1>
+
         <CampaignTotalPointSummary campaigns={filtered} areaLabel="全国" />
-        <div className="flex justify-end mb-10">
-          <label className="inline-flex items-center gap-3 px-4 py-2 bg-[#f7931e] rounded-full shadow text-white text-base font-semibold">
-            <input
-              type="checkbox"
-              checked={showOnlyActive}
-              onChange={() => setShowOnlyActive((prev) => !prev)}
-              className="form-checkbox h-5 w-5 rounded border-white text-white bg-white/20 checked:bg-white checked:text-[#f7931e] focus:ring-0"
-            />
-            開催中だけに絞る
-          </label>
-        </div>
+
+{/* ✅ 絞り込みセクション：stickyでヘッダー下に固定 */}
+<div className="sticky top-16 z-30 bg-[#f8f7f2] pt-4 pb-3 mb-10">
+  <div className="flex flex-wrap sm:flex-nowrap justify-end gap-3 sm:gap-6 px-2 sm:px-0 text-sm sm:text-base">
+    {/* ✅ 開催中 */}
+    <label className="inline-flex items-center gap-2">
+      <input
+        type="checkbox"
+        checked={showOnlyActive}
+        onChange={() => setShowOnlyActive((prev) => !prev)}
+        className="form-checkbox h-5 w-5 text-[#f7931e] border-gray-400 focus:ring-[#f7931e]"
+      />
+      <span className="font-bold text-sm text-gray-600">開催中のみ</span>
+    </label>
+
+    {/* ✅ 還元率30%以上 */}
+    <label className="inline-flex items-center gap-2">
+      <input
+        type="checkbox"
+        checked={showOnlyOver30Percent}
+        onChange={() => setShowOnlyOver30Percent((prev) => !prev)}
+        className="form-checkbox h-5 w-5 text-green-600 border-gray-400 focus:ring-green-600"
+      />
+      <span className="font-bold text-sm text-gray-600">30%以上</span>
+    </label>
+
+    {/* ✅ 10,000円以上還元 */}
+    <label className="inline-flex items-center gap-2">
+      <input
+        type="checkbox"
+        checked={showOnlyOver10000Yen}
+        onChange={() => setShowOnlyOver10000Yen((prev) => !prev)}
+        className="form-checkbox h-5 w-5 text-blue-600 border-gray-400 focus:ring-blue-600"
+      />
+      <span className="font-bold text-sm text-gray-600">1万円以上</span>
+    </label>
+  </div>
+</div>
+        {/* ✅ 各エリアのセクション */}
         <div className="space-y-12">
           {prefectureGroups.map((group) => (
             <CampaignGroupSection
               key={group}
               groupName={group}
               showOnlyActive={showOnlyActive}
+              showOnlyOver30Percent={showOnlyOver30Percent}
+              showOnlyOver10000Yen={showOnlyOver10000Yen}
             />
           ))}
         </div>
+
         <BackNavigationButtons />
       </div>
     </div>
