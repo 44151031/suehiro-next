@@ -54,7 +54,7 @@ export default function PrefecturePage({
         </div>
 
         {/* ✅ 一覧（スマホで縮小表示） */}
-        <div className="sm:scale-100 origin-top">
+        <div className="origin-top">
           <CampaignListByPrefecture prefectureSlug={params.prefecture} />
         </div>
 
