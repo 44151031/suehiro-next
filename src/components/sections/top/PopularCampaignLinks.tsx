@@ -7,7 +7,7 @@ export default function PopularSearches() {
     <section className="w-full py-16 bg-muted text-muted-foreground">
       <div className="max-w-[1200px] mx-auto px-4">
         {/* タイトル */}
-        <h2 className="text-2xl sm:text-4xl font-extrabold tracking-tight text-gray-900 mb-10 text-center">
+        <h2 className="text-2xl sm:text-3xl font-extrabold tracking-tight text-gray-900 mb-8 text-center">
           よく検索されているキャンペーン
         </h2>
 

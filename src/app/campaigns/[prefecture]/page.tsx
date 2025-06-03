@@ -34,7 +34,7 @@ export default function PrefecturePage({
       <div className="max-w-[1200px] mx-auto px-4 py-10">
 
         {/* タイトル */}
-        <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-neutral-800 mb-6">
+        <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight text-neutral-800 mb-4">
           {prefectureName}のキャッシュレスキャンペーン一覧
         </h1>
 

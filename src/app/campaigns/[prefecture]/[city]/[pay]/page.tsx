@@ -81,7 +81,7 @@ export default function CityPaytypePage({
   return (
     <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
       <main className="max-w-[1200px] mx-auto px-4 py-10">
-        <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-neutral-800 mb-6">
+        <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight text-neutral-800 mb-4">
           {city}の{payLabel}{offer}%還元キャンペーン
         </h1>
 

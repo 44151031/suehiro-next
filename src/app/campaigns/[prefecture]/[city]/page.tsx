@@ -38,9 +38,12 @@ export default function CityCampaignsPage({
     <main className="w-full bg-[#f8f7f2] text-secondary-foreground">
       <div className="max-w-[1200px] mx-auto px-4 py-10">
         {/* タイトル */}
-        <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-neutral-800 mb-6">
+        <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight text-neutral-800 mb-4">
           {cityName}のキャッシュレスキャンペーン一覧
         </h1>
+
+        {/* 合計ポイント */}
+        <CampaignTotalPointSummary campaigns={list} areaLabel={cityName} />
 
         {/* 概要 */}
         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
@@ -54,10 +57,7 @@ export default function CityCampaignsPage({
             </span>
           </p>
         </div>
-
-        {/* 合計ポイント */}
-        <CampaignTotalPointSummary campaigns={list} areaLabel={cityName} />
-
+        
         {/* カード一覧 */}
         <div className="city-page-card-container">
           <CampaignCardList campaigns={list} />

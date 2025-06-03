@@ -11,10 +11,13 @@ export default function AreaCampaignSlider() {
 
   if (!sorted || sorted.length === 0) return null;
 
+  // ✅ 上限7件までに制限
+  const limited = sorted.slice(0, 6);
+
   return (
     <>
       <ScopedCampaignSlider
-        campaigns={sorted}
+        campaigns={limited}
         title="あなたのエリアのキャンペーン"
         bgColor="#f6f6f6"
       />
