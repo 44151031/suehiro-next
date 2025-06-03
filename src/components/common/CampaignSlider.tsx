@@ -55,9 +55,9 @@ export default function ScopedCampaignSlider({
   if (!campaigns || campaigns.length === 0) return null;
 
   return (
-    <section className="w-full py-10 relative mt-6" style={{ backgroundColor: bgColor }}>
+    <section className="w-full py-6 sm:py-10 relative mt-6" style={{ backgroundColor: bgColor }}>
       <div className="max-w-[1200px] mx-auto px-4 relative z-10">
-        <h2 className="text-2xl sm:text-4xl font-extrabold tracking-tight text-center mb-8 text-neutral-800 drop-shadow-sm">
+        <h2 className="mb-4 sm:mb-8 text-2xl sm:text-4xl font-extrabold tracking-tight text-center text-neutral-800 drop-shadow-sm">
           {title}
         </h2>
 

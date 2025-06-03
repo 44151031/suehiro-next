@@ -30,8 +30,8 @@ export default function SearchForm() {
   return (
     <section className="-mt-6 z-10 relative">
       <div className="max-w-[1200px] mx-auto px-4">
-        <div className="bg-white rounded-2xl shadow-xl px-6 py-10 border border-border">
-          <h2 className="text-2xl sm:text-4xl font-extrabold text-neutral-800 text-center mb-8 tracking-tight">
+        <div className="px-6 py-5 sm:py-10 border border-border rounded-2xl bg-white shadow-xl">
+          <h2 className="mb-3 sm:mb-8 text-xl sm:text-4xl font-extrabold text-neutral-800 text-center tracking-tight">
             地域からキャンペーンを探す
           </h2>
 
@@ -43,7 +43,7 @@ export default function SearchForm() {
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 onKeyDown={handleKeyDown}
-                className="flex-1 h-14 rounded-full border-0 bg-transparent px-6 py-5 text-lg placeholder-gray-400 focus-visible:ring-0"
+                className="flex-1 h-14 rounded-full border-0 bg-transparent px-6 py-5 text-base sm:text-lg placeholder-gray-400 focus-visible:ring-0"
               />
               <Button
                 onClick={handleSearch}

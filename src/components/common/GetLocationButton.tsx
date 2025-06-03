@@ -23,7 +23,7 @@ export default function GetLocationButton() {
   };
 
   return (
-    <div className="flex flex-col items-center gap-3 text-center mt-10">
+    <div className="flex flex-col items-center gap-3 text-center mt-5 sm:mt-10">
       <p className="text-xs sm:text-lg text-neutral-600">
         {fetched
           ? "移動したら現在地を再取得してください。"
@@ -31,7 +31,7 @@ export default function GetLocationButton() {
       </p>
       <button
         onClick={handleGetLocation}
-        className={`inline-flex items-center justify-center gap-2 px-6 py-3 text-base font-semibold rounded-full shadow transition disabled:opacity-50 disabled:cursor-not-allowed min-w-[200px]
+        className={`inline-flex items-center justify-center gap-2 px-6 p-3 text-base font-semibold rounded-full shadow transition disabled:opacity-50 disabled:cursor-not-allowed min-w-[200px]
           ${fetched ? "bg-gray-400 hover:bg-gray-500 text-white" : "bg-orange-500 hover:bg-orange-600 text-white"}
         `}
         disabled={loading}
