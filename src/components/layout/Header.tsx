@@ -51,7 +51,7 @@ export default function Header() {
   <span className="text-2xl sm:text-3xl font-extrabold tracking-tight text-gray-900 leading-tight">
     <span className="text-red-600">Pay</span>
     <span className="text-xl text-gray-800 font-medium ml-1 align-middle">キャン</span>
-    <span className="text-sm text-gray-600 font-medium align-middle">
+    <span className="text-sm text-gray-600 font-medium align-middle hidden sm:inline">
       （ペイキャン）
     </span>
   </span>

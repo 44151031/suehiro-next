@@ -24,7 +24,7 @@ export default function GetLocationButton() {
 
   return (
     <div className="flex flex-col items-center gap-3 text-center mt-10">
-      <p className="text-sm text-neutral-600">
+      <p className="text-xs sm:text-lg text-neutral-600">
         {fetched
           ? "移動したら現在地を再取得してください。"
           : "このページを便利に使うために一度位置情報を取得してください。"}
