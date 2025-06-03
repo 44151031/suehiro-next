@@ -18,7 +18,7 @@ export default function CampaignTopPageClient() {
   return (
     <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
       <div className="max-w-[1200px] mx-auto px-4 py-10">
-        <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-neutral-800 mb-4">
+        <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight text-neutral-800 mb-4">
           全国のキャッシュレスキャンペーン一覧
         </h1>
         <CampaignTotalPointSummary campaigns={filtered} areaLabel="全国" />
