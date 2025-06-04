@@ -1,7 +1,11 @@
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import { campaigns } from "@/lib/campaignMaster";
-import { formatJapaneseDate, isNowInCampaignPeriod } from "@/lib/campaignUtils";
+import {
+  formatJapaneseDate,
+  isNowInCampaignPeriod,
+  isCampaignActive,
+} from "@/lib/campaignUtils";
 import { getCityMetadata } from "@/lib/metadataGenerators";
 
 import CampaignTotalPointSummary from "@/components/common/CampaignTotalPointSummary";
@@ -23,6 +27,7 @@ export default function CityCampaignsPage({
 }) {
   const { prefecture, city } = params;
 
+  // 全キャンペーン取得（ページ存在判定用）
   const list = campaigns.filter(
     (c) => c.prefectureSlug === prefecture && c.citySlug === city
   );
@@ -31,8 +36,12 @@ export default function CityCampaignsPage({
   const cityName = list[0].city;
   const prefectureName = list[0].prefecture;
 
-  const active = list.filter((c) => isNowInCampaignPeriod(c.startDate, c.endDate));
-  const upcoming = list.length - active.length;
+  // ✅ 終了していないキャンペーンに絞る
+  const filteredList = list.filter((c) => isCampaignActive(c.endDate));
+  const active = filteredList.filter((c) =>
+    isNowInCampaignPeriod(c.startDate, c.endDate)
+  );
+  const upcoming = filteredList.length - active.length;
 
   return (
     <main className="w-full bg-[#f8f7f2] text-secondary-foreground">
@@ -43,25 +52,33 @@ export default function CityCampaignsPage({
         </h1>
 
         {/* 合計ポイント */}
-        <CampaignTotalPointSummary campaigns={list} areaLabel={cityName} />
+        <CampaignTotalPointSummary campaigns={filteredList} areaLabel={cityName} />
 
         {/* 概要 */}
         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
-          <p className="text-base sm:text-lg text-neutral-700 leading-snug">
-            <span className="text-[17px] sm:text-xl font-semibold">
-              {cityName}では、現在{" "}
-              <span className="text-orange-600 font-bold">{active.length}件</span> のキャンペーンが開催中です。
-            </span>
-            <span className="ml-1 text-[17px] sm:text-xl font-semibold">
-              <span className="text-green-700 font-bold">{upcoming}件</span> は開催予定となっています。
-            </span>
-          </p>
+          {filteredList.length > 0 ? (
+            <p className="text-base sm:text-lg text-neutral-700 leading-snug">
+              <span className="text-[17px] sm:text-xl font-semibold">
+                {cityName}では、現在{" "}
+                <span className="text-orange-600 font-bold">{active.length}件</span> のキャンペーンが開催中です。
+              </span>
+              <span className="ml-1 text-[17px] sm:text-xl font-semibold">
+                <span className="text-green-700 font-bold">{upcoming}件</span> は開催予定となっています。
+              </span>
+            </p>
+          ) : (
+            <p className="text-base sm:text-lg text-neutral-700 leading-snug font-semibold">
+              現在、{cityName}で実施中または予定されているキャンペーンはありません。
+            </p>
+          )}
         </div>
-        
-        {/* カード一覧 */}
-        <div className="city-page-card-container">
-          <CampaignCardList campaigns={list} />
-        </div>
+
+        {/* カード一覧（表示データがある場合のみ） */}
+        {filteredList.length > 0 && (
+          <div className="city-page-card-container">
+            <CampaignCardList campaigns={filteredList} />
+          </div>
+        )}
 
         {/* 戻るボタン */}
         <BackNavigationButtons
