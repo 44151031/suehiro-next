@@ -13,6 +13,7 @@ import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCamp
 import GenreHeaderNav from "@/components/sections/city/GenreHeaderNav";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import ShopListGroup from "@/components/sections/city/ShopListGroupSortByGenrePriority";
+import StoreRegistrationCTA from "@/components/common/StoreRegistrationCTA";
 
 export async function generateMetadata({
   params,
@@ -130,7 +131,10 @@ export default function CityPaytypePage({
             公表されましたらこのページで紹介いたします。
           </p>
         ) : (
-          <ShopListGroup shopList={shopList} />
+          <>
+            <ShopListGroup shopList={shopList} />
+            <StoreRegistrationCTA /> {/* ✅ shopList があるときだけ表示 */}
+          </>
         )}
 
         <div className="mt-20">
