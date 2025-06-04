@@ -13,7 +13,7 @@ export default function AdminPage() {
   return (
     <div className="w-full bg-[#f8f7f2] text-secondary-foreground py-16">
       <Container>
-        <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-gray-900 mb-10 text-center">
+        <h1 className="headline1">
           運営管理
         </h1>
 

@@ -44,7 +44,7 @@ export default function GenreHeaderNav({ genres, paytypeLabel }: Props) {
           {/* ✅ 左側の文言を動的に変更 */}
           <div className="text-sm font-semibold text-gray-600 shrink-0">
             <span className="text-base font-bold text-gray-800">{paytypeLabel}</span>
-            対象店舗ジャンル
+            対象店舗
           </div>
 
           {/* 横スクロールエリア */}
@@ -56,7 +56,7 @@ export default function GenreHeaderNav({ genres, paytypeLabel }: Props) {
             onMouseLeave={handleMouseUp}
             className="overflow-x-auto scrollbar-none cursor-grab active:cursor-grabbing"
           >
-            <div className="flex flex-nowrap gap-4 px-1">
+            <div className="flex flex-nowrap gap-2 px-1">
               {sortedGenres.map((genre) => (
                 <GenreButton key={genre} label={genre} href={`#genre-${genre}`} />
               ))}

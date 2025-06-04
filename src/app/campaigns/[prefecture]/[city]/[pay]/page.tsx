@@ -31,12 +31,12 @@ export async function generateMetadata({
 
   if (!campaign) return { title: "キャンペーン情報 - Payキャン" };
 
-  const { city, offer } = campaign;
+  const { prefecture, city, startDate, endDate, offer } = campaign;
   const payLabel = PayTypeLabels[paytypeId];
 
   return {
     title: `${city}の${payLabel}${offer}%還元キャンペーン対象店舗`,
-    description: `${city}で実施されている${payLabel}の${offer}%還元キャンペーンの詳細を紹介します。期間・付与上限・対象店舗情報など`,
+    description: `${prefecture}${city}で${formatJapaneseDate(startDate)}〜${formatJapaneseDate(endDate)}の期間で${payLabel}の${offer}%還元キャンペーンが開催。このページでは独自にカテゴリ分けした対象店舗や、最も効率の良いポイント獲得方法など新しい視点から情報を発信しています。`,
   };
 }
 
@@ -81,7 +81,7 @@ export default function CityPaytypePage({
   return (
     <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
       <main className="max-w-[1200px] mx-auto px-4 py-10">
-        <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight text-neutral-800 mb-4">
+        <h1 className="headline1">
           {city}の{payLabel}{offer}%還元キャンペーン
         </h1>
 
@@ -101,7 +101,7 @@ export default function CityPaytypePage({
             {formatNumber(fullpoint)}円分のポイントを獲得できます。
           </p>
 
-          <h2 className="text-2xl font-bold text-gray-900 border-b border-gray-300 pb-1 mt-12">
+          <h2 className="headline2">
             {city}の{payLabel}還元キャンペーンとは？
           </h2>
           <p>
@@ -120,7 +120,7 @@ export default function CityPaytypePage({
           <CampaignNotice campaign={campaign} />
         </div>
 
-        <h2 className="text-2xl font-bold text-gray-900 border-b border-gray-300 pb-1 mt-12">
+        <h2 className="headline2">
           {city}の{offer}%還元キャンペーン対象店舗
         </h2>
 

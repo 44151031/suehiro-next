@@ -23,7 +23,7 @@ function SearchResultsInner() {
 
   return (
     <>
-      <h1 className="text-3xl sm:text-4xl font-extrabold text-neutral-800 mb-8">
+      <h1 className="headline1">
         「{keyword}」の検索結果{' '}
         <span className="text-base text-gray-500">（{filtered.length}件）</span>
       </h1>

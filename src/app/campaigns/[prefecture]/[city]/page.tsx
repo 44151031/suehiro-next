@@ -47,7 +47,7 @@ export default function CityCampaignsPage({
     <main className="w-full bg-[#f8f7f2] text-secondary-foreground">
       <div className="max-w-[1200px] mx-auto px-4 py-10">
         {/* タイトル */}
-        <h1 className="text-2xl sm:text-4xl font-extrabold tracking-tight text-neutral-800 mb-4">
+        <h1 className="headline1">
           {cityName}のキャッシュレスキャンペーン一覧
         </h1>
 

@@ -153,3 +153,12 @@
     width: 90% !important;
   }
 }
+
+@layer components {
+  .headline1 {
+    @apply text-2xl sm:text-4xl font-extrabold tracking-tight text-neutral-800 mb-4;
+  }
+  .headline2 {
+    @apply text-xl font-bold text-gray-900 border-b border-gray-300 pb-1 mt-12;
+  }
+}
