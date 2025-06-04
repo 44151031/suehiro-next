@@ -7,7 +7,6 @@ const rawPopularSearches = [
   "東京都杉並区",
   "東京都練馬区",
   "福島県喜多方市",
-  "北海道札幌市",
 ] as const;
 
 // 都道府県・市区町村を抽出
