@@ -11,6 +11,7 @@ import { getPrefectureMetadata } from "@/lib/metadataGenerators";
 import CampaignTotalPointSummary from "@/components/common/CampaignTotalPointSummary";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import { CampaignCardList } from "@/components/common/CampaignCardList";
+import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCampaigns";
 
 export async function generateMetadata({
   params,
@@ -25,8 +26,10 @@ export default function PrefecturePage({
 }: {
   params: { prefecture: string };
 }) {
-  // ✅ 対象都道府県の全キャンペーンを抽出
-  const list = campaigns.filter((c) => c.prefectureSlug === params.prefecture);
+  const { prefecture } = params;
+
+  // ✅ 全キャンペーン抽出（ページ存在判定用）
+  const list = campaigns.filter((c) => c.prefectureSlug === prefecture);
   if (list.length === 0) return notFound();
 
   const prefectureName = list[0].prefecture;
@@ -75,10 +78,15 @@ export default function PrefecturePage({
           </div>
         )}
 
+        {/* 終了済みしかないときにレコメンド表示（citySlug は空文字で渡す） */}
+        {activeList.length === 0 && (
+          <RecommendedCampaigns prefectureSlug={prefecture} citySlug={""} />
+        )}
+
         {/* 戻るボタン */}
         <BackNavigationButtons
           prefecture={prefectureName}
-          prefectureSlug={params.prefecture}
+          prefectureSlug={prefecture}
         />
       </div>
     </div>

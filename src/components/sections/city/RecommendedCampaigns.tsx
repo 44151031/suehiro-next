@@ -1,15 +1,14 @@
 /**
  * RecommendedCampaigns.tsx
  *
- * 現在表示中の市区町村以外でおすすめのPayPayキャンペーンを最大4件表示するセクション。
+ * 現在表示中の市区町村以外でおすすめのキャンペーンを最大4件表示するセクション。
  * 同一都道府県内の他キャンペーンを優先し、足りない場合は近隣都道府県のキャンペーンを距離順に補完。
- *
- * 使用例：/campaigns/[prefecture]/[city] ページの下部
  */
+
 import Link from "next/link";
 import { campaigns } from "@/lib/campaignMaster";
 import { prefectures } from "@/lib/prefectures";
-import { isNowInCampaignPeriod } from "@/lib/campaignUtils";
+import { isNowInCampaignPeriod, isCampaignActive } from "@/lib/campaignUtils";
 import CampaignLineCard from "@/components/common/CampaignLineCard";
 
 type Props = {
@@ -18,14 +17,20 @@ type Props = {
 };
 
 export function RecommendedCampaigns({ prefectureSlug, citySlug }: Props) {
+  // ✅ 終了していないキャンペーンのみ（同一都道府県・別市区町村）
   const samePrefCampaigns = campaigns.filter(
-    (c) => c.prefectureSlug === prefectureSlug && c.citySlug !== citySlug
+    (c) =>
+      c.prefectureSlug === prefectureSlug &&
+      c.citySlug !== citySlug &&
+      isCampaignActive(c.endDate)
   );
 
   let recommended = [...samePrefCampaigns];
 
+  // ✅ 補完：近隣都道府県から開催中キャンペーンを距離順に追加
   if (recommended.length < 4) {
     const currentPref = prefectures.find((p) => p.slug === prefectureSlug);
+
     if (currentPref) {
       const distance = (lat1: number, lon1: number, lat2: number, lon2: number) => {
         const R = 6371;
@@ -48,16 +53,21 @@ export function RecommendedCampaigns({ prefectureSlug, citySlug }: Props) {
         .sort((a, b) => a.distance - b.distance);
 
       for (const pref of nearbyPrefectures) {
-        const extra = campaigns.filter((c) => c.prefectureSlug === pref.slug);
+        const extra = campaigns.filter(
+          (c) => c.prefectureSlug === pref.slug && isCampaignActive(c.endDate)
+        );
+
         for (const c of extra) {
           if (recommended.length >= 4) break;
           recommended.push(c);
         }
+
         if (recommended.length >= 4) break;
       }
     }
   }
 
+  // ✅ 表示するキャンペーンがない場合
   if (recommended.length === 0) {
     return (
       <p className="text-center text-gray-600 text-base">
@@ -77,7 +87,7 @@ export function RecommendedCampaigns({ prefectureSlug, citySlug }: Props) {
           if (!paySlug) return null;
 
           return (
-            <li key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}>
+            <li key={`${c.prefectureSlug}-${c.citySlug}-${paySlug}`}>
               <Link
                 href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${paySlug}`}
                 className="block"

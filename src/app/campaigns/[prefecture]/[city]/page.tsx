@@ -11,6 +11,7 @@ import { getCityMetadata } from "@/lib/metadataGenerators";
 import CampaignTotalPointSummary from "@/components/common/CampaignTotalPointSummary";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import { CampaignCardList } from "@/components/common/CampaignCardList";
+import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCampaigns";
 
 export async function generateMetadata({
   params,
@@ -27,7 +28,6 @@ export default function CityCampaignsPage({
 }) {
   const { prefecture, city } = params;
 
-  // 全キャンペーン取得（ページ存在判定用）
   const list = campaigns.filter(
     (c) => c.prefectureSlug === prefecture && c.citySlug === city
   );
@@ -36,7 +36,7 @@ export default function CityCampaignsPage({
   const cityName = list[0].city;
   const prefectureName = list[0].prefecture;
 
-  // ✅ 終了していないキャンペーンに絞る
+  // ✅ 終了していないキャンペーンだけ
   const filteredList = list.filter((c) => isCampaignActive(c.endDate));
   const active = filteredList.filter((c) =>
     isNowInCampaignPeriod(c.startDate, c.endDate)
@@ -73,11 +73,16 @@ export default function CityCampaignsPage({
           )}
         </div>
 
-        {/* カード一覧（表示データがある場合のみ） */}
+        {/* カード一覧 */}
         {filteredList.length > 0 && (
           <div className="city-page-card-container">
             <CampaignCardList campaigns={filteredList} />
           </div>
+        )}
+
+        {/* 終了済みしかないときにレコメンド表示 */}
+        {filteredList.length === 0 && (
+          <RecommendedCampaigns prefectureSlug={prefecture} citySlug={city} />
         )}
 
         {/* 戻るボタン */}
