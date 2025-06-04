@@ -22,7 +22,7 @@ import {
 const menuItems = [
   { name: "トップ", href: "/", icon: Home },
   { name: "キャンペーン一覧", href: "/campaigns", icon: Gift },
-  { name: "サイトについて", href: "/about", icon: Info },
+  { name: "運営管理", href: "/management", icon: Info },
 ];
 
 export default function Header() {
@@ -92,7 +92,7 @@ export default function Header() {
                 </nav>
 
                 <div className="mt-auto pt-6 border-t border-gray-200">
-                  <p className="text-sm text-gray-500">© 2025 Pay市</p>
+                  <p className="text-sm text-gray-500">© 2025 Payキャン</p>
                 </div>
               </SheetContent>
             </Sheet>

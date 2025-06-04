@@ -20,14 +20,14 @@ export default function AdminPage() {
         <div className="max-w-xl mx-auto bg-white border border-border rounded-2xl shadow-md p-6 space-y-6 text-sm sm:text-base">
           <div className="flex justify-between items-start">
             <span className="text-gray-600 font-medium">サイト名</span>
-            <span className="text-gray-900 font-semibold text-right">
+            <span className="text-gray-900 font-semibold text-left">
               PayPay・auPay・楽天ペイ・d払い「Payキャン」
             </span>
           </div>
 
           <div className="flex justify-between items-start">
             <span className="text-gray-600 font-medium">管理者</span>
-            <span className="text-gray-900 font-semibold text-right">
+            <span className="text-gray-900 font-semibold text-left">
               「Payキャン」運営事務局
             </span>
           </div>
@@ -38,7 +38,7 @@ export default function AdminPage() {
               href="https://paycancampaign.com"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-primary underline font-semibold text-right"
+              className="text-primary underline font-semibold text-left"
             >
               https://paycancampaign.com
             </a>
@@ -48,7 +48,7 @@ export default function AdminPage() {
             <span className="text-gray-600 font-medium">MAIL</span>
             <a
               href="mailto:info@paycancampaign.com"
-              className="text-primary underline font-semibold text-right"
+              className="text-primary underline font-semibold text-left"
             >
               info@paycancampaign.com
             </a>
