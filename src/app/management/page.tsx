@@ -21,7 +21,7 @@ export default function AdminPage() {
           <div className="flex justify-between items-start">
             <span className="text-gray-600 font-medium">サイト名</span>
             <span className="text-gray-900 font-semibold text-left">
-              PayPay・auPay・楽天ペイ・d払い「Payキャン」
+              Payキャン
             </span>
           </div>
 
