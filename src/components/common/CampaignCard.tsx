@@ -24,7 +24,10 @@ export default function CampaignCard({
 }: CampaignCardProps) {
   const hasDate = startDate && endDate;
   const isActive = hasDate ? isNowInCampaignPeriod(startDate, endDate) : false;
-  const paytypeLabel = paytype && PayTypes[paytype] ? PayTypes[paytype].label : "その他";
+
+  const paytypeData = paytype ? PayTypes[paytype] : undefined;
+  const paytypeLabel = paytypeData?.label ?? "その他";
+  const paytypeColor = paytypeData?.badge.bg ?? "#333"; // デフォルトカラー
 
   return (
     <div className="relative w-[90%] sm:w-full max-w-[320px] px-4 py-6 border border-border rounded-2xl bg-white text-card-foreground shadow-lg hover:shadow-xl transition duration-300 mx-auto text-[clamp(0.85rem,2vw,1rem)]">
@@ -43,7 +46,12 @@ export default function CampaignCard({
 
       <p className="text-base mb-1 leading-tight">
         {paytypeLabel && (
-          <span className="text-sm text-gray-800 mr-1 font-extrabold">{paytypeLabel}</span>
+          <span
+            className="text-sm mr-1 font-extrabold"
+            style={{ color: paytypeColor }}
+          >
+            {paytypeLabel}
+          </span>
         )}
         <span className="text-2xl font-extrabold text-accent">{offer}%</span> 還元
       </p>

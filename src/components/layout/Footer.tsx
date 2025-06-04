@@ -44,7 +44,7 @@ export default function Footer() {
 
         {/* コピーライト */}
         <p className="text-xs text-gray-400 mt-4">
-          &copy; {new Date().getFullYear()} Payキャン（ペイキャン）実行委員会
+          &copy; {new Date().getFullYear()} Payキャン（ペイキャン）運営事務局
         </p>
       </Container>
     </footer>
