@@ -15,7 +15,7 @@ import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import ShopListGroup from "@/components/sections/city/ShopListGroupSortByGenrePriority";
 import StoreRegistrationCTA from "@/components/common/StoreRegistrationCTA";
 import { generateShareContent } from "@/lib/generateShareContent";
-import SNSShareButtons from "@/components/common/SNSShareButtons";
+import { SNSShareButtons } from "@/components/common/SNSShareButtons"; // ✅ named import
 
 export async function generateMetadata({
   params,

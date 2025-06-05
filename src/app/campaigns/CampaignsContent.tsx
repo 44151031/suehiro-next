@@ -7,6 +7,7 @@ import { prefectureGroups } from "@/lib/prefectures";
 import CampaignGroupSection from "@/components/sections/campaign/RegionCampaignSection";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import CampaignTotalPointSummary from "@/components/common/CampaignTotalPointSummary";
+import { SNSShareButtons } from "@/components/common/SNSShareButtons";
 
 export default function CampaignTopPageClient() {
   const [showOnlyActive, setShowOnlyActive] = useState(false);
@@ -26,7 +27,6 @@ export default function CampaignTopPageClient() {
         <h1 className="headline1">
           全国のキャッシュレスキャンペーン一覧
         </h1>
-
         <CampaignTotalPointSummary campaigns={filtered} areaLabel="全国" />
 
 {/* ✅ 絞り込みセクション：stickyでヘッダー下に固定 */}
@@ -78,7 +78,14 @@ export default function CampaignTopPageClient() {
             />
           ))}
         </div>
-
+{/* ✅ SNS共有ボタン（手入力タイトル＆ハッシュタグ） */}
+<div className="mt-4 mb-6">
+  <SNSShareButtons
+    url="https://paycancampaign.com/campaigns"
+    title="全国でキャッシュレス還元キャンペーン開催中！最大30%以上還元も"
+    hashtags={["paypay還元", "全国キャンペーン", "キャッシュレス"]}
+  />
+</div>
         <BackNavigationButtons />
       </div>
     </div>

@@ -5,20 +5,17 @@ import { Button } from "@/components/ui/button";
 import { Share2 } from "lucide-react";
 
 type Props = {
+  url: string;
   title: string;
-  hashtags: string[];
+  hashtags?: string[];
 };
 
-export default function SNSShareButtons({ title, hashtags }: Props) {
-  const [url, setUrl] = useState("");
+export function SNSShareButtons({ url, title, hashtags = [] }: Props) {
   const [isClient, setIsClient] = useState(false);
   const [isMobileShare, setIsMobileShare] = useState(false);
 
   useEffect(() => {
     setIsClient(true);
-
-    const currentUrl = window.location.href;
-    setUrl(currentUrl);
 
     const ua = navigator.userAgent.toLowerCase();
     const isSmartphone =
@@ -67,7 +64,7 @@ export default function SNSShareButtons({ title, hashtags }: Props) {
             >
               <Button
                 size="sm"
-                className="bg-[#00C300] hover:bg-[#00b000] text-white text-sm"
+                className="bg-[#00C300] hover:bg-[#00b000] text-white text-sm rounded-md"
               >
                 LINEで送る
               </Button>
@@ -79,7 +76,7 @@ export default function SNSShareButtons({ title, hashtags }: Props) {
             >
               <Button
                 size="sm"
-                className="bg-[#1DA1F2] hover:bg-[#1a8cd8] text-white text-sm"
+                className="bg-[#1DA1F2] hover:bg-[#1a8cd8] text-white text-sm rounded-md"
               >
                 ポストする
               </Button>
