@@ -14,6 +14,8 @@ import GenreHeaderNav from "@/components/sections/city/GenreHeaderNav";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import ShopListGroup from "@/components/sections/city/ShopListGroupSortByGenrePriority";
 import StoreRegistrationCTA from "@/components/common/StoreRegistrationCTA";
+import { generateShareContent } from "@/lib/generateShareContent";
+import SNSShareButtons from "@/components/common/SNSShareButtons";
 
 export async function generateMetadata({
   params,
@@ -79,6 +81,14 @@ export default function CityPaytypePage({
     citySlug,
   } = campaign;
 
+  // ✅ SNSシェア情報を生成
+  const { title: shareTitle, hashtags: shareHashtags } = generateShareContent({
+    city,
+    payLabel,
+    offer,
+    style: "impact",
+  });
+
   return (
     <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
       <main className="max-w-[1200px] mx-auto px-4 py-10">
@@ -87,10 +97,8 @@ export default function CityPaytypePage({
         </h1>
 
         <CampaignSummaryCard campaign={campaign} />
-        <GenreHeaderNav
-          genres={genres}
-          paytypeLabel={PayTypeLabels[paytypeId]}
-        />
+        <GenreHeaderNav genres={genres} paytypeLabel={payLabel} />
+        <SNSShareButtons title={shareTitle} hashtags={shareHashtags} />
 
         <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
           <p>
@@ -133,10 +141,10 @@ export default function CityPaytypePage({
         ) : (
           <>
             <ShopListGroup shopList={shopList} />
-            <StoreRegistrationCTA /> {/* ✅ shopList があるときだけ表示 */}
+            <StoreRegistrationCTA />
           </>
         )}
-
+        <SNSShareButtons title={shareTitle} hashtags={shareHashtags} />
         <div className="mt-20">
           <RecommendedCampaigns
             prefectureSlug={prefectureSlug}

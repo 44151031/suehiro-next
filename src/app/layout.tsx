@@ -1,5 +1,6 @@
 // ✅ /src/app/layout.tsx
 import type { Metadata } from "next";
+import Script from "next/script";
 import { Geist, Geist_Mono } from "next/font/google";
 import "../styles/globals.css";
 
@@ -17,7 +18,6 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-// ✅ SEOメタデータ設定
 export const metadata: Metadata = {
   title: {
     default: "PayPay・auPay・楽天ペイ・d払いキャンペーン体験 - Payキャン",
@@ -41,19 +41,18 @@ export const metadata: Metadata = {
   },
 };
 
-// ✅ GTMのID
 const GTM_ID = process.env.NEXT_PUBLIC_GTM_ID!;
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="ja" className="scroll-smooth">
-      <head>
-        {/* ✅ Google Tag Manager スクリプト（head内） */}
-        <script
+      <head />
+
+      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+        {/* ✅ Google Tag Manager script（クライアントでのみ実行） */}
+        <Script
+          id="gtm-init"
+          strategy="afterInteractive"
           dangerouslySetInnerHTML={{
             __html: `
               (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -64,9 +63,8 @@ export default function RootLayout({
             `,
           }}
         />
-      </head>
-      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
-        {/* ✅ Google Tag Manager noscript fallback（body直下） */}
+
+        {/* ✅ GTM noscript fallback */}
         <noscript>
           <iframe
             src={`https://www.googletagmanager.com/ns.html?id=${GTM_ID}`}
