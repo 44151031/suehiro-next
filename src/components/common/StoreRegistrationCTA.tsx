@@ -3,7 +3,7 @@ export default function StoreRegistrationCTA() {
   return (
     <section className="bg-[#fffdf8] border border-yellow-300 rounded-xl p-6 mt-14 shadow-sm text-center">
       <h2 className="text-xl sm:text-2xl font-bold text-gray-800 mb-2">
-        あなたのお店の情報をリッチにしませんか？
+        お店の情報をリッチにしませんか？
       </h2>
       <p className="text-sm sm:text-base text-gray-700 mb-4">
         「Payキャン」は地域のキャッシュレスキャンペーンを紹介しています。<br className="hidden sm:inline" />
