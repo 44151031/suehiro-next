@@ -48,6 +48,7 @@ export default function CampaignTotalPointSummary({ campaigns, areaLabel }: Prop
               <br />
               <span className="text-sm text-neutral-500">
                 ちなみに開催予定も含めるとナント
+                <span className="sm:hidden"><br /></span>
                 <span className="mx-1 text-green-600 font-bold">
                   {formatNumber(totalAllFullpoint)}
                 </span>

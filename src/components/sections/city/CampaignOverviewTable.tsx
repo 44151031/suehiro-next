@@ -1,7 +1,4 @@
-// ✅ /components/sections/city/CampaignOverviewTable.tsx
-
 import { formatJapaneseDate } from "@/lib/campaignUtils";
-// ✅ 修正：PayTypeLabels → PayTypes に変更
 import { PayTypes } from "@/lib/payType";
 import { calculateOnePay, calculateFullPay, calculatePayTime } from "@/lib/campaignCalculations";
 import type { Campaign } from "@/types/campaign";
@@ -27,7 +24,6 @@ export function CampaignOverviewTable({ campaign }: { campaign: Campaign }) {
   const fullpay = calculateFullPay(Number(fullpoint), offer);
   const paytime = calculatePayTime(fullpay, onepay);
 
-  // ✅ 修正箇所：ラベルを PayTypes から取得
   const payLabel = PayTypes[paytype].label;
 
   return (
@@ -43,15 +39,30 @@ export function CampaignOverviewTable({ campaign }: { campaign: Campaign }) {
         />
         <Row label="還元率" value={`${offer}%`} />
         <Row
-          label="1回あたりの付与上限"
+          label={
+            <>
+              <span className="block sm:inline">1回あたりの</span>
+              <span className="block sm:inline">付与上限</span>
+            </>
+          }
           value={`${formatNumber(onepoint)}円相当の${payLabel}ポイント`}
         />
         <Row
-          label="期間あたりの付与上限"
+          label={
+            <>
+              <span className="block sm:inline">期間あたりの</span>
+              <span className="block sm:inline">付与上限</span>
+            </>
+          }
           value={`${formatNumber(fullpoint)}円相当の${payLabel}ポイント`}
         />
         <Row
-          label="最大還元に必要な決済額"
+          label={
+            <>
+              <span className="block sm:inline">最大還元に</span>
+              <span className="block sm:inline">必要な決済額</span>
+            </>
+          }
           value={`1回 ${formatNumber(onepay)}円 × ${paytime}回 = ${formatNumber(fullpay)}円`}
         />
       </div>
@@ -59,13 +70,19 @@ export function CampaignOverviewTable({ campaign }: { campaign: Campaign }) {
   );
 }
 
-function Row({ label, value }: { label: string; value: string }) {
+function Row({
+  label,
+  value,
+}: {
+  label: string | React.ReactNode;
+  value: string;
+}) {
   return (
-    <div className="flex justify-between items-start gap-4 border-b border-gray-100 pb-2">
-      <dt className="text-gray-600 font-medium min-w-[11rem] sm:min-w-[13rem] whitespace-nowrap">
+    <div className="flex items-start gap-4 border-b border-gray-100 pb-2">
+      <dt className="text-gray-600 font-medium w-1/3 sm:min-w-[13rem] whitespace-nowrap break-keep">
         {label}
       </dt>
-      <dd className="text-gray-900 font-semibold text-left break-words flex-1">
+      <dd className="text-gray-900 font-semibold text-left w-2/3 break-words">
         {value}
       </dd>
     </div>

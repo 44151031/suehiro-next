@@ -144,6 +144,7 @@ export default function CityPaytypePage({
             <StoreRegistrationCTA />
           </>
         )}
+<SNSShareButtons url={`https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${paytypeId}`} title={shareTitle} hashtags={shareHashtags} />
         <BackNavigationButtons
           prefecture={prefecture}
           prefectureSlug={prefectureSlug}
