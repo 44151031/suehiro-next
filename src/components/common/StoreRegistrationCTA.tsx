@@ -21,6 +21,7 @@ export default function StoreRegistrationCTA() {
         target="_blank"
         rel="noopener noreferrer"
         className="inline-block mt-4 px-6 py-3 rounded-full bg-pink-500 text-white text-sm sm:text-base font-bold hover:bg-pink-400 transition"
+        data-gtm-click="line-apply" // ← 追加
       >
         📩 無料で店舗掲載！LINEで申し込む
       </a>
