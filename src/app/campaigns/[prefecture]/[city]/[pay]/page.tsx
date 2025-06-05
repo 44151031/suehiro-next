@@ -98,7 +98,7 @@ export default function CityPaytypePage({
 
         <CampaignSummaryCard campaign={campaign} />
         <GenreHeaderNav genres={genres} paytypeLabel={payLabel} />
-        <SNSShareButtons title={shareTitle} hashtags={shareHashtags} />
+        <SNSShareButtons url={`https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${paytypeId}`} title={shareTitle} hashtags={shareHashtags} />
 
         <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
           <p>
@@ -144,14 +144,6 @@ export default function CityPaytypePage({
             <StoreRegistrationCTA />
           </>
         )}
-        <SNSShareButtons title={shareTitle} hashtags={shareHashtags} />
-        <div className="mt-20">
-          <RecommendedCampaigns
-            prefectureSlug={prefectureSlug}
-            citySlug={citySlug}
-          />
-        </div>
-
         <BackNavigationButtons
           prefecture={prefecture}
           prefectureSlug={prefectureSlug}

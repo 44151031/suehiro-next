@@ -82,7 +82,7 @@ export default function CampaignTopPageClient() {
 <div className="mt-4 mb-6">
   <SNSShareButtons
     url="https://paycancampaign.com/campaigns"
-    title="全国でキャッシュレス還元キャンペーン開催中！最大30%以上還元も"
+    title="PayPay、au Pay、楽天ペイ、d払いなど全国のキャッシュレス還元キャンペーン一覧"
     hashtags={["paypay還元", "全国キャンペーン", "キャッシュレス"]}
   />
 </div>
