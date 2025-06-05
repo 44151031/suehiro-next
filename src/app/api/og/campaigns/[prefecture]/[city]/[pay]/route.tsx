@@ -1,9 +1,8 @@
-// ✅ /app/api/og/[prefecture]/[city]/[pay]/route.tsx
-
+// ✅ /app/api/og/campaigns/[prefecture]/[city]/[pay]/route.tsx
 import { ImageResponse } from "next/og";
 import { NextRequest } from "next/server";
 import { campaigns } from "@/lib/campaignMaster";
-import { PayTypeId, PayTypeLabels } from "@/lib/payType";
+import { PayTypeLabels, PayTypeId } from "@/lib/payType";
 
 export const runtime = "edge";
 
@@ -17,6 +16,7 @@ export async function GET(
 ) {
   const { prefecture, city, pay } = params;
 
+  // 対象キャンペーンを探す
   const campaign = campaigns.find(
     (c) =>
       c.prefectureSlug === prefecture &&
@@ -28,8 +28,8 @@ export async function GET(
     return new Response("Campaign not found", { status: 404 });
   }
 
-  const { offer, city: cityName, prefecture: prefectureName } = campaign;
-const payLabel = pay in PayTypeLabels ? PayTypeLabels[pay as keyof typeof PayTypeLabels] : pay;
+  const { city: cityName, prefecture: prefectureName, offer } = campaign;
+  const payLabel = PayTypeLabels[pay as PayTypeId] ?? pay;
 
   const bgUrl = `https://paycancampaign.com/images/campaigns/${prefecture}-${city}.jpg`;
 
@@ -37,8 +37,8 @@ const payLabel = pay in PayTypeLabels ? PayTypeLabels[pay as keyof typeof PayTyp
     (
       <div
         style={{
-          width: 1200,
-          height: 630,
+          width: "1200px",
+          height: "630px",
           backgroundImage: `url(${bgUrl})`,
           backgroundSize: "cover",
           backgroundPosition: "center",
