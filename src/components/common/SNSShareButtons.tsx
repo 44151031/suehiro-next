@@ -43,46 +43,47 @@ export function SNSShareButtons({ url, title, hashtags = [] }: Props) {
   const encodedHashtags = encodeURIComponent(hashtags.join(","));
 
   return (
-    <div className="mt-6 flex justify-center gap-2">
-      {isClient &&
-        (isMobileShare ? (
-          <Button
-            variant="outline"
-            size="sm"
-            onClick={handleNativeShare}
-            className="text-gray-800 border-gray-300 bg-white hover:bg-gray-50 hover:border-gray-400 rounded-md font-semibold px-5 py-2"
-          >
-            <Share2 className="w-4 h-4 mr-1" />
-            共有する
-          </Button>
-        ) : (
-          <>
-            <a
-              href={`https://social-plugins.line.me/lineit/share?url=${encodedUrl}`}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Button
-                size="sm"
-                className="bg-[#00C300] hover:bg-[#00b000] text-white text-sm rounded-md"
-              >
-                LINEで送る
-              </Button>
-            </a>
-            <a
-              href={`https://twitter.com/intent/tweet?text=${encodedTitle}&url=${encodedUrl}&hashtags=${encodedHashtags}`}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Button
-                size="sm"
-                className="bg-[#1DA1F2] hover:bg-[#1a8cd8] text-white text-sm rounded-md"
-              >
-                ポストする
-              </Button>
-            </a>
-          </>
-        ))}
+    <div className="mt-6 flex justify-center flex-wrap gap-2">
+      {/* 常に表示：LINE */}
+      <a
+        href={`https://social-plugins.line.me/lineit/share?url=${encodedUrl}`}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <Button
+          size="sm"
+          className="bg-[#00C300] hover:bg-[#00b000] text-white text-sm rounded-md"
+        >
+          LINEで送る
+        </Button>
+      </a>
+
+      {/* 常に表示：X（旧Twitter） */}
+      <a
+        href={`https://twitter.com/intent/tweet?text=${encodedTitle}&url=${encodedUrl}&hashtags=${encodedHashtags}`}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <Button
+          size="sm"
+          className="bg-[#1DA1F2] hover:bg-[#1a8cd8] text-white text-sm rounded-md"
+        >
+          ポストする
+        </Button>
+      </a>
+
+      {/* スマホ＋Web Share API 対応のみ表示：共有する */}
+      {isClient && isMobileShare && (
+        <Button
+          variant="outline"
+          size="sm"
+          onClick={handleNativeShare}
+          className="text-gray-800 border-gray-300 bg-white hover:bg-gray-50 hover:border-gray-400 rounded-md font-semibold px-5 py-2"
+        >
+          <Share2 className="w-4 h-4 mr-1" />
+          共有する
+        </Button>
+      )}
     </div>
   );
 }

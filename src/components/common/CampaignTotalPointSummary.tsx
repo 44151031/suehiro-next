@@ -33,6 +33,7 @@ export default function CampaignTotalPointSummary({ campaigns, areaLabel }: Prop
           {areaLabel}の開催中のキャンペーンで
           <span className="sm:hidden"><br /></span>
           獲得できるポイントの合計は
+          <span className="sm:hidden"><br /></span>
           <span className="ml-1 text-4xl text-red-600 font-extrabold">
             {formatNumber(totalFullpoint)}
           </span>
