@@ -1,7 +1,24 @@
 import { ImageResponse } from "next/og";
 import { campaigns } from "@/lib/campaignMaster";
+import { PayTypeLabels, PayTypeId } from "@/lib/payType";
 
 export const runtime = "edge";
+
+// バッジの色設定（決済サービスごと）
+const paytypeColors: Record<PayTypeId, string> = {
+  paypay: "#ef2a36",
+  aupay: "#f39800",
+  rakutenpay: "#bf0000",
+  dbarai: "#b11f27",
+};
+
+// 背景色は還元率で決定
+function getBackgroundColor(offer: number) {
+  if (offer >= 30) return "#e60033";
+  if (offer >= 20) return "#f39800";
+  if (offer >= 10) return "#0095d9";
+  return "#444";
+}
 
 export async function GET(
   req: Request,
@@ -12,7 +29,6 @@ export async function GET(
   }
 ) {
   const { prefecture, city, pay } = params;
-
   const campaign = campaigns.find(
     (c) =>
       c.prefectureSlug === prefecture &&
@@ -47,38 +63,57 @@ export async function GET(
     );
   }
 
+  const paytypeId = pay as PayTypeId;
+  const payLabel = PayTypeLabels[paytypeId];
+  const bgColor = getBackgroundColor(campaign.offer);
+  const badgeColor = paytypeColors[paytypeId] || "#888";
+
   return new ImageResponse(
     (
       <div
         style={{
           width: "1200px",
           height: "630px",
-          backgroundColor: "#f8f7f2",
+          backgroundColor: bgColor,
           display: "flex",
           flexDirection: "column",
           justifyContent: "center",
           alignItems: "center",
           textAlign: "center",
+          color: "#fff",
+          fontSize: 60,
+          fontWeight: 700,
+          padding: "40px",
         }}
       >
+        <div>{campaign.city}の</div>
+        <div>{payLabel} {campaign.offer}%還元キャンペーン</div>
+
+        {/* バッジ */}
         <div
           style={{
-            fontSize: 60,
+            marginTop: "40px",
+            backgroundColor: badgeColor,
+            color: "#fff",
+            padding: "12px 32px",
+            borderRadius: "9999px",
+            fontSize: 36,
             fontWeight: 700,
-            color: "#333",
-            marginBottom: 20,
+            display: "inline-block",
           }}
         >
-          {campaign.city}の
+          {payLabel}
         </div>
+
+        {/* 開催期間 */}
         <div
           style={{
-            fontSize: 60,
-            fontWeight: 700,
-            color: "#ff0050",
+            fontSize: 32,
+            marginTop: "30px",
+            fontWeight: 400,
           }}
         >
-          {campaign.paytype.toUpperCase()} {campaign.offer}%還元キャンペーン
+          {campaign.startDate}〜{campaign.endDate}
         </div>
       </div>
     ),
