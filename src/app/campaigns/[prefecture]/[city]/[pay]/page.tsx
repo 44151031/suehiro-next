@@ -1,3 +1,5 @@
+// ✅ /app/campaigns/[prefecture]/[city]/[pay]/page.tsx
+
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import { campaigns } from "@/lib/campaignMaster";
@@ -5,6 +7,7 @@ import { PayTypeLabels, PayTypeId } from "@/lib/payType";
 import { formatJapaneseDate } from "@/lib/campaignUtils";
 import { loadShopList } from "@/lib/loadShopList";
 import { loadGenres } from "@/lib/loadGenres";
+import { getCityMetadata } from "@/lib/metadataGenerators";
 
 import { CampaignOverviewTable } from "@/components/sections/city/CampaignOverviewTable";
 import CampaignNotice from "@/components/sections/city/CampaignNotice";
@@ -15,32 +18,14 @@ import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import ShopListGroup from "@/components/sections/city/ShopListGroupSortByGenrePriority";
 import StoreRegistrationCTA from "@/components/common/StoreRegistrationCTA";
 import { generateShareContent } from "@/lib/generateShareContent";
-import { SNSShareButtons } from "@/components/common/SNSShareButtons"; // ✅ named import
+import { SNSShareButtons } from "@/components/common/SNSShareButtons";
 
 export async function generateMetadata({
   params,
 }: {
   params: { prefecture: string; city: string; pay: string };
 }): Promise<Metadata> {
-  const paytypeId = params.pay as PayTypeId;
-  if (!paytypeId) return { title: "キャンペーン情報 - Payキャン" };
-
-  const campaign = campaigns.find(
-    (c) =>
-      c.prefectureSlug === params.prefecture &&
-      c.citySlug === params.city &&
-      c.paytype === paytypeId
-  );
-
-  if (!campaign) return { title: "キャンペーン情報 - Payキャン" };
-
-  const { prefecture, city, startDate, endDate, offer } = campaign;
-  const payLabel = PayTypeLabels[paytypeId];
-
-  return {
-    title: `${city}の${payLabel}${offer}%還元キャンペーン対象店舗`,
-    description: `${prefecture}${city}で${formatJapaneseDate(startDate)}〜${formatJapaneseDate(endDate)}の期間で${payLabel}の${offer}%還元キャンペーンが開催。このページでは独自にカテゴリ分けした対象店舗や、最も効率の良いポイント獲得方法など新しい視点から情報を発信しています。`,
-  };
+  return getCityMetadata(params.prefecture, params.city);
 }
 
 export default function CityPaytypePage({
@@ -81,7 +66,8 @@ export default function CityPaytypePage({
     citySlug,
   } = campaign;
 
-  // ✅ SNSシェア情報を生成
+  const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${paytypeId}`;
+
   const { title: shareTitle, hashtags: shareHashtags } = generateShareContent({
     city,
     payLabel,
@@ -98,7 +84,7 @@ export default function CityPaytypePage({
 
         <CampaignSummaryCard campaign={campaign} />
         <GenreHeaderNav genres={genres} paytypeLabel={payLabel} />
-        <SNSShareButtons url={`https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${paytypeId}`} title={shareTitle} hashtags={shareHashtags} />
+        <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
 
         <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
           <p>
@@ -144,7 +130,9 @@ export default function CityPaytypePage({
             <StoreRegistrationCTA />
           </>
         )}
-<SNSShareButtons url={`https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${paytypeId}`} title={shareTitle} hashtags={shareHashtags} />
+
+        <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
+
         <BackNavigationButtons
           prefecture={prefecture}
           prefectureSlug={prefectureSlug}
