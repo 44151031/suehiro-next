@@ -47,42 +47,45 @@ export async function GET(
     );
   }
 
-return new ImageResponse(
-  (
-    <div
-      style={{
-        width: "1200px",
-        height: "630px",
-        display: "flex",
-        alignItems: "center",
-        justifyContent: "center",
-        position: "relative",
-        color: "white",
-        fontSize: 64,
-        fontWeight: 700,
-        textShadow: "2px 2px 5px rgba(0,0,0,0.6)",
-      }}
-    >
-      <img
-        src={imageUrl}
-        width={1200}
-        height={630}
+  return new ImageResponse(
+    (
+      <div
         style={{
-          position: "absolute",
-          left: 0,
-          top: 0,
           width: "1200px",
           height: "630px",
-          objectFit: "cover",
-          zIndex: 0,
+          backgroundColor: "#f8f7f2",
+          display: "flex",
+          flexDirection: "column",
+          justifyContent: "center",
+          alignItems: "center",
+          padding: "40px",
+          textAlign: "center",
         }}
-        alt=""
-      />
-      <span style={{ position: "relative", zIndex: 1 }}>
-        {campaign.city}の{pay.toUpperCase()} {campaign.offer}% 還元！
-      </span>
-    </div>
-  ),
-  { width: 1200, height: 630 }
-);
+      >
+        <div
+          style={{
+            fontSize: 60,
+            fontWeight: 700,
+            color: "#333",
+            marginBottom: "20px",
+          }}
+        >
+          {campaign.city}の
+        </div>
+        <div
+          style={{
+            fontSize: 60,
+            fontWeight: 700,
+            color: "#ff0050",
+          }}
+        >
+          {campaign.paytype.toUpperCase()} {campaign.offer}%還元キャンペーン
+        </div>
+      </div>
+    ),
+    {
+      width: 1200,
+      height: 630,
+    }
+  );
 }
