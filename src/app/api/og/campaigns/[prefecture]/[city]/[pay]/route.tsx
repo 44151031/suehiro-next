@@ -58,7 +58,6 @@ export async function GET(
           flexDirection: "column",
           justifyContent: "center",
           alignItems: "center",
-          padding: "40px",
           textAlign: "center",
         }}
       >
@@ -67,7 +66,7 @@ export async function GET(
             fontSize: 60,
             fontWeight: 700,
             color: "#333",
-            marginBottom: "20px",
+            marginBottom: 20,
           }}
         >
           {campaign.city}の
