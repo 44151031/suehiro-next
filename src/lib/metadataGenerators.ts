@@ -1,4 +1,3 @@
-// ✅ /lib/metadataGenerators.ts
 import { Metadata } from "next";
 import { campaigns } from "@/lib/campaignMaster";
 
@@ -11,20 +10,11 @@ export function getNationalMetadata(): Metadata {
       description: "全国の自治体で実施中のPayPay・auPay・楽天ペイ・d払いの還元キャンペーンを紹介。",
       type: "website",
       url: "https://paycancampaign.com/",
-      images: [
-        {
-          url: "https://paycancampaign.com/ogp/default.jpg",
-          width: 1200,
-          height: 630,
-          alt: "全国のキャッシュレス還元キャンペーン情報",
-        },
-      ],
     },
     twitter: {
       card: "summary_large_image",
       title: "全国のキャッシュレス還元キャンペーン情報 - Payキャン",
       description: "全国の自治体で実施中のPayPay・auPay・楽天ペイ・d払いの還元キャンペーンを紹介。",
-      images: ["https://paycancampaign.com/ogp/default.jpg"],
     },
   };
 }
@@ -81,8 +71,9 @@ export function getCityMetadata(prefectureSlug: string, citySlug: string): Metad
 
   const description = `${prefecture}${city}で実施中のキャンペーンを紹介。${paytype ? `${paytype}による${offer}％還元対象！` : ""}`;
 
+  // ✅ v=1 でキャッシュバスター付与
   const ogImageUrl = paytype
-    ? `https://paycancampaign.com/api/og/campaigns/${prefectureSlug}/${citySlug}/${paytype}`
+    ? `https://paycancampaign.com/api/og/campaigns/${prefectureSlug}/${citySlug}/${paytype}?v=1`
     : `https://paycancampaign.com/ogp/${prefectureSlug}-${citySlug}.jpg`;
 
   const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}${paytype ? `/${paytype}` : ""}`;
