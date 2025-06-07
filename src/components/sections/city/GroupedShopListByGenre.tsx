@@ -1,20 +1,39 @@
-// /components/sections/city/GroupedShopListByGenre.tsx
 "use client";
 
-import { useRef, useState } from "react";
+import { useRef, useState, useEffect } from "react";
+import ShopDetailModal from "@/components/ui/modals/ShopDetailModal";
 
 type Shop = {
   name: string;
   address: string;
+  shopid?: string;
+};
+
+type ShopDetail = {
+  shopid: string;
+  name: string;
+  address: string;
+  description: string;
+  paytypes: string[];
+  note?: string;
+  homepage?: string;
+  instagram?: string;
+  x?: string;
+  line?: string;
+  tel?: string;
 };
 
 type Props = {
   genre: string;
   shops: Shop[];
+  prefecture: string;
+  city: string;
 };
 
-export default function ShopListByGenre({ genre, shops }: Props) {
+export default function ShopListByGenre({ genre, shops, prefecture, city }: Props) {
   const [expanded, setExpanded] = useState(false);
+  const [detailsMap, setDetailsMap] = useState<Record<string, ShopDetail>>({});
+  const [modalShop, setModalShop] = useState<ShopDetail | null>(null);
   const headingRef = useRef<HTMLHeadingElement>(null);
 
   const threshold = 6;
@@ -27,6 +46,35 @@ export default function ShopListByGenre({ genre, shops }: Props) {
     }
     setExpanded((prev) => !prev);
   };
+
+  useEffect(() => {
+    const loadDetails = async () => {
+      const safePref = prefecture || "dummy";
+      const safeCity = city || "dummy";
+      const path = `/data/shopsdetails/${safePref}-${safeCity}-shops-details.json`;
+
+      try {
+        const res = await fetch(path);
+        if (!res.ok) throw new Error("primary load failed");
+        const data: ShopDetail[] = await res.json();
+        const map = Object.fromEntries(data.map((item) => [item.shopid, item]));
+        setDetailsMap(map);
+      } catch (error) {
+        console.warn("本番データ読み込み失敗。ダミーデータにフォールバックします。");
+
+        const fallbackRes = await fetch("/data/shopsdetails/dummy-dummy-shops-details.json");
+        if (fallbackRes.ok) {
+          const fallbackData: ShopDetail[] = await fallbackRes.json();
+          const fallbackMap = Object.fromEntries(fallbackData.map((item) => [item.shopid, item]));
+          setDetailsMap(fallbackMap);
+        } else {
+          console.error("ダミーデータの読み込みにも失敗しました");
+        }
+      }
+    };
+
+    loadDetails();
+  }, [prefecture, city]);
 
   return (
     <section className="space-y-4">
@@ -45,15 +93,30 @@ export default function ShopListByGenre({ genre, shops }: Props) {
       ) : (
         <>
           <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 text-sm">
-            {visibleShops.map((shop, idx) => (
-              <li
-                key={idx}
-                className="bg-white border border-gray-200 rounded-lg shadow-sm px-4 py-3"
-              >
-                <p className="font-semibold text-gray-900">{shop.name}</p>
-                <p className="text-gray-600 text-sm">{shop.address}</p>
-              </li>
-            ))}
+            {visibleShops.map((shop, idx) => {
+              const detail = shop.shopid ? detailsMap[shop.shopid] : null;
+              const isModalLink = !!detail;
+
+              return (
+                <li
+                  key={idx}
+                  onClick={() => isModalLink && setModalShop(detail)}
+                  className={`rounded-lg px-4 py-3 transition border ${
+                    isModalLink
+                      ? "bg-white border-pink-300 border-2 cursor-pointer hover:shadow-md hover:scale-[1.03] duration-200"
+                      : "bg-white border-gray-200"
+                  }`}
+                >
+                  <div className="flex flex-wrap items-center gap-x-1">
+                    <p className="font-semibold text-gray-900">{shop.name}</p>
+                    {isModalLink && (
+                      <span className="text-xs text-gray-600">[詳細]</span>
+                    )}
+                  </div>
+                  <p className="text-gray-600 text-sm">{shop.address}</p>
+                </li>
+              );
+            })}
           </ul>
 
           {showToggle && (
@@ -67,6 +130,14 @@ export default function ShopListByGenre({ genre, shops }: Props) {
             </div>
           )}
         </>
+      )}
+
+      {modalShop && (
+        <ShopDetailModal
+          open={true}
+          onClose={() => setModalShop(null)}
+          shop={modalShop}
+        />
       )}
     </section>
   );

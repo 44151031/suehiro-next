@@ -1,0 +1,18 @@
+[
+    {
+        "shopid": "s001",
+        "name": "Dummyパン",
+        "address": "ダミー市ダミー町1番地",
+        "tel": "00-0000-0000",
+        "description": "国産小麦100%の自家製パンを毎朝焼き上げています。無添加・無漂白で安心して食べられるやさしい味わい。",
+        "paytypes": [
+            "PayPay",
+            "auPay"
+        ],
+        "note": "前回のキャンペーンでは沢山のお客様に当店自慢の〇〇をお召し上がりいただきました。キャンペーン後も多くの方にリピートしていただいております。",
+        "homepage": "https://dummy-bakery.jp",
+        "instagram": "https://www.instagram.com/dummybakery",
+        "x": "https://twitter.com/dummybakery",
+        "line": "https://lin.ee/dummyline"
+    }
+]
