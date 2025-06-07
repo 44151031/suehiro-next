@@ -57,8 +57,8 @@ export default function PrefecturePage({
           {activeList.length > 0 ? (
             <p className="text-base sm:text-lg text-neutral-700 leading-snug">
               <span className="text-[17px] sm:text-xl font-semibold">
-                {prefectureName}では、現在{" "}
-                <span className="text-orange-600 font-bold">{active.length}件</span> のキャンペーンが開催中です。
+                {prefectureName}では、現在開催中のキャンペーンは{" "}
+                <span className="text-orange-600 font-bold">{active.length}件</span>です。
               </span>
               <span className="ml-1 text-[17px] sm:text-xl font-semibold">
                 <span className="text-green-700 font-bold">{upcoming}件</span> は開催予定となっています。
@@ -66,7 +66,7 @@ export default function PrefecturePage({
             </p>
           ) : (
             <p className="text-base sm:text-lg text-neutral-700 leading-snug font-semibold">
-              現在、{prefectureName}で実施中または予定されているキャンペーンはありません。
+              現在、{prefectureName}で開催中または予定されているキャンペーンはありません。
             </p>
           )}
         </div>
