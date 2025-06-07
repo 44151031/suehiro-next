@@ -20,17 +20,14 @@ type ShopDetail = {
   instagram?: string;
   x?: string;
   line?: string;
-  tel?: string;
 };
 
 type Props = {
   genre: string;
   shops: Shop[];
-  prefecture: string;
-  city: string;
 };
 
-export default function ShopListByGenre({ genre, shops, prefecture, city }: Props) {
+export default function ShopListByGenre({ genre, shops }: Props) {
   const [expanded, setExpanded] = useState(false);
   const [detailsMap, setDetailsMap] = useState<Record<string, ShopDetail>>({});
   const [modalShop, setModalShop] = useState<ShopDetail | null>(null);
@@ -49,32 +46,13 @@ export default function ShopListByGenre({ genre, shops, prefecture, city }: Prop
 
   useEffect(() => {
     const loadDetails = async () => {
-      const safePref = prefecture || "dummy";
-      const safeCity = city || "dummy";
-      const path = `/data/shopsdetails/${safePref}-${safeCity}-shops-details.json`;
-
-      try {
-        const res = await fetch(path);
-        if (!res.ok) throw new Error("primary load failed");
-        const data: ShopDetail[] = await res.json();
-        const map = Object.fromEntries(data.map((item) => [item.shopid, item]));
-        setDetailsMap(map);
-      } catch (error) {
-        console.warn("本番データ読み込み失敗。ダミーデータにフォールバックします。");
-
-        const fallbackRes = await fetch("/data/shopsdetails/dummy-dummy-shops-details.json");
-        if (fallbackRes.ok) {
-          const fallbackData: ShopDetail[] = await fallbackRes.json();
-          const fallbackMap = Object.fromEntries(fallbackData.map((item) => [item.shopid, item]));
-          setDetailsMap(fallbackMap);
-        } else {
-          console.error("ダミーデータの読み込みにも失敗しました");
-        }
-      }
+      const res = await fetch("/data/shopsdetails/fukushima-kitakata-shops-details.json");
+      const data: ShopDetail[] = await res.json();
+      const map = Object.fromEntries(data.map((item) => [item.shopid, item]));
+      setDetailsMap(map);
     };
-
     loadDetails();
-  }, [prefecture, city]);
+  }, []);
 
   return (
     <section className="space-y-4">
