@@ -23,6 +23,7 @@ const dummyDetail: ShopDetail = {
   instagram: "https://www.instagram.com/dummybakery",
   x: "https://twitter.com/dummybakery",
   line: "https://lin.ee/dummyline",
+  photo: "/images/shops/s001.jpg", // ✅ ここを追加
 };
 
 export default function SampleShopExample() {
