@@ -51,7 +51,23 @@ export default function SampleShopExample() {
         </li>
       </ul>
 
-      <ShopDetailModal open={modalOpen} onClose={() => setModalOpen(false)} shop={dummyDetail} />
+      <ShopDetailModal open={modalOpen} onClose={() => setModalOpen(false)} shop={dummyDetail}>
+        {/* ✅ LINE登録ボタンと補足文 */}
+        <div className="mt-6 text-center">
+          <a
+            href="https://lin.ee/PwfONyl"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block px-6 py-3 rounded-full bg-pink-500 text-white font-bold text-sm hover:bg-pink-400 transition"
+            data-gtm-click="sample-line-button"
+          >
+            📩 まずはLINEで友だち登録
+          </a>
+          <p className="text-xs text-gray-500 mt-2">
+            よかったら<span className="text-rose-500 text-base font-bold">LINEから店舗情報</span>をお送りください。
+          </p>
+        </div>
+      </ShopDetailModal>
     </section>
   );
 }

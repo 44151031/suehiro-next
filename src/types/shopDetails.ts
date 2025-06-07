@@ -9,4 +9,6 @@ export type ShopDetail = {
   instagram?: string;
   x?: string;
   line?: string;
+  tel?: string;
+  photo?: string; // ✅ 追加
 };

@@ -26,9 +26,10 @@ type Props = {
   open: boolean;
   onClose: () => void;
   shop: ShopDetail;
+  children?: React.ReactNode; // ✅ childrenを追加
 };
 
-export default function ShopDetailModal({ open, onClose, shop }: Props) {
+export default function ShopDetailModal({ open, onClose, shop, children }: Props) {
   const imagePath = `/images/shops/fukushima-kitakata/${shop.shopid}.jpg`;
   const mapUrl = `https://www.google.com/maps/search/?q=${encodeURIComponent(shop.address)}`;
 
@@ -130,6 +131,12 @@ export default function ShopDetailModal({ open, onClose, shop }: Props) {
               </a>
             )}
           </div>
+
+          {children && (
+            <div className="pt-2 border-t mt-4">
+              {children}
+            </div>
+          )}
         </div>
       </DialogContent>
     </Dialog>
