@@ -22,8 +22,8 @@ export function getNationalMetadata(): Metadata {
 export function getPrefectureMetadata(prefectureSlug: string): Metadata {
   const prefecture = campaigns.find(c => c.prefectureSlug === prefectureSlug)?.prefecture || "全国";
 
-  const title = `${prefecture}の還元キャンペーン情報`;
-  const description = `${prefecture}で開催中のキャッシュレス還元キャンペーン一覧を紹介します。`;
+  const title = `${prefecture}のキャッシュレス還元キャンペーン情報`;
+  const description = `${prefecture}で開催中のPayPayやau Payや楽天ペイやd払いなどのキャッシュレス還元キャンペーンの一覧を紹介します。今獲得出来る総額ポイントも確認できます。`;
 
   return {
     title,
@@ -35,7 +35,7 @@ export function getPrefectureMetadata(prefectureSlug: string): Metadata {
       url: `https://paycancampaign.com/campaigns/${prefectureSlug}`,
       images: [
         {
-          url: `https://paycancampaign.com/ogp/${prefectureSlug}.jpg`,
+          url: `https://paycancampaign.com/ogp.jpg`,
           width: 1200,
           height: 630,
           alt: title,
@@ -46,7 +46,7 @@ export function getPrefectureMetadata(prefectureSlug: string): Metadata {
       card: "summary_large_image",
       title,
       description,
-      images: [`https://paycancampaign.com/ogp/${prefectureSlug}.jpg`],
+      images: [`https://paycancampaign.com/ogp.jpg`],
     },
   };
 }
@@ -63,18 +63,25 @@ export function getCityMetadata(prefectureSlug: string, citySlug: string): Metad
     };
   }
 
-  const { prefecture, city, paytype, offer } = campaign;
+  const { prefecture, city, paytype, offer, startDate, endDate } = campaign;
+
+  const formatDate = (dateStr: string): string => {
+    const date = new Date(dateStr);
+    const month = date.getMonth() + 1;
+    const day = date.getDate();
+    return `${month}月${day}日`;
+  };
+
+  const formattedStart = formatDate(startDate);
+  const formattedEnd = formatDate(endDate);
 
   const title = paytype
-    ? `${city}の${paytype} ${offer}％還元キャンペーン情報`
-    : `${prefecture}${city}の還元キャンペーン情報`;
+    ? `${city}の${paytype} ${offer}％還元の対象店舗情報`
+    : `${prefecture}${city}の還元の対象店舗情報`;
 
-  const description = `${prefecture}${city}で実施中のキャンペーンを紹介。${paytype ? `${paytype}による${offer}％還元対象！` : ""}`;
+  const description = `${prefecture}${city}で${formattedStart}から${formattedEnd}まで${paytype ? `${paytype}による${offer}％還元キャンペーン開催！${paytype}による${offer}％還元対象店舗の紹介や効率の良いポイント獲得方法を説明しています。` : ""}`;
 
-  // ✅ v=1 でキャッシュバスター付与
-  const ogImageUrl = paytype
-    ? `https://paycancampaign.com/api/og/campaigns/${prefectureSlug}/${citySlug}/${paytype}?v=1`
-    : `https://paycancampaign.com/ogp/${prefectureSlug}-${citySlug}.jpg`;
+  const ogImageUrl = `https://paycancampaign.com/ogp/${prefectureSlug}-${citySlug}.jpg`;
 
   const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}${paytype ? `/${paytype}` : ""}`;
 
