@@ -18,6 +18,7 @@ import StoreRegistrationCTA from "@/components/common/StoreRegistrationCTA";
 import { generateShareContent } from "@/lib/generateShareContent";
 import { SNSShareButtons } from "@/components/common/SNSShareButtons";
 import GenreShopLists from "@/components/sections/shop/GenreShopLists";
+import SampleShopExample from "@/components/sections/shop/SampleShopExample";
 
 export async function generateMetadata({
   params,
@@ -120,17 +121,19 @@ export default async function CityPaytypePage({
         </h2>
 
         {!shopListByGenre ? (
+          <>
           <p className="mt-10 text-gray-700 text-base">
             現時点では対象店舗情報が公表されていません。<br />
             公表されましたらこのページで紹介いたします。
           </p>
+          <SampleShopExample /></>
         ) : (
           <>
             <GenreShopLists shopListByGenre={shopListByGenre} />
-            <StoreRegistrationCTA />
+            <SampleShopExample />
           </>
         )}
-
+        <StoreRegistrationCTA />
         <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
 
         <div className="mt-20">
