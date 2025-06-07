@@ -1,10 +1,10 @@
 /**
  * RecommendedCampaigns.tsx
  *
- * 現在表示中の市区町村以外でおすすめのキャンペーンを最大4件表示するセクション。
- * 同一都道府県内の他キャンペーンを優先し、足りない場合は近隣都道府県のキャンペーンを距離順に補完。
+ * 現在表示中のキャンペーン以外でおすすめのキャンペーンを最大6件表示するセクション。
+ * 同一市区町村の別Payや、同一都道府県内の他市区町村を優先。
+ * 足りない場合は近隣都道府県のキャンペーンを距離順に補完。
  */
-
 import Link from "next/link";
 import { campaigns } from "@/lib/campaignMaster";
 import { prefectures } from "@/lib/prefectures";
@@ -14,21 +14,20 @@ import CampaignLineCard from "@/components/common/CampaignLineCard";
 type Props = {
   prefectureSlug: string;
   citySlug: string;
+  currentPaytype: string;
 };
 
-export function RecommendedCampaigns({ prefectureSlug, citySlug }: Props) {
-  // ✅ 終了していないキャンペーンのみ（同一都道府県・別市区町村）
+export function RecommendedCampaigns({ prefectureSlug, citySlug, currentPaytype }: Props) {
   const samePrefCampaigns = campaigns.filter(
     (c) =>
       c.prefectureSlug === prefectureSlug &&
-      c.citySlug !== citySlug &&
+      !(c.citySlug === citySlug && c.paytype === currentPaytype) &&
       isCampaignActive(c.endDate)
   );
 
   let recommended = [...samePrefCampaigns];
 
-  // ✅ 補完：近隣都道府県から開催中キャンペーンを距離順に追加
-  if (recommended.length < 4) {
+  if (recommended.length < 6) {
     const currentPref = prefectures.find((p) => p.slug === prefectureSlug);
 
     if (currentPref) {
@@ -58,16 +57,15 @@ export function RecommendedCampaigns({ prefectureSlug, citySlug }: Props) {
         );
 
         for (const c of extra) {
-          if (recommended.length >= 4) break;
+          if (recommended.length >= 6) break;
           recommended.push(c);
         }
 
-        if (recommended.length >= 4) break;
+        if (recommended.length >= 6) break;
       }
     }
   }
 
-  // ✅ 表示するキャンペーンがない場合
   if (recommended.length === 0) {
     return (
       <p className="text-center text-gray-600 text-base">
@@ -82,7 +80,7 @@ export function RecommendedCampaigns({ prefectureSlug, citySlug }: Props) {
         この場所から近いキャンペーン！せっかくならハシゴしよう！
       </h2>
       <ul className="grid grid-cols-1 xl:grid-cols-2 gap-4">
-        {recommended.slice(0, 4).map((c) => {
+        {recommended.slice(0, 6).map((c) => {
           const paySlug = c.paytype;
           if (!paySlug) return null;
 

@@ -64,7 +64,7 @@ export default function CampaignLineCard({
         {/* 付与上限 + 決済サービスバッジ */}
         {onepoint && fullpoint && (
           <span className="text-neutral-700 inline-flex items-center gap-x-1">
-            [上限]
+            
             <span className={pointClass(onePt)}>
               {onePt.toLocaleString()}P
             </span>

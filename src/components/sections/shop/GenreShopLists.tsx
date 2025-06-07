@@ -11,6 +11,7 @@ type Shop = {
 
 type Props = {
   shopListByGenre: Record<string, Shop[]>;
+  detailsJsonPath: string; // ✅ これを追加！
 };
 
 export default function GenreShopLists({ shopListByGenre }: Props) {

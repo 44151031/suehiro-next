@@ -27,19 +27,19 @@ type ShopDetail = {
 type Props = {
   genre: string;
   shops: Shop[];
-  detailsJsonPath?: string;
+  detailsJsonPath: string; // ✅ 必須化
 };
 
 export default function ShopListSection({
   genre,
   shops,
-  detailsJsonPath = "/data/shopsdetails/fukushima-kitakata-shops-details.json",
+  detailsJsonPath,
 }: Props) {
   const headingRef = useRef<HTMLHeadingElement>(null);
   const [expanded, setExpanded] = useState(false);
   const [modalShop, setModalShop] = useState<ShopDetail | null>(null);
 
-  const { detailsMap } = useShopDetails(detailsJsonPath);
+  const { detailsMap } = useShopDetails(detailsJsonPath); // ✅ 渡されたパスを使う
 
   const threshold = 6;
   const showToggle = shops.length > threshold;

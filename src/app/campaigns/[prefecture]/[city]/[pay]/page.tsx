@@ -1,4 +1,3 @@
-// /app/campaigns/[prefecture]/[city]/[pay]/page.tsx
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import { campaigns } from "@/lib/campaignMaster";
@@ -68,6 +67,7 @@ export default async function CityPaytypePage({
   } = campaign;
 
   const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${paytypeId}`;
+  const detailsJsonPath = `/data/shopsdetails/${prefectureSlug}-${citySlug}-shops-details.json`;
 
   const { title: shareTitle, hashtags: shareHashtags } = generateShareContent({
     city,
@@ -122,17 +122,22 @@ export default async function CityPaytypePage({
 
         {!shopListByGenre ? (
           <>
-          <p className="mt-10 text-gray-700 text-base">
-            現時点では対象店舗情報が公表されていません。<br />
-            公表されましたらこのページで紹介いたします。
-          </p>
-          <SampleShopExample /></>
+            <p className="mt-10 text-gray-700 text-base">
+              現時点では対象店舗情報が公表されていません。<br />
+              公表されましたらこのページで紹介いたします。
+            </p>
+            <SampleShopExample />
+          </>
         ) : (
           <>
-            <GenreShopLists shopListByGenre={shopListByGenre} />
+            <GenreShopLists
+              shopListByGenre={shopListByGenre}
+              detailsJsonPath={detailsJsonPath}
+            />
             <SampleShopExample />
           </>
         )}
+
         <StoreRegistrationCTA />
         <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
 
@@ -140,6 +145,7 @@ export default async function CityPaytypePage({
           <RecommendedCampaigns
             prefectureSlug={prefectureSlug}
             citySlug={citySlug}
+            currentPaytype={paytypeId}
           />
         </div>
 
