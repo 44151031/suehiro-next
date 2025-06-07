@@ -116,7 +116,7 @@ export default async function CityPaytypePage({
           <CampaignNotice campaign={campaign} />
         </div>
 
-        <h2 className="headline2">
+        <h2 className="headline2 mb-4">
           {city}の{offer}%還元キャンペーン対象店舗
         </h2>
 

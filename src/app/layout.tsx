@@ -32,12 +32,21 @@ export const metadata: Metadata = {
     url: "https://paycancampaign.com",
     siteName: "Payキャン",
     type: "website",
+    images: [
+      {
+        url: "https://paycancampaign.com/ogp.jpg",
+        width: 1200,
+        height: 630,
+        alt: "PayキャンのOGP画像",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "PayPay・auPay・楽天ペイ・d払いキャンペーン体験 - Payキャン",
     description:
       "全国のPayPay・auPay・楽天ペイ・d払いキャンペーンをまとめて紹介。各地域で獲得出来る総額もわかるから、効率よくポイントを獲得出来ます。",
+    images: ["https://paycancampaign.com/ogp.jpg"],
   },
 };
 
