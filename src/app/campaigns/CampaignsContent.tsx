@@ -28,6 +28,56 @@ export default function CampaignTopPageClient() {
           全国のキャッシュレスキャンペーン一覧
         </h1>
         <CampaignTotalPointSummary campaigns={filtered} areaLabel="全国" />
+<p className="text-base leading-relaxed mb-4">
+  日本全国の市区町村のPayPay、au Pay、楽天Pay、d払いのキャッシュレス還元キャンペーンをまとめています。
+  開催中のキャンペーンから、開催予定のキャンペーンまでまとめていますので、計画的にポイントを貯めることが出来ます。
+</p>
+
+<div className="flex flex-wrap items-center gap-3 text-sm">
+  <div className="flex items-center">
+    <span
+      className="ml-1 text-white text-[11px] font-bold rounded-full w-5 h-5 flex items-center justify-center"
+      title="P"
+      style={{ backgroundColor: "#ef2a36" }}
+    >
+      P
+    </span>
+    <span className="ml-2">PayPay</span>
+  </div>
+
+  <div className="flex items-center">
+    <span
+      className="ml-1 text-white text-[11px] font-bold rounded-full w-5 h-5 flex items-center justify-center"
+      title="au"
+      style={{ backgroundColor: "#f58220" }}
+    >
+      au
+    </span>
+    <span className="ml-2">au Pay</span>
+  </div>
+
+  <div className="flex items-center">
+    <span
+      className="ml-1 text-white text-[11px] font-bold rounded-full w-5 h-5 flex items-center justify-center"
+      title="楽"
+      style={{ backgroundColor: "#bf0000" }}
+    >
+      楽
+    </span>
+    <span className="ml-2">楽天ペイ</span>
+  </div>
+
+  <div className="flex items-center">
+    <span
+      className="ml-1 text-white text-[11px] font-bold rounded-full w-5 h-5 flex items-center justify-center"
+      title="d"
+      style={{ backgroundColor: "#b11f27" }}
+    >
+      d
+    </span>
+    <span className="ml-2">d払い</span>
+  </div>
+</div>
 
 {/* ✅ 絞り込みセクション：stickyでヘッダー下に固定 */}
 <div className="sticky top-16 z-30 bg-[#f8f7f2] pt-4 pb-3 mb-10">

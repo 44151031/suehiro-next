@@ -79,7 +79,7 @@ export function RecommendedCampaigns({ prefectureSlug, citySlug }: Props) {
   return (
     <section className="mt-16">
       <h2 className="text-xl sm:text-2xl font-bold text-neutral-800 mb-6 border-l-4 border-brand-primary pl-4">
-        このページを見た方にオススメのキャンペーン
+        この場所から近いキャンペーン！せっかくならハシゴしよう！
       </h2>
       <ul className="grid grid-cols-1 xl:grid-cols-2 gap-4">
         {recommended.slice(0, 4).map((c) => {

@@ -133,6 +133,15 @@ export default function CityPaytypePage({
 
         <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
 
+
+        <div className="mt-20">
+          <RecommendedCampaigns
+            prefectureSlug={prefectureSlug}
+            citySlug={citySlug}
+          />
+        </div>
+
+        
         <BackNavigationButtons
           prefecture={prefecture}
           prefectureSlug={prefectureSlug}
