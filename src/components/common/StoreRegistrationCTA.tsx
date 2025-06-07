@@ -7,7 +7,7 @@ export default function StoreRegistrationCTA() {
       </h2>
       <p className="text-sm sm:text-base text-gray-700 mb-4">
         「Payキャン」は地域のキャッシュレスキャンペーンを紹介しています。<br className="hidden sm:inline" />
-        該当キャンペーンの対象店舗であれば、<span className="font-semibold text-pink-600">無料で掲載申請</span>が可能です。
+        該当キャンペーンの対象店舗であれば、<span className="font-semibold text-pink-600">無料でリッチ掲載</span>が可能です。
       </p>
 
       <ul className="text-sm text-left text-gray-700 mx-auto mb-4 max-w-md space-y-1 list-disc list-inside">
