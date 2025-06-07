@@ -1,5 +1,4 @@
-// ✅ /app/campaigns/[prefecture]/[city]/[pay]/page.tsx
-
+// /app/campaigns/[prefecture]/[city]/[pay]/page.tsx
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import { campaigns } from "@/lib/campaignMaster";
@@ -15,10 +14,10 @@ import CampaignSummaryCard from "@/components/sections/city/CampaignSummaryCard"
 import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCampaigns";
 import GenreHeaderNav from "@/components/sections/city/GenreHeaderNav";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
-import ShopListGroup from "@/components/sections/city/ShopListGroupSortByGenrePriority";
 import StoreRegistrationCTA from "@/components/common/StoreRegistrationCTA";
 import { generateShareContent } from "@/lib/generateShareContent";
 import { SNSShareButtons } from "@/components/common/SNSShareButtons";
+import GenreShopLists from "@/components/sections/shop/GenreShopLists";
 
 export async function generateMetadata({
   params,
@@ -28,7 +27,7 @@ export async function generateMetadata({
   return getCityMetadata(params.prefecture, params.city);
 }
 
-export default function CityPaytypePage({
+export default async function CityPaytypePage({
   params,
 }: {
   params: { prefecture: string; city: string; pay: string };
@@ -47,11 +46,12 @@ export default function CityPaytypePage({
   const payLabel = PayTypeLabels[paytypeId];
   const isPayPay = paytypeId === "paypay";
 
-  const shopList = isPayPay
-    ? loadShopList(params.prefecture, params.city)
+  const shopListByGenre = isPayPay
+    ? await loadShopList(params.prefecture, params.city)
     : null;
+
   const genres = isPayPay
-    ? loadGenres(params.prefecture, params.city)
+    ? await loadGenres(params.prefecture, params.city)
     : [];
 
   const {
@@ -119,20 +119,19 @@ export default function CityPaytypePage({
           {city}の{offer}%還元キャンペーン対象店舗
         </h2>
 
-        {!shopList ? (
+        {!shopListByGenre ? (
           <p className="mt-10 text-gray-700 text-base">
             現時点では対象店舗情報が公表されていません。<br />
             公表されましたらこのページで紹介いたします。
           </p>
         ) : (
           <>
-            <ShopListGroup shopList={shopList} />
+            <GenreShopLists shopListByGenre={shopListByGenre} />
             <StoreRegistrationCTA />
           </>
         )}
 
         <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
-
 
         <div className="mt-20">
           <RecommendedCampaigns
@@ -141,7 +140,6 @@ export default function CityPaytypePage({
           />
         </div>
 
-        
         <BackNavigationButtons
           prefecture={prefecture}
           prefectureSlug={prefectureSlug}

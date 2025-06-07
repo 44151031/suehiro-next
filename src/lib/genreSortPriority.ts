@@ -1,5 +1,6 @@
-// lib/shopGenrePriority.ts
-export const genrePriority = [
+// /lib/genreSortPriority.ts
+
+const genrePriority = [
   "ガソリンスタンド",
   "リカーショップ・酒屋",
   "量販店",
@@ -22,8 +23,10 @@ export function sortGenresByPriority(genres: string[]): string[] {
   return [...genres].sort((a, b) => {
     const indexA = genrePriority.indexOf(a);
     const indexB = genrePriority.indexOf(b);
-    const aIndex = indexA === -1 ? genrePriority.length : indexA;
-    const bIndex = indexB === -1 ? genrePriority.length : indexB;
-    return aIndex - bIndex;
+
+    const safeIndexA = indexA === -1 ? genrePriority.length : indexA;
+    const safeIndexB = indexB === -1 ? genrePriority.length : indexB;
+
+    return safeIndexA - safeIndexB;
   });
 }

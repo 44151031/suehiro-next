@@ -1,7 +1,9 @@
 "use client";
 
-import { useRef, useState, useEffect } from "react";
+import { useRef, useState } from "react";
+import ShopList from "./ShopList";
 import ShopDetailModal from "@/components/ui/modals/ShopDetailModal";
+import { useShopDetails } from "@/hooks/useShopDetails";
 
 type Shop = {
   name: string;
@@ -25,13 +27,19 @@ type ShopDetail = {
 type Props = {
   genre: string;
   shops: Shop[];
+  detailsJsonPath?: string;
 };
 
-export default function ShopListByGenre({ genre, shops }: Props) {
-  const [expanded, setExpanded] = useState(false);
-  const [detailsMap, setDetailsMap] = useState<Record<string, ShopDetail>>({});
-  const [modalShop, setModalShop] = useState<ShopDetail | null>(null);
+export default function ShopListSection({
+  genre,
+  shops,
+  detailsJsonPath = "/data/shopsdetails/fukushima-kitakata-shops-details.json",
+}: Props) {
   const headingRef = useRef<HTMLHeadingElement>(null);
+  const [expanded, setExpanded] = useState(false);
+  const [modalShop, setModalShop] = useState<ShopDetail | null>(null);
+
+  const { detailsMap } = useShopDetails(detailsJsonPath);
 
   const threshold = 6;
   const showToggle = shops.length > threshold;
@@ -43,16 +51,6 @@ export default function ShopListByGenre({ genre, shops }: Props) {
     }
     setExpanded((prev) => !prev);
   };
-
-  useEffect(() => {
-    const loadDetails = async () => {
-      const res = await fetch("/data/shopsdetails/fukushima-kitakata-shops-details.json");
-      const data: ShopDetail[] = await res.json();
-      const map = Object.fromEntries(data.map((item) => [item.shopid, item]));
-      setDetailsMap(map);
-    };
-    loadDetails();
-  }, []);
 
   return (
     <section className="space-y-4">
@@ -70,32 +68,11 @@ export default function ShopListByGenre({ genre, shops }: Props) {
         </p>
       ) : (
         <>
-          <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 text-sm">
-            {visibleShops.map((shop, idx) => {
-              const detail = shop.shopid ? detailsMap[shop.shopid] : null;
-              const isModalLink = !!detail;
-
-              return (
-                <li
-                  key={idx}
-                  onClick={() => isModalLink && setModalShop(detail)}
-                  className={`rounded-lg px-4 py-3 transition border ${
-                    isModalLink
-                      ? "bg-white border-pink-300 border-2 cursor-pointer hover:shadow-md hover:scale-[1.03] duration-200"
-                      : "bg-white border-gray-200"
-                  }`}
-                >
-                  <div className="flex flex-wrap items-center gap-x-1">
-                    <p className="font-semibold text-gray-900">{shop.name}</p>
-                    {isModalLink && (
-                      <span className="text-xs text-gray-600">[詳細]</span>
-                    )}
-                  </div>
-                  <p className="text-gray-600 text-sm">{shop.address}</p>
-                </li>
-              );
-            })}
-          </ul>
+          <ShopList
+            shops={visibleShops}
+            detailsMap={detailsMap}
+            onClickShop={(detail) => setModalShop(detail)}
+          />
 
           {showToggle && (
             <div className="text-center mt-4">

@@ -1,0 +1,941 @@
+{
+  "その他": [
+    {
+      "name": "Dummyパン",
+      "address": "ダミー町ダミー番地",
+      "shopid": "s001"
+    },
+    {
+      "name": "きたかた動物病院",
+      "address": "稲荷宮"
+    },
+    {
+      "name": "喜多方ドライビングスクール",
+      "address": "大谷地"
+    },
+    {
+      "name": "とうえい動物病院",
+      "address": "関柴町上高額家ノ北"
+    }
+  ],
+  "サービス": [
+    {
+      "name": "会津バス喜多方営業所",
+      "address": "町田"
+    },
+    {
+      "name": "あひるの洗たく屋さんリオン・ドール喜多方西店",
+      "address": "押切南"
+    },
+    {
+      "name": "E-WORKS",
+      "address": "清水台"
+    },
+    {
+      "name": "S'cosmeマルヤ",
+      "address": "井戸尻"
+    },
+    {
+      "name": "Amilekitakata",
+      "address": "前田"
+    },
+    {
+      "name": "emu＿qu（まつ毛）",
+      "address": "豊川町米室"
+    },
+    {
+      "name": "扇屋モーター",
+      "address": "下江"
+    },
+    {
+      "name": "オートセンター",
+      "address": "大谷地田"
+    },
+    {
+      "name": "おそうじ革命福島喜多方店",
+      "address": "押切"
+    },
+    {
+      "name": "カスタムドリーム",
+      "address": "清水台"
+    },
+    {
+      "name": "ガレージファクトリー",
+      "address": "台"
+    },
+    {
+      "name": "喜多方卓球ランド",
+      "address": "中町"
+    },
+    {
+      "name": "喜多方ブル自工",
+      "address": "豊川町高堂太橋向"
+    },
+    {
+      "name": "喜多方ブル自工くるまパーク北方館",
+      "address": "豊川町高堂太橋向"
+    },
+    {
+      "name": "グッド整体院",
+      "address": "稲荷宮"
+    },
+    {
+      "name": "クリーニングレイール喜多方店",
+      "address": "東桜ガ丘"
+    },
+    {
+      "name": "GROOVEstudio",
+      "address": "豊川町米室高吉"
+    },
+    {
+      "name": "Crecer",
+      "address": "慶徳道下"
+    },
+    {
+      "name": "佐藤石材店",
+      "address": "町田"
+    },
+    {
+      "name": "Salonde愛利",
+      "address": "関柴町三津井前田"
+    },
+    {
+      "name": "塩原自動車工業しおばらじどうしゃ",
+      "address": "押切南"
+    },
+    {
+      "name": "スキルオート",
+      "address": "豊川町高堂太免田"
+    },
+    {
+      "name": "洗濯工房えんどう",
+      "address": "諏訪"
+    },
+    {
+      "name": "ソーイングランドたかはし",
+      "address": "諏訪"
+    },
+    {
+      "name": "冨田健康院／スクール",
+      "address": "押切南"
+    },
+    {
+      "name": "中里自動車",
+      "address": "関柴町豊芦橋向"
+    },
+    {
+      "name": "白清舎クリーニング店",
+      "address": "前田"
+    },
+    {
+      "name": "BuzzHair",
+      "address": "稲荷宮"
+    },
+    {
+      "name": "光ボデー",
+      "address": "豊川町高堂太免田"
+    },
+    {
+      "name": "美容室ハーモニーHarmony",
+      "address": "舞台田"
+    },
+    {
+      "name": "プートゥニック",
+      "address": "西四ツ谷"
+    },
+    {
+      "name": "ブローチェ・ココア",
+      "address": "井戸尻"
+    },
+    {
+      "name": "ヘアーサロンおぐま",
+      "address": "通船場"
+    },
+    {
+      "name": "ヘアーサロンつきおか",
+      "address": "豊川町米室中田"
+    },
+    {
+      "name": "HairAtelierMUUQU（ヘア）",
+      "address": "豊川町米室"
+    },
+    {
+      "name": "ヘアエステオオミナト",
+      "address": "町田"
+    },
+    {
+      "name": "HairSalon4u",
+      "address": "諏訪"
+    },
+    {
+      "name": "HairSalonSuw",
+      "address": "一本木下"
+    },
+    {
+      "name": "ホワイト急便福島ヨークベニマル喜多方店",
+      "address": "井戸尻"
+    },
+    {
+      "name": "磨研",
+      "address": "屋敷免"
+    },
+    {
+      "name": "maru美容室",
+      "address": "東桜ガ丘"
+    },
+    {
+      "name": "みつあみ堂",
+      "address": "関柴町上高額西村"
+    },
+    {
+      "name": "むぎはり灸院",
+      "address": "御清水南"
+    },
+    {
+      "name": "Lilyprivatesalon",
+      "address": "豊川町米室志津"
+    },
+    {
+      "name": "リンクサプライBrochecocoa",
+      "address": "井戸尻"
+    },
+    {
+      "name": "Lunahair",
+      "address": "押切東"
+    },
+    {
+      "name": "自動車整備工場オートガレージ",
+      "address": "熱塩加納町山田千苅田甲"
+    },
+    {
+      "name": "F",
+      "address": "塩川町御殿場"
+    },
+    {
+      "name": "おそうじSTAR",
+      "address": "塩川町小府根蓮沼"
+    },
+    {
+      "name": "会北自動車",
+      "address": "塩川町町北"
+    },
+    {
+      "name": "クリーニングレイールイオンタウン塩    店",
+      "address": "塩川町小府根曽谷田"
+    },
+    {
+      "name": "しおかわ整骨院",
+      "address": "塩川町舘ノ内"
+    },
+    {
+      "name": "美容室Torant",
+      "address": "塩川町小府根畑ケ田"
+    },
+    {
+      "name": "FlatOut",
+      "address": "塩川町遠田"
+    },
+    {
+      "name": "HairsPiece",
+      "address": "塩川町御殿場"
+    },
+    {
+      "name": "RUFFRUFFドッグラン",
+      "address": "塩川町五合金森"
+    },
+    {
+      "name": "岩城建具店",
+      "address": "山都町蛇崩"
+    },
+    {
+      "name": "BarBerいとう",
+      "address": "山都町広中新田"
+    },
+    {
+      "name": "ふれあいランド高郷",
+      "address": "高郷町揚津"
+    }
+  ],
+  "宿泊": [
+    {
+      "name": "あづま旅館",
+      "address": "小田付道下"
+    },
+    {
+      "name": "熱塩温泉山形屋",
+      "address": "熱塩加納町熱塩北平田甲"
+    },
+    {
+      "name": "いいでのゆ",
+      "address": "山都町一ノ木越戸"
+    }
+  ],
+  "小売": [
+    {
+      "name": "會津ギフト",
+      "address": "花園"
+    },
+    {
+      "name": "会津ヤクルト販売喜多方センター",
+      "address": "東桜ガ丘"
+    },
+    {
+      "name": "アンテーク・セレクト雑貨いろは",
+      "address": "1丁目"
+    },
+    {
+      "name": "いいで薬局鳥見山店",
+      "address": "松山町鳥見山"
+    },
+    {
+      "name": "いがらし製めん直売所",
+      "address": "押切南"
+    },
+    {
+      "name": "岩田商店喜多方西SS",
+      "address": "押切南"
+    },
+    {
+      "name": "岩田商店松山SS",
+      "address": "松山町村松石田"
+    },
+    {
+      "name": "鵜    商店",
+      "address": "常盤町"
+    },
+    {
+      "name": "江    米菓店",
+      "address": "岩月町宮津若宮"
+    },
+    {
+      "name": "えびす屋 松崎商店",
+      "address": "南町"
+    },
+    {
+      "name": "オカモトセルフ喜多方",
+      "address": "井戸尻"
+    },
+    {
+      "name": "おおつか化粧品店",
+      "address": "大道田"
+    },
+    {
+      "name": "お菓子の蔵太郎庵喜多方店",
+      "address": "屋敷免"
+    },
+    {
+      "name": "おしゃれの店ツジルシ",
+      "address": "3丁目"
+    },
+    {
+      "name": "お茶の島慶園",
+      "address": "2丁目"
+    },
+    {
+      "name": "おのでら",
+      "address": "2丁目"
+    },
+    {
+      "name": "小原酒造",
+      "address": "南町"
+    },
+    {
+      "name": "折橋商店",
+      "address": "熊倉町熊倉"
+    },
+    {
+      "name": "甲斐商店甲斐商店",
+      "address": "町田"
+    },
+    {
+      "name": "GAREGECREW",
+      "address": "関柴町上高額宮越"
+    },
+    {
+      "name": "喜多方あいあい薬局",
+      "address": "2丁目"
+    },
+    {
+      "name": "喜多方キラリファーム23",
+      "address": "熊倉町雄国クク谷地"
+    },
+    {
+      "name": "喜多方蔵の里",
+      "address": "押切"
+    },
+    {
+      "name": "喜多方酒蔵場（しんたに）",
+      "address": "松山町村松石田"
+    },
+    {
+      "name": "ギフトプラザ喜多方店",
+      "address": "関柴町上高額広面"
+    },
+    {
+      "name": "靴のコバヤシ",
+      "address": "3丁目"
+    },
+    {
+      "name": "クレープ&カフェくるくる",
+      "address": "3丁目"
+    },
+    {
+      "name": "黒澤桐材店",
+      "address": "一本木上"
+    },
+    {
+      "name": "コープVALUEぷらざ店",
+      "address": "通船場"
+    },
+    {
+      "name": "コープBESTAひがし店",
+      "address": "惣座宮"
+    },
+    {
+      "name": "コスモ石油喜多方SS",
+      "address": "関柴町上高額境田"
+    },
+    {
+      "name": "さかいや生花店",
+      "address": "1丁目"
+    },
+    {
+      "name": "さがら呉服店",
+      "address": "3丁目"
+    },
+    {
+      "name": "サトウ電化サービス",
+      "address": "町尻西"
+    },
+    {
+      "name": "三万石喜多方店",
+      "address": "西四ツ谷"
+    },
+    {
+      "name": "JA会津よつば総合サービス喜多方給油所",
+      "address": "岩月町喜多方渕ノ下"
+    },
+    {
+      "name": "JA会津よつば総合サービス豊    給油所",
+      "address": "豊川町米室樋の下"
+    },
+    {
+      "name": "JA農産物直売所「いいでの四季喜多方店」",
+      "address": "岩月町喜多方渕ノ上"
+    },
+    {
+      "name": "自転車の店ヨシハラ商会",
+      "address": "松山町村松小荒井道西"
+    },
+    {
+      "name": "清水屋種苗園芸",
+      "address": "2丁目"
+    },
+    {
+      "name": "手芸のみとや喜多方店",
+      "address": "西四ツ谷"
+    },
+    {
+      "name": "Shindy",
+      "address": "梅竹"
+    },
+    {
+      "name": "真美商星青果店",
+      "address": "惣座宮"
+    },
+    {
+      "name": "杉葉",
+      "address": "惣座宮"
+    },
+    {
+      "name": "関ビジネス喜多方営業所",
+      "address": "関柴町上高額広面"
+    },
+    {
+      "name": "曽我製麺",
+      "address": "関柴町上高額宮越"
+    },
+    {
+      "name": "ダイアナ美サイド",
+      "address": "松山町鳥見山街道西"
+    },
+    {
+      "name": "竹工房たけや",
+      "address": "南町"
+    },
+    {
+      "name": "帝撃ロックサービス",
+      "address": "関柴町上高額東原"
+    },
+    {
+      "name": "DECOLITY",
+      "address": "屋敷免"
+    },
+    {
+      "name": "DogSalonLise",
+      "address": "松山町村松寺分"
+    },
+    {
+      "name": "Dogベースパルトネールドッグスペースパルトネー",
+      "address": "押切"
+    },
+    {
+      "name": "中野商店中野商店",
+      "address": "清水台"
+    },
+    {
+      "name": "農産物直売所とんとん野彩蔵",
+      "address": "1丁目"
+    },
+    {
+      "name": "HarvestMoonRecords",
+      "address": "行作"
+    },
+    {
+      "name": "BAIHU",
+      "address": "行作"
+    },
+    {
+      "name": "パナピアきたかた",
+      "address": "水上"
+    },
+    {
+      "name": "羽入商店",
+      "address": "熊倉町熊倉熊倉"
+    },
+    {
+      "name": "HITACHIおのづかデンキ",
+      "address": "関柴町上高額境田"
+    },
+    {
+      "name": "ファッションライフまつや",
+      "address": "西四ツ谷"
+    },
+    {
+      "name": "ブティックのい",
+      "address": "小田付道上"
+    },
+    {
+      "name": "古    商店",
+      "address": "1丁目"
+    },
+    {
+      "name": "古    燃料店",
+      "address": "豊川町米室志津"
+    },
+    {
+      "name": "ベリーズソフトクリーム",
+      "address": "西四ツ谷"
+    },
+    {
+      "name": "ほっともっと喜多方店",
+      "address": "稲荷宮"
+    },
+    {
+      "name": "松本屋",
+      "address": "3丁目"
+    },
+    {
+      "name": "マルサ漆器製造所",
+      "address": "天満前"
+    },
+    {
+      "name": "マルヤ玩具店",
+      "address": "2丁目"
+    },
+    {
+      "name": "三浦英次商店",
+      "address": "中町"
+    },
+    {
+      "name": "みつい生花店",
+      "address": "3丁目"
+    },
+    {
+      "name": "峰の雪酒造場",
+      "address": "桜ガ丘"
+    },
+    {
+      "name": "宮脇書店喜多方店",
+      "address": "西四ツ谷"
+    },
+    {
+      "name": "民藝あくた",
+      "address": "町田"
+    },
+    {
+      "name": "ヤマトスポーツ店",
+      "address": "寺町"
+    },
+    {
+      "name": "ヤマト釣具店",
+      "address": "慶徳道下"
+    },
+    {
+      "name": "大和冷蔵喜多方事業所",
+      "address": "清水台"
+    },
+    {
+      "name": "山中煎餅本舗",
+      "address": "関柴町上高額北町"
+    },
+    {
+      "name": "結まーるプラザ喜多方ふれあい通り店",
+      "address": "3丁目"
+    },
+    {
+      "name": "楽篆工房",
+      "address": "寺町"
+    },
+    {
+      "name": "RECCIDERBEERWORKS",
+      "address": "関柴町上高額樋口"
+    },
+    {
+      "name": "RECCIDERBEERWORKS関西",
+      "address": "関柴町上高額樋口"
+    },
+    {
+      "name": "和飲蔵",
+      "address": "北町"
+    },
+    {
+      "name": "若喜商店",
+      "address": "3丁目"
+    },
+    {
+      "name": "わくわく工房",
+      "address": "熊倉町熊倉柳原"
+    },
+    {
+      "name": "JA会津よつば総合サービス熱塩給油所",
+      "address": "熱塩加納町山田道西"
+    },
+    {
+      "name": "天然酵母カントリーロード",
+      "address": "熱塩加納町相田大森乙"
+    },
+    {
+      "name": "五十嵐文具店",
+      "address": "塩川町岡ノ前"
+    },
+    {
+      "name": "オオギヤ",
+      "address": "塩川町東栄町"
+    },
+    {
+      "name": "お菓子の蔵太郎庵塩    店",
+      "address": "塩川町東栄町"
+    },
+    {
+      "name": "COOPVALUEしおかわ店",
+      "address": "塩川町東栄町"
+    },
+    {
+      "name": "COOPBESTA＋とねがわ店",
+      "address": "塩川町小府根曽谷田"
+    },
+    {
+      "name": "JA会津よつば総合サービス塩    給油所",
+      "address": "塩川町小府根道下"
+    },
+    {
+      "name": "JOLIEFLEUR",
+      "address": "塩川町東栄町"
+    },
+    {
+      "name": "スガデン",
+      "address": "塩川町中町"
+    },
+    {
+      "name": "ダイアナフルール",
+      "address": "塩川町御殿場"
+    },
+    {
+      "name": "辰野ファーム",
+      "address": "塩川町吉沖西村"
+    },
+    {
+      "name": "山口酒店",
+      "address": "塩川町小府根畑ヶ田"
+    },
+    {
+      "name": "菓子舗宇多郎",
+      "address": "山都町小山"
+    },
+    {
+      "name": "JA会津よつば総合サービス山都給油所",
+      "address": "山都町三津合塚田"
+    },
+    {
+      "name": "そば資料館",
+      "address": "山都町沢田"
+    },
+    {
+      "name": "真部農園アスパラガス直売所",
+      "address": "山都町木幡一ノ戸道下丙"
+    },
+    {
+      "name": "山都ショッピングセンター総合食品マルニ",
+      "address": "山都町木曽"
+    },
+    {
+      "name": "とうふ屋おはら",
+      "address": "高郷町大田賀地神原"
+    }
+  ],
+  "飲食": [
+    {
+      "name": "会津喜多方ラーメン館本館",
+      "address": "梅竹"
+    },
+    {
+      "name": "赤れんが",
+      "address": "岩月町宮津惣社原"
+    },
+    {
+      "name": "あじ庵食堂",
+      "address": "豊川町米室アカト"
+    },
+    {
+      "name": "アンティウス",
+      "address": "細田"
+    },
+    {
+      "name": "ウリナム食堂",
+      "address": "前田"
+    },
+    {
+      "name": "お食事とお酒舟場α",
+      "address": "通船場"
+    },
+    {
+      "name": "音楽酒場おんつぁげす",
+      "address": "2丁目"
+    },
+    {
+      "name": "割烹寿司おゝ多",
+      "address": "谷地田"
+    },
+    {
+      "name": "可奈女鮨",
+      "address": "谷地田"
+    },
+    {
+      "name": "カフェ蔵誠",
+      "address": "押切"
+    },
+    {
+      "name": "カラオケレストラン・グー喜多方本店",
+      "address": "関柴町上高額境田"
+    },
+    {
+      "name": "がんこラーメン葵飯店",
+      "address": "梅竹"
+    },
+    {
+      "name": "菊水",
+      "address": "寺町南"
+    },
+    {
+      "name": "喜多方BAL",
+      "address": "2丁目"
+    },
+    {
+      "name": "喜多方ラーメン来夢喜多方本店",
+      "address": "稲荷宮"
+    },
+    {
+      "name": "木之本漆器店カフェテラスわさび",
+      "address": "天満前"
+    },
+    {
+      "name": "CURIOUS",
+      "address": "谷地田"
+    },
+    {
+      "name": "くじら雲myfirstkitchen",
+      "address": "小田付道下"
+    },
+    {
+      "name": "樟山珈琲店",
+      "address": "南町"
+    },
+    {
+      "name": "クラインガルテン",
+      "address": "豊川町高堂太高里"
+    },
+    {
+      "name": "喜多方ラーメン神社",
+      "address": "2丁目"
+    },
+    {
+      "name": "香福",
+      "address": "桜ガ丘"
+    },
+    {
+      "name": "Coccotree",
+      "address": "御清水"
+    },
+    {
+      "name": "ごはんや華奈",
+      "address": "水上"
+    },
+    {
+      "name": "酒バーコギク",
+      "address": "小田付道下"
+    },
+    {
+      "name": "さくら亭",
+      "address": "押切南"
+    },
+    {
+      "name": "シーズン",
+      "address": "西四ツ谷"
+    },
+    {
+      "name": "塩    屋",
+      "address": "1丁目"
+    },
+    {
+      "name": "志ぐれ亭",
+      "address": "上三宮町吉    日照畑"
+    },
+    {
+      "name": "食堂つきとおひさま",
+      "address": "寺町南"
+    },
+    {
+      "name": "すし海道喜多方店",
+      "address": "関柴町三津井唐八"
+    },
+    {
+      "name": "スナックさくら",
+      "address": "谷地田"
+    },
+    {
+      "name": "炭火串焼賢ken",
+      "address": "2丁目"
+    },
+    {
+      "name": "蕎麦屋高堂太",
+      "address": "豊川町高堂太免田"
+    },
+    {
+      "name": "楽気Tanoshige",
+      "address": "谷地田"
+    },
+    {
+      "name": "たんぽぽ亭",
+      "address": "小田付道下"
+    },
+    {
+      "name": "nichinichicoffee",
+      "address": "桜ガ丘"
+    },
+    {
+      "name": "農家のそば屋さくら",
+      "address": "熊倉町雄国上百目貫"
+    },
+    {
+      "name": "BARCAVE",
+      "address": "細田"
+    },
+    {
+      "name": "華会席瑞兆",
+      "address": "3丁目"
+    },
+    {
+      "name": "晩酌屋喜っせ",
+      "address": "3丁目"
+    },
+    {
+      "name": "福島屋",
+      "address": "1丁目"
+    },
+    {
+      "name": "FRYINGPAN",
+      "address": "南町"
+    },
+    {
+      "name": "ふるさと亭レストラン",
+      "address": "松山町鳥見山三町歩"
+    },
+    {
+      "name": "musicbarLoverSoul",
+      "address": "小田付道下"
+    },
+    {
+      "name": "モスバーガー会津喜多方店",
+      "address": "井戸尻"
+    },
+    {
+      "name": "焼処サムライ",
+      "address": "大谷地田"
+    },
+    {
+      "name": "ラーメンうめ八",
+      "address": "北町上"
+    },
+    {
+      "name": "らーめん酒場ばってん",
+      "address": "小田付道下"
+    },
+    {
+      "name": "ライブスペーススタジオ結",
+      "address": "細田"
+    },
+    {
+      "name": "レストラン割烹喜多野",
+      "address": "町田"
+    },
+    {
+      "name": "レストラントレビ",
+      "address": "1丁目"
+    },
+    {
+      "name": "ごはんやカフェおぐみ屋",
+      "address": "熱塩加納町山田千苅田甲"
+    },
+    {
+      "name": "空色cafe",
+      "address": "熱塩加納町加納柿木田甲"
+    },
+    {
+      "name": "味浪漫粋旬",
+      "address": "塩川町中町"
+    },
+    {
+      "name": "アタミ食堂",
+      "address": "塩川町新丁"
+    },
+    {
+      "name": "寿司・割烹新常葉",
+      "address": "塩川町反町"
+    },
+    {
+      "name": "蕎麦や菅井百貨店",
+      "address": "塩川町新丁"
+    },
+    {
+      "name": "大衆食堂",
+      "address": "塩川町石橋"
+    },
+    {
+      "name": "大衆食堂みさお",
+      "address": "塩川町米沢町"
+    },
+    {
+      "name": "松本屋商店",
+      "address": "塩川町中町"
+    },
+    {
+      "name": "丸市食堂",
+      "address": "塩川町東栄町"
+    },
+    {
+      "name": "山都そば処萬長",
+      "address": "山都町木曽"
+    }
+  ]
+}
