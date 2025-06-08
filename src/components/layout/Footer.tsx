@@ -27,7 +27,7 @@ export default function Footer() {
                 <span className="text-sm text-gray-500 ml-2">（ペイキャン）</span>
               </p>
               <p className="text-xs sm:text-sm text-gray-500 leading-snug mt-1">
-                PayPay・auPay・楽天ペイ・d払いキャンペーン体験まとめ
+                PayPay・auPay・楽天ペイ・d払い還元体験
               </p>
             </div>
 
