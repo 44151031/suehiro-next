@@ -7,12 +7,17 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://paycancampaign.com"
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date().toISOString();
 
+  // ✅ トップページ
+  const topPage = [
+    { url: `${siteUrl}/`, lastModified: now },
+  ];
+
   // ✅ 全国のキャンペーン一覧ページ
   const rootPage = [
     { url: `${siteUrl}/campaigns`, lastModified: now },
   ];
 
-  // ✅ 都道府県別ページ（campaigns に登場する都道府県だけ）
+  // ✅ 都道府県別ページ
   const prefectureSlugs = Array.from(new Set(campaigns.map((c) => c.prefectureSlug)));
   const prefecturePages = prefectureSlugs.map((slug) => ({
     url: `${siteUrl}/campaigns/${slug}`,
@@ -41,13 +46,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: c.lastModified ?? now,
     }));
 
-  // ✅ その他静的ページ（必要に応じて）
+  // ✅ その他静的ページ
   const staticPages = [
     { url: `${siteUrl}/management`, lastModified: now },
-    { url: `${siteUrl}/campaign/search`, lastModified: now }, // ← 修正済み
+    { url: `${siteUrl}/campaign/search`, lastModified: now },
   ];
 
   return [
+    ...topPage,           // ← ✅ 追加済み
     ...rootPage,
     ...prefecturePages,
     ...cityPages,
