@@ -1,3 +1,4 @@
+// /app/search/page.tsx
 'use client';
 
 import { Suspense } from 'react';
@@ -10,6 +11,7 @@ import Link from 'next/link';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 import LayoutShell from '@/components/layout/LayoutShell';
+import { isCampaignActive } from '@/lib/campaignUtils';
 
 function SearchResultsInner() {
   const searchParams = useSearchParams();
@@ -17,8 +19,10 @@ function SearchResultsInner() {
     .toLowerCase()
     .trim();
 
-  const filtered = campaigns.filter((c) =>
-    `${c.prefecture}${c.city}`.toLowerCase().includes(keyword)
+  const filtered = campaigns.filter(
+    (c) =>
+      `${c.prefecture}${c.city}`.toLowerCase().includes(keyword) &&
+      isCampaignActive(c.endDate)
   );
 
   return (

@@ -2,6 +2,8 @@
 import type { Campaign } from "@/types/campaign";
 
 export const campaigns: Campaign[] = [
+    { paytype: "paypay", prefectureSlug: "nagano", citySlug: "obuse", prefecture: "長野県", city: "小布施町", offer: 15, startDate: "2024-12-10", endDate: "2024-12-31", onepoint: "1000", fullpoint: "3000", campaigntitle: "PayPayで小布施町を応援しよう" },
+    { paytype: "paypay", prefectureSlug: "mie", citySlug: "toba", prefecture: "三重県", city: "鳥羽市", offer: 10.8, startDate: "2023-10-01", endDate: "2023-10-31", onepoint: "1000", fullpoint: "5000", campaigntitle: "第3弾とばまるとくキャンペーン" },
     { paytype: "paypay", prefectureSlug: "kagawa", citySlug: "sakaide", prefecture: "香川県", city: "坂出市", offer: 30, startDate: "2021-02-01", endDate: "2021-02-28", onepoint: "2000", fullpoint: "5000", campaigntitle: "がんばろう坂出！！スマホ決済で最大30％戻ってくるキャンペーン！" },
     { paytype: "paypay", prefectureSlug: "akita", citySlug: "yurihonjo", prefecture: "秋田県", city: "由利本荘市", offer: 30, startDate: "2022-06-01", endDate: "2022-07-10", onepoint: "10000", fullpoint: "10000", campaigntitle: "PayPayで由利本荘市を応援しよう" },
     { paytype: "paypay", prefectureSlug: "niigata", citySlug: "awashimaura", prefecture: "新潟県", city: "粟島浦村", offer: 30, startDate: "2022-06-01", endDate: "2022-07-31", onepoint: "3000", fullpoint: "12000", campaigntitle: "【粟島しおかぜトリップ】キャッシュレス決済で、最大30％戻ってくるキャンペ－ン" },
