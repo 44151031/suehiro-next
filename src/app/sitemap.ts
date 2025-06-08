@@ -44,7 +44,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // ✅ その他静的ページ（必要に応じて）
   const staticPages = [
     { url: `${siteUrl}/management`, lastModified: now },
-    { url: `${siteUrl}/search`, lastModified: now },
+    { url: `${siteUrl}/campaign/search`, lastModified: now }, // ← 修正済み
   ];
 
   return [
