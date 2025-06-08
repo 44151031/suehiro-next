@@ -12,6 +12,12 @@ type Props = {
 const formatNumber = (num: number | string) =>
   Number(num).toLocaleString("ja-JP");
 
+// ✅ 日付を「〇年〇月〇日」形式に変換
+const formatJapaneseDate = (dateStr: string) => {
+  const date = new Date(dateStr);
+  return `${date.getFullYear()}年${date.getMonth() + 1}月${date.getDate()}日`;
+};
+
 export default function CampaignSummaryCard({ campaign }: Props) {
   const genres = loadGenres(campaign.prefectureSlug, campaign.citySlug);
 
@@ -47,7 +53,7 @@ export default function CampaignSummaryCard({ campaign }: Props) {
         <div className="flex-1 px-6 py-3 sm:px-8 sm:py-4 space-y-4 relative">
           {/* 概要テキスト */}
           <p className="text-sm text-gray-500 mb-0">
-            {campaign.prefecture}{campaign.city}の対象店舗での{payLabel}支払いで
+            <span className="font-bold text-base text-gray-800">{campaign.prefecture}{campaign.city}</span>の対象店舗での{payLabel}支払いで
           </p>
 
           {/* 最大ポイント */}
@@ -55,9 +61,9 @@ export default function CampaignSummaryCard({ campaign }: Props) {
             最大 <span className="text-red-600 text-4xl">{formatNumber(campaign.fullpoint)}</span> pt 還元
           </p>
 
-          {/* 開催期間 */}
+          {/* 開催期間（✅ 日付形式を 〇年〇月〇日に変更） */}
           <div className="inline-block bg-red-500 text-white text-sm font-semibold px-4 py-1 rounded-full shadow-sm mt-2">
-            {campaign.startDate} ～ {campaign.endDate}
+            {formatJapaneseDate(campaign.startDate)} ～ {formatJapaneseDate(campaign.endDate)}
           </div>
 
           {/* 上限情報 */}

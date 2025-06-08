@@ -14,7 +14,7 @@ import CampaignLineCard from "@/components/common/CampaignLineCard";
 type Props = {
   prefectureSlug: string;
   citySlug: string;
-  currentPaytype: string;
+  currentPaytype?: string; // ← ✅ ここに `?` を追加
 };
 
 export function RecommendedCampaigns({ prefectureSlug, citySlug, currentPaytype }: Props) {

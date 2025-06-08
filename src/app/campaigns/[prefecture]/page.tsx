@@ -80,7 +80,11 @@ export default function PrefecturePage({
 
         {/* 終了済みしかないときにレコメンド表示（citySlug は空文字で渡す） */}
         {activeList.length === 0 && (
-          <RecommendedCampaigns prefectureSlug={prefecture} citySlug={""} />
+          <RecommendedCampaigns
+            prefectureSlug={prefecture}
+            citySlug={""}
+            currentPaytype=""
+          />
         )}
 
         {/* 戻るボタン */}
