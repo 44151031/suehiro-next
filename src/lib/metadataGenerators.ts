@@ -7,9 +7,9 @@ import { campaigns } from "@/lib/campaignMaster";
 //    内容: 全国のキャンペーンを紹介するトップページ用のOGP設定
 //
 export function getNationalMetadata(): Metadata {
-  const title = "PayPay・auPay・楽天ペイ・d払い還元キャンペーン-Payキャン";
+  const title = "PayPay・auPAY・楽天ペイ・d払い還元キャンペーン-Payキャン";
   const description =
-    "全国の自治体で実施中のPayPay・auPay・楽天ペイ・d払いの還元キャンペーンを紹介。最大30％、10000円分の還元も。";
+    "全国の自治体で実施中のPayPay・auPAY・楽天ペイ・d払いの還元キャンペーンを紹介。最大30％、10000円分の還元も。";
 
   return {
     title,
@@ -47,7 +47,7 @@ export function getPrefectureMetadata(prefectureSlug: string): Metadata {
     campaigns.find((c) => c.prefectureSlug === prefectureSlug)?.prefecture || "全国";
 
   const title = `${prefecture}キャッシュレス還元キャンペーン情報-Pキャン`;
-  const description = `${prefecture}で開催中のPayPayやau Payや楽天ペイやd払いなどのキャッシュレス還元キャンペーンの一覧を紹介します。今獲得出来る総額ポイントも確認できます。`;
+  const description = `${prefecture}で開催中のPayPayやauPAYや楽天ペイやd払いなどのキャッシュレス還元キャンペーンの一覧を紹介します。今獲得出来る総額ポイントも確認できます。`;
 
   return {
     title,
