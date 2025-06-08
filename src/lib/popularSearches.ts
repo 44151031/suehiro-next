@@ -4,6 +4,9 @@ import { campaigns } from "./campaignMaster";
 
 // 人気検索ワード（日本語）
 const rawPopularSearches = [
+  "和歌山県田辺市",
+  "鹿児島県さつま町",
+  "神奈川県相模原市",
   "東京都杉並区",
   "東京都練馬区",
   "福島県喜多方市",

@@ -1,49 +1,149 @@
+"use client";
+
+import { useState } from "react";
 import Link from "next/link";
+import { prefectures, prefectureGroups } from "@/lib/prefectures";
 import { popularSearches } from "@/lib/popularSearches";
 import Container from "@/components/layout/Container";
 
 export default function Footer() {
+  const [showPrefectures, setShowPrefectures] = useState(false);
+  const excludedSlugs = ["tottori", "kochi", "okinawa"];
+
+  const group1 = ["北海道・東北", "関東", "中部"];
+  const group2 = ["近畿", "中国", "四国", "九州・沖縄"];
+
   return (
     <footer className="bg-white border-t border-gray-200 text-gray-700 py-12 px-4">
-      <Container className="flex flex-col items-center gap-8 text-center">
+      <Container>
+        <div className="flex flex-col lg:flex-row justify-between gap-10 lg:gap-16">
 
-        {/* サイト名 */}
-        <div>
-          <p className="text-2xl sm:text-3xl font-extrabold text-gray-800 mb-1">
-            <span className="text-accent">Pay</span>
-            <span className="ml-1 text-base sm:text-lg align-bottom">キャン</span>
-            <span className="text-sm text-gray-500 ml-2">（ペイキャン）</span>
-          </p>
-          <p className="text-sm sm:text-base text-gray-500">
-            PayPay・auPay・楽天ペイ・d払いキャンペーン体験
-          </p>
-        </div>
+          {/* ① カラム1: ロゴ・説明・ナビゲーション・検索 */}
+          <div className="lg:w-1/3 space-y-4 text-center lg:text-left">
+            <div>
+              <p className="text-2xl font-extrabold text-gray-800">
+                <span className="text-accent">Pay</span>
+                <span className="ml-1 text-base align-bottom">キャン</span>
+                <span className="text-sm text-gray-500 ml-2">（ペイキャン）</span>
+              </p>
+              <p className="text-xs sm:text-sm text-gray-500 leading-snug mt-1">
+                PayPay・auPay・楽天ペイ・d払いキャンペーン体験まとめ
+              </p>
+            </div>
 
-        {/* ナビゲーション */}
-        <nav className="flex flex-wrap justify-center gap-4 text-sm font-medium text-gray-600">
-          <Link href="/" className="hover:text-accent transition">トップ</Link>
-          <Link href="/campaigns" className="hover:text-accent transition">キャンペーン一覧</Link>
-          <Link href="/management" className="hover:text-accent transition">運営管理</Link>
-        </nav>
+            <nav className="flex flex-wrap justify-center lg:justify-start gap-4 text-sm font-medium text-gray-600">
+              <Link href="/" className="hover:text-accent transition">トップ</Link>
+              <Link href="/campaigns" className="hover:text-accent transition">全国キャンペーン一覧</Link>
+              <Link href="/management" className="hover:text-accent transition">運営管理</Link>
+            </nav>
 
-        {/* よく検索されるリンク */}
-        <div className="text-sm text-gray-600">
-          <span className="block font-medium mb-2">よく検索されるキャンペーン:</span>
-          <div className="flex flex-wrap justify-center gap-2">
-            {popularSearches.map((item, index) => (
-              <Link
-                key={index}
-                href={`/campaigns/${item.prefectureSlug}/${item.citySlug}`}
-                className="bg-gray-100 hover:bg-accent hover:text-white text-gray-700 text-sm px-3 py-1 rounded-full transition font-medium"
-              >
-                {item.label}
-              </Link>
+            <div>
+              <p className="font-medium text-sm text-gray-700 mb-2">よく検索されるキャンペーン:</p>
+              <div className="flex flex-wrap justify-center lg:justify-start gap-2">
+                {popularSearches.map((item, index) => (
+                  <Link
+                    key={index}
+                    href={`/campaigns/${item.prefectureSlug}/${item.citySlug}`}
+                    className="bg-gray-100 hover:bg-accent hover:text-white text-gray-700 text-sm px-3 py-1 rounded-full transition font-medium"
+                  >
+                    {item.label}
+                  </Link>
+                ))}
+              </div>
+            </div>
+          </div>
+
+          {/* ② カラム2: 北海道〜中部 */}
+          <div className="lg:w-1/3 text-sm text-left space-y-4 hidden lg:block">
+            {group1.map(group => (
+              <div key={group}>
+                <p className="text-xs font-semibold text-gray-700 mb-1">{group}</p>
+                <div className="flex flex-wrap gap-2">
+                  {prefectures
+                    .filter(p => p.group === group)
+                    .map(p =>
+                      excludedSlugs.includes(p.slug) ? (
+                        <span key={p.slug} className="text-gray-400">{p.name}</span>
+                      ) : (
+                        <Link
+                          key={p.slug}
+                          href={`/campaigns/${p.slug}`}
+                          className="text-gray-700 hover:text-accent transition"
+                        >
+                          {p.name}
+                        </Link>
+                      )
+                    )}
+                </div>
+              </div>
             ))}
+          </div>
+
+          {/* ③ カラム3: 近畿〜九州・沖縄 */}
+          <div className="lg:w-1/3 text-sm text-left space-y-4 hidden lg:block">
+            {group2.map(group => (
+              <div key={group}>
+                <p className="text-xs font-semibold text-gray-700 mb-1">{group}</p>
+                <div className="flex flex-wrap gap-2">
+                  {prefectures
+                    .filter(p => p.group === group)
+                    .map(p =>
+                      excludedSlugs.includes(p.slug) ? (
+                        <span key={p.slug} className="text-gray-400">{p.name}</span>
+                      ) : (
+                        <Link
+                          key={p.slug}
+                          href={`/campaigns/${p.slug}`}
+                          className="text-gray-700 hover:text-accent transition"
+                        >
+                          {p.name}
+                        </Link>
+                      )
+                    )}
+                </div>
+              </div>
+            ))}
+          </div>
+
+          {/* ✅ スマホ表示：アコーディオンで全県表示 */}
+          <div className="lg:hidden mt-6 text-center">
+            <button
+              onClick={() => setShowPrefectures(!showPrefectures)}
+              className="text-sm font-semibold no-underline mb-2"
+            >
+              {showPrefectures ? "都道府県を閉じる" : "都道府県から探す"}
+            </button>
+            {showPrefectures && (
+              <div className="space-y-3 mt-2">
+                {[...group1, ...group2].map(group => (
+                  <div key={group}>
+                    <p className="text-xs font-semibold text-gray-700 mb-1">{group}</p>
+                    <div className="flex flex-wrap justify-center gap-2 text-sm">
+                      {prefectures
+                        .filter(p => p.group === group)
+                        .map(p =>
+                          excludedSlugs.includes(p.slug) ? (
+                            <span key={p.slug} className="text-gray-400">{p.name}</span>
+                          ) : (
+                            <Link
+                              key={p.slug}
+                              href={`/campaigns/${p.slug}`}
+                              className="text-gray-700 transition no-underline"
+                            >
+                              {p.name}
+                            </Link>
+                          )
+                        )}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            )}
           </div>
         </div>
 
         {/* コピーライト */}
-        <p className="text-xs text-gray-400 mt-4">
+        <p className="text-xs text-gray-400 mt-10 text-center">
           &copy; {new Date().getFullYear()} Payキャン（ペイキャン）運営事務局
         </p>
       </Container>
