@@ -2,6 +2,14 @@
 import type { Campaign } from "@/types/campaign";
 
 export const campaigns: Campaign[] = [
+    { paytype: "paypay", prefectureSlug: "akita", citySlug: "yurihonjo", prefecture: "秋田県", city: "由利本荘市", offer: 30, startDate: "2022-06-01", endDate: "2022-07-10", onepoint: "10000", fullpoint: "10000", campaigntitle: "PayPayで由利本荘市を応援しよう" },
+    { paytype: "paypay", prefectureSlug: "niigata", citySlug: "awashimaura", prefecture: "新潟県", city: "粟島浦村", offer: 30, startDate: "2022-06-01", endDate: "2022-07-31", onepoint: "3000", fullpoint: "12000", campaigntitle: "【粟島しおかぜトリップ】キャッシュレス決済で、最大30％戻ってくるキャンペ－ン" },
+    { paytype: "paypay", prefectureSlug: "toyama", citySlug: "takaoka", prefecture: "富山県", city: "高岡市", offer: 20, startDate: "2021-12-01", endDate: "2022-01-31", onepoint: "2000", fullpoint: "10000", campaigntitle: "高岡で乾杯！最大20％戻ってくるキャンペーン" },
+    { paytype: "aupay", prefectureSlug: "nara", citySlug: "katsuragi", prefecture: "奈良県", city: "葛城市", offer: 25, startDate: "2021-11-01", endDate: "2021-11-30", onepoint: "2000", fullpoint: "5000", campaigntitle: "かつらぎ応援！キャッシュレス決済でポイント還元キャンペーン" },
+    { paytype: "paypay", prefectureSlug: "shimane", citySlug: "oda", prefecture: "島根県", city: "大田市", offer: 20, startDate: "2023-11-01", endDate: "2023-12-31", onepoint: "2000", fullpoint: "5000", campaigntitle: "使っちゃんさい！　おおだでキャッシュレスどがなかなキャンペーン" },
+    { paytype: "paypay", prefectureSlug: "okayama", citySlug: "okayama", prefecture: "岡山県", city: "岡山市", offer: 20, startDate: "2023-08-01", endDate: "2023-08-31", onepoint: "1000", fullpoint: "4000", campaigntitle: "【第5弾】がんばろう岡山市！スマホ決済最大20％が戻ってくるキャンペーン" },
+    { paytype: "paypay", prefectureSlug: "yamaguchi", citySlug: "shunan", prefecture: "山口県", city: "周南市", offer: 20, startDate: "2020-09-01", endDate: "2023-09-30", onepoint: "1000", fullpoint: "5000", campaigntitle: "がんばろう周南市。キャッシュレスで最大20％戻ってくるキャンペーン！" },
+    { paytype: "paypay", prefectureSlug: "nagasaki", citySlug: "kawatana", prefecture: "長崎県", city: "川棚町", offer: 15, startDate: "2023-11-01", endDate: "2023-12-27", onepoint: "1000", fullpoint: "5000", campaigntitle: "第2弾！PayPayで川棚町を応援しよう！" },
     { paytype: "paypay", prefectureSlug: "miyagi", citySlug: "kami", prefecture: "宮城県", city: "加美町", offer: 20, startDate: "2024-02-15", endDate: "2024-03-10", onepoint: "2000", fullpoint: "10000", campaigntitle: "PayPayで加美町を元気に！対象店舗で最大20％戻ってくるキャンペーン" },
     { paytype: "paypay", prefectureSlug: "ibaraki", citySlug: "hokota", prefecture: "茨城県", city: "鉾田市", offer: 20, startDate: "2024-03-15", endDate: "2024-04-11", onepoint: "2500", fullpoint: "10000", campaigntitle: "鉾田市を元気に！最大20％戻ってくるキャンペーン！" },
     { paytype: "paypay", prefectureSlug: "gunma", citySlug: "oizumi", prefecture: "群馬県", city: "大泉町", offer: 20, startDate: "2024-11-01", endDate: "2024-12-08", onepoint: "2000", fullpoint: "6000", campaigntitle: "大泉町のお店を応援!PayPayで最大20％戻ってくるキャンペーン！" },
