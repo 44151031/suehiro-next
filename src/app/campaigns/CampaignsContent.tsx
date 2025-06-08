@@ -29,7 +29,7 @@ export default function CampaignTopPageClient() {
         </h1>
         <CampaignTotalPointSummary campaigns={filtered} areaLabel="全国" />
 <p className="text-base leading-relaxed mb-4">
-  日本全国の市区町村のPayPay、au Pay、楽天Pay、d払いのキャッシュレス還元キャンペーンをまとめています。
+  日本全国の市区町村のPayPay、au PAY、楽天Pay、d払いのキャッシュレス還元キャンペーンをまとめています。
   開催中のキャンペーンから、開催予定のキャンペーンまでまとめていますので、計画的にポイントを貯めることが出来ます。
 </p>
 
@@ -53,7 +53,7 @@ export default function CampaignTopPageClient() {
     >
       au
     </span>
-    <span className="ml-2">au Pay</span>
+    <span className="ml-2">au PAY</span>
   </div>
 
   <div className="flex items-center">

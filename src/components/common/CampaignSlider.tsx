@@ -52,7 +52,10 @@ export default function ScopedCampaignSlider({
     scrollRef.current?.scrollBy({ left: amount, behavior: "smooth" });
   };
 
-  if (!campaigns || campaigns.length === 0) return null;
+  // ✅ 終了していないキャンペーンのみを抽出
+  const activeCampaigns = campaigns.filter((c) => new Date(c.endDate) >= new Date());
+
+  if (!activeCampaigns || activeCampaigns.length === 0) return null;
 
   return (
     <section className="w-full py-6 sm:py-10 relative mt-6" style={{ backgroundColor: bgColor }}>
@@ -84,7 +87,7 @@ export default function ScopedCampaignSlider({
           >
             <div className="shrink-0 w-2 sm:w-4 md:w-6 snap-start" />
 
-            {campaigns.map((c) => (
+            {activeCampaigns.map((c) => (
               <Link
                 key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}
                 href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`}
