@@ -106,3 +106,16 @@ export function getCampaignImagePath(prefectureSlug: string, citySlug: string): 
 export function formatNumber(value: number | string) {
   return Number(value).toLocaleString("ja-JP");
 }
+
+// 既存の isCampaignActive などに加えて：
+export type CampaignStatus = "scheduled" | "active" | "ended";
+
+export function getCampaignStatus(start: string, end: string): CampaignStatus {
+  const now = new Date();
+  const startDate = new Date(start);
+  const endDate = new Date(end);
+
+  if (now < startDate) return "scheduled";
+  if (now > endDate) return "ended";
+  return "active";
+}

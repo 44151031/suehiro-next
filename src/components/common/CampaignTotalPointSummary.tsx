@@ -1,5 +1,6 @@
 import { Campaign } from "@/types/campaign";
 import { sumFullpoint } from "@/lib/campaignCalculations";
+import Link from "next/link";
 
 type Props = {
   campaigns: Campaign[];
@@ -60,9 +61,13 @@ export default function CampaignTotalPointSummary({ campaigns, areaLabel }: Prop
       ) : (
         <p className="text-base sm:text-lg font-medium text-neutral-500 text-center leading-snug">
           <span className="font-semibold">{areaLabel}</span>
-          の現在開催中のキャンペーンはありません。
+          で現在開催中・開催予定のキャンペーンはありません。
           <br className="hidden sm:inline" />
-          開催日までしばらくお待ちください。
+          現在、開催中・開催予定の<br className="sm:hidden" />
+          <Link href="/campaigns" className="text-blue-600 ml-1 hover:underline">
+            全国のキャンペーン一覧
+          </Link>
+          はこちらをご覧ください。
         </p>
       )}
     </div>

@@ -18,6 +18,7 @@ import { generateShareContent } from "@/lib/generateShareContent";
 import { SNSShareButtons } from "@/components/common/SNSShareButtons";
 import GenreShopLists from "@/components/sections/shop/GenreShopLists";
 import SampleShopExample from "@/components/sections/shop/SampleShopExample";
+import CampaignStatusNotice from "@/components/common/CampaignStatusNotice";
 
 export async function generateMetadata({
   params,
@@ -82,7 +83,7 @@ export default async function CityPaytypePage({
         <h1 className="headline1">
           {city}の{payLabel}{offer}%還元キャンペーン
         </h1>
-
+        <CampaignStatusNotice campaign={campaign} /> {/* ← この位置に表示 */}
         <CampaignSummaryCard campaign={campaign} />
         <GenreHeaderNav genres={genres} paytypeLabel={payLabel} />
         <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />

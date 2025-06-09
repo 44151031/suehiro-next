@@ -1,6 +1,6 @@
 import { calculateOnePay, calculateFullPay, calculatePayTime } from "@/lib/campaignCalculations";
 import { PayTypeLabels } from "@/lib/payType";
-import { getCampaignImagePath } from "@/lib/campaignUtils";
+import { getCampaignImagePath, getCampaignStatus, type CampaignStatus } from "@/lib/campaignUtils";
 import { loadGenres } from "@/lib/loadGenres";
 import type { Campaign } from "@/types/campaign";
 import Image from "next/image";
@@ -12,22 +12,35 @@ type Props = {
 const formatNumber = (num: number | string) =>
   Number(num).toLocaleString("ja-JP");
 
-// ✅ 日付を「〇年〇月〇日」形式に変換
 const formatJapaneseDate = (dateStr: string) => {
   const date = new Date(dateStr);
   return `${date.getFullYear()}年${date.getMonth() + 1}月${date.getDate()}日`;
 };
 
+// ✅ ステータスバッジのラベルと色
+const statusMap: Record<CampaignStatus, { label: string; color: string }> = {
+  scheduled: { label: "開催予定", color: "bg-blue-600" },
+  active: { label: "開催中", color: "bg-red-600" },
+  ended: { label: "終了しました", color: "bg-gray-500" },
+};
+
 export default function CampaignSummaryCard({ campaign }: Props) {
   const genres = loadGenres(campaign.prefectureSlug, campaign.citySlug);
-
   const onepay = calculateOnePay(Number(campaign.onepoint), campaign.offer);
   const fullpay = calculateFullPay(Number(campaign.fullpoint), campaign.offer);
   const paytime = calculatePayTime(fullpay, onepay);
   const payLabel = PayTypeLabels[campaign.paytype];
 
+  const status = getCampaignStatus(campaign.startDate, campaign.endDate);
+  const statusBadge = statusMap[status];
+
   return (
-    <section className="bg-white rounded-t-2xl shadow-md border-t border-l border-r border-gray-100 overflow-hidden">
+    <section className="bg-white rounded-t-2xl shadow-md border-t border-l border-r border-gray-100 overflow-hidden relative">
+      {/* ✅ 右上ステータスバッジ */}
+      <div className={`absolute top-2 right-2 text-white text-xs font-bold px-3 py-1 rounded-full shadow ${statusBadge.color}`}>
+        {statusBadge.label}
+      </div>
+
       <div className="flex flex-col md:flex-row">
         {/* 左画像＋バッジ */}
         <div className="relative w-full md:w-72 h-48 md:h-auto">
@@ -39,7 +52,6 @@ export default function CampaignSummaryCard({ campaign }: Props) {
               <div className="mt-0.5">戻ってくる</div>
             </div>
           </div>
-
           <Image
             src={getCampaignImagePath(campaign.prefectureSlug, campaign.citySlug)}
             alt={`${campaign.city}のキャンペーン画像`}
@@ -51,22 +63,18 @@ export default function CampaignSummaryCard({ campaign }: Props) {
 
         {/* 右テキスト */}
         <div className="flex-1 px-6 py-3 sm:px-8 sm:py-4 space-y-4 relative">
-          {/* 概要テキスト */}
           <p className="text-sm text-gray-500 mb-0">
             <span className="font-bold text-base text-gray-800">{campaign.prefecture}{campaign.city}</span>の対象店舗での{payLabel}支払いで
           </p>
 
-          {/* 最大ポイント */}
           <p className="text-2xl sm:text-3xl font-bold text-brand-primary mb-0">
             最大 <span className="text-red-600 text-4xl">{formatNumber(campaign.fullpoint)}</span> pt 還元
           </p>
 
-          {/* 開催期間（✅ 日付形式を 〇年〇月〇日に変更） */}
           <div className="inline-block bg-red-500 text-white text-sm font-semibold px-4 py-1 rounded-full shadow-sm mt-2">
             {formatJapaneseDate(campaign.startDate)} ～ {formatJapaneseDate(campaign.endDate)}
           </div>
 
-          {/* 上限情報 */}
           <div className="flex flex-wrap gap-2">
             <div className="bg-blue-50 border border-blue-200 rounded-full px-4 py-1 text-sm text-blue-800">
               期間上限：<span className="font-bold">{formatNumber(campaign.fullpoint)}</span> 円相当
@@ -76,7 +84,6 @@ export default function CampaignSummaryCard({ campaign }: Props) {
             </div>
           </div>
 
-          {/* 効率的な利用法 */}
           <div className="bg-yellow-50 border border-yellow-200 rounded-xl px-4 py-2.5 mt-1">
             <h3 className="text-base sm:text-lg font-bold text-gray-900 mb-1">
               最も効率的なポイント獲得方法
