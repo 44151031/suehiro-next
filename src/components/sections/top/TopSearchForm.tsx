@@ -34,19 +34,11 @@ export default function SearchForm() {
                 {/* 画像の追加部分 */}
         <div className="mb-4 sm:mb-8 text-center">
           <Image
-            src="/images/top/main-sp.png"
-            alt="キャッシュレスキャンペーン スマホ"
-            width={315}
-            height={59}
-            className="sm:hidden mx-auto"
-            priority
-          />
-          <Image
             src="/images/top/main-pc.png"
             alt="キャッシュレスキャンペーン PC"
             width={606}
             height={112}
-            className="hidden sm:block mx-auto"
+            className="mx-auto"
             priority
           />
         </div>
