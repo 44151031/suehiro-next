@@ -32,7 +32,7 @@ export default function SearchForm() {
       <div className="max-w-[1200px] mx-auto px-4">
         <div className="px-6 py-3 sm:pt-5 sm:pb-8 border border-border rounded-2xl bg-white shadow-xl">
                 {/* 画像の追加部分 */}
-        <div className="mb-4 sm:mb-8 text-center">
+        <div className="mb-4 sm:mb-4 text-center">
           <Image
             src="/images/top/mainimg.png"
             alt="キャッシュレスでキャッシュバックPayPay auPay 楽天Pay d払い"

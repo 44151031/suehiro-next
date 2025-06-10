@@ -53,7 +53,7 @@ export default function HeroTop() {
 
     const formatted = shuffled.map((c) => ({
       image: `/images/campaigns/${c.prefectureSlug}-${c.citySlug}.jpg`,
-      title: truncate(c.campaigntitle ?? `${c.city}のキャンペーン`, 13),
+      title: truncate(c.campaigntitle ?? `${c.city}のキャンペーン`, 26),
       description: `${c.prefecture}${c.city}`,
       href: `/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`,
       paytype: c.paytype,

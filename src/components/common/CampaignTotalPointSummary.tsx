@@ -59,11 +59,9 @@ export default function CampaignTotalPointSummary({ campaigns, areaLabel }: Prop
           )}
         </p>
       ) : (
-        <p className="text-base sm:text-lg font-medium text-neutral-500 text-center leading-snug">
+        <p className="text-base sm:text-lg font-medium text-neutral-500 leading-snug">
           <span className="font-semibold">{areaLabel}</span>
-          で現在開催中・開催予定のキャンペーンはありません。
-          <br className="hidden sm:inline" />
-          現在、開催中・開催予定の<br className="sm:hidden" />
+          で現在開催中・開催予定のキャンペーンはありません。開催中・開催予定の
           <Link href="/campaigns" className="text-blue-600 ml-1 hover:underline">
             全国のキャンペーン一覧
           </Link>

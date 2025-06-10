@@ -27,7 +27,7 @@ export function CampaignOverviewTable({ campaign }: { campaign: Campaign }) {
   const payLabel = PayTypes[paytype].label;
 
   return (
-    <section className="bg-white border border-gray-200 rounded-2xl shadow-sm p-6 sm:p-8 mt-10">
+    <section className="bg-white border border-gray-200 rounded-2xl shadow-sm p-3 sm:p-8 mt-10">
       <h2 className="text-lg sm:text-xl font-bold text-gray-900 mb-4">
         キャンペーン概要
       </h2>
