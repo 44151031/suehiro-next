@@ -119,3 +119,15 @@ export function getCampaignStatus(start: string, end: string): CampaignStatus {
   if (now > endDate) return "ended";
   return "active";
 }
+
+/**
+ * 指定ステータスのキャンペーンのみ抽出
+ */
+export function filterCampaignsByStatus(
+  campaigns: Campaign[],
+  status: CampaignStatus
+): Campaign[] {
+  return campaigns.filter(
+    (c) => getCampaignStatus(c.startDate, c.endDate) === status
+  );
+}

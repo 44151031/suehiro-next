@@ -15,6 +15,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // ✅ 全国のキャンペーン一覧ページ
   const rootPage = [
     { url: `${siteUrl}/campaigns`, lastModified: now },
+    { url: `${siteUrl}/campaigns/archive`, lastModified: now }, // ✅ 追加されたアーカイブページ
   ];
 
   // ✅ 都道府県別ページ
@@ -53,7 +54,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   ];
 
   return [
-    ...topPage,           // ← ✅ 追加済み
+    ...topPage,
     ...rootPage,
     ...prefecturePages,
     ...cityPages,
