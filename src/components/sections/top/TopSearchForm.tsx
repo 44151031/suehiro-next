@@ -34,8 +34,8 @@ export default function SearchForm() {
                 {/* 画像の追加部分 */}
         <div className="mb-4 sm:mb-8 text-center">
           <Image
-            src="/images/top/main-pc.png"
-            alt="キャッシュレスキャンペーン PC"
+            src="/images/top/mainimg.png"
+            alt="キャッシュレスでキャッシュバックPayPay auPay 楽天Pay d払い"
             width={606}
             height={112}
             className="mx-auto"
