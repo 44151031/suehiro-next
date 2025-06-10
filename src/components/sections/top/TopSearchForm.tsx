@@ -1,11 +1,11 @@
-// /components/sections/SearchForm.tsx
 'use client';
 
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
-import { Search } from "lucide-react";
+import { Search } from 'lucide-react';
+import Image from 'next/image';
 
 export default function SearchForm() {
   const [query, setQuery] = useState('');
@@ -30,7 +30,26 @@ export default function SearchForm() {
   return (
     <section className="-mt-6 z-10 relative">
       <div className="max-w-[1200px] mx-auto px-4">
-        <div className="px-6 py-5 sm:py-10 border border-border rounded-2xl bg-white shadow-xl">
+        <div className="px-6 py-3 sm:py-5 border border-border rounded-2xl bg-white shadow-xl">
+                {/* 画像の追加部分 */}
+        <div className="mb-4 sm:mb-8 text-center">
+          <Image
+            src="/images/top/main-sp.png"
+            alt="キャッシュレスキャンペーン スマホ"
+            width={315}
+            height={59}
+            className="sm:hidden mx-auto"
+            priority
+          />
+          <Image
+            src="/images/top/main-pc.png"
+            alt="キャッシュレスキャンペーン PC"
+            width={606}
+            height={112}
+            className="hidden sm:block mx-auto"
+            priority
+          />
+        </div>
           <h2 className="mb-3 sm:mb-8 text-xl sm:text-4xl font-extrabold text-neutral-800 text-center tracking-tight">
             地域からキャンペーンを探す
           </h2>
