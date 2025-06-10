@@ -30,7 +30,7 @@ export default function SearchForm() {
   return (
     <section className="-mt-6 z-10 relative">
       <div className="max-w-[1200px] mx-auto px-4">
-        <div className="px-6 py-3 sm:py-5 border border-border rounded-2xl bg-white shadow-xl">
+        <div className="px-6 py-3 sm:pt-5 sm:pb-8 border border-border rounded-2xl bg-white shadow-xl">
                 {/* 画像の追加部分 */}
         <div className="mb-4 sm:mb-8 text-center">
           <Image
@@ -50,7 +50,7 @@ export default function SearchForm() {
             priority
           />
         </div>
-          <h2 className="mb-3 sm:mb-8 text-xl sm:text-4xl font-extrabold text-neutral-800 text-center tracking-tight">
+          <h2 className="mb-3 sm:mb-6 text-xl sm:text-4xl font-extrabold text-neutral-800 text-center tracking-tight">
             地域からキャンペーンを探す
           </h2>
 
