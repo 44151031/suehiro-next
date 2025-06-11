@@ -52,10 +52,7 @@ export default function ScopedCampaignSlider({
     scrollRef.current?.scrollBy({ left: amount, behavior: "smooth" });
   };
 
-  // ✅ 終了していないキャンペーンのみを抽出
   const activeCampaigns = campaigns.filter((c) => new Date(c.endDate) >= new Date());
-
-  if (!activeCampaigns || activeCampaigns.length === 0) return null;
 
   return (
     <section className="w-full py-6 sm:py-10 relative mt-6" style={{ backgroundColor: bgColor }}>
@@ -80,36 +77,42 @@ export default function ScopedCampaignSlider({
 
           <div
             ref={scrollRef}
-            className="flex overflow-x-auto scroll-smooth snap-x snap-mandatory bg-white rounded-xl px-4 sm:px-8 lg:px-10 py-6 gap-[2px] sm:gap-3 md:gap-4 scrollbar-none cursor-grab active:cursor-grabbing"
+            className="flex overflow-x-auto scroll-smooth snap-x snap-mandatory bg-white rounded-xl px-4 sm:px-8 lg:px-10 py-6 gap-[2px] sm:gap-3 md:gap-4 scrollbar-none cursor-grab active:cursor-grabbing min-h-[1px]"
             onMouseDown={handleMouseDown}
             onMouseMove={handleMouseMove}
             onMouseLeave={handleMouseUp}
           >
             <div className="shrink-0 w-2 sm:w-4 md:w-6 snap-start" />
 
-            {activeCampaigns.map((c) => (
-              <Link
-                key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}
-                href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`}
-                draggable={false}
-                className="shrink-0 snap-start w-[82%] sm:w-[240px] md:w-[260px] lg:w-[280px] transition-transform hover:scale-[1.02]"
-              >
-                <CampaignCard
-                  prefecture={c.prefecture}
-                  city={c.city}
-                  offer={c.offer}
-                  fullpoint={c.fullpoint}
-                  startDate={c.startDate}
-                  endDate={c.endDate}
-                  period={
-                    c.startDate && c.endDate
-                      ? `${new Date(c.startDate).getMonth() + 1}月${new Date(c.startDate).getDate()}日〜${new Date(c.endDate).getMonth() + 1}月${new Date(c.endDate).getDate()}日`
-                      : ""
-                  }
-                  paytype={c.paytype}
-                />
-              </Link>
-            ))}
+            {activeCampaigns.length > 0 ? (
+              activeCampaigns.map((c) => (
+                <Link
+                  key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}
+                  href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`}
+                  draggable={false}
+                  className="shrink-0 snap-start w-[82%] sm:w-[240px] md:w-[260px] lg:w-[280px] transition-transform hover:scale-[1.02]"
+                >
+                  <CampaignCard
+                    prefecture={c.prefecture}
+                    city={c.city}
+                    offer={c.offer}
+                    fullpoint={c.fullpoint}
+                    startDate={c.startDate}
+                    endDate={c.endDate}
+                    period={
+                      c.startDate && c.endDate
+                        ? `${new Date(c.startDate).getMonth() + 1}月${new Date(c.startDate).getDate()}日〜${new Date(c.endDate).getMonth() + 1}月${new Date(c.endDate).getDate()}日`
+                        : ""
+                    }
+                    paytype={c.paytype}
+                  />
+                </Link>
+              ))
+            ) : (
+              <div className="flex items-center justify-center w-full h-[120px] text-sm text-gray-500 text-center">
+                上のボタンをクリックして位置情報情報を「許可」いただくとあなたのいるエリアに近いキャンペーンが表示されます。
+              </div>
+            )}
 
             <div className="shrink-0 w-2 sm:w-4 md:w-6" />
           </div>
