@@ -6,18 +6,17 @@ import {
   isNowInCampaignPeriod,
   isCampaignActive,
 } from "@/lib/campaignUtils";
-import { getCityMetadata } from "@/lib/metadataGenerators";
-
 import CampaignTotalPointSummary from "@/components/common/CampaignTotalPointSummary";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import { CampaignCardList } from "@/components/common/CampaignCardList";
 import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCampaigns";
+import { getCityMetadata } from "@/lib/metadataGenerators";
 
-export async function generateMetadata({
-  params,
-}: {
+type Props = {
   params: { prefecture: string; city: string };
-}): Promise<Metadata> {
+};
+
+export function generateMetadata({ params }: Props) {
   return getCityMetadata(params.prefecture, params.city);
 }
 

@@ -23,10 +23,12 @@ export default function Breadcrumbs() {
     );
 
     const label =
-      breadcrumbLabels[seg] ||
-      campaigns.find((c) => c.prefectureSlug === seg)?.prefecture ||
-      cityMatch?.city ||
-      decodeURIComponent(seg);
+      breadcrumbLabels[seg] ||         // 優先：固定ラベル
+      cityMatch?.city ||               // 次点：市区町村名（前のセグメントが都道府県slugで一致）
+      campaigns.find(
+        (c) => c.prefectureSlug === seg
+      )?.prefecture ||                 // それでもなければ都道府県名
+      decodeURIComponent(seg);        // 最後の手段：slugそのまま
 
     return { href, label };
   });

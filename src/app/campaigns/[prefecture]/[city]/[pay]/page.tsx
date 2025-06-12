@@ -5,8 +5,6 @@ import { PayTypeLabels, PayTypeId } from "@/lib/payType";
 import { formatJapaneseDate } from "@/lib/campaignUtils";
 import { loadShopList } from "@/lib/loadShopList";
 import { loadGenres } from "@/lib/loadGenres";
-import { getCityMetadata } from "@/lib/metadataGenerators";
-
 import { CampaignOverviewTable } from "@/components/sections/city/CampaignOverviewTable";
 import CampaignNotice from "@/components/sections/city/CampaignNotice";
 import CampaignSummaryCard from "@/components/sections/city/CampaignSummaryCard";
@@ -19,13 +17,14 @@ import { SNSShareButtons } from "@/components/common/SNSShareButtons";
 import GenreShopLists from "@/components/sections/shop/GenreShopLists";
 import SampleShopExample from "@/components/sections/shop/SampleShopExample";
 import CampaignStatusNotice from "@/components/common/CampaignStatusNotice";
+import { getPaytypeMetadata } from "@/lib/metadataGenerators";
 
-export async function generateMetadata({
-  params,
-}: {
+type Props = {
   params: { prefecture: string; city: string; pay: string };
-}): Promise<Metadata> {
-  return getCityMetadata(params.prefecture, params.city);
+};
+
+export function generateMetadata({ params }: Props) {
+  return getPaytypeMetadata(params.prefecture, params.city, params.pay);
 }
 
 export default async function CityPaytypePage({

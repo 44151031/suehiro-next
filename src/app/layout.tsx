@@ -20,15 +20,15 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "PayPay・auPay・楽天ペイ・d払いキャンペーン体験 - Payキャン",
+    default: "PayPay・auPAY・楽天ペイ・d払いキャンペーン情報サイト - Payキャン",
     template: "%s - Payキャン",
   },
   description:
-    "全国のPayPay・auPay・楽天ペイ・d払いキャンペーンをまとめて紹介。各地域で獲得出来る総額もわかるから、効率よくポイントを獲得出来ます。",
+    "全国のPayPay・auPAY・楽天ペイ・d払いのキャンペーンをまとめて紹介。都道府県・市区町村ごとの還元情報をわかりやすく掲載しています。",
   openGraph: {
-    title: "PayPay・auPay・楽天ペイ・d払いキャンペーン体験 - Payキャン",
+    title: "PayPay・auPAY・楽天ペイ・d払いキャンペーン情報サイト - Payキャン",
     description:
-      "全国のPayPay・auPay・楽天ペイ・d払いキャンペーンをまとめて紹介。各地域で獲得出来る総額もわかるから、効率よくポイントを獲得出来ます。",
+      "全国のPayPay・auPAY・楽天ペイ・d払いのキャンペーンをまとめて紹介。都道府県・市区町村ごとの還元情報をわかりやすく掲載しています。",
     url: "https://paycancampaign.com",
     siteName: "Payキャン",
     type: "website",
@@ -43,13 +43,13 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "PayPay・auPay・楽天ペイ・d払いキャンペーン体験 - Payキャン",
+    title: "PayPay・auPAY・楽天ペイ・d払いキャンペーン情報サイト - Payキャン",
     description:
-      "全国のPayPay・auPay・楽天ペイ・d払いキャンペーンをまとめて紹介。各地域で獲得出来る総額もわかるから、効率よくポイントを獲得出来ます。",
+      "全国のPayPay・auPAY・楽天ペイ・d払いのキャンペーンをまとめて紹介。都道府県・市区町村ごとの還元情報をわかりやすく掲載しています。",
     images: ["https://paycancampaign.com/ogp.jpg"],
   },
   icons: {
-    icon: "https://paycancampaign.com/favicon.ico", // ✅ favicon 追加
+    icon: "https://paycancampaign.com/favicon.ico",
   },
 };
 
