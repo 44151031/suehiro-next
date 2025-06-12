@@ -50,7 +50,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // ✅ その他静的ページ
   const staticPages = [
     { url: `${siteUrl}/management`, lastModified: now },
-    { url: `${siteUrl}/campaign/search`, lastModified: now },
+    { url: `${siteUrl}/campaigns/search`, lastModified: now },
   ];
 
   return [
