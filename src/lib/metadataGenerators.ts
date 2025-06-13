@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import { campaigns } from "@/lib/campaignMaster";
-import { sumFullpoint } from "@/lib/campaignCalculations";
+import { sumFullpoint, sumFutureFullpoint } from "@/lib/campaignCalculations";
 import { PayTypeLabels, PayTypeId } from "@/lib/payType";
 
 //
@@ -12,16 +12,22 @@ export function getPrefectureMetadata(prefectureSlug: string): Metadata {
   const active = filtered.filter(
     (c) => new Date(c.startDate) <= now && new Date(c.endDate) >= now
   );
+  const future = filtered.filter((c) => new Date(c.startDate) > now);
   const prefecture = filtered[0]?.prefecture || "都道府県";
   const total = sumFullpoint(active);
+  const futureTotal = sumFutureFullpoint(future);
 
   const title = active.length > 0
     ? `${prefecture}で開催中の合計${total.toLocaleString()}円分還元キャンペーン`
-    : `${prefecture}のキャッシュレスキャンペーン一覧`;
+    : future.length > 0
+      ? `${prefecture}で近日開催予定の合計${futureTotal.toLocaleString()}円分還元キャンペーン`
+      : `${prefecture}のキャッシュレスキャンペーン一覧`;
 
   const description = active.length > 0
-    ? `${prefecture}で実施中のPayPay・auPAY・楽天ペイ・d払いなどのキャンペーンを紹介。今もらえるポイント総額をチェック！`
-    : `${prefecture}のキャッシュレスキャンペーン情報。このページでは開催中または開催予定のキャンペーンと、${prefecture}の近くのキャンペーンをご紹介いたします。`;
+    ? `${prefecture}で実施中のPayPay、au PAY、楽天Pay、d払い等キャッシュレスキャンペーンを紹介。現在、合計で${total.toLocaleString()}円分のキャンペーンを紹介`
+    : future.length > 0
+      ? `${prefecture}で近日開催予定の合計${futureTotal.toLocaleString()}円分のキャッシュレスキャンペーンを紹介。今後の開催を見逃さずチェック！`
+      : `${prefecture}のキャッシュレスキャンペーン情報。このページでは開催中または開催予定のキャンペーンと、${prefecture}の近くのキャンペーンをご紹介いたします。`;
 
   return {
     title,
@@ -64,7 +70,11 @@ export function getCityMetadata(
   const active = cityCampaigns.filter(
     (c) => new Date(c.startDate) <= now && new Date(c.endDate) >= now
   );
+  const future = cityCampaigns.filter(
+    (c) => new Date(c.startDate) > now
+  );
   const total = sumFullpoint(active);
+    const futureTotal = sumFutureFullpoint(future);
 
   const prefecture = cityCampaigns[0]?.prefecture || "都道府県";
   const city = cityCampaigns[0]?.city || "市区町村";
@@ -73,11 +83,15 @@ export function getCityMetadata(
 
   const title = active.length > 0
     ? `${city}で開催中の合計${total.toLocaleString()}円分還元キャンペーン`
-    : `${city}のキャッシュレスキャンペーン一覧`;
+    : future.length > 0
+      ? `${city}で近日開催予定の合計${futureTotal.toLocaleString()}円分還元キャンペーン`
+      : `${city}のキャッシュレスキャンペーン一覧`;
 
   const description = active.length > 0
-    ? `${prefecture}${city}で実施中のキャッシュレスキャンペーンを紹介。今なら合計で${total.toLocaleString()}円分の還元が受けられます。`
-    : `${prefecture}${city}のキャッシュレスキャンペーン。このページでは開催中または開催予定のキャンペーンと、${prefecture}${city}の近くのキャンペーンをご紹介いたします。`;
+    ? `${prefecture}${city}で実施中のキャッシュレスキャンペーンを紹介。現在、合計で${total.toLocaleString()}円分のキャンペーンを紹介`
+    : future.length > 0
+      ? `${prefecture}${city}で近日開催予定の合計${futureTotal.toLocaleString()}円分のキャッシュレスキャンペーンをご紹介します。`
+      : `${prefecture}${city}のキャッシュレスキャンペーン。このページでは開催中または開催予定のキャンペーンと、${prefecture}${city}の近くのキャンペーンをご紹介いたします。`;
 
   return {
     title,
@@ -97,6 +111,7 @@ export function getCityMetadata(
     },
   };
 }
+
 
 //
 // ✅ ペイタイプページ（[city]/[pay]）

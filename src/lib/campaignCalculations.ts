@@ -27,3 +27,15 @@ export function sumFullpoint(campaigns: { fullpoint?: string }[]): number {
 function roundToTwoDecimalPlaces(num: number): number {
   return Math.round(num * 100) / 100;
 }
+
+/**
+ * 開催予定（startDateが未来）のキャンペーンの fullpoint 合計
+ */
+export function sumFutureFullpoint(campaigns: { startDate: string; fullpoint?: string }[]): number {
+  const now = new Date();
+  return campaigns.reduce((sum, c) => {
+    const start = new Date(c.startDate);
+    const pt = Number(c.fullpoint);
+    return start > now && !isNaN(pt) ? sum + pt : sum;
+  }, 0);
+}
