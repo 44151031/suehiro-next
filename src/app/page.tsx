@@ -10,9 +10,8 @@ import EndingSoonCampaigns from "@/components/sections/top/EndingSoonCampaigns";
 import PopularSearches from "@/components/sections/top/PopularCampaignLinks";
 import Cta from "@/components/sections/top/TopCta";
 import LocationSortSection from "@/components/sections/top/GetLocationButtonSection";
-import { getNationalMetadata } from "@/lib/metadataGenerators";
-
-export const generateMetadata = () => getNationalMetadata();
+import { getTopPageMetadata } from "@/lib/metadataStaticGenerators";
+export const metadata = getTopPageMetadata();
 
 export default function HomePage() {
   return (

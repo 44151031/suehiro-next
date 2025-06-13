@@ -1,41 +1,7 @@
 import { Metadata } from "next";
 import { campaigns } from "@/lib/campaignMaster";
 import { sumFullpoint } from "@/lib/campaignCalculations";
-import { PayTypeLabels, PayTypeId } from "@/lib/payType"; // ← 追加
-
-//
-// ✅ 全国トップページ
-//
-export function getNationalMetadata(): Metadata {
-  const title = "PayPay・auPAY・楽天ペイ・d払いキャンペーン";
-  const description =
-    "全国の自治体で実施中のPayPay・auPAY・楽天ペイ・d払いの還元キャンペーンを紹介。最大30％、10000円分の還元も。";
-
-  return {
-    title,
-    description,
-    openGraph: {
-      title,
-      description,
-      type: "website",
-      url: "https://paycancampaign.com/",
-      images: [
-        {
-          url: "https://paycancampaign.com/ogp.jpg",
-          width: 1200,
-          height: 630,
-          alt: title,
-        },
-      ],
-    },
-    twitter: {
-      card: "summary_large_image",
-      title,
-      description,
-      images: ["https://paycancampaign.com/ogp.jpg"],
-    },
-  };
-}
+import { PayTypeLabels, PayTypeId } from "@/lib/payType";
 
 //
 // ✅ 都道府県ページ
@@ -55,7 +21,7 @@ export function getPrefectureMetadata(prefectureSlug: string): Metadata {
 
   const description = active.length > 0
     ? `${prefecture}で実施中のPayPay・auPAY・楽天ペイ・d払いなどのキャンペーンを紹介。今もらえるポイント総額をチェック！`
-    : `${prefecture}では現在開催中のキャンペーンはありません。次回実施情報をお待ちください。`;
+    : `${prefecture}のキャッシュレスキャンペーン情報。このページでは開催中または開催予定のキャンペーンと、${prefecture}の近くのキャンペーンをご紹介いたします。`;
 
   return {
     title,
@@ -111,7 +77,7 @@ export function getCityMetadata(
 
   const description = active.length > 0
     ? `${prefecture}${city}で実施中のキャッシュレスキャンペーンを紹介。今なら合計で${total.toLocaleString()}円分の還元が受けられます。`
-    : `${prefecture}${city}のキャッシュレスキャンペーン。このページでは開催中や開催予定のキャンペーンをご紹介いたします。`;
+    : `${prefecture}${city}のキャッシュレスキャンペーン。このページでは開催中または開催予定のキャンペーンと、${prefecture}${city}の近くのキャンペーンをご紹介いたします。`;
 
   return {
     title,
@@ -155,7 +121,6 @@ export function getPaytypeMetadata(
   }
 
   const { city, prefecture, offer, startDate, endDate } = campaign;
-
   const paytypeLabel = PayTypeLabels[paytypeSlug as PayTypeId] || paytypeSlug;
 
   const formatDate = (d: string) => {
@@ -167,7 +132,7 @@ export function getPaytypeMetadata(
   const ogImageUrl = `https://paycancampaign.com/images/campaigns/${prefectureSlug}-${citySlug}.jpg`;
 
   const title = `${city}の${paytypeLabel}${offer}％還元キャンペーン対象店舗`;
-  const description = `${prefecture}${city}で${formatDate(startDate)}〜${formatDate(endDate)}まで${paytypeLabel}による${offer}％還元キャンペーン開催中。対象店舗の紹介やお得な使い方も。`;
+  const description = `${prefecture}${city}で${formatDate(startDate)}から${formatDate(endDate)}まで${paytypeLabel}による${offer}％還元キャンペーン開催中。対象店舗の紹介やお得な使い方も。`;
 
   return {
     title,
@@ -184,6 +149,41 @@ export function getPaytypeMetadata(
       title,
       description,
       images: [ogImageUrl],
+    },
+  };
+}
+
+//
+// ✅ 検索結果ページ（キーワード付き）
+//
+export function getSearchResultMetadata(query: string): Metadata {
+  const decoded = decodeURIComponent(query);
+
+  const title = `「${decoded}」のキャッシュレス還元キャンペーン検索結果`;
+  const description = `${decoded} で開催中・開催予定のキャッシュレス還元キャンペーンを検索した結果です。PayPay・auPAY・楽天ペイ・d払いなどの対象キャンペーンをチェックできます。`;
+
+  return {
+    title,
+    description,
+    openGraph: {
+      title,
+      description,
+      type: "website",
+      url: `https://paycancampaign.com/campaigns/search?q=${encodeURIComponent(query)}`,
+      images: [
+        {
+          url: "https://paycancampaign.com/ogp.jpg",
+          width: 1200,
+          height: 630,
+          alt: title,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: ["https://paycancampaign.com/ogp.jpg"],
     },
   };
 }

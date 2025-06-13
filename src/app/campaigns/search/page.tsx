@@ -13,6 +13,7 @@ import Footer from '@/components/layout/Footer';
 import LayoutShell from '@/components/layout/LayoutShell';
 import { isCampaignActive } from '@/lib/campaignUtils';
 
+
 function SearchResultsInner() {
   const searchParams = useSearchParams();
   const keyword = decodeURIComponent(searchParams.get('q') || '')

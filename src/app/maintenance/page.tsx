@@ -1,4 +1,6 @@
 // ✅ /app/maintenance/page.tsx
+import { getMaintenancePageMetadata } from "@/lib/metadataStaticGenerators";
+export const metadata = getMaintenancePageMetadata();
 export default function MaintenancePage() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-white text-center px-4">

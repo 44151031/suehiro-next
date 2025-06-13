@@ -20,13 +20,13 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "PayPay・auPAY・楽天ペイ・d払いキャンペーン情報サイト - Payキャン",
-    template: "%s - Payキャン",
+    default: "PayPay・auPAY・楽天ペイ・d払いキャンペーン情報サイト-Payキャン",
+    template: "%s-Payキャン",
   },
   description:
     "全国のPayPay・auPAY・楽天ペイ・d払いのキャンペーンをまとめて紹介。都道府県・市区町村ごとの還元情報をわかりやすく掲載しています。",
   openGraph: {
-    title: "PayPay・auPAY・楽天ペイ・d払いキャンペーン情報サイト - Payキャン",
+    title: "PayPay・auPAY・楽天ペイ・d払いキャンペーン情報サイト-Payキャン",
     description:
       "全国のPayPay・auPAY・楽天ペイ・d払いのキャンペーンをまとめて紹介。都道府県・市区町村ごとの還元情報をわかりやすく掲載しています。",
     url: "https://paycancampaign.com",
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "PayPay・auPAY・楽天ペイ・d払いキャンペーン情報サイト - Payキャン",
+    title: "PayPay・auPAY・楽天ペイ・d払いキャンペーン情報サイト-Payキャン",
     description:
       "全国のPayPay・auPAY・楽天ペイ・d払いのキャンペーンをまとめて紹介。都道府県・市区町村ごとの還元情報をわかりやすく掲載しています。",
     images: ["https://paycancampaign.com/ogp.jpg"],
