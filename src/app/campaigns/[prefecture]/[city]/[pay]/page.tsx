@@ -18,6 +18,7 @@ import GenreShopLists from "@/components/sections/shop/GenreShopLists";
 import SampleShopExample from "@/components/sections/shop/SampleShopExample";
 import CampaignStatusNotice from "@/components/common/CampaignStatusNotice";
 import { getPaytypeMetadata } from "@/lib/metadataGenerators";
+import CampaignStructuredData from "@/components/structured/CampaignStructuredData"; // ✅ 追加
 
 type Props = {
   params: { prefecture: string; city: string; pay: string };
@@ -61,6 +62,7 @@ export default async function CityPaytypePage({
     endDate,
     offer,
     fullpoint,
+    onepoint, // ✅ 1回あたり上限を動的に取得
     campaigntitle,
     prefectureSlug,
     citySlug,
@@ -77,84 +79,103 @@ export default async function CityPaytypePage({
   });
 
   return (
-    <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
-      <main className="max-w-[1200px] mx-auto px-4 py-10">
-        <h1 className="headline1">
-          {city}の{payLabel}{offer}%還元キャンペーン
-        </h1>
-        <CampaignStatusNotice campaign={campaign} /> {/* ← この位置に表示 */}
-        <CampaignSummaryCard campaign={campaign} />
-        <GenreHeaderNav genres={genres} paytypeLabel={payLabel} />
-        <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
+    <>
+      <CampaignStructuredData
+        prefecture={prefecture}
+        prefectureSlug={prefectureSlug}
+        city={city}
+        citySlug={citySlug}
+        paytype={payLabel}
+        headline={`${city} × ${payLabel} 最大${offer}％還元キャンペーン【${formatJapaneseDate(endDate)}まで】`}
+        articleDescription={`本記事では、${prefecture}${city}で開催される${payLabel}ポイント還元キャンペーンの概要、対象条件、注意事項、対象店舗一覧などを解説します。`}
+        offerDescription={`${formatJapaneseDate(startDate)}から${formatJapaneseDate(endDate)}まで、${prefecture}${city}内の対象店舗で${payLabel}決済を行うと、最大${offer}％のポイントが還元されるキャンペーンが実施されます。`}
+        validFrom={startDate}
+        validThrough={endDate}
+        url={pageUrl}
+        offerRate={Number(offer)}
+        onePayLimit={String(onepoint)}
+        fullPayLimit={String(fullpoint)}
+      />
 
-        <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
-          <p>
-            <span className="font-semibold">{prefecture}{city}</span>で
-            <span className="text-brand-primary font-bold">
-              {formatJapaneseDate(startDate)}～{formatJapaneseDate(endDate)}
-            </span>
-            まで、{offer}％還元キャッシュレス応援キャンペーンが開催中。最大
-            {formatNumber(fullpoint)}円分のポイントを獲得できます。
-          </p>
+      <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
+        <main className="max-w-[1200px] mx-auto px-4 py-10">
+          <h1 className="headline1">
+            {city}の{payLabel}{offer}%還元キャンペーン
+          </h1>
+          <CampaignStatusNotice campaign={campaign} />
+          <CampaignSummaryCard campaign={campaign} />
+          <GenreHeaderNav genres={genres} paytypeLabel={payLabel} />
+          <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
 
-          <h2 className="headline2">
-            {city}の{payLabel}還元キャンペーンとは？
-          </h2>
-          <p>
-            <strong>{prefecture}{city}「{campaigntitle}」</strong> は、
-            対象店舗で{payLabel}を利用すると
-            <span className="text-brand-primary font-bold">{offer}％</span>が
-            戻ってくるお得なキャンペーンです。
-          </p>
-        </section>
-
-        <div className="mt-10">
-          <CampaignOverviewTable campaign={campaign} />
-        </div>
-
-        <div className="mt-10">
-          <CampaignNotice campaign={campaign} />
-        </div>
-
-        <h2 className="headline2 mb-4">
-          {city}の{offer}%還元キャンペーン対象店舗
-        </h2>
-
-        {!shopListByGenre ? (
-          <>
-            <p className="mt-10 text-gray-700 text-base">
-              現時点では対象店舗情報が公表されていません。<br />
-              公表されましたらこのページで紹介いたします。
+          <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
+            <p>
+              <span className="font-semibold">{prefecture}{city}</span>で
+              <span className="text-brand-primary font-bold">
+                {formatJapaneseDate(startDate)}～{formatJapaneseDate(endDate)}
+              </span>
+              まで、{offer}％還元キャッシュレス応援キャンペーンが開催中。最大
+              {formatNumber(fullpoint)}円分のポイントを獲得できます。
             </p>
-            <SampleShopExample />
-          </>
-        ) : (
-          <>
-            <GenreShopLists
-              shopListByGenre={shopListByGenre}
-              detailsJsonPath={detailsJsonPath}
+
+            <h2 className="headline2">
+              {city}の{payLabel}還元キャンペーンとは？
+            </h2>
+            <p>
+              <strong>{prefecture}{city}「{campaigntitle}」</strong> は、
+              対象店舗で{payLabel}を利用すると
+              <span className="text-brand-primary font-bold">{offer}％</span>が
+              戻ってくるお得なキャンペーンです。
+            </p>
+          </section>
+
+          <div className="mt-10">
+            <CampaignOverviewTable campaign={campaign} />
+          </div>
+
+          <div className="mt-10">
+            <CampaignNotice campaign={campaign} />
+          </div>
+
+          <h2 className="headline2 mb-4">
+            {city}の{offer}%還元キャンペーン対象店舗
+          </h2>
+
+          {!shopListByGenre ? (
+            <>
+              <p className="mt-10 text-gray-700 text-base">
+                現時点では対象店舗情報が公表されていません。<br />
+                公表されましたらこのページで紹介いたします。
+              </p>
+              <SampleShopExample />
+            </>
+          ) : (
+            <>
+              <GenreShopLists
+                shopListByGenre={shopListByGenre}
+                detailsJsonPath={detailsJsonPath}
+              />
+              <SampleShopExample />
+            </>
+          )}
+
+          <StoreRegistrationCTA />
+          <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
+
+          <div className="mt-20">
+            <RecommendedCampaigns
+              prefectureSlug={prefectureSlug}
+              citySlug={citySlug}
+              currentPaytype={paytypeId}
             />
-            <SampleShopExample />
-          </>
-        )}
+          </div>
 
-        <StoreRegistrationCTA />
-        <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
-
-        <div className="mt-20">
-          <RecommendedCampaigns
+          <BackNavigationButtons
+            prefecture={prefecture}
             prefectureSlug={prefectureSlug}
-            citySlug={citySlug}
-            currentPaytype={paytypeId}
           />
-        </div>
-
-        <BackNavigationButtons
-          prefecture={prefecture}
-          prefectureSlug={prefectureSlug}
-        />
-      </main>
-    </div>
+        </main>
+      </div>
+    </>
   );
 }
 
