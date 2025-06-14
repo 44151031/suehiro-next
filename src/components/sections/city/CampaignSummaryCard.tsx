@@ -44,17 +44,23 @@ export default function CampaignSummaryCard({ campaign }: Props) {
       <div className="flex flex-col md:flex-row">
         {/* 左画像＋バッジ */}
         <div className="relative w-full md:w-72 h-48 md:h-auto">
+          {/* テキストオーバーレイ */}
           <div className="absolute inset-0 flex items-center justify-center z-10">
             <div className="bg-white/90 text-black text-center px-4 py-3 rounded-2xl shadow-2xl leading-tight font-extrabold">
+              <div className="text-base sm:text-lg text-black">
+                {campaign.prefecture}{campaign.city}×{payLabel}
+              </div>
               <div className="leading-tight">
                 最大 <span className="text-5xl sm:text-7xl font-extrabold text-red-600">{campaign.offer}</span>％
               </div>
               <div className="mt-0.5">戻ってくる</div>
             </div>
           </div>
+
+          {/* 背景画像 */}
           <Image
             src={getCampaignImagePath(campaign.prefectureSlug, campaign.citySlug)}
-            alt={`${campaign.city}のキャンペーン画像`}
+            alt={`${campaign.prefecture}${campaign.city}の${payLabel}${campaign.offer}還元キャンペーン画像`}
             fill
             className="object-cover"
             priority
