@@ -135,7 +135,7 @@ export function getPaytypeMetadata(
     };
   }
 
-  const { city, prefecture, offer, startDate, endDate } = campaign;
+  const { city, prefecture, offer, startDate, endDate, paytype} = campaign;
   const paytypeLabel = PayTypeLabels[paytypeSlug as PayTypeId] || paytypeSlug;
 
   const formatDate = (d: string) => {
@@ -144,7 +144,7 @@ export function getPaytypeMetadata(
   };
 
   const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${paytypeSlug}`;
-  const ogImageUrl = `https://paycancampaign.com/images/campaigns/${prefectureSlug}-${citySlug}.jpg`;
+  const ogImageUrl = `https://paycancampaign.com/images/campaigns/ogp/${prefectureSlug}-${citySlug}-${paytype}-ogp.jpg`;
 
   const title = `${city}の${paytypeLabel}${offer}％還元キャンペーン対象店舗`;
   const description = `${prefecture}${city}で${formatDate(startDate)}から${formatDate(endDate)}まで${paytypeLabel}による${offer}％還元キャンペーン開催中。対象店舗の紹介やお得な使い方も。`;
