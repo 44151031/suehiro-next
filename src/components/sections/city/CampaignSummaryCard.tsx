@@ -54,6 +54,11 @@ export default function CampaignSummaryCard({ campaign }: Props) {
                 最大 <span className="text-5xl sm:text-7xl font-extrabold text-red-600">{campaign.offer}</span>％
               </div>
               <div className="mt-0.5">戻ってくる</div>
+              <div className="mt-1 text-ms font-semibold text-gray-600">
+                @
+                <span className="text-red-600">Pay</span>
+                <span className="text-black text-[0.7rem]">キャン</span>
+              </div>
             </div>
           </div>
 
