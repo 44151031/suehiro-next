@@ -42,7 +42,6 @@ export default function HeroTop() {
     },
   });
 
-  // キャンペーン取得
   useEffect(() => {
     const now = new Date();
     const active = campaigns.filter(
@@ -112,13 +111,13 @@ export default function HeroTop() {
                 <p className="text-xs sm:text-sm md:text-base mb-2 text-white/90">
                   {slide.description}
                 </p>
-                <Link href={slide.href}>
-                  <Button variant="secondary" size="sm">
+                <Button asChild variant="secondary" size="sm">
+                  <Link href={slide.href}>
                     {paytypeLabel
                       ? `${paytypeLabel}キャンペーンを見る`
                       : "キャンペーンを見る"}
-                  </Button>
-                </Link>
+                  </Link>
+                </Button>
               </div>
             </div>
           );
