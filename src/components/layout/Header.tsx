@@ -1,13 +1,13 @@
 'use client';
 
 import Link from "next/link";
+import Image from "next/image";
 import { useEffect, useState } from "react";
 import {
   Menu,
   Home,
   Gift,
   Info,
-  Mail,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { PrefectureSelector } from "@/components/ui/selectors/RegionPrefectureSelector";
@@ -43,19 +43,26 @@ export default function Header() {
     >
       <Container>
         <div className="h-16 flex items-center justify-between">
-          {/* ✅ タイトル */}
-<Link href="/" className="flex flex-col leading-tight group">
-  <span className="text-xs sm:text-sm text-neutral-600 mt leading-tight">
-    PayPay・au PAY・楽天ペイ・d払い還元体験
-  </span>
-  <span className="text-2xl sm:text-3xl font-extrabold tracking-tight text-gray-900 leading-tight">
-    <span className="text-red-600">Pay</span>
-    <span className="text-xl text-gray-800 font-medium ml-1 align-middle">キャン</span>
-    <span className="text-sm text-gray-600 font-medium align-middle hidden sm:inline">
-      （ペイキャン）
-    </span>
-  </span>
-</Link>
+          {/* ✅ タイトル（ロゴは狭い画面で非表示） */}
+          <Link href="/" className="flex flex-col leading-tight group">
+            <span className="text-xs sm:text-sm text-neutral-600 leading-tight">
+              PayPay・au PAY・楽天ペイ・d払い還元体験
+            </span>
+            <span className="flex items-center gap-2 flex-nowrap text-2xl sm:text-3xl font-extrabold tracking-tight text-gray-900 leading-tight">
+              <Image
+                src="/logo.png"
+                alt="Payキャンロゴ"
+                width={32}
+                height={32}
+                className="w-8 h-8 shrink-0 hidden sm:block"
+              />
+              <span className="text-red-600">Pay</span>
+              <span className="text-xl text-gray-800 font-medium ml-1 align-middle">キャン</span>
+              <span className="text-sm text-gray-600 font-medium align-middle hidden sm:inline">
+                （ペイキャン）
+              </span>
+            </span>
+          </Link>
 
           {/* ✅ 右側操作エリア */}
           <div className="flex items-center space-x-4">

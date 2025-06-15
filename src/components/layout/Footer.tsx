@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { MessageCircle, Twitter } from "lucide-react";
 import { prefectures } from "@/lib/prefectures";
 import { popularSearches } from "@/lib/popularSearches";
@@ -21,16 +22,24 @@ export default function Footer() {
 
           {/* カラム1 */}
           <div className="lg:w-1/3 space-y-4 text-center lg:text-left">
-            <div>
+            <div className="flex items-center justify-center lg:justify-start gap-2">
+              <Image
+                src="/logo.png"
+                alt="Payキャンロゴ"
+                width={24}
+                height={24}
+                className="w-8 h-8"
+              />
               <p className="text-2xl font-extrabold text-gray-800">
                 <span className="text-accent">Pay</span>
                 <span className="ml-1 text-base align-bottom">キャン</span>
-                <span className="text-sm text-gray-500 ml-2">（ペイキャン）</span>
-              </p>
-              <p className="text-xs sm:text-sm text-gray-500 leading-snug mt-1">
-                PayPay・au PAY・楽天ペイ・d払い還元体験
+                <span className="text-sm text-gray-500 ml-2">(ペイキャン)</span>
               </p>
             </div>
+
+            <p className="text-xs sm:text-sm text-gray-500 leading-snug mt-1">
+              PayPay・au PAY・楽天ペイ・d払い還元体験
+            </p>
 
             <nav className="flex flex-wrap justify-center lg:justify-start gap-4 text-sm font-medium text-gray-600">
               <Link href="/" className="hover:text-accent transition">トップ</Link>
@@ -52,7 +61,6 @@ export default function Footer() {
                 ))}
               </div>
 
-              {/* ✅ LucideアイコンでSNSリンク表示 */}
               <div className="flex justify-center lg:justify-start gap-4 mt-2">
                 <Link
                   href="https://lin.ee/PwfONyl"
@@ -126,7 +134,7 @@ export default function Footer() {
             ))}
           </div>
 
-          {/* モバイル都道府県表示 */}
+          {/* モバイル都道府県 */}
           <div className="lg:hidden mt-6 text-center">
             <button
               onClick={() => setShowPrefectures(!showPrefectures)}
@@ -163,7 +171,6 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* コピーライト */}
         <p className="text-xs text-gray-400 mt-10 text-center">
           &copy; {new Date().getFullYear()} Payキャン（ペイキャン）運営事務局
         </p>
