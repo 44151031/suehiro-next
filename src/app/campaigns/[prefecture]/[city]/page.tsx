@@ -11,6 +11,7 @@ import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import { CampaignCardList } from "@/components/common/CampaignCardList";
 import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCampaigns";
 import { getCityMetadata } from "@/lib/metadataGenerators";
+import CityCampaignStructuredData from "@/components/structured/CityCampaignStructuredData"; // ✅ 追加
 
 type Props = {
   params: { prefecture: string; city: string };
@@ -42,54 +43,71 @@ export default function CityCampaignsPage({
   );
   const upcoming = filteredList.length - active.length;
 
+  const headline = `${cityName}のキャッシュレスキャンペーン情報`;
+  const articleDescription = `Payキャンでは${prefectureName}${cityName}で現在・今後開催予定のキャッシュレス決済キャンペーン情報を掲載中。PayPay、楽天ペイ、d払い、auPAYなどの対象キャンペーンを網羅しています。`;
+  const url = `https://paycancampaign.com/campaigns/${prefecture}/${city}`;
+
   return (
-    <main className="w-full bg-[#f8f7f2] text-secondary-foreground">
-      <div className="max-w-[1200px] mx-auto px-4 py-10">
-        {/* タイトル */}
-        <h1 className="headline1">
-          {cityName}のキャッシュレスキャンペーン一覧
-        </h1>
+    <>
+      {/* ✅ 構造化データ挿入 */}
+      <CityCampaignStructuredData
+        prefecture={prefectureName}
+        prefectureSlug={prefecture}
+        city={cityName}
+        citySlug={city}
+        headline={headline}
+        articleDescription={articleDescription}
+        url={url}
+      />
 
-        {/* 合計ポイント */}
-        <CampaignTotalPointSummary campaigns={filteredList} areaLabel={cityName} />
+      <main className="w-full bg-[#f8f7f2] text-secondary-foreground">
+        <div className="max-w-[1200px] mx-auto px-4 py-10">
+          {/* タイトル */}
+          <h1 className="headline1">
+            {cityName}のキャッシュレスキャンペーン一覧
+          </h1>
 
-        {/* 概要 */}
-        <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
-          {filteredList.length > 0 ? (
-            <p className="text-base sm:text-lg text-neutral-700 leading-snug">
-              <span className="text-[17px] sm:text-xl font-semibold">
-                {cityName}では、現在{" "}
-                <span className="text-orange-600 font-bold">{active.length}件</span> のキャンペーンが開催中です。
-              </span>
-              <span className="ml-1 text-[17px] sm:text-xl font-semibold">
-                <span className="text-green-700 font-bold">{upcoming}件</span> は開催予定となっています。
-              </span>
-            </p>
-          ) : (
-            <p className="text-base sm:text-lg text-neutral-700 leading-snug font-semibold">
-              現在、{cityName}で実施中または予定されているキャンペーンはありません。
-            </p>
-          )}
-        </div>
+          {/* 合計ポイント */}
+          <CampaignTotalPointSummary campaigns={filteredList} areaLabel={cityName} />
 
-        {/* カード一覧 */}
-        {filteredList.length > 0 && (
-          <div className="city-page-card-container">
-            <CampaignCardList campaigns={filteredList} />
+          {/* 概要 */}
+          <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
+            {filteredList.length > 0 ? (
+              <p className="text-base sm:text-lg text-neutral-700 leading-snug">
+                <span className="text-[17px] sm:text-xl font-semibold">
+                  {cityName}では、現在{" "}
+                  <span className="text-orange-600 font-bold">{active.length}件</span> のキャンペーンが開催中です。
+                </span>
+                <span className="ml-1 text-[17px] sm:text-xl font-semibold">
+                  <span className="text-green-700 font-bold">{upcoming}件</span> は開催予定となっています。
+                </span>
+              </p>
+            ) : (
+              <p className="text-base sm:text-lg text-neutral-700 leading-snug font-semibold">
+                現在、{cityName}で実施中または予定されているキャンペーンはありません。
+              </p>
+            )}
           </div>
-        )}
 
-        {/* 終了済みしかないときにレコメンド表示 */}
-        {filteredList.length === 0 && (
-          <RecommendedCampaigns prefectureSlug={prefecture} citySlug={city} />
-        )}
+          {/* カード一覧 */}
+          {filteredList.length > 0 && (
+            <div className="city-page-card-container">
+              <CampaignCardList campaigns={filteredList} />
+            </div>
+          )}
 
-        {/* 戻るボタン */}
-        <BackNavigationButtons
-          prefecture={prefectureName}
-          prefectureSlug={prefecture}
-        />
-      </div>
-    </main>
+          {/* 終了済みしかないときにレコメンド表示 */}
+          {filteredList.length === 0 && (
+            <RecommendedCampaigns prefectureSlug={prefecture} citySlug={city} />
+          )}
+
+          {/* 戻るボタン */}
+          <BackNavigationButtons
+            prefecture={prefectureName}
+            prefectureSlug={prefecture}
+          />
+        </div>
+      </main>
+    </>
   );
 }

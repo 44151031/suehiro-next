@@ -41,7 +41,7 @@ const CampaignStructuredData = ({
   const fullPayFormatted = Number(fullPayLimit).toLocaleString();
   const offerLimitDescription = `最大${offerRate}％ポイント還元。1回あたり最大${onePayFormatted}円、期間合計最大${fullPayFormatted}円まで。`;
 
-  const imageUrl = `${origin}/images/campaigns/${prefectureSlug}-${citySlug}.jpg`;
+  const imageUrl = `${origin}/images/campaigns/ogp/${prefectureSlug}-${citySlug}-${paytype}-ogp.jpg`;
 
   const data = {
     "@context": "https://schema.org",
@@ -86,6 +86,35 @@ const CampaignStructuredData = ({
           "priceCurrency": "JPY",
           "description": offerLimitDescription
         }
+      },
+      {
+        "@type": "Event",
+        "name": `${city}の${paytype}キャンペーン（最大${offerRate}％還元）`,
+        "startDate": validFrom,
+        "endDate": validThrough,
+        "eventStatus": "http://schema.org/EventScheduled",
+        "eventAttendanceMode": "http://schema.org/OnlineEventAttendanceMode",
+        "url": url,
+        "image": imageUrl,
+        "location": {
+          "@type": "Place",
+          "name": `${prefecture}${city}`,
+          "address": {
+            "@type": "PostalAddress",
+            "addressRegion": prefecture,
+            "addressLocality": city,
+            "addressCountry": {
+              "@type": "Country",
+              "name": "JP"
+            }
+          }
+        },
+        "organizer": {
+          "@type": "GovernmentOrganization",
+          "name": `${prefecture}${city}`,
+          "url": `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}`
+        },
+        "description": offerLimitDescription
       }
     ]
   };

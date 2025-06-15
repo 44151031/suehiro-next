@@ -65,7 +65,7 @@ export default function CampaignSummaryCard({ campaign }: Props) {
           {/* 背景画像 */}
           <Image
             src={getCampaignImagePath(campaign.prefectureSlug, campaign.citySlug)}
-            alt={`${campaign.prefecture}${campaign.city}の${payLabel}${campaign.offer}還元キャンペーン画像`}
+            alt={`${campaign.prefecture}${campaign.city}の${payLabel}最大${campaign.offer}%還元キャンペーン画像`}
             fill
             className="object-cover"
             priority
