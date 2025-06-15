@@ -2,7 +2,8 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { prefectures, prefectureGroups } from "@/lib/prefectures";
+import { MessageCircle, Twitter } from "lucide-react";
+import { prefectures } from "@/lib/prefectures";
 import { popularSearches } from "@/lib/popularSearches";
 import Container from "@/components/layout/Container";
 
@@ -18,7 +19,7 @@ export default function Footer() {
       <Container>
         <div className="flex flex-col lg:flex-row justify-between gap-10 lg:gap-16">
 
-          {/* ① カラム1: ロゴ・説明・ナビゲーション・検索 */}
+          {/* カラム1 */}
           <div className="lg:w-1/3 space-y-4 text-center lg:text-left">
             <div>
               <p className="text-2xl font-extrabold text-gray-800">
@@ -39,7 +40,7 @@ export default function Footer() {
 
             <div>
               <p className="font-medium text-sm text-gray-700 mb-2">よく検索されるキャンペーン:</p>
-              <div className="flex flex-wrap justify-center lg:justify-start gap-2">
+              <div className="flex flex-wrap justify-center lg:justify-start gap-2 mb-3">
                 {popularSearches.map((item, index) => (
                   <Link
                     key={index}
@@ -50,10 +51,30 @@ export default function Footer() {
                   </Link>
                 ))}
               </div>
+
+              {/* ✅ LucideアイコンでSNSリンク表示 */}
+              <div className="flex justify-center lg:justify-start gap-4 mt-2">
+                <Link
+                  href="https://lin.ee/PwfONyl"
+                  className="flex items-center gap-1 text-sm text-green-600 hover:underline"
+                  target="_blank" rel="noopener noreferrer"
+                >
+                  <MessageCircle className="w-4 h-4" strokeWidth={2} />
+                  LINE公式
+                </Link>
+                <Link
+                  href="https://x.com/paycancampaign"
+                  className="flex items-center gap-1 text-sm text-black hover:underline"
+                  target="_blank" rel="noopener noreferrer"
+                >
+                  <Twitter className="w-4 h-4" strokeWidth={2} />
+                  X公式
+                </Link>
+              </div>
             </div>
           </div>
 
-          {/* ② カラム2: 北海道〜中部 */}
+          {/* カラム2 */}
           <div className="lg:w-1/3 text-sm text-left space-y-4 hidden lg:block">
             {group1.map(group => (
               <div key={group}>
@@ -79,7 +100,7 @@ export default function Footer() {
             ))}
           </div>
 
-          {/* ③ カラム3: 近畿〜九州・沖縄 */}
+          {/* カラム3 */}
           <div className="lg:w-1/3 text-sm text-left space-y-4 hidden lg:block">
             {group2.map(group => (
               <div key={group}>
@@ -105,7 +126,7 @@ export default function Footer() {
             ))}
           </div>
 
-          {/* ✅ スマホ表示：アコーディオンで全県表示 */}
+          {/* モバイル都道府県表示 */}
           <div className="lg:hidden mt-6 text-center">
             <button
               onClick={() => setShowPrefectures(!showPrefectures)}
