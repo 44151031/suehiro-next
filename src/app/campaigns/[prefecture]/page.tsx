@@ -1,3 +1,5 @@
+// /app/campaigns/[prefecture]/page.tsx
+
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import { campaigns } from "@/lib/campaignMaster";
@@ -11,7 +13,9 @@ import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import { CampaignCardList } from "@/components/common/CampaignCardList";
 import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCampaigns";
 import { getPrefectureMetadata } from "@/lib/metadataGenerators";
-import PrefectureCampaignStructuredData from "@/components/structured/PrefectureCampaignStructuredData"; // ✅ 追加
+import PrefectureCampaignStructuredData from "@/components/structured/PrefectureCampaignStructuredData";
+import { generateShareContent } from "@/lib/generateShareContent"; // ✅ 追加
+import { SNSShareButtons } from "@/components/common/SNSShareButtons"; // ✅ 追加
 
 type Props = {
   params: { prefecture: string };
@@ -46,6 +50,12 @@ export default function PrefecturePage({
   const articleDescription = `Payキャンでは${prefectureName}で実施中・予定されているキャッシュレス決済キャンペーンをまとめています。PayPay・楽天ペイ・d払い・auPAYなどの自治体キャンペーンの還元率・上限・期間情報を掲載中。`;
   const url = `https://paycancampaign.com/campaigns/${prefecture}`;
 
+  // ✅ SNSシェア用データ
+  const { title: shareTitle, hashtags: shareHashtags } = generateShareContent({
+    prefecture: prefectureName,
+    style: "prefecture",
+  });
+
   return (
     <>
       {/* ✅ 構造化データ挿入 */}
@@ -63,7 +73,6 @@ export default function PrefecturePage({
           <h1 className="headline1">
             {prefectureName}のキャッシュレスキャンペーン一覧
           </h1>
-
           {/* 合計ポイント（終了済みは含めない） */}
           <CampaignTotalPointSummary
             campaigns={activeList}
@@ -104,7 +113,14 @@ export default function PrefecturePage({
               currentPaytype=""
             />
           )}
-
+          {/* ✅ SNSシェアボタン */}
+          <div className="mb-6">
+            <SNSShareButtons
+              title={shareTitle}
+              url={url}
+              hashtags={shareHashtags}
+            />
+          </div>
           {/* 戻るボタン */}
           <BackNavigationButtons
             prefecture={prefectureName}

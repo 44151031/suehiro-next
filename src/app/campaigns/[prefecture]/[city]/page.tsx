@@ -11,7 +11,9 @@ import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import { CampaignCardList } from "@/components/common/CampaignCardList";
 import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCampaigns";
 import { getCityMetadata } from "@/lib/metadataGenerators";
-import CityCampaignStructuredData from "@/components/structured/CityCampaignStructuredData"; // ✅ 追加
+import CityCampaignStructuredData from "@/components/structured/CityCampaignStructuredData"; // ✅ 構造化データ
+import { generateShareContent } from "@/lib/generateShareContent"; // ✅ 追加
+import { SNSShareButtons } from "@/components/common/SNSShareButtons"; // ✅ 追加
 
 type Props = {
   params: { prefecture: string; city: string };
@@ -36,7 +38,6 @@ export default function CityCampaignsPage({
   const cityName = list[0].city;
   const prefectureName = list[0].prefecture;
 
-  // ✅ 終了していないキャンペーンだけ
   const filteredList = list.filter((c) => isCampaignActive(c.endDate));
   const active = filteredList.filter((c) =>
     isNowInCampaignPeriod(c.startDate, c.endDate)
@@ -47,9 +48,13 @@ export default function CityCampaignsPage({
   const articleDescription = `Payキャンでは${prefectureName}${cityName}で現在・今後開催予定のキャッシュレス決済キャンペーン情報を掲載中。PayPay、楽天ペイ、d払い、auPAYなどの対象キャンペーンを網羅しています。`;
   const url = `https://paycancampaign.com/campaigns/${prefecture}/${city}`;
 
+  const { title: shareTitle, hashtags: shareHashtags } = generateShareContent({
+    city: cityName,
+    style: "city", // 必要に応じて paytype なし用スタイル
+  });
+
   return (
     <>
-      {/* ✅ 構造化データ挿入 */}
       <CityCampaignStructuredData
         prefecture={prefectureName}
         prefectureSlug={prefecture}
@@ -66,7 +71,6 @@ export default function CityCampaignsPage({
           <h1 className="headline1">
             {cityName}のキャッシュレスキャンペーン一覧
           </h1>
-
           {/* 合計ポイント */}
           <CampaignTotalPointSummary campaigns={filteredList} areaLabel={cityName} />
 
@@ -100,7 +104,8 @@ export default function CityCampaignsPage({
           {filteredList.length === 0 && (
             <RecommendedCampaigns prefectureSlug={prefecture} citySlug={city} />
           )}
-
+          {/* SNSシェアボタン */}
+          <SNSShareButtons url={url} title={shareTitle} hashtags={shareHashtags} />
           {/* 戻るボタン */}
           <BackNavigationButtons
             prefecture={prefectureName}
