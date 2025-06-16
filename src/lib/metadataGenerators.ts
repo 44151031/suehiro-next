@@ -29,7 +29,7 @@ export function getPrefectureMetadata(prefectureSlug: string): Metadata {
       ? `${prefecture}で近日開催予定の合計${futureTotal.toLocaleString()}円分のキャッシュレスキャンペーンを紹介。今後の開催を見逃さずチェック！`
       : `${prefecture}のキャッシュレスキャンペーン情報。このページでは開催中または開催予定のキャンペーンと、${prefecture}の近くのキャンペーンをご紹介いたします。`;
 
-  const ogImageUrl = `https://paycancampaign.com/images/campaigns/ogp/${prefectureSlug}-ogp.jpg`; // ✅ 修正箇所
+  const ogImageUrl = `https://paycancampaign.com/images/campaigns/ogp/${prefectureSlug}-ogp.jpg`;
 
   return {
     title,
@@ -122,12 +122,16 @@ export function getPaytypeMetadata(
   citySlug: string,
   paytypeSlug: string
 ): Metadata {
-  const campaign = campaigns.find(
-    (c) =>
-      c.prefectureSlug === prefectureSlug &&
-      c.citySlug === citySlug &&
-      c.paytype === paytypeSlug
-  );
+  const matched = campaigns
+    .filter(
+      (c) =>
+        c.prefectureSlug === prefectureSlug &&
+        c.citySlug === citySlug &&
+        c.paytype === paytypeSlug
+    )
+    .sort((a, b) => new Date(b.startDate).getTime() - new Date(a.startDate).getTime());
+
+  const campaign = matched[0];
 
   if (!campaign) {
     return {
@@ -165,41 +169,6 @@ export function getPaytypeMetadata(
       title,
       description,
       images: [ogImageUrl],
-    },
-  };
-}
-
-//
-// ✅ 検索結果ページ（キーワード付き）
-//
-export function getSearchResultMetadata(query: string): Metadata {
-  const decoded = decodeURIComponent(query);
-
-  const title = `「${decoded}」のキャッシュレス還元キャンペーン検索結果`;
-  const description = `${decoded} で開催中・開催予定のキャッシュレス還元キャンペーンを検索した結果です。PayPay・auPAY・楽天ペイ・d払いなどの対象キャンペーンをチェックできます。`;
-
-  return {
-    title,
-    description,
-    openGraph: {
-      title,
-      description,
-      type: "website",
-      url: `https://paycancampaign.com/campaigns/search?q=${encodeURIComponent(query)}`,
-      images: [
-        {
-          url: "https://paycancampaign.com/ogp.jpg",
-          width: 1200,
-          height: 630,
-          alt: title,
-        },
-      ],
-    },
-    twitter: {
-      card: "summary_large_image",
-      title,
-      description,
-      images: ["https://paycancampaign.com/ogp.jpg"],
     },
   };
 }

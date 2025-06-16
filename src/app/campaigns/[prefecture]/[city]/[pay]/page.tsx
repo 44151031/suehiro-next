@@ -18,7 +18,7 @@ import GenreShopLists from "@/components/sections/shop/GenreShopLists";
 import SampleShopExample from "@/components/sections/shop/SampleShopExample";
 import CampaignStatusNotice from "@/components/common/CampaignStatusNotice";
 import { getPaytypeMetadata } from "@/lib/metadataGenerators";
-import CampaignStructuredData from "@/components/structured/CampaignStructuredData"; // ✅ 追加
+import CampaignStructuredData from "@/components/structured/CampaignStructuredData";
 
 type Props = {
   params: { prefecture: string; city: string; pay: string };
@@ -36,12 +36,16 @@ export default async function CityPaytypePage({
   const paytypeId = params.pay as PayTypeId;
   if (!paytypeId) return notFound();
 
-  const campaign = campaigns.find(
-    (c) =>
-      c.prefectureSlug === params.prefecture &&
-      c.citySlug === params.city &&
-      c.paytype === paytypeId
-  );
+  // ✅ 修正：開始日が新しい順にソートし、最も新しい1件を取得
+  const campaign = campaigns
+    .filter(
+      (c) =>
+        c.prefectureSlug === params.prefecture &&
+        c.citySlug === params.city &&
+        c.paytype === paytypeId
+    )
+    .sort((a, b) => new Date(b.startDate).getTime() - new Date(a.startDate).getTime())[0];
+
   if (!campaign) return notFound();
 
   const payLabel = PayTypeLabels[paytypeId];
@@ -62,7 +66,7 @@ export default async function CityPaytypePage({
     endDate,
     offer,
     fullpoint,
-    onepoint, // ✅ 1回あたり上限を動的に取得
+    onepoint,
     campaigntitle,
     prefectureSlug,
     citySlug,
