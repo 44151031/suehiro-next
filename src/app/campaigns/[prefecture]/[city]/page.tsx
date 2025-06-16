@@ -11,9 +11,11 @@ import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import { CampaignCardList } from "@/components/common/CampaignCardList";
 import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCampaigns";
 import { getCityMetadata } from "@/lib/metadataGenerators";
-import CityCampaignStructuredData from "@/components/structured/CityCampaignStructuredData"; // ✅ 構造化データ
-import { generateShareContent } from "@/lib/generateShareContent"; // ✅ 追加
-import { SNSShareButtons } from "@/components/common/SNSShareButtons"; // ✅ 追加
+import CityCampaignStructuredData from "@/components/structured/CityCampaignStructuredData";
+import { generateShareContent } from "@/lib/generateShareContent";
+import { SNSShareButtons } from "@/components/common/SNSShareButtons";
+import Link from "next/link";
+import CampaignLineCard from "@/components/common/CampaignLineCard";
 
 type Props = {
   params: { prefecture: string; city: string };
@@ -50,7 +52,7 @@ export default function CityCampaignsPage({
 
   const { title: shareTitle, hashtags: shareHashtags } = generateShareContent({
     city: cityName,
-    style: "city", // 必要に応じて paytype なし用スタイル
+    style: "city",
   });
 
   return (
@@ -71,6 +73,7 @@ export default function CityCampaignsPage({
           <h1 className="headline1">
             {cityName}のキャッシュレスキャンペーン一覧
           </h1>
+
           {/* 合計ポイント */}
           <CampaignTotalPointSummary campaigns={filteredList} areaLabel={cityName} />
 
@@ -114,8 +117,64 @@ export default function CityCampaignsPage({
           {filteredList.length === 0 && (
             <RecommendedCampaigns prefectureSlug={prefecture} citySlug={city} />
           )}
+
           {/* SNSシェアボタン */}
           <SNSShareButtons url={url} title={shareTitle} hashtags={shareHashtags} />
+
+          {/* 同じ都道府県の他キャンペーン表示 */}
+          {(() => {
+            const otherPrefectureCampaigns = campaigns
+              .filter(
+                (c) =>
+                  c.prefectureSlug === prefecture &&
+                  c.citySlug !== city &&
+                  isCampaignActive(c.endDate)
+              )
+              .sort((a, b) => {
+                const aActive = isNowInCampaignPeriod(a.startDate, a.endDate);
+                const bActive = isNowInCampaignPeriod(b.startDate, b.endDate);
+                return Number(bActive) - Number(aActive);
+              });
+
+            if (otherPrefectureCampaigns.length === 0) return null;
+
+            return (
+              <section className="mt-16">
+                <h2 className="text-xl sm:text-2xl font-bold text-neutral-800 mb-6 border-l-4 border-brand-primary pl-4">
+                  {prefectureName}内の他のキャンペーンもチェック！
+                </h2>
+                <ul className="grid grid-cols-1 xl:grid-cols-2 gap-4">
+                  {otherPrefectureCampaigns.slice(0, 6).map((c) => {
+                    const paySlug = c.paytype;
+                    if (!paySlug) return null;
+
+                    return (
+                      <li key={`${c.prefectureSlug}-${c.citySlug}-${paySlug}`}>
+                        <Link
+                          href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${paySlug}`}
+                          className="block"
+                        >
+                          <CampaignLineCard
+                            prefecture={c.prefecture}
+                            city={c.city}
+                            startDate={c.startDate}
+                            endDate={c.endDate}
+                            offer={c.offer}
+                            fullpoint={c.fullpoint}
+                            onepoint={c.onepoint}
+                            paytype={c.paytype}
+                            isActive={isNowInCampaignPeriod(c.startDate, c.endDate)}
+                            showPrefecture={false}
+                          />
+                        </Link>
+                      </li>
+                    );
+                  })}
+                </ul>
+              </section>
+            );
+          })()}
+
           {/* 戻るボタン */}
           <BackNavigationButtons
             prefecture={prefectureName}
