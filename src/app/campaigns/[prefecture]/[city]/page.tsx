@@ -77,18 +77,28 @@ export default function CityCampaignsPage({
           {/* 概要 */}
           <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
             {filteredList.length > 0 ? (
-              <p className="text-base sm:text-lg text-neutral-700 leading-snug">
-                <span className="text-[17px] sm:text-xl font-semibold">
-                  {cityName}では、現在{" "}
-                  <span className="text-orange-600 font-bold">{active.length}件</span> のキャンペーンが開催中です。
-                </span>
-                <span className="ml-1 text-[17px] sm:text-xl font-semibold">
-                  <span className="text-green-700 font-bold">{upcoming}件</span> は開催予定となっています。
-                </span>
-              </p>
+              active.length === 0 && upcoming > 0 ? (
+                <p className="text-base sm:text-lg text-neutral-700 leading-snug">
+                  <span className="text-[17px] sm:text-xl font-semibold">
+                    {prefectureName}{cityName}では現在
+                    <span className="text-green-700 font-bold"> {upcoming}件</span>
+                    が開催予定となっています。開催日に向けてお買い物を調整しましょう。
+                  </span>
+                </p>
+              ) : (
+                <p className="text-base sm:text-lg text-neutral-700 leading-snug">
+                  <span className="text-[17px] sm:text-xl font-semibold">
+                    {prefectureName}{cityName}では、現在{" "}
+                    <span className="text-orange-600 font-bold">{active.length}件</span> のキャンペーンが開催中です。
+                  </span>
+                  <span className="ml-1 text-[17px] sm:text-xl font-semibold">
+                    <span className="text-green-700 font-bold">{upcoming}件</span> は開催予定となっています。
+                  </span>
+                </p>
+              )
             ) : (
               <p className="text-base sm:text-lg text-neutral-700 leading-snug font-semibold">
-                現在、{cityName}で実施中または予定されているキャンペーンはありません。
+                現在、{prefectureName}{cityName}で実施中または予定されているキャンペーンはありません。
               </p>
             )}
           </div>

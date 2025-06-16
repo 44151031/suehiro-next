@@ -63,11 +63,11 @@ export default function CampaignTotalPointSummary({ campaigns, areaLabel }: Prop
         // ✅ 開催中はないが、開催予定はある場合
         <p className="text-base sm:text-lg font-medium text-neutral-700 text-center leading-snug">
           <span className="font-semibold">{areaLabel}</span>
-          では現在キャンペーンは未開催ですが、
+          では
           <span className="sm:hidden"><br /></span>
           近日開催予定のキャンペーンがあります！
           <br />
-          <span className="text-sm text-neutral-500">
+          <span className="text-ls text-neutral-500">
             合計で
             <span className="mx-1 text-green-600 font-bold">
               {formatNumber(totalScheduledFullpoint)}

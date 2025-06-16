@@ -117,7 +117,7 @@ export default async function CityPaytypePage({
               <span className="text-brand-primary font-bold">
                 {formatJapaneseDate(startDate)}～{formatJapaneseDate(endDate)}
               </span>
-              まで、{offer}％還元キャッシュレス応援キャンペーンが開催中。最大
+              まで、{offer}％還元キャッシュレス応援キャンペーンが開催。最大
               {formatNumber(fullpoint)}円分のポイントを獲得できます。
             </p>
 
