@@ -59,12 +59,9 @@ const CityCampaignStructuredData = ({
         "name": `${prefecture}${city}`,
         "address": {
           "@type": "PostalAddress",
-          "addressRegion": prefecture,
           "addressLocality": city,
-          "addressCountry": {
-            "@type": "Country",
-            "name": "JP"
-          }
+          "addressRegion": prefecture,
+          "addressCountry": "JP"
         }
       }
     ]
