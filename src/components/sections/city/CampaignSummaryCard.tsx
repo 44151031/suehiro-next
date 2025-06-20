@@ -82,8 +82,15 @@ export default function CampaignSummaryCard({ campaign }: Props) {
             最大 <span className="text-red-600 text-4xl">{formatNumber(campaign.fullpoint)}</span> pt 還元
           </p>
 
-          <div className="inline-block bg-red-500 text-white text-sm font-semibold px-4 py-1 rounded-full shadow-sm mt-2">
-            {formatJapaneseDate(campaign.startDate)} ～ {formatJapaneseDate(campaign.endDate)}
+          <div className="flex flex-col sm:flex-row items-start gap-2 mt-2">
+            <div className="inline-block bg-red-500 text-white text-sm font-semibold px-4 py-1 rounded-full shadow-sm">
+              {formatJapaneseDate(campaign.startDate)} ～ {formatJapaneseDate(campaign.endDate)}
+            </div>
+            {campaign.notice && (
+              <div className="mt-1 text-sm text-red-700 font-semibold leading-snug">
+                {campaign.notice}
+              </div>
+            )}
           </div>
 
           <div className="flex flex-wrap gap-2">
