@@ -8,7 +8,7 @@ const isMaintenanceMode = true;
 // ✅ 除外したいパス（メンテ中でも表示させたいページ）
 const excludePaths = [
   '/maintenance',
-  '/favicon.ico',
+  '/favicon.png',
   '/_next',
   '/images',
   '/api',

@@ -49,7 +49,7 @@ export const metadata: Metadata = {
     images: ["https://paycancampaign.com/ogp.jpg"],
   },
   icons: {
-    icon: "https://paycancampaign.com/favicon.ico",
+    icon: "https://paycancampaign.com/favicon.png",
   },
 };
 
