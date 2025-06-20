@@ -36,7 +36,7 @@ export default async function CityPaytypePage({
   const paytypeId = params.pay as PayTypeId;
   if (!paytypeId) return notFound();
 
-  // ✅ 修正：開始日が新しい順にソートし、最も新しい1件を取得
+  // 開始日が新しい順にソートし、最も新しい1件を取得
   const campaign = campaigns
     .filter(
       (c) =>
@@ -44,7 +44,10 @@ export default async function CityPaytypePage({
         c.citySlug === params.city &&
         c.paytype === paytypeId
     )
-    .sort((a, b) => new Date(b.startDate).getTime() - new Date(a.startDate).getTime())[0];
+    .sort(
+      (a, b) =>
+        new Date(b.startDate).getTime() - new Date(a.startDate).getTime()
+    )[0];
 
   if (!campaign) return notFound();
 
@@ -55,9 +58,7 @@ export default async function CityPaytypePage({
     ? await loadShopList(params.prefecture, params.city)
     : null;
 
-  const genres = isPayPay
-    ? await loadGenres(params.prefecture, params.city)
-    : [];
+  const genres = isPayPay ? await loadGenres(params.prefecture, params.city) : [];
 
   const {
     prefecture,
@@ -70,7 +71,12 @@ export default async function CityPaytypePage({
     campaigntitle,
     prefectureSlug,
     citySlug,
-  } = campaign;
+    datePublished,
+    dateModified,
+    lastUpdated, // 旧プロパティ互換
+  } = campaign as Record<string, any>;
+
+  const modified = dateModified ?? lastUpdated ?? datePublished;
 
   const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${paytypeId}`;
   const detailsJsonPath = `/data/shopsdetails/${prefectureSlug}-${citySlug}-shops-details.json`;
@@ -90,9 +96,15 @@ export default async function CityPaytypePage({
         city={city}
         citySlug={citySlug}
         paytype={payLabel}
-        headline={`${city} × ${payLabel} 最大${offer}％還元キャンペーン【${formatJapaneseDate(endDate)}まで】`}
+        headline={`${city} × ${payLabel} 最大${offer}％還元キャンペーン【${formatJapaneseDate(
+          endDate
+        )}まで】`}
         articleDescription={`本記事では、${prefecture}${city}で開催される${payLabel}ポイント還元キャンペーンの概要、対象条件、注意事項、対象店舗一覧などを解説します。`}
-        offerDescription={`${formatJapaneseDate(startDate)}から${formatJapaneseDate(endDate)}まで、${prefecture}${city}内の対象店舗で${payLabel}決済を行うと、最大${offer}％のポイントが還元されるキャンペーンが実施されます。`}
+        offerDescription={`${formatJapaneseDate(
+          startDate
+        )}から${formatJapaneseDate(
+          endDate
+        )}まで、${prefecture}${city}内の対象店舗で${payLabel}決済を行うと、最大${offer}％のポイントが還元されるキャンペーンが実施されます。`}
         validFrom={startDate}
         validThrough={endDate}
         url={pageUrl}
@@ -104,18 +116,37 @@ export default async function CityPaytypePage({
       <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
         <main className="max-w-[1200px] mx-auto px-4 py-10">
           <h1 className="headline1">
-            {city}の{payLabel}{offer}%還元キャンペーン
+            {city}の{payLabel}
+            {offer}%還元キャンペーン
           </h1>
+
+          {/* ▼ 追加：ヒーロー直下の公開 / 更新日表記 */}
+          {datePublished && (
+            <p className="m-1 text-sm text-right text-gray-800">
+              最終更新日：{formatJapaneseDate(modified)}｜ 公開：
+              {formatJapaneseDate(datePublished)}
+            </p>
+          )}
+
           <CampaignStatusNotice campaign={campaign} />
           <CampaignSummaryCard campaign={campaign} />
           <GenreHeaderNav genres={genres} paytypeLabel={payLabel} />
-          <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
+          <SNSShareButtons
+            url={pageUrl}
+            title={shareTitle}
+            hashtags={shareHashtags}
+          />
 
           <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
             <p>
-              <span className="font-semibold">{prefecture}{city}</span>で
+              <span className="font-semibold">
+                {prefecture}
+                {city}
+              </span>
+              で
               <span className="text-brand-primary font-bold">
-                {formatJapaneseDate(startDate)}～{formatJapaneseDate(endDate)}
+                {formatJapaneseDate(startDate)}～
+                {formatJapaneseDate(endDate)}
               </span>
               まで、{offer}％還元キャッシュレス応援キャンペーンが開催。最大
               {formatNumber(fullpoint)}円分のポイントを獲得できます。
@@ -125,10 +156,13 @@ export default async function CityPaytypePage({
               {city}の{payLabel}還元キャンペーンとは？
             </h2>
             <p>
-              <strong>{prefecture}{city}「{campaigntitle}」</strong> は、
-              対象店舗で{payLabel}を利用すると
-              <span className="text-brand-primary font-bold">{offer}％</span>が
-              戻ってくるお得なキャンペーンです。
+              <strong>
+                {prefecture}
+                {city}「{campaigntitle}」
+              </strong>{" "}
+              は、対象店舗で{payLabel}を利用すると
+              <span className="text-brand-primary font-bold">{offer}％</span>
+              が戻ってくるお得なキャンペーンです。
             </p>
           </section>
 
@@ -147,7 +181,8 @@ export default async function CityPaytypePage({
           {!shopListByGenre ? (
             <>
               <p className="mt-10 text-gray-700 text-base">
-                現時点では対象店舗情報が公表されていません。<br />
+                現時点では対象店舗情報が公表されていません。
+                <br />
                 公表されましたらこのページで紹介いたします。
               </p>
               <SampleShopExample />
@@ -163,7 +198,11 @@ export default async function CityPaytypePage({
           )}
 
           <StoreRegistrationCTA />
-          <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
+          <SNSShareButtons
+            url={pageUrl}
+            title={shareTitle}
+            hashtags={shareHashtags}
+          />
 
           <div className="mt-20">
             <RecommendedCampaigns

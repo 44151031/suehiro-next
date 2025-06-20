@@ -15,6 +15,9 @@ export type Campaign = {
   campaigntitle: string;
   lastModified?: string; // ← ✅ これがないと sitemap.ts に波線が出る
   isActive?: boolean;       // 動的に付加される可能性のあるフラグ
+  notice?: string;
+  datePublished: string; // ✅ 公開日
+  dateModified: string;  // ✅ 最終更新日
 };
 
 // 動的算出値付き型（必要に応じて拡張用途に使用）
