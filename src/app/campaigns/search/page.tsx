@@ -1,4 +1,3 @@
-// /app/search/page.tsx
 'use client';
 
 import { Suspense } from 'react';
@@ -11,7 +10,7 @@ import Link from 'next/link';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 import LayoutShell from '@/components/layout/LayoutShell';
-import { isCampaignActive } from '@/lib/campaignUtils';
+import { getCampaignStatus } from '@/lib/campaignUtils'; // ✅ 統一的に利用
 
 function SearchResultsInner() {
   const searchParams = useSearchParams();
@@ -22,7 +21,7 @@ function SearchResultsInner() {
   const filtered = campaigns.filter(
     (c) =>
       `${c.prefecture}${c.city}`.toLowerCase().includes(keyword) &&
-      isCampaignActive(c.endDate)
+      getCampaignStatus(c.startDate, c.endDate) !== 'ended' // ✅ 判定集約
   );
 
   return (
