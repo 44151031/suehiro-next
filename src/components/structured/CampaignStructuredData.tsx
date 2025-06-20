@@ -17,6 +17,8 @@ type Props = {
   offerRate: number;
   onePayLimit: string;
   fullPayLimit: string;
+  datePublished: string;
+  dateModified: string;
 };
 
 const CampaignStructuredData = ({
@@ -34,6 +36,8 @@ const CampaignStructuredData = ({
   offerRate,
   onePayLimit,
   fullPayLimit,
+  datePublished,
+  dateModified,
 }: Props) => {
   const origin = "https://paycancampaign.com";
 
@@ -71,6 +75,12 @@ const CampaignStructuredData = ({
         "image": {
           "@type": "ImageObject",
           "url": imageUrl
+        },
+        "datePublished": datePublished,
+        "dateModified": dateModified,
+        "offers": {
+          "@type": "Offer",
+          "url": url
         }
       },
       {
@@ -109,7 +119,11 @@ const CampaignStructuredData = ({
         "organizer": {
           "@type": "GovernmentOrganization",
           "name": `${prefecture}${city}`,
-          "url": `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}`
+          "url": `${origin}/campaigns/${prefectureSlug}/${citySlug}`
+        },
+        "performer": {
+          "@type": "Organization",
+          "name": "Payキャン運用事務局"
         },
         "description": offerLimitDescription
       }
