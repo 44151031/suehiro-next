@@ -1,18 +1,15 @@
 import { campaigns } from "@/lib/campaignMaster";
 import { prefectures, prefectureGroups } from "@/lib/prefectures";
 import Link from "next/link";
-import { isNowInCampaignPeriod } from "@/lib/campaignUtils";
+import { getCampaignStatus } from "@/lib/campaignUtils";
 
 export default function PrefectureList() {
-  const now = new Date();
-
-  const hasActiveOrScheduledCampaign = (prefectureSlug: string) => {
-    return campaigns.some(
+  const hasActiveOrScheduledCampaign = (prefectureSlug: string) =>
+    campaigns.some(
       (c) =>
         c.prefectureSlug === prefectureSlug &&
-        (isNowInCampaignPeriod(c.startDate, c.endDate) || new Date(c.startDate) > now)
+        getCampaignStatus(c.startDate, c.endDate) !== "ended"
     );
-  };
 
   return (
     <section className="w-full py-10 bg-[#f8f7f2] text-secondary-foreground">

@@ -8,13 +8,13 @@
 import Link from "next/link";
 import { campaigns } from "@/lib/campaignMaster";
 import { prefectures } from "@/lib/prefectures";
-import { isNowInCampaignPeriod, isCampaignActive } from "@/lib/campaignUtils";
+import { getCampaignStatus } from "@/lib/campaignUtils";
 import CampaignLineCard from "@/components/common/CampaignLineCard";
 
 type Props = {
   prefectureSlug: string;
   citySlug: string;
-  currentPaytype?: string; // ← ✅ ここに `?` を追加
+  currentPaytype?: string;
 };
 
 export function RecommendedCampaigns({ prefectureSlug, citySlug, currentPaytype }: Props) {
@@ -22,7 +22,7 @@ export function RecommendedCampaigns({ prefectureSlug, citySlug, currentPaytype 
     (c) =>
       c.prefectureSlug === prefectureSlug &&
       !(c.citySlug === citySlug && c.paytype === currentPaytype) &&
-      isCampaignActive(c.endDate)
+      getCampaignStatus(c.startDate, c.endDate) !== "ended"
   );
 
   let recommended = [...samePrefCampaigns];
@@ -53,7 +53,7 @@ export function RecommendedCampaigns({ prefectureSlug, citySlug, currentPaytype 
 
       for (const pref of nearbyPrefectures) {
         const extra = campaigns.filter(
-          (c) => c.prefectureSlug === pref.slug && isCampaignActive(c.endDate)
+          (c) => c.prefectureSlug === pref.slug && getCampaignStatus(c.startDate, c.endDate) !== "ended"
         );
 
         for (const c of extra) {
@@ -84,6 +84,8 @@ export function RecommendedCampaigns({ prefectureSlug, citySlug, currentPaytype 
           const paySlug = c.paytype;
           if (!paySlug) return null;
 
+          const isActive = getCampaignStatus(c.startDate, c.endDate) === "active";
+
           return (
             <li key={`${c.prefectureSlug}-${c.citySlug}-${paySlug}`}>
               <Link
@@ -99,7 +101,7 @@ export function RecommendedCampaigns({ prefectureSlug, citySlug, currentPaytype 
                   fullpoint={c.fullpoint}
                   onepoint={c.onepoint}
                   paytype={c.paytype}
-                  isActive={isNowInCampaignPeriod(c.startDate, c.endDate)}
+                  isActive={isActive}
                   showPrefecture={true}
                 />
               </Link>

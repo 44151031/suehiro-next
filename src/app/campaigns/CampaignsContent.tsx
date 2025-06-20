@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { campaigns } from "@/lib/campaignMaster";
-import { isCampaignActive, isNowInCampaignPeriod } from "@/lib/campaignUtils";
+import { getCampaignStatus } from "@/lib/campaignUtils";
 import { prefectureGroups } from "@/lib/prefectures";
 import CampaignGroupSection from "@/components/sections/campaign/RegionCampaignSection";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
@@ -16,12 +16,13 @@ export default function CampaignsContent() {
   const [showOnlyOver10000Yen, setShowOnlyOver10000Yen] = useState(false);
 
   // ✅ 終了していないキャンペーン（開催中 + 予定）
-  const notEndedCampaigns = campaigns.filter((c) =>
-    isCampaignActive(c.endDate)
+  const notEndedCampaigns = campaigns.filter(
+    (c) => getCampaignStatus(c.startDate, c.endDate) !== "ended"
   );
 
   const filtered = notEndedCampaigns.filter((c) => {
-    if (showOnlyActive && !isNowInCampaignPeriod(c.startDate, c.endDate)) return false;
+    const status = getCampaignStatus(c.startDate, c.endDate);
+    if (showOnlyActive && status !== "active") return false;
     if (showOnlyOver30Percent && c.offer < 30) return false;
     if (showOnlyOver10000Yen && Number(c.fullpoint) < 10000) return false;
     return true;
@@ -114,7 +115,8 @@ export default function CampaignsContent() {
             />
           ))}
         </div>
-        {/* ✅ 次回キャンペーン待ち一覧リンク（1箇所のみ） */}
+
+        {/* ✅ 次回キャンペーン待ち一覧リンク */}
         <div className="mt-10 text-right">
           <Link
             href="/campaigns/archive"
@@ -123,6 +125,7 @@ export default function CampaignsContent() {
             →次回キャンペーン待ち一覧
           </Link>
         </div>
+
         {/* SNSシェア */}
         <div className="mt-4 mb-6">
           <SNSShareButtons

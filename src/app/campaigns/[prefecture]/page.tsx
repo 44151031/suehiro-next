@@ -3,8 +3,9 @@ import { Metadata } from "next";
 import { campaigns } from "@/lib/campaignMaster";
 import {
   formatJapaneseDate,
-  isNowInCampaignPeriod,
-  isCampaignActive,
+  getCampaignStatus,
+  getActiveCampaignsByPrefecture,
+  CampaignStatus,
 } from "@/lib/campaignUtils";
 import CampaignTotalPointSummary from "@/components/common/CampaignTotalPointSummary";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
@@ -16,7 +17,7 @@ import { generateShareContent } from "@/lib/generateShareContent";
 import { SNSShareButtons } from "@/components/common/SNSShareButtons";
 import Link from "next/link";
 import CampaignLineCard from "@/components/common/CampaignLineCard";
-import { prefectures } from "@/lib/prefectures"; // ✅ group情報取得
+import { prefectures } from "@/lib/prefectures";
 
 type Props = {
   params: { prefecture: string };
@@ -26,11 +27,7 @@ export function generateMetadata({ params }: Props) {
   return getPrefectureMetadata(params.prefecture);
 }
 
-export default function PrefecturePage({
-  params,
-}: {
-  params: { prefecture: string };
-}) {
+export default function PrefecturePage({ params }: Props) {
   const { prefecture } = params;
 
   const list = campaigns.filter((c) => c.prefectureSlug === prefecture);
@@ -38,9 +35,10 @@ export default function PrefecturePage({
 
   const prefectureName = list[0].prefecture;
 
-  const activeList = list.filter((c) => isCampaignActive(c.endDate));
-  const active = activeList.filter((c) =>
-    isNowInCampaignPeriod(c.startDate, c.endDate)
+  // ✅ 終了していないキャンペーン（開催中 or 予定）
+  const activeList = getActiveCampaignsByPrefecture(prefecture, campaigns);
+  const active = activeList.filter(
+    (c) => getCampaignStatus(c.startDate, c.endDate) === "active"
   );
   const upcoming = activeList.length - active.length;
 
@@ -65,18 +63,15 @@ export default function PrefecturePage({
 
       <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
         <div className="max-w-[1200px] mx-auto px-4 py-10">
-          {/* タイトル */}
           <h1 className="headline1">
             {prefectureName}のキャッシュレスキャンペーン一覧
           </h1>
 
-          {/* 合計ポイント */}
           <CampaignTotalPointSummary
             campaigns={activeList}
             areaLabel={prefectureName}
           />
 
-          {/* 概要文 */}
           <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
             {activeList.length > 0 ? (
               active.length === 0 && upcoming > 0 ? (
@@ -105,14 +100,12 @@ export default function PrefecturePage({
             )}
           </div>
 
-          {/* カード一覧 */}
           {activeList.length > 0 && (
             <div className="prefecture-page-card-container">
               <CampaignCardList campaigns={activeList} />
             </div>
           )}
 
-          {/* 終了済みしかないときにレコメンド表示 */}
           {activeList.length === 0 && (
             <RecommendedCampaigns
               prefectureSlug={prefecture}
@@ -121,7 +114,6 @@ export default function PrefecturePage({
             />
           )}
 
-          {/* ✅ SNSシェアボタン */}
           <div className="mb-6">
             <SNSShareButtons
               title={shareTitle}
@@ -130,7 +122,7 @@ export default function PrefecturePage({
             />
           </div>
 
-          {/* ✅ 同じエリアの他県キャンペーン */}
+          {/* 同一エリアの他県キャンペーン */}
           {(() => {
             const currentPref = prefectures.find((p) => p.slug === prefecture);
             if (!currentPref) return null;
@@ -140,15 +132,14 @@ export default function PrefecturePage({
               .map((p) => p.slug);
 
             const sameGroupCampaigns = campaigns
-              .filter(
-                (c) =>
-                  sameGroupPrefectures.includes(c.prefectureSlug) &&
-                  isCampaignActive(c.endDate)
+              .filter((c) =>
+                sameGroupPrefectures.includes(c.prefectureSlug) &&
+                getCampaignStatus(c.startDate, c.endDate) !== "ended"
               )
               .sort((a, b) => {
-                const aActive = isNowInCampaignPeriod(a.startDate, a.endDate);
-                const bActive = isNowInCampaignPeriod(b.startDate, b.endDate);
-                return Number(bActive) - Number(aActive);
+                const aStatus = getCampaignStatus(a.startDate, a.endDate);
+                const bStatus = getCampaignStatus(b.startDate, b.endDate);
+                return (bStatus === "active" ? 1 : 0) - (aStatus === "active" ? 1 : 0);
               });
 
             if (sameGroupCampaigns.length === 0) return null;
@@ -159,37 +150,32 @@ export default function PrefecturePage({
                   {currentPref.group}エリアの他県のキャンペーンもチェック！
                 </h2>
                 <ul className="grid grid-cols-1 xl:grid-cols-2 gap-4">
-                  {sameGroupCampaigns.slice(0, 6).map((c) => {
-                    if (!c.paytype) return null;
-
-                    return (
-                      <li key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}>
-                        <Link
-                          href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`}
-                          className="block"
-                        >
-                          <CampaignLineCard
-                            prefecture={c.prefecture}
-                            city={c.city}
-                            startDate={c.startDate}
-                            endDate={c.endDate}
-                            offer={c.offer}
-                            fullpoint={c.fullpoint}
-                            onepoint={c.onepoint}
-                            paytype={c.paytype}
-                            isActive={isNowInCampaignPeriod(c.startDate, c.endDate)}
-                            showPrefecture={true}
-                          />
-                        </Link>
-                      </li>
-                    );
-                  })}
+                  {sameGroupCampaigns.slice(0, 6).map((c) => (
+                    <li key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}>
+                      <Link
+                        href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`}
+                        className="block"
+                      >
+                        <CampaignLineCard
+                          prefecture={c.prefecture}
+                          city={c.city}
+                          startDate={c.startDate}
+                          endDate={c.endDate}
+                          offer={c.offer}
+                          fullpoint={c.fullpoint}
+                          onepoint={c.onepoint}
+                          paytype={c.paytype}
+                          isActive={getCampaignStatus(c.startDate, c.endDate) === "active"}
+                          showPrefecture={true}
+                        />
+                      </Link>
+                    </li>
+                  ))}
                 </ul>
               </section>
             );
           })()}
 
-          {/* 戻るボタン */}
           <BackNavigationButtons
             prefecture={prefectureName}
             prefectureSlug={prefecture}

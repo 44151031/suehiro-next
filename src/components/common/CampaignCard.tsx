@@ -1,4 +1,4 @@
-import { formatJapaneseDate, isNowInCampaignPeriod } from "@/lib/campaignUtils";
+import { formatJapaneseDate, getCampaignStatus } from "@/lib/campaignUtils";
 import { PayTypeId, PayTypes } from "@/lib/payType";
 
 type CampaignCardProps = {
@@ -23,11 +23,12 @@ export default function CampaignCard({
   paytype,
 }: CampaignCardProps) {
   const hasDate = startDate && endDate;
-  const isActive = hasDate ? isNowInCampaignPeriod(startDate, endDate) : false;
+  const status = hasDate ? getCampaignStatus(startDate, endDate) : null;
+  const isActive = status === "active";
 
   const paytypeData = paytype ? PayTypes[paytype] : undefined;
   const paytypeLabel = paytypeData?.label ?? "その他";
-  const paytypeColor = paytypeData?.badge.bg ?? "#333"; // デフォルトカラー
+  const paytypeColor = paytypeData?.badge.bg ?? "#333";
 
   return (
     <div className="relative w-[90%] sm:w-full max-w-[320px] px-4 py-6 border border-border rounded-2xl bg-white text-card-foreground shadow-lg hover:shadow-xl transition duration-300 mx-auto text-[clamp(0.85rem,2vw,1rem)]">
@@ -60,8 +61,8 @@ export default function CampaignCard({
         <p className="text-sm text-neutral-700 leading-snug">{period}</p>
       ) : hasDate ? (
         <p className="text-sm text-neutral-700 leading-snug">
-          {formatJapaneseDate(startDate, "から", { omitYear: true })}〜
-          {formatJapaneseDate(endDate, "まで", { omitYear: true })}
+          {formatJapaneseDate(startDate, { omitYear: true })}〜
+          {formatJapaneseDate(endDate, { omitYear: true })}
         </p>
       ) : null}
 

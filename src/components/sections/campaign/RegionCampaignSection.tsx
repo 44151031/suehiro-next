@@ -4,10 +4,7 @@ import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 import { campaigns as allCampaigns } from "@/lib/campaignMaster";
 import { prefectures } from "@/lib/prefectures";
-import {
-  isCampaignActive,
-  isNowInCampaignPeriod,
-} from "@/lib/campaignUtils";
+import { getCampaignStatus } from "@/lib/campaignUtils";
 import CampaignLineCard from "@/components/common/CampaignLineCard";
 import type { Campaign } from "@/types/campaign";
 
@@ -27,15 +24,18 @@ export default function CampaignGroupSection({
   overrideCampaigns,
 }: Props) {
   const groupPrefectures = prefectures.filter((p) => p.group === groupName);
-  const campaigns = overrideCampaigns ?? allCampaigns; // ✅ 上書きされていればそれを使う
+  const campaigns = overrideCampaigns ?? allCampaigns;
 
   const hasVisibleCampaigns = groupPrefectures.some((pref) =>
     campaigns.some((c) => {
       if (c.prefectureSlug !== pref.slug) return false;
-      if (!overrideCampaigns && !isCampaignActive(c.endDate)) return false; // ✅ アーカイブ時はこの除外をスキップ
-      if (showOnlyActive && !isNowInCampaignPeriod(c.startDate, c.endDate)) return false;
+
+      const status = getCampaignStatus(c.startDate, c.endDate);
+      if (!overrideCampaigns && status === "ended") return false;
+      if (showOnlyActive && status !== "active") return false;
       if (showOnlyOver30Percent && c.offer < 30) return false;
       if (showOnlyOver10000Yen && Number(c.fullpoint) < 10000) return false;
+
       return true;
     })
   );
@@ -52,10 +52,13 @@ export default function CampaignGroupSection({
         {groupPrefectures.map((pref) => {
           const filtered = campaigns.filter((c) => {
             if (c.prefectureSlug !== pref.slug) return false;
-            if (!overrideCampaigns && !isCampaignActive(c.endDate)) return false; // ✅ 同様にスキップ制御
-            if (showOnlyActive && !isNowInCampaignPeriod(c.startDate, c.endDate)) return false;
+
+            const status = getCampaignStatus(c.startDate, c.endDate);
+            if (!overrideCampaigns && status === "ended") return false;
+            if (showOnlyActive && status !== "active") return false;
             if (showOnlyOver30Percent && c.offer < 30) return false;
             if (showOnlyOver10000Yen && Number(c.fullpoint) < 10000) return false;
+
             return true;
           });
 
@@ -71,25 +74,30 @@ export default function CampaignGroupSection({
                 <ArrowRight className="w-4 h-4" />
               </Link>
 
-              {filtered.map((c) => (
-                <Link
-                  key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}
-                  href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`}
-                  className="block"
-                >
-                  <CampaignLineCard
-                    prefecture={c.prefecture}
-                    city={c.city}
-                    offer={c.offer}
-                    startDate={c.startDate}
-                    endDate={c.endDate}
-                    onepoint={c.onepoint}
-                    fullpoint={c.fullpoint}
-                    isActive={isNowInCampaignPeriod(c.startDate, c.endDate)}
-                    paytype={c.paytype}
-                  />
-                </Link>
-              ))}
+              {filtered.map((c) => {
+                const status = getCampaignStatus(c.startDate, c.endDate);
+                const isActive = status === "active";
+
+                return (
+                  <Link
+                    key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}
+                    href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`}
+                    className="block"
+                  >
+                    <CampaignLineCard
+                      prefecture={c.prefecture}
+                      city={c.city}
+                      offer={c.offer}
+                      startDate={c.startDate}
+                      endDate={c.endDate}
+                      onepoint={c.onepoint}
+                      fullpoint={c.fullpoint}
+                      isActive={isActive}
+                      paytype={c.paytype}
+                    />
+                  </Link>
+                );
+              })}
             </div>
           );
         })}

@@ -1,4 +1,4 @@
-'use client';
+"use client";
 
 import {
   Dialog,
@@ -12,7 +12,7 @@ import { usePathname, useRouter } from "next/navigation";
 import { useState } from "react";
 import { campaigns } from "@/lib/campaignMaster";
 import { prefectures, prefectureGroups } from "@/lib/prefectures";
-import { isNowInCampaignPeriod } from "@/lib/campaignUtils";
+import { getCampaignStatus } from "@/lib/campaignUtils";
 
 export function PrefectureSelector() {
   const pathname = usePathname();
@@ -23,7 +23,6 @@ export function PrefectureSelector() {
   const segments = pathname.split("/");
   const [_, __, prefSlug, citySlug, paytypeSlug] = segments;
 
-  const isPrefPage = !!prefSlug && !citySlug;
   const isCityPage = !!prefSlug && !!citySlug && !paytypeSlug;
   const isCityPaytypePage = !!prefSlug && !!citySlug && !!paytypeSlug;
 
@@ -39,15 +38,12 @@ export function PrefectureSelector() {
       : `${currentCampaign.prefecture}｜エリア変更`
     : "都道府県を選択してください";
 
-  // ✅ 「現在開催中または開催予定」のキャンペーンが存在する都道府県だけを対象
-  const now = new Date();
+  // ✅ 終了していないキャンペーンの都道府県スラッグ一覧
   const activePrefectureSlugs = Array.from(
     new Set(
       campaigns
         .filter(
-          (c) =>
-            isNowInCampaignPeriod(c.startDate, c.endDate) ||
-            new Date(c.startDate) > now
+          (c) => getCampaignStatus(c.startDate, c.endDate) !== "ended"
         )
         .map((c) => c.prefectureSlug)
     )
