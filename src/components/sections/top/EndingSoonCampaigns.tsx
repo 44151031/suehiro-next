@@ -2,20 +2,20 @@
 
 import { campaigns } from "@/lib/campaignMaster";
 import { isEndingSoon } from "@/lib/campaignUtils";
-import { useFilteredAndSortedCampaigns } from "@/hooks/useFilteredAndSortedCampaigns";
 import ScopedCampaignSlider from "@/components/common/CampaignSlider";
 import Button from "@/components/ui/button/button";
 
 export default function EndingSoonCampaigns() {
-  const endingSoon = campaigns.filter((c) => isEndingSoon(c.endDate));
-  const sorted = useFilteredAndSortedCampaigns(endingSoon);
+  const endingSoon = campaigns
+    .filter((c) => isEndingSoon(c.endDate))
+    .sort((a, b) => new Date(a.endDate).getTime() - new Date(b.endDate).getTime()); // ← ここでソート
 
-  if (!sorted || sorted.length === 0) return null;
+  if (endingSoon.length === 0) return null;
 
   return (
     <>
       <ScopedCampaignSlider
-        campaigns={sorted}
+        campaigns={endingSoon}
         title="まもなく終了のキャンペーン"
         bgColor="#eeeeee"
       />
