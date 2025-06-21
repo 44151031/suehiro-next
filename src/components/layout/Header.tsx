@@ -48,7 +48,7 @@ export default function Header() {
             <span className="text-xs sm:text-sm text-neutral-600 leading-tight">
               PayPay・au PAY・楽天ペイ・d払い還元体験
             </span>
-            <span className="flex items-center gap-2 flex-nowrap text-2xl sm:text-3xl font-extrabold tracking-tight text-gray-900 leading-tight">
+            <span className="flex items-center gap-1 flex-nowrap text-2xl sm:text-3xl font-extrabold tracking-tight text-gray-900 leading-tight">
               <Image
                 src="/logo.png"
                 alt="Payキャンロゴ"
@@ -56,10 +56,8 @@ export default function Header() {
                 height={32}
                 className="w-8 h-8 shrink-0 hidden sm:block"
               />
-              <span className="text-red-600">Pay</span>
-              <span className="text-xl text-gray-800 font-medium ml-1 align-middle">キャン</span>
-              <span className="text-sm text-gray-600 font-medium align-middle hidden sm:inline">
-                （ペイキャン）
+              <span className="text-red-600">Pay</span><span className="text-xl text-gray-800 font-medium align-middle">キャン</span>
+              <span className="text-sm text-gray-600 font-medium align-middle hidden sm:inline">(ペイキャン)
               </span>
             </span>
           </Link>
