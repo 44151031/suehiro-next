@@ -72,9 +72,10 @@ export function CampaignOverviewTable({ campaign }: { campaign: Campaign }) {
             value={
               <a
                 href={officialUrl}
-                className="text-gray-500 underline break-words"
+                className="text-gray-500 underline overflow-hidden whitespace-nowrap truncate block"
                 target="_blank"
                 rel="noopener noreferrer nofollow"
+                title={officialUrl}
               >
                 {officialUrl}
               </a>
