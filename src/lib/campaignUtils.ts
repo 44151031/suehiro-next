@@ -37,13 +37,17 @@ export type CampaignStatus = "scheduled" | "active" | "ended";
  */
 export function getCampaignStatus(start: string, end: string): CampaignStatus {
   const now = new Date();
-  const startDate = new Date(start);
-  const endDate = new Date(end);
-  endDate.setHours(23, 59, 59, 999); // 終了日は23:59:59まで有効
 
-  if (now < startDate) return "scheduled";
-  if (now > endDate) return "ended";
-  return "active";
+  const startDate = new Date(`${start}T00:00:00`);
+  const endDate = new Date(`${end}T23:59:59`);
+
+  if (now < startDate) {
+    return "scheduled";
+  } else if (now > endDate) {
+    return "ended";
+  } else {
+    return "active";
+  }
 }
 
 /**

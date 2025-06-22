@@ -31,3 +31,22 @@ export type MetadataContext = {
   prefecture?: string;
   city?: string;
 };
+
+export type CampaignStructuredDataProps = {
+  prefecture: string;
+  prefectureSlug: string;
+  city: string;
+  citySlug: string;
+  paytype: string;
+  headline: string;
+  articleDescription: string;
+  offerDescription: string;
+  validFrom: string;
+  validThrough: string;
+  url: string;
+  offerRate: number;
+  onePayLimit: string;
+  fullPayLimit: string;
+  datePublished: string;
+  dateModified: string;
+};

@@ -5,6 +5,7 @@ import Link from "next/link";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import CampaignCard from "@/components/common/CampaignCard";
 import type { Campaign } from "@/types/campaign";
+import { getCampaignStatus } from "@/lib/campaignUtils";
 
 type Props = {
   campaigns: Campaign[];
@@ -52,7 +53,10 @@ export default function ScopedCampaignSlider({
     scrollRef.current?.scrollBy({ left: amount, behavior: "smooth" });
   };
 
-  const activeCampaigns = campaigns.filter((c) => new Date(c.endDate) >= new Date());
+  const visibleCampaigns = campaigns.filter((c) => {
+    const status = getCampaignStatus(c.startDate, c.endDate);
+    return status === "active" || status === "scheduled";
+  });
 
   return (
     <section className="w-full py-6 sm:py-10 relative mt-6" style={{ backgroundColor: bgColor }}>
@@ -84,8 +88,8 @@ export default function ScopedCampaignSlider({
           >
             <div className="shrink-0 w-2 sm:w-4 md:w-6 snap-start" />
 
-            {activeCampaigns.length > 0 ? (
-              activeCampaigns.map((c) => (
+            {visibleCampaigns.length > 0 ? (
+              visibleCampaigns.map((c) => (
                 <Link
                   key={`${c.prefectureSlug}-${c.citySlug}-${c.paytype}`}
                   href={`/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`}

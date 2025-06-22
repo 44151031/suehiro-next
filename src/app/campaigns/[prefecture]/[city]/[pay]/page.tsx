@@ -111,6 +111,8 @@ export default async function CityPaytypePage({
         offerRate={Number(offer)}
         onePayLimit={String(onepoint)}
         fullPayLimit={String(fullpoint)}
+        datePublished={datePublished}
+        dateModified={modified}
       />
 
       <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
