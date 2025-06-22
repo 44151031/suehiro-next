@@ -1,5 +1,6 @@
 import { Campaign } from "@/types/campaign";
 import { sumFullpoint } from "@/lib/campaignCalculations";
+import { getCampaignStatus } from "@/lib/campaignUtils";
 import Link from "next/link";
 
 type Props = {
@@ -10,14 +11,12 @@ type Props = {
 const formatNumber = (num: number) => num.toLocaleString("ja-JP");
 
 export default function CampaignTotalPointSummary({ campaigns, areaLabel }: Props) {
-  const now = new Date();
-
   const activeCampaigns = campaigns.filter(
-    (c) => new Date(c.startDate) <= now && new Date(c.endDate) >= now
+    (c) => getCampaignStatus(c.startDate, c.endDate) === "active"
   );
 
   const scheduledCampaigns = campaigns.filter(
-    (c) => new Date(c.startDate) > now
+    (c) => getCampaignStatus(c.startDate, c.endDate) === "scheduled"
   );
 
   const totalFullpoint = sumFullpoint(activeCampaigns);
