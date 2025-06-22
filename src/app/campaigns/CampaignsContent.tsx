@@ -65,6 +65,12 @@ export default function CampaignsContent() {
             </span>
             <span className="ml-2">d払い</span>
           </div>
+          <div className="flex items-center">
+            <span className="ml-1 text-white text-[11px] font-bold rounded-full w-5 h-5 flex items-center justify-center" style={{ backgroundColor: "#524fa5" }}>
+              イ
+            </span>
+            <span className="ml-2">AEON Pay</span>
+          </div>
         </div>
 
         {/* フィルターセクション */}

@@ -16,6 +16,10 @@ export const PayTypes = {
     label: "d払い",
     badge: { label: "d", bg: "#b11f27" },
   },
+  aeonpay: {
+    label: "AEON Pay",
+    badge: { label: "イ", bg: "#524fa5" },
+  },
 } as const;
 
 // ✅ paytype に使う型（"paypay" | "aupay" | ...）
