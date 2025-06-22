@@ -18,6 +18,7 @@ export function CampaignOverviewTable({ campaign }: { campaign: Campaign }) {
     onepoint,
     fullpoint,
     paytype,
+    officialUrl, // ✅ 追加
   } = campaign;
 
   const onepay = calculateOnePay(Number(onepoint), offer);
@@ -32,7 +33,7 @@ export function CampaignOverviewTable({ campaign }: { campaign: Campaign }) {
         キャンペーン概要
       </h2>
       <div className="grid gap-y-4 text-sm sm:text-base">
-        <Row label="対象エリア" value={`${prefecture}${city}の対象店舗`} />
+        <Row label="対象" value={`${prefecture}${city}の対象店舗での${payLabel}支払い`} />
         <Row
           label="期間"
           value={`${formatJapaneseDate(startDate)} ～ ${formatJapaneseDate(endDate)}`}
@@ -65,6 +66,21 @@ export function CampaignOverviewTable({ campaign }: { campaign: Campaign }) {
           }
           value={`1回 ${formatNumber(onepay)}円 × ${paytime}回 = ${formatNumber(fullpay)}円`}
         />
+        {officialUrl && (
+          <Row
+            label="自治体公式ページ"
+            value={
+              <a
+                href={officialUrl}
+                className="text-gray-500 underline break-words"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {officialUrl}
+              </a>
+            }
+          />
+        )}
       </div>
     </section>
   );
@@ -75,7 +91,7 @@ function Row({
   value,
 }: {
   label: string | React.ReactNode;
-  value: string;
+  value: string | React.ReactNode;
 }) {
   return (
     <div className="flex items-start gap-4 border-b border-gray-100 pb-2">
