@@ -3,7 +3,6 @@ import { PayTypes } from "@/lib/payType";
 import { calculateOnePay, calculateFullPay, calculatePayTime } from "@/lib/campaignCalculations";
 import type { Campaign } from "@/types/campaign";
 
-// ✅ カンマ付き数値
 function formatNumber(val: number | string) {
   return Number(val).toLocaleString("ja-JP");
 }
@@ -18,13 +17,12 @@ export function CampaignOverviewTable({ campaign }: { campaign: Campaign }) {
     onepoint,
     fullpoint,
     paytype,
-    officialUrl, // ✅ 追加
+    officialUrl,
   } = campaign;
 
   const onepay = calculateOnePay(Number(onepoint), offer);
   const fullpay = calculateFullPay(Number(fullpoint), offer);
   const paytime = calculatePayTime(fullpay, onepay);
-
   const payLabel = PayTypes[paytype].label;
 
   return (
@@ -32,7 +30,7 @@ export function CampaignOverviewTable({ campaign }: { campaign: Campaign }) {
       <h2 className="text-lg sm:text-xl font-bold text-gray-900 mb-4">
         キャンペーン概要
       </h2>
-      <div className="grid gap-y-4 text-sm sm:text-base">
+      <dl className="grid gap-y-4 text-sm sm:text-base">
         <Row label="対象" value={`${prefecture}${city}の対象店舗での${payLabel}支払い`} />
         <Row
           label="期間"
@@ -70,19 +68,21 @@ export function CampaignOverviewTable({ campaign }: { campaign: Campaign }) {
           <Row
             label="自治体公式ページ"
             value={
-              <a
-                href={officialUrl}
-                className="text-gray-500 underline overflow-hidden whitespace-nowrap truncate block"
-                target="_blank"
-                rel="noopener noreferrer nofollow"
-                title={officialUrl}
-              >
-                {officialUrl}
-              </a>
+              <div className="max-w-full">
+                <a
+                  href={officialUrl}
+                  className="inline-block max-w-full text-gray-500 underline break-all whitespace-normal"
+                  target="_blank"
+                  rel="noopener noreferrer nofollow"
+                  title={officialUrl}
+                >
+                  {officialUrl}
+                </a>
+              </div>
             }
           />
         )}
-      </div>
+      </dl>
     </section>
   );
 }
@@ -95,11 +95,11 @@ function Row({
   value: string | React.ReactNode;
 }) {
   return (
-    <div className="flex items-start gap-4 border-b border-gray-100 pb-2">
+    <div className="flex items-start gap-4 border-b border-gray-100 pb-2 last:border-b-0">
       <dt className="text-gray-600 font-medium w-1/3 sm:min-w-[13rem] whitespace-nowrap break-keep">
         {label}
       </dt>
-      <dd className="text-gray-900 font-semibold text-left w-2/3 break-words">
+      <dd className="text-gray-900 font-semibold text-left w-2/3 break-words break-all max-w-full">
         {value}
       </dd>
     </div>
