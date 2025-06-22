@@ -37,7 +37,7 @@ export default function ShopList({ genre, shops }: Props) {
     setIsClient(true); // ✅ クライアントマウント後に切り替え
   }, []);
 
-  const threshold = 6;
+  const threshold = 12;
   const showToggle = shops.length > threshold;
   const visibleShops =
     isClient && !expanded ? shops.slice(0, threshold) : shops;
