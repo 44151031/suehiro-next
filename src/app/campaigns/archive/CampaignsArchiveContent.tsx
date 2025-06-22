@@ -5,8 +5,8 @@ import { filterCampaignsByStatus } from "@/lib/campaignUtils";
 import { prefectureGroups } from "@/lib/prefectures";
 import CampaignGroupSection from "@/components/sections/campaign/RegionCampaignSection";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
-import CampaignTotalPointSummary from "@/components/common/CampaignTotalPointSummary";
 import { SNSShareButtons } from "@/components/common/SNSShareButtons";
+import Link from "next/link";
 
 export default function CampaignsArchiveContent() {
   const endedCampaigns = filterCampaignsByStatus(campaigns, "ended");
@@ -19,6 +19,16 @@ export default function CampaignsArchiveContent() {
           現在は終了していますが、今後同じ自治体でキャンペーンが開催される可能性があります。これまでの傾向や内容を参考に、次回のチャンスを見逃さないようにこのページはご活用ください。
         </p>
 
+
+<div className="mt-6 mb-5 bg-white border border-neutral-300 rounded-xl shadow-sm px-6 py-4">
+        <p className="text-base sm:text-lg font-medium text-neutral-500 leading-snug">
+          現在、開催中・開催予定のキャンペーンを確認したい方は
+          <Link href="/campaigns" className="text-blue-600 ml-1 hover:underline">
+            全国のキャンペーン一覧
+          </Link>
+          をご覧ください。
+        </p>
+</div>
         {/* ブランドアイコン省略（見た目は変更なし） */}
 
         <div className="space-y-12">
