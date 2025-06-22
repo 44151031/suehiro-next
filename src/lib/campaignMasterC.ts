@@ -1,3 +1,4 @@
+// src/lib/campaignMasterC.ts
 import type { Campaign } from "@/types/campaign";
 
 export const campaignsC: Campaign[] = [
@@ -37,6 +38,4 @@ export const campaignsC: Campaign[] = [
   { paytype: "paypay", prefectureSlug: "kumamoto", citySlug: "nagasu", prefecture: "熊本県", city: "長洲市", offer: 20, startDate: "2025-03-01", endDate: "2025-03-31", onepoint: "1000", fullpoint: "5000", campaigntitle: "第4弾 長洲町のお店を応援しよう！対象店舗で最大20％戻ってくるキャンペーン", notice: "", datePublished: "2025-01-30", dateModified: "2025-03-31" },
   { paytype: "paypay", prefectureSlug: "oita", citySlug: "kusu", prefecture: "大分県", city: "玖珠町", offer: 20, startDate: "2024-02-01", endDate: "2024-02-29", onepoint: "1000", fullpoint: "3000", campaigntitle: "第2弾　玖珠町のお店でお得にお買い物！最大20％戻ってくる喜屋武ぺーン", notice: "", datePublished: "2024-01-02", dateModified: "2024-02-29" },
   { paytype: "paypay", prefectureSlug: "miyazaki", citySlug: "miyakonojo", prefecture: "宮崎県", city: "都城市", offer: 20, startDate: "2024-08-01", endDate: "2024-08-31", onepoint: "1000", fullpoint: "2000", campaigntitle: "中心市街地の対象店舗で最大20％ポイント付与！都城商工会議所まちなか回遊キャンペーン第3弾", notice: "", datePublished: "2024-07-02", dateModified: "2024-08-31" },
- 
-
 ];

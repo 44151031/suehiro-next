@@ -1,8 +1,6 @@
 import type { Campaign } from "@/types/campaign";
 
 export const campaignsA: Campaign[] = [
-
-
   { paytype: "paypay", prefectureSlug: "iwate", citySlug: "oshu", prefecture: "岩手県", city: "奥州市", offer: 20, startDate: "2025-06-21", endDate: "2025-07-31", onepoint: "5000", fullpoint: "10000", campaigntitle: "物価高騰に負けるな奥州！～対象店舗でPayPayを利用すると最大20％が戻ってくるキャンペーン～", notice: "", datePublished: "2025-05-22", dateModified: "2025-06-20" },
   { paytype: "paypay", prefectureSlug: "iwate", citySlug: "kanegasaki", prefecture: "岩手県", city: "金ケ崎町", offer: 20, startDate: "2025-07-01", endDate: "2025-07-21", onepoint: "5000", fullpoint: "10000", campaigntitle: "第4弾がんばれ金ケ崎！対象のお店で最大20％戻ってくるキャンペーン", notice: "", datePublished: "2025-06-01", dateModified: "2025-07-21" },
   { paytype: "paypay", prefectureSlug: "iwate", citySlug: "hirono", prefecture: "岩手県", city: "洋野町", offer: 20, startDate: "2025-07-01", endDate: "2025-07-31", onepoint: "2000", fullpoint: "5000", campaigntitle: "キャッシュレスで得しよう！ひろのスマイル還元キャンペーン", notice: "", datePublished: "2025-06-01", dateModified: "2025-06-20" },
@@ -51,6 +49,4 @@ export const campaignsA: Campaign[] = [
   { paytype: "aupay", prefectureSlug: "chiba", citySlug: "sodegaura", prefecture: "千葉県", city: "袖ケ浦市", offer: 20, startDate: "2025-07-01", endDate: "2025-07-31", onepoint: "1000", fullpoint: "3000", campaigntitle: "第3弾 キャッシュレスで最大20％戻ってくる！そでがうら夏の買物大作戦！", notice: "", datePublished: "2025-06-01", dateModified: "2025-06-20" },
   { paytype: "rakutenpay", prefectureSlug: "chiba", citySlug: "sodegaura", prefecture: "千葉県", city: "袖ケ浦市", offer: 20, startDate: "2025-07-01", endDate: "2025-07-31", onepoint: "1000", fullpoint: "3000", campaigntitle: "第3弾 キャッシュレスで最大20％戻ってくる！そでがうら夏の買物大作戦！", notice: "", datePublished: "2025-06-01", dateModified: "2025-06-20" },
   { paytype: "dbarai", prefectureSlug: "chiba", citySlug: "sodegaura", prefecture: "千葉県", city: "袖ケ浦市", offer: 20, startDate: "2025-07-01", endDate: "2025-07-31", onepoint: "1000", fullpoint: "3000", campaigntitle: "第3弾 キャッシュレスで最大20％戻ってくる！そでがうら夏の買物大作戦！", notice: "", datePublished: "2025-06-01", dateModified: "2025-06-20" },
-
-
 ];
