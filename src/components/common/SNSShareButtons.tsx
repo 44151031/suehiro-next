@@ -40,7 +40,9 @@ export function SNSShareButtons({ url, title, hashtags = [] }: Props) {
 
   const encodedUrl = encodeURIComponent(url);
   const encodedTitle = encodeURIComponent(title);
-  const encodedHashtags = encodeURIComponent(hashtags.join(","));
+  // ✅ スペースを除去したハッシュタグを生成（#auPayなど）
+  const cleanedHashtags = hashtags.map((tag) => tag.replace(/\s+/g, ""));
+  const encodedHashtags = encodeURIComponent(cleanedHashtags.join(","));
 
   return (
     <div className="mt-6 flex justify-center flex-wrap gap-2">
