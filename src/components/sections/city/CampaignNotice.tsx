@@ -31,15 +31,14 @@ export default function CampaignNotice({ campaign }: Props) {
           ご注意点（{campaign.prefecture}{campaign.city}の{payLabel}還元キャンペーン対象店舗一覧）
         </h2>
       </div>
-      <ul className="list-disc list-inside text-gray-700 text-sm space-y-2">
-        <li>キャンペーン期間は{formattedStart}から{formattedEnd}までです。</li>
-        <li>本ページでは最新の情報が反映されていない場合があります。また掲載されていない店舗もあります。</li>
-        <li>店舗様の諸事情により、掲載内容と実際の利用状況が相違している場合があります。</li>
-        <li>
-          本キャンペーンを確実に利用するためにも、
-          <span className="font-medium text-gray-800">入店時に店舗様へご希望の決済方法で支払いが可能かどうかご確認ください。</span>
-        </li>
-      </ul>
+<ul className="list-disc list-inside text-gray-700 text-sm space-y-2">
+  <li>キャンペーン期間は{formattedStart}から{formattedEnd}までです。</li>
+  <li>本ページでは最新の情報が反映されていない場合があります。また店舗様の事情により、掲載内容と実際の状況が異なる場合があります。</li>
+  <li>取引に<span className="font-medium text-gray-800">タバコ</span>の購入が含まれる場合は当該取引へのキャンペーンの適用が取り消される場合があります。</li>
+  <li>決済方法・対象可否などは、必ず<span className="font-medium text-gray-800">ご利用前に店舗様へ直接ご確認ください。</span></li>
+  <li className="text-xs text-gray-500">キャンペーンの適用条件・還元内容は各公式ページの記載が優先されます。</li>
+  <li className="text-xs text-gray-500">本サイトは情報整理であり、公式情報とは異なる場合があります。</li>
+</ul>
     </section>
   );
 }
