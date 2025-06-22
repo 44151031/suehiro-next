@@ -1,8 +1,7 @@
 "use client";
 
-import { useRef, useState } from "react";
+import { useRef, useState, useEffect } from "react";
 import { useShopDetails } from "@/hooks/useShopDetails";
-import ShopDetailModal from "@/components/ui/modals/ShopDetailModal";
 
 type Shop = {
   name: string;
@@ -30,14 +29,18 @@ type Props = {
 
 export default function ShopList({ genre, shops }: Props) {
   const [expanded, setExpanded] = useState(false);
-  const [modalShop, setModalShop] = useState<ShopDetail | null>(null);
+  const [isClient, setIsClient] = useState(false); // ✅ SSRかクライアントか判定
   const headingRef = useRef<HTMLHeadingElement>(null);
+  const { detailsMap } = useShopDetails();
 
-  const { detailsMap } = useShopDetails(); // ✅ フックから詳細情報を取得
+  useEffect(() => {
+    setIsClient(true); // ✅ クライアントマウント後に切り替え
+  }, []);
 
   const threshold = 6;
   const showToggle = shops.length > threshold;
-  const visibleShops = expanded ? shops : shops.slice(0, threshold);
+  const visibleShops =
+    isClient && !expanded ? shops.slice(0, threshold) : shops;
 
   const toggleExpanded = () => {
     if (expanded && headingRef.current) {
@@ -68,28 +71,70 @@ export default function ShopList({ genre, shops }: Props) {
               const isModalLink = !!detail;
 
               return (
-                <li
-                  key={idx}
-                  onClick={() => isModalLink && setModalShop(detail)}
-                  className={`rounded-lg px-4 py-3 transition border ${
-                    isModalLink
-                      ? "bg-white border-pink-300 border-2 cursor-pointer hover:shadow-md hover:scale-[1.03] duration-200"
-                      : "bg-white border-gray-200"
-                  }`}
-                >
-                  <div className="flex flex-wrap items-center gap-x-1">
-                    <p className="font-semibold text-gray-900">{shop.name}</p>
-                    {isModalLink && (
-                      <span className="text-xs text-gray-600">[詳細]</span>
+                <li key={idx}>
+                  <details
+                    className={`rounded-lg px-4 py-3 transition border ${
+                      isModalLink
+                        ? "bg-white border-pink-300 border-2 hover:shadow-md hover:scale-[1.03] duration-200"
+                        : "bg-white border-gray-200"
+                    }`}
+                  >
+                    <summary className="cursor-pointer list-none marker:hidden">
+                      <div className="flex flex-wrap items-center gap-x-1">
+                        <p className="font-semibold text-gray-900">{shop.name}</p>
+                        {isModalLink && (
+                          <span className="text-xs text-gray-600">[詳細]</span>
+                        )}
+                      </div>
+                      <p className="text-gray-600 text-sm">{shop.address}</p>
+                    </summary>
+
+                    {isModalLink && detail && (
+                      <div className="mt-2 text-sm text-gray-700 space-y-1">
+                        {detail.description && <p>{detail.description}</p>}
+                        {detail.note && <p className="text-xs text-gray-500">{detail.note}</p>}
+
+                        <div className="space-x-2 mt-1 text-xs">
+                          {detail.homepage && (
+                            <a
+                              href={detail.homepage}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="text-blue-600 underline"
+                            >
+                              ホームページ
+                            </a>
+                          )}
+                          {detail.line && (
+                            <a
+                              href={detail.line}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="text-green-600 underline"
+                            >
+                              LINE
+                            </a>
+                          )}
+                          {detail.instagram && (
+                            <a
+                              href={detail.instagram}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="text-pink-500 underline"
+                            >
+                              Instagram
+                            </a>
+                          )}
+                        </div>
+                      </div>
                     )}
-                  </div>
-                  <p className="text-gray-600 text-sm">{shop.address}</p>
+                  </details>
                 </li>
               );
             })}
           </ul>
 
-          {showToggle && (
+          {showToggle && isClient && (
             <div className="text-center mt-4">
               <button
                 onClick={toggleExpanded}
@@ -100,14 +145,6 @@ export default function ShopList({ genre, shops }: Props) {
             </div>
           )}
         </>
-      )}
-
-      {modalShop && (
-        <ShopDetailModal
-          open={true}
-          onClose={() => setModalShop(null)}
-          shop={modalShop}
-        />
       )}
     </section>
   );
