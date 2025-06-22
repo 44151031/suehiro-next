@@ -2,23 +2,25 @@ const fs = require("fs");
 const path = require("path");
 const puppeteer = require("puppeteer");
 
-// ts-node経由でTypeScriptファイルを読み込む
+// ts-node 経由で TypeScript を使用
 require("ts-node").register();
-const { campaigns } = require("../src/lib/campaignMaster");
+
+// ✅ campaignsA をインポート
+const { campaignsA } = require("../src/lib/campaignMasterOgp");
 const { PayTypeLabels } = require("../src/lib/payType");
 
 // HTMLテンプレート読み込み
 const TEMPLATE_PATH = path.resolve(__dirname, "./templates/template.html");
 const templateBase = fs.readFileSync(TEMPLATE_PATH, "utf-8");
 
-// 出力ディレクトリの設定（なければ作成）
+// 出力先ディレクトリ（存在しなければ作成）
 const OUTPUT_DIR = path.resolve(__dirname, "../public/images/campaigns/ogp");
 if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 
 (async () => {
   const browser = await puppeteer.launch();
 
-  for (const campaign of campaigns) {
+  for (const campaign of campaignsA) {
     const {
       prefecture,
       city,
@@ -28,42 +30,33 @@ if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
       paytype
     } = campaign;
 
-    // 表示用ラベル（例：PayPay、au PAY）
     const payLabel = PayTypeLabels[paytype] || "Pay";
-
-    // テキストとして画像中央に表示される文言
     const title = `${prefecture}${city}×${payLabel}`;
 
-    // 背景画像のパス（事前に配置されている必要あり）
     const backgroundPath = path.resolve(
       __dirname,
       `../public/images/campaigns/${prefectureSlug}-${citySlug}.jpg`
     );
 
-    // 出力ファイル名（小文字、paytypeはslug）
     const outputFilename = `${prefectureSlug}-${citySlug}-${paytype}-ogp.jpg`;
     const outputPath = path.resolve(OUTPUT_DIR, outputFilename);
 
-    // 背景画像の存在確認
     if (!fs.existsSync(backgroundPath)) {
       console.warn(`⚠️ 背景画像が見つかりません: ${backgroundPath}`);
       continue;
     }
 
-    // テンプレートへ変数埋め込み
     const html = templateBase
       .replace(/__TITLE__/g, title)
       .replace(/__OFFER__/g, offer)
       .replace(/__IMAGE_PATH__/g, backgroundPath.replace(/\\/g, "/"));
 
-    // 一時HTMLファイル生成
     const tempFile = path.resolve(__dirname, "temp.html");
     fs.writeFileSync(tempFile, html);
 
     const page = await browser.newPage();
     await page.goto(`file://${tempFile}`, { waitUntil: "networkidle0" });
 
-    // スクリーンショットとしてOGP画像を保存
     await page.screenshot({
       path: outputPath,
       type: "jpeg",
@@ -73,8 +66,14 @@ if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 
     await page.close();
     console.log(`✅ 作成完了: ${outputFilename}`);
+
+    // 不要なテンポラリファイルを削除
+    try {
+      fs.unlinkSync(tempFile);
+    } catch (e) {
+      console.warn(`⚠️ 一時HTMLファイル削除に失敗しました: ${e.message}`);
+    }
   }
 
   await browser.close();
-  fs.unlinkSync(path.resolve(__dirname, "temp.html"));
 })();
