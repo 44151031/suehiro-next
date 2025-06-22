@@ -74,7 +74,7 @@ export function CampaignOverviewTable({ campaign }: { campaign: Campaign }) {
                 href={officialUrl}
                 className="text-gray-500 underline break-words"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener noreferrer nofollow"
               >
                 {officialUrl}
               </a>
