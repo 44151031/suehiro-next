@@ -133,7 +133,7 @@ export default async function CityPaytypePage({
 
           <CampaignStatusNotice campaign={campaign} />
           <CampaignSummaryCard campaign={campaign} />
-          <GenreHeaderNav genres={genres} paytypeLabel={payLabel} />
+          <GenreHeaderNav genres={genres} paytypeLabel={payLabel} paytype={paytypeId} />
           <SNSShareButtons
             url={pageUrl}
             title={shareTitle}

@@ -4,14 +4,15 @@ import Link from "next/link";
 import { cn } from "@/lib/utils";
 import { useRef, useState } from "react";
 import { sortGenresByPriority } from "@/lib/genreSortPriority";
-import { PayTypes, PayTypeId } from "@/lib/payType";
+import { PayTypeId, PayTypeBadgeMap } from "@/lib/payType"; // ✅ BadgeMapだけ使う
 
 type Props = {
   genres: string[];
-  paytypeLabel: string; // ✅ 追加
+  paytypeLabel: string;
+  paytype: PayTypeId; // ✅ 明示的に必要
 };
 
-export default function GenreHeaderNav({ genres, paytypeLabel }: Props) {
+export default function GenreHeaderNav({ genres, paytypeLabel, paytype }: Props) {
   const scrollRef = useRef<HTMLDivElement>(null);
 
   const [isDragging, setIsDragging] = useState(false);
@@ -36,18 +37,19 @@ export default function GenreHeaderNav({ genres, paytypeLabel }: Props) {
   };
 
   const sortedGenres = sortGenresByPriority(genres);
+  const paytypeColor = PayTypeBadgeMap[paytype]?.bg ?? "#333"; // ✅ ここで色取得
 
   return (
     <div className="sticky top-[64px] z-40 select-none">
       <div className="bg-white rounded-b-2xl border-b border-l border-r border-gray-200 shadow-sm">
         <div className="flex items-center gap-3 px-4 py-3">
-          {/* ✅ 左側の文言を動的に変更 */}
           <div className="text-sm font-semibold text-gray-600 shrink-0">
-            <span className="text-base font-bold text-gray-800">{paytypeLabel}</span>
+            <span className="text-base font-bold" style={{ color: paytypeColor }}>
+              {paytypeLabel}
+            </span>
             対象店舗
           </div>
 
-          {/* 横スクロールエリア */}
           <div
             ref={scrollRef}
             onMouseDown={handleMouseDown}
