@@ -20,6 +20,7 @@ const CampaignStructuredData = ({
   fullPayLimit,
   datePublished,
   dateModified,
+  officialUrl, // ✅ 追加
 }: CampaignStructuredDataProps) => {
   const origin = "https://paycancampaign.com";
 
@@ -101,7 +102,7 @@ const CampaignStructuredData = ({
         "organizer": {
           "@type": "GovernmentOrganization",
           "name": `${prefecture}${city}`,
-          "url": `${origin}/campaigns/${prefectureSlug}/${citySlug}`
+          "url": officialUrl?.trim() ? officialUrl : `${origin}/campaigns/${prefectureSlug}/${citySlug}`
         },
         "performer": {
           "@type": "Organization",

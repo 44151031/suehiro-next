@@ -113,6 +113,7 @@ export default async function CityPaytypePage({
         fullPayLimit={String(fullpoint)}
         datePublished={datePublished}
         dateModified={modified}
+        officialUrl={campaign.officialUrl}
       />
 
       <div className="w-full bg-[#f8f7f2] text-secondary-foreground">

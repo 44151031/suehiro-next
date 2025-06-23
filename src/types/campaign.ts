@@ -50,4 +50,5 @@ export type CampaignStructuredDataProps = {
   fullPayLimit: string;
   datePublished: string;
   dateModified: string;
+  officialUrl?: string;
 };
