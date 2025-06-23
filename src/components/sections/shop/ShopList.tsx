@@ -73,13 +73,15 @@ export default function ShopList({ genre, shops }: Props) {
               return (
                 <li key={idx}>
                   <details
-                    className={`rounded-lg px-4 py-3 transition border ${
-                      isModalLink
-                        ? "bg-white border-pink-300 border-2 hover:shadow-md hover:scale-[1.03] duration-200"
-                        : "bg-white border-gray-200"
-                    }`}
+                    className={`rounded-lg px-4 py-3 transition border ${isModalLink
+                      ? "bg-white border-pink-300 border-2 hover:shadow-md hover:scale-[1.03] duration-200"
+                      : "bg-white border-gray-200"
+                      }`}
                   >
-                    <summary className="cursor-pointer list-none marker:hidden">
+                    <summary
+                      className={`list-none marker:hidden ${isModalLink ? "cursor-pointer" : "cursor-default"
+                        }`}
+                    >
                       <div className="flex flex-wrap items-center gap-x-1">
                         <p className="font-semibold text-gray-900">{shop.name}</p>
                         {isModalLink && (
