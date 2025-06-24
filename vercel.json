@@ -12,5 +12,21 @@
       "destination": "https://paycancampaign.com/$1",
       "permanent": true
     }
+  ],
+  "rewrites": [
+    {
+      "source": "/robots.txt",
+      "destination": "/robots.vercel.txt",
+      "has": [
+        {
+          "type": "host",
+          "value": "suehiro-next.vercel.app"
+        }
+      ]
+    },
+    {
+      "source": "/robots.txt",
+      "destination": "/robots.production.txt"
+    }
   ]
 }
