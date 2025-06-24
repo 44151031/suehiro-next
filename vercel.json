@@ -1,18 +1,5 @@
 {
   "buildCommand": "NEXT_IGNORE_TYPE_ERRORS=true npm run build",
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "has": [
-        {
-          "type": "host",
-          "value": "www.paycancampaign.com"
-        }
-      ],
-      "destination": "https://paycancampaign.com/$1",
-      "permanent": true
-    }
-  ],
   "rewrites": [
     {
       "source": "/robots.txt",
@@ -27,6 +14,19 @@
     {
       "source": "/robots.txt",
       "destination": "/robots.production.txt"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.paycancampaign.com"
+        }
+      ],
+      "destination": "https://paycancampaign.com/$1",
+      "permanent": true
     }
   ]
 }
