@@ -6,8 +6,9 @@
       "destination": "/robots.vercel.txt",
       "has": [
         {
-          "type": "host",
-          "value": "suehiro-next.vercel.app"
+          "type": "header",
+          "key": "host",
+          "value": "(.*)\\.vercel\\.app"
         }
       ]
     },
