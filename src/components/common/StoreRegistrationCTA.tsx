@@ -12,7 +12,8 @@ export default function StoreRegistrationCTA() {
 
       <ul className="text-sm text-left text-gray-700 mx-auto mb-4 max-w-md space-y-1 list-disc list-inside">
         <li>検索・ジャンル別表示で見つけられやすい</li>
-        <li>あなたのビジネスのサイテーション対策にも</li>
+        <li>あなたのお店のカードを目立つ位置に。</li>
+        <li>あなたのビジネスのサイテーション対策にも。</li>
         <li>お申し込みはわずか1分。スマホから簡単</li>
       </ul>
 
