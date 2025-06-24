@@ -1,4 +1,3 @@
-// ✅ /components/sections/city/CityCampaignFAQ.tsx
 "use client";
 
 import { generateCityCampaignFAQ } from "@/lib/FAQTemplateGenerator";
@@ -6,7 +5,7 @@ import { generateCityCampaignFAQ } from "@/lib/FAQTemplateGenerator";
 type Props = {
   prefecture: string;
   city: string;
-  payLabel: string; // 型定義を簡略化（PayService 削除）
+  payLabel: string;
 };
 
 export default function CityCampaignFAQ({ prefecture, city, payLabel }: Props) {
@@ -25,14 +24,26 @@ export default function CityCampaignFAQ({ prefecture, city, payLabel }: Props) {
         {questions.map((q, index) => (
           <details
             key={index}
-            className="border rounded-lg bg-white px-4 py-3 shadow-sm"
+            className="group rounded-xl border border-gray-200 bg-white px-5 py-4 shadow-sm transition-all duration-300"
           >
-            <summary className="cursor-pointer font-semibold text-base text-gray-800">
-              Q. {q}
+            <summary className="flex cursor-pointer list-none items-center justify-between text-base font-semibold text-gray-900 hover:opacity-90">
+              <span>
+                <span className="mr-2 text-red-500 font-bold">Q.</span>
+                {q}
+              </span>
+              <svg
+                className="h-5 w-5 text-gray-400 transition-transform duration-300 group-open:rotate-180"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2"
+                viewBox="0 0 24 24"
+              >
+                <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
+              </svg>
             </summary>
-            <p className="mt-2 text-gray-700 text-sm leading-relaxed">
+            <div className="mt-3 text-sm text-gray-700 leading-relaxed">
               {answers[index]}
-            </p>
+            </div>
           </details>
         ))}
       </div>
