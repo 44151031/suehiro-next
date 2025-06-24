@@ -1,22 +1,5 @@
 {
   "buildCommand": "NEXT_IGNORE_TYPE_ERRORS=true npm run build",
-  "rewrites": [
-    {
-      "source": "/robots.txt",
-      "destination": "/robots.vercel.txt",
-      "has": [
-        {
-          "type": "header",
-          "key": "host",
-          "value": "(.*)\\.vercel\\.app"
-        }
-      ]
-    },
-    {
-      "source": "/robots.txt",
-      "destination": "/robots.production.txt"
-    }
-  ],
   "redirects": [
     {
       "source": "/(.*)",

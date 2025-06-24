@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /favicon.png
-Disallow:
-
-Sitemap: https://paycancampaign.com/sitemap.xml
