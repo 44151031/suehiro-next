@@ -7,6 +7,7 @@ import "../styles/globals.css";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import LayoutShell from "@/components/layout/LayoutShell";
+import ClientNoIndex from "@/components/common/ClientNoIndex"; // ✅ 追加
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -59,8 +60,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="ja" className="scroll-smooth">
       <head />
-
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+        <ClientNoIndex /> {/* ✅ クライアントでnoindexを追加 */}
+
         {/* ✅ Google Tag Manager script（クライアントでのみ実行） */}
         <Script
           id="gtm-init"
