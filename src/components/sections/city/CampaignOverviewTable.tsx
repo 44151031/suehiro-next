@@ -31,7 +31,7 @@ export function CampaignOverviewTable({ campaign }: { campaign: Campaign }) {
         キャンペーン概要
       </h2>
       <dl className="grid gap-y-4 text-sm sm:text-base">
-        <Row label="対象" value={`${prefecture}${city}の対象店舗での${payLabel}支払い`} />
+        <Row label="対象" value={`${prefecture}${city}の対象店舗での${payLabel}(スマートフォンでのコード決済)支払い`} />
         <Row
           label="期間"
           value={`${formatJapaneseDate(startDate)} ～ ${formatJapaneseDate(endDate)}`}

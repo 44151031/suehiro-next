@@ -41,15 +41,15 @@ export function generateCityCampaignFAQ(
 function getAnswerForQ1(location: string, payLabel: string): string {
   switch (payLabel) {
     case "PayPay":
-      return `${location}のPayPayキャンペーンでは、通常は決済から30日以内にPayPayポイントが付与されます。詳しくはPayキャンの${location}公式ページおよび決済サービスの公式ページよりご確認ください。`;
+      return `${location}のPayPayキャンペーンでは、通常は決済から30日以内にPayPayポイントとして還元されます。詳しくはPayキャンの${location}公式ページおよび決済サービスの公式ページよりご確認ください。`;
     case "au PAY":
-      return `${location}のau PAYキャンペーンでは、決済月の翌々月末までにau PAY残高として付与される予定です。詳しくはPayキャンの${location}公式ページおよび決済サービスの公式ページよりご確認ください。`;
+      return `${location}のau PAYキャンペーンでは、決済月の翌々月末頃にau PAY残高として還元されます。詳しくはPayキャンの${location}公式ページおよび決済サービスの公式ページよりご確認ください。`;
     case "楽天ペイ":
-      return `${location}の楽天ペイキャンペーンでは、決済月の翌々月末頃に楽天ポイントが進呈されます。詳しくはPayキャンの${location}公式ページおよび決済サービスの公式ページよりご確認ください。`;
+      return `${location}の楽天ペイキャンペーンでは、決済月の翌々月末頃に楽天ポイントとして還元されます。詳しくはPayキャンの${location}公式ページおよび決済サービスの公式ページよりご確認ください。`;
     case "d払い":
-      return `${location}のd払いキャンペーンでは、キャンペーン終了月の翌々月下旬にdポイント（期間・用途限定）が進呈されます。詳しくはPayキャンの${location}公式ページおよび決済サービスの公式ページよりご確認ください。`;
+      return `${location}のd払いキャンペーンでは、キャンペーン終了月の翌月末以降順次dポイント（期間・用途限定）として還元されます。詳しくはPayキャンの${location}公式ページおよび決済サービスの公式ページよりご確認ください。`;
     case "AEON Pay":
-      return `${location}のAEON Payキャンペーンでは、2〜3か月以内にWAON POINTが付与される予定です。詳しくはPayキャンの${location}公式ページおよび決済サービスの公式ページよりご確認ください。`;
+      return `${location}のAEON Payキャンペーンでは、2〜3か月以内にWAON POINTとして還元されます。詳しくはPayキャンの${location}公式ページおよび決済サービスの公式ページよりご確認ください。`;
     default:
       return `${location}の${payLabel}キャンペーンの付与時期は決済方法により異なります。詳しくはPayキャンの${location}公式ページおよび決済サービスの公式ページよりご確認ください。`;
   }
@@ -74,15 +74,15 @@ function getAnswerForQ4(location: string, payLabel: string): string {
 function getAnswerForQ5(location: string, payLabel: string): string {
   switch (payLabel) {
     case "PayPay":
-      return `付与されたPayPayポイントは、${location}を含む全国のPayPay対応店舗で利用できます。一部対象外サービスがあるためPayキャンの${location}公式ページのリンクよりご確認ください。`;
+      return `付与されたPayPayポイントは、${location}を含む全国のPayPay対応店舗で利用できます。`;
     case "au PAY":
-      return `au PAY残高として付与されたポイントは、${location}だけでなく全国のau PAY加盟店で利用可能です。利用期限にご注意ください。`;
+      return `au PAY残高として付与されたポイントは、${location}だけでなく全国のau PAY加盟店で利用可能です。`;
     case "楽天ペイ":
-      return `還元された楽天ポイントは、${location}内の楽天ペイ対応店舗や楽天市場などで利用できます。用途制限はPayキャンの${location}公式ページのリンクよりご確認ください。`;
+      return `還元された楽天ポイントは、${location}内の楽天ペイ対応店舗や楽天市場などで利用できます。楽天ポイントはキャンペーンにより有効期限がある場合があります。詳しくは楽天ポイントクラブで確認できます。`;
     case "d払い":
-      return `付与されたdポイントは、${location}のd払い加盟店やドコモの各種サービス、ネットストア等で利用可能です（用途限定の場合あり）。`;
+      return `付与されたdポイントは、${location}のd払い加盟店やドコモの各種サービス、ネットストア等で利用可能です。還元されたdポイントには、利用用途が限定され、進呈時にそれぞれ固有の有効期間が設定されています。`;
     case "AEON Pay":
-      return `WAON POINTとして付与されるため、${location}のイオン系列店舗をはじめ、WAON POINT加盟店で利用できます。Payキャンの${location}公式ページのリンクよりご確認ください。`;
+      return `WAON POINTとして付与されるため、${location}のイオン系列店舗をはじめ、WAON POINT加盟店で利用できます。なお、WAON POINTには有効期限があります。有効期限についてはイオンウォレットで確認できます。`;
     default:
       return `${location}で付与された${payLabel}のポイントは、各サービスの加盟店でご利用いただけます。詳細はPayキャンの${location}公式ページのリンクよりご確認ください。`;
   }
