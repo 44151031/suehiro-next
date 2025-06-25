@@ -35,7 +35,7 @@ if (!fs.existsSync(OUTPUT_DIR)) fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 
     const backgroundPath = path.resolve(
       __dirname,
-      `../public/images/campaigns/${prefectureSlug}-${citySlug}.jpg`
+      `../public/images/campaigns/${prefectureSlug}-${citySlug}.webp`
     );
 
     const outputFilename = `${prefectureSlug}-${citySlug}-${paytype}-ogp.jpg`;

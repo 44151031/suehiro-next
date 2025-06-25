@@ -136,5 +136,5 @@ export function getCampaignImagePath(
   prefectureSlug: string,
   citySlug: string
 ): string {
-  return `/images/campaigns/${prefectureSlug}-${citySlug}.jpg`;
+  return `/images/campaigns/${prefectureSlug}-${citySlug}.webp`;
 }

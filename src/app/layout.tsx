@@ -1,4 +1,3 @@
-// ✅ /src/app/layout.tsx
 import type { Metadata } from "next";
 import Script from "next/script";
 import { Geist, Geist_Mono } from "next/font/google";
@@ -12,11 +11,14 @@ import ClientNoIndex from "@/components/common/ClientNoIndex"; // ✅ 追加
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
+  display: "swap", // ✅ 遅延防止（FOUT対策）
+  preload: true,   // ✅ LCP改善のため追加
 });
 
 const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
+  display: "swap", // ✅ 遅延防止（FOUT対策）
 });
 
 export const metadata: Metadata = {
@@ -59,14 +61,18 @@ const GTM_ID = process.env.NEXT_PUBLIC_GTM_ID!;
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="ja" className="scroll-smooth">
-      <head />
+      <head>
+        {/* ✅ Google Fonts 最適化 */}
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+      </head>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         <ClientNoIndex /> {/* ✅ クライアントでnoindexを追加 */}
 
-        {/* ✅ Google Tag Manager script（クライアントでのみ実行） */}
+        {/* ✅ Google Tag Manager script（lazyOnloadでTBT改善） */}
         <Script
           id="gtm-init"
-          strategy="afterInteractive"
+          strategy="lazyOnload" // ✅ ここが変更点
           dangerouslySetInnerHTML={{
             __html: `
               (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

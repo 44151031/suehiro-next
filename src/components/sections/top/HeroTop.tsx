@@ -51,7 +51,7 @@ export default function HeroTop() {
     const shuffled = [...active].sort(() => 0.5 - Math.random()).slice(0, 5);
 
     const formatted = shuffled.map((c) => ({
-      image: `/images/campaigns/${c.prefectureSlug}-${c.citySlug}.jpg`,
+      image: `/images/campaigns/${c.prefectureSlug}-${c.citySlug}.webp`,
       title: truncate(c.campaigntitle ?? `${c.city}のキャンペーン`, 26),
       description: `${c.prefecture}${c.city}`,
       href: `/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`,
@@ -102,7 +102,16 @@ export default function HeroTop() {
                 fill
                 className="object-cover"
                 sizes="(max-width: 768px) 90vw, 25vw"
+                priority={idx === 0}
               />
+              <noscript>
+                <img
+                  src={slide.image}
+                  alt={slide.title}
+                  style={{ width: "100%", height: "100%", objectFit: "cover" }}
+                  loading="lazy"
+                />
+              </noscript>
               <div className="absolute inset-0 bg-black/40 z-0" />
               <div className="absolute inset-0 flex flex-col justify-center items-center text-center px-4 z-10">
                 <h2 className="text-base sm:text-xl md:text-2xl font-bold mb-1 drop-shadow">
