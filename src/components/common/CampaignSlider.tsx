@@ -8,7 +8,7 @@ import type { Campaign } from "@/types/campaign";
 import { getCampaignStatus } from "@/lib/campaignUtils";
 
 type Props = {
-  campaigns: Campaign[];
+  campaigns: Campaign[]; 
   title: string;
   bgColor?: string;
 };
@@ -113,8 +113,10 @@ export default function ScopedCampaignSlider({
                 </Link>
               ))
             ) : (
-              <div className="flex items-center justify-center w-full h-[120px] text-sm text-gray-500 text-center">
-                上のボタンをクリックして位置情報情報を「許可」いただくとあなたのいるエリアに近いキャンペーンが表示されます。
+              <div className="w-full h-[220px] flex items-center justify-center rounded-xl border border-dashed border-neutral-300 bg-white">
+                <p className="text-sm text-gray-500 text-center px-4">
+                  上のボタンをクリックして位置情報情報を「許可」いただくとあなたのいるエリアに近いキャンペーンが表示されます。
+                </p>
               </div>
             )}
 
