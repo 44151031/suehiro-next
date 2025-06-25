@@ -60,9 +60,22 @@ function getAnswerForQ2(location: string, payLabel: string): string {
   return `${location}の${payLabel}キャンペーンでは、${payLabel}のアカウント単位で還元対象が決まります。家族のスマホを使う場合でも、対象アカウントで正しく決済されていれば基本的に対象となります。詳しくはPayキャンの${location}公式ページおよび決済サービスの公式ページよりご確認ください。`;
 }
 
-// Q3: 還元されない理由
+// Q3: 還元されない理由（改良版）
 function getAnswerForQ3(location: string, payLabel: string): string {
-  return `${location}の${payLabel}キャンペーンでも、キャンペーン期間外や対象外の支払い方法、参加登録漏れなどの場合は還元対象外になることがあります。詳しくはPayキャンの${location}公式ページおよび決済サービスの公式ページよりご確認ください。`;
+  switch (payLabel) {
+    case "PayPay":
+      return `${location}のPayPayキャンペーンでは、キャンペーン期間外の支払い、対象外店舗での利用、タバコなど対象外の商品を含む支払い、PayPayカード等によるクレジット払い、請求書払い・あと払い（残高以外）などは還元対象外です。詳しくはPayキャンの${location}公式ページおよびPayPay公式サイトをご確認ください。`;
+    case "au PAY":
+      return `${location}のau PAYキャンペーンでは、対象外店舗、au PAYプリペイドカードでの支払い、業務用の支払い、法人契約、キャンセルや返品などは還元対象外です。詳しくはPayキャンの${location}公式ページおよびau PAY公式サイトをご確認ください。`;
+    case "楽天ペイ":
+      return `${location}の楽天ペイキャンペーンは楽天ペイアプリによるコード・QR払い、セルフ払いをした方が対象です。対象店舗以外での利用、楽天ポイントや楽天キャッシュ払い、読み取り式の支払いなどは還元対象外です。詳しくはPayキャンの${location}公式ページおよび楽天ペイ公式サイトをご確認ください。`;
+    case "d払い":
+      return `${location}のd払いキャンペーンでは対象店舗以外、dカード以外での支払い、あと払い、決済取消などは還元対象外です。詳しくはPayキャンの${location}公式ページおよびd払いキャンペーン詳細ページをご確認ください。`;
+    case "AEON Pay":
+      return `${location}のAEON Payキャンペーンでは、AEON Pay以外の支払い、対象外店舗、キャンセル・返品などは還元対象外です。詳しくはPayキャンの${location}公式ページおよびイオン公式ページをご確認ください。`;
+    default:
+      return `${location}の${payLabel}キャンペーンでも、キャンペーン期間外や対象外の支払い方法、参加登録漏れなどの場合は還元対象外になることがあります。詳しくはPayキャンの${location}公式ページおよび決済サービスの公式ページよりご確認ください。`;
+  }
 }
 
 // Q4: 他キャンペーンとの併用可否
