@@ -16,6 +16,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const rootPage = [
     { url: `${siteUrl}/campaigns`, lastModified: now },
     { url: `${siteUrl}/campaigns/archive`, lastModified: now }, // ✅ 追加されたアーカイブページ
+    { url: `${siteUrl}/campaigns/prefecture`, lastModified: now }, // ✅ 都道府県一覧ページ（追加）
   ];
 
   // ✅ 都道府県別ページ
