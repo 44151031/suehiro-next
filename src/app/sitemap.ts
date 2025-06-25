@@ -12,7 +12,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${siteUrl}/`, lastModified: now },
   ];
 
-  // ✅ 全国のキャンペーン一覧ページ
+  // ✅ 全国のキャンペーン一覧ページ（prefecture ページは含めない）
   const rootPage = [
     { url: `${siteUrl}/campaigns`, lastModified: now },
     { url: `${siteUrl}/campaigns/archive`, lastModified: now }, // ✅ 追加されたアーカイブページ
@@ -50,7 +50,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: c.lastModified ?? now,
     }));
 
-  // ✅ その他静的ページ
+  // ✅ その他静的ページ（prefecture は入れない）
   const staticPages = [
     { url: `${siteUrl}/management`, lastModified: now },
     { url: `${siteUrl}/campaigns/search`, lastModified: now },
