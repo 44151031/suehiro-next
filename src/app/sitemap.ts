@@ -16,11 +16,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const rootPage = [
     { url: `${siteUrl}/campaigns`, lastModified: now },
     { url: `${siteUrl}/campaigns/archive`, lastModified: now }, // ✅ 追加されたアーカイブページ
-    { url: `${siteUrl}/campaigns/prefecture`, lastModified: now }, // ✅ 都道府県一覧ページ（追加）
   ];
 
-  // ✅ 都道府県別ページ
-  const prefectureSlugs = Array.from(new Set(campaigns.map((c) => c.prefectureSlug)));
+  // ✅ 都道府県別ページ（沖縄・高知・鳥取を除外）
+  const excluded = new Set(["okinawa", "kochi", "tottori"]);
+  const prefectureSlugs = Array.from(
+    new Set(campaigns.map((c) => c.prefectureSlug))
+  ).filter((slug) => !excluded.has(slug));
   const prefecturePages = prefectureSlugs.map((slug) => ({
     url: `${siteUrl}/campaigns/${slug}`,
     lastModified: now,
