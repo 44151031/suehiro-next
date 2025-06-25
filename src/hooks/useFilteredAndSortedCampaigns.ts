@@ -7,7 +7,7 @@ import { useLocationStore } from "@/stores/locationStore";
 function getDistance(lat1: number, lng1: number, lat2: number, lng2: number) {
   const R = 6371;
   const dLat = ((lat2 - lat1) * Math.PI) / 180;
-  const dLng = ((lat2 - lat1) * Math.PI) / 180;
+  const dLng = ((lng2 - lng1) * Math.PI) / 180; // ✅ 修正箇所
   const a =
     Math.sin(dLat / 2) ** 2 +
     Math.cos((lat1 * Math.PI) / 180) *
@@ -17,7 +17,7 @@ function getDistance(lat1: number, lng1: number, lat2: number, lng2: number) {
 }
 
 export function useFilteredAndSortedCampaigns(campaigns: Campaign[]) {
-  const [sorted, setSorted] = useState<Campaign[]>([]);
+  const [sorted, setSorted] = useState<Campaign[] | undefined>(undefined); // ✅ 修正箇所
   const { fetched, lat, lng } = useLocationStore();
 
   const lastLatRef = useRef<number | null>(null);
@@ -51,5 +51,5 @@ export function useFilteredAndSortedCampaigns(campaigns: Campaign[]) {
     setSorted(enriched.slice(0, 6));
   }, [fetched, lat, lng, campaigns]);
 
-  return sorted;
+  return sorted ?? []; // ✅ 修正箇所
 }
