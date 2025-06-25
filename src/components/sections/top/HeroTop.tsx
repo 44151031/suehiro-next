@@ -102,6 +102,7 @@ export default function HeroTop() {
                 fill
                 className="object-cover"
                 sizes="(max-width: 768px) 90vw, 25vw"
+                style={{ aspectRatio: "3/2" }}
                 priority={idx === 0}
               />
               <noscript>
