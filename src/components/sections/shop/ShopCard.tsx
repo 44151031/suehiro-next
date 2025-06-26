@@ -18,14 +18,13 @@ export default function ShopCard({ shop, detail, onClick }: Props) {
     !!detail?.line ||
     !!detail?.instagram;
 
+  const baseClass = `rounded-lg px-3 py-[6px] sm:px-4 sm:py-3 mb-2 sm:mb-0 transition border`;
+  const clickableClass = isModalLink
+    ? "bg-white border-pink-300 border-2 hover:shadow-md hover:scale-[1.03] duration-200"
+    : "bg-white border-gray-200";
+
   return showExpandable ? (
-    <details
-      className={`rounded-lg px-3 py-[6px] sm:px-4 sm:py-3 mb-2 sm:mb-0 transition border ${
-        isModalLink
-          ? "bg-white border-pink-300 border-2 hover:shadow-md hover:scale-[1.03] duration-200"
-          : "bg-white border-gray-200"
-      }`}
-    >
+    <details className={`${baseClass} ${clickableClass}`}>
       <summary
         className={`list-none marker:hidden ${
           isModalLink ? "cursor-pointer" : "cursor-default"
@@ -93,11 +92,7 @@ export default function ShopCard({ shop, detail, onClick }: Props) {
   ) : (
     <li
       onClick={isModalLink && onClick ? onClick : undefined}
-      className={`rounded-lg px-3 py-[5px] sm:mb-0 transition border ${
-        isModalLink
-          ? "bg-white border-pink-300 border-2 cursor-pointer hover:shadow-md hover:scale-[1.03] duration-200"
-          : "bg-white border-gray-200"
-      }`}
+      className={`${baseClass.replace("py-[6px]", "py-[5px]")} ${clickableClass}`}
     >
       <div className="flex flex-wrap items-center gap-x-1 leading-normal">
         <p className="font-semibold text-gray-900 text-xs sm:text-sm">
