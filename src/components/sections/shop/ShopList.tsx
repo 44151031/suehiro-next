@@ -73,7 +73,7 @@ export default function ShopList({ genre, shops }: Props) {
               return (
                 <li key={idx}>
                   <details
-                    className={`rounded-lg px-3 py-2 sm:px-4 sm:py-3 transition border ${
+                    className={`rounded-lg px-3 pt-2 sm:px-4 sm:py-3 transition border ${
                       isModalLink
                         ? "bg-white border-pink-300 border-2 hover:shadow-md hover:scale-[1.03] duration-200"
                         : "bg-white border-gray-200"
