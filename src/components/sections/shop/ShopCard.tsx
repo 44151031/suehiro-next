@@ -11,43 +11,33 @@ type Props = {
 
 export default function ShopCard({ shop, detail, onClick }: Props) {
   const isModalLink = !!detail;
-  const showExpandable =
-    !!detail?.description ||
-    !!detail?.note ||
-    !!detail?.homepage ||
-    !!detail?.line ||
-    !!detail?.instagram;
+  return isModalLink ? (
+    <DummyLinkCard shop={shop} detail={detail} />
+  ) : (
+    <NormalShopCard shop={shop} onClick={onClick} />
+  );
+}
 
-  const baseClass = `rounded-lg px-3 py-[6px] sm:px-4 sm:py-3 mb-2 sm:mb-0 transition border`;
-  const clickableClass = isModalLink
-    ? "bg-white border-pink-300 border-2 hover:shadow-md hover:scale-[1.03] duration-200"
-    : "bg-white border-gray-200";
+// ✅ リンク付きダミーカード（<details> 展開型）
+function DummyLinkCard({ shop, detail }: { shop: Shop; detail: ShopDetail }) {
+  const baseClass = `rounded-lg px-3 py-[6px] sm:px-4 sm:py-3 mb-1 sm:mb-0 transition border bg-white border-pink-300 border-2 hover:shadow-md hover:scale-[1.03] duration-200`;
 
-  return showExpandable ? (
-    <details className={`${baseClass} ${clickableClass}`}>
-      <summary
-        className={`list-none marker:hidden ${
-          isModalLink ? "cursor-pointer" : "cursor-default"
-        }`}
-      >
-        {/* ✅ スマホでは店舗名と住所を1行に、PCでは改行 */}
+  return (
+    <details className={baseClass}>
+      <summary className="list-none marker:hidden cursor-pointer">
+        {/* スマホ1行、PC縦並び */}
         <div className="sm:hidden flex flex-wrap items-center gap-x-1 leading-normal">
           <p className="font-semibold text-gray-900 text-xs">{shop.name}</p>
           {shop.address && (
             <p className="text-gray-600 text-[11px] leading-normal">{shop.address}</p>
           )}
-          {isModalLink && (
-            <span className="text-[10px] text-gray-600">[詳細]</span>
-          )}
+          <span className="text-[10px] text-gray-600">[詳細]</span>
         </div>
 
-        {/* ✅ PC用（店舗名と住所を縦並び） */}
         <div className="hidden sm:block">
           <div className="flex flex-wrap items-center gap-x-1 leading-normal">
             <p className="font-semibold text-gray-900 text-sm">{shop.name}</p>
-            {isModalLink && (
-              <span className="text-xs text-gray-600">[詳細]</span>
-            )}
+            <span className="text-xs text-gray-600">[詳細]</span>
           </div>
           <p className="text-gray-600 text-sm leading-normal pb-[2px]">
             {shop.address}
@@ -55,72 +45,69 @@ export default function ShopCard({ shop, detail, onClick }: Props) {
         </div>
       </summary>
 
-      {isModalLink && (
-        <div className="mt-1.5 text-xs sm:text-sm text-gray-700 space-y-1">
-          {detail.description && <p>{detail.description}</p>}
-          {detail.note && (
-            <p className="text-[10px] sm:text-xs text-gray-500">
-              {detail.note}
-            </p>
+      <div className="mt-1.5 text-xs sm:text-sm text-gray-700 space-y-1">
+        {detail.description && <p>{detail.description}</p>}
+        {detail.note && (
+          <p className="text-[10px] sm:text-xs text-gray-500">{detail.note}</p>
+        )}
+        <div className="space-x-2 mt-1 text-[10px] sm:text-xs">
+          {detail.homepage && (
+            <a
+              href={detail.homepage}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 underline"
+            >
+              ホームページ
+            </a>
           )}
-          <div className="space-x-2 mt-1 text-[10px] sm:text-xs">
-            {detail.homepage && (
-              <a
-                href={detail.homepage}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-blue-600 underline"
-              >
-                ホームページ
-              </a>
-            )}
-            {detail.line && (
-              <a
-                href={detail.line}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-green-600 underline"
-              >
-                LINE
-              </a>
-            )}
-            {detail.instagram && (
-              <a
-                href={detail.instagram}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-pink-500 underline"
-              >
-                Instagram
-              </a>
-            )}
-          </div>
+          {detail.line && (
+            <a
+              href={detail.line}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-green-600 underline"
+            >
+              LINE
+            </a>
+          )}
+          {detail.instagram && (
+            <a
+              href={detail.instagram}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-pink-500 underline"
+            >
+              Instagram
+            </a>
+          )}
         </div>
-      )}
+      </div>
     </details>
-  ) : (
-    <li
-      onClick={isModalLink && onClick ? onClick : undefined}
-      className={`${baseClass.replace("py-[6px]", "py-[5px]")} ${clickableClass}`}
-    >
-      {/* ✅ スマホでは1行、PCでは縦表示 */}
+  );
+}
+
+// ✅ 通常の店舗カード（li クリック型）
+function NormalShopCard({
+  shop,
+  onClick,
+}: {
+  shop: Shop;
+  onClick?: () => void;
+}) {
+  const baseClass = `rounded-lg px-3 py-[5px] sm:px-4 sm:py-3 mb-1 sm:mb-0 transition border bg-white border-gray-200`;
+
+  return (
+    <li onClick={onClick} className={baseClass}>
       <div className="sm:hidden flex flex-wrap items-center gap-x-1 leading-normal">
         <p className="font-semibold text-gray-900 text-xs">{shop.name}</p>
         {shop.address && (
           <p className="text-gray-600 text-[11px] leading-normal">{shop.address}</p>
         )}
-        {isModalLink && (
-          <span className="text-[10px] text-gray-600">[詳細]</span>
-        )}
       </div>
 
       <div className="hidden sm:block">
-        <div className="flex flex-wrap items-center gap-x-1 leading-normal">
-          <p className="font-semibold text-gray-900 text-sm">{shop.name}</p>
-          {isModalLink && (
-            <span className="text-xs text-gray-600">[詳細]</span>
-          )}
-        </div>
+        <p className="font-semibold text-gray-900 text-sm">{shop.name}</p>
         <p className="text-gray-600 text-sm leading-normal pb-[2px]">
           {shop.address}
         </p>
