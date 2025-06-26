@@ -29,12 +29,12 @@ type Props = {
 
 export default function ShopList({ genre, shops }: Props) {
   const [expanded, setExpanded] = useState(false);
-  const [isClient, setIsClient] = useState(false); // ✅ SSRかクライアントか判定
+  const [isClient, setIsClient] = useState(false);
   const headingRef = useRef<HTMLHeadingElement>(null);
   const { detailsMap } = useShopDetails();
 
   useEffect(() => {
-    setIsClient(true); // ✅ クライアントマウント後に切り替え
+    setIsClient(true);
   }, []);
 
   const threshold = 12;
@@ -73,30 +73,34 @@ export default function ShopList({ genre, shops }: Props) {
               return (
                 <li key={idx}>
                   <details
-                    className={`rounded-lg px-4 py-3 transition border ${isModalLink
-                      ? "bg-white border-pink-300 border-2 hover:shadow-md hover:scale-[1.03] duration-200"
-                      : "bg-white border-gray-200"
-                      }`}
+                    className={`rounded-lg px-3 py-2 sm:px-4 sm:py-3 transition border ${
+                      isModalLink
+                        ? "bg-white border-pink-300 border-2 hover:shadow-md hover:scale-[1.03] duration-200"
+                        : "bg-white border-gray-200"
+                    }`}
                   >
                     <summary
-                      className={`list-none marker:hidden ${isModalLink ? "cursor-pointer" : "cursor-default"
-                        }`}
+                      className={`list-none marker:hidden ${
+                        isModalLink ? "cursor-pointer" : "cursor-default"
+                      }`}
                     >
                       <div className="flex flex-wrap items-center gap-x-1">
-                        <p className="font-semibold text-gray-900">{shop.name}</p>
+                        <p className="font-semibold text-gray-900 text-xs sm:text-sm">{shop.name}</p>
                         {isModalLink && (
-                          <span className="text-xs text-gray-600">[詳細]</span>
+                          <span className="text-[10px] sm:text-xs text-gray-600">[詳細]</span>
                         )}
                       </div>
-                      <p className="text-gray-600 text-sm">{shop.address}</p>
+                      <p className="text-gray-600 text-[11px] sm:text-sm">{shop.address}</p>
                     </summary>
 
                     {isModalLink && detail && (
-                      <div className="mt-2 text-sm text-gray-700 space-y-1">
+                      <div className="mt-2 text-xs sm:text-sm text-gray-700 space-y-1">
                         {detail.description && <p>{detail.description}</p>}
-                        {detail.note && <p className="text-xs text-gray-500">{detail.note}</p>}
+                        {detail.note && (
+                          <p className="text-[10px] sm:text-xs text-gray-500">{detail.note}</p>
+                        )}
 
-                        <div className="space-x-2 mt-1 text-xs">
+                        <div className="space-x-2 mt-1 text-[10px] sm:text-xs">
                           {detail.homepage && (
                             <a
                               href={detail.homepage}
