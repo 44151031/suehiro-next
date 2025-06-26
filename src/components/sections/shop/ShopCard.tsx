@@ -30,19 +30,29 @@ export default function ShopCard({ shop, detail, onClick }: Props) {
           isModalLink ? "cursor-pointer" : "cursor-default"
         }`}
       >
-        <div className="flex flex-wrap items-center gap-x-1 leading-normal">
-          <p className="font-semibold text-gray-900 text-xs sm:text-sm">
-            {shop.name}
-          </p>
+        {/* ✅ スマホでは店舗名と住所を1行に、PCでは改行 */}
+        <div className="sm:hidden flex flex-wrap items-center gap-x-1 leading-normal">
+          <p className="font-semibold text-gray-900 text-xs">{shop.name}</p>
+          {shop.address && (
+            <p className="text-gray-600 text-[11px] leading-normal">{shop.address}</p>
+          )}
           {isModalLink && (
-            <span className="text-[10px] sm:text-xs text-gray-600">
-              [詳細]
-            </span>
+            <span className="text-[10px] text-gray-600">[詳細]</span>
           )}
         </div>
-        <p className="text-gray-600 text-[11px] sm:text-sm leading-normal pb-[2px]">
-          {shop.address}
-        </p>
+
+        {/* ✅ PC用（店舗名と住所を縦並び） */}
+        <div className="hidden sm:block">
+          <div className="flex flex-wrap items-center gap-x-1 leading-normal">
+            <p className="font-semibold text-gray-900 text-sm">{shop.name}</p>
+            {isModalLink && (
+              <span className="text-xs text-gray-600">[詳細]</span>
+            )}
+          </div>
+          <p className="text-gray-600 text-sm leading-normal pb-[2px]">
+            {shop.address}
+          </p>
+        </div>
       </summary>
 
       {isModalLink && (
@@ -53,7 +63,6 @@ export default function ShopCard({ shop, detail, onClick }: Props) {
               {detail.note}
             </p>
           )}
-
           <div className="space-x-2 mt-1 text-[10px] sm:text-xs">
             {detail.homepage && (
               <a
@@ -94,19 +103,28 @@ export default function ShopCard({ shop, detail, onClick }: Props) {
       onClick={isModalLink && onClick ? onClick : undefined}
       className={`${baseClass.replace("py-[6px]", "py-[5px]")} ${clickableClass}`}
     >
-      <div className="flex flex-wrap items-center gap-x-1 leading-normal">
-        <p className="font-semibold text-gray-900 text-xs sm:text-sm">
-          {shop.name}
-        </p>
+      {/* ✅ スマホでは1行、PCでは縦表示 */}
+      <div className="sm:hidden flex flex-wrap items-center gap-x-1 leading-normal">
+        <p className="font-semibold text-gray-900 text-xs">{shop.name}</p>
+        {shop.address && (
+          <p className="text-gray-600 text-[11px] leading-normal">{shop.address}</p>
+        )}
         {isModalLink && (
-          <span className="text-[10px] sm:text-xs text-gray-600">
-            [詳細]
-          </span>
+          <span className="text-[10px] text-gray-600">[詳細]</span>
         )}
       </div>
-      <p className="text-gray-600 text-[11px] sm:text-sm leading-normal pb-[2px]">
-        {shop.address}
-      </p>
+
+      <div className="hidden sm:block">
+        <div className="flex flex-wrap items-center gap-x-1 leading-normal">
+          <p className="font-semibold text-gray-900 text-sm">{shop.name}</p>
+          {isModalLink && (
+            <span className="text-xs text-gray-600">[詳細]</span>
+          )}
+        </div>
+        <p className="text-gray-600 text-sm leading-normal pb-[2px]">
+          {shop.address}
+        </p>
+      </div>
     </li>
   );
 }
