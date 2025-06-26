@@ -2,6 +2,7 @@
 
 import { useRef, useState, useEffect } from "react";
 import { useShopDetails } from "@/hooks/useShopDetails";
+import ShopCard from "./ShopCard"; // ✅ 統合したカードを使う
 
 type Shop = {
   name: string;
@@ -65,77 +66,16 @@ export default function ShopList({ genre, shops }: Props) {
         </p>
       ) : (
         <>
-          <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 text-sm">
+          <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 sm:gap-3 text-sm">
             {visibleShops.map((shop, idx) => {
-              const detail = shop.shopid ? detailsMap[shop.shopid] : null;
-              const isModalLink = !!detail;
-
+              const detail = shop.shopid ? detailsMap[shop.shopid] : undefined;
               return (
-                <li key={idx}>
-                  <details
-                    className={`rounded-lg px-3 pt-2 sm:px-4 sm:py-3 transition border ${
-                      isModalLink
-                        ? "bg-white border-pink-300 border-2 hover:shadow-md hover:scale-[1.03] duration-200"
-                        : "bg-white border-gray-200"
-                    }`}
-                  >
-                    <summary
-                      className={`list-none marker:hidden ${
-                        isModalLink ? "cursor-pointer" : "cursor-default"
-                      }`}
-                    >
-                      <div className="flex flex-wrap items-center gap-x-1">
-                        <p className="font-semibold text-gray-900 text-xs sm:text-sm">{shop.name}</p>
-                        {isModalLink && (
-                          <span className="text-[10px] sm:text-xs text-gray-600">[詳細]</span>
-                        )}
-                      </div>
-                      <p className="text-gray-600 text-[11px] sm:text-sm">{shop.address}</p>
-                    </summary>
-
-                    {isModalLink && detail && (
-                      <div className="mt-2 text-xs sm:text-sm text-gray-700 space-y-1">
-                        {detail.description && <p>{detail.description}</p>}
-                        {detail.note && (
-                          <p className="text-[10px] sm:text-xs text-gray-500">{detail.note}</p>
-                        )}
-
-                        <div className="space-x-2 mt-1 text-[10px] sm:text-xs">
-                          {detail.homepage && (
-                            <a
-                              href={detail.homepage}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              className="text-blue-600 underline"
-                            >
-                              ホームページ
-                            </a>
-                          )}
-                          {detail.line && (
-                            <a
-                              href={detail.line}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              className="text-green-600 underline"
-                            >
-                              LINE
-                            </a>
-                          )}
-                          {detail.instagram && (
-                            <a
-                              href={detail.instagram}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              className="text-pink-500 underline"
-                            >
-                              Instagram
-                            </a>
-                          )}
-                        </div>
-                      </div>
-                    )}
-                  </details>
-                </li>
+                <ShopCard
+                  key={idx}
+                  shop={shop}
+                  detail={detail}
+                  onClick={() => {}}
+                />
               );
             })}
           </ul>
