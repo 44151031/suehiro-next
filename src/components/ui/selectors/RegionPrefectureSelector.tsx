@@ -8,35 +8,19 @@ import {
   DialogTrigger,
 } from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
-import { usePathname, useRouter } from "next/navigation";
+import { useRouter } from "next/navigation";
 import { useState } from "react";
 import { campaigns } from "@/lib/campaignMaster";
 import { prefectures, prefectureGroups } from "@/lib/prefectures";
 import { getCampaignStatus } from "@/lib/campaignUtils";
 
 export function PrefectureSelector() {
-  const pathname = usePathname();
   const router = useRouter();
   const [open, setOpen] = useState(false);
   const [selectedGroup, setSelectedGroup] = useState<string | null>(null);
 
-  const segments = pathname.split("/");
-  const [_, __, prefSlug, citySlug, paytypeSlug] = segments;
-
-  const isCityPage = !!prefSlug && !!citySlug && !paytypeSlug;
-  const isCityPaytypePage = !!prefSlug && !!citySlug && !!paytypeSlug;
-
-  const currentCampaign = campaigns.find(
-    (c) =>
-      c.prefectureSlug === prefSlug &&
-      (isCityPage || isCityPaytypePage ? c.citySlug === citySlug : true)
-  );
-
-  const label = currentCampaign
-    ? isCityPage || isCityPaytypePage
-      ? `${currentCampaign.prefecture}${currentCampaign.city}｜エリア変更`
-      : `${currentCampaign.prefecture}｜エリア変更`
-    : "都道府県を選択してください";
+  // ✅ 常に固定表示
+  const label = "エリア変更";
 
   // ✅ 終了していないキャンペーンの都道府県スラッグ一覧
   const activePrefectureSlugs = Array.from(
