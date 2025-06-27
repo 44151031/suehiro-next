@@ -51,13 +51,9 @@ export default async function CityPaytypePage({
   if (!campaign) return notFound();
 
   const payLabel = PayTypeLabels[paytypeId];
-  const isPayPay = paytypeId === "paypay";
 
-  const shopListByGenre = isPayPay
-    ? await loadShopList(params.prefecture, params.city)
-    : null;
-
-  const genres = isPayPay ? await loadGenres(params.prefecture, params.city) : [];
+  const shopListByGenre = await loadShopList(params.prefecture, params.city, paytypeId);
+  const genres = await loadGenres(params.prefecture, params.city, paytypeId); // ✅ 修正済み
 
   const {
     prefecture,
