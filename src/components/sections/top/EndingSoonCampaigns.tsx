@@ -1,14 +1,47 @@
 "use client";
 
+import { useLocationStore } from "@/stores/locationStore";
 import { campaigns } from "@/lib/campaignMaster";
 import { isEndingSoon } from "@/lib/campaignUtils";
 import ScopedCampaignSlider from "@/components/common/CampaignSlider";
 import Button from "@/components/ui/button/button";
+import { prefectures } from "@/lib/prefectures";
+
+// Haversine 距離計算（km）
+function getDistance(lat1: number, lng1: number, lat2: number, lng2: number) {
+  const R = 6371;
+  const dLat = ((lat2 - lat1) * Math.PI) / 180;
+  const dLng = ((lng2 - lng1) * Math.PI) / 180;
+  const a =
+    Math.sin(dLat / 2) ** 2 +
+    Math.cos((lat1 * Math.PI) / 180) *
+      Math.cos((lat2 * Math.PI) / 180) *
+      Math.sin(dLng / 2) ** 2;
+  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+}
 
 export default function EndingSoonCampaigns() {
-  const endingSoon = campaigns
-    .filter((c) => isEndingSoon(c.endDate))
-    .sort((a, b) => new Date(a.endDate).getTime() - new Date(b.endDate).getTime()); // ← ここでソート
+  const { fetched, lat, lng } = useLocationStore();
+
+  let endingSoon = campaigns.filter((c) => isEndingSoon(c.endDate));
+
+  // ✅ 位置情報があれば、prefecturesの座標から距離を測って並べ替え
+  if (fetched && lat != null && lng != null) {
+    endingSoon = endingSoon
+      .map((c) => {
+        const pref = prefectures.find((p) => p.slug === c.prefectureSlug);
+        if (!pref) return null;
+        const distance = getDistance(lat, lng, pref.lat, pref.lng);
+        return { ...c, distance };
+      })
+      .filter((c): c is typeof campaigns[number] & { distance: number } => c !== null)
+      .sort((a, b) => a.distance - b.distance);
+  } else {
+    // 位置情報がなければ終了日順
+    endingSoon = endingSoon.sort(
+      (a, b) => new Date(a.endDate).getTime() - new Date(b.endDate).getTime()
+    );
+  }
 
   if (endingSoon.length === 0) return null;
 
