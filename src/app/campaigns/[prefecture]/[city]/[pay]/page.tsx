@@ -1,4 +1,4 @@
-// ✅ 最終完全版
+// ✅ 最終完全版（FAQ構造化データ削除済み）
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import { campaigns } from "@/lib/campaignMaster";
@@ -21,7 +21,6 @@ import CampaignStatusNotice from "@/components/common/CampaignStatusNotice";
 import { getPaytypeMetadata } from "@/lib/metadataGenerators";
 import CampaignStructuredData from "@/components/structured/CampaignStructuredData";
 import CityCampaignFAQ from "@/components/sections/city/CampaignFAQ";
-import { generateCityFAQStructuredData } from "@/lib/FAQTemplateGenerator"; // ✅ 追加
 
 type Props = {
   params: { prefecture: string; city: string; pay: string };
@@ -53,7 +52,7 @@ export default async function CityPaytypePage({
   const payLabel = PayTypeLabels[paytypeId];
 
   const shopListByGenre = await loadShopList(params.prefecture, params.city, paytypeId);
-  const genres = await loadGenres(params.prefecture, params.city, paytypeId); // ✅ 修正済み
+  const genres = await loadGenres(params.prefecture, params.city, paytypeId);
 
   const {
     prefecture,
@@ -83,11 +82,9 @@ export default async function CityPaytypePage({
     style: "impact",
   });
 
-  const faqStructuredData = generateCityFAQStructuredData(prefecture, city, payLabel); // ✅ FAQ構造化データ生成
-
   return (
     <>
-      {/* ✅ キャンペーン構造化データ */}
+      {/* ✅ キャンペーン構造化データ（FAQも統合済み） */}
       <CampaignStructuredData
         prefecture={prefecture}
         prefectureSlug={prefectureSlug}
@@ -106,14 +103,6 @@ export default async function CityPaytypePage({
         datePublished={datePublished}
         dateModified={modified}
         officialUrl={campaign.officialUrl}
-      />
-
-      {/* ✅ FAQ構造化データの埋め込み */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify(faqStructuredData),
-        }}
       />
 
       <div className="w-full bg-[#f8f7f2] text-secondary-foreground">

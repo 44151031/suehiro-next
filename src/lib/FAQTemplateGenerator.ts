@@ -32,8 +32,6 @@ export function generateCityCampaignFAQ(
   questions.push(`${payLabel}で付与されたポイントはどこで使えますか？`);
   answers.push(getAnswerForQ5(location, payLabel));
 
-
-
   return { questions, answers };
 }
 
@@ -104,28 +102,4 @@ function getAnswerForQ5(location: string, payLabel: string): string {
 // Q6: 対象エリア外の居住者も還元対象か
 function getAnswerForQ6(location: string, payLabel: string): string {
   return `はい、${location}の${payLabel}キャンペーンでは、${location}にお住まいでなくても対象店舗での対象決済であれば還元の対象になります。観光や出張、帰省などで訪れた際にも利用できます。詳細条件はPayキャンの${location}公式ページをご確認ください。`;
-}
-
-// ✅ 構造化データ（FAQPage）を生成する関数
-export function generateCityFAQStructuredData(
-  prefecture: string,
-  city: string,
-  payLabel: string
-): Record<string, any> {
-  const { questions, answers } = generateCityCampaignFAQ(prefecture, city, payLabel);
-
-  const mainEntity = questions.map((question, index) => ({
-    "@type": "Question",
-    "name": question,
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": answers[index],
-    },
-  }));
-
-  return {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": mainEntity,
-  };
 }
