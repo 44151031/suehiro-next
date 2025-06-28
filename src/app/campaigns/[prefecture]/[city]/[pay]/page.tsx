@@ -1,4 +1,4 @@
-// ✅ 最終完全版（FAQ構造化データ削除済み）
+// ✅ 最終完全版（FAQ構造化データ含む）
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import { campaigns } from "@/lib/campaignMaster";
@@ -19,7 +19,7 @@ import GenreShopLists from "@/components/sections/shop/GenreShopLists";
 import SampleShopExample from "@/components/sections/shop/SampleShopExample";
 import CampaignStatusNotice from "@/components/common/CampaignStatusNotice";
 import { getPaytypeMetadata } from "@/lib/metadataGenerators";
-import CampaignStructuredData from "@/components/structured/CampaignStructuredData";
+import PaytypeCampaignStructuredData from "@/components/structured/PaytypeCampaignStructuredData"; // ✅ 修正
 import CityCampaignFAQ from "@/components/sections/city/CampaignFAQ";
 
 type Props = {
@@ -85,7 +85,7 @@ export default async function CityPaytypePage({
   return (
     <>
       {/* ✅ キャンペーン構造化データ（FAQも統合済み） */}
-      <CampaignStructuredData
+      <PaytypeCampaignStructuredData
         prefecture={prefecture}
         prefectureSlug={prefectureSlug}
         city={city}
