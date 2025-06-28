@@ -55,20 +55,12 @@ export default function MobileMenu({ onClose }: Props) {
       {/* 下部リンク */}
       <div className="mt-auto px-6 pb-10 pt-10 space-y-4 text-sm text-gray-700">
         <a
-          href="https://example.com/recruit"
+          href="/campaigns/archive"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 hover:text-red-600"
         >
-          採用情報 <ExternalLink className="w-4 h-4" />
-        </a>
-        <a
-          href="https://www.tosoh.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="flex items-center gap-2 hover:text-red-600"
-        >
-          English Site <ExternalLink className="w-4 h-4" />
+          次回開催待ち一覧 <ExternalLink className="w-4 h-4" />
         </a>
         <p className="text-xs text-gray-400">© 2025 Payキャン</p>
       </div>
