@@ -70,7 +70,7 @@ export function SNSShareButtons({ url, title, hashtags = [] }: Props) {
           size="sm"
           className="bg-[#1DA1F2] hover:bg-[#1a8cd8] text-white text-sm rounded-md"
         >
-          Xでポストする
+          Xでポスト
         </Button>
       </a>
 
