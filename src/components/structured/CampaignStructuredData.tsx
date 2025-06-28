@@ -2,6 +2,7 @@
 
 import React from "react";
 import type { CampaignStructuredDataProps } from "@/types/campaign";
+import { generateCityCampaignFAQ } from "@/lib/FAQTemplateGenerator";
 
 const CampaignStructuredData = ({
   prefecture,
@@ -30,8 +31,19 @@ const CampaignStructuredData = ({
 
   const imageUrl = `${origin}/images/campaigns/ogp/${prefectureSlug}-${citySlug}-${paytype}-ogp.jpg`;
 
-  // ✅ タイムゾーン付き ISO 8601 形式へ補正
   const toISO8601WithTZ = (date: string) => `${date}T00:00:00+09:00`;
+
+  // ✅ FAQデータを外部から取得
+  const { questions, answers } = generateCityCampaignFAQ(prefecture, city, paytype);
+
+  const faqEntities = questions.map((q, i) => ({
+    "@type": "Question",
+    "name": q,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": answers[i]
+    }
+  }));
 
   const data = {
     "@context": "https://schema.org",
@@ -115,56 +127,7 @@ const CampaignStructuredData = ({
       },
       {
         "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": `キャンペーン対象エリア（${prefecture}${city}）に住んでいなくても還元を受けられますか？`,
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": `${prefecture}${city}の${paytype}キャンペーンでは、${prefecture}${city}にお住まいでなくても対象店舗での対象決済であれば還元の対象になります。観光や出張、帰省などで訪れた際にも利用できます。詳細条件は公式ページをご確認ください。`
-            }
-          },
-          {
-            "@type": "Question",
-            "name": `${paytype}の還元は何時、何でもらえますか？`,
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": `${prefecture}${city}の${paytype}キャンペーンでは、通常は決済から30日以内にポイントとして還元されます。`
-            }
-          },
-          {
-            "@type": "Question",
-            "name": `家族のスマホで${paytype}を使った場合も還元されますか？`,
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": `${paytype}のアカウント単位で還元対象が決まります。対象アカウントでの正しい決済であれば還元されます。`
-            }
-          },
-          {
-            "@type": "Question",
-            "name": `${paytype}で支払ったのにポイントが付かないのはなぜ？`,
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": `期間外・対象外店舗・対象外商品・クレジット払い・請求書払いなどは還元対象外です。`
-            }
-          },
-          {
-            "@type": "Question",
-            "name": `${paytype}は他のキャンペーンと併用できますか？`,
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": `他キャンペーンとの併用が可能な場合もありますが、上限や条件に注意が必要です。`
-            }
-          },
-          {
-            "@type": "Question",
-            "name": `${paytype}で付与されたポイントはどこで使えますか？`,
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": `全国の${paytype}対応店舗で使用可能です。`
-            }
-          }
-        ]
+        "mainEntity": faqEntities
       }
     ]
   };
