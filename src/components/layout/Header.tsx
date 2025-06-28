@@ -1,109 +1,74 @@
 'use client';
 
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import Image from "next/image";
-import { useEffect, useState } from "react";
-import {
-  Menu,
-  Home,
-  Gift,
-  Info,
-} from "lucide-react";
-import { cn } from "@/lib/utils";
+import { Menu } from "lucide-react";
 import { PrefectureSelector } from "@/components/ui/selectors/RegionPrefectureSelector";
 import Container from "@/components/layout/Container";
-import {
-  Sheet,
-  SheetTrigger,
-  SheetContent,
-  SheetTitle,
-} from "@/components/ui/sheet";
-
-const menuItems = [
-  { name: "トップ", href: "/", icon: Home },
-  { name: "キャンペーン一覧", href: "/campaigns", icon: Gift },
-  { name: "運営管理", href: "/management", icon: Info },
-];
+import MobileMenu from "@/components/ui/MobileMenu";
 
 export default function Header() {
   const [isScrolled, setIsScrolled] = useState(false);
+  const [menuOpen, setMenuOpen] = useState(false);
 
+  // スクロールでヘッダー影
   useEffect(() => {
     const handleScroll = () => setIsScrolled(window.scrollY > 20);
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
+  // ✅ メニュー開閉でbodyスクロール制御
+  useEffect(() => {
+    document.body.style.overflow = menuOpen ? "hidden" : "auto";
+    return () => {
+      document.body.style.overflow = "auto";
+    };
+  }, [menuOpen]);
+
   return (
-    <header
-      className={cn(
-        "fixed top-0 left-0 right-0 z-50 h-16 transition-all duration-300",
-        isScrolled ? "bg-white shadow" : "bg-white/80 backdrop-blur-md"
-      )}
-    >
-      <Container>
-        <div className="h-16 flex items-center justify-between">
-          {/* ✅ タイトル（ロゴは狭い画面で非表示） */}
-          <Link href="/" className="flex flex-col leading-tight group">
-            <span className="text-xs sm:text-sm text-neutral-600 leading-tight">
-              PayPay・au PAY・楽天ペイ・d払い還元体験
-            </span>
-            <span className="flex items-center gap-1 flex-nowrap text-2xl sm:text-3xl font-extrabold tracking-tight text-gray-900 leading-tight">
-              <Image
-                src="/logo.png"
-                alt="Payキャンロゴ"
-                width={32}
-                height={32}
-                className="w-8 h-8 shrink-0 hidden sm:block"
-              />
-              <span className="text-red-600">Pay</span><span className="text-xl text-gray-800 font-medium align-middle">キャン</span>
-              <span className="text-sm text-gray-600 font-medium align-middle hidden sm:inline">(ペイキャン)
+    <>
+      <header
+        className={`fixed top-0 left-0 right-0 z-40 h-16 transition-all duration-300 ${
+          isScrolled ? "bg-white shadow" : "bg-white/80 backdrop-blur-md"
+        }`}
+      >
+        <Container>
+          <div className="h-16 flex items-center justify-between">
+            <Link href="/" className="flex flex-col leading-tight group">
+              <span className="text-xs sm:text-sm text-neutral-600">
+                PayPay・au PAY・楽天ペイ・d払い還元体験
               </span>
-            </span>
-          </Link>
+              <span className="flex items-center gap-1 text-2xl sm:text-3xl font-extrabold tracking-tight text-gray-900">
+                <Image
+                  src="/logo.png"
+                  alt="Payキャンロゴ"
+                  width={32}
+                  height={32}
+                  className="w-8 h-8 hidden sm:block"
+                />
+                <span className="text-red-600">Pay</span>
+                <span className="text-xl text-gray-800 font-medium">キャン</span>
+                <span className="text-sm text-gray-600 font-medium hidden sm:inline">(ペイキャン)</span>
+              </span>
+            </Link>
 
-          {/* ✅ 右側操作エリア */}
-          <div className="flex items-center space-x-4">
-            <PrefectureSelector />
-
-            {/* ✅ モバイルメニュー */}
-            <Sheet>
-              <SheetTrigger asChild>
-                <button
-                  className="sm:hidden text-gray-600"
-                  aria-label="メニュー"
-                >
-                  <Menu className="w-6 h-6" />
-                </button>
-              </SheetTrigger>
-
-              <SheetContent
-                side="left"
-                className="w-3/4 max-w-xs bg-white/80 backdrop-blur-md shadow-xl animate-in slide-in-from-left duration-300 flex flex-col"
+            <div className="flex items-center space-x-4">
+              <PrefectureSelector />
+              <button
+                onClick={() => setMenuOpen(true)}
+                className="sm:hidden text-gray-700"
+                aria-label="メニューを開く"
               >
-                <SheetTitle className="sr-only">メニューを開く</SheetTitle>
-
-                <nav className="mt-8 space-y-4">
-                  {menuItems.map(({ name, href, icon: Icon }) => (
-                    <Link
-                      key={name}
-                      href={href}
-                      className="flex items-center space-x-3 text-gray-800 font-medium text-base hover:text-orange-500 transition-colors"
-                    >
-                      <Icon className="w-5 h-5" />
-                      <span>{name}</span>
-                    </Link>
-                  ))}
-                </nav>
-
-                <div className="mt-auto pt-6 border-t border-gray-200">
-                  <p className="text-sm text-gray-500">© 2025 Payキャン</p>
-                </div>
-              </SheetContent>
-            </Sheet>
+                <Menu className="w-6 h-6" />
+              </button>
+            </div>
           </div>
-        </div>
-      </Container>
-    </header>
+        </Container>
+      </header>
+
+      {menuOpen && <MobileMenu onClose={() => setMenuOpen(false)} />}
+    </>
   );
 }
