@@ -1,7 +1,7 @@
 'use client';
 
 import Link from "next/link";
-import { ExternalLink } from "lucide-react";
+import { ExternalLink, MessageSquareText, XIcon } from "lucide-react";
 
 type Props = {
   onClose: () => void;
@@ -19,27 +19,29 @@ export default function MobileMenu({ onClose }: Props) {
         ✕
       </button>
 
-      {/* 上部ボタン */}
+      {/* 上部ボタン（東ソー風2行 + アイコン大きめ） */}
       <div className="mt-20 px-6 flex gap-4">
         <a
           href="https://lin.ee/PwfONyl"
           target="_blank"
           rel="noopener noreferrer"
-          className="menu-button line flex-1"
+          className="flex-1 flex flex-col justify-center items-center h-20 rounded-md bg-green-500 text-white font-semibold shadow-md hover:bg-green-600 transition"
         >
-          LINEお得情報
+          <MessageSquareText className="w-8 h-8 mb-1" />
+          <span className="text-sm">LINEお得情報</span>
         </a>
         <a
           href="https://x.com/paycancampaign"
           target="_blank"
           rel="noopener noreferrer"
-          className="menu-button x flex-1"
+          className="flex-1 flex flex-col justify-center items-center h-20 rounded-md bg-gray-900 text-white font-semibold shadow-md hover:bg-gray-800 transition"
         >
-          Xでお得情報
+          <XIcon className="w-8 h-8 mb-1" />
+          <span className="text-sm">Xでお得情報</span>
         </a>
       </div>
 
-      {/* メニュー */}
+      {/* メニュー項目 */}
       <nav className="mt-10 px-6 space-y-6 text-lg font-medium text-gray-800">
         <Link href="/campaigns" onClick={onClose} className="block border-b pb-2 hover:text-red-600">
           全国のキャンペーン一覧
