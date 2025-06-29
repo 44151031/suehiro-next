@@ -24,10 +24,10 @@ export default function CityCampaignFAQ({ prefecture, city, payLabel }: Props) {
         {questions.map((q, index) => (
           <details
             key={index}
-            className="group rounded-xl border border-gray-200 bg-white px-5 py-4 shadow-sm transition-all duration-300"
+            className="group rounded-xl border border-gray-200 bg-white px-5 py-2 shadow-sm transition-all duration-300"
           >
-            <summary className="flex cursor-pointer list-none items-center justify-between text-base font-semibold text-gray-900 hover:opacity-90">
-              <h3 className="flex items-center text-base font-semibold text-gray-900">
+            <summary className="flex cursor-pointer list-none items-center justify-between text-sm sm:text-base font-semibold text-gray-900 hover:opacity-90">
+              <h3 className="flex items-center text-xs sm:text-base font-semibold text-gray-900">
                 <span className="mr-2 text-red-500 font-bold">Q.</span>
                 {q}
               </h3>
@@ -41,7 +41,7 @@ export default function CityCampaignFAQ({ prefecture, city, payLabel }: Props) {
                 <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
               </svg>
             </summary>
-            <div className="mt-3 text-sm text-gray-700 leading-relaxed">
+            <div className="mt-3 text-xs sm:text-base text-gray-700 leading-relaxed">
               {answers[index]}
             </div>
           </details>
