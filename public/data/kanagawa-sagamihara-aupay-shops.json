@@ -1,55 +1,59 @@
 {
-  "その他サービス": [
+  "中央区": [
     {
-      "name": "工房マミランド",
-      "address": "南区旭町"
-    },
-    {
-      "name": "ゆめづくりパン工房麻溝店",
-      "address": "南区下溝"
-    },
-    {
-      "name": "CAR工房",
-      "address": "南区下溝"
-    },
-    {
-      "name": "カレーハウスCoCo壱番屋相模原古淵駅前店",
-      "address": "南区古淵"
-    },
-    {
-      "name": "うさちゃんクリーニング イトーヨーカドー古淵店",
-      "address": "南区古淵"
-    },
-    {
-      "name": "久保田写真館",
-      "address": "緑区下九沢"
-    },
-    {
-      "name": "クリーニングショップフラット 下九沢店",
-      "address": "緑区下九沢"
-    },
-    {
-      "name": "沢井屋写真館「2階」",
-      "address": "緑区吉野"
-    },
-    {
-      "name": "スマホ修理工房 橋本駅店",
-      "address": "緑区橋本"
-    },
-    {
-      "name": "イケヤ写真館",
-      "address": "緑区橋本"
-    },
-    {
-      "name": "スパンダスタジオ 橋本店",
-      "address": "緑区橋本"
+      "name": "アベ電化",
+      "address": "中央区すすきの町"
     },
     {
       "name": "有限会社 村井写真館",
       "address": "中央区すすきの町"
     },
     {
+      "name": "こめくまカフェ",
+      "address": "中央区すすきの町"
+    },
+    {
+      "name": "Ordinary King",
+      "address": "中央区すすきの町"
+    },
+    {
+      "name": "auショップ 相模原店",
+      "address": "中央区横山"
+    },
+    {
+      "name": "ソフトバンク 相模原店",
+      "address": "中央区横山"
+    },
+    {
+      "name": "ノジマ 相模原本店",
+      "address": "中央区横山"
+    },
+    {
+      "name": "焼鳥本山 横山店",
+      "address": "中央区横山"
+    },
+    {
       "name": "MAXクリーニング 横山店",
+      "address": "中央区横山"
+    },
+    {
+      "name": "ぺット美容室 フットスタンプ",
+      "address": "中央区横山"
+    },
+    {
+      "name": "TOMOPOP",
+      "address": "中央区横山"
+    },
+    {
+      "name": "中村書店相模原高等学校売店",
+      "address": "中央区横山"
+    },
+    {
+      "name": "むさしの森珈琲 相模原横山店",
+      "address": "中央区横山"
+    },
+    {
+      "name": "La seek",
       "address": "中央区横山"
     },
     {
@@ -57,215 +61,7 @@
       "address": "中央区横山"
     },
     {
-      "name": "豆工房コーヒーロースト相模原店",
-      "address": "中央区光が丘"
-    }
-  ],
-  "ガソリンスタンド": [
-    {
-      "name": "キグナスセルフ相模湖",
-      "address": "緑区吉野"
-    },
-    {
-      "name": "ENEOS Laundry星ヶ丘店",
-      "address": "中央区光が丘"
-    }
-  ],
-  "スーパーマーケット": [
-    {
-      "name": "スーパー公正屋 下九沢店",
-      "address": "緑区下九沢"
-    }
-  ],
-  "ドラッグストア・薬局": [
-    {
-      "name": "スギ薬局 相模原古淵店",
-      "address": "南区古淵"
-    },
-    {
-      "name": "スギ薬局 相模原下九沢店",
-      "address": "中央区下九沢"
-    }
-  ],
-  "美容・理容・サロン": [
-    {
-      "name": "ヘアーサロン すずき",
-      "address": "南区旭町"
-    },
-    {
-      "name": "サロンドでくの坊／サロンドラジュニール",
-      "address": "南区鵜野森"
-    },
-    {
-      "name": "プラチナ整体",
-      "address": "南区下溝"
-    },
-    {
-      "name": "古淵かえる整体院",
-      "address": "南区古淵"
-    },
-    {
-      "name": "バランス整体サロン和",
-      "address": "緑区下九沢"
-    },
-    {
-      "name": "ペットサロン ムルカスタジオ",
-      "address": "緑区下九沢"
-    },
-    {
-      "name": "和整体院",
-      "address": "緑区橋本"
-    },
-    {
-      "name": "整体院粋-Sui",
-      "address": "緑区橋本"
-    },
-    {
-      "name": "トータルボディケアサロン セレノ",
-      "address": "緑区橋本"
-    },
-    {
-      "name": "美容室アルク",
-      "address": "緑区橋本"
-    },
-    {
-      "name": "ぺット美容室 フットスタンプ",
-      "address": "中央区横山"
-    },
-    {
-      "name": "鍼灸マッサージ院 Monet",
-      "address": "中央区横山"
-    },
-    {
-      "name": "ファミリー美肌サロン",
-      "address": "中央区横山台"
-    },
-    {
-      "name": "エンアトリエ美容室",
-      "address": "中央区下九沢"
-    },
-    {
-      "name": "はなえみ指圧マッサージ",
-      "address": "中央区共和"
-    }
-  ],
-  "自転車・バイク・車関連": [
-    {
-      "name": "柿澤自動車",
-      "address": "南区磯部"
-    },
-    {
-      "name": "中古タイヤ市場 相模原店",
-      "address": "南区下溝"
-    },
-    {
-      "name": "オートショップ相模",
-      "address": "南区下溝"
-    },
-    {
-      "name": "ティップスオートガレージ",
-      "address": "緑区下九沢"
-    },
-    {
-      "name": "ダイイチオートサービス サガミハラ",
-      "address": "緑区下九沢"
-    },
-    {
-      "name": "守屋自動車整備工場",
-      "address": "緑区吉野"
-    },
-    {
-      "name": "サクラオート",
-      "address": "中央区下九沢"
-    },
-    {
-      "name": "相模オートガラス",
-      "address": "中央区光が丘"
-    }
-  ],
-  "衣料品・ファッション": [
-    {
-      "name": "ブティックティファニー",
-      "address": "緑区橋本"
-    }
-  ],
-  "酒屋・リカーショップ": [
-    {
-      "name": "ヤギ・リカーズ",
-      "address": "南区古淵"
-    },
-    {
-      "name": "串焼き酒場 切磋琢磨",
-      "address": "南区古淵"
-    },
-    {
-      "name": "酒処 木ノ葉",
-      "address": "緑区下九沢"
-    },
-    {
-      "name": "炭焼酒場 焔 ほむら 橋本店",
-      "address": "緑区橋本"
-    },
-    {
-      "name": "馬肉創作酒場 当千坊",
-      "address": "緑区橋本"
-    },
-    {
-      "name": "焼鳥酒場 とりべぇ",
-      "address": "中央区横山台"
-    },
-    {
-      "name": "鉄板焼き居酒屋なかまる",
-      "address": "中央区横山台"
-    },
-    {
-      "name": "伊藤酒店",
-      "address": "中央区光が丘"
-    }
-  ],
-  "飲食店・カフェ": [
-    {
-      "name": "蕎麦処近江家",
-      "address": "南区旭町"
-    },
-    {
-      "name": "湯あがり珈琲",
-      "address": "南区下溝"
-    },
-    {
-      "name": "くるまやラーメン 相模原下溝店",
-      "address": "南区下溝"
-    },
-    {
-      "name": "コメダ珈琲店 古淵駅前店",
-      "address": "南区古淵"
-    },
-    {
-      "name": "千福寿司",
-      "address": "緑区下九沢"
-    },
-    {
-      "name": "石井珈琲店",
-      "address": "緑区久保沢"
-    },
-    {
-      "name": "ベーカリーアンドカフェ ルパ橋本店",
-      "address": "緑区橋本"
-    },
-    {
-      "name": "咲耶珈琲香房",
-      "address": "緑区橋本"
-    },
-    {
-      "name": "レストランいのうえ",
-      "address": "緑区橋本"
-    },
-    {
-      "name": "こめくまカフェ",
-      "address": "中央区すすきの町"
-    },
-    {
-      "name": "むさしの森珈琲 相模原横山店",
+      "name": "ワタナベ電化",
       "address": "中央区横山"
     },
     {
@@ -273,7 +69,63 @@
       "address": "中央区横山"
     },
     {
+      "name": "日産サティオ湘南 相模原中央店",
+      "address": "中央区横山"
+    },
+    {
+      "name": "Chinese kitchen8×4",
+      "address": "中央区横山"
+    },
+    {
       "name": "お届け寿司 うさぎ",
+      "address": "中央区横山"
+    },
+    {
+      "name": "PUT Depot",
+      "address": "中央区横山"
+    },
+    {
+      "name": "ドローンラウンジジュピター",
+      "address": "中央区横山"
+    },
+    {
+      "name": "かさい整骨院",
+      "address": "中央区横山"
+    },
+    {
+      "name": "たけみや",
+      "address": "中央区横山"
+    },
+    {
+      "name": "cafe Bar pixie",
+      "address": "中央区横山"
+    },
+    {
+      "name": "安心らくらく 福祉タクシー",
+      "address": "中央区横山"
+    },
+    {
+      "name": "COULANE",
+      "address": "中央区横山"
+    },
+    {
+      "name": "味の専科",
+      "address": "中央区横山"
+    },
+    {
+      "name": "ジャパン観光東京",
+      "address": "中央区横山"
+    },
+    {
+      "name": "鍼灸マッサージ院 Monet",
+      "address": "中央区横山"
+    },
+    {
+      "name": "nail salon coton 横山店",
+      "address": "中央区横山"
+    },
+    {
+      "name": "個人山本タクシー",
       "address": "中央区横山"
     },
     {
@@ -281,7 +133,75 @@
       "address": "中央区横山"
     },
     {
+      "name": "相模楽器 横山店",
+      "address": "中央区横山"
+    },
+    {
+      "name": "セオサイクル相模原中央店",
+      "address": "中央区横山"
+    },
+    {
+      "name": "健康麻雀KSK",
+      "address": "中央区横山"
+    },
+    {
+      "name": "流行屋-HAYARIYA-",
+      "address": "中央区横山"
+    },
+    {
+      "name": "か印 横山商店。",
+      "address": "中央区横山"
+    },
+    {
+      "name": "ヴォート・エスパース",
+      "address": "中央区横山"
+    },
+    {
+      "name": "クシタニ相模原店",
+      "address": "中央区横山"
+    },
+    {
+      "name": "ポムリ",
+      "address": "中央区横山"
+    },
+    {
+      "name": "大谷商店",
+      "address": "中央区横山"
+    },
+    {
+      "name": "Buddy Hair",
+      "address": "中央区横山"
+    },
+    {
+      "name": "OLUOLU",
+      "address": "中央区横山"
+    },
+    {
+      "name": "宗家源吉兆庵 相模原横山店",
+      "address": "中央区横山"
+    },
+    {
+      "name": "Joys",
+      "address": "中央区横山"
+    },
+    {
+      "name": "てるて接骨院鍼灸院",
+      "address": "中央区横山"
+    },
+    {
+      "name": "ぶどう亭",
+      "address": "中央区横山"
+    },
+    {
       "name": "ラーメンたきび",
+      "address": "中央区横山"
+    },
+    {
+      "name": "電化社",
+      "address": "中央区横山"
+    },
+    {
+      "name": "元祖ニュータンタンメン本舗 相模原店",
       "address": "中央区横山"
     },
     {
@@ -289,15 +209,291 @@
       "address": "中央区横山"
     },
     {
+      "name": "ヘアーショップ ビーポイント",
+      "address": "中央区横山"
+    },
+    {
+      "name": "セラピーシャトークローバー",
+      "address": "中央区横山"
+    },
+    {
+      "name": "トータルリペア アクティブ",
+      "address": "中央区横山"
+    },
+    {
+      "name": "中村書店 本店",
+      "address": "中央区横山"
+    },
+    {
+      "name": "仏壇の永田屋 上溝店",
+      "address": "中央区横山"
+    },
+    {
+      "name": "焼鳥酒場 とりべぇ",
+      "address": "中央区横山台"
+    },
+    {
+      "name": "HairSalon結人",
+      "address": "中央区横山台"
+    },
+    {
+      "name": "ダンスSPOTオギハラ 相模原教室",
+      "address": "中央区横山台"
+    },
+    {
+      "name": "ピアノ プログレス",
+      "address": "中央区横山台"
+    },
+    {
+      "name": "ファミリー美肌サロン",
+      "address": "中央区横山台"
+    },
+    {
+      "name": "LABREA",
+      "address": "中央区横山台"
+    },
+    {
+      "name": "mt book",
+      "address": "中央区横山台"
+    },
+    {
+      "name": "リプラス",
+      "address": "中央区横山台"
+    },
+    {
+      "name": "懐古的手揉処 ラクチン",
+      "address": "中央区横山台"
+    },
+    {
+      "name": "ナデシコ AYURVEDA LITERACY",
+      "address": "中央区横山台"
+    },
+    {
+      "name": "レ エヴァンタイユ Les eventail",
+      "address": "中央区横山台"
+    },
+    {
+      "name": "サーティワンアイスクリーム 相模原横山店",
+      "address": "中央区横山台"
+    },
+    {
       "name": "七輪焼肉 安安 相模原店",
       "address": "中央区横山台"
+    },
+    {
+      "name": "鉄板焼き居酒屋なかまる",
+      "address": "中央区横山台"
+    },
+    {
+      "name": "ら・ふらんす横山台店",
+      "address": "中央区横山台"
+    },
+    {
+      "name": "ハニーゴールド",
+      "address": "中央区横山台"
+    },
+    {
+      "name": "からやま 南橋本店",
+      "address": "中央区下九沢"
+    },
+    {
+      "name": "エンアトリエ美容室",
+      "address": "中央区下九沢"
+    },
+    {
+      "name": "シューラルー 相模原マーケットプレイス店",
+      "address": "中央区下九沢"
+    },
+    {
+      "name": "スギ薬局 相模原下九沢店",
+      "address": "中央区下九沢"
+    },
+    {
+      "name": "Rurua.Ocean",
+      "address": "中央区下九沢"
     },
     {
       "name": "はま寿司 相模原下九沢店",
       "address": "中央区下九沢"
     },
     {
+      "name": "La meme",
+      "address": "中央区下九沢"
+    },
+    {
+      "name": "ケイタリングカー アイル",
+      "address": "中央区下九沢"
+    },
+    {
+      "name": "NEXT MARKET",
+      "address": "中央区下九沢"
+    },
+    {
+      "name": "カー・ビューティー・パーク相模原本店",
+      "address": "中央区下九沢"
+    },
+    {
+      "name": "横浜商工 相模原所",
+      "address": "中央区下九沢"
+    },
+    {
+      "name": "神奈川都市交通 相模原営業所",
+      "address": "中央区下九沢"
+    },
+    {
+      "name": "平野石油    相模原営業所",
+      "address": "中央区下九沢"
+    },
+    {
+      "name": "サクラオート",
+      "address": "中央区下九沢"
+    },
+    {
+      "name": "UR Plan",
+      "address": "中央区下九沢"
+    },
+    {
+      "name": "ボールパークゴルフスクール",
+      "address": "中央区宮下"
+    },
+    {
+      "name": "中古オフィス家具トレタテ",
+      "address": "中央区宮下"
+    },
+    {
+      "name": "けんこう65トワーズ相模原",
+      "address": "中央区宮下"
+    },
+    {
+      "name": "4ofwish",
+      "address": "中央区宮下本町"
+    },
+    {
+      "name": "はり灸院こうえい",
+      "address": "中央区宮下本町"
+    },
+    {
+      "name": "makeups",
+      "address": "中央区宮下本町"
+    },
+    {
+      "name": "シュール",
+      "address": "中央区宮下本町"
+    },
+    {
+      "name": "A-sh HAIR 宮下本店",
+      "address": "中央区宮下本町"
+    },
+    {
+      "name": "ドリームショップおかや",
+      "address": "中央区宮下本町"
+    },
+    {
+      "name": "CHARME",
+      "address": "中央区宮下本町"
+    },
+    {
+      "name": "ウエストヒル",
+      "address": "中央区宮下本町"
+    },
+    {
+      "name": "スズキアリーナ湘南はしもと",
+      "address": "中央区宮下本町"
+    },
+    {
+      "name": "福来郎",
+      "address": "中央区宮下本町"
+    },
+    {
+      "name": "happiness ハピネス",
+      "address": "中央区共和"
+    },
+    {
+      "name": "ゆりさく接骨院",
+      "address": "中央区共和"
+    },
+    {
+      "name": "スナック 楽だ",
+      "address": "中央区共和"
+    },
+    {
+      "name": "RENAIL",
+      "address": "中央区共和"
+    },
+    {
+      "name": "Inner-Light",
+      "address": "中央区共和"
+    },
+    {
+      "name": "らいおんハート遊びリテーション児童デイらぷあ淵野辺",
+      "address": "中央区共和"
+    },
+    {
+      "name": "Adonis 淵野辺店",
+      "address": "中央区共和"
+    },
+    {
+      "name": "西洋菓子海援隊/共和店",
+      "address": "中央区共和"
+    },
+    {
+      "name": "ローズマリー",
+      "address": "中央区共和"
+    },
+    {
+      "name": "髪若返り研究所 R-lab",
+      "address": "中央区共和"
+    },
+    {
       "name": "ロック喫茶BAN",
+      "address": "中央区共和"
+    },
+    {
+      "name": "Mr.JUMP相模原",
+      "address": "中央区共和"
+    },
+    {
+      "name": "すき家 相模原共和店",
+      "address": "中央区共和"
+    },
+    {
+      "name": "ケイ・ドリーム 16号相模原店",
+      "address": "中央区共和"
+    },
+    {
+      "name": "バンテック神奈川",
+      "address": "中央区共和"
+    },
+    {
+      "name": "Nail salon HARMONY",
+      "address": "中央区共和"
+    },
+    {
+      "name": "ヒーラーからの贈り物",
+      "address": "中央区共和"
+    },
+    {
+      "name": "はなえみ指圧マッサージ",
+      "address": "中央区共和"
+    },
+    {
+      "name": "ストーンマジック",
+      "address": "中央区共和"
+    },
+    {
+      "name": "Griddle Bar GOOFY",
+      "address": "中央区共和"
+    },
+    {
+      "name": "協和肥料",
+      "address": "中央区共和"
+    },
+    {
+      "name": "手作りタルトの店 プチ・シュクル",
+      "address": "中央区共和"
+    },
+    {
+      "name": "au Style 淵野辺",
       "address": "中央区共和"
     },
     {
@@ -309,12 +505,1304 @@
       "address": "中央区共和"
     },
     {
+      "name": "ぬち nuti",
+      "address": "中央区共和"
+    },
+    {
+      "name": "A-style music office",
+      "address": "中央区共和"
+    },
+    {
+      "name": "そばや 池乃家",
+      "address": "中央区光が丘"
+    },
+    {
+      "name": "STU Factory相模原",
+      "address": "中央区光が丘"
+    },
+    {
+      "name": "相模オートガラス",
+      "address": "中央区光が丘"
+    },
+    {
       "name": "はま寿司 相模原光が丘店",
+      "address": "中央区光が丘"
+    },
+    {
+      "name": "豆工房コーヒーロースト相模原店",
+      "address": "中央区光が丘"
+    },
+    {
+      "name": "リサイクルショップ バンバン",
+      "address": "中央区光が丘"
+    },
+    {
+      "name": "伊藤酒店",
+      "address": "中央区光が丘"
+    },
+    {
+      "name": "エトワール整骨院",
       "address": "中央区光が丘"
     },
     {
       "name": "デンズ・カフェ",
       "address": "中央区光が丘"
+    },
+    {
+      "name": "シャンソン)エクシエル",
+      "address": "中央区光が丘"
+    },
+    {
+      "name": "アイリス介護タクシー",
+      "address": "中央区光が丘"
+    },
+    {
+      "name": "三球勝負",
+      "address": "中央区光が丘"
+    },
+    {
+      "name": "ニック 光が丘店",
+      "address": "中央区光が丘"
+    },
+    {
+      "name": "IFS介護タクシーなごみ",
+      "address": "中央区光が丘"
+    },
+    {
+      "name": "ENEOS Laundry星ヶ丘店",
+      "address": "中央区光が丘"
+    }
+  ],
+  "南区": [
+    {
+      "name": "ヘアーサロン すずき",
+      "address": "南区旭町"
+    },
+    {
+      "name": "工房マミランド",
+      "address": "南区旭町"
+    },
+    {
+      "name": "蕎麦処近江家",
+      "address": "南区旭町"
+    },
+    {
+      "name": "DU・MONDE",
+      "address": "南区旭町"
+    },
+    {
+      "name": "中野屋篠崎商店",
+      "address": "南区旭町"
+    },
+    {
+      "name": "カワサキ相模販売",
+      "address": "南区旭町"
+    },
+    {
+      "name": "桜川商会",
+      "address": "南区旭町"
+    },
+    {
+      "name": "AR JAPAN",
+      "address": "南区磯部"
+    },
+    {
+      "name": "Deru's Kitchen",
+      "address": "南区磯部"
+    },
+    {
+      "name": "藤屋商店",
+      "address": "南区磯部"
+    },
+    {
+      "name": "GoldenRabbit",
+      "address": "南区磯部"
+    },
+    {
+      "name": "JITTERBUG KITCHEN",
+      "address": "南区磯部"
+    },
+    {
+      "name": "日野屋商店",
+      "address": "南区磯部"
+    },
+    {
+      "name": "AIRWOLF",
+      "address": "南区磯部"
+    },
+    {
+      "name": "にゃんこの手",
+      "address": "南区磯部"
+    },
+    {
+      "name": "LION1189",
+      "address": "南区磯部"
+    },
+    {
+      "name": "StunningLeo",
+      "address": "南区磯部"
+    },
+    {
+      "name": "カーワントラスト",
+      "address": "南区磯部"
+    },
+    {
+      "name": "ITEZA NIPPON",
+      "address": "南区磯部"
+    },
+    {
+      "name": "おそうじ本舗 相模原磯部店",
+      "address": "南区磯部"
+    },
+    {
+      "name": "ははともあたたかい手",
+      "address": "南区磯部"
+    },
+    {
+      "name": "MUGIFELTY",
+      "address": "南区磯部"
+    },
+    {
+      "name": "あらいそ接骨院",
+      "address": "南区磯部"
+    },
+    {
+      "name": "日本庭園陵墓紅葉亭管理事務所",
+      "address": "南区磯部"
+    },
+    {
+      "name": "garage.k",
+      "address": "南区磯部"
+    },
+    {
+      "name": "柿澤自動車",
+      "address": "南区磯部"
+    },
+    {
+      "name": "件らNightファクトリー",
+      "address": "南区鵜野森"
+    },
+    {
+      "name": "スパゲッティーのパンチョ 相模原店",
+      "address": "南区鵜野森"
+    },
+    {
+      "name": "から好し 相模原鵜野森店",
+      "address": "南区鵜野森"
+    },
+    {
+      "name": "apollostation 16号鵜野森SS",
+      "address": "南区鵜野森"
+    },
+    {
+      "name": "冨士山",
+      "address": "南区鵜野森"
+    },
+    {
+      "name": "ARBRE",
+      "address": "南区鵜野森"
+    },
+    {
+      "name": "サロンドでくの坊／サロンドラジュニール",
+      "address": "南区鵜野森"
+    },
+    {
+      "name": "鈴木恵美",
+      "address": "南区鵜野森"
+    },
+    {
+      "name": "ジェム Y.O",
+      "address": "南区鵜野森"
+    },
+    {
+      "name": "loosey goosey",
+      "address": "南区鵜野森"
+    },
+    {
+      "name": "IDEAVILLA",
+      "address": "南区鵜野森"
+    },
+    {
+      "name": "ワークランド 16号町田店",
+      "address": "南区鵜野森"
+    },
+    {
+      "name": "アレッタ 相模原",
+      "address": "南区鵜野森"
+    },
+    {
+      "name": "かわな行政書士事務所",
+      "address": "南区鵜野森"
+    },
+    {
+      "name": "ダックス相模原店",
+      "address": "南区鵜野森"
+    },
+    {
+      "name": "相模大野 魂心家",
+      "address": "南区鵜野森"
+    },
+    {
+      "name": "インフィニティネットワーク",
+      "address": "南区鵜野森"
+    },
+    {
+      "name": "コインランドリー彩り",
+      "address": "南区鵜野森"
+    },
+    {
+      "name": "村内ファニチャーアクセス相模原店",
+      "address": "南区鵜野森"
+    },
+    {
+      "name": "MSワークス",
+      "address": "南区栄町"
+    },
+    {
+      "name": "PET NATURE",
+      "address": "南区栄町"
+    },
+    {
+      "name": "Kyujitsu",
+      "address": "南区下溝"
+    },
+    {
+      "name": "coloris tile",
+      "address": "南区下溝"
+    },
+    {
+      "name": "ダスキン 下溝支店    サービスマスター",
+      "address": "南区下溝"
+    },
+    {
+      "name": "お出かけ日より",
+      "address": "南区下溝"
+    },
+    {
+      "name": "湯あがり珈琲",
+      "address": "南区下溝"
+    },
+    {
+      "name": "くるまやラーメン 相模原下溝店",
+      "address": "南区下溝"
+    },
+    {
+      "name": "ナイスティ",
+      "address": "南区下溝"
+    },
+    {
+      "name": "カーラッシュ",
+      "address": "南区下溝"
+    },
+    {
+      "name": "風林堂製菓",
+      "address": "南区下溝"
+    },
+    {
+      "name": "割烹 きよ寿し",
+      "address": "南区下溝"
+    },
+    {
+      "name": "BLANC 麻溝店",
+      "address": "南区下溝"
+    },
+    {
+      "name": "ゆめづくりパン工房麻溝店",
+      "address": "南区下溝"
+    },
+    {
+      "name": "銀座惣菜店 麻溝店",
+      "address": "南区下溝"
+    },
+    {
+      "name": "カラオケホロホロ原当麻店",
+      "address": "南区下溝"
+    },
+    {
+      "name": "drop.rinny",
+      "address": "南区下溝"
+    },
+    {
+      "name": "HAIR MAKE UP CLUB ナチュラル",
+      "address": "南区下溝"
+    },
+    {
+      "name": "創作DINING BAR元祖もこ",
+      "address": "南区下溝"
+    },
+    {
+      "name": "シヒロカットパーマ",
+      "address": "南区下溝"
+    },
+    {
+      "name": "baboo 原当麻店",
+      "address": "南区下溝"
+    },
+    {
+      "name": "芳賀建設工業",
+      "address": "南区下溝"
+    },
+    {
+      "name": "お好み焼 道とん堀 麻溝店",
+      "address": "南区下溝"
+    },
+    {
+      "name": "ほっともっと 原当麻店",
+      "address": "南区下溝"
+    },
+    {
+      "name": "プラチナ整体",
+      "address": "南区下溝"
+    },
+    {
+      "name": "Cut in チバ",
+      "address": "南区下溝"
+    },
+    {
+      "name": "小嶋ライフ",
+      "address": "南区下溝"
+    },
+    {
+      "name": "月のうさぎ",
+      "address": "南区下溝"
+    },
+    {
+      "name": "内田タクシー",
+      "address": "南区下溝"
+    },
+    {
+      "name": "feliceto candle",
+      "address": "南区下溝"
+    },
+    {
+      "name": "サクマ",
+      "address": "南区下溝"
+    },
+    {
+      "name": "トクソーイノベーション",
+      "address": "南区下溝"
+    },
+    {
+      "name": "ソーセージとパンの店 MONJI MONJI",
+      "address": "南区下溝"
+    },
+    {
+      "name": "チョードリートレイディング",
+      "address": "南区下溝"
+    },
+    {
+      "name": "来来亭 下溝店",
+      "address": "南区下溝"
+    },
+    {
+      "name": "緑花倶楽部",
+      "address": "南区下溝"
+    },
+    {
+      "name": "はな鍼灸院・接骨院",
+      "address": "南区下溝"
+    },
+    {
+      "name": "中古タイヤ市場 相模原店",
+      "address": "南区下溝"
+    },
+    {
+      "name": "リトルK スプリングファーム いちご園",
+      "address": "南区下溝"
+    },
+    {
+      "name": "CAR工房",
+      "address": "南区下溝"
+    },
+    {
+      "name": "K'sガレージ",
+      "address": "南区下溝"
+    },
+    {
+      "name": "相模テック第二ヤード",
+      "address": "南区下溝"
+    },
+    {
+      "name": "クラフト",
+      "address": "南区下溝"
+    },
+    {
+      "name": "オートショップ相模",
+      "address": "南区下溝"
+    },
+    {
+      "name": "JOL 本社営業所",
+      "address": "南区下溝"
+    },
+    {
+      "name": "HOTEL Sala",
+      "address": "南区下溝"
+    },
+    {
+      "name": "イラストレーターniboshi",
+      "address": "南区下溝"
+    },
+    {
+      "name": "モナの丘",
+      "address": "南区下溝"
+    },
+    {
+      "name": "銀のさら 古淵店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "チェリーココン",
+      "address": "南区古淵"
+    },
+    {
+      "name": "カラオケMAC’s 古淵店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "庄や 古淵店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "コメダ珈琲店 古淵駅前店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "micori",
+      "address": "南区古淵"
+    },
+    {
+      "name": "アンブルウキ",
+      "address": "南区古淵"
+    },
+    {
+      "name": "Loop for hair",
+      "address": "南区古淵"
+    },
+    {
+      "name": "ゼロマックス南関東店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "u and i",
+      "address": "南区古淵"
+    },
+    {
+      "name": "ヤギ・リカーズ",
+      "address": "南区古淵"
+    },
+    {
+      "name": "T-Watch",
+      "address": "南区古淵"
+    },
+    {
+      "name": "スギ薬局 相模原古淵店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "サーティワンアイスクリーム イオン相模原SC店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "サブウェイ イオン相模原店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "ジーユー イオン相模原SC店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "ゼットフットサルスポルト",
+      "address": "南区古淵"
+    },
+    {
+      "name": "つり具のブンブン イオン相模原店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "バーミヤン 古淵店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "ワイモバイル イオン相模原店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "吉野家 イオン相模原店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "ジョナサン 相模原古淵店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "SKY FIELD HAIR",
+      "address": "南区古淵"
+    },
+    {
+      "name": "ビヒトジャパン",
+      "address": "南区古淵"
+    },
+    {
+      "name": "ブーランジュリーアイミ",
+      "address": "南区古淵"
+    },
+    {
+      "name": "Rafs Nail 古淵駅前店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "古淵かえる整体院",
+      "address": "南区古淵"
+    },
+    {
+      "name": "le jardin Plaatje 古淵店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "TREDIALE古淵店 le jardin古淵店内",
+      "address": "南区古淵"
+    },
+    {
+      "name": "串焼き酒場 切磋琢磨",
+      "address": "南区古淵"
+    },
+    {
+      "name": "焼き鳥厨房 渋谷商店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "BOOKOFF PLUS 古淵駅前",
+      "address": "南区古淵"
+    },
+    {
+      "name": "TREDIALE古淵店 Produce古淵店内",
+      "address": "南区古淵"
+    },
+    {
+      "name": "カレーハウスCoCo壱番屋相模原古淵駅前店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "ミスタードーナツ 古淵駅前ショップ店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "や台ずし 古淵駅前町店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "手もみ処 ほぐし手や",
+      "address": "南区古淵"
+    },
+    {
+      "name": "BOOKOFF PLUS 古淵駅前店(本・ソフト館)店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "ギフトショップ心",
+      "address": "南区古淵"
+    },
+    {
+      "name": "がじゃいも家族",
+      "address": "南区古淵"
+    },
+    {
+      "name": "ビジョンメガネ 古淵店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "アパホテル 相模原 古淵駅前",
+      "address": "南区古淵"
+    },
+    {
+      "name": "Verde NAIL",
+      "address": "南区古淵"
+    },
+    {
+      "name": "Cachette",
+      "address": "南区古淵"
+    },
+    {
+      "name": "KINON",
+      "address": "南区古淵"
+    },
+    {
+      "name": "Mellow",
+      "address": "南区古淵"
+    },
+    {
+      "name": "NEO ANTI＊BOO古淵店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "Utopia Thai spa",
+      "address": "南区古淵"
+    },
+    {
+      "name": "Choki Peta 古淵店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "GiGO イトーヨーカドー古淵",
+      "address": "南区古淵"
+    },
+    {
+      "name": "うさちゃんクリーニング イトーヨーカドー古淵店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "えにかいたもち古淵店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "はなまるうどん イトーヨーカドー古淵店",
+      "address": "南区古淵"
+    },
+    {
+      "name": "穂苅タクシー",
+      "address": "南区古淵"
+    },
+    {
+      "name": "JALSA Spice Dinner&Bar",
+      "address": "南区古淵"
+    },
+    {
+      "name": "Du.s",
+      "address": "南区古淵"
+    },
+    {
+      "name": "Nail salon Kilika",
+      "address": "南区古淵"
+    }
+  ],
+  "緑区": [
+    {
+      "name": "BLUE OCEAN MOBILE",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "T‘s STUDIO",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "Car Collection Innovator",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "タックルベリー 南橋本店",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "Links Hair",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "小料理 ますみ",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "ティップスオートガレージ",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "AULELEI",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "運転代行スマイル",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "親興",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "ほねごり接骨院はりきゅう院 下九沢院",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "linescope",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "ガスト 相模原下九沢店",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "とりいち",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "酒処 木ノ葉",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "和田企画",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "やきとりの扇屋 相模原下九沢店",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "天使のゆめ",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "ホテル リヴィエラ 相模原",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "ダイイチオートサービス サガミハラ",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "ASAHI.beauty",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "ほっともっと 下九沢店",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "アンファンネージュ",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "小田島タクシー",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "渡辺文相堂",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "スナック ニューロード",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "AyusTree",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "すずきファクトリー",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "久保田写真館",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "アジアンカレーKHUSI",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "ぱるぷんて",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "ヴァーヴァエ・ロミ",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "AND",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "クリーニングショップフラット 下九沢店",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "スーパー公正屋 下九沢店",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "1 Life Cafe",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "相模・下九沢温泉 湯楽の里",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "バランス整体サロン和",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "NAVY co.",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "LOKI'S",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "ペットサロン ムルカスタジオ",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "TAIYAKI MARUCHAN",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "ピザーラ 橋本下九沢店",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "髪ing 727",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "沼尾硝子",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "アシストメタル24",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "ヘアーステージ・KUBO",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "BISTRO風凛",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "千福寿司",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "床屋 KATO",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "TYSファクトリー",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "テイクワン 相模原店",
+      "address": "緑区下九沢"
+    },
+    {
+      "name": "キグナスセルフ相模湖",
+      "address": "緑区吉野"
+    },
+    {
+      "name": "里＋",
+      "address": "緑区吉野"
+    },
+    {
+      "name": "沢井屋写真館「2階」",
+      "address": "緑区吉野"
+    },
+    {
+      "name": "apollostation ニュー相模湖SS",
+      "address": "緑区吉野"
+    },
+    {
+      "name": "守屋自動車整備工場",
+      "address": "緑区吉野"
+    },
+    {
+      "name": "藤野の助産院mid-U",
+      "address": "緑区吉野"
+    },
+    {
+      "name": "CAFA COFFEE きの子茶屋",
+      "address": "緑区吉野"
+    },
+    {
+      "name": "福服",
+      "address": "緑区吉野"
+    },
+    {
+      "name": "旅館 陣谷温泉",
+      "address": "緑区吉野"
+    },
+    {
+      "name": "旅館 陣渓園",
+      "address": "緑区吉野"
+    },
+    {
+      "name": "生涯スポーツ応援団",
+      "address": "緑区久保沢"
+    },
+    {
+      "name": "酵素風呂 RA.RA",
+      "address": "緑区久保沢"
+    },
+    {
+      "name": "伊勢原書店 城山店",
+      "address": "緑区久保沢"
+    },
+    {
+      "name": "グラッチェガーデンズ 津久井城山店",
+      "address": "緑区久保沢"
+    },
+    {
+      "name": "おおしま・はりきゅう整骨院",
+      "address": "緑区久保沢"
+    },
+    {
+      "name": "Hair R‘s",
+      "address": "緑区久保沢"
+    },
+    {
+      "name": "そば処 尾張屋 城山店",
+      "address": "緑区久保沢"
+    },
+    {
+      "name": "hairsalonbamboo",
+      "address": "緑区久保沢"
+    },
+    {
+      "name": "石井珈琲店",
+      "address": "緑区久保沢"
+    },
+    {
+      "name": "MARERO",
+      "address": "緑区久保沢"
+    },
+    {
+      "name": "しげよし 相模原本店",
+      "address": "緑区久保沢"
+    },
+    {
+      "name": "nailsalonfelice",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "TherapiCo",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "Honda Cars 神奈川西 橋本店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "HondaCars 神奈川西 U-Select相模原橋本店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "Very",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "ダイレクトパーク 橋本",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "jela 橋本",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "KARADAALICIA",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "Nail salon COCO",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "SKY second",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "和整体院",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "COCO LUANA",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "ガスト 橋本駅前店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "かもん 南口店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "スマホ修理工房 橋本駅店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "なか卯 橋本店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "ビアードパパ 京王橋本店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "フラワーショップ京王 橋本店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "ベーカリーアンドカフェ ルパ橋本店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "啓文堂書店 橋本駅店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "いくどん 橋本南口店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "ノイロ 2nd dining",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "ヘアメイク ファーストプライズ",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "PEDLAR",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "湘南巻き爪矯正院 橋本院",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "WORLD G8",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "整体院粋-Sui",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "amie 橋本駅店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "HAIR MAKE DESART hair make komorebi",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "The Cbya float 橋本",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "Capture 橋本",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "ReGrous",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "HATSU橋本",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "Lnail×Blanc橋本",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "Recess Hair",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "咲耶珈琲香房",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "Avanti",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "Design Credo",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "炭焼酒場 焔 ほむら 橋本店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "GOHAN",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "馬肉創作酒場 当千坊",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "イケヤ写真館",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "fha-na bloom",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "トータルボディケアサロン セレノ",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "橋本みなみ鍼灸整骨院",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "はしもと接骨院",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "mi.belle...",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "Ribbon",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "&.n",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "Ann charmant",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "橋南堂",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "840 KITCHEN",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "イグレック・パリ 橋本店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "シーアールガレージ",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "レストランいのうえ",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "すき家 16号相模原橋本店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "Produce プロデュース橋本店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "フクヤマ画廊",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "焼き鳥 こばやし",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "美活テラス",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "RICHELLE",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "大吉商店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "esthetic room Ein Blatt",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "CLUB GOLD",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "Merry HASHIMOTO",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "アドアーズ 橋本店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "モスバーガー 橋本3丁目店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "ヘアーストーリーピュア 橋本店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "橋本パークホテル",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "BEVY 橋本店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "リフール",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "ブティックティファニー",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "スパンダスタジオ 橋本店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "美容室アルク",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "Hair Studio yuse",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "個人小竹タクシー",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "SoL",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "ドライヘッドスパ GOKUJO",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "Re.Ra.Ku 橋本店",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "炭火 はじめ",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "エムス・ヘアーショップ",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "HK LOUNGE",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "wappoi",
+      "address": "緑区橋本"
+    },
+    {
+      "name": "イタリアンバルパステル 橋本駅前店",
+      "address": "緑区橋本"
     }
   ]
 }
