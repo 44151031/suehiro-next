@@ -122,6 +122,8 @@ export function getPaytypeMetadata(
   citySlug: string,
   paytypeSlug: string
 ): Metadata {
+  const now = new Date();
+  const currentYear = now.getFullYear();
   const matched = campaigns
     .filter(
       (c) =>
@@ -151,7 +153,12 @@ export function getPaytypeMetadata(
   const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${paytypeSlug}`;
   const ogImageUrl = `https://paycancampaign.com/images/campaigns/ogp/${prefectureSlug}-${citySlug}-${paytype}-ogp.jpg`;
 
-  const title = `${city}の${paytypeLabel}${offer}％還元キャンペーン対象店舗一覧`;
+  const yearSuffix =
+    new Date(startDate).getFullYear() === currentYear
+      ? `｜${currentYear}年最新キャンペーン情報`
+      : "";
+
+  const title = `${city}の${paytypeLabel}${offer}％還元対象店舗一覧${yearSuffix}`;
   const description = `${prefecture}${city}で${formatDate(startDate)}から${formatDate(endDate)}まで${paytypeLabel}による${offer}％還元キャンペーン開催中。最短で最大の還元を受け取れるように飲食店、小売りなどジャンル別に対象店舗を紹介しています。`;
 
   return {
