@@ -18,7 +18,7 @@ export default function CityCampaignFAQ({ prefecture, city, payLabel }: Props) {
   return (
     <section className="mt-14">
       <h2 className="headline2 mb-6">
-        {city}でよくある{payLabel}キャンペーンの質問
+        よくある質問｜{city}の{payLabel}還元キャンペーン
       </h2>
       <div className="space-y-4">
         {questions.map((q, index) => (

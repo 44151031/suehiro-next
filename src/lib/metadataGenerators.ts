@@ -151,8 +151,8 @@ export function getPaytypeMetadata(
   const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${paytypeSlug}`;
   const ogImageUrl = `https://paycancampaign.com/images/campaigns/ogp/${prefectureSlug}-${citySlug}-${paytype}-ogp.jpg`;
 
-  const title = `${city}の${paytypeLabel}${offer}％還元キャンペーン対象店舗`;
-  const description = `${prefecture}${city}で${formatDate(startDate)}から${formatDate(endDate)}まで${paytypeLabel}による${offer}％還元キャンペーン開催中。対象店舗の紹介やお得な使い方も。`;
+  const title = `${city}の${paytypeLabel}${offer}％還元キャンペーン対象店舗一覧`;
+  const description = `${prefecture}${city}で${formatDate(startDate)}から${formatDate(endDate)}まで${paytypeLabel}による${offer}％還元キャンペーン開催中。最短で最大の還元を受け取れるように飲食店、小売りなどジャンル別に対象店舗を紹介しています。`;
 
   return {
     title,

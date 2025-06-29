@@ -109,7 +109,7 @@ export default async function CityPaytypePage({
         <main className="max-w-[1200px] mx-auto px-4 py-10">
           <h1 className="headline1">
             {city}の{payLabel}
-            {offer}%還元キャンペーン対象店舗
+            {offer}%還元キャンペーン対象店舗一覧
           </h1>
 
           {datePublished && (
@@ -136,7 +136,7 @@ export default async function CityPaytypePage({
             </p>
 
             <h2 className="headline2">
-              {city}の{payLabel}還元キャンペーンとは？
+              キャンペーン概要|{city}の{payLabel}還元キャンペーンとは？
             </h2>
             <p>
               <strong>{prefecture}{city}「{campaigntitle}」</strong> は、
@@ -155,7 +155,7 @@ export default async function CityPaytypePage({
           </div>
 
           <h2 className="headline2 mb-4">
-            {city}の{offer}%還元キャンペーン対象店舗
+            {payLabel}が使える{city}の{offer}%還元対象店舗一覧
           </h2>
 
           {!shopListByGenre ? (
@@ -189,6 +189,7 @@ export default async function CityPaytypePage({
               prefectureSlug={prefectureSlug}
               citySlug={citySlug}
               currentPaytype={paytypeId}
+              city={city}
             />
           </div>
           <BackNavigationButtons

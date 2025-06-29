@@ -15,9 +15,10 @@ type Props = {
   prefectureSlug: string;
   citySlug: string;
   currentPaytype?: string;
+  city: string;
 };
 
-export function RecommendedCampaigns({ prefectureSlug, citySlug, currentPaytype }: Props) {
+export function RecommendedCampaigns({ prefectureSlug, citySlug, currentPaytype, city }: Props) {
   const samePrefCampaigns = campaigns.filter(
     (c) =>
       c.prefectureSlug === prefectureSlug &&
@@ -77,7 +78,7 @@ export function RecommendedCampaigns({ prefectureSlug, citySlug, currentPaytype 
   return (
     <section className="mt-16">
       <h2 className="text-xl sm:text-2xl font-bold text-neutral-800 mb-6 border-l-4 border-brand-primary pl-4">
-        この場所から近いキャンペーン！せっかくならハシゴしよう！
+        {city}近隣のおすすめキャンペーン！せっかくならハシゴしよう！
       </h2>
       <ul className="grid grid-cols-1 xl:grid-cols-2 gap-4">
         {recommended.slice(0, 6).map((c) => {
