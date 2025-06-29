@@ -1,4 +1,4 @@
-// ✅ 最終完全版（FAQ構造化データ含む）
+// ✅ 最終完全版（FAQ構造化データ含む統合構造化データ対応済み）
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import { campaigns } from "@/lib/campaignMaster";
@@ -19,7 +19,7 @@ import GenreShopLists from "@/components/sections/shop/GenreShopLists";
 import SampleShopExample from "@/components/sections/shop/SampleShopExample";
 import CampaignStatusNotice from "@/components/common/CampaignStatusNotice";
 import { getPaytypeMetadata } from "@/lib/metadataGenerators";
-import PaytypeCampaignStructuredData from "@/components/structured/PaytypeCampaignStructuredData"; // ✅ 修正
+import PaytypeCampaignStructuredData from "@/components/structured/PaytypeCampaignStructuredData"; // ✅ 統合構造化データ
 import CityCampaignFAQ from "@/components/sections/city/CampaignFAQ";
 
 type Props = {
@@ -36,7 +36,7 @@ export default async function CityPaytypePage({
   params: { prefecture: string; city: string; pay: string };
 }) {
   const paytypeId = params.pay as PayTypeId;
-  if (!paytypeId) return notFound();
+  if (!paytypeId || !(paytypeId in PayTypeLabels)) return notFound();
 
   const campaign = campaigns
     .filter(
@@ -84,13 +84,13 @@ export default async function CityPaytypePage({
 
   return (
     <>
-      {/* ✅ キャンペーン構造化データ（FAQも統合済み） */}
+      {/* ✅ 統合構造化データ出力（FAQ含む） */}
       <PaytypeCampaignStructuredData
         prefecture={prefecture}
         prefectureSlug={prefectureSlug}
         city={city}
         citySlug={citySlug}
-        paytype={payLabel}
+        paytype={paytypeId} // ✅ スラッグ形式（小文字）で渡す
         headline={`${city} × ${payLabel} 最大${offer}％還元キャンペーン【${formatJapaneseDate(endDate)}まで】`}
         articleDescription={`本記事では、${prefecture}${city}で開催される${payLabel}ポイント還元キャンペーンの概要、対象条件、注意事項、対象店舗一覧などを解説します。`}
         offerDescription={`${formatJapaneseDate(startDate)}から${formatJapaneseDate(endDate)}まで、${prefecture}${city}内の対象店舗で${payLabel}決済を行うと、最大${offer}％のポイントが還元されるキャンペーンが実施されます。`}

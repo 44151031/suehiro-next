@@ -2,25 +2,27 @@
 
 import React from "react";
 import { generateFAQGraph } from "@/components/structured/parts/FAQJsonLd";
+import { PayTypeLabels } from "@/lib/payType"; // ✅ 追加
+import type { PayTypeId } from "@/lib/payType";
 
 type Props = {
   prefecture: string;
   prefectureSlug: string;
   city: string;
   citySlug: string;
-  paytype: string;
+  paytype: PayTypeId;
   headline: string;
   articleDescription: string;
   offerDescription: string;
   validFrom: string;
   validThrough: string;
-  url: string; // 自サイトURLを使用
+  url: string;
   offerRate: number;
   onePayLimit: string;
   fullPayLimit: string;
   datePublished: string;
   dateModified: string;
-  officialUrl?: string; // ✅ 追加
+  officialUrl?: string;
 };
 
 const PaytypeCampaignStructuredData = ({
@@ -40,16 +42,20 @@ const PaytypeCampaignStructuredData = ({
   fullPayLimit,
   datePublished,
   dateModified,
-  officialUrl, // ✅
+  officialUrl,
 }: Props) => {
   const origin = "https://paycancampaign.com";
+
+  // ✅ スラッグ → 表示名の逆引き（例: "aupay" → "au PAY"）
+  const paytypeLabel = PayTypeLabels[paytype] || paytype;
+
   const imageUrl = `${origin}/images/campaigns/ogp/${prefectureSlug}-${citySlug}-${paytype}-ogp.jpg`;
 
   const onePayFormatted = Number(onePayLimit).toLocaleString();
   const fullPayFormatted = Number(fullPayLimit).toLocaleString();
   const offerLimitDescription = `最大${offerRate}％ポイント還元。1回あたり最大${onePayFormatted}円、期間合計最大${fullPayFormatted}円まで。`;
 
-  const officialPageUrl = officialUrl ?? `${origin}/campaigns/${prefectureSlug}/${citySlug}`; // ✅ fallback
+  const officialPageUrl = officialUrl ?? `${origin}/campaigns/${prefectureSlug}/${citySlug}`;
 
   const article = {
     "@type": "Article",
@@ -77,8 +83,8 @@ const PaytypeCampaignStructuredData = ({
       "@type": "ImageObject",
       url: imageUrl,
     },
-    datePublished: `${datePublished}T00:00:00+09:00`, // ✅ タイムゾーン追加
-    dateModified: `${dateModified}T00:00:00+09:00`,   // ✅ タイムゾーン追加
+    datePublished: `${datePublished}T00:00:00+09:00`,
+    dateModified: `${dateModified}T00:00:00+09:00`,
     offers: {
       "@type": "Offer",
       url,
@@ -87,11 +93,11 @@ const PaytypeCampaignStructuredData = ({
 
   const offer = {
     "@type": "Offer",
-    name: `最大${offerRate}％ポイント還元キャンペーン（${city} × ${paytype}）`,
+    name: `最大${offerRate}％ポイント還元キャンペーン（${city} × ${paytypeLabel}）`,
     description: offerDescription,
     priceCurrency: "JPY",
-    validFrom: `${validFrom}T00:00:00+09:00`,      // ✅ タイムゾーン追加
-    validThrough: `${validThrough}T00:00:00+09:00`, // ✅ タイムゾーン追加
+    validFrom: `${validFrom}T00:00:00+09:00`,
+    validThrough: `${validThrough}T00:00:00+09:00`,
     url,
     priceSpecification: {
       "@type": "UnitPriceSpecification",
@@ -102,9 +108,9 @@ const PaytypeCampaignStructuredData = ({
 
   const event = {
     "@type": "Event",
-    name: `${city}の${paytype}キャンペーン（最大${offerRate}％還元）`,
-    startDate: `${validFrom}T00:00:00+09:00`,   // ✅ タイムゾーン追加
-    endDate: `${validThrough}T00:00:00+09:00`,  // ✅ タイムゾーン追加
+    name: `${city}の${paytypeLabel}キャンペーン（最大${offerRate}％還元）`,
+    startDate: `${validFrom}T00:00:00+09:00`,
+    endDate: `${validThrough}T00:00:00+09:00`,
     eventStatus: "http://schema.org/EventScheduled",
     eventAttendanceMode: "http://schema.org/OnlineEventAttendanceMode",
     url,
@@ -122,7 +128,7 @@ const PaytypeCampaignStructuredData = ({
     organizer: {
       "@type": "GovernmentOrganization",
       name: `${prefecture}${city}`,
-      url: officialPageUrl, // ✅ 修正
+      url: officialPageUrl,
     },
     performer: {
       "@type": "Organization",
@@ -131,7 +137,7 @@ const PaytypeCampaignStructuredData = ({
     description: offerLimitDescription,
   };
 
-  const faqGraph = generateFAQGraph(prefecture, city, paytype);
+  const faqGraph = generateFAQGraph(prefecture, city, paytypeLabel); // ✅ ラベルに差し替え
 
   const data = {
     "@context": "https://schema.org",
