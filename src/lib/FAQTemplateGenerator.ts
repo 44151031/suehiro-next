@@ -32,6 +32,14 @@ export function generateCityCampaignFAQ(
   questions.push(`${payLabel}で付与されたポイントはどこで使えますか？`);
   answers.push(getAnswerForQ5(location, payLabel));
 
+  // Q7
+  questions.push(`${location}の${payLabel}キャンペーンの対象店舗はどこで確認できますか？`);
+  answers.push(getAnswerForQ7(location, payLabel));
+
+  // Q8
+  questions.push(`どのように対象店舗であるかを見分けられますか？`);
+  answers.push(getAnswerForQ8(location, payLabel));
+
   return { questions, answers };
 }
 
@@ -102,4 +110,42 @@ function getAnswerForQ5(location: string, payLabel: string): string {
 // Q6: 対象エリア外の居住者も還元対象か
 function getAnswerForQ6(location: string, payLabel: string): string {
   return `はい、${location}の${payLabel}キャンペーンでは、${location}にお住まいでなくても対象店舗での対象決済であれば還元の対象になります。観光や出張、帰省などで訪れた際にも利用できます。詳細条件はPayキャンの${location}公式ページをご確認ください。`;
+}
+
+// Q7: 対象店舗の確認方法
+function getAnswerForQ7(location: string, payLabel: string): string {
+  const disclaimer = "ご利用前に、店頭ポスターのご確認や店舗スタッフへお問い合わせいただきますようお願いいたします。";
+  switch (payLabel) {
+    case "PayPay":
+      return `PayPayアプリの「近くのおトク」から対象キャンペーンを選択すると確認できます。Payキャンの掲載情報もご確認ください。${disclaimer}`;
+    case "au PAY":
+      return `au PAYアプリ内の「キャンペーン」ページから対象店舗を検索できます。Payキャンの掲載情報もご確認ください。${disclaimer}`;
+    case "楽天ペイ":
+      return `楽天ペイアプリのキャンペーン情報欄や対象店舗ページで確認可能です。Payキャンにも情報を掲載しています。${disclaimer}`;
+    case "d払い":
+      return `d払いアプリのキャンペーンページで対象店舗を一覧表示できます。また、Payキャンでも対象店舗を確認できます。${disclaimer}`;
+    case "AEON Pay":
+      return `iAEONアプリやイオンウォレットアプリのキャンペーン一覧から対象店舗を確認できます。公式サイトやPayキャンの情報もあわせてご覧ください。${disclaimer}`;
+    default:
+      return `決済サービスのアプリやキャンペーンページ、Payキャン対象地域ページで対象店舗を確認できます。${disclaimer}`;
+  }
+}
+
+// Q8: 対象店舗の見分け方
+function getAnswerForQ8(location: string, payLabel: string): string {
+  const disclaimer = "ご利用前に、店頭ポスターのご確認や店舗スタッフへお問い合わせいただきますようお願いいたします。";
+  switch (payLabel) {
+    case "PayPay":
+      return `対象店舗では「最大◯◯％戻ってくる！」などのPayPayキャンペーンポスターが掲示されています。アプリの地図でも「キャンペーン対象」のバッジが表示されます。${disclaimer}`;
+    case "au PAY":
+      return `店頭に「au PAYキャンペーン実施中」などのPOPが掲示されていることが多く、アプリ内でも対象表示されます。${disclaimer}`;
+    case "楽天ペイ":
+      return `対象店舗には「楽天ペイキャンペーン対象店舗」などの掲示があることがあり、アプリ内でも対象と表示されます。${disclaimer}`;
+    case "d払い":
+      return `「d払いキャンペーン対象」ステッカーやポスターが目印です。アプリ内でも確認が出来ます。${disclaimer}`;
+    case "AEON Pay":
+      return `「AEON Pay対象」や「WAON POINT還元」などのポスターが掲示されていることがあります。アプリ内でもご確認いただけます。${disclaimer}`;
+    default:
+      return `対象店舗ではキャンペーン告知のポスターが掲示されていることが多く、アプリの地図や店舗情報からも対象か確認可能です。${disclaimer}`;
+  }
 }
