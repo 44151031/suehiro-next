@@ -1,65 +1,42 @@
+// /components/structured/PrefectureCampaignStructuredData.tsx
 "use client";
 
 import React from "react";
+import type { Campaign } from "@/types/campaign";
 
 type Props = {
   prefecture: string;
   prefectureSlug: string;
-  headline: string;
-  articleDescription: string;
-  url: string;
+  campaigns?: Campaign[]; // ✅ optional に変更
 };
 
-const PrefectureCampaignStructuredData = ({
+export default function PrefectureTopStructuredData({
   prefecture,
   prefectureSlug,
-  headline,
-  articleDescription,
-  url,
-}: Props) => {
+  campaigns = [], // ✅ デフォルトで空配列に
+}: Props) {
   const origin = "https://paycancampaign.com";
-  const imageUrl = `${origin}/images/campaigns/ogp/${prefectureSlug}-ogp.jpg`;
+
+  const uniqueUrls = Array.from(
+    new Set(
+      campaigns.map(
+        (c) =>
+          `${origin}/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`
+      )
+    )
+  );
 
   const data = {
     "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Article",
-        "headline": headline,
-        "description": articleDescription,
-        "author": {
-          "@type": "Organization",
-          "name": "Payキャン運用事務局",
-          "url": origin
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Payキャン運用事務局",
-          "logo": {
-            "@type": "ImageObject",
-            "url": `${origin}/logo.png`
-          }
-        },
-        "mainEntityOfPage": {
-          "@type": "WebPage",
-          "@id": url
-        },
-        "url": url,
-        "image": {
-          "@type": "ImageObject",
-          "url": imageUrl
-        }
-      },
-      {
-        "@type": "Place",
-        "name": prefecture,
-        "address": {
-          "@type": "PostalAddress",
-          "addressRegion": prefecture,
-          "addressCountry": "JP"
-        }
-      }
-    ]
+    "@type": "ItemList",
+    name: `${prefecture}のキャンペーン一覧`,
+    itemListOrder: "http://schema.org/ItemListOrderDescending",
+    numberOfItems: uniqueUrls.length,
+    itemListElement: uniqueUrls.map((url, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      url,
+    })),
   };
 
   return (
@@ -68,6 +45,4 @@ const PrefectureCampaignStructuredData = ({
       dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }}
     />
   );
-};
-
-export default PrefectureCampaignStructuredData;
+}

@@ -1,70 +1,37 @@
+// /components/structured/CityTopStructuredData.tsx
 "use client";
 
 import React from "react";
+import type { Campaign } from "@/types/campaign";
 
 type Props = {
   prefecture: string;
-  prefectureSlug: string;
   city: string;
+  prefectureSlug: string;
   citySlug: string;
-  headline: string;
-  articleDescription: string;
-  url: string;
+  campaigns?: Campaign[]; // optional にして undefined 対策
 };
 
-const CityCampaignStructuredData = ({
+export default function CityTopStructuredData({
   prefecture,
-  prefectureSlug,
   city,
+  prefectureSlug,
   citySlug,
-  headline,
-  articleDescription,
-  url,
-}: Props) => {
+  campaigns = [], // デフォルトで空配列を設定
+}: Props) {
   const origin = "https://paycancampaign.com";
-  const imageUrl = `${origin}/images/campaigns/${prefectureSlug}-${citySlug}.jpg`;
 
   const data = {
     "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Article",
-        "headline": headline,
-        "description": articleDescription,
-        "author": {
-          "@type": "Organization",
-          "name": "Payキャン運用事務局",
-          "url": origin
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Payキャン運用事務局",
-          "logo": {
-            "@type": "ImageObject",
-            "url": `${origin}/logo.png`
-          }
-        },
-        "mainEntityOfPage": {
-          "@type": "WebPage",
-          "@id": url
-        },
-        "url": url,
-        "image": {
-          "@type": "ImageObject",
-          "url": imageUrl
-        }
-      },
-      {
-        "@type": "Place",
-        "name": `${prefecture}${city}`,
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": city,
-          "addressRegion": prefecture,
-          "addressCountry": "JP"
-        }
-      }
-    ]
+    "@type": "ItemList",
+    name: `${prefecture}${city}のキャンペーン一覧`,
+    itemListOrder: "http://schema.org/ItemListOrderDescending",
+    numberOfItems: campaigns.length,
+    itemListElement: campaigns.map((c, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      url: `${origin}/campaigns/${c.prefectureSlug}/${c.citySlug}/${c.paytype}`,
+    })),
   };
 
   return (
@@ -73,6 +40,4 @@ const CityCampaignStructuredData = ({
       dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }}
     />
   );
-};
-
-export default CityCampaignStructuredData;
+}
