@@ -27,10 +27,10 @@ export default function CityCampaignFAQ({ prefecture, city, payLabel }: Props) {
             className="group rounded-xl border border-gray-200 bg-white px-5 py-4 shadow-sm transition-all duration-300"
           >
             <summary className="flex cursor-pointer list-none items-center justify-between text-base font-semibold text-gray-900 hover:opacity-90">
-              <span>
+              <h3 className="flex items-center text-base font-semibold text-gray-900">
                 <span className="mr-2 text-red-500 font-bold">Q.</span>
                 {q}
-              </span>
+              </h3>
               <svg
                 className="h-5 w-5 text-gray-400 transition-transform duration-300 group-open:rotate-180"
                 fill="none"
