@@ -109,7 +109,7 @@ export default async function CityPaytypePage({
         <main className="max-w-[1200px] mx-auto px-4 py-10">
           <h1 className="headline1">
             {city}の{payLabel}
-            {offer}%還元キャンペーン
+            {offer}%還元キャンペーン対象店舗
           </h1>
 
           {datePublished && (
