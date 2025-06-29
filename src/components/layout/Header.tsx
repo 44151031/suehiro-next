@@ -12,14 +12,12 @@ export default function Header() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
 
-  // スクロールでヘッダー影
   useEffect(() => {
     const handleScroll = () => setIsScrolled(window.scrollY > 20);
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  // ✅ メニュー開閉でbodyスクロール制御
   useEffect(() => {
     document.body.style.overflow = menuOpen ? "hidden" : "auto";
     return () => {
@@ -36,8 +34,8 @@ export default function Header() {
       >
         <Container>
           <div className="h-16 flex items-center justify-between">
-            <Link href="/" className="flex flex-col leading-tight group">
-              <span className="text-xs sm:text-sm text-neutral-600">
+            <Link href="/" className="flex flex-col group">
+              <span className="text-[10px] sm:text-sm text-neutral-600">
                 PayPay・au PAY・楽天ペイ・d払い還元体験
               </span>
               <span className="flex items-center gap-1 text-2xl sm:text-3xl font-extrabold tracking-tight text-gray-900">
@@ -46,15 +44,15 @@ export default function Header() {
                   alt="Payキャンロゴ"
                   width={32}
                   height={32}
-                  className="w-8 h-8 hidden sm:block"
+                  className="w-8 h-8"
                 />
                 <span className="text-red-600">Pay</span>
                 <span className="text-xl text-gray-800 font-medium">キャン</span>
-                <span className="text-sm text-gray-600 font-medium hidden sm:inline">(ペイキャン)</span>
+                <span className="text-sm text-gray-600 font-medium max-[414px]:hidden">(ペイキャン)</span>
               </span>
             </Link>
 
-            <div className="flex items-center space-x-4">
+            <div className="flex items-center space-x-1">
               <PrefectureSelector />
               <button
                 onClick={() => setMenuOpen(true)}

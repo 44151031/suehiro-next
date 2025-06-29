@@ -23,18 +23,23 @@ export default function Footer() {
           {/* カラム1 */}
           <div className="lg:w-1/3 space-y-4 text-center lg:text-left">
             <div className="flex items-center justify-center lg:justify-start gap-2">
-              <Image
-                src="/logo.png"
-                alt="Payキャンロゴ"
-                width={24}
-                height={24}
-                className="w-8 h-8"
-              />
-              <p className="text-2xl font-extrabold text-gray-800">
-                <span className="text-accent">Pay</span>
-                <span className="ml-1 text-base align-bottom">キャン</span>
-                <span className="text-sm text-gray-500 ml-2">(ペイキャン)</span>
-              </p>
+              <Link
+                href="/"
+                className="flex items-center justify-center lg:justify-start gap-2 hover:opacity-80 transition"
+              >
+                <Image
+                  src="/logo.png"
+                  alt="Payキャンロゴ"
+                  width={24}
+                  height={24}
+                  className="w-8 h-8"
+                />
+                <p className="text-2xl font-extrabold text-gray-800">
+                  <span className="text-accent">Pay</span>
+                  <span className="ml-1 text-base align-bottom">キャン</span>
+                  <span className="text-sm text-gray-500 ml-2">(ペイキャン)</span>
+                </p>
+              </Link>
             </div>
 
             <p className="text-xs sm:text-sm text-gray-500 leading-snug mt-1">
