@@ -18,10 +18,10 @@ export function getPrefectureMetadata(prefectureSlug: string): Metadata {
   const futureTotal = sumFutureFullpoint(future);
 
   const title = active.length > 0
-    ? `${prefecture}で開催中の合計${total.toLocaleString("ja-JP")}円分還元キャンペーン`
+    ? `${prefecture}で開催中の合計${total.toLocaleString("ja-JP")}円分還元キャンペーン-Payキャン`
     : future.length > 0
-      ? `${prefecture}で近日開催予定の合計${futureTotal.toLocaleString("ja-JP")}円分還元キャンペーン`
-      : `${prefecture}のキャッシュレスキャンペーン一覧`;
+      ? `${prefecture}で近日開催予定の合計${futureTotal.toLocaleString("ja-JP")}円分還元キャンペーン-Payキャン`
+      : `${prefecture}のキャッシュレスキャンペーン一覧-Payキャン`;
 
   const description = active.length > 0
     ? `${prefecture}で実施中のPayPay、au PAY、楽天Pay、d払い等キャッシュレスキャンペーンを紹介。現在、合計で${total.toLocaleString("ja-JP")}円分のキャンペーンを紹介`
@@ -82,10 +82,10 @@ export function getCityMetadata(
   const ogImageUrl = `https://paycancampaign.com/images/campaigns/${prefectureSlug}-${citySlug}.jpg`;
 
   const title = active.length > 0
-    ? `${city}で開催中の合計${total.toLocaleString("ja-JP")}円分還元キャンペーン`
+    ? `${city}で開催中の合計${total.toLocaleString("ja-JP")}円分還元キャンペーン-Payキャン`
     : future.length > 0
-      ? `${city}で近日開催予定の合計${futureTotal.toLocaleString("ja-JP")}円分還元キャンペーン`
-      : `${city}のキャッシュレスキャンペーン一覧`;
+      ? `${city}で近日開催予定の合計${futureTotal.toLocaleString("ja-JP")}円分還元キャンペーン-Payキャン`
+      : `${city}のキャッシュレスキャンペーン一覧-Payキャン`;
 
   const description = active.length > 0
     ? `${prefecture}${city}で実施中のキャッシュレスキャンペーンを紹介。現在、合計で${total.toLocaleString("ja-JP")}円分のキャンペーンを紹介`
@@ -135,7 +135,7 @@ export function getPaytypeMetadata(
 
   if (!campaign) {
     return {
-      title: "還元キャンペーン情報",
+      title: "還元キャンペーン情報-Payキャン",
       description: "市区町村のキャッシュレスキャンペーン情報を紹介します。",
     };
   }
@@ -153,7 +153,7 @@ export function getPaytypeMetadata(
 
   const yearSuffix =
     new Date(startDate).getFullYear() === currentYear
-      ? `｜${currentYear}年最新キャンペーン情報`
+      ? `｜${currentYear}年最新キャンペーン情報-Payキャン`
       : "";
 
   const title = `${city}の${paytypeLabel}${offer}％還元対象店舗一覧${yearSuffix}`;
@@ -197,7 +197,7 @@ export async function generateMetadata({
   }
 
   return {
-    title: "キャッシュレス還元キャンペーンまとめ",
+    title: "キャッシュレス還元キャンペーンまとめ-Payキャン",
     description: "全国のPayPay・auPAY・楽天ペイ・d払いの還元キャンペーン情報を紹介しています。",
   };
 }
