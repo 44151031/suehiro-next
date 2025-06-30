@@ -11,12 +11,15 @@ import PopularSearches from "@/components/sections/top/PopularCampaignLinks";
 import Cta from "@/components/sections/top/TopCta";
 import LocationSortSection from "@/components/sections/top/GetLocationButtonSection";
 import { getTopPageMetadata } from "@/lib/metadataStaticGenerators";
+import TopPageStructuredData from "@/components/structured/TopPageStructuredData"; // ✅ 追加
+
 export const metadata = getTopPageMetadata();
 
 export default function HomePage() {
   return (
     <>
       <Header />
+      <TopPageStructuredData /> {/* ✅ 構造化データ挿入 */}
       <main className="pt-16"> {/* ヘッダーの高さ分マージン */}
         <HeroTop />
         <SearchForm />

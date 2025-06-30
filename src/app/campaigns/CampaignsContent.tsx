@@ -9,6 +9,7 @@ import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import CampaignTotalPointSummary from "@/components/common/CampaignTotalPointSummary";
 import { SNSShareButtons } from "@/components/common/SNSShareButtons";
 import Link from "next/link";
+import CampaignsTopStructuredData from "@/components/structured/CampaignsTopStructuredData"; // ✅ 追加
 
 export default function CampaignsContent() {
   const [showOnlyActive, setShowOnlyActive] = useState(false);
@@ -30,6 +31,8 @@ export default function CampaignsContent() {
 
   return (
     <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
+      <CampaignsTopStructuredData /> {/* ✅ 構造化データを最上部に追加 */}
+
       <div className="max-w-[1200px] mx-auto px-4 py-10">
         <h1 className="headline1">全国のキャッシュレスキャンペーン一覧</h1>
         <CampaignTotalPointSummary campaigns={filtered} areaLabel="全国" />
