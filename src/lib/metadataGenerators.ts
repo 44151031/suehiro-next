@@ -18,15 +18,15 @@ export function getPrefectureMetadata(prefectureSlug: string): Metadata {
   const futureTotal = sumFutureFullpoint(future);
 
   const title = active.length > 0
-    ? `${prefecture}で開催中の合計${total.toLocaleString()}円分還元キャンペーン`
+    ? `${prefecture}で開催中の合計${total.toLocaleString("ja-JP")}円分還元キャンペーン`
     : future.length > 0
-      ? `${prefecture}で近日開催予定の合計${futureTotal.toLocaleString()}円分還元キャンペーン`
+      ? `${prefecture}で近日開催予定の合計${futureTotal.toLocaleString("ja-JP")}円分還元キャンペーン`
       : `${prefecture}のキャッシュレスキャンペーン一覧`;
 
   const description = active.length > 0
-    ? `${prefecture}で実施中のPayPay、au PAY、楽天Pay、d払い等キャッシュレスキャンペーンを紹介。現在、合計で${total.toLocaleString()}円分のキャンペーンを紹介`
+    ? `${prefecture}で実施中のPayPay、au PAY、楽天Pay、d払い等キャッシュレスキャンペーンを紹介。現在、合計で${total.toLocaleString("ja-JP")}円分のキャンペーンを紹介`
     : future.length > 0
-      ? `${prefecture}で近日開催予定の合計${futureTotal.toLocaleString()}円分のキャッシュレスキャンペーンを紹介。今後の開催を見逃さずチェック！`
+      ? `${prefecture}で近日開催予定の合計${futureTotal.toLocaleString("ja-JP")}円分のキャッシュレスキャンペーンを紹介。今後の開催を見逃さずチェック！`
       : `${prefecture}のキャッシュレスキャンペーン情報。このページでは開催中または開催予定のキャンペーンと、${prefecture}の近くのキャンペーンをご紹介いたします。`;
 
   const ogImageUrl = `https://paycancampaign.com/images/campaigns/ogp/${prefectureSlug}-ogp.jpg`;
@@ -72,9 +72,7 @@ export function getCityMetadata(
   const active = cityCampaigns.filter(
     (c) => new Date(c.startDate) <= now && new Date(c.endDate) >= now
   );
-  const future = cityCampaigns.filter(
-    (c) => new Date(c.startDate) > now
-  );
+  const future = cityCampaigns.filter((c) => new Date(c.startDate) > now);
   const total = sumFullpoint(active);
   const futureTotal = sumFutureFullpoint(future);
 
@@ -84,15 +82,15 @@ export function getCityMetadata(
   const ogImageUrl = `https://paycancampaign.com/images/campaigns/${prefectureSlug}-${citySlug}.jpg`;
 
   const title = active.length > 0
-    ? `${city}で開催中の合計${total.toLocaleString()}円分還元キャンペーン`
+    ? `${city}で開催中の合計${total.toLocaleString("ja-JP")}円分還元キャンペーン`
     : future.length > 0
-      ? `${city}で近日開催予定の合計${futureTotal.toLocaleString()}円分還元キャンペーン`
+      ? `${city}で近日開催予定の合計${futureTotal.toLocaleString("ja-JP")}円分還元キャンペーン`
       : `${city}のキャッシュレスキャンペーン一覧`;
 
   const description = active.length > 0
-    ? `${prefecture}${city}で実施中のキャッシュレスキャンペーンを紹介。現在、合計で${total.toLocaleString()}円分のキャンペーンを紹介`
+    ? `${prefecture}${city}で実施中のキャッシュレスキャンペーンを紹介。現在、合計で${total.toLocaleString("ja-JP")}円分のキャンペーンを紹介`
     : future.length > 0
-      ? `${prefecture}${city}で近日開催予定の合計${futureTotal.toLocaleString()}円分のキャッシュレスキャンペーンをご紹介します。`
+      ? `${prefecture}${city}で近日開催予定の合計${futureTotal.toLocaleString("ja-JP")}円分のキャッシュレスキャンペーンをご紹介します。`
       : `${prefecture}${city}のキャッシュレスキャンペーン。このページでは開催中または開催予定のキャンペーンと、${prefecture}${city}の近くのキャンペーンをご紹介いたします。`;
 
   return {
@@ -143,7 +141,7 @@ export function getPaytypeMetadata(
   }
 
   const { city, prefecture, offer, startDate, endDate, paytype } = campaign;
-  const paytypeLabel = PayTypeLabels[paytypeSlug as PayTypeId] || paytypeSlug;
+  const paytypeLabel = PayTypeLabels[paytype as PayTypeId] || paytypeSlug;
 
   const formatDate = (d: string) => {
     const date = new Date(d);
@@ -177,5 +175,29 @@ export function getPaytypeMetadata(
       description,
       images: [ogImageUrl],
     },
+  };
+}
+
+//
+// ✅ layout.tsx などから利用するための generateMetadata を追加
+//
+export async function generateMetadata({
+  params,
+}: {
+  params: { prefecture?: string; city?: string; pay?: string };
+}): Promise<Metadata> {
+  const { prefecture, city, pay } = params;
+
+  if (prefecture && city && pay) {
+    return getPaytypeMetadata(prefecture, city, pay);
+  } else if (prefecture && city) {
+    return getCityMetadata(prefecture, city);
+  } else if (prefecture) {
+    return getPrefectureMetadata(prefecture);
+  }
+
+  return {
+    title: "キャッシュレス還元キャンペーンまとめ",
+    description: "全国のPayPay・auPAY・楽天ペイ・d払いの還元キャンペーン情報を紹介しています。",
   };
 }

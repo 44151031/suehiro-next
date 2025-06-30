@@ -8,6 +8,9 @@ import Footer from "@/components/layout/Footer";
 import LayoutShell from "@/components/layout/LayoutShell";
 import ClientNoIndex from "@/components/common/ClientNoIndex"; // ✅ 追加
 
+// ✅ metadataGenerators.ts を使って動的にメタデータを生成
+import { generateMetadata as generateDynamicMetadata } from "@/lib/metadataGenerators";
+
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -21,40 +24,17 @@ const geistMono = Geist_Mono({
   display: "swap", // ✅ 遅延防止（FOUT対策）
 });
 
-export const metadata: Metadata = {
-  title: {
-    default: "PayPay・auPAY・楽天ペイ・d払いキャンペーン情報サイト-Payキャン",
-    template: "%s-Payキャン",
-  },
-  description:
-    "全国のPayPay・auPAY・楽天ペイ・d払いのキャンペーンをまとめて紹介。都道府県・市区町村ごとの還元情報をわかりやすく掲載しています。",
-  openGraph: {
-    title: "PayPay・auPAY・楽天ペイ・d払いキャンペーン情報サイト-Payキャン",
-    description:
-      "全国のPayPay・auPAY・楽天ペイ・d払いのキャンペーンをまとめて紹介。都道府県・市区町村ごとの還元情報をわかりやすく掲載しています。",
-    url: "https://paycancampaign.com",
-    siteName: "Payキャン",
-    type: "website",
-    images: [
-      {
-        url: "https://paycancampaign.com/ogp.jpg",
-        width: 1200,
-        height: 630,
-        alt: "PayキャンのOGP画像",
-      },
-    ],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "PayPay・auPAY・楽天ペイ・d払いキャンペーン情報サイト-Payキャン",
-    description:
-      "全国のPayPay・auPAY・楽天ペイ・d払いのキャンペーンをまとめて紹介。都道府県・市区町村ごとの還元情報をわかりやすく掲載しています。",
-    images: ["https://paycancampaign.com/ogp.jpg"],
-  },
-  icons: {
-    icon: "https://paycancampaign.com/favicon.png",
-  },
-};
+// ✅ generateMetadata だけを export（icons をここで付加）
+export async function generateMetadata(params: any): Promise<Metadata> {
+  const dynamic = await generateDynamicMetadata(params);
+
+  return {
+    ...dynamic,
+    icons: {
+      icon: "/favicon.png", 
+    },
+  };
+}
 
 const GTM_ID = process.env.NEXT_PUBLIC_GTM_ID!;
 
