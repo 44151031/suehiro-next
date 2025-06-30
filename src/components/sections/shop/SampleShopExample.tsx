@@ -32,7 +32,7 @@ export default function SampleShopExample() {
   return (
     <section className="mt-16 space-y-4">
       <h3 className="text-lg sm:text-xl font-bold text-gray-900">
-        📌 掲載イメージ（サンプル）
+        📌 掲載イメージ(カードをクリックすると詳細が開きます)
       </h3>
       <p className="text-sm text-gray-600">
         無料店舗掲載をされますと、このように掲載されます（※これは架空の例です）
