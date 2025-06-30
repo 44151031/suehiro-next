@@ -9,6 +9,7 @@ import { loadGenres } from "@/lib/loadGenres";
 import { CampaignOverviewTable } from "@/components/sections/city/CampaignOverviewTable";
 import CampaignNotice from "@/components/sections/city/CampaignNotice";
 import CampaignSummaryCard from "@/components/sections/city/CampaignSummaryCard";
+import OtherPaytypesCampaigns from "@/components/sections/city/OtherPaytypesCampaigns";
 import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCampaigns";
 import GenreHeaderNav from "@/components/sections/city/GenreHeaderNav";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
@@ -165,7 +166,6 @@ export default async function CityPaytypePage({
                 <br />
                 公表されましたらこのページで紹介いたします。
               </p>
-              <SampleShopExample />
             </>
           ) : (
             <>
@@ -173,10 +173,16 @@ export default async function CityPaytypePage({
                 shopListByGenre={shopListByGenre}
                 detailsJsonPath={detailsJsonPath}
               />
-              <SampleShopExample />
             </>
           )}
 
+          <OtherPaytypesCampaigns
+            prefectureSlug={prefectureSlug}
+            citySlug={citySlug}
+            currentPaytype={paytypeId}
+          />
+
+          <SampleShopExample />
           <StoreRegistrationCTA />
           <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
           <CityCampaignFAQ
