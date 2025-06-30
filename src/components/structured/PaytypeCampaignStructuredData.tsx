@@ -2,7 +2,7 @@
 
 import React from "react";
 import { generateFAQGraph } from "@/components/structured/parts/FAQJsonLd";
-import { PayTypeLabels } from "@/lib/payType"; // ✅ 追加
+import { PayTypeLabels } from "@/lib/payType";
 import type { PayTypeId } from "@/lib/payType";
 
 type Props = {
@@ -46,7 +46,6 @@ const PaytypeCampaignStructuredData = ({
 }: Props) => {
   const origin = "https://paycancampaign.com";
 
-  // ✅ スラッグ → 表示名の逆引き（例: "aupay" → "au PAY"）
   const paytypeLabel = PayTypeLabels[paytype] || paytype;
 
   const imageUrl = `${origin}/images/campaigns/ogp/${prefectureSlug}-${citySlug}-${paytype}-ogp.jpg`;
@@ -57,6 +56,27 @@ const PaytypeCampaignStructuredData = ({
 
   const officialPageUrl = officialUrl ?? `${origin}/campaigns/${prefectureSlug}/${citySlug}`;
 
+  const publisher = {
+    "@type": "Organization",
+    "@id": `${origin}/#publisher`,
+    name: "Payキャン運用事務局",
+    logo: {
+      "@type": "ImageObject",
+      url: `${origin}/logo.png`,
+    },
+    sameAs: ["https://x.com/paycancampaign"],
+  };
+
+  const website = {
+    "@type": "WebSite",
+    "@id": `${origin}/#website`,
+    url: origin,
+    name: "Payキャン",
+    publisher: {
+      "@id": `${origin}/#publisher`,
+    },
+  };
+
   const article = {
     "@type": "Article",
     headline,
@@ -66,14 +86,7 @@ const PaytypeCampaignStructuredData = ({
       name: "Payキャン運用事務局",
       url: origin,
     },
-    publisher: {
-      "@type": "Organization",
-      name: "Payキャン運用事務局",
-      logo: {
-        "@type": "ImageObject",
-        url: `${origin}/logo.png`,
-      },
-    },
+    publisher,
     mainEntityOfPage: {
       "@type": "WebPage",
       "@id": url,
@@ -137,11 +150,11 @@ const PaytypeCampaignStructuredData = ({
     description: offerLimitDescription,
   };
 
-  const faqGraph = generateFAQGraph(prefecture, city, paytypeLabel); // ✅ ラベルに差し替え
+  const faqGraph = generateFAQGraph(prefecture, city, paytypeLabel);
 
   const data = {
     "@context": "https://schema.org",
-    "@graph": [article, offer, event, ...faqGraph],
+    "@graph": [website, publisher, article, offer, event, ...faqGraph],
   };
 
   return (
