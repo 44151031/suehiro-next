@@ -10,7 +10,8 @@ import {
 import CampaignTotalPointSummary from "@/components/common/CampaignTotalPointSummary";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import { CampaignCardList } from "@/components/common/CampaignCardList";
-import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCampaigns";
+// ✅ RecommendedCampaigns 削除により import も削除
+// import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCampaigns";
 import { getPrefectureMetadata } from "@/lib/metadataGenerators";
 import PrefectureCampaignStructuredData from "@/components/structured/PrefectureCampaignStructuredData";
 import { generateShareContent } from "@/lib/generateShareContent";
@@ -35,16 +36,11 @@ export default function PrefecturePage({ params }: Props) {
 
   const prefectureName = list[0].prefecture;
 
-  // ✅ 終了していないキャンペーン（開催中 or 予定）
   const activeList = getActiveCampaignsByPrefecture(prefecture, campaigns);
   const active = activeList.filter(
     (c) => getCampaignStatus(c.startDate, c.endDate) === "active"
   );
   const upcoming = activeList.length - active.length;
-
-  const headline = `${prefectureName}のキャッシュレスキャンペーン情報`;
-  const articleDescription = `Payキャンでは${prefectureName}で実施中・予定されているキャッシュレス決済キャンペーンをまとめています。PayPay・楽天ペイ・d払い・auPAYなどの自治体キャンペーンの還元率・上限・期間情報を掲載中。`;
-  const url = `https://paycancampaign.com/campaigns/${prefecture}`;
 
   const { title: shareTitle, hashtags: shareHashtags } = generateShareContent({
     prefecture: prefectureName,
@@ -56,9 +52,6 @@ export default function PrefecturePage({ params }: Props) {
       <PrefectureCampaignStructuredData
         prefecture={prefectureName}
         prefectureSlug={prefecture}
-        headline={headline}
-        articleDescription={articleDescription}
-        url={url}
       />
 
       <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
@@ -106,18 +99,12 @@ export default function PrefecturePage({ params }: Props) {
             </div>
           )}
 
-          {activeList.length === 0 && (
-            <RecommendedCampaigns
-              prefectureSlug={prefecture}
-              citySlug={""}
-              currentPaytype=""
-            />
-          )}
+          {/* ✅ RecommendedCampaigns セクションは不要なため削除済み */}
 
           <div className="mb-6">
             <SNSShareButtons
               title={shareTitle}
-              url={url}
+              url={`https://paycancampaign.com/campaigns/${prefecture}`}
               hashtags={shareHashtags}
             />
           </div>
@@ -132,9 +119,10 @@ export default function PrefecturePage({ params }: Props) {
               .map((p) => p.slug);
 
             const sameGroupCampaigns = campaigns
-              .filter((c) =>
-                sameGroupPrefectures.includes(c.prefectureSlug) &&
-                getCampaignStatus(c.startDate, c.endDate) !== "ended"
+              .filter(
+                (c) =>
+                  sameGroupPrefectures.includes(c.prefectureSlug) &&
+                  getCampaignStatus(c.startDate, c.endDate) !== "ended"
               )
               .sort((a, b) => {
                 const aStatus = getCampaignStatus(a.startDate, a.endDate);
