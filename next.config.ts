@@ -19,6 +19,9 @@ const nextConfig: NextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
+
+  // ✅ 末尾スラッシュなしでURLを統一（SEO対策）
+  trailingSlash: false,
 };
 
 export default nextConfig;
