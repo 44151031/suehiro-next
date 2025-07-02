@@ -1,0 +1,556 @@
+{
+  "その他": [
+    {
+      "name": "モーモーズ"
+    },
+    {
+      "name": "大和屋袖ケ浦店"
+    },
+    {
+      "name": "ICHIGOYA・SUN"
+    },
+    {
+      "name": "ますみ犬猫病院本院"
+    },
+    {
+      "name": "トップシステム南庁舎売店"
+    },
+    {
+      "name": "上泉農園"
+    },
+    {
+      "name": "川村とまと園"
+    },
+    {
+      "name": "ねむのもり"
+    },
+    {
+      "name": "CAFÉ LA FORESTA"
+    },
+    {
+      "name": "身体工房 mackey"
+    },
+    {
+      "name": "DogSalon　Fluffy"
+    },
+    {
+      "name": "(有)武井製茶工場"
+    },
+    {
+      "name": "ガッツレンタカー"
+    },
+    {
+      "name": "しまむらファーム＆ガーデン"
+    },
+    {
+      "name": "カーメイキングレヴュー"
+    },
+    {
+      "name": "長浦コンタクトレンズ"
+    },
+    {
+      "name": "ZERO FIGHTERS"
+    },
+    {
+      "name": "イシイモータース"
+    },
+    {
+      "name": "家事代行アルト"
+    },
+    {
+      "name": "ハピラセラ"
+    },
+    {
+      "name": "スタジオPIC "
+    },
+    {
+      "name": "スナック　環"
+    },
+    {
+      "name": "あづ整体院"
+    },
+    {
+      "name": "勝畑税理士事務所"
+    },
+    {
+      "name": "SupportWorksJoyTreeglacege-vase"
+    },
+    {
+      "name": "LBC"
+    },
+    {
+      "name": "seaya dreamcapsule酵素カプセルサロンシーヤ"
+    },
+    {
+      "name": "CHAKY"
+    },
+    {
+      "name": "レンタルニューワンAQUA店"
+    },
+    {
+      "name": "綿屋輪業"
+    },
+    {
+      "name": "カラオケモコモコ"
+    },
+    {
+      "name": "(有)寿板金"
+    },
+    {
+      "name": "glacage-vase"
+    },
+    {
+      "name": "小原クリーニング"
+    },
+    {
+      "name": "GIFT1号店"
+    },
+    {
+      "name": "HEAD SCAN TOKYO."
+    },
+    {
+      "name": "ラックボディ"
+    },
+    {
+      "name": "有限会社すずもと"
+    },
+    {
+      "name": "飯島設備"
+    },
+    {
+      "name": "Navia"
+    },
+    {
+      "name": "HakoNeko塊根植物専門店"
+    },
+    {
+      "name": "袖ヶ浦総建"
+    },
+    {
+      "name": "福原自動車整備工場"
+    },
+    {
+      "name": "MINDSSPORTSFIELDS"
+    },
+    {
+      "name": "シャトレーゼ"
+    },
+    {
+      "name": "オーリーブレッド"
+    },
+    {
+      "name": "プリメーロ"
+    },
+    {
+      "name": "オランダ家"
+    },
+    {
+      "name": "(有)奈良輪豊月堂"
+    },
+    {
+      "name": "PLANTS"
+    },
+    {
+      "name": "ケーキハウス赤とんぼ"
+    },
+    {
+      "name": "パティスリー　キャンジュール"
+    },
+    {
+      "name": "Little Sweets Shop Anthony"
+    },
+    {
+      "name": "いぬ日和"
+    },
+    {
+      "name": "RCスタジアム袖ヶ浦"
+    },
+    {
+      "name": "袖ヶ浦ホンダ"
+    },
+    {
+      "name": "フラワーヒロ"
+    },
+    {
+      "name": "(株)メディアサイトウ"
+    },
+    {
+      "name": "Buondi"
+    },
+    {
+      "name": "Noix Bruno."
+    },
+    {
+      "name": "はんこ家はん造"
+    },
+    {
+      "name": "ひらおかサステラス"
+    },
+    {
+      "name": "峯下モータース"
+    },
+    {
+      "name": "バード袖ヶ浦"
+    },
+    {
+      "name": "グリムのへや"
+    },
+    {
+      "name": "irodori"
+    },
+    {
+      "name": "アップルポップ千葉3号店"
+    },
+    {
+      "name": "ユナイテッドインターナショナル"
+    },
+    {
+      "name": "GROW-UP"
+    },
+    {
+      "name": "ガウラスポーツイベント"
+    },
+    {
+      "name": "IGNITION"
+    },
+    {
+      "name": "有限会社一真企画居酒屋食堂なじみ"
+    },
+    {
+      "name": "魚料理専門店　わかせい"
+    },
+    {
+      "name": "焼肉DINING大和"
+    },
+    {
+      "name": "すし・創作料理一幸"
+    },
+    {
+      "name": "和風レストラン亀悦"
+    },
+    {
+      "name": "モンテローザ魚民"
+    },
+    {
+      "name": "ROSEHIPCAFE"
+    },
+    {
+      "name": "中華料理　正華楼"
+    },
+    {
+      "name": "レストランキャセロール"
+    },
+    {
+      "name": "焼肉亭赤とんぼ"
+    },
+    {
+      "name": "養老乃瀧"
+    },
+    {
+      "name": "居酒屋れいちゃん"
+    },
+    {
+      "name": "川善"
+    },
+    {
+      "name": "妙繕閣"
+    },
+    {
+      "name": "焼肉かげろう"
+    },
+    {
+      "name": "麺処霧笛"
+    },
+    {
+      "name": "たけや食堂"
+    },
+    {
+      "name": "大原軒"
+    },
+    {
+      "name": "Tonic Diner"
+    },
+    {
+      "name": "アメリカンステーキ16イチロー"
+    },
+    {
+      "name": "袖ヶ浦ふれあいどうぶつ緑"
+    },
+    {
+      "name": "石井洋品店"
+    },
+    {
+      "name": "上田屋さつき台"
+    },
+    {
+      "name": "MIYANOTE handmade"
+    },
+    {
+      "name": "NOHM"
+    },
+    {
+      "name": "tic.works"
+    },
+    {
+      "name": "東京ドイツ村事業部"
+    },
+    {
+      "name": "アコーディア・ゴルフ東京湾カントリークラブ"
+    },
+    {
+      "name": "ギフトふじい・クマの陶芸教室"
+    },
+    {
+      "name": "TrainingteamGROW"
+    },
+    {
+      "name": "グリーンアローBornCafe"
+    },
+    {
+      "name": "サンダーコマンドスサバゲーフィールド"
+    },
+    {
+      "name": "グリーンアロートランポリンパーク"
+    },
+    {
+      "name": "PERSONALGYMCRESCO"
+    },
+    {
+      "name": "Nail&Eyelash Salon Lea"
+    },
+    {
+      "name": "もみほぐしサロンゆりまち癒しの空間"
+    },
+    {
+      "name": "Toiro"
+    },
+    {
+      "name": "Ballom d' Or"
+    },
+    {
+      "name": "nekoRu"
+    },
+    {
+      "name": "KITTE"
+    },
+    {
+      "name": "Jelly"
+    },
+    {
+      "name": "Nail&Bodycare salon milimili"
+    },
+    {
+      "name": "Art the line"
+    },
+    {
+      "name": "Hair Salon aLotta"
+    },
+    {
+      "name": "kanoah kaila"
+    },
+    {
+      "name": "hairdesign eclat"
+    },
+    {
+      "name": "ALMOND"
+    },
+    {
+      "name": "エステサロン salon de vita"
+    },
+    {
+      "name": "Cherish"
+    },
+    {
+      "name": "結"
+    },
+    {
+      "name": "フットケア専門店りく"
+    },
+    {
+      "name": "eau-de-vie"
+    },
+    {
+      "name": "ファースト"
+    },
+    {
+      "name": "髪kura"
+    },
+    {
+      "name": "soothing"
+    },
+    {
+      "name": "Aquange"
+    },
+    {
+      "name": "ヘアーサロンフクハラ"
+    },
+    {
+      "name": "nailsalonzips"
+    },
+    {
+      "name": "Lumia"
+    },
+    {
+      "name": "Balance"
+    },
+    {
+      "name": "CLB salon"
+    },
+    {
+      "name": "アトリエクープ"
+    },
+    {
+      "name": "green"
+    },
+    {
+      "name": "HAIR SALON Art the garden"
+    },
+    {
+      "name": "minimini nail"
+    },
+    {
+      "name": "快眠ドライヘッドスパ　天使のうたた寝～ゆりーぷ"
+    },
+    {
+      "name": "nail salon Octobre"
+    },
+    {
+      "name": "BELIAS"
+    },
+    {
+      "name": "Ballond'Or"
+    },
+    {
+      "name": "nailsalonOctobre"
+    },
+    {
+      "name": "Lovely Smile"
+    },
+    {
+      "name": "美肌専門サロンEteluce"
+    },
+    {
+      "name": "nail salon mieux"
+    },
+    {
+      "name": "AtelierBiz"
+    },
+    {
+      "name": "BEEST beauty salon"
+    },
+    {
+      "name": "TELAHAIR"
+    },
+    {
+      "name": "ストレッチ鍼灸イトー整骨院"
+    },
+    {
+      "name": "イトー整骨院"
+    },
+    {
+      "name": "よつば整体院"
+    },
+    {
+      "name": "ココ・KARA・DA整骨院"
+    },
+    {
+      "name": "リラクゼーション整体Re.Body"
+    },
+    {
+      "name": "高橋総合健康センター"
+    },
+    {
+      "name": "木もれ陽鍼灸院・整骨院"
+    },
+    {
+      "name": "ASAHI整骨院"
+    },
+    {
+      "name": "private sakon_凪_"
+    },
+    {
+      "name": "サロンパルク～pUrk～"
+    },
+    {
+      "name": "あづ整体院"
+    },
+    {
+      "name": "YOSAPARKborelo"
+    },
+    {
+      "name": "今井接骨院"
+    },
+    {
+      "name": "神納ひかり整骨院"
+    },
+    {
+      "name": "袖ヶ浦中央整体院"
+    },
+    {
+      "name": "クリーニング専科"
+    },
+    {
+      "name": "クリーニングスワン"
+    },
+    {
+      "name": "小原クリーニング"
+    },
+    {
+      "name": "家事代行アルト"
+    },
+    {
+      "name": "おそうじ本舗"
+    },
+    {
+      "name": "ハウスクリーンたけい"
+    },
+    {
+      "name": "湯舞音"
+    },
+    {
+      "name": "東横INN"
+    },
+    {
+      "name": "ゆたか旅館"
+    },
+    {
+      "name": "Tabist浜戸屋旅館"
+    }
+  ],
+  "スーパーマーケット": [
+    {
+      "name": "veryfoods尾張屋"
+    },
+    {
+      "name": "主婦の店"
+    },
+    {
+      "name": "富分スーパー伊藤"
+    },
+    {
+      "name": "小僧寿し"
+    }
+  ],
+  "ドラッグストア・薬局": [
+    {
+      "name": "株式会社ルージュアクワレル"
+    }
+  ],
+  "家電": [
+    {
+      "name": "熾"
+    },
+    {
+      "name": "須藤電化"
+    },
+    {
+      "name": "トップシステム"
+    },
+    {
+      "name": "かさはら睡眠館"
+    },
+    {
+      "name": "石野電化"
+    }
+  ]
+}
