@@ -19,7 +19,7 @@ const CampaignsTopStructuredData = () => {
       {
         "@type": "Organization",
         "@id": `${origin}/#publisher`,
-        "name": "Payキャン運用事務局",
+        "name": "Payキャン",
         "url": origin,
         "logo": {
           "@type": "ImageObject",

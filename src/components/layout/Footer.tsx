@@ -177,7 +177,7 @@ export default function Footer() {
         </div>
 
         <p className="text-xs text-gray-400 mt-10 text-center">
-          &copy; {new Date().getFullYear()} Payキャン（ペイキャン）運営事務局
+          &copy; {new Date().getFullYear()} Payキャン（ペイキャン）はPayキャン運営事務局が運営しています
         </p>
       </Container>
     </footer>

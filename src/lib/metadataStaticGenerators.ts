@@ -29,7 +29,7 @@ const staticMetadataMap: Record<string, { title: string; description: string }> 
   management: {
     title: "運営管理ページ-Payキャン",
     description:
-      "Payキャンの管理情報を掲載しています。Payキャンの連絡先などを確認できます。",
+      "Payキャンの管理者情報を掲載しています。またPayキャン運営事務局の連絡先などを確認できます。",
   },
 };
 
