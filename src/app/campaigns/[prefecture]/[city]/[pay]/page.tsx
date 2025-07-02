@@ -129,11 +129,11 @@ export default async function CityPaytypePage({
             <p>
               <span className="font-semibold">{prefecture}{city}</span>で
               <span className="text-brand-primary font-bold">
-                {formatJapaneseDate(startDate)}～
+                {formatJapaneseDate(startDate)}から
                 {formatJapaneseDate(endDate)}
               </span>
-              まで、{offer}％還元キャッシュレス応援キャンペーンが開催。最大
-              {formatNumber(fullpoint)}円分のポイントを獲得できます。
+              までの期間で、{offer}％還元キャッシュレス応援キャンペーンが開催。最大
+              {formatNumber(fullpoint)}円分のポイントを獲得できます。このページでは、効率よくポイントを獲得できるように対象店舗をジャンルに分けて紹介しています。
             </p>
 
             <h2 className="headline2">
