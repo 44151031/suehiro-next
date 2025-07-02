@@ -6,7 +6,7 @@ import { campaigns } from "./campaignMaster";
 const rawPopularSearches = [
   "神奈川県相模原市",
   "東京都練馬区",
-  "大阪府東大東市",
+  "大阪府大東市",
   "千葉県袖ケ浦市",
   "東京都杉並区",
   "東京都大田区",
