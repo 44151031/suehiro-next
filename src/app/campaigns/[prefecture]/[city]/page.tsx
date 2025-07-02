@@ -114,7 +114,11 @@ export default function CityCampaignsPage({
           )}
 
           {filteredList.length === 0 && (
-            <RecommendedCampaigns prefectureSlug={prefecture} citySlug={city} />
+            <RecommendedCampaigns
+              prefectureSlug={prefecture}
+              citySlug={city}
+              city={cityName}
+            />
           )}
 
           <SNSShareButtons url={url} title={shareTitle} hashtags={shareHashtags} />

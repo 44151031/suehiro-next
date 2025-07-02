@@ -1,4 +1,4 @@
-// /components/structured/CityTopStructuredData.tsx
+// /components/structured/CityCampaignStructuredData.tsx
 "use client";
 
 import React from "react";
@@ -9,6 +9,9 @@ type Props = {
   city: string;
   prefectureSlug: string;
   citySlug: string;
+  headline: string; // ✅ headline を追加
+  articleDescription: string; // ✅ 追加
+  url: string; // ✅ ← これを追加
   campaigns?: Campaign[]; // optional にして undefined 対策
 };
 
@@ -17,6 +20,9 @@ export default function CityTopStructuredData({
   city,
   prefectureSlug,
   citySlug,
+  headline, // ✅ headline を受け取る
+  articleDescription,
+  url,
   campaigns = [], // デフォルトで空配列を設定
 }: Props) {
   const origin = "https://paycancampaign.com";
