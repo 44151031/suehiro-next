@@ -76,7 +76,8 @@ function GenreButton({ label, href }: { label: string; href: string }) {
       href={href}
       className={cn(
         "mx-[1px] sm:mx-1 whitespace-nowrap text-xs sm:text-sm font-semibold px-2 sm:px-4 py-[5px] sm:py-2 rounded-full border",
-        "border-pink-400 text-gray-800 bg-white hover:bg-pink-500 hover:text-white transition-colors"
+        "border-pink-200 bg-pink-100 text-pink-700",
+        "hover:bg-pink-400 hover:text-white transition-colors"
       )}
     >
       {label}

@@ -2,6 +2,7 @@
 
 import { Shop } from "@/types/shop";
 import { ShopDetail } from "@/types/shopDetails";
+import { cn } from "@/lib/utils";
 
 type Props = {
   shop: Shop;
@@ -18,13 +19,20 @@ export default function ShopCard({ shop, detail, onClick }: Props) {
   );
 }
 
-// ✅ リンク付きダミーカード（<details> 展開型）
+// ✅ リンク付きダミーカード（<details> 展開型／押せる見た目に調整）
 function DummyLinkCard({ shop, detail }: { shop: Shop; detail: ShopDetail }) {
-  const baseClass = `rounded-lg px-3 py-[6px] sm:px-4 sm:py-3 mb-1 sm:mb-0 transition border bg-white border-pink-300 border-2 hover:shadow-md hover:scale-[1.03] duration-200`;
+  const baseClass =
+    "rounded-lg px-3 py-[6px] sm:px-4 sm:py-3 mb-1 sm:mb-0 border-2 border-pink-300 bg-white transition duration-200";
 
   return (
     <details className={baseClass}>
-      <summary className="list-none marker:hidden cursor-pointer">
+      <summary
+        className={cn(
+          "list-none marker:hidden cursor-pointer",
+          "hover:bg-pink-50 active:shadow-inner hover:shadow-md hover:scale-[1.02]",
+          "rounded-md px-1 sm:px-2 py-1 sm:py-[6px] transition duration-150 ease-in-out"
+        )}
+      >
         {/* スマホ1行、PC縦並び */}
         <div className="sm:hidden flex flex-wrap items-center gap-x-1 leading-normal">
           <p className="font-semibold text-gray-900 text-xs">{shop.name}</p>
@@ -87,7 +95,7 @@ function DummyLinkCard({ shop, detail }: { shop: Shop; detail: ShopDetail }) {
   );
 }
 
-// ✅ 通常の店舗カード（li クリック型）
+// ✅ 通常の店舗カード（タップできそうに見えないデザインに調整）
 function NormalShopCard({
   shop,
   onClick,
@@ -95,19 +103,19 @@ function NormalShopCard({
   shop: Shop;
   onClick?: () => void;
 }) {
-  const baseClass = `rounded-lg px-3 py-[5px] sm:px-4 sm:py-3 mb-1 sm:mb-0 transition border bg-white border-gray-200`;
+  const baseClass = `rounded-lg px-3 py-[5px] sm:px-4 sm:py-3 mb-1 sm:mb-0 border bg-white border-gray-200 cursor-default`;
 
   return (
-    <li onClick={onClick} className={baseClass}>
+    <li className={baseClass}>
       <div className="sm:hidden flex flex-wrap items-center gap-x-1 leading-normal">
-        <p className="font-semibold text-gray-900 text-xs">{shop.name}</p>
+        <p className="font-semibold text-gray-800 text-xs">{shop.name}</p>
         {shop.address && (
           <p className="text-gray-600 text-[11px] leading-normal">{shop.address}</p>
         )}
       </div>
 
       <div className="hidden sm:block">
-        <p className="font-semibold text-gray-900 text-sm">{shop.name}</p>
+        <p className="font-semibold text-gray-800 text-sm">{shop.name}</p>
         <p className="text-gray-600 text-sm leading-normal pb-[2px]">
           {shop.address}
         </p>
