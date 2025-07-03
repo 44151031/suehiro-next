@@ -14,24 +14,25 @@ import { generateMetadata as generateDynamicMetadata } from "@/lib/metadataGener
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
-  display: "swap", // ✅ 遅延防止（FOUT対策）
-  preload: true,   // ✅ LCP改善のため追加
+  display: "swap",
+  preload: true,
 });
 
 const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
-  display: "swap", // ✅ 遅延防止（FOUT対策）
+  display: "swap",
 });
 
-// ✅ generateMetadata だけを export（icons をここで付加）
+// ✅ generateMetadata だけを export（icons をここで付加 & generatorを削除）
 export async function generateMetadata(params: any): Promise<Metadata> {
   const dynamic = await generateDynamicMetadata(params);
 
   return {
     ...dynamic,
+    generator: "",
     icons: {
-      icon: "/favicon.png", 
+      icon: "/favicon.png",
     },
   };
 }
@@ -42,17 +43,15 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="ja" className="scroll-smooth">
       <head>
-        {/* ✅ Google Fonts 最適化 */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
-        <ClientNoIndex /> {/* ✅ クライアントでnoindexを追加 */}
+        <ClientNoIndex />
 
-        {/* ✅ Google Tag Manager script（lazyOnloadでTBT改善） */}
         <Script
           id="gtm-init"
-          strategy="lazyOnload" // ✅ ここが変更点
+          strategy="lazyOnload"
           dangerouslySetInnerHTML={{
             __html: `
               (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -64,7 +63,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           }}
         />
 
-        {/* ✅ GTM noscript fallback */}
         <noscript>
           <iframe
             src={`https://www.googletagmanager.com/ns.html?id=${GTM_ID}`}
