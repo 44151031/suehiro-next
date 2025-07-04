@@ -46,12 +46,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
 
-        {/* ✅ Google AdSense スクリプト */}
-        <Script
+        {/* ✅ AdSense スクリプトは生で書く！ */}
+        <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6887407803306740"
           crossOrigin="anonymous"
-        />
+        ></script>
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         <ClientNoIndex />
