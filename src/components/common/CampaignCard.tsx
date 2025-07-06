@@ -75,6 +75,9 @@ export default function CampaignCard({
           <span className="text-sm text-neutral-700">pt</span>
         </p>
       )}
+
+      {/* 常時表示の右矢印 */}
+      <span className="absolute right-4 top-1/2 -translate-y-1/2 text-xl text-neutral-400">›</span>
     </div>
   );
 }
