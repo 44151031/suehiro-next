@@ -42,7 +42,7 @@ export default function CampaignLineCard({
       : "font-semibold text-neutral-900";
 
   return (
-    <div className="w-full bg-white border border-border rounded-xl shadow-sm px-4 py-2 text-sm text-neutral-800 transition-transform hover:scale-[1.02]">
+    <div className="w-full bg-white border border-border rounded-xl shadow-sm px-4 py-2 text-sm text-neutral-800 transition-transform hover:scale-[1.02] flex items-center justify-between">
       <div className="inline-flex flex-wrap sm:flex-nowrap items-center gap-x-[6px] whitespace-nowrap leading-snug">
         <span className="font-semibold text-neutral-900">
           {showPrefecture ? `${prefecture}${city}` : city}
@@ -82,6 +82,9 @@ export default function CampaignLineCard({
           </span>
         )}
       </div>
+
+      {/* スマホでのみ表示される右矢印 */}
+      <span className="block sm:hidden text-xl text-neutral-400 ml-2">›</span>
     </div>
   );
 }
