@@ -83,8 +83,10 @@ export default function CampaignLineCard({
         )}
       </div>
 
-      {/* スマホでのみ表示される右矢印 */}
-      <span className="block sm:hidden text-xl text-neutral-400 ml-2">›</span>
+      {/* ✅ xl以下（= 1279px以下）でのみ表示 */}
+      <span className="block xl:hidden text-xl text-neutral-400 ml-2 pointer-events-none">
+        ›
+      </span>
     </div>
   );
 }

@@ -37,9 +37,8 @@ export function CampaignCardList({ campaigns, excludeCitySlug }: Props) {
               endDate={c.endDate}
               period={
                 c.startDate && c.endDate
-                  ? `${formatJapaneseDate(c.startDate, undefined, { omitYear: true })}〜${formatJapaneseDate(
+                  ? `${formatJapaneseDate(c.startDate, { omitYear: true })}〜${formatJapaneseDate(
                       c.endDate,
-                      undefined,
                       { omitYear: true }
                     )}`
                   : ""
