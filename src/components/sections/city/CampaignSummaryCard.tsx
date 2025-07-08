@@ -25,7 +25,7 @@ const statusMap: Record<CampaignStatus, { label: string; color: string }> = {
 };
 
 export default function CampaignSummaryCard({ campaign }: Props) {
-  const genres = loadGenres(campaign.prefectureSlug, campaign.citySlug);
+  const genres = loadGenres(campaign.prefectureSlug, campaign.citySlug, campaign.paytype);
   const onepay = calculateOnePay(Number(campaign.onepoint), campaign.offer);
   const fullpay = calculateFullPay(Number(campaign.fullpoint), campaign.offer);
   const paytime = calculatePayTime(fullpay, onepay);
@@ -43,7 +43,7 @@ export default function CampaignSummaryCard({ campaign }: Props) {
 
       <div className="flex flex-col md:flex-row">
         {/* 左画像＋バッジ */}
-        <div className="relative w-full md:w-72 h-48 md:h-auto">
+        <div className="relative w-full md:w-72 h-48 md:h-auto bg-gray-100">
           {/* テキストオーバーレイ */}
           <div className="absolute inset-0 flex items-center justify-center z-10">
             <div className="bg-white/90 text-black text-center px-4 py-3 rounded-2xl shadow-2xl leading-tight font-extrabold">
@@ -55,9 +55,7 @@ export default function CampaignSummaryCard({ campaign }: Props) {
               </div>
               <div className="mt-0.5">戻ってくる</div>
               <div className="mt-1 text-ms font-semibold text-gray-600">
-                @
-                <span className="text-red-600">Pay</span>
-                <span className="text-black text-[0.7rem]">キャン</span>
+                @<span className="text-red-600">Pay</span><span className="text-black text-[0.7rem]">キャン</span>
               </div>
             </div>
           </div>

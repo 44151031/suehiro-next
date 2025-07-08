@@ -9,7 +9,18 @@ import { SNSShareButtons } from "@/components/common/SNSShareButtons";
 import Link from "next/link";
 
 export default function CampaignsArchiveContent() {
-  const endedCampaigns = filterCampaignsByStatus(campaigns, "ended");
+  // 重複を排除し、startDateが最新のものを優先
+  const uniqueCampaignsMap = new Map<string, typeof campaigns[number]>();
+  campaigns.forEach((c) => {
+    const key = `${c.prefectureSlug}-${c.citySlug}-${c.paytype}`;
+    const existing = uniqueCampaignsMap.get(key);
+    if (!existing || new Date(c.startDate) > new Date(existing.startDate)) {
+      uniqueCampaignsMap.set(key, c);
+    }
+  });
+  const uniqueCampaigns = Array.from(uniqueCampaignsMap.values());
+
+  const endedCampaigns = filterCampaignsByStatus(uniqueCampaigns, "ended");
 
   return (
     <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
@@ -19,17 +30,15 @@ export default function CampaignsArchiveContent() {
           現在は終了していますが、今後同じ自治体でキャンペーンが開催される可能性があります。これまでの傾向や内容を参考に、次回のチャンスを見逃さないようにこのページはご活用ください。
         </p>
 
-
-<div className="mt-6 mb-5 bg-white border border-neutral-300 rounded-xl shadow-sm px-6 py-4">
-        <p className="text-base sm:text-lg font-medium text-neutral-500 leading-snug">
-          現在、開催中・開催予定のキャンペーンを確認したい方は
-          <Link href="/campaigns" className="text-blue-600 ml-1 hover:underline">
-            全国のキャンペーン一覧
-          </Link>
-          をご覧ください。
-        </p>
-</div>
-        {/* ブランドアイコン省略（見た目は変更なし） */}
+        <div className="mt-6 mb-5 bg-white border border-neutral-300 rounded-xl shadow-sm px-6 py-4">
+          <p className="text-base sm:text-lg font-medium text-neutral-500 leading-snug">
+            現在、開催中・開催予定のキャンペーンを確認したい方は
+            <Link href="/campaigns" className="text-blue-600 ml-1 hover:underline">
+              全国のキャンペーン一覧
+            </Link>
+            をご覧ください。
+          </p>
+        </div>
 
         <div className="space-y-12">
           {prefectureGroups.map((group) => (
