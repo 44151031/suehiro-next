@@ -14,6 +14,7 @@ import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCamp
 import GenreHeaderNav from "@/components/sections/city/GenreHeaderNav";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import StoreRegistrationCTA from "@/components/common/StoreRegistrationCTA";
+import CTAShopList from "@/components/sections/city/CTAShopList";
 import { generateShareContent } from "@/lib/generateShareContent";
 import { SNSShareButtons } from "@/components/common/SNSShareButtons";
 import GenreShopLists from "@/components/sections/shop/GenreShopLists";
@@ -119,7 +120,11 @@ export default async function CityPaytypePage({
               {formatJapaneseDate(datePublished)}
             </p>
           )}
-
+          <CTAShopList
+            prefectureSlug={prefectureSlug}
+            citySlug={citySlug}
+            paytype={paytypeId}
+          />
           <CampaignStatusNotice campaign={campaign} />
           <CampaignSummaryCard campaign={campaign} />
           <GenreHeaderNav genres={genres} paytypeLabel={payLabel} paytype={paytypeId} />
@@ -155,7 +160,10 @@ export default async function CityPaytypePage({
             <CampaignNotice campaign={campaign} />
           </div>
 
-          <h2 className="headline2 mb-4">
+          <h2
+            id="shop-list-section"
+            className="headline2 mb-4 scroll-mt-24"
+          >
             {payLabel}が使える{city}の{offer}%還元対象店舗一覧
           </h2>
 
