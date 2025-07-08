@@ -1,6 +1,7 @@
+// src/lib/campaignMasterE.ts
 import type { Campaign } from "@/types/campaign";
 
-export const campaignsA: Campaign[] = [
+export const campaignsE: Campaign[] = [
   { paytype: "paypay", prefectureSlug: "hyogo", citySlug: "kasai", prefecture: "兵庫県", city: "加西市", offer: 20, startDate: "2022-02-01", endDate: "2022-02-28", onepoint: "5000", fullpoint: "10000", campaigntitle: "第5弾 がんばれ加西！コロナに負けるな！最大20％あげちゃうキャンペーン", notice: "", datePublished: "2025-07-08", dateModified: "2025-07-08" },
   { paytype: "paypay", prefectureSlug: "hiroshima", citySlug: "sera", prefecture: "広島県", city: "世羅町", offer: 20, startDate: "2022-02-01", endDate: "2022-03-04", onepoint: "500", fullpoint: "10000", campaigntitle: "第3弾がんばろう世羅町！キャッシュレスで！最大20％戻ってくるキャンペーン！", notice: "", datePublished: "2025-07-08", dateModified: "2025-07-08" },
   { paytype: "paypay", prefectureSlug: "gunma", citySlug: "ota", prefecture: "群馬県", city: "太田市", offer: 20, startDate: "2022-02-01", endDate: "2022-02-20", onepoint: "1000", fullpoint: "4000", campaigntitle: "太田の街を元気に！使ってお得キャッシュレス還元キャンペーン", notice: "", datePublished: "2025-07-08", dateModified: "2025-07-08" },
