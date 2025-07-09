@@ -39,6 +39,7 @@ export function getPrefectureMetadata(prefectureSlug: string): Metadata {
       description,
       type: "website",
       url: `https://paycancampaign.com/campaigns/${prefectureSlug}`,
+      siteName: "Payキャン",
       images: [
         {
           url: ogImageUrl,
@@ -101,6 +102,7 @@ export function getCityMetadata(
       description,
       type: "website",
       url: pageUrl,
+      siteName: "Payキャン",
       images: [{ url: ogImageUrl, width: 1200, height: 630, alt: title }],
     },
     twitter: {
@@ -167,6 +169,7 @@ export function getPaytypeMetadata(
       description,
       type: "website",
       url: pageUrl,
+      siteName: "Payキャン",
       images: [{ url: ogImageUrl, width: 1200, height: 630, alt: title }],
     },
     twitter: {
