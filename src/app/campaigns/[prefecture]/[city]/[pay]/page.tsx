@@ -120,7 +120,7 @@ export default async function CityPaytypePage({
               {formatJapaneseDate(datePublished)}
             </p>
           )}
-          <p className="text-xs md:text-base leading-relaxed text-gray-800">
+          <p className="text-xs md:text-base leading-relaxed text-gray-800 mb-2">
             <span className="font-semibold">{prefecture}{city}</span>で
             <span className="text-brand-primary font-bold">
               {formatJapaneseDate(startDate)}から
