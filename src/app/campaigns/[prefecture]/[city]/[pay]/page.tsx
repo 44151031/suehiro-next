@@ -120,6 +120,17 @@ export default async function CityPaytypePage({
               {formatJapaneseDate(datePublished)}
             </p>
           )}
+          <p className="text-xs md:text-base leading-relaxed text-gray-800">
+            <span className="font-semibold">{prefecture}{city}</span>で
+            <span className="text-brand-primary font-bold">
+              {formatJapaneseDate(startDate)}から
+              {formatJapaneseDate(endDate)}
+            </span>
+            までの期間で、
+            <span className="font-semibold">{payLabel}{offer}％還元</span>
+            キャンペーンが開催。このページでは効率よくポイントを獲得できるように対象店舗をジャンルに分けて紹介しています。
+          </p>
+
           <CTAShopList
             prefectureSlug={prefectureSlug}
             citySlug={citySlug}
@@ -131,24 +142,20 @@ export default async function CityPaytypePage({
           <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
 
           <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
-            <p>
-              <span className="font-semibold">{prefecture}{city}</span>で
-              <span className="text-brand-primary font-bold">
-                {formatJapaneseDate(startDate)}から
-                {formatJapaneseDate(endDate)}
-              </span>
-              までの期間で、{offer}％還元キャッシュレス応援キャンペーンが開催。最大
-              {formatNumber(fullpoint)}円分のポイントを獲得できます。このページでは、効率よくポイントを獲得できるように対象店舗をジャンルに分けて紹介しています。
-            </p>
+
 
             <h2 className="headline2">
               キャンペーン概要|{city}の{payLabel}還元キャンペーンとは？
             </h2>
             <p>
               <strong>{prefecture}{city}「{campaigntitle}」</strong> は、
-              対象店舗で{payLabel}を利用すると
+              <span className="text-brand-primary font-bold">
+                {formatJapaneseDate(startDate)}から
+                {formatJapaneseDate(endDate)}
+              </span>
+              までの期間で、{city}の対象店舗で{payLabel}でお支払いすると、
               <span className="text-brand-primary font-bold">{offer}％</span>
-              が戻ってくるお得なキャンペーンです。
+              が還元されるお得なキャンペーンです。最大{formatNumber(fullpoint)}円分のポイントを獲得できます。
             </p>
           </section>
 
@@ -162,7 +169,7 @@ export default async function CityPaytypePage({
 
           <h2
             id="shop-list-section"
-            className="headline2 mb-4 scroll-mt-24"
+            className="headline2 mb-4 scroll-mt-34"
           >
             {payLabel}が使える{city}の{offer}%還元対象店舗一覧
           </h2>

@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
+import { ArrowDownCircle } from 'lucide-react'; // アイコン追加
 
 type Props = {
   prefectureSlug: string;
@@ -29,11 +30,12 @@ export default function CTAShopList({
   if (!showButton) return null;
 
   return (
-    <div className="my-6 text-center">
+    <div className="my-4 text-center">
       <a
         href="#shop-list-section"
-        className="inline-block bg-[#ff5050] text-white font-bold py-3 px-6 rounded-md hover:bg-[#e64444] transition-colors duration-200"
+        className="inline-flex items-center gap-2 bg-white text-[#e60000] border border-[#e60000] font-bold py-3 px-6 rounded-full shadow-md hover:bg-[#e60000] hover:text-white transition-colors duration-300"
       >
+        <ArrowDownCircle className="w-5 h-5" />
         今すぐ対象店舗を見る
       </a>
     </div>
