@@ -21,6 +21,11 @@ const staticMetadataMap: Record<string, { title: string; description: string }> 
     description:
       "次回開催待ちの市区町村の過去のキャッシュレスキャンペーン一覧。過去のキャンペーンの終了日や内容から各市区町村の次回開催時の傾向を確認できます。",
   },
+  search: {
+    title: "キャッシュレスキャンペーンエリア検索結果ページ-Payキャン",
+    description:
+      "都道府県や市区町村名でキャッシュレスキャンペーンを探すことが出来ます。",
+  },
   maintenance: {
     title: "メンテナンス中-Payキャン",
     description:
@@ -47,6 +52,7 @@ function withDefaultOGP(key: keyof typeof staticMetadataMap): Metadata {
       description: meta.description,
       type: "website",
       url: `${baseUrl}/${key === "top" ? "" : key}`,
+      siteName: "Payキャン",
       images: [
         {
           url: `${baseUrl}/ogp.jpg`,
