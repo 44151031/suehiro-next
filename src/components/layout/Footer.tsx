@@ -10,7 +10,7 @@ import Container from "@/components/layout/Container";
 
 export default function Footer() {
   const [showPrefectures, setShowPrefectures] = useState(false);
-  const excludedSlugs = ["tottori", "kochi", "okinawa"];
+  const excludedSlugs = ["tottori", "kochi"];
 
   const group1 = ["北海道・東北", "関東", "中部"];
   const group2 = ["近畿", "中国", "四国", "九州・沖縄"];
