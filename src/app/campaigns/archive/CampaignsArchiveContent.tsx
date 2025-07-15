@@ -1,5 +1,6 @@
 "use client";
 
+import { useState } from "react";
 import { campaigns } from "@/lib/campaignMaster";
 import { filterCampaignsByStatus } from "@/lib/campaignUtils";
 import { prefectureGroups } from "@/lib/prefectures";
@@ -22,6 +23,16 @@ export default function CampaignsArchiveContent() {
 
   const endedCampaigns = filterCampaignsByStatus(uniqueCampaigns, "ended");
 
+  // 支払いサービスのフィルター
+  const [selectedPaytype, setSelectedPaytype] = useState<string>("all");
+  const filteredCampaigns = endedCampaigns.filter((c) => {
+    if (selectedPaytype === "all") return true;
+    if (selectedPaytype === "other") {
+      return !["paypay", "aupay", "rakutenpay", "dbarai"].includes(c.paytype);
+    }
+    return c.paytype === selectedPaytype;
+  });
+
   return (
     <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
       <div className="max-w-[1200px] mx-auto px-4 py-10">
@@ -40,12 +51,38 @@ export default function CampaignsArchiveContent() {
           </p>
         </div>
 
+        {/* 支払いサービスフィルター */}
+        <div className="sticky top-16 z-30 bg-[#f8f7f2] pt-4 pb-3 mb-10">
+          <div className="flex flex-wrap sm:flex-nowrap justify-end gap-3 sm:gap-6 px-2 sm:px-0 text-sm sm:text-base">
+            {[
+              { label: "すべて", value: "all" },
+              { label: "PayPay", value: "paypay" },
+              { label: "au PAY", value: "aupay" },
+              { label: "楽天ペイ", value: "rakutenpay" },
+              { label: "d払い", value: "dbarai" },
+              { label: "その他", value: "other" },
+            ].map(({ label, value }) => (
+              <label key={value} className="inline-flex items-center gap-2">
+                <input
+                  type="radio"
+                  name="paytype"
+                  value={value}
+                  checked={selectedPaytype === value}
+                  onChange={() => setSelectedPaytype(value)}
+                  className="form-radio h-5 w-5 text-blue-600 border-gray-400 focus:ring-blue-600"
+                />
+                <span className="font-bold text-sm text-gray-600">{label}</span>
+              </label>
+            ))}
+          </div>
+        </div>
+
         <div className="space-y-12">
           {prefectureGroups.map((group) => (
             <CampaignGroupSection
               key={group}
               groupName={group}
-              overrideCampaigns={endedCampaigns}
+              overrideCampaigns={filteredCampaigns}
             />
           ))}
         </div>
