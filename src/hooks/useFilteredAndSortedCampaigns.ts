@@ -35,7 +35,9 @@ export function useFilteredAndSortedCampaigns(campaigns: Campaign[]) {
     const now = new Date();
 
     const upcomingOrActive = campaigns.filter((c) => {
-      return new Date(c.endDate) >= now || new Date(c.startDate) > now;
+      const end = new Date(c.endDate + "T23:59:59");
+      const start = new Date(c.startDate);
+      return end >= now || start > now;
     });
 
     const enriched = upcomingOrActive
