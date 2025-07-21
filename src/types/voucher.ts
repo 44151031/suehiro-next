@@ -20,4 +20,7 @@ export type VoucherCampaign = {
   dateModified?: string;
   campaigntitle: string;
   notice?: string;
+  applicationStart: string;
+  applicationEnd: string;
+  target: string;
 };

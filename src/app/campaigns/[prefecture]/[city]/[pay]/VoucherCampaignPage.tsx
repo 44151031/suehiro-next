@@ -1,4 +1,3 @@
-// /app/campaigns/[prefecture]/[city]/[pay]/VoucherCampaignPage.tsx
 import { notFound } from "next/navigation";
 import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster";
 import { generateShareContent } from "@/lib/generateShareContent";
@@ -9,6 +8,7 @@ import VoucherCampaignSchedule from "@/components/sections/voucher/VoucherCampai
 import VoucherCampaignFlow from "@/components/sections/voucher/VoucherCampaignFlow";
 import VoucherCampaignStoreTypes from "@/components/sections/voucher/VoucherCampaignStoreTypes";
 import VoucherCampaignSummaryCard from "@/components/sections/voucher/VoucherCampaignSummaryCard";
+import VoucherCampaignHighlight from "@/components/sections/voucher/VoucherCampaignHighlight";
 import { formatJapaneseDate } from "@/lib/campaignUtils";
 import { calculateVoucherDiscountRate } from "@/lib/voucherUtils";
 
@@ -41,11 +41,13 @@ export default function VoucherCampaignPage({
     useStartDate,
     useEndDate,
     resultAnnounceDate,
-    officialUrl,
     datePublished,
     dateModified,
     prefectureSlug,
     citySlug,
+    eligiblePersons,
+    distributionMethod,
+    applicationUrl, // ✅ 使用するURL
   } = campaign;
 
   const modified = dateModified ?? datePublished;
@@ -74,11 +76,13 @@ export default function VoucherCampaignPage({
         url={pageUrl}
         datePublished={datePublished}
         dateModified={modified}
-        officialUrl={officialUrl}
       />
 
       <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
         <main className="max-w-[1200px] mx-auto px-4 py-10">
+
+
+
           {/* ✅ タイトル・日付 */}
           <h1 className="headline1">
             {cityName}最大{discountRate}％（
@@ -108,20 +112,33 @@ export default function VoucherCampaignPage({
             このページでは、ユーザーの方がポイ活しやすいように、キャンペーンの内容や、その他近隣エリアのキャンペーンをまとめて紹介しています。
           </p>
 
-          {/* ✅ サマリーカード（新設） */}
+          {/* ✅ サマリーカード */}
           <div className="my-6">
             <VoucherCampaignSummaryCard campaign={campaign} />
           </div>
-
-          {/* 商品券の概要テーブル */}
+          {/* ✅ トップ概要：ハイライトセクション */}
+          <VoucherCampaignHighlight
+            targetAudience={eligiblePersons}
+            resultAnnounceDate={resultAnnounceDate} // ✅ これを追加！
+            applicationUrl={applicationUrl}
+            applicationStart={applyStartDate}
+            applicationEnd={applyEndDate}
+            usageStart={useStartDate}
+            usageEnd={useEndDate}
+          />
+          {/* ✅ 商品券の概要テーブル */}
           <VoucherCampaignOverviewTable
             ticketUnit={ticketUnit}
             purchasePrice={purchasePrice}
             ticketAmount={ticketAmount}
             maxUnits={maxUnits}
+            campaigntitle={campaigntitle}
+            eligiblePersons={eligiblePersons}
+            distributionMethod={distributionMethod}
+            applicationUrl={applicationUrl}
           />
 
-          {/* 応募期間・利用期間・当選発表 */}
+          {/* ✅ 応募・利用・当選日 */}
           <VoucherCampaignSchedule
             applyStartDate={applyStartDate}
             applyEndDate={applyEndDate}
@@ -130,22 +147,13 @@ export default function VoucherCampaignPage({
             resultAnnounceDate={resultAnnounceDate}
           />
 
-          {/* 対象店舗ジャンル（将来拡張用） */}
+          {/* ✅ 対象店舗ジャンル */}
           <VoucherCampaignStoreTypes />
 
-          {/* 購入〜利用の流れ（将来拡張用） */}
+          {/* ✅ 利用の流れ */}
           <VoucherCampaignFlow />
 
-          {/* 公式リンク */}
-          {officialUrl && (
-            <p className="mt-4 text-base text-blue-700 underline">
-              <a href={officialUrl} target="_blank" rel="noopener noreferrer">
-                公式情報はこちら
-              </a>
-            </p>
-          )}
-
-          {/* SNS共有 */}
+          {/* ✅ SNS共有 */}
           <div className="mt-8">
             <SNSShareButtons
               url={pageUrl}
