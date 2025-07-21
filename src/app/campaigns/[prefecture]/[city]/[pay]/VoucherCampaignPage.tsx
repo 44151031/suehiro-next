@@ -37,7 +37,6 @@ export default function VoucherCampaignPage({
     prefecture: prefName,
     city: cityName,
     campaigntitle,
-    ticketUnit,
     purchasePrice,
     ticketAmount,
     maxUnits,
@@ -75,7 +74,7 @@ export default function VoucherCampaignPage({
         citySlug={citySlug}
         paytype={pay}
         headline={`${cityName}の商品券キャンペーン（${campaigntitle}）`}
-        articleDescription={`${prefName}${cityName}で実施されるプレミアム商品券の概要、販売条件、利用期間などを紹介。1口${ticketUnit}の券が${maxUnits}口まで購入可能。`}
+        articleDescription={`${prefName}${cityName}で実施されるプレミアム商品券の概要、販売条件、利用期間などを紹介。`}
         validFrom={applyStartDate}
         validThrough={applyEndDate}
         url={pageUrl}
@@ -147,7 +146,6 @@ export default function VoucherCampaignPage({
           </section>
 
           <VoucherCampaignOverviewTable
-            ticketUnit={ticketUnit}
             purchasePrice={purchasePrice}
             resultAnnounceDate={resultAnnounceDate}
             ticketAmount={ticketAmount}

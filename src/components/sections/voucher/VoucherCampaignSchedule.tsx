@@ -3,7 +3,6 @@ import { formatJapaneseDate } from "@/lib/campaignUtils";
 export default function VoucherCampaignSchedule({
   applyStartDate,
   applyEndDate,
-  useStartDate,
   useEndDate,
   resultAnnounceDate,
   eligiblePersons,
@@ -11,7 +10,6 @@ export default function VoucherCampaignSchedule({
 }: {
   applyStartDate: string;
   applyEndDate: string;
-  useStartDate: string;
   useEndDate: string;
   resultAnnounceDate?: string;
   eligiblePersons: string;
@@ -57,7 +55,7 @@ export default function VoucherCampaignSchedule({
         )}
         <li>
           <strong>商品券の利用期限：</strong>
-          {formatJapaneseDate(useStartDate)} ～ {formatJapaneseDate(useEndDate)}
+          購入後 ～ {formatJapaneseDate(useEndDate)}
         </li>
       </ul>
     </section>

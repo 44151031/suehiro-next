@@ -6,7 +6,6 @@ export type VoucherCampaign = {
   prefectureSlug: string;
   citySlug: string;
   paytype: string;
-  ticketUnit: number;
   purchasePrice: number;
   ticketAmount: number;
   maxUnits: number;
