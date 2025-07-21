@@ -18,8 +18,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${siteUrl}/campaigns/archive`, lastModified: now }, // ✅ 追加されたアーカイブページ
   ];
 
-  // ✅ 都道府県別ページ（沖縄・高知・鳥取を除外）
-  const excluded = new Set(["okinawa", "kochi", "tottori"]);
+  // ✅ 都道府県別ページ（高知・鳥取を除外）
+  const excluded = new Set(["kochi", "tottori"]);
   const prefectureSlugs = Array.from(
     new Set(campaigns.map((c) => c.prefectureSlug))
   ).filter((slug) => !excluded.has(slug));
