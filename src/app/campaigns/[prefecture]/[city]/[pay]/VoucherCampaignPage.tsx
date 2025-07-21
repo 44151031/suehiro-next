@@ -42,7 +42,6 @@ export default function VoucherCampaignPage({
     maxUnits,
     applyStartDate,
     applyEndDate,
-    useStartDate,
     useEndDate,
     resultAnnounceDate,
     datePublished,
@@ -119,7 +118,6 @@ export default function VoucherCampaignPage({
             applicationUrl={applicationUrl}
             applicationStart={applyStartDate}
             applicationEnd={applyEndDate}
-            usageStart={useStartDate}
             usageEnd={useEndDate}
           />
 
@@ -132,7 +130,7 @@ export default function VoucherCampaignPage({
               PayPay商品券概要｜{prefName}{cityName}のPayPay商品券とは？
             </h2>
             <p>
-              <strong>{prefecture}{city}「{campaigntitle}」</strong>は、
+              <strong>{prefName}{cityName}「{campaigntitle}」</strong>は、
               <span className="text-brand-primary font-bold">
                 {formatJapaneseDate(applyStartDate)}から{formatJapaneseDate(applyEndDate)}
               </span>
