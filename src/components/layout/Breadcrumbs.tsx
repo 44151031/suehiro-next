@@ -3,8 +3,12 @@
 import { usePathname } from "next/navigation";
 import Link from "next/link";
 import { breadcrumbLabels } from "@/lib/breadcrumbLabels";
-import { campaigns } from "@/lib/campaignMaster";
+import { campaigns as pointCampaigns } from "@/lib/campaignMaster";
+import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster"; // ✅ 追加
 import Container from "@/components/layout/Container";
+
+// ✅ ポイント系＋バウチャー系をマージ
+const campaigns = [...pointCampaigns, ...voucherCampaignMaster];
 
 export default function Breadcrumbs() {
   const path = usePathname();
