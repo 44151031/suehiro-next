@@ -23,4 +23,6 @@ export type VoucherCampaign = {
   applicationStart: string;
   applicationEnd: string;
   target: string;
+  eligiblePersons: string;
+  applicationUrl?: string; // optional にしても可
 };

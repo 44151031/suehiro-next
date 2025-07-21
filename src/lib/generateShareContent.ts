@@ -3,7 +3,7 @@ type GenerateShareContentParams = {
   payLabel?: string;
   offer?: number;
   prefecture?: string;
-  style?: "impact" | "formal" | "limited" | "default" | "prefecture" | "city";
+  style?: "prefecture" | "city" | "impact" | "formal" | "limited" | "default" | "voucher"; // ← ✅ "voucher" を追加
 };
 
 export function generateShareContent({

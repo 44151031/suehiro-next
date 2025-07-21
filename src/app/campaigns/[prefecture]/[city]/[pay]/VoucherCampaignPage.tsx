@@ -12,6 +12,8 @@ import VoucherCampaignHighlight from "@/components/sections/voucher/VoucherCampa
 import { formatJapaneseDate } from "@/lib/campaignUtils";
 import { calculateVoucherDiscountRate } from "@/lib/voucherUtils";
 
+const formatNumber = (num: number) => Number(num).toLocaleString("ja-JP");
+
 export default function VoucherCampaignPage({
   params,
 }: {
@@ -46,12 +48,12 @@ export default function VoucherCampaignPage({
     prefectureSlug,
     citySlug,
     eligiblePersons,
-    distributionMethod,
-    applicationUrl, // ✅ 使用するURL
+    applicationUrl,
   } = campaign;
 
   const modified = dateModified ?? datePublished;
   const discountRate = calculateVoucherDiscountRate(ticketAmount, purchasePrice);
+  const maxDiscount = (ticketAmount - purchasePrice) * maxUnits;
   const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${pay}`;
 
   const { title: shareTitle, hashtags: shareHashtags } = generateShareContent({
@@ -81,12 +83,10 @@ export default function VoucherCampaignPage({
       <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
         <main className="max-w-[1200px] mx-auto px-4 py-10">
 
-
-
           {/* ✅ タイトル・日付 */}
           <h1 className="headline1">
             {cityName}最大{discountRate}％（
-            {(ticketAmount - purchasePrice).toLocaleString()}円）お得なPay商品券
+            {(ticketAmount - purchasePrice).toLocaleString()}円）お得なPayPay商品券
           </h1>
 
           {datePublished && (
@@ -116,37 +116,59 @@ export default function VoucherCampaignPage({
           <div className="my-6">
             <VoucherCampaignSummaryCard campaign={campaign} />
           </div>
+
           {/* ✅ トップ概要：ハイライトセクション */}
           <VoucherCampaignHighlight
             targetAudience={eligiblePersons}
-            resultAnnounceDate={resultAnnounceDate} // ✅ これを追加！
+            resultAnnounceDate={resultAnnounceDate}
             applicationUrl={applicationUrl}
             applicationStart={applyStartDate}
             applicationEnd={applyEndDate}
             usageStart={useStartDate}
             usageEnd={useEndDate}
           />
+          {/* ✅ SNS共有 */}
+          <div className="mt-8">
+            <SNSShareButtons
+              url={pageUrl}
+              title={shareTitle}
+              hashtags={shareHashtags}
+            />
+          </div>
+          {/* ✅ 商品券概要セクション */}
+          <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
+            <h2 className="headline2">
+              PayPay商品券概要｜{prefName}{cityName}のPayPay商品券とは？
+            </h2>
+            <p>
+              <strong>{prefecture}{city}「{campaigntitle}」</strong>は、
+              <span className="text-brand-primary font-bold">
+                {formatJapaneseDate(applyStartDate)}から{formatJapaneseDate(applyEndDate)}
+              </span>
+              までの申込期間中に、対象者が申し込みをして商品券を購入すると、
+              最大で
+              <span className="text-brand-primary font-bold">
+                {formatNumber(maxDiscount)}円
+              </span>
+              お得になる商品券です。
+            </p>
+          </section>
+
           {/* ✅ 商品券の概要テーブル */}
           <VoucherCampaignOverviewTable
             ticketUnit={ticketUnit}
             purchasePrice={purchasePrice}
+            resultAnnounceDate={resultAnnounceDate}
             ticketAmount={ticketAmount}
             maxUnits={maxUnits}
             campaigntitle={campaigntitle}
             eligiblePersons={eligiblePersons}
-            distributionMethod={distributionMethod}
-            applicationUrl={applicationUrl}
-          />
-
-          {/* ✅ 応募・利用・当選日 */}
-          <VoucherCampaignSchedule
             applyStartDate={applyStartDate}
             applyEndDate={applyEndDate}
-            useStartDate={useStartDate}
             useEndDate={useEndDate}
-            resultAnnounceDate={resultAnnounceDate}
+            applicationUrl={applicationUrl}
           />
-
+          
           {/* ✅ 対象店舗ジャンル */}
           <VoucherCampaignStoreTypes />
 
