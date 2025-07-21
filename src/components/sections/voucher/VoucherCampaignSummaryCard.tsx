@@ -3,7 +3,7 @@ import { formatJapaneseDate, getCampaignImagePath } from "@/lib/campaignUtils";
 import type { VoucherCampaign } from "@/types/voucher";
 
 type Props = {
-  campaign: VoucherCampaign;
+  campaign?: VoucherCampaign;
 };
 
 const formatNumber = (num: number | string) =>

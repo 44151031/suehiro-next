@@ -25,4 +25,5 @@ export type VoucherCampaign = {
   target: string;
   eligiblePersons: string;
   applicationUrl?: string; // optional にしても可
+  campaign?: string;
 };

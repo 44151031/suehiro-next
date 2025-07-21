@@ -4,13 +4,12 @@ import { generateShareContent } from "@/lib/generateShareContent";
 import { SNSShareButtons } from "@/components/common/SNSShareButtons";
 import VoucherCampaignStructuredData from "@/components/structured/VoucherCampaignStructuredData";
 import VoucherCampaignOverviewTable from "@/components/sections/voucher/VoucherCampaignOverviewTable";
-import VoucherCampaignSchedule from "@/components/sections/voucher/VoucherCampaignSchedule";
-import VoucherCampaignFlow from "@/components/sections/voucher/VoucherCampaignFlow";
-import VoucherCampaignStoreTypes from "@/components/sections/voucher/VoucherCampaignStoreTypes";
 import VoucherCampaignSummaryCard from "@/components/sections/voucher/VoucherCampaignSummaryCard";
 import VoucherCampaignHighlight from "@/components/sections/voucher/VoucherCampaignHighlight";
 import { formatJapaneseDate } from "@/lib/campaignUtils";
 import { calculateVoucherDiscountRate } from "@/lib/voucherUtils";
+import { VoucherApplicationFlow } from "@/components/sections/voucher/VoucherApplicationFlow";
+import { VoucherRedemptionGuide } from "@/components/sections/voucher/VoucherRedemptionGuide";
 
 const formatNumber = (num: number) => Number(num).toLocaleString("ja-JP");
 
@@ -85,8 +84,7 @@ export default function VoucherCampaignPage({
 
           {/* ✅ タイトル・日付 */}
           <h1 className="headline1">
-            {cityName}最大{discountRate}％（
-            {(ticketAmount - purchasePrice).toLocaleString()}円）お得なPayPay商品券
+            {cityName}のPayPay商品券が最大{discountRate}％（{maxUnits}口購入で最大{formatNumber(maxDiscount)}円）お得
           </h1>
 
           {datePublished && (
@@ -127,6 +125,7 @@ export default function VoucherCampaignPage({
             usageStart={useStartDate}
             usageEnd={useEndDate}
           />
+
           {/* ✅ SNS共有 */}
           <div className="mt-8">
             <SNSShareButtons
@@ -135,6 +134,7 @@ export default function VoucherCampaignPage({
               hashtags={shareHashtags}
             />
           </div>
+
           {/* ✅ 商品券概要セクション */}
           <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
             <h2 className="headline2">
@@ -168,12 +168,12 @@ export default function VoucherCampaignPage({
             useEndDate={useEndDate}
             applicationUrl={applicationUrl}
           />
-          
-          {/* ✅ 対象店舗ジャンル */}
-          <VoucherCampaignStoreTypes />
 
-          {/* ✅ 利用の流れ */}
-          <VoucherCampaignFlow />
+          {/* ✅ 申し込みの流れ */}
+          <VoucherApplicationFlow />
+
+          {/* ✅ 当選後の利用方法 */}
+          <VoucherRedemptionGuide />
 
           {/* ✅ SNS共有 */}
           <div className="mt-8">
