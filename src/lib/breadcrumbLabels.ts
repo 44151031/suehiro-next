@@ -8,4 +8,5 @@ export const breadcrumbLabels: Record<string, string> = {
   dbarai: "d払い",
   aeonpay: "AEON Pay",
   archive: "次回キャンペーン待ち一覧",
+  "paypay-voucher": "Pay商品券",
 };
