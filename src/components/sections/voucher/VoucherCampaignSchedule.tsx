@@ -55,7 +55,7 @@ export default function VoucherCampaignSchedule({
         )}
         <li>
           <strong>商品券の利用期限：</strong>
-          購入後 ～ {formatJapaneseDate(useEndDate)}
+          {formatJapaneseDate(useEndDate)}まで
         </li>
       </ul>
     </section>
