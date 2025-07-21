@@ -100,7 +100,7 @@ export default function VoucherCampaignHighlight({
                 <div className="bg-gray-50 rounded-xl p-4 border border-gray-200">
                     <p className="text-sm text-gray-600">商品券の利用期間</p>
                     <p className="text-base font-semibold text-gray-800">
-                        {formatJapaneseDate(usageStart)} ～ {formatJapaneseDate(usageEnd)}
+                    {formatJapaneseDate(usageEnd)}まで
                     </p>
                 </div>
             </div>
