@@ -16,6 +16,8 @@ import { generateShareContent } from "@/lib/generateShareContent";
 import { SNSShareButtons } from "@/components/common/SNSShareButtons";
 import Link from "next/link";
 import CampaignLineCard from "@/components/common/CampaignLineCard";
+import { getVoucherCampaignUrl } from "@/lib/voucherUtils";
+import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster"; // ✅ 追加
 
 type Props = {
   params: { prefecture: string; city: string };
@@ -35,12 +37,27 @@ export default function CityCampaignsPage({
   const list = campaigns.filter(
     (c) => c.prefectureSlug === prefecture && c.citySlug === city
   );
-  if (list.length === 0) return notFound();
 
-  const cityName = list[0].city;
-  const prefectureName = list[0].prefecture;
+  const hasVoucherCampaign = voucherCampaignMaster.some(
+    (v) => v.prefectureSlug === prefecture && v.citySlug === city
+  );
 
-  // ステータス分類
+  if (list.length === 0 && !hasVoucherCampaign) return notFound();
+
+  const cityName =
+    list[0]?.city ??
+    voucherCampaignMaster.find(
+      (v) => v.prefectureSlug === prefecture && v.citySlug === city
+    )?.city ??
+    "";
+
+  const prefectureName =
+    list[0]?.prefecture ??
+    voucherCampaignMaster.find(
+      (v) => v.prefectureSlug === prefecture && v.citySlug === city
+    )?.prefecture ??
+    "";
+
   const classified = list.map((c) => ({
     ...c,
     status: getCampaignStatus(c.startDate, c.endDate),
@@ -77,32 +94,47 @@ export default function CityCampaignsPage({
             {cityName}のキャッシュレスキャンペーン一覧
           </h1>
 
-          <CampaignTotalPointSummary campaigns={filteredList} areaLabel={cityName} />
+          <CampaignTotalPointSummary
+            campaigns={filteredList}
+            areaLabel={cityName}
+          />
 
           <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-6">
             {filteredList.length > 0 ? (
               active.length === 0 && upcoming.length > 0 ? (
                 <p className="text-base sm:text-lg text-neutral-700 leading-snug">
                   <span className="text-[17px] sm:text-xl font-semibold">
-                    {prefectureName}{cityName}では現在
-                    <span className="text-green-700 font-bold"> {upcoming.length}件</span>
+                    {prefectureName}
+                    {cityName}では現在
+                    <span className="text-green-700 font-bold">
+                      {" "}
+                      {upcoming.length}件
+                    </span>
                     が開催予定となっています。開催日に向けてお買い物を調整しましょう。
                   </span>
                 </p>
               ) : (
                 <p className="text-base sm:text-lg text-neutral-700 leading-snug">
                   <span className="text-[17px] sm:text-xl font-semibold">
-                    {prefectureName}{cityName}では、現在{" "}
-                    <span className="text-orange-600 font-bold">{active.length}件</span> のキャンペーンが開催中です。
+                    {prefectureName}
+                    {cityName}では、現在{" "}
+                    <span className="text-orange-600 font-bold">
+                      {active.length}件
+                    </span>{" "}
+                    のキャンペーンが開催中です。
                   </span>
                   <span className="ml-1 text-[17px] sm:text-xl font-semibold">
-                    <span className="text-green-700 font-bold">{upcoming.length}件</span> は開催予定となっています。
+                    <span className="text-green-700 font-bold">
+                      {upcoming.length}件
+                    </span>{" "}
+                    は開催予定となっています。
                   </span>
                 </p>
               )
             ) : (
               <p className="text-base sm:text-lg text-neutral-700 leading-snug font-semibold">
-                現在、{prefectureName}{cityName}で実施中または予定されているキャンペーンはありません。
+                現在、{prefectureName}
+                {cityName}で実施中または予定されているキャンペーンはありません。
               </p>
             )}
           </div>
@@ -123,11 +155,28 @@ export default function CityCampaignsPage({
 
           <SNSShareButtons url={url} title={shareTitle} hashtags={shareHashtags} />
 
+          {/* ✅ 商品券キャンペーンが存在する場合のみボタン表示 */}
+          {(() => {
+            const voucherUrl = getVoucherCampaignUrl(prefecture, city);
+            if (!voucherUrl) return null;
+
+            return (
+              <div className="mt-8">
+                <Link href={voucherUrl}>
+                  <button className="rounded bg-yellow-500 text-white px-5 py-3 text-base font-semibold shadow hover:bg-yellow-600 transition">
+                    PayPay商品券キャンペーンの詳細を見る
+                  </button>
+                </Link>
+              </div>
+            );
+          })()}
+
           {(() => {
             const otherPrefectureCampaigns = campaigns
               .filter(
                 (c) =>
-                  c.prefectureSlug === prefecture && c.citySlug !== city &&
+                  c.prefectureSlug === prefecture &&
+                  c.citySlug !== city &&
                   getCampaignStatus(c.startDate, c.endDate) !== "ended"
               )
               .map((c) => ({

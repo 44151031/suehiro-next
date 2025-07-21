@@ -1,8 +1,8 @@
+// ✅ 修正済 PrefecturePage コンポーネント
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import { campaigns } from "@/lib/campaignMaster";
 import {
-  formatJapaneseDate,
   getCampaignStatus,
   getActiveCampaignsByPrefecture,
   CampaignStatus,
@@ -10,8 +10,6 @@ import {
 import CampaignTotalPointSummary from "@/components/common/CampaignTotalPointSummary";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import { CampaignCardList } from "@/components/common/CampaignCardList";
-// ✅ RecommendedCampaigns 削除により import も削除
-// import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCampaigns";
 import { getPrefectureMetadata } from "@/lib/metadataGenerators";
 import PrefectureCampaignStructuredData from "@/components/structured/PrefectureCampaignStructuredData";
 import { generateShareContent } from "@/lib/generateShareContent";
@@ -19,6 +17,7 @@ import { SNSShareButtons } from "@/components/common/SNSShareButtons";
 import Link from "next/link";
 import CampaignLineCard from "@/components/common/CampaignLineCard";
 import { prefectures } from "@/lib/prefectures";
+import { hasVoucherCampaign } from "@/lib/voucherUtils";
 
 type Props = {
   params: { prefecture: string };
@@ -35,7 +34,6 @@ export default function PrefecturePage({ params }: Props) {
   if (list.length === 0) return notFound();
 
   const prefectureName = list[0].prefecture;
-
   const activeList = getActiveCampaignsByPrefecture(prefecture, campaigns);
   const active = activeList.filter(
     (c) => getCampaignStatus(c.startDate, c.endDate) === "active"
@@ -46,6 +44,18 @@ export default function PrefecturePage({ params }: Props) {
     prefecture: prefectureName,
     style: "prefecture",
   });
+
+  const cityMap = new Map<string, { city: string; citySlug: string }>();
+  campaigns.forEach((c) => {
+    if (c.prefectureSlug === prefecture && !cityMap.has(c.citySlug)) {
+      cityMap.set(c.citySlug, { city: c.city, citySlug: c.citySlug });
+    }
+  });
+
+  // ✅ 表示対象の voucher 市区町村を先に抽出
+  const voucherCities = [...cityMap.values()].filter(({ citySlug }) =>
+    hasVoucherCampaign(prefecture, citySlug)
+  );
 
   return (
     <>
@@ -99,8 +109,6 @@ export default function PrefecturePage({ params }: Props) {
             </div>
           )}
 
-          {/* ✅ RecommendedCampaigns セクションは不要なため削除済み */}
-
           <div className="mb-6">
             <SNSShareButtons
               title={shareTitle}
@@ -108,6 +116,33 @@ export default function PrefecturePage({ params }: Props) {
               hashtags={shareHashtags}
             />
           </div>
+
+          {/* ✅ voucher 市区町村が存在する場合のみ表示 */}
+          {voucherCities.length > 0 && (
+            <section className="mt-12">
+              <h2 className="text-xl sm:text-2xl font-bold text-neutral-800 mb-6 border-l-4 border-brand-primary pl-4">
+                {prefectureName}内のキャンペーンPayPay商品券
+              </h2>
+              <ul className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-3">
+                {voucherCities.map(({ city, citySlug }) => (
+                  <li key={citySlug} className="text-base">
+                    <Link
+                      href={`/campaigns/${prefecture}/${citySlug}`}
+                      className="text-brand-primary underline hover:text-brand-primary/80"
+                    >
+                      {city}
+                    </Link>
+                    <Link
+                      href={`/campaigns/${prefecture}/${citySlug}/paypay-voucher`}
+                      className="ml-2 inline-block rounded bg-red-600 px-2 py-0.5 text-xs text-white"
+                    >
+                      商品券
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
 
           {/* 同一エリアの他県キャンペーン */}
           {(() => {

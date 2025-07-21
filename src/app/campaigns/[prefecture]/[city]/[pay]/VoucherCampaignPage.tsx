@@ -1,3 +1,4 @@
+// /app/campaigns/[prefecture]/[city]/[pay]/VoucherCampaignPage.tsx
 import { notFound } from "next/navigation";
 import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster";
 import { generateShareContent } from "@/lib/generateShareContent";
@@ -10,6 +11,9 @@ import { formatJapaneseDate } from "@/lib/campaignUtils";
 import { calculateVoucherDiscountRate } from "@/lib/voucherUtils";
 import { VoucherApplicationFlow } from "@/components/sections/voucher/VoucherApplicationFlow";
 import { VoucherRedemptionGuide } from "@/components/sections/voucher/VoucherRedemptionGuide";
+import OtherPaytypesCampaigns from "@/components/sections/city/OtherPaytypesCampaigns";
+import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCampaigns";
+import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 
 const formatNumber = (num: number) => Number(num).toLocaleString("ja-JP");
 
@@ -81,8 +85,6 @@ export default function VoucherCampaignPage({
 
       <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
         <main className="max-w-[1200px] mx-auto px-4 py-10">
-
-          {/* ✅ タイトル・日付 */}
           <h1 className="headline1">
             {cityName}のPayPay商品券が最大{discountRate}％（{maxUnits}口購入で最大{formatNumber(maxDiscount)}円）お得
           </h1>
@@ -94,14 +96,12 @@ export default function VoucherCampaignPage({
             </p>
           )}
 
-          {/* ✅ キャンペーンの説明文 */}
           <p className="text-xs md:text-base leading-relaxed text-gray-800 mb-2">
             対象者の方がPayPayアプリから
             <span className="font-semibold">{formatJapaneseDate(applyStartDate)}10:00</span>
             から
             <span className="font-semibold">{formatJapaneseDate(applyEndDate)}</span>
-            までに申し込みのうえ、
-            当選された方（
+            までに申し込みのうえ、当選された方（
             <span className="font-semibold">{formatJapaneseDate(resultAnnounceDate)}以降</span>
             ）は、当選発表後から
             <span className="font-semibold">{formatJapaneseDate(useEndDate)}の23:59</span>
@@ -110,12 +110,10 @@ export default function VoucherCampaignPage({
             このページでは、ユーザーの方がポイ活しやすいように、キャンペーンの内容や、その他近隣エリアのキャンペーンをまとめて紹介しています。
           </p>
 
-          {/* ✅ サマリーカード */}
           <div className="my-6">
             <VoucherCampaignSummaryCard campaign={campaign} />
           </div>
 
-          {/* ✅ トップ概要：ハイライトセクション */}
           <VoucherCampaignHighlight
             targetAudience={eligiblePersons}
             resultAnnounceDate={resultAnnounceDate}
@@ -126,16 +124,10 @@ export default function VoucherCampaignPage({
             usageEnd={useEndDate}
           />
 
-          {/* ✅ SNS共有 */}
           <div className="mt-8">
-            <SNSShareButtons
-              url={pageUrl}
-              title={shareTitle}
-              hashtags={shareHashtags}
-            />
+            <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
           </div>
 
-          {/* ✅ 商品券概要セクション */}
           <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
             <h2 className="headline2">
               PayPay商品券概要｜{prefName}{cityName}のPayPay商品券とは？
@@ -154,7 +146,6 @@ export default function VoucherCampaignPage({
             </p>
           </section>
 
-          {/* ✅ 商品券の概要テーブル */}
           <VoucherCampaignOverviewTable
             ticketUnit={ticketUnit}
             purchasePrice={purchasePrice}
@@ -169,20 +160,35 @@ export default function VoucherCampaignPage({
             applicationUrl={applicationUrl}
           />
 
-          {/* ✅ 申し込みの流れ */}
-          <VoucherApplicationFlow />
-
-          {/* ✅ 当選後の利用方法 */}
+          <VoucherApplicationFlow campaignUrl={pageUrl} />
           <VoucherRedemptionGuide />
 
-          {/* ✅ SNS共有 */}
           <div className="mt-8">
-            <SNSShareButtons
-              url={pageUrl}
-              title={shareTitle}
-              hashtags={shareHashtags}
+            <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
+          </div>
+
+          {/* ✅ 他のPay系キャンペーン */}
+          <OtherPaytypesCampaigns
+            prefectureSlug={prefectureSlug}
+            citySlug={citySlug}
+            currentPaytype={pay}
+          />
+
+          {/* ✅ レコメンド */}
+          <div className="mt-20">
+            <RecommendedCampaigns
+              prefectureSlug={prefectureSlug}
+              citySlug={citySlug}
+              currentPaytype={pay}
+              city={cityName}
             />
           </div>
+
+          {/* ✅ 戻るボタン */}
+          <BackNavigationButtons
+            prefecture={prefName}
+            prefectureSlug={prefectureSlug}
+          />
         </main>
       </div>
     </>
