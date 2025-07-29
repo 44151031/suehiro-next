@@ -24,6 +24,7 @@ import CampaignStatusNotice from "@/components/common/CampaignStatusNotice";
 import { getPaytypeMetadata } from "@/lib/metadataGenerators";
 import PaytypeCampaignStructuredData from "@/components/structured/PaytypeCampaignStructuredData"; // ✅ 統合構造化データ
 import CityCampaignFAQ from "@/components/sections/city/CampaignFAQ";
+import AdUnit from "@/components/common/AdUnit";
 
 type Props = {
   params: { prefecture: string; city: string; pay: string };
@@ -137,6 +138,7 @@ export default async function CityPaytypePage({
             citySlug={citySlug}
             paytype={paytypeId}
           />
+          <AdUnit />
           <CampaignStatusNotice campaign={campaign} />
           <CampaignSummaryCard campaign={campaign} />
           <GenreHeaderNav genres={genres} paytypeLabel={payLabel} paytype={paytypeId} />

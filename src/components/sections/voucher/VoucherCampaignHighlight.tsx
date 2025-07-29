@@ -7,7 +7,6 @@ type Props = {
     applicationUrl?: string;
     applicationStart: string;
     applicationEnd: string;
-    usageStart: string;
     usageEnd: string;
 };
 
@@ -31,7 +30,6 @@ export default function VoucherCampaignHighlight({
     applicationUrl,
     applicationStart,
     applicationEnd,
-    usageStart,
     usageEnd,
 }: Props) {
     const status = getApplicationStatus(applicationStart, applicationEnd);

@@ -14,6 +14,7 @@ import { VoucherRedemptionGuide } from "@/components/sections/voucher/VoucherRed
 import OtherPaytypesCampaigns from "@/components/sections/city/OtherPaytypesCampaigns";
 import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCampaigns";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
+import AdUnit from "@/components/common/AdUnit";
 
 const formatNumber = (num: number) => Number(num).toLocaleString("ja-JP");
 
@@ -100,7 +101,11 @@ export default function VoucherCampaignPage({
             から
             <span className="font-semibold">{formatJapaneseDate(applyEndDate)}</span>
             までに申し込みのうえ、当選された方（
-            <span className="font-semibold">{formatJapaneseDate(resultAnnounceDate)}以降</span>
+            {resultAnnounceDate && (
+              <span className="font-semibold">
+                {formatJapaneseDate(resultAnnounceDate)}以降
+              </span>
+            )}
             ）は、当選発表後から
             <span className="font-semibold">{formatJapaneseDate(useEndDate)}の23:59</span>
             までに商品券を購入・利用いただけます。
@@ -124,7 +129,7 @@ export default function VoucherCampaignPage({
           <div className="mt-8">
             <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
           </div>
-
+          <AdUnit />
           <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
             <h2 className="headline2">
               PayPay商品券概要｜{prefName}{cityName}のPayPay商品券とは？

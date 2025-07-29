@@ -27,6 +27,8 @@ function getApplicationStatus(start: string, end: string): {
 }
 
 export default function VoucherCampaignSummaryCard({ campaign }: Props) {
+  if (!campaign) return null;
+
   const {
     prefecture,
     city,

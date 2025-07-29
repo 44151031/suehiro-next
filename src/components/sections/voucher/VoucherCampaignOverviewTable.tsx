@@ -2,7 +2,6 @@ import React from "react";
 import { formatJapaneseDate } from "@/lib/campaignUtils";
 
 type Props = {
-  ticketUnit: string;
   purchasePrice: number;
   ticketAmount: number;
   maxUnits: number;
@@ -16,7 +15,6 @@ type Props = {
 };
 
 export default function VoucherCampaignOverviewTable({
-  ticketUnit,
   purchasePrice,
   ticketAmount,
   maxUnits,
