@@ -148,7 +148,7 @@ export default function CampaignsContent() {
                     {/* 対象者ラベル */}
                     <span
                       className={`inline-block ml-2 text-xs font-bold px-2 py-1 rounded-full shadow ${isAnyone
-                        ? "bg-emerald-500 text-white"
+                        ? "border bg-white text-red-600 border-red-600"
                         : "bg-gray-200 text-gray-700"
                         }`}
                     >
