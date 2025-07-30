@@ -45,7 +45,7 @@ export function SNSShareButtons({ url, title, hashtags = [] }: Props) {
   const encodedHashtags = encodeURIComponent(cleanedHashtags.join(","));
 
   return (
-    <div className="mt-6 flex justify-center flex-wrap gap-2">
+    <div className="my-6 flex justify-center flex-wrap gap-2">
       {/* 常に表示：LINE */}
       <a
         href={`https://social-plugins.line.me/lineit/share?url=${encodedUrl}`}
