@@ -138,12 +138,11 @@ export default async function CityPaytypePage({
             citySlug={citySlug}
             paytype={paytypeId}
           />
-          <AdUnit />
           <CampaignStatusNotice campaign={campaign} />
           <CampaignSummaryCard campaign={campaign} />
           <GenreHeaderNav genres={genres} paytypeLabel={payLabel} paytype={paytypeId} />
           <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
-
+          <AdUnit />
           <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
             <h2 className="headline2">
               キャンペーン概要|{city}の{payLabel}還元キャンペーンとは？
