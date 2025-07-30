@@ -32,9 +32,16 @@ export default function CampaignsContent() {
     return true;
   });
 
-  const activeVoucherCampaigns = voucherCampaignMaster.filter(
-    (v) => getCampaignStatus(v.startDate, v.endDate) !== "ended"
-  );
+const activeVoucherCampaigns = voucherCampaignMaster
+  .filter((v) => {
+    const now = new Date();
+    return (
+      getCampaignStatus(v.startDate, v.endDate) !== "ended" &&
+      new Date(v.applyEndDate) >= now // 申込終了日が未来のもののみ
+    );
+  })
+  .sort((a, b) => new Date(a.applyStartDate).getTime() - new Date(b.applyStartDate).getTime());
+
 
   return (
     <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
@@ -135,7 +142,9 @@ export default function CampaignsContent() {
                   className="block border rounded-2xl p-4 shadow bg-white hover:shadow-md transition"
                 >
                   <h3 className="font-bold text-base mb-1">
-                    {v.prefecture}{v.city}{v.payTypeLabel}商品券　{type}タイプ
+                    {v.prefecture}{v.city}{v.payTypeLabel}商品券　<span className={type === "先着" ? "text-red-500" : ""}>
+    {type}タイプ
+  </span>
                   </h3>
 
                   <p className="text-sm text-gray-500 mb-1">
@@ -148,7 +157,7 @@ export default function CampaignsContent() {
                   </p>
 
                   <p className="text-sm">
-                    <span className="text-red-500 font-bold">{rate}%還元</span>／最大{benefit.toLocaleString()}円お得
+                    <span className="text-red-500 font-bold">{rate}%お得</span>／最大{benefit.toLocaleString()}円お得
                   </p>
                 </Link>
               );
