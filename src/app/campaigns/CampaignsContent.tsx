@@ -157,7 +157,7 @@ const activeVoucherCampaigns = voucherCampaignMaster
                   </p>
 
                   <p className="text-sm">
-                    <span className="text-red-500 font-bold">{rate}%お得</span>／最大{benefit.toLocaleString()}円お得
+                    <span className="text-red-500 font-bold">{rate}%</span>お得／最大<span className="text-red-500 font-bold">{benefit.toLocaleString()}円</span>お得
                   </p>
                 </Link>
               );
