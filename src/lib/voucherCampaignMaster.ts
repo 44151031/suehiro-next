@@ -373,7 +373,7 @@ export const voucherCampaignMaster = [
     useEndDate: "2026-02-28",
     datePublished: "2025-07-20",
     dateModified: "2025-07-20",
-    eligiblePersons: "居住地に関係なく12歳以上の方",
+    eligiblePersons: "居住地に関係なく12歳以上の全ての方",
     applicationUrl:"https://paypay.ne.jp/event/tokyo-bunkyo-city-gift-vouchers-20250801/"
   }
 ];

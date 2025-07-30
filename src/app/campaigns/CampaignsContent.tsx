@@ -32,15 +32,15 @@ export default function CampaignsContent() {
     return true;
   });
 
-const activeVoucherCampaigns = voucherCampaignMaster
-  .filter((v) => {
-    const now = new Date();
-    return (
-      getCampaignStatus(v.startDate, v.endDate) !== "ended" &&
-      new Date(v.applyEndDate) >= now // 申込終了日が未来のもののみ
-    );
-  })
-  .sort((a, b) => new Date(a.applyStartDate).getTime() - new Date(b.applyStartDate).getTime());
+  const activeVoucherCampaigns = voucherCampaignMaster
+    .filter((v) => {
+      const now = new Date();
+      return (
+        getCampaignStatus(v.startDate, v.endDate) !== "ended" &&
+        new Date(v.applyEndDate) >= now // 申込終了日が未来のもののみ
+      );
+    })
+    .sort((a, b) => new Date(a.applyStartDate).getTime() - new Date(b.applyStartDate).getTime());
 
 
   return (
@@ -126,7 +126,7 @@ const activeVoucherCampaigns = voucherCampaignMaster
 
         {/* ✅ 商品券キャンペーン */}
         <div className="mt-12">
-          <h2 className="text-xl font-bold mb-4">商品券キャンペーン</h2>
+          <h2 className="text-xl font-bold mb-4">PayPay商品券キャンペーン</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             {activeVoucherCampaigns.map((v) => {
               const rate = calculateVoucherDiscountRate(v.ticketAmount, v.purchasePrice);
@@ -134,6 +134,7 @@ const activeVoucherCampaigns = voucherCampaignMaster
               const isActive =
                 new Date(v.applyStartDate) <= new Date() && new Date() <= new Date(v.applyEndDate);
               const type = v.resultAnnounceDate ? "抽選" : "先着";
+              const isAnyone = v.eligiblePersons === "居住地に関係なく12歳以上の全ての方";
 
               return (
                 <Link
@@ -142,11 +143,30 @@ const activeVoucherCampaigns = voucherCampaignMaster
                   className="block border rounded-2xl p-4 shadow bg-white hover:shadow-md transition"
                 >
                   <h3 className="font-bold text-base mb-1">
-                    {v.prefecture}{v.city}{v.payTypeLabel}商品券　<span className={type === "先着" ? "text-red-500" : ""}>
-    {type}タイプ
-  </span>
+                    {v.prefecture}{v.city}{v.payTypeLabel}商品券
+
+                    {/* 対象者ラベル */}
+                    <span
+                      className={`inline-block ml-2 text-xs font-bold px-2 py-1 rounded-full shadow ${isAnyone
+                        ? "bg-emerald-500 text-white"
+                        : "bg-gray-200 text-gray-700"
+                        }`}
+                    >
+                      {isAnyone ? "誰でもOK（12歳〜）" : "居住者のみ"}
+                    </span>
+
+                    {/* 抽選 / 先着ラベル */}
+                    <span
+                      className={`inline-block ml-2 text-xs font-bold px-2 py-1 rounded-full shadow ${type === "先着"
+                        ? "bg-red-600 text-white"
+                        : "bg-sky-200 text-sky-800"
+                        }`}
+                    >
+                      {type}
+                    </span>
                   </h3>
 
+                  {/* 申込期間と受付中表示 */}
                   <p className="text-sm text-gray-500 mb-1">
                     申込期間：{formatJapaneseDateOnly(v.applyStartDate)} ～ {formatJapaneseDateOnly(v.applyEndDate)}
                     {isActive && (
@@ -156,8 +176,10 @@ const activeVoucherCampaigns = voucherCampaignMaster
                     )}
                   </p>
 
+                  {/* 還元率と最大お得額 */}
                   <p className="text-sm">
-                    <span className="text-red-500 font-bold">{rate}%</span>お得／最大<span className="text-red-500 font-bold">{benefit.toLocaleString()}円</span>お得
+                    <span className="text-red-500 font-bold">{rate}%</span>お得／最大
+                    <span className="text-red-500 font-bold">{benefit.toLocaleString()}円</span>お得
                   </p>
                 </Link>
               );
