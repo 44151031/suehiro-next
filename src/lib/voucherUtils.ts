@@ -90,3 +90,12 @@ export function calculateVoucherDiscountRate(
   // 四捨五入し整数で返す
   return Math.round(rate);
 }
+
+export function formatJapaneseDateOnly(input: string): string {
+  const date = new Date(input);
+  return date.toLocaleDateString("ja-JP", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  });
+}
