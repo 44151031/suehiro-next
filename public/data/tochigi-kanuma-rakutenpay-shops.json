@@ -1,0 +1,1280 @@
+{
+  "サービス": [
+    {
+      "name": "ビューティーサロン ウチヤマ",
+      "address": "みなみ町"
+    },
+    {
+      "name": "ほぐし処くすのき",
+      "address": "みなみ町"
+    },
+    {
+      "name": "カットハウスひかり 鹿沼栄町店",
+      "address": "栄町"
+    },
+    {
+      "name": "ブルースカイランドリー オフハウス鹿沼店",
+      "address": "栄町"
+    },
+    {
+      "name": "fino",
+      "address": "栄町"
+    },
+    {
+      "name": "手もみの森 鹿沼店",
+      "address": "栄町"
+    },
+    {
+      "name": "エステとマッサージのマリーローズ",
+      "address": "栄町"
+    },
+    {
+      "name": "VIVANTCOEUR",
+      "address": "栄町"
+    },
+    {
+      "name": "HOMEBASE",
+      "address": "下大久保"
+    },
+    {
+      "name": "ビューティーケイ",
+      "address": "下田町"
+    },
+    {
+      "name": "まる整体院",
+      "address": "下田町"
+    },
+    {
+      "name": "栃木ロイヤル交通",
+      "address": "加園"
+    },
+    {
+      "name": "mia",
+      "address": "花岡町"
+    },
+    {
+      "name": "陽だまり",
+      "address": "花岡町"
+    },
+    {
+      "name": "ネイル&スパ MONROE",
+      "address": "貝島町"
+    },
+    {
+      "name": "hair Critto",
+      "address": "貝島町"
+    },
+    {
+      "name": "nail room as",
+      "address": "貝島町"
+    },
+    {
+      "name": "整体院ヒカリノキュウジツ鹿沼店",
+      "address": "貝島町"
+    },
+    {
+      "name": "もみとほぐしのとんぼ",
+      "address": "貝島町"
+    },
+    {
+      "name": "ヘッドスパ:リラ ねこのシッポ",
+      "address": "玉田町"
+    },
+    {
+      "name": "やまのびようさろん",
+      "address": "見野"
+    },
+    {
+      "name": "AceAutoService",
+      "address": "見野"
+    },
+    {
+      "name": "THREE＋(スリープラス)",
+      "address": "御成橋町"
+    },
+    {
+      "name": "ユーケンホーム",
+      "address": "晃望台"
+    },
+    {
+      "name": "コリとり処カチナ",
+      "address": "晃望台"
+    },
+    {
+      "name": "ビロードアイ",
+      "address": "晃望台"
+    },
+    {
+      "name": "ナノハナ",
+      "address": "晃望台"
+    },
+    {
+      "name": "Lino",
+      "address": "坂田山"
+    },
+    {
+      "name": "ふたば美容室上材木町店",
+      "address": "上材木町"
+    },
+    {
+      "name": "ヘアースタジオ オオガキ",
+      "address": "上材木町"
+    },
+    {
+      "name": "CHERIR eyelash salon",
+      "address": "上石川"
+    },
+    {
+      "name": "Terenoa",
+      "address": "上石川"
+    },
+    {
+      "name": "メナード化粧品 PetitPrincess",
+      "address": "上殿町"
+    },
+    {
+      "name": "ホワイト急便 ヨークベニマル上殿店",
+      "address": "上殿町"
+    },
+    {
+      "name": "adorer",
+      "address": "上殿町"
+    },
+    {
+      "name": "ヒーリングハウス Poloka",
+      "address": "上殿町"
+    },
+    {
+      "name": "個人 鷹箸タクシー",
+      "address": "上田町"
+    },
+    {
+      "name": "ホワイト急便 ヤオハン北部店",
+      "address": "上田町"
+    },
+    {
+      "name": "美容室サニープレイスひなた",
+      "address": "上日向"
+    },
+    {
+      "name": "Refoot",
+      "address": "上野町"
+    },
+    {
+      "name": "整体フットセラピー健",
+      "address": "上野町"
+    },
+    {
+      "name": "Nika hair",
+      "address": "上野町"
+    },
+    {
+      "name": "ホワイト急便 晃望台店",
+      "address": "上野町"
+    },
+    {
+      "name": "EyeSalon Ref",
+      "address": "上野町"
+    },
+    {
+      "name": "美容室ベリーノーズ",
+      "address": "深津"
+    },
+    {
+      "name": "i my me.",
+      "address": "仁神堂町"
+    },
+    {
+      "name": "Listen 憩いのぽぽベネ",
+      "address": "西茂呂"
+    },
+    {
+      "name": "REAL beauty salon",
+      "address": "西茂呂"
+    },
+    {
+      "name": "アロマスパRe:Poser鹿沼店",
+      "address": "西茂呂"
+    },
+    {
+      "name": "CROWN hair design",
+      "address": "西茂呂"
+    },
+    {
+      "name": "hair salon MOTENA",
+      "address": "西茂呂"
+    },
+    {
+      "name": "DAB.HAIR works",
+      "address": "西茂呂"
+    },
+    {
+      "name": "Pono hair",
+      "address": "西茂呂"
+    },
+    {
+      "name": "りらっくす整体 おおきな手",
+      "address": "西茂呂"
+    },
+    {
+      "name": "りらくる 鹿沼店",
+      "address": "西茂呂"
+    },
+    {
+      "name": "イン東京 鹿沼店",
+      "address": "西茂呂"
+    },
+    {
+      "name": "フジドライ ヨークベニマル鹿沼店",
+      "address": "西茂呂"
+    },
+    {
+      "name": "ちとせや化粧品店",
+      "address": "西茂呂"
+    },
+    {
+      "name": "ZiP HAIR SALON",
+      "address": "西茂呂"
+    },
+    {
+      "name": "image.『想い』",
+      "address": "西茂呂"
+    },
+    {
+      "name": "presto",
+      "address": "西茂呂"
+    },
+    {
+      "name": "イエロービーム",
+      "address": "西茂呂"
+    },
+    {
+      "name": "COCO＿NAIL",
+      "address": "西茂呂"
+    },
+    {
+      "name": "美容室イーストインク",
+      "address": "西茂呂"
+    },
+    {
+      "name": "Hairsalon cuore",
+      "address": "西茂呂"
+    },
+    {
+      "name": "EKEFAST",
+      "address": "石橋町"
+    },
+    {
+      "name": "ラヴァーレ 千渡店",
+      "address": "千渡"
+    },
+    {
+      "name": "三陽自動車整備工場",
+      "address": "千渡"
+    },
+    {
+      "name": "健康&美容サロンchacha",
+      "address": "千渡"
+    },
+    {
+      "name": "Nail Salon Butterfly",
+      "address": "千渡"
+    },
+    {
+      "name": "グリフ 前日光店",
+      "address": "草久"
+    },
+    {
+      "name": "t'hair（ティーヘアー）",
+      "address": "村井町"
+    },
+    {
+      "name": "dragonstudio",
+      "address": "仲町"
+    },
+    {
+      "name": "カイロプラクティックおおぬき",
+      "address": "仲町"
+    },
+    {
+      "name": "ヘアーサロン ライオン",
+      "address": "朝日町"
+    },
+    {
+      "name": "ふりいふらいと美容室",
+      "address": "鳥居跡町"
+    },
+    {
+      "name": "住環境整理のユーカリ",
+      "address": "鳥居跡町"
+    },
+    {
+      "name": "カットハウス フリースタイル",
+      "address": "鳥居跡町"
+    },
+    {
+      "name": "salon coeur",
+      "address": "東末広町"
+    },
+    {
+      "name": "n-works",
+      "address": "藤江町"
+    },
+    {
+      "name": "宇賀神カイロプラクティック室 鹿沼本店",
+      "address": "藤江町"
+    },
+    {
+      "name": "ザランタン鹿沼",
+      "address": "入粟野"
+    },
+    {
+      "name": "潮田自動車修理工場",
+      "address": "板荷"
+    },
+    {
+      "name": "スズラン時計店",
+      "address": "蓬莱町"
+    },
+    {
+      "name": "スキップ つぼ&リンパマッサージ スキップ",
+      "address": "万町"
+    },
+    {
+      "name": "ホテルファリーナドルチェ",
+      "address": "茂呂"
+    },
+    {
+      "name": "モードサロン谷口",
+      "address": "茂呂"
+    },
+    {
+      "name": "ルビー美容室",
+      "address": "緑町"
+    },
+    {
+      "name": "ヘアーサロンココペリ",
+      "address": "緑町"
+    },
+    {
+      "name": "Cut house つむぎ",
+      "address": "緑町"
+    },
+    {
+      "name": "Hug",
+      "address": "緑町"
+    },
+    {
+      "name": "癒し処Repos",
+      "address": "緑町"
+    },
+    {
+      "name": "トータルビューティーサロンAmour",
+      "address": "緑町"
+    },
+    {
+      "name": "美容室かんかん",
+      "address": "楡木町"
+    },
+    {
+      "name": "H.Cアカデミー",
+      "address": "樅山町"
+    },
+    {
+      "name": "めぐり∞めぐる",
+      "address": "樅山町"
+    },
+    {
+      "name": "kura",
+      "address": "樅山町"
+    },
+    {
+      "name": "smilehair",
+      "address": "樅山町"
+    }
+  ],
+  "小売": [
+    {
+      "name": "青空オート",
+      "address": "旭が丘"
+    },
+    {
+      "name": "富士トロフィー",
+      "address": "引田"
+    },
+    {
+      "name": "メガネ・補聴器のヤナセ",
+      "address": "栄町"
+    },
+    {
+      "name": "ウェルネススポーツクラブ",
+      "address": "栄町"
+    },
+    {
+      "name": "apollostation セルフイン茂呂山SS",
+      "address": "栄町"
+    },
+    {
+      "name": "JAかみつがサービス 鹿沼農機センター",
+      "address": "塩山町"
+    },
+    {
+      "name": "野州麻紙工房",
+      "address": "下永野"
+    },
+    {
+      "name": "新川化粧品店",
+      "address": "下横町"
+    },
+    {
+      "name": "鹿沼市勤労者福祉共済会",
+      "address": "下横町"
+    },
+    {
+      "name": "いわい生花 総本店",
+      "address": "下横町"
+    },
+    {
+      "name": "大和屋 鹿沼店",
+      "address": "下横町"
+    },
+    {
+      "name": "秋山商店",
+      "address": "下材木町"
+    },
+    {
+      "name": "鱒渕木工所",
+      "address": "下田町"
+    },
+    {
+      "name": "トムカ",
+      "address": "下田町"
+    },
+    {
+      "name": "瀬谷新聞店",
+      "address": "下田町"
+    },
+    {
+      "name": "かぬま里山わいん",
+      "address": "下奈良部町"
+    },
+    {
+      "name": "伊佐野商店",
+      "address": "加園"
+    },
+    {
+      "name": "澤屋酒店",
+      "address": "貝島町"
+    },
+    {
+      "name": "宇賀神新聞店",
+      "address": "貝島町"
+    },
+    {
+      "name": "晃南モータース",
+      "address": "貝島町"
+    },
+    {
+      "name": "repos",
+      "address": "亀和田町"
+    },
+    {
+      "name": "GalleryshopPILE",
+      "address": "久野"
+    },
+    {
+      "name": "木挽きねこ",
+      "address": "久野"
+    },
+    {
+      "name": "鹿野精肉店",
+      "address": "玉田町"
+    },
+    {
+      "name": "溶接造形工房トカシツナギ",
+      "address": "玉田町"
+    },
+    {
+      "name": "屋台のまち中央公園物産コーナー",
+      "address": "銀座"
+    },
+    {
+      "name": "鈴木屋",
+      "address": "銀座"
+    },
+    {
+      "name": "花吉",
+      "address": "口粟野"
+    },
+    {
+      "name": "粟野合同運輸",
+      "address": "口粟野"
+    },
+    {
+      "name": "フローレリア アネーロ",
+      "address": "幸町"
+    },
+    {
+      "name": "TiPi",
+      "address": "晃望台"
+    },
+    {
+      "name": "石川製麺所",
+      "address": "今宮町"
+    },
+    {
+      "name": "下野乃国米菓處木村 鹿沼店",
+      "address": "坂田山"
+    },
+    {
+      "name": "飯野薬房",
+      "address": "寺町"
+    },
+    {
+      "name": "関東メディカル 栃木営業所",
+      "address": "松原"
+    },
+    {
+      "name": "天空",
+      "address": "上石川"
+    },
+    {
+      "name": "WestMonroe",
+      "address": "上石川"
+    },
+    {
+      "name": "田沼商店",
+      "address": "上石川"
+    },
+    {
+      "name": "Second Line",
+      "address": "上殿町"
+    },
+    {
+      "name": "鹿沼タイヤ",
+      "address": "上殿町"
+    },
+    {
+      "name": "ベストコンディションワタナベ",
+      "address": "上殿町"
+    },
+    {
+      "name": "きくや酒店 鹿沼店",
+      "address": "上殿町"
+    },
+    {
+      "name": "あさきん モアメーム本店",
+      "address": "上田町"
+    },
+    {
+      "name": "ヤオハンスーパー 北部店",
+      "address": "上田町"
+    },
+    {
+      "name": "木工房嶺乃雲",
+      "address": "上日向"
+    },
+    {
+      "name": "小林酒店 上粕尾店",
+      "address": "上粕尾"
+    },
+    {
+      "name": "邦證堂薬局",
+      "address": "上野町"
+    },
+    {
+      "name": "Trimming&dogspa U.m(ユーエム)",
+      "address": "上野町"
+    },
+    {
+      "name": "Trimmingとことこ",
+      "address": "上野町"
+    },
+    {
+      "name": "サトーカメラ 鹿沼晃望台店",
+      "address": "上野町"
+    },
+    {
+      "name": "トラック市 鹿沼店",
+      "address": "深津"
+    },
+    {
+      "name": "タイヤショップ ナカヤマ",
+      "address": "深津"
+    },
+    {
+      "name": "コバヤシファーム",
+      "address": "深津"
+    },
+    {
+      "name": "小林産業",
+      "address": "仁神堂町"
+    },
+    {
+      "name": "阿久津自動車",
+      "address": "西鹿沼町"
+    },
+    {
+      "name": "ヒーローオート",
+      "address": "西沢町"
+    },
+    {
+      "name": "和光メガネ 鹿沼店",
+      "address": "西茂呂"
+    },
+    {
+      "name": "エムネット",
+      "address": "西茂呂"
+    },
+    {
+      "name": "ヒーローオート 鹿沼店",
+      "address": "西茂呂"
+    },
+    {
+      "name": "ピュアぶらんち",
+      "address": "西茂呂"
+    },
+    {
+      "name": "バギー&トライクショップ アイム",
+      "address": "西茂呂"
+    },
+    {
+      "name": "ペットクリニック井上",
+      "address": "西茂呂"
+    },
+    {
+      "name": "ペットサロンINOWAVE",
+      "address": "西茂呂"
+    },
+    {
+      "name": "嶋田屋本店",
+      "address": "西茂呂"
+    },
+    {
+      "name": "上州屋 鹿沼店",
+      "address": "西茂呂"
+    },
+    {
+      "name": "高橋時計店",
+      "address": "石橋町"
+    },
+    {
+      "name": "カズ・ガレージ",
+      "address": "千渡"
+    },
+    {
+      "name": "ファルコンロード",
+      "address": "千渡"
+    },
+    {
+      "name": "からあげ専門寺田商店鹿沼店",
+      "address": "千渡"
+    },
+    {
+      "name": "タカマルオート",
+      "address": "池ノ森"
+    },
+    {
+      "name": "フタバスポーツ",
+      "address": "中田町"
+    },
+    {
+      "name": "stchristopher",
+      "address": "仲町"
+    },
+    {
+      "name": "ヤマト写真館",
+      "address": "朝日町"
+    },
+    {
+      "name": "卓球ショップエール",
+      "address": "鳥居跡町"
+    },
+    {
+      "name": "大関種苗園",
+      "address": "鳥居跡町"
+    },
+    {
+      "name": "Okura bike(オオクラバイク)",
+      "address": "鳥居跡町"
+    },
+    {
+      "name": "hanadocoro enn",
+      "address": "天神町"
+    },
+    {
+      "name": "フレンチ×薬膳 オードヴィ",
+      "address": "天神町"
+    },
+    {
+      "name": "カサハラ",
+      "address": "東町"
+    },
+    {
+      "name": "フラワーヒルズ",
+      "address": "東町"
+    },
+    {
+      "name": "上野文具 鹿沼店",
+      "address": "東末広町"
+    },
+    {
+      "name": "大貫燃料",
+      "address": "東末広町"
+    },
+    {
+      "name": "TNBファーム",
+      "address": "藤江町"
+    },
+    {
+      "name": "宇賀神モータース",
+      "address": "藤江町"
+    },
+    {
+      "name": "渡辺りんご園",
+      "address": "栃窪"
+    },
+    {
+      "name": "かぬまさつき鉢センターせきぐち",
+      "address": "奈佐原町"
+    },
+    {
+      "name": "JAかみつがサービス",
+      "address": "奈佐原町"
+    },
+    {
+      "name": "ワタナベ自動車工業",
+      "address": "奈佐原町"
+    },
+    {
+      "name": "中條商店 富岡店",
+      "address": "富岡"
+    },
+    {
+      "name": "文化堂書店",
+      "address": "蓬莱町"
+    },
+    {
+      "name": "天然石 Bang・Bang",
+      "address": "蓬莱町"
+    },
+    {
+      "name": "文挟洋服店",
+      "address": "蓬莱町"
+    },
+    {
+      "name": "カギしっぽ Ren",
+      "address": "睦町"
+    },
+    {
+      "name": "渡辺カメラ店",
+      "address": "末広町"
+    },
+    {
+      "name": "荒川家具",
+      "address": "末広町"
+    },
+    {
+      "name": "リビングカマトク 鹿沼本店",
+      "address": "茂呂"
+    },
+    {
+      "name": "コレクション・サンタ",
+      "address": "茂呂"
+    },
+    {
+      "name": "タイヤサービス鹿沼",
+      "address": "茂呂"
+    },
+    {
+      "name": "HondaCars 栃木中央 鹿沼インター店",
+      "address": "茂呂"
+    },
+    {
+      "name": "グリーン アルファ",
+      "address": "茂呂"
+    },
+    {
+      "name": "ミスタータイヤマン 鹿沼店",
+      "address": "茂呂"
+    },
+    {
+      "name": "ダイヤオート",
+      "address": "茂呂"
+    },
+    {
+      "name": "EscapeTempleMOTOR'S",
+      "address": "茂呂"
+    },
+    {
+      "name": "つけもの樋山 鹿沼店",
+      "address": "茂呂"
+    },
+    {
+      "name": "皐月 盆栽 渋谷園",
+      "address": "茂呂"
+    },
+    {
+      "name": "Ladybird",
+      "address": "茂呂"
+    },
+    {
+      "name": "コバヤシオート",
+      "address": "茂呂"
+    },
+    {
+      "name": "鹿沼市花木センター",
+      "address": "茂呂"
+    },
+    {
+      "name": "大栄ドレス",
+      "address": "茂呂"
+    },
+    {
+      "name": "宇都宮自動車",
+      "address": "茂呂"
+    },
+    {
+      "name": "センド オートサービス",
+      "address": "茂呂"
+    },
+    {
+      "name": "Arreda 鹿沼店",
+      "address": "茂呂"
+    },
+    {
+      "name": "SOU LABO",
+      "address": "茂呂"
+    },
+    {
+      "name": "福田自動車工業",
+      "address": "野尻"
+    },
+    {
+      "name": "Rose Medaka",
+      "address": "野沢町"
+    },
+    {
+      "name": "ACID CANDY",
+      "address": "緑町"
+    },
+    {
+      "name": "MATSUYA OFFICE PORTAL",
+      "address": "緑町"
+    },
+    {
+      "name": "金田建設",
+      "address": "緑町"
+    },
+    {
+      "name": "ガレージジャパン",
+      "address": "緑町"
+    },
+    {
+      "name": "稲穂フィッシュファーム",
+      "address": "楡木町"
+    }
+  ],
+  "飲食": [
+    {
+      "name": "山カフェななかまど",
+      "address": "引田"
+    },
+    {
+      "name": "哈爾濱菜館",
+      "address": "栄町"
+    },
+    {
+      "name": "3 SMILE",
+      "address": "栄町"
+    },
+    {
+      "name": "ごはんの扉",
+      "address": "栄町"
+    },
+    {
+      "name": "フライングガーデン 鹿沼店",
+      "address": "栄町"
+    },
+    {
+      "name": "寿司長",
+      "address": "栄町"
+    },
+    {
+      "name": "手打ちラーメン蔵八 鹿沼店",
+      "address": "栄町"
+    },
+    {
+      "name": "ラーメン＆らーめん一代元鹿沼栄店",
+      "address": "栄町"
+    },
+    {
+      "name": "れすとらん フォンテーヌ",
+      "address": "下永野"
+    },
+    {
+      "name": "サウンドカフェなかじ",
+      "address": "下田町"
+    },
+    {
+      "name": "楽日すし 七草",
+      "address": "下田町"
+    },
+    {
+      "name": "叶実",
+      "address": "下南摩町"
+    },
+    {
+      "name": "K'MAX",
+      "address": "貝島町"
+    },
+    {
+      "name": "豊商店",
+      "address": "貝島町"
+    },
+    {
+      "name": "ライオンスポーツ",
+      "address": "貝島町"
+    },
+    {
+      "name": "おもだか",
+      "address": "貝島町"
+    },
+    {
+      "name": "ボクらのひみつきち",
+      "address": "亀和田町"
+    },
+    {
+      "name": "いせ茂 本店",
+      "address": "久保町"
+    },
+    {
+      "name": "串カツJu-So",
+      "address": "久保町"
+    },
+    {
+      "name": "YAMAKOSHI TRADING",
+      "address": "玉田町"
+    },
+    {
+      "name": "ベイクショップ    カンタービレ",
+      "address": "玉田町"
+    },
+    {
+      "name": "Center",
+      "address": "銀座"
+    },
+    {
+      "name": "ずずギンザ",
+      "address": "銀座"
+    },
+    {
+      "name": "銀座コーヒー",
+      "address": "銀座"
+    },
+    {
+      "name": "銀座 若林",
+      "address": "銀座"
+    },
+    {
+      "name": "KENNY'S TACOS",
+      "address": "御成橋町"
+    },
+    {
+      "name": "マレタケ荘喫茶室ソラソラ",
+      "address": "口粟野"
+    },
+    {
+      "name": "中華そば 田田",
+      "address": "幸町"
+    },
+    {
+      "name": "ベッカライ・ディ・シュトラーセ",
+      "address": "晃望台"
+    },
+    {
+      "name": "ドラゴンハンバーグ食堂",
+      "address": "晃望台"
+    },
+    {
+      "name": "おうちサロン Sourire",
+      "address": "坂田山"
+    },
+    {
+      "name": "なゆた庵",
+      "address": "上久我"
+    },
+    {
+      "name": "酒場食堂イナリノトナリ",
+      "address": "上材木町"
+    },
+    {
+      "name": "COFFEE STAND828",
+      "address": "上石川"
+    },
+    {
+      "name": "らーめんMOUKOKU",
+      "address": "上石川"
+    },
+    {
+      "name": "うなぎ 土用亭",
+      "address": "上石川"
+    },
+    {
+      "name": "キッチン 風熊",
+      "address": "上殿町"
+    },
+    {
+      "name": "おにぎり屋 万象",
+      "address": "上殿町"
+    },
+    {
+      "name": "THE DARTS BAR BIG HIP",
+      "address": "上田町"
+    },
+    {
+      "name": "drive-in NANMA",
+      "address": "上南摩町"
+    },
+    {
+      "name": "上南摩そば竜がい",
+      "address": "上南摩町"
+    },
+    {
+      "name": "Nikko Coffee Roku",
+      "address": "上南摩町沢口"
+    },
+    {
+      "name": "パティスリーHANA",
+      "address": "上日向"
+    },
+    {
+      "name": "笑福シウマイ",
+      "address": "上野町"
+    },
+    {
+      "name": "中華料理 嘉蒂",
+      "address": "上野町"
+    },
+    {
+      "name": "Lounge CAROLS",
+      "address": "上野町"
+    },
+    {
+      "name": "nightspace BONITA",
+      "address": "上野町"
+    },
+    {
+      "name": "オリジナル酒場CHIKAYA",
+      "address": "上野町"
+    },
+    {
+      "name": "近江屋",
+      "address": "深程"
+    },
+    {
+      "name": "黒子松屋本店",
+      "address": "深程"
+    },
+    {
+      "name": "こがねちゃん弁当 西鹿沼店",
+      "address": "西鹿沼町"
+    },
+    {
+      "name": "一本杉農園 湯気",
+      "address": "西沢町"
+    },
+    {
+      "name": "一本杉農園",
+      "address": "西沢町"
+    },
+    {
+      "name": "西沢町の農園焼きとうもろこし家さん",
+      "address": "西沢町"
+    },
+    {
+      "name": "ZERO",
+      "address": "西茂呂"
+    },
+    {
+      "name": "サウンドJUJU",
+      "address": "西茂呂"
+    },
+    {
+      "name": "BARMOONSHINE",
+      "address": "西茂呂"
+    },
+    {
+      "name": "Maco Cafe",
+      "address": "西茂呂"
+    },
+    {
+      "name": "たこ焼き和",
+      "address": "西茂呂"
+    },
+    {
+      "name": "芭莉PAN田",
+      "address": "西茂呂"
+    },
+    {
+      "name": "そば割烹 日晃",
+      "address": "西茂呂"
+    },
+    {
+      "name": "食と酒 穂乃花",
+      "address": "西茂呂"
+    },
+    {
+      "name": "お好み焼 道とん堀 鹿沼店",
+      "address": "西茂呂"
+    },
+    {
+      "name": "コッペパン専門店 JOURNEY 鹿沼店",
+      "address": "千渡"
+    },
+    {
+      "name": "MOM'S Kitchen",
+      "address": "千渡"
+    },
+    {
+      "name": "復興食堂 ゆめ広場",
+      "address": "千渡"
+    },
+    {
+      "name": "キッチンCOMORE",
+      "address": "千渡"
+    },
+    {
+      "name": "古峯神社",
+      "address": "草久"
+    },
+    {
+      "name": "居酒屋 陽の丸",
+      "address": "池ノ森"
+    },
+    {
+      "name": "KEYHOLE",
+      "address": "中田町"
+    },
+    {
+      "name": "ろ馬鹿",
+      "address": "仲町"
+    },
+    {
+      "name": "まちの駅弁 もうもう亭",
+      "address": "仲町"
+    },
+    {
+      "name": "BAR DAIHOJI",
+      "address": "朝日町"
+    },
+    {
+      "name": "和の心 若駒",
+      "address": "鳥居跡町"
+    },
+    {
+      "name": "ずず新鹿沼駅前店",
+      "address": "鳥居跡町"
+    },
+    {
+      "name": "ピザーラ 鹿沼店",
+      "address": "天神町"
+    },
+    {
+      "name": "アジアンちゃんぷるぅムード東洋",
+      "address": "東町"
+    },
+    {
+      "name": "3匹のふくろう",
+      "address": "東末広町"
+    },
+    {
+      "name": "PALM TREE",
+      "address": "東末広町"
+    },
+    {
+      "name": "カスケードガーデン",
+      "address": "栃窪"
+    },
+    {
+      "name": "たまのや",
+      "address": "奈佐原町"
+    },
+    {
+      "name": "昔食堂 おまけや笑店",
+      "address": "奈佐原町"
+    },
+    {
+      "name": "Cafe Maera",
+      "address": "日吉町"
+    },
+    {
+      "name": "とちぎアニマルセラピー協会",
+      "address": "日吉町"
+    },
+    {
+      "name": "HANGOUT",
+      "address": "武子"
+    },
+    {
+      "name": "日本料理 一蓮",
+      "address": "睦町"
+    },
+    {
+      "name": "kanumarche シカノクラ",
+      "address": "睦町"
+    },
+    {
+      "name": "松風堂",
+      "address": "麻苧町"
+    },
+    {
+      "name": "奴寿司 鹿沼店",
+      "address": "末広町"
+    },
+    {
+      "name": "蕎花",
+      "address": "茂呂"
+    },
+    {
+      "name": "Nn-kitchen",
+      "address": "茂呂"
+    },
+    {
+      "name": "カキヌマファーム",
+      "address": "野尻"
+    },
+    {
+      "name": "魚民 鹿沼晃望台店",
+      "address": "緑町"
+    }
+  ],
+  "エンタメ・レジャー": [
+    {
+      "name": "REDROCKキャンプ場",
+      "address": "下沢"
+    },
+    {
+      "name": "牛屋の肉屋よこお",
+      "address": "久野"
+    },
+    {
+      "name": "サバゲランドTMD",
+      "address": "玉田町"
+    },
+    {
+      "name": "出会いの森いちご園",
+      "address": "酒野谷"
+    },
+    {
+      "name": "ベリーちゃんハウス",
+      "address": "茂呂"
+    }
+  ],
+  "その他": [
+    {
+      "name": "ITSupportパソコン太郎",
+      "address": "千渡"
+    }
+  ]
+}
