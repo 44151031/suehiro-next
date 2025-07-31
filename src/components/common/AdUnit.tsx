@@ -9,7 +9,7 @@ declare global {
 }
 
 export default function AdUnit() {
-  const adRef = useRef<HTMLModElement>(null); // ✅ ins タグに合わせて HTMLModElement に変更
+  const adRef = useRef<HTMLModElement>(null); // ✅ 修正：insタグに適した型
   const initialized = useRef(false);
 
   useEffect(() => {
@@ -27,14 +27,16 @@ export default function AdUnit() {
   }, []);
 
   return (
-    <ins
-      ref={adRef}
-      className="adsbygoogle"
-      style={{ display: "block" }}
-      data-ad-client="ca-pub-6887407803306740"
-      data-ad-slot="3186493931"
-      data-ad-format="auto"
-      data-full-width-responsive="true"
-    />
+    <div style={{ width: "300px", height: "250px" }}>
+      <ins
+        ref={adRef}
+        className="adsbygoogle"
+        style={{ display: "block", width: "300px", height: "250px" }}
+        data-ad-client="ca-pub-6887407803306740"
+        data-ad-slot="3186493931"
+        data-ad-format=""
+        // data-full-width-responsive="true"
+      />
+    </div>
   );
 }
