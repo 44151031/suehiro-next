@@ -27,7 +27,7 @@ export default function AdUnit() {
   }, []);
 
   return (
-    <div className="flex justify-center items-center my-8" style={{ width: "300px", height: "250px" }}>
+    <div className="flex justify-center items-center my-8 w-full">
       <ins
         ref={adRef}
         className="adsbygoogle"
