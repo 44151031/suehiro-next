@@ -134,7 +134,12 @@ export default function CampaignsContent() {
               const isActive =
                 new Date(v.applyStartDate) <= new Date() && new Date() <= new Date(v.applyEndDate);
               const type = v.resultAnnounceDate ? "抽選" : "先着";
-              const isAnyone = v.eligiblePersons === "居住地に関係なく12歳以上の全ての方";
+
+              // 対象者ラベルの条件分岐を修正 ✅
+              let eligibilityLabel = "居住者のみ";
+              if (v.eligiblePersons?.includes("居住地に関係なく")) {
+                eligibilityLabel = "誰でもOK(年齢制限有)";
+              }
 
               return (
                 <Link
@@ -145,21 +150,21 @@ export default function CampaignsContent() {
                   <h3 className="font-bold text-base mb-1">
                     {v.prefecture}{v.city}{v.payTypeLabel}商品券
 
-                    {/* 対象者ラベル */}
+                    {/* 対象者ラベル（修正済） */}
                     <span
-                      className={`inline-block ml-2 text-xs font-bold px-2 py-1 rounded-full shadow ${isAnyone
-                        ? "border bg-white text-red-600 border-red-600"
-                        : "bg-gray-200 text-gray-700"
+                      className={`inline-block ml-2 text-xs font-bold px-2 py-1 rounded-full shadow ${eligibilityLabel.includes("誰でも")
+                          ? "border bg-white text-red-600 border-red-600"
+                          : "bg-gray-200 text-gray-700"
                         }`}
                     >
-                      {isAnyone ? "誰でもOK（12歳〜）" : "居住者のみ"}
+                      {eligibilityLabel}
                     </span>
 
                     {/* 抽選 / 先着ラベル */}
                     <span
                       className={`inline-block ml-2 text-xs font-bold px-2 py-1 rounded-full shadow ${type === "先着"
-                        ? "bg-red-600 text-white"
-                        : "bg-sky-200 text-sky-800"
+                          ? "bg-red-600 text-white"
+                          : "bg-sky-200 text-sky-800"
                         }`}
                     >
                       {type}
