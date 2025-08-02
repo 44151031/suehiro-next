@@ -3,6 +3,9 @@
 import StandardCampaignPage from "./StandardCampaignPage";
 import VoucherCampaignPage from "./VoucherCampaignPage";
 
+// ✅ これを追加（重要）
+export { generateMetadata } from "./StandardCampaignPage";
+
 type Props = {
   params: {
     prefecture: string;
