@@ -29,7 +29,7 @@ export function getPrefectureMetadata(prefectureSlug: string): Metadata {
       ? `${prefecture}で近日開催予定の合計${futureTotal.toLocaleString("ja-JP")}円分のキャッシュレスキャンペーンを紹介。今後の開催を見逃さずチェック！`
       : `${prefecture}のキャッシュレスキャンペーン情報。このページでは開催中または開催予定のキャンペーンと、${prefecture}の近くのキャンペーンをご紹介いたします。`;
 
-  const ogImageUrl = `https://paycancampaign.com/images/campaigns/ogp/${prefectureSlug}-ogp.jpg`;
+  const ogImageUrl = `https://paycancampaign.com/images/campaigns/ogp/${prefectureSlug}-ogp.jpg?v=1`;
 
   return {
     title,
@@ -80,7 +80,7 @@ export function getCityMetadata(
   const prefecture = cityCampaigns[0]?.prefecture || "都道府県";
   const city = cityCampaigns[0]?.city || "市区町村";
   const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}`;
-  const ogImageUrl = `https://paycancampaign.com/images/campaigns/${prefectureSlug}-${citySlug}.jpg`;
+  const ogImageUrl = `https://paycancampaign.com/images/campaigns/${prefectureSlug}-${citySlug}.jpg?v=1`;
 
   const title = active.length > 0
     ? `${city}で開催中の合計${total.toLocaleString("ja-JP")}円分還元キャンペーン-Payキャン`
@@ -151,7 +151,7 @@ export function getPaytypeMetadata(
   };
 
   const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${paytypeSlug}`;
-  const ogImageUrl = `https://paycancampaign.com/images/campaigns/ogp/${prefectureSlug}-${citySlug}-${paytype}-ogp.jpg`;
+  const ogImageUrl = `https://paycancampaign.com/images/campaigns/ogp/${prefectureSlug}-${citySlug}-${paytype}-ogp.jpg?v=1`;
 
   const yearSuffix =
     new Date(startDate).getFullYear() === currentYear
