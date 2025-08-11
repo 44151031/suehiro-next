@@ -15,6 +15,7 @@ import OtherPaytypesCampaigns from "@/components/sections/city/OtherPaytypesCamp
 import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCampaigns";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import AdUnit from "@/components/common/AdUnit";
+export { generateVoucherMetadata as generateMetadata } from "@/lib/voucherMetadateGenerators";
 
 const formatNumber = (num: number) => Number(num).toLocaleString("ja-JP");
 
