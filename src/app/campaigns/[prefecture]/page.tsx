@@ -109,9 +109,12 @@ export default function PrefecturePage({ params }: Props) {
                     {prefectureName}では、現在開催中のキャンペーンは{" "}
                     <span className="text-orange-600 font-bold">{active.length}件</span>です。
                   </span>
-                  <span className="ml-1 text-[17px] sm:text-xl font-semibold">
-                    <span className="text-green-700 font-bold">{upcoming}件</span> は開催予定となっています。
-                  </span>
+                  {/* upcoming が 1件以上のときだけ表示 */}
+                  {upcoming > 0 && (
+                    <span className="ml-1 text-[17px] sm:text-xl font-semibold">
+                      その他、開催予定のキャンペーンがあります。
+                    </span>
+                  )}
                 </p>
               )
             ) : (
@@ -127,14 +130,6 @@ export default function PrefecturePage({ params }: Props) {
             </div>
           )}
 
-          <div className="mb-6">
-            <SNSShareButtons
-              title={shareTitle}
-              url={`https://paycancampaign.com/campaigns/${prefecture}`}
-              hashtags={shareHashtags}
-            />
-          </div>
-
           {/* ✅ 商品券（受付中＋受付前） */}
           {activeOrUpcomingVoucherCampaigns.length > 0 && (
             <section className="mt-12">
@@ -145,6 +140,14 @@ export default function PrefecturePage({ params }: Props) {
             </section>
           )}
 
+          <div className="mb-6">
+            <SNSShareButtons
+              title={shareTitle}
+              url={`https://paycancampaign.com/campaigns/${prefecture}`}
+              hashtags={shareHashtags}
+            />
+          </div>
+          
           {/* 同一エリアの他県キャンペーン */}
           {(() => {
             const currentPref = prefectures.find((p) => p.slug === prefecture);

@@ -121,10 +121,7 @@ export default function CityCampaignsPage({
                   <span className="text-[17px] sm:text-xl font-semibold">
                     {prefectureName}
                     {cityName}では現在
-                    <span className="text-green-700 font-bold">
-                      {" "}
-                      {upcoming.length}件
-                    </span>
+                    <span className="text-green-700 font-bold"> {upcoming.length}件</span>
                     が開催予定となっています。開催日に向けてお買い物を調整しましょう。
                   </span>
                 </p>
@@ -133,17 +130,15 @@ export default function CityCampaignsPage({
                   <span className="text-[17px] sm:text-xl font-semibold">
                     {prefectureName}
                     {cityName}では、現在{" "}
-                    <span className="text-orange-600 font-bold">
-                      {active.length}件
-                    </span>{" "}
+                    <span className="text-orange-600 font-bold">{active.length}件</span>{" "}
                     のキャンペーンが開催中です。
                   </span>
-                  <span className="ml-1 text-[17px] sm:text-xl font-semibold">
-                    <span className="text-green-700 font-bold">
-                      {upcoming.length}件
-                    </span>{" "}
-                    は開催予定となっています。
-                  </span>
+                  {/* upcoming が 1件以上のときだけ表示（0件なら非表示） */}
+                  {upcoming.length > 0 && (
+                    <span className="ml-1 text-[17px] sm:text-xl font-semibold text-green-700 font-bold">
+                      他に開催予定のキャンペーンがあります。
+                    </span>
+                  )}
                 </p>
               )
             ) : (
@@ -159,17 +154,6 @@ export default function CityCampaignsPage({
               <CampaignCardList campaigns={filteredList} />
             </div>
           )}
-
-          {filteredList.length === 0 && (
-            <RecommendedCampaigns
-              prefectureSlug={prefecture}
-              citySlug={city}
-              city={cityName}
-            />
-          )}
-
-          <SNSShareButtons url={url} title={shareTitle} hashtags={shareHashtags} />
-
           {/* ✅ 商品券（受付中 + 受付前） */}
           {cityVoucherCampaigns.length > 0 && (
             <section className="mt-12">
@@ -178,6 +162,15 @@ export default function CityCampaignsPage({
               </h2>
               <VoucherCampaignCardList campaigns={cityVoucherCampaigns} />
             </section>
+          )}
+
+          <SNSShareButtons url={url} title={shareTitle} hashtags={shareHashtags} />
+          {filteredList.length === 0 && (
+            <RecommendedCampaigns
+              prefectureSlug={prefecture}
+              citySlug={city}
+              city={cityName}
+            />
           )}
 
           {(() => {
