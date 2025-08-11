@@ -123,7 +123,6 @@ export function getPaytypeMetadata(
   paytypeSlug: string
 ): Metadata {
   const now = new Date();
-  const currentYear = now.getFullYear();
   const matched = campaigns
     .filter(
       (c) =>
@@ -131,7 +130,10 @@ export function getPaytypeMetadata(
         c.citySlug === citySlug &&
         c.paytype === paytypeSlug
     )
-    .sort((a, b) => new Date(b.startDate).getTime() - new Date(a.startDate).getTime());
+    .sort(
+      (a, b) =>
+        new Date(b.startDate).getTime() - new Date(a.startDate).getTime()
+    );
 
   const campaign = matched[0];
 
@@ -153,13 +155,13 @@ export function getPaytypeMetadata(
   const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${paytypeSlug}`;
   const ogImageUrl = `https://paycancampaign.com/images/campaigns/ogp/${prefectureSlug}-${citySlug}-${paytype}-ogp.jpg?v=1`;
 
-  const yearSuffix =
-    new Date(startDate).getFullYear() === currentYear
-      ? `｜${currentYear}年最新キャンペーン情報-Payキャン`
-      : "";
+  // ▼ ここがタイトル生成の新ロジック
+  const year = new Date(startDate).getFullYear();
+  const capYen = Number((campaign as any).fullpoint ?? 0); // 期間上限P≒円
+  const capPart = capYen > 0 ? `(最大${capYen.toLocaleString("ja-JP")}円)` : "";
+  const title = `${city}の${paytypeLabel}${offer}％還元${capPart}${year}年対象店舗一覧- Payキャン`;
 
-  const title = `${city}の${paytypeLabel}${offer}％還元対象店舗一覧${yearSuffix}`;
-  const description = `${prefecture}${city}で${formatDate(startDate)}から${formatDate(endDate)}まで${paytypeLabel}による${offer}％還元キャンペーン開催中。最短で最大の還元を受け取れるように飲食店、小売りなどジャンル別に対象店舗を紹介しています。`;
+  const description = `${prefecture}${city}で${formatDate(startDate)}から${formatDate(endDate)}まで${paytypeLabel}による${offer}％還元キャンペーン開催中。最短で最大の還元を受け取れるように飲食店、小売りなどジャンル別に対象店舗一覧を紹介しています。`;
 
   return {
     title,
