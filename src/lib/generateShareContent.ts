@@ -3,7 +3,7 @@ type GenerateShareContentParams = {
   payLabel?: string;
   offer?: number;
   prefecture?: string;
-  style?: "prefecture" | "city" | "impact" | "formal" | "limited" | "default" | "voucher"; // ← ✅ "voucher" を追加
+  style?: "prefecture" | "city" | "impact" | "formal" | "limited" | "default" | "voucher";
 };
 
 export function generateShareContent({
@@ -16,37 +16,51 @@ export function generateShareContent({
   title: string;
   hashtags: string[];
 } {
+  const area = `${prefecture ?? ""}${city ?? ""}`; // 都道府県 + 市区町村（どちらか欠けてもOK）
   const offerText = offer !== undefined ? `${offer}%` : "";
-  let title = "";
+  const pay = payLabel ?? "キャンペーン";
 
+  let title = "";
   switch (style) {
     case "impact":
-      title = `${city}で${offerText}還元！${payLabel}キャンペーン開催中🔥`;
+      title = `${area}で${offerText}還元！${pay}開催中🔥`;
       break;
     case "formal":
-      title = `${city}の${payLabel}${offerText}還元キャンペーン情報（公式まとめ）`;
+      title = `${area}の${pay}${offerText}還元キャンペーン情報（公式まとめ）`;
       break;
     case "limited":
-      title = `【期間限定】${city}で${offerText}還元！${payLabel}利用でお得に🉐`;
+      title = `【期間限定】${area}で${offerText}還元！${pay}利用でお得に🉐`;
       break;
     case "prefecture":
-      title = `${prefecture}のキャッシュレス還元キャンペーンまとめ！`;
+      title = `${prefecture ?? ""}のキャッシュレス還元キャンペーンまとめ！`;
       break;
     case "city":
-      title = `${city}のキャッシュレス還元キャンペーン一覧はこちら👇`;
+      title = `${area}のキャッシュレス還元キャンペーン一覧はこちら👇`;
+      break;
+    case "voucher":
+      title = `${area}の${pay}${offerText ? ` 最大${offerText}お得` : ""}情報はこちら👇`.replace(/\s+/g, " ").trim();
       break;
     case "default":
     default:
-      title = `${city}で${payLabel}使うと最大${offerText}戻る！今すぐチェック👇`;
+      title =
+        offerText && payLabel
+          ? `${area}で${payLabel}使うと最大${offerText}戻る！今すぐチェック👇`
+          : `${area}のお得情報をチェック👇`;
       break;
   }
 
-  const hashtags = ["Payキャン", "キャッシュレス還元"];
+  // 都道府県は必ずハッシュタグに含める
+  const hashtagsBase = ["Payキャン", "キャッシュレス還元"];
+  const hashtags = [
+    ...hashtagsBase,
+    ...(payLabel ? [payLabel] : []),
+    ...(payLabel && offer !== undefined ? [`${payLabel}${offer}パーセント還元`] : []),
+    ...(prefecture ? [prefecture] : []),
+    ...(city ? [city] : []),
+  ];
 
-  if (payLabel) hashtags.push(payLabel);
-  if (payLabel && offer) hashtags.push(`${payLabel}${offer}パーセント還元`);
-  if (city) hashtags.push(city);
-  if (!city && prefecture) hashtags.push(prefecture);
+  // 重複除去
+  const uniqueHashtags = Array.from(new Set(hashtags));
 
-  return { title, hashtags };
+  return { title, hashtags: uniqueHashtags };
 }
