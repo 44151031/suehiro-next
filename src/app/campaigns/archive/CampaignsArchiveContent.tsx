@@ -9,8 +9,12 @@ import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import { SNSShareButtons } from "@/components/common/SNSShareButtons";
 import Link from "next/link";
 
+// ✅ 追加（商品券アーカイブ表示用）
+import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster";
+import VoucherCampaignCardList from "@/components/common/VoucherCampaignCardList";
+
 export default function CampaignsArchiveContent() {
-  // 重複を排除し、startDateが最新のものを優先
+  // ---- 通常キャンペーン（終了分）の重複排除: startDate が新しいものを優先 ----
   const uniqueCampaignsMap = new Map<string, typeof campaigns[number]>();
   campaigns.forEach((c) => {
     const key = `${c.prefectureSlug}-${c.citySlug}-${c.paytype}`;
@@ -21,9 +25,10 @@ export default function CampaignsArchiveContent() {
   });
   const uniqueCampaigns = Array.from(uniqueCampaignsMap.values());
 
+  // 終了した通常キャンペーンのみ
   const endedCampaigns = filterCampaignsByStatus(uniqueCampaigns, "ended");
 
-  // 支払いサービスのフィルター
+  // ---- 支払いサービスのフィルター（通常キャンペーン用）----
   const [selectedPaytype, setSelectedPaytype] = useState<string>("all");
   const filteredCampaigns = endedCampaigns.filter((c) => {
     if (selectedPaytype === "all") return true;
@@ -32,6 +37,25 @@ export default function CampaignsArchiveContent() {
     }
     return c.paytype === selectedPaytype;
   });
+
+  // ---- 終了した商品券（申込期間が過去）を抽出：重複は applyEndDate が新しいものを残す ----
+  const now = new Date();
+  const endedVoucherMap = new Map<string, (typeof voucherCampaignMaster)[number]>();
+
+  voucherCampaignMaster.forEach((v) => {
+    // 受付が終了していない（受付中・受付前）は除外
+    if (new Date(v.applyEndDate) >= now) return;
+
+    const key = `${v.prefectureSlug}-${v.citySlug}-${v.paytype}`;
+    const exist = endedVoucherMap.get(key);
+    if (!exist || new Date(v.applyEndDate) > new Date(exist.applyEndDate)) {
+      endedVoucherMap.set(key, v);
+    }
+  });
+
+  const endedVoucherCampaigns = Array.from(endedVoucherMap.values()).sort(
+    (a, b) => new Date(b.applyEndDate).getTime() - new Date(a.applyEndDate).getTime()
+  );
 
   return (
     <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
@@ -51,7 +75,7 @@ export default function CampaignsArchiveContent() {
           </p>
         </div>
 
-        {/* 支払いサービスフィルター */}
+        {/* 支払いサービスフィルター（通常キャンペーン） */}
         <div className="sticky top-16 z-30 bg-[#f8f7f2] pt-4 pb-3 mb-10">
           <div className="flex flex-wrap sm:flex-nowrap justify-end gap-3 sm:gap-6 px-2 sm:px-0 text-sm sm:text-base">
             {[
@@ -77,6 +101,7 @@ export default function CampaignsArchiveContent() {
           </div>
         </div>
 
+        {/* 終了した通常キャンペーン（従来のアーカイブ） */}
         <div className="space-y-12">
           {prefectureGroups.map((group) => (
             <CampaignGroupSection
@@ -86,6 +111,19 @@ export default function CampaignsArchiveContent() {
             />
           ))}
         </div>
+
+        {/* ✅ 終了したPayPay商品券（申込期間が過去） */}
+        {endedVoucherCampaigns.length > 0 && (
+          <section className="mt-16">
+            <h2 className="text-xl sm:text-2xl font-bold text-neutral-800 mb-6 border-l-4 border-brand-primary pl-4">
+              終了したPayPay商品券キャンペーン
+            </h2>
+            <VoucherCampaignCardList campaigns={endedVoucherCampaigns} />
+            <p className="mt-3 text-sm text-neutral-500">
+              ※申込期間が終了した商品券の過去実施例です。次回実施の参考にご利用ください。
+            </p>
+          </section>
+        )}
 
         <div className="mt-4 mb-6">
           <SNSShareButtons

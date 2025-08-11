@@ -18,6 +18,8 @@ import Link from "next/link";
 import CampaignLineCard from "@/components/common/CampaignLineCard";
 import { prefectures } from "@/lib/prefectures";
 import { hasVoucherCampaign } from "@/lib/voucherUtils";
+import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster";
+import VoucherCampaignCardList from "@/components/common/VoucherCampaignCardList";
 
 type Props = {
   params: { prefecture: string };
@@ -51,6 +53,22 @@ export default function PrefecturePage({ params }: Props) {
       cityMap.set(c.citySlug, { city: c.city, citySlug: c.citySlug });
     }
   });
+
+
+
+  // PrefecturePage 関数内の抽出ロジック
+  const now = new Date();
+  const activeOrUpcomingVoucherCampaigns = voucherCampaignMaster
+    .filter(
+      (v) =>
+        v.prefectureSlug === prefecture &&
+        now <= new Date(v.applyEndDate) // 申込終了日が未来
+    )
+    .sort(
+      (a, b) =>
+        new Date(a.applyStartDate).getTime() - new Date(b.applyStartDate).getTime()
+    );
+
 
   // ✅ 表示対象の voucher 市区町村を先に抽出
   const voucherCities = [...cityMap.values()].filter(({ citySlug }) =>
@@ -117,30 +135,13 @@ export default function PrefecturePage({ params }: Props) {
             />
           </div>
 
-          {/* ✅ voucher 市区町村が存在する場合のみ表示 */}
-          {voucherCities.length > 0 && (
+          {/* ✅ 商品券（受付中＋受付前） */}
+          {activeOrUpcomingVoucherCampaigns.length > 0 && (
             <section className="mt-12">
               <h2 className="text-xl sm:text-2xl font-bold text-neutral-800 mb-6 border-l-4 border-brand-primary pl-4">
-                {prefectureName}内のキャンペーンPayPay商品券
+                {prefectureName}内のPayPay商品券キャンペーン
               </h2>
-              <ul className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-3">
-                {voucherCities.map(({ city, citySlug }) => (
-                  <li key={citySlug} className="text-base">
-                    <Link
-                      href={`/campaigns/${prefecture}/${citySlug}`}
-                      className="text-brand-primary underline hover:text-brand-primary/80"
-                    >
-                      {city}
-                    </Link>
-                    <Link
-                      href={`/campaigns/${prefecture}/${citySlug}/paypay-voucher`}
-                      className="ml-2 inline-block rounded bg-red-600 px-2 py-0.5 text-xs text-white"
-                    >
-                      商品券
-                    </Link>
-                  </li>
-                ))}
-              </ul>
+              <VoucherCampaignCardList campaigns={activeOrUpcomingVoucherCampaigns} />
             </section>
           )}
 

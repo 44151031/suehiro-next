@@ -10,6 +10,7 @@ import CampaignTotalPointSummary from "@/components/common/CampaignTotalPointSum
 import { SNSShareButtons } from "@/components/common/SNSShareButtons";
 import Link from "next/link";
 import CampaignsTopStructuredData from "@/components/structured/CampaignsTopStructuredData";
+import VoucherCampaignCardList from "@/components/common/VoucherCampaignCardList";
 
 // ✅ 商品券関連
 import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster";
@@ -127,69 +128,7 @@ export default function CampaignsContent() {
         {/* ✅ 商品券キャンペーン */}
         <div className="mt-12">
           <h2 className="text-xl font-bold mb-4">PayPay商品券キャンペーン</h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-            {activeVoucherCampaigns.map((v) => {
-              const rate = calculateVoucherDiscountRate(v.ticketAmount, v.purchasePrice);
-              const benefit = (v.ticketAmount - v.purchasePrice) * v.maxUnits;
-              const isActive =
-                new Date(v.applyStartDate) <= new Date() && new Date() <= new Date(v.applyEndDate);
-              const type = v.resultAnnounceDate ? "抽選" : "先着";
-
-              // 対象者ラベルの条件分岐を修正 ✅
-              let eligibilityLabel = "居住者のみ";
-              if (v.eligiblePersons?.includes("居住地に関係なく")) {
-                eligibilityLabel = "誰でもOK(年齢制限有)";
-              }
-
-              return (
-                <Link
-                  key={`${v.citySlug}-${v.paytype}`}
-                  href={`/campaigns/${v.prefectureSlug}/${v.citySlug}/${v.paytype}`}
-                  className="block border rounded-2xl p-4 shadow bg-white hover:shadow-md transition"
-                >
-                  <h3 className="font-bold text-base mb-1">
-                    {v.prefecture}{v.city}{v.payTypeLabel}商品券
-
-                    {/* 対象者ラベル（修正済） */}
-                    <span
-                      className={`inline-block ml-2 text-xs font-bold px-2 py-1 rounded-full shadow ${eligibilityLabel.includes("誰でも")
-                          ? "border bg-white text-red-600 border-red-600"
-                          : "bg-gray-200 text-gray-700"
-                        }`}
-                    >
-                      {eligibilityLabel}
-                    </span>
-
-                    {/* 抽選 / 先着ラベル */}
-                    <span
-                      className={`inline-block ml-2 text-xs font-bold px-2 py-1 rounded-full shadow ${type === "先着"
-                          ? "bg-red-600 text-white"
-                          : "bg-sky-200 text-sky-800"
-                        }`}
-                    >
-                      {type}
-                    </span>
-                  </h3>
-
-                  {/* 申込期間と受付中表示 */}
-                  <p className="text-sm text-gray-500 mb-1">
-                    申込期間：{formatJapaneseDateOnly(v.applyStartDate)} ～ {formatJapaneseDateOnly(v.applyEndDate)}
-                    {isActive && (
-                      <span className="ml-2 inline-block text-xs bg-green-500 text-white px-2 py-0.5 rounded">
-                        受付中
-                      </span>
-                    )}
-                  </p>
-
-                  {/* 還元率と最大お得額 */}
-                  <p className="text-sm">
-                    <span className="text-red-500 font-bold">{rate}%</span>お得／最大
-                    <span className="text-red-500 font-bold">{benefit.toLocaleString()}円</span>お得
-                  </p>
-                </Link>
-              );
-            })}
-          </div>
+          <VoucherCampaignCardList campaigns={activeVoucherCampaigns} />
         </div>
 
         {/* ✅ 次回キャンペーン待ちリンク */}

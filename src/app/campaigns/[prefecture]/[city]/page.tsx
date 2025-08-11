@@ -18,6 +18,7 @@ import Link from "next/link";
 import CampaignLineCard from "@/components/common/CampaignLineCard";
 import { getVoucherCampaignUrl } from "@/lib/voucherUtils";
 import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster"; // ✅ 追加
+import VoucherCampaignCardList from "@/components/common/VoucherCampaignCardList";
 
 type Props = {
   params: { prefecture: string; city: string };
@@ -75,6 +76,20 @@ export default function CityCampaignsPage({
     city: cityName,
     style: "city",
   });
+
+  // ✅ この市の「受付中 or 受付前」の商品券のみ（申込終了は除外）
+  const now = new Date();
+  const cityVoucherCampaigns = voucherCampaignMaster
+    .filter(
+      (v) =>
+        v.prefectureSlug === prefecture &&
+        v.citySlug === city &&
+        now <= new Date(v.applyEndDate) // 申込終了を除外
+    )
+    .sort(
+      (a, b) =>
+        new Date(a.applyStartDate).getTime() - new Date(b.applyStartDate).getTime()
+    );
 
   return (
     <>
@@ -155,21 +170,15 @@ export default function CityCampaignsPage({
 
           <SNSShareButtons url={url} title={shareTitle} hashtags={shareHashtags} />
 
-          {/* ✅ 商品券キャンペーンが存在する場合のみボタン表示 */}
-          {(() => {
-            const voucherUrl = getVoucherCampaignUrl(prefecture, city);
-            if (!voucherUrl) return null;
-
-            return (
-              <div className="mt-8">
-                <Link href={voucherUrl}>
-                  <button className="rounded bg-yellow-500 text-white px-5 py-3 text-base font-semibold shadow hover:bg-yellow-600 transition">
-                    PayPay商品券キャンペーンの詳細を見る
-                  </button>
-                </Link>
-              </div>
-            );
-          })()}
+          {/* ✅ 商品券（受付中 + 受付前） */}
+          {cityVoucherCampaigns.length > 0 && (
+            <section className="mt-12">
+              <h2 className="text-xl sm:text-2xl font-bold text-neutral-800 mb-6 border-l-4 border-brand-primary pl-4">
+                {prefectureName}{cityName}のPayPay商品券キャンペーン
+              </h2>
+              <VoucherCampaignCardList campaigns={cityVoucherCampaigns} />
+            </section>
+          )}
 
           {(() => {
             const otherPrefectureCampaigns = campaigns
