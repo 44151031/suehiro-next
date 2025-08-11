@@ -173,7 +173,7 @@ export default async function CityPaytypePage({
           >
             {payLabel}が使える{city}の{offer}%還元対象店舗一覧
           </h2>
-
+          <AdUnit />
           {!shopListByGenre ? (
             <>
               <p className="mt-10 text-gray-700 text-base">
