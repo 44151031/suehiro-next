@@ -24,7 +24,7 @@ export function getPrefectureMetadata(prefectureSlug: string): Metadata {
       : `${prefecture}のキャッシュレスキャンペーン一覧-Payキャン`;
 
   const description = active.length > 0
-    ? `${prefecture}で実施中のPayPay、au PAY、楽天Pay、d払い等キャッシュレスキャンペーンを紹介。現在、合計で${total.toLocaleString("ja-JP")}円分のキャンペーンを紹介`
+    ? `${prefecture}で実施中のPayPay、au PAY、楽天ペイ、d払い等キャッシュレスキャンペーンを紹介。現在、合計で${total.toLocaleString("ja-JP")}円分のキャンペーンを紹介`
     : future.length > 0
       ? `${prefecture}で近日開催予定の合計${futureTotal.toLocaleString("ja-JP")}円分のキャッシュレスキャンペーンを紹介。今後の開催を見逃さずチェック！`
       : `${prefecture}のキャッシュレスキャンペーン情報。このページでは開催中または開催予定のキャンペーンと、${prefecture}の近くのキャンペーンをご紹介いたします。`;
@@ -201,6 +201,6 @@ export async function generateMetadata({
 
   return {
     title: "キャッシュレス還元キャンペーンまとめ-Payキャン",
-    description: "全国のPayPay・auPAY・楽天ペイ・d払いの還元キャンペーン情報を紹介しています。",
+    description: "全国のPayPay・au PAY・楽天ペイ・d払いの還元キャンペーン情報を紹介しています。",
   };
 }
