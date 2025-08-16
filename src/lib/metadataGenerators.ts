@@ -18,9 +18,9 @@ export function getPrefectureMetadata(prefectureSlug: string): Metadata {
   const futureTotal = sumFutureFullpoint(future);
 
   const title = active.length > 0
-    ? `${prefecture}で開催中の合計${total.toLocaleString("ja-JP")}円分還元キャンペーン-Payキャン`
+    ? `${prefecture}のキャッシュレスキャンペーン！合計${total.toLocaleString("ja-JP")}円分還元-Payキャン`
     : future.length > 0
-      ? `${prefecture}で近日開催予定の合計${futureTotal.toLocaleString("ja-JP")}円分還元キャンペーン-Payキャン`
+      ? `${prefecture}で開催予定のキャッシュレスキャンペーン！合計${futureTotal.toLocaleString("ja-JP")}円分還元-Payキャン`
       : `${prefecture}のキャッシュレスキャンペーン一覧-Payキャン`;
 
   const description = active.length > 0

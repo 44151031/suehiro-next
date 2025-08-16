@@ -4,8 +4,8 @@ import { campaigns } from "./campaignMaster";
 
 // 人気検索ワード（日本語）
 const rawPopularSearches = [
-  "千葉県全域",
-  "千葉県柏市",
+  "栃木県矢板市",
+  "大阪府門真市",
   "東京都大田区",
   "三重県桑名市",
   "栃木県鹿沼市",
