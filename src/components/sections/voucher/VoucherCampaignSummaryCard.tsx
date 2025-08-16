@@ -101,13 +101,13 @@ export default function VoucherCampaignSummaryCard({ campaign }: Props) {
 
           {/* ✅ 申込期間バッジ */}
           <div className="inline-block bg-red-500 text-white text-sm font-semibold px-4 py-1 rounded-full shadow-sm mt-2">
-            申込期間：{formatJapaneseDate(applyStartDate)} 10:00 ～ {formatJapaneseDate(applyEndDate)}
+            申込期間：{formatJapaneseDate(applyStartDate)}10:00 ～ {formatJapaneseDate(applyEndDate)}
           </div>
 
           {/* ✅ その他情報バッジ群 */}
           <div className="flex flex-wrap gap-2">
             <div className="bg-green-50 border border-green-200 rounded-full px-4 py-1 text-sm text-green-800">
-              利用期限：{formatJapaneseDate(useEndDate)}の23:59
+              利用期限：{formatJapaneseDate(useEndDate)}
             </div>
             <div className="bg-blue-50 border border-blue-200 rounded-full px-4 py-1 text-sm text-blue-800">
               当選発表：{formatJapaneseDate(resultAnnounceDate)}以降
