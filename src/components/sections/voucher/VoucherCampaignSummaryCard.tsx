@@ -66,7 +66,7 @@ export default function VoucherCampaignSummaryCard({ campaign }: Props) {
           <div className="absolute inset-0 flex items-center justify-center z-10">
             <div className="bg-white/90 text-black text-center px-4 py-3 rounded-2xl shadow-2xl leading-tight font-extrabold">
               <div className="text-base sm:text-lg text-black">
-                {prefecture}{city} × PayPay商品券
+                {city} × PayPay商品券
               </div>
               <div className="leading-tight">
                 最大 <span className="text-5xl sm:text-7xl font-extrabold text-red-600">{discountRate}</span>％
