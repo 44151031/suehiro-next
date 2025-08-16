@@ -55,7 +55,7 @@ export default function VoucherCampaignPage({
   } = campaign;
 
   const modified = dateModified ?? datePublished;
-  const discountRate = calculateVoucherDiscountRate(ticketAmount, purchasePrice);
+  const discountRate = calculateVoucherDiscountRate(ticketAmount, purchasePrice); // パーセント（整数/小数はユーティリティ側に準拠）
   const maxDiscount = (ticketAmount - purchasePrice) * maxUnits;
   const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${pay}`;
 
@@ -74,8 +74,9 @@ export default function VoucherCampaignPage({
         city={cityName}
         citySlug={citySlug}
         paytype={pay}
-        headline={`${cityName}の商品券キャンペーン（${campaigntitle}）`}
-        articleDescription={`${prefName}${cityName}で実施されるプレミアム商品券の概要、販売条件、利用期間などを紹介。`}
+        // H1と意味合わせ：還元ではなく「お得」訴求
+        headline={`${cityName}のPayPay商品券（${campaigntitle}）`}
+        articleDescription={`${prefName}${cityName}で実施されるプレミアム商品券（PayPay商品券）の概要、申込期間・対象者・購入上限・利用期限、使い方をわかりやすく紹介します。`}
         validFrom={applyStartDate}
         validThrough={applyEndDate}
         url={pageUrl}
@@ -85,8 +86,10 @@ export default function VoucherCampaignPage({
 
       <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
         <main className="max-w-[1200px] mx-auto px-4 py-10">
+          {/* ✅ H1：対象店舗は出さず、「お得・申込・利用」に寄せる */}
           <h1 className="headline1">
-            {cityName}のPayPay商品券が最大{discountRate}％（{maxUnits}口購入で最大{formatNumber(maxDiscount)}円）お得
+            {cityName}のPayPay商品券2025｜最大{discountRate}％お得！（{maxUnits}
+            口購入で最大{formatNumber(maxDiscount)}円）
           </h1>
 
           {datePublished && (
@@ -98,20 +101,22 @@ export default function VoucherCampaignPage({
 
           <p className="text-xs md:text-base leading-relaxed text-gray-800 mb-2">
             対象者の方がPayPayアプリから
-            <span className="font-semibold">{formatJapaneseDate(applyStartDate)}10:00</span>
+            <span className="font-semibold">
+              {formatJapaneseDate(applyStartDate)}
+            </span>
             から
             <span className="font-semibold">{formatJapaneseDate(applyEndDate)}</span>
-            までに申し込みのうえ、当選された方（
+            までに申し込みのうえ、当選後に商品券を購入・利用できます
             {resultAnnounceDate && (
-              <span className="font-semibold">
-                {formatJapaneseDate(resultAnnounceDate)}以降
-              </span>
+              <>
+                （当選発表：<span className="font-semibold">{formatJapaneseDate(resultAnnounceDate)}</span> 以降）
+              </>
             )}
-            ）は、当選発表後から
-            <span className="font-semibold">{formatJapaneseDate(useEndDate)}の23:59</span>
-            までに商品券を購入・利用いただけます。
+            。利用期限は
+            <span className="font-semibold">{formatJapaneseDate(useEndDate)} 23:59</span>
+            までです。
             <br className="hidden md:block" />
-            このページでは、ユーザーの方がポイ活しやすいように、キャンペーンの内容や、その他近隣エリアのキャンペーンをまとめて紹介しています。
+            このページでは、最短で最大のメリットを得られるよう、キャンペーン概要・申込/利用の流れ・よくある注意点、周辺地域の関連キャンペーンをまとめて紹介します。
           </p>
 
           <div className="my-6">
@@ -130,25 +135,26 @@ export default function VoucherCampaignPage({
           <div className="mt-8">
             <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
           </div>
+
           <AdUnit />
+
+          {/* ===== H2：概要（商品券とは？） ===== */}
           <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
             <h2 className="headline2">
-              PayPay商品券概要｜{prefName}{cityName}のPayPay商品券とは？
+              {prefName}{cityName}のPayPay商品券とは？
             </h2>
             <p>
               <strong>{prefName}{cityName}「{campaigntitle}」</strong>は、
-              <span className="text-brand-primary font-bold">
-                {formatJapaneseDate(applyStartDate)}から{formatJapaneseDate(applyEndDate)}
-              </span>
-              までの申込期間中に、対象者が申し込みをして商品券を購入すると、
-              最大で
+              申込期間中に対象者が申し込み、当選後に購入できる
+              プレミアム商品券（PayPay商品券）です。最大で
               <span className="text-brand-primary font-bold">
                 {formatNumber(maxDiscount)}円
               </span>
-              お得になる商品券です。
+              お得にお買い物ができます。
             </p>
           </section>
 
+          {/* ===== H2：概要テーブル ===== */}
           <VoucherCampaignOverviewTable
             purchasePrice={purchasePrice}
             resultAnnounceDate={resultAnnounceDate}
@@ -162,14 +168,23 @@ export default function VoucherCampaignPage({
             applicationUrl={applicationUrl}
           />
 
-          <VoucherApplicationFlow campaignUrl={pageUrl} />
-          <VoucherRedemptionGuide />
+          {/* ===== H2：申込フロー ===== */}
+          <section className="mt-10">
+            <h2 className="headline2">申込方法（ステップ解説）</h2>
+            <VoucherApplicationFlow campaignUrl={pageUrl} />
+          </section>
+
+          {/* ===== H2：利用方法 ===== */}
+          <section className="mt-10">
+            <h2 className="headline2">利用方法（支払いの流れ）</h2>
+            <VoucherRedemptionGuide />
+          </section>
 
           <div className="mt-8">
             <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
           </div>
 
-          {/* ✅ 他のPay系キャンペーン */}
+          {/* ✅ 他のPay系キャンペーン（内部回遊） */}
           <OtherPaytypesCampaigns
             prefectureSlug={prefectureSlug}
             citySlug={citySlug}

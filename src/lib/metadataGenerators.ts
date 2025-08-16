@@ -156,12 +156,8 @@ export function getPaytypeMetadata(
   const ogImageUrl = `https://paycancampaign.com/images/campaigns/ogp/${prefectureSlug}-${citySlug}-${paytype}-ogp.jpg?v=1`;
 
   // ▼ ここがタイトル生成の新ロジック
-  const year = new Date(startDate).getFullYear();
-  const capYen = Number((campaign as any).fullpoint ?? 0); // 期間上限P≒円
-  const capPart = capYen > 0 ? `(最大${capYen.toLocaleString("ja-JP")}円)` : "";
-  const title = `${city}の${paytypeLabel}${offer}％還元${capPart}${year}年対象店舗一覧- Payキャン`;
-
-  const description = `${prefecture}${city}で${formatDate(startDate)}から${formatDate(endDate)}まで${paytypeLabel}による${offer}％還元キャンペーン開催中。最短で最大の還元を受け取れるように飲食店、小売りなどジャンル別に対象店舗一覧を紹介しています。`;
+  const title = `${city}の${paytypeLabel}キャンペーン|対象店舗一覧 最大${offer}％還元-Payキャン`;
+  const description = `${prefecture}${city}の${paytypeLabel}${offer}％還元キャンペーン情報。${formatDate(startDate)}から${formatDate(endDate)}まで実施されます。最短で最大の還元を受け取れるように飲食店、スーパー・ドラッグストアなど対象店舗一覧で紹介。開催期間や付与上限も解説。`;
 
   return {
     title,

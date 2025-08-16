@@ -42,7 +42,7 @@ export default function VoucherCampaignOverviewTable({
         <Row label="対象者" value={eligiblePersons} />
         <Row
           label="申込期間"
-          value={`${formatJapaneseDate(applyStartDate)} 10:00 ～ ${formatJapaneseDate(applyEndDate)}`}
+          value={`${formatJapaneseDate(applyStartDate)} ～ ${formatJapaneseDate(applyEndDate)}`}
         />
         {applicationUrl && (
           <Row

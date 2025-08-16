@@ -75,12 +75,8 @@ export function getVoucherMetadata(
   // 商品券は PayPay 固定
   const payLabel = "PayPay";
 
-  const title = `${city}の${payLabel}商品券｜最大${rate}%お得【${year}】– Payキャン`;
-  const description = `${prefecture}${city}の${payLabel}商品券。申込期間は${formatJP(
-    start
-  )}〜${formatJP(end)}。最大${benefit.toLocaleString(
-    "ja-JP"
-  )}円お得（上限${maxUnits}口）。対象者・利用期限などをわかりやすく解説。`;
+  const title = `${city}の${payLabel}商品券${year}｜最大${rate}%お得！申込方法と概要–Payキャン`;
+  const description = `${prefecture}${city}の${payLabel}商品券は、最大${rate}%お得に購入できるプレミアム商品券です。申込期間、購入上限、対象者、利用方法をわかりやすく解説します。地域で賢く節約できるチャンスをチェックしてください。`;
 
   return {
     title,
