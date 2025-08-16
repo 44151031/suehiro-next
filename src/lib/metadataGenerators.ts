@@ -83,9 +83,9 @@ export function getCityMetadata(
   const ogImageUrl = `https://paycancampaign.com/images/campaigns/${prefectureSlug}-${citySlug}.jpg?v=1`;
 
   const title = active.length > 0
-    ? `${city}で開催中の合計${total.toLocaleString("ja-JP")}円分還元キャンペーン-Payキャン`
+    ? `${city}のキャッシュレスキャンペーン!合計${total.toLocaleString("ja-JP")}円分還元-Payキャン`
     : future.length > 0
-      ? `${city}で近日開催予定の合計${futureTotal.toLocaleString("ja-JP")}円分還元キャンペーン-Payキャン`
+      ? `${city}で開催予定のキャッシュレスキャンペーン!合計${futureTotal.toLocaleString("ja-JP")}円分還元-Payキャン`
       : `${city}のキャッシュレスキャンペーン一覧-Payキャン`;
 
   const description = active.length > 0
