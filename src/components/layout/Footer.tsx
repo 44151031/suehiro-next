@@ -10,7 +10,6 @@ import Container from "@/components/layout/Container";
 
 export default function Footer() {
   const [showPrefectures, setShowPrefectures] = useState(false);
-  const excludedSlugs = [];
 
   const group1 = ["北海道・東北", "関東", "中部"];
   const group2 = ["近畿", "中国", "四国", "九州・沖縄"];
@@ -95,19 +94,15 @@ export default function Footer() {
                 <div className="flex flex-wrap gap-2">
                   {prefectures
                     .filter(p => p.group === group)
-                    .map(p =>
-                      excludedSlugs.includes(p.slug) ? (
-                        <span key={p.slug} className="text-gray-400">{p.name}</span>
-                      ) : (
-                        <Link
-                          key={p.slug}
-                          href={`/campaigns/${p.slug}`}
-                          className="text-gray-700 hover:text-accent transition"
-                        >
-                          {p.name}
-                        </Link>
-                      )
-                    )}
+                    .map(p => (
+                      <Link
+                        key={p.slug}
+                        href={`/campaigns/${p.slug}`}
+                        className="text-gray-700 hover:text-accent transition"
+                      >
+                        {p.name}
+                      </Link>
+                    ))}
                 </div>
               </div>
             ))}
@@ -121,19 +116,15 @@ export default function Footer() {
                 <div className="flex flex-wrap gap-2">
                   {prefectures
                     .filter(p => p.group === group)
-                    .map(p =>
-                      excludedSlugs.includes(p.slug) ? (
-                        <span key={p.slug} className="text-gray-400">{p.name}</span>
-                      ) : (
-                        <Link
-                          key={p.slug}
-                          href={`/campaigns/${p.slug}`}
-                          className="text-gray-700 hover:text-accent transition"
-                        >
-                          {p.name}
-                        </Link>
-                      )
-                    )}
+                    .map(p => (
+                      <Link
+                        key={p.slug}
+                        href={`/campaigns/${p.slug}`}
+                        className="text-gray-700 hover:text-accent transition"
+                      >
+                        {p.name}
+                      </Link>
+                    ))}
                 </div>
               </div>
             ))}
@@ -155,19 +146,15 @@ export default function Footer() {
                     <div className="flex flex-wrap justify-center gap-2 text-sm">
                       {prefectures
                         .filter(p => p.group === group)
-                        .map(p =>
-                          excludedSlugs.includes(p.slug) ? (
-                            <span key={p.slug} className="text-gray-400">{p.name}</span>
-                          ) : (
-                            <Link
-                              key={p.slug}
-                              href={`/campaigns/${p.slug}`}
-                              className="text-gray-700 transition no-underline"
-                            >
-                              {p.name}
-                            </Link>
-                          )
-                        )}
+                        .map(p => (
+                          <Link
+                            key={p.slug}
+                            href={`/campaigns/${p.slug}`}
+                            className="text-gray-700 transition no-underline"
+                          >
+                            {p.name}
+                          </Link>
+                        ))}
                     </div>
                   </div>
                 ))}
