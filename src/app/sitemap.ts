@@ -18,16 +18,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${siteUrl}/campaigns/archive`, lastModified: now }, // ✅ 追加されたアーカイブページ
   ];
 
-  // ✅ 都道府県別ページ（高知・鳥取を除外）
-  const excluded = new Set(["kochi", "tottori"]);
-  const prefectureSlugs = Array.from(
-    new Set(campaigns.map((c) => c.prefectureSlug))
-  ).filter((slug) => !excluded.has(slug));
-  const prefecturePages = prefectureSlugs.map((slug) => ({
-    url: `${siteUrl}/campaigns/${slug}`,
-    lastModified: now,
-  }));
-
   // ✅ 市区町村ページ（重複排除）
   const citySet = new Set<string>();
   const cityPages = campaigns

@@ -21,6 +21,12 @@ import { hasVoucherCampaign } from "@/lib/voucherUtils";
 import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster";
 import VoucherCampaignCardList from "@/components/common/VoucherCampaignCardList";
 
+// 例：簡易ラベル（必要な県だけでもOK）
+const PREF_LABELS: Record<string, string> = {
+  tottori: "鳥取県",
+  kochi: "高知県",
+};
+
 type Props = {
   params: { prefecture: string };
 };
@@ -33,9 +39,9 @@ export default function PrefecturePage({ params }: Props) {
   const { prefecture } = params;
 
   const list = campaigns.filter((c) => c.prefectureSlug === prefecture);
-  if (list.length === 0) return notFound();
+  const prefectureName =
+    list[0]?.prefecture ?? PREF_LABELS[prefecture] ?? prefecture;
 
-  const prefectureName = list[0].prefecture;
   const activeList = getActiveCampaignsByPrefecture(prefecture, campaigns);
   const active = activeList.filter(
     (c) => getCampaignStatus(c.startDate, c.endDate) === "active"
@@ -119,7 +125,7 @@ export default function PrefecturePage({ params }: Props) {
               )
             ) : (
               <p className="text-base sm:text-lg text-neutral-700 leading-snug font-semibold">
-                現在、{prefectureName}で開催中または予定されているキャンペーンはありません。
+                現在、{prefectureName}で開催中または予定されているキャッシュレスキャンペーンはありません。
               </p>
             )}
           </div>
@@ -147,7 +153,7 @@ export default function PrefecturePage({ params }: Props) {
               hashtags={shareHashtags}
             />
           </div>
-          
+
           {/* 同一エリアの他県キャンペーン */}
           {(() => {
             const currentPref = prefectures.find((p) => p.slug === prefecture);
