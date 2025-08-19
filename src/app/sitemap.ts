@@ -49,9 +49,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: (c as any).dateModified ?? (c as any).datePublished ?? now,
     }));
 
-  // ✅ 商品券（voucher）ページ
-  const voucherPages: MetadataRoute.Sitemap = voucherCampaignMaster.map((v) => ({
-    url: `${siteUrl}/campaigns/${v.prefectureSlug}/${v.citySlug}/${v.pay}`,
+// ✅ 商品券（voucher）ページ
+const voucherPages: MetadataRoute.Sitemap = voucherCampaignMaster
+  .filter((v) => !!v.prefectureSlug && !!v.citySlug && !!v.paytype) // 念のため
+  .map((v) => ({
+    url: `${siteUrl}/campaigns/${v.prefectureSlug}/${v.citySlug}/${v.paytype}`, // ← v.pay → v.paytype
     lastModified: (v as any).dateModified ?? (v as any).datePublished ?? now,
   }));
 
