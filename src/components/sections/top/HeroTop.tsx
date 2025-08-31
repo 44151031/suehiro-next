@@ -14,6 +14,14 @@ function truncate(text: string | undefined, max: number) {
   return text.length > max ? text.slice(0, max) + "…" : text;
 }
 
+// ← 追加：ローカル日付として解釈するヘルパー
+function parseLocalDate(dateStr: string, endOfDay = false) {
+  const [y, m, d] = dateStr.split("-").map(Number);
+  return endOfDay
+    ? new Date(y, m - 1, d, 23, 59, 59, 999) // その日の終端
+    : new Date(y, m - 1, d, 0, 0, 0, 0);     // その日の始端
+}
+
 export default function HeroTop() {
   const [slides, setSlides] = useState<
     {
@@ -44,11 +52,26 @@ export default function HeroTop() {
 
   useEffect(() => {
     const now = new Date();
-    const active = campaigns.filter(
-      (c) => new Date(c.startDate) <= now && new Date(c.endDate) >= now
-    );
 
-    const shuffled = [...active].sort(() => 0.5 - Math.random()).slice(0, 5);
+    // 現在有効（start<=now<=end(23:59:59.999)）
+    const active = campaigns.filter((c) => {
+      const sd = parseLocalDate(c.startDate, false);
+      const ed = parseLocalDate(c.endDate, true);
+      return sd <= now && ed >= now;
+    });
+
+    // 近日開始（今後30日以内に開始）※足りない分だけフォールバック
+    const soon = campaigns
+      .filter((c) => {
+        const sd = parseLocalDate(c.startDate, false);
+        const diff = sd.getTime() - now.getTime();
+        return diff > 0 && diff <= 30 * 24 * 60 * 60 * 1000; // 30日以内
+      })
+      .sort((a, b) => parseLocalDate(a.startDate).getTime() - parseLocalDate(b.startDate).getTime());
+
+    // 表示候補の確定（最大5件）
+    const pool = active.length >= 5 ? active : [...active, ...soon];
+    const shuffled = [...pool].sort(() => 0.5 - Math.random()).slice(0, 5);
 
     const formatted = shuffled.map((c) => ({
       image: `/images/campaigns/${c.prefectureSlug}-${c.citySlug}.webp`,
@@ -65,7 +88,7 @@ export default function HeroTop() {
     if (instanceRef.current) {
       instanceRef.current.update();
     }
-  }, [slides]);
+  }, [slides, instanceRef]);
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -77,20 +100,14 @@ export default function HeroTop() {
         }
       }
     }, 4000);
-
     return () => clearInterval(interval);
   }, [instanceRef]);
 
   return (
     <section className="bg-gradient-to-r from-red-500 to-pink-500 text-white py-10 overflow-hidden">
-      <div
-        ref={sliderRef}
-        className="keen-slider max-w-[100vw] px-6 sm:px-8 lg:px-12"
-      >
+      <div ref={sliderRef} className="keen-slider max-w-[100vw] px-6 sm:px-8 lg:px-12">
         {slides.map((slide, idx) => {
-          const paytypeLabel = slide.paytype
-            ? PayTypeLabels[slide.paytype] ?? ""
-            : "";
+          const paytypeLabel = slide.paytype ? PayTypeLabels[slide.paytype] ?? "" : "";
           return (
             <div
               key={idx}
@@ -118,14 +135,10 @@ export default function HeroTop() {
                 <h2 className="text-base sm:text-xl md:text-2xl font-bold mb-1 drop-shadow">
                   {slide.title}
                 </h2>
-                <p className="text-xs sm:text-sm md:text-base mb-2 text-white/90">
-                  {slide.description}
-                </p>
+                <p className="text-xs sm:text-sm md:text-base mb-2 text-white/90">{slide.description}</p>
                 <Button asChild variant="secondary" size="sm">
                   <Link href={slide.href}>
-                    {paytypeLabel
-                      ? `${paytypeLabel}キャンペーンを見る`
-                      : "キャンペーンを見る"}
+                    {paytypeLabel ? `${paytypeLabel}キャンペーンを見る` : "キャンペーンを見る"}
                   </Link>
                 </Button>
               </div>
