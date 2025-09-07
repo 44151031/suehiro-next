@@ -38,11 +38,10 @@
     "incremental": true,
 
     // Next.js の補助プラグイン
-    "plugins": [
-      {
-        "name": "next"
-      }
-    ],
+    "plugins": [{ "name": "next" }],
+
+    // ✅ ここを追加：エイリアスの基準パスをプロジェクト直下に固定
+    "baseUrl": ".",
 
     // ✅ エイリアス（@/components などを使うための設定）
     "paths": {
@@ -51,12 +50,7 @@
   },
 
   // ✅ コンパイル対象のファイルを指定
-  "include": [
-    "next-env.d.ts",
-    "**/*.ts",
-    "**/*.tsx",
-    ".next/types/**/*.ts"
-  ],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
 
   // node_modules は除外
   "exclude": ["node_modules"]
