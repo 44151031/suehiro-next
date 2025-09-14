@@ -1,14 +1,14 @@
 // src/app/articles/[year]/[month]/[slug]/page.tsx
 import { notFound, redirect } from "next/navigation";
 import type { Metadata } from "next";
-import { createClientServer } from "@/lib/supabase/server";
+import { createClientServerRSC } from "@/lib/supabase/rsc";
 import { absoluteUrl } from "@/lib/url";
 import Markdown from "@/components/articles/Markdown"; // ★ 追加
 
 type Params = { year: string; month: string; slug: string };
 
 async function fetchArticleBySlug(slug: string) {
-  const supabase = createClientServer();
+  const supabase = await createClientServerRSC();
   const { data, error } = await supabase
     .from("articles")
     .select(

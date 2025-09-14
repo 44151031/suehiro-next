@@ -12,6 +12,7 @@ import Cta from "@/components/sections/top/TopCta";
 import LocationSortSection from "@/components/sections/top/GetLocationButtonSection";
 import { getTopPageMetadata } from "@/lib/metadataStaticGenerators";
 import TopPageStructuredData from "@/components/structured/TopPageStructuredData"; // ✅ 追加
+import LatestArticles from "@/components/sections/top/LatestArticles";
 
 export const metadata = getTopPageMetadata();
 
@@ -28,6 +29,7 @@ export default function HomePage() {
         <PrefectureList />
         <HighDiscountCampaigns />
         <EndingSoonCampaigns />
+        <LatestArticles />
         <PopularSearches />
         <Cta />
       </main>

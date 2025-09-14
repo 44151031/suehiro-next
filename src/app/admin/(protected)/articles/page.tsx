@@ -1,7 +1,7 @@
 // src/app/admin/articles/page.tsx
 import Link from "next/link";
 import { redirect } from "next/navigation";
-import { createClientServer } from "@/lib/supabase/server";
+import { createClientServerRSC } from "@/lib/supabase/rsc";
 
 type SearchParams = {
   q?: string;
@@ -13,7 +13,7 @@ export default async function AdminArticlesPage({
 }: {
   searchParams: SearchParams;
 }) {
-  const supabase = createClientServer();
+  const supabase = await createClientServerRSC();
 
   // 認証と管理者チェック
   const { data: { user } } = await supabase.auth.getUser();

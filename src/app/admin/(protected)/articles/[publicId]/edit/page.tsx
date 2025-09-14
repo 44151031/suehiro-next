@@ -16,7 +16,7 @@ export type Article = {
 };
 
 export default async function Page({ params }: { params: { publicId: string } }) {
-  const supabase = createClientServer();
+  const supabase = await createClientServer();
 
   if (process.env.NEXT_PUBLIC_SKIP_ADMIN_CHECK !== "true") {
     const { data: { user } } = await supabase.auth.getUser();

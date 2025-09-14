@@ -1,17 +1,23 @@
 import { cookies } from "next/headers";
 import { createServerClient, type CookieOptions } from "@supabase/ssr";
 
-export function createClientServer() {
-  const cookieStore = cookies();
+/** Route Handler / Server Action 専用: cookie の set/remove が可能 */
+export async function createClientServer() {
+  const cookieStore = await cookies();
+
   return createServerClient(
     process.env.NEXT_PUBLIC_SUPABASE_URL!,
     process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!,
     {
       cookies: {
-        get: (n) => cookieStore.get(n)?.value,
-        set: (n, v, o: CookieOptions) => cookieStore.set({ name: n, value: v, ...o }),
-        remove: (n, o: CookieOptions) => cookieStore.set({ name: n, value: "", ...o })
-      }
+        get: (name: string) => cookieStore.get(name)?.value,
+        set: (name: string, value: string, options: CookieOptions) => {
+          cookieStore.set({ name, value, ...options });
+        },
+        remove: (name: string, options: CookieOptions) => {
+          cookieStore.set({ name, value: "", ...options });
+        },
+      },
     }
   );
 }
