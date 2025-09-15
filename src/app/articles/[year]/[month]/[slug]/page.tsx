@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { createClientServerRSC } from "@/lib/supabase/rsc";
 import { absoluteUrl } from "@/lib/url";
 import Markdown from "@/components/articles/Markdown";
+import Link from "next/link";
 
 type Params = { year: string; month: string; slug: string };
 
@@ -117,6 +118,7 @@ export default async function ArticlePage({ params }: { params: Params }) {
         {/* Hero 画像 */}
         {a.hero_image_url ? (
           <div className="mb-6">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={a.hero_image_url}
               alt={a.title}
@@ -126,7 +128,7 @@ export default async function ArticlePage({ params }: { params: Params }) {
         ) : null}
 
         {/* タイトル・デッキ */}
-        <header className="mb-6">
+        <header className="mb-8">
           <h1 className="text-3xl font-bold leading-tight">{a.title}</h1>
           {a.dek ? (
             <p className="mt-3 text-lg text-gray-600">{a.dek}</p>
@@ -144,11 +146,42 @@ export default async function ArticlePage({ params }: { params: Params }) {
           <Markdown source={a.body_md ?? ""} />
         </section>
 
-        {/* 関連記事（例: 同じ月の記事を一覧化するなど拡張余地あり） */}
+        {/* シェアボタン */}
+        <div className="mt-12 flex gap-4">
+          <Link
+            href={`https://twitter.com/share?url=${encodeURIComponent(
+              absoluteUrl(`/articles/${y}/${m}/${a.slug}`)
+            )}&text=${encodeURIComponent(a.title)}`}
+            target="_blank"
+            className="text-sm text-blue-500 underline"
+          >
+            Xでシェア
+          </Link>
+          <Link
+            href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
+              absoluteUrl(`/articles/${y}/${m}/${a.slug}`)
+            )}`}
+            target="_blank"
+            className="text-sm text-blue-700 underline"
+          >
+            Facebookでシェア
+          </Link>
+          <Link
+            href={`https://social-plugins.line.me/lineit/share?url=${encodeURIComponent(
+              absoluteUrl(`/articles/${y}/${m}/${a.slug}`)
+            )}`}
+            target="_blank"
+            className="text-sm text-green-600 underline"
+          >
+            LINEでシェア
+          </Link>
+        </div>
+
+        {/* 関連記事（ダミー） */}
         <footer className="mt-12 border-t pt-6">
           <h2 className="mb-4 text-lg font-semibold">関連記事</h2>
           <p className="text-sm text-gray-500">
-            関連記事やおすすめキャンペーンをここに差し込み予定
+            同じエリア・カテゴリの記事をここに差し込む予定です。
           </p>
         </footer>
       </article>
