@@ -1,9 +1,8 @@
-// src/app/articles/[year]/[month]/[slug]/page.tsx
 import { notFound, redirect } from "next/navigation";
 import type { Metadata } from "next";
 import { createClientServerRSC } from "@/lib/supabase/rsc";
 import { absoluteUrl } from "@/lib/url";
-import Markdown from "@/components/articles/Markdown"; // ★ 追加
+import Markdown from "@/components/articles/Markdown";
 
 type Params = { year: string; month: string; slug: string };
 
@@ -28,7 +27,6 @@ export async function generateMetadata(
   const a = await fetchArticleBySlug(params.slug);
   if (!a || !a.published_at) return {};
 
-  // 正規の年月に揃えたパス
   const pub = new Date(a.published_at);
   const y = String(pub.getFullYear());
   const m = String(pub.getMonth() + 1).padStart(2, "0");
@@ -38,7 +36,7 @@ export async function generateMetadata(
   const title = a.title ?? siteName;
   const description = a.dek || `${siteName}のキャンペーン情報`;
   const ogImg =
-    a.og_image_url || a.hero_image_url || absoluteUrl("/og-default.jpg"); // ←無ければデフォルト画像
+    a.og_image_url || a.hero_image_url || absoluteUrl("/og-default.jpg");
 
   return {
     title,
@@ -79,7 +77,6 @@ export default async function ArticlePage({ params }: { params: Params }) {
   const a = await fetchArticleBySlug(params.slug);
   if (!a || !a.published_at) notFound();
 
-  // カノニカルな年月に強制
   const pub = new Date(a.published_at);
   const y = String(pub.getFullYear());
   const m = String(pub.getMonth() + 1).padStart(2, "0");
@@ -87,7 +84,7 @@ export default async function ArticlePage({ params }: { params: Params }) {
     redirect(`/articles/${y}/${m}/${a.slug}`);
   }
 
-  // JSON-LD（Article）
+  // JSON-LD
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Article",
@@ -110,18 +107,31 @@ export default async function ArticlePage({ params }: { params: Params }) {
 
   return (
     <main className="mx-auto max-w-3xl px-4 py-8">
-      {/* JSON-LD を head に出す（App RouterではここでOK） */}
+      {/* JSON-LD */}
       <script
         type="application/ld+json"
-        // eslint-disable-next-line react/no-danger
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
       <article>
+        {/* Hero 画像 */}
+        {a.hero_image_url ? (
+          <div className="mb-6">
+            <img
+              src={a.hero_image_url}
+              alt={a.title}
+              className="w-full rounded-xl shadow-md"
+            />
+          </div>
+        ) : null}
+
+        {/* タイトル・デッキ */}
         <header className="mb-6">
-          <h1 className="text-2xl font-semibold">{a.title}</h1>
-          {a.dek ? <p className="mt-2 text-gray-600">{a.dek}</p> : null}
-          <p className="mt-2 text-sm text-gray-500">
+          <h1 className="text-3xl font-bold leading-tight">{a.title}</h1>
+          {a.dek ? (
+            <p className="mt-3 text-lg text-gray-600">{a.dek}</p>
+          ) : null}
+          <p className="mt-3 text-sm text-gray-500">
             公開日：{new Date(a.published_at).toLocaleDateString("ja-JP")}
             {a.updated_at ? (
               <>（最終更新：{new Date(a.updated_at).toLocaleDateString("ja-JP")}）</>
@@ -129,16 +139,18 @@ export default async function ArticlePage({ params }: { params: Params }) {
           </p>
         </header>
 
-        {a.hero_image_url ? (
-          <div className="mb-6">
-            <img src={a.hero_image_url} alt={a.title} className="w-full rounded" />
-          </div>
-        ) : null}
-
-        {/* ★ ここを Markdown コンポーネントに置き換え */}
-        <section className="prose prose-neutral max-w-none">
+        {/* 本文 */}
+        <section className="prose prose-lg prose-neutral max-w-none">
           <Markdown source={a.body_md ?? ""} />
         </section>
+
+        {/* 関連記事（例: 同じ月の記事を一覧化するなど拡張余地あり） */}
+        <footer className="mt-12 border-t pt-6">
+          <h2 className="mb-4 text-lg font-semibold">関連記事</h2>
+          <p className="text-sm text-gray-500">
+            関連記事やおすすめキャンペーンをここに差し込み予定
+          </p>
+        </footer>
       </article>
     </main>
   );
