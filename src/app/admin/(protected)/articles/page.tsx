@@ -1,4 +1,3 @@
-// src/app/admin/articles/page.tsx
 import Link from "next/link";
 import { redirect } from "next/navigation";
 import { createClientServerRSC } from "@/lib/supabase/rsc";
@@ -16,7 +15,9 @@ export default async function AdminArticlesPage({
   const supabase = await createClientServerRSC();
 
   // 認証と管理者チェック
-  const { data: { user } } = await supabase.auth.getUser();
+  const {
+    data: { user },
+  } = await supabase.auth.getUser();
   if (!user) redirect("/admin/login");
   const { data: me } = await supabase
     .from("profiles")
@@ -61,7 +62,11 @@ export default async function AdminArticlesPage({
       </div>
 
       {/* 検索フォーム（GET） */}
-      <form className="mb-4 grid gap-3 sm:grid-cols-3" action="/admin/articles" method="get">
+      <form
+        className="mb-4 grid gap-3 sm:grid-cols-3"
+        action="/admin/articles"
+        method="get"
+      >
         <input
           name="q"
           defaultValue={q}
@@ -100,29 +105,44 @@ export default async function AdminArticlesPage({
           <tbody>
             {(rows ?? []).map((r) => (
               <tr key={r.id} className="hover:bg-gray-50">
-                <td className="border-b px-3 py-2 tabular-nums">{r.public_id}</td>
+                <td className="border-b px-3 py-2 tabular-nums">
+                  {r.public_id}
+                </td>
                 <td className="border-b px-3 py-2">{r.title}</td>
                 <td className="border-b px-3 py-2 text-gray-600">{r.slug}</td>
                 <td className="border-b px-3 py-2">{r.status}</td>
                 <td className="border-b px-3 py-2">
-                  {r.published_at ? new Date(r.published_at).toLocaleString("ja-JP") : "-"}
+                  {r.published_at
+                    ? new Date(r.published_at).toLocaleString("ja-JP")
+                    : "-"}
                 </td>
                 <td className="border-b px-3 py-2">
-                  {r.updated_at ? new Date(r.updated_at).toLocaleString("ja-JP") : "-"}
+                  {r.updated_at
+                    ? new Date(r.updated_at).toLocaleString("ja-JP")
+                    : "-"}
                 </td>
-                <td className="border-b px-3 py-2">
+                <td className="border-b px-3 py-2 space-x-3">
                   <Link
                     className="text-gray-900 underline"
                     href={`/admin/articles/${r.public_id}/edit`}
                   >
-                    Edit
+                    編集
+                  </Link>
+                  <Link
+                    className="text-green-600 underline"
+                    href={`/admin/articles/${r.public_id}/image`}
+                  >
+                    画像
                   </Link>
                 </td>
               </tr>
             ))}
             {(!rows || rows.length === 0) && (
               <tr>
-                <td colSpan={7} className="px-3 py-8 text-center text-gray-500">
+                <td
+                  colSpan={7}
+                  className="px-3 py-8 text-center text-gray-500"
+                >
                   記事がありません
                 </td>
               </tr>
