@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
+import { createServerClient } from "@supabase/ssr";
 
 /** ===== 設定 ===== */
 
@@ -16,7 +17,7 @@ const skipBasic = process.env.NEXT_PUBLIC_SKIP_BASIC === "1";
 const PROTECTED_PREFIXES = ["/admin", "/api/admin"];
 
 /** ===== メイン処理 ===== */
-export function middleware(req: NextRequest) {
+export async function middleware(req: NextRequest) {
   const { pathname } = req.nextUrl;
   const res = NextResponse.next();
 
@@ -49,6 +50,35 @@ export function middleware(req: NextRequest) {
     url.pathname = "/maintenance";
     // 書き換え (rewrite) で OK（/maintenance ページの見た目で表示）
     return NextResponse.rewrite(url);
+  }
+
+  // --- Supabase 認証チェック（/admin 配下のみ） ---
+  if (pathname.startsWith("/admin") && !pathname.startsWith("/admin/login")) {
+    const supabase = createServerClient(
+      process.env.NEXT_PUBLIC_SUPABASE_URL!,
+      process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!,
+      {
+        cookies: {
+          get: (key) => req.cookies.get(key)?.value,
+          set: (key, value, options) => {
+            res.cookies.set({ name: key, value, ...options });
+          },
+          remove: (key, options) => {
+            res.cookies.set({ name: key, value: "", ...options });
+          },
+        },
+      }
+    );
+
+    const {
+      data: { session },
+    } = await supabase.auth.getSession();
+
+    if (!session) {
+      const loginUrl = req.nextUrl.clone();
+      loginUrl.pathname = "/admin/login";
+      return NextResponse.redirect(loginUrl);
+    }
   }
 
   return res;
