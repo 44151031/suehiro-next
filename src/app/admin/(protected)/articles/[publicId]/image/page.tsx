@@ -22,12 +22,24 @@ export default function ArticleImagePage() {
       // プレビュー用にURL生成
       setPreview(URL.createObjectURL(file));
 
-      // 保存先: articles-public/{publicId}.jpg
-      const filePath = `articles-public/${publicId}.jpg`;
+      // 既存の拡張子違いを削除（jpg, jpeg, png, webp）
+      await supabaseClient.storage.from("articles-public").remove([
+        `${publicId}.jpg`,
+        `${publicId}.jpeg`,
+        `${publicId}.png`,
+        `${publicId}.webp`,
+      ]);
+
+      // 新しい拡張子を取得して保存
+      const ext = file.name.split(".").pop();
+      const filePath = `articles-public/${publicId}.${ext}`;
 
       const { error: uploadError } = await supabaseClient.storage
         .from("articles-public")
-        .upload(filePath, file, { upsert: true });
+        .upload(filePath, file, {
+          upsert: true,
+          contentType: file.type,
+        });
 
       if (uploadError) throw uploadError;
 
@@ -46,7 +58,7 @@ export default function ArticleImagePage() {
 
       if (dbError) throw dbError;
 
-      setMsg("アップロード完了！");
+      setMsg("アップロード完了！（古い画像は削除済み）");
     } catch (err: any) {
       setMsg("エラー: " + err.message);
     } finally {
@@ -54,7 +66,13 @@ export default function ArticleImagePage() {
     }
   };
 
-  const { getRootProps, getInputProps, isDragActive } = useDropzone({ onDrop });
+  // Dropzone 設定：webp も許可
+  const { getRootProps, getInputProps, isDragActive } = useDropzone({
+    onDrop,
+    accept: {
+      "image/*": [".png", ".jpg", ".jpeg", ".webp"],
+    },
+  });
 
   return (
     <div className="p-6">
