@@ -24,10 +24,10 @@ export default async function AdminProtectedLayout({
       <header className="border-b bg-white/90 backdrop-blur">
         <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-3">
           <div className="flex items-center gap-3">
-            <Link href="/admin" className="font-semibold">Admin</Link>
+            <Link href="/admin" className="font-semibold">管理画面トップ</Link>
             <span className="text-gray-300">|</span>
             <nav className="flex items-center gap-4 text-sm">
-              <Link href="/admin/articles" className="hover:underline">記事管理</Link>
+              <Link href="/admin/articles" className="hover:underline">記事一覧</Link>
               <Link href="/admin/logout" className="text-red-600 hover:underline">ログアウト</Link>
             </nav>
           </div>
