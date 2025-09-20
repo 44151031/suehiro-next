@@ -1,13 +1,11 @@
 "use client";
 
 import { useState } from "react";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useRouter } from "next/navigation";
 import { supabaseClient } from "@/lib/supabase/client";
 
 export default function LoginForm() {
   const router = useRouter();
-  const search = useSearchParams();
-  const redirect = search.get("redirect") || "/admin/articles";
 
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -24,7 +22,8 @@ export default function LoginForm() {
         password,
       });
       if (error) throw error;
-      router.replace(redirect);
+      // ✅ ログイン成功後は必ず管理画面トップへ
+      router.replace("/admin");
     } catch (err: any) {
       setMsg(err.message);
     } finally {
@@ -34,7 +33,7 @@ export default function LoginForm() {
 
   return (
     <div className="flex justify-center bg-gray-50 px-4">
-      <div className="w-full max-w-md mt-12 mb-12"> {/* ← ここで余白を指定 */}
+      <div className="w-full max-w-md mt-12 mb-12">
         <div className="w-full max-w-md bg-white rounded-xl shadow-md p-8">
           <h1 className="text-2xl font-bold text-center mb-6 text-gray-800">
             管理者ログイン
@@ -51,7 +50,7 @@ export default function LoginForm() {
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 required
-                className="w-full rounded-lg border border-gray-300 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-black focus:border-black"
+                className="w-full rounded-lg border border-gray-300 bg-white px-3 py-2 focus:outline-none focus:ring-2 focus:ring-black focus:border-black"
               />
             </div>
 
@@ -65,7 +64,7 @@ export default function LoginForm() {
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
                 required
-                className="w-full rounded-lg border border-gray-300 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-black focus:border-black"
+                className="w-full rounded-lg border border-gray-300 bg-white px-3 py-2 focus:outline-none focus:ring-2 focus:ring-black focus:border-black"
               />
             </div>
 

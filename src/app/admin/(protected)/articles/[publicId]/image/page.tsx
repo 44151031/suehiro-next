@@ -3,13 +3,30 @@
 import { useParams } from "next/navigation";
 import { useDropzone } from "react-dropzone";
 import { supabaseClient } from "@/lib/supabase/client";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 export default function ArticleImagePage() {
   const { publicId } = useParams<{ publicId: string }>();
   const [uploading, setUploading] = useState(false);
   const [msg, setMsg] = useState<string | null>(null);
   const [preview, setPreview] = useState<string | null>(null);
+  const [currentImage, setCurrentImage] = useState<string | null>(null);
+
+  // 初期表示：DBから現在の画像を取得
+  useEffect(() => {
+    async function fetchCurrentImage() {
+      const { data, error } = await supabaseClient
+        .from("articles")
+        .select("hero_image_url")
+        .eq("public_id", publicId)
+        .single();
+
+      if (!error && data?.hero_image_url) {
+        setCurrentImage(data.hero_image_url);
+      }
+    }
+    fetchCurrentImage();
+  }, [publicId]);
 
   const onDrop = async (acceptedFiles: File[]) => {
     try {
@@ -22,7 +39,7 @@ export default function ArticleImagePage() {
       // プレビュー用にURL生成
       setPreview(URL.createObjectURL(file));
 
-      // 既存の拡張子違いを削除（jpg, jpeg, png, webp）
+      // 古い拡張子違いを削除
       await supabaseClient.storage.from("articles-public").remove([
         `${publicId}.jpg`,
         `${publicId}.jpeg`,
@@ -30,7 +47,7 @@ export default function ArticleImagePage() {
         `${publicId}.webp`,
       ]);
 
-      // 新しい拡張子を取得して保存
+      // 新しい拡張子で保存
       const ext = file.name.split(".").pop();
       const filePath = `articles-public/${publicId}.${ext}`;
 
@@ -50,7 +67,7 @@ export default function ArticleImagePage() {
 
       const imageUrl = data.publicUrl;
 
-      // DBを更新（publicIdで更新）
+      // DBを更新
       const { error: dbError } = await supabaseClient
         .from("articles")
         .update({ hero_image_url: imageUrl })
@@ -59,6 +76,7 @@ export default function ArticleImagePage() {
       if (dbError) throw dbError;
 
       setMsg("アップロード完了！（古い画像は削除済み）");
+      setCurrentImage(imageUrl); // DB更新後、最新画像を反映
     } catch (err: any) {
       setMsg("エラー: " + err.message);
     } finally {
@@ -66,7 +84,6 @@ export default function ArticleImagePage() {
     }
   };
 
-  // Dropzone 設定：webp も許可
   const { getRootProps, getInputProps, isDragActive } = useDropzone({
     onDrop,
     accept: {
@@ -95,9 +112,23 @@ export default function ArticleImagePage() {
       {uploading && <p className="mt-4 text-gray-500">アップロード中...</p>}
       {msg && <p className="mt-4">{msg}</p>}
 
+      {/* 既存画像がある場合 */}
+      {currentImage && !preview && (
+        <div className="mt-6">
+          <p className="mb-2 text-gray-600">現在の画像</p>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={currentImage}
+            alt="current hero"
+            className="max-h-64 rounded shadow"
+          />
+        </div>
+      )}
+
+      {/* 新規アップロードプレビュー */}
       {preview && (
         <div className="mt-6">
-          <p className="mb-2 text-gray-600">プレビュー</p>
+          <p className="mb-2 text-gray-600">新しいプレビュー</p>
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img src={preview} alt="preview" className="max-h-64 rounded shadow" />
         </div>

@@ -4,15 +4,14 @@ import { useForm } from "react-hook-form";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
 import { supabaseClient } from "@/lib/supabase/client";
+import FormInput from "@/components/common/forms/FormInput";
+import FormTextarea from "@/components/common/forms/FormTextarea";
 
 type Form = {
   title: string;
   dek: string;
   slug: string;
   body_md: string;
-  hero_image_url: string;
-  og_image_url: string;
-  status: "draft" | "published" | "scheduled" | "archived";
 };
 
 export default function NewClient({ authorId }: { authorId: string | null }) {
@@ -25,9 +24,6 @@ export default function NewClient({ authorId }: { authorId: string | null }) {
       dek: "",
       slug: "",
       body_md: "",
-      hero_image_url: "",
-      og_image_url: "",
-      status: "draft",
     },
   });
 
@@ -60,13 +56,10 @@ export default function NewClient({ authorId }: { authorId: string | null }) {
         dek: values.dek || null,
         slug: values.slug,
         body_md: values.body_md,
-        hero_image_url: values.hero_image_url || null,
-        og_image_url: values.og_image_url || null,
-        status: values.status,
+        status: "draft", // ✅ 新規は必ず下書き
         created_at: now,
         updated_at: now,
       };
-      if (values.status === "published") payload.published_at = now;
 
       const { data, error } = await supabaseClient
         .from("articles")
@@ -76,10 +69,10 @@ export default function NewClient({ authorId }: { authorId: string | null }) {
 
       if (error) throw error;
 
-      alert("Created");
+      alert("記事を作成しました");
       router.replace(`/admin/articles/${data!.public_id}/edit`);
     } catch (e: any) {
-      alert(e?.message ?? "Error");
+      alert(e?.message ?? "エラーが発生しました");
     } finally {
       setBusy(false);
     }
@@ -88,65 +81,55 @@ export default function NewClient({ authorId }: { authorId: string | null }) {
   const viewSlug = watch("slug");
 
   return (
-    <form onSubmit={handleSubmit(onSubmit)} className="grid max-w-3xl gap-3">
-      <label className="text-sm text-gray-700">Title</label>
-      <input
-        {...register("title", { required: true })}
-        className="rounded-lg border border-gray-300 px-3 py-2"
-      />
-
-      <label className="text-sm text-gray-700">Dek（導入）</label>
-      <input
-        {...register("dek")}
-        className="rounded-lg border border-gray-300 px-3 py-2"
-      />
-
-      <label className="text-sm text-gray-700">Slug</label>
-      <input
-        {...register("slug", { required: true })}
-        className="rounded-lg border border-gray-300 px-3 py-2"
-      />
-
-      <label className="text-sm text-gray-700">Body (Markdown)</label>
-      <textarea
-        {...register("body_md", { required: true })}
-        className="min-h-[240px] rounded-lg border border-gray-300 px-3 py-2"
-      />
-
-      <label className="text-sm text-gray-700">Hero image URL (>=1200px)</label>
-      <input
-        {...register("hero_image_url")}
-        className="rounded-lg border border-gray-300 px-3 py-2"
-      />
-
-      <label className="text-sm text-gray-700">OGP image URL (1200×630)</label>
-      <input
-        {...register("og_image_url")}
-        className="rounded-lg border border-gray-300 px-3 py-2"
-      />
-
-      <label className="text-sm text-gray-700">Status</label>
-      <select
-        {...register("status")}
-        className="rounded-lg border border-gray-300 px-3 py-2"
-      >
-        <option value="draft">draft</option>
-        <option value="published">published</option>
-        <option value="scheduled">scheduled</option>
-        <option value="archived">archived</option>
-      </select>
-
-      <div className="mt-2 flex items-center gap-3">
-        <button
-          disabled={busy}
-          className="rounded-lg bg-gray-900 px-4 py-2 text-white hover:bg-black"
-        >
-          {busy ? "Saving..." : "Create"}
-        </button>
-        <span className="text-sm text-gray-500">
-          プレビューURL例: <code>/articles/2025/11/{viewSlug || "slug"}</code>
-        </span>
+    <div className="p-6 space-y-4">
+      {/* ヘッダー */}
+      <div className="flex items-center justify-between">
+        <h1 className="text-xl font-semibold">新規記事作成</h1>
       </div>
-    </form>
+
+      {/* フォーム本体 */}
+      <form onSubmit={handleSubmit(onSubmit)} className="grid gap-5 max-w-4xl">
+        <FormInput
+          label="タイトル"
+          placeholder="記事タイトル"
+          {...register("title", { required: true })}
+        />
+
+        <FormInput
+          label="ディスク（概要）"
+          placeholder="記事の概要（任意）"
+          {...register("dek")}
+        />
+
+        <FormInput
+          label="スラグ"
+          placeholder="例: my-article-slug"
+          {...register("slug", { required: true })}
+        />
+
+        <FormTextarea
+          label="内容（Markdown）"
+          placeholder="記事本文をMarkdownで入力"
+          className="min-h-[320px]"
+          {...register("body_md", { required: true })}
+        />
+
+        {/* ボタン */}
+        <div className="flex items-center gap-3 pt-2">
+          <button
+            disabled={busy}
+            className="bg-gray-900 text-white rounded px-4 py-2"
+          >
+            {busy ? "作成中..." : "作成"}
+          </button>
+        </div>
+
+        {/* プレビューURL例 */}
+        <p className="text-sm text-gray-500">
+          プレビューURL例:{" "}
+          <code>/articles/2025/11/{viewSlug || "slug"}</code>
+        </p>
+      </form>
+    </div>
   );
 }
