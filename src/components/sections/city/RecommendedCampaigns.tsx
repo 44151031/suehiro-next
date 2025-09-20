@@ -8,7 +8,7 @@
 import Link from "next/link";
 import { campaigns } from "@/lib/campaignMaster";
 import { prefectures } from "@/lib/prefectures";
-import { getCampaignStatus } from "@/lib/campaignUtils";
+import { getCampaignStatus, CampaignStatus } from "@/lib/campaignUtils";
 import CampaignLineCard from "@/components/common/CampaignLineCard";
 
 type Props = {
@@ -18,7 +18,39 @@ type Props = {
   city: string;
 };
 
-export function RecommendedCampaigns({ prefectureSlug, citySlug, currentPaytype, city }: Props) {
+// ✅ ブランド並び順
+const brandPriority: Record<string, number> = {
+  paypay: 1,
+  rakutenpay: 2,
+  dbarai: 3,
+  aupay: 4,
+  aeonpay: 5,
+};
+
+// ✅ ソート関数: 開催中 > 未来、開始日順、同日ならブランド順
+function sortCampaigns(a: any, b: any) {
+  const statusOrder = (s: CampaignStatus) =>
+    s === "active" ? 0 : s === "scheduled" ? 1 : 2;
+
+  const diffStatus = statusOrder(getCampaignStatus(a.startDate, a.endDate)) -
+    statusOrder(getCampaignStatus(b.startDate, b.endDate));
+  if (diffStatus !== 0) return diffStatus;
+
+  const diffDate =
+    new Date(a.startDate).getTime() - new Date(b.startDate).getTime();
+  if (diffDate !== 0) return diffDate;
+
+  const brandA = brandPriority[a.paytype] ?? 99;
+  const brandB = brandPriority[b.paytype] ?? 99;
+  return brandA - brandB;
+}
+
+export function RecommendedCampaigns({
+  prefectureSlug,
+  citySlug,
+  currentPaytype,
+  city,
+}: Props) {
   const samePrefCampaigns = campaigns.filter(
     (c) =>
       c.prefectureSlug === prefectureSlug &&
@@ -32,7 +64,12 @@ export function RecommendedCampaigns({ prefectureSlug, citySlug, currentPaytype,
     const currentPref = prefectures.find((p) => p.slug === prefectureSlug);
 
     if (currentPref) {
-      const distance = (lat1: number, lon1: number, lat2: number, lon2: number) => {
+      const distance = (
+        lat1: number,
+        lon1: number,
+        lat2: number,
+        lon2: number
+      ) => {
         const R = 6371;
         const dLat = ((lat2 - lat1) * Math.PI) / 180;
         const dLon = ((lon2 - lon1) * Math.PI) / 180;
@@ -54,7 +91,9 @@ export function RecommendedCampaigns({ prefectureSlug, citySlug, currentPaytype,
 
       for (const pref of nearbyPrefectures) {
         const extra = campaigns.filter(
-          (c) => c.prefectureSlug === pref.slug && getCampaignStatus(c.startDate, c.endDate) !== "ended"
+          (c) =>
+            c.prefectureSlug === pref.slug &&
+            getCampaignStatus(c.startDate, c.endDate) !== "ended"
         );
 
         for (const c of extra) {
@@ -66,6 +105,9 @@ export function RecommendedCampaigns({ prefectureSlug, citySlug, currentPaytype,
       }
     }
   }
+
+  // ✅ 並び替えを適用
+  recommended = recommended.sort(sortCampaigns);
 
   if (recommended.length === 0) {
     return (
@@ -85,7 +127,8 @@ export function RecommendedCampaigns({ prefectureSlug, citySlug, currentPaytype,
           const paySlug = c.paytype;
           if (!paySlug) return null;
 
-          const isActive = getCampaignStatus(c.startDate, c.endDate) === "active";
+          const isActive =
+            getCampaignStatus(c.startDate, c.endDate) === "active";
 
           return (
             <li key={`${c.prefectureSlug}-${c.citySlug}-${paySlug}`}>

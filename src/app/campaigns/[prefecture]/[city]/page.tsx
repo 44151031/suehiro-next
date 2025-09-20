@@ -17,7 +17,7 @@ import { SNSShareButtons } from "@/components/common/SNSShareButtons";
 import Link from "next/link";
 import CampaignLineCard from "@/components/common/CampaignLineCard";
 import { getVoucherCampaignUrl } from "@/lib/voucherUtils";
-import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster"; // ✅ 追加
+import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster";
 import VoucherCampaignCardList from "@/components/common/VoucherCampaignCardList";
 
 type Props = {
@@ -28,11 +28,16 @@ export function generateMetadata({ params }: Props) {
   return getCityMetadata(params.prefecture, params.city);
 }
 
-export default function CityCampaignsPage({
-  params,
-}: {
-  params: { prefecture: string; city: string };
-}) {
+// ✅ ブランド並び順
+const brandPriority: Record<string, number> = {
+  paypay: 1,
+  rakutenpay: 2,
+  dbarai: 3,
+  aupay: 4,
+  aeonpay: 5,
+};
+
+export default function CityCampaignsPage({ params }: Props) {
   const { prefecture, city } = params;
 
   const list = campaigns.filter(
@@ -64,7 +69,25 @@ export default function CityCampaignsPage({
     status: getCampaignStatus(c.startDate, c.endDate),
   }));
 
-  const filteredList = classified.filter((c) => c.status !== "ended");
+  // ✅ 終了以外を対象にし、開催中 > 未来、日付、ブランド順でソート
+  const filteredList = classified
+    .filter((c) => c.status !== "ended")
+    .sort((a, b) => {
+      const statusOrder = (s: CampaignStatus) =>
+        s === "active" ? 0 : s === "scheduled" ? 1 : 2;
+
+      const diffStatus = statusOrder(a.status) - statusOrder(b.status);
+      if (diffStatus !== 0) return diffStatus;
+
+      const diffDate =
+        new Date(a.startDate).getTime() - new Date(b.startDate).getTime();
+      if (diffDate !== 0) return diffDate;
+
+      const brandA = brandPriority[a.paytype] ?? 99;
+      const brandB = brandPriority[b.paytype] ?? 99;
+      return brandA - brandB;
+    });
+
   const active = filteredList.filter((c) => c.status === "active");
   const upcoming = filteredList.filter((c) => c.status === "scheduled");
 
@@ -84,11 +107,12 @@ export default function CityCampaignsPage({
       (v) =>
         v.prefectureSlug === prefecture &&
         v.citySlug === city &&
-        now <= new Date(v.applyEndDate) // 申込終了を除外
+        now <= new Date(v.applyEndDate)
     )
     .sort(
       (a, b) =>
-        new Date(a.applyStartDate).getTime() - new Date(b.applyStartDate).getTime()
+        new Date(a.applyStartDate).getTime() -
+        new Date(b.applyStartDate).getTime()
     );
 
   return (
@@ -105,9 +129,7 @@ export default function CityCampaignsPage({
 
       <main className="w-full bg-[#f8f7f2] text-secondary-foreground">
         <div className="max-w-[1200px] mx-auto px-4 py-10">
-          <h1 className="headline1">
-            {cityName}のキャッシュレスキャンペーン一覧
-          </h1>
+          <h1 className="headline1">{cityName}のキャッシュレスキャンペーン一覧</h1>
 
           <CampaignTotalPointSummary
             campaigns={filteredList}
@@ -121,7 +143,10 @@ export default function CityCampaignsPage({
                   <span className="text-[17px] sm:text-xl font-semibold">
                     {prefectureName}
                     {cityName}では現在
-                    <span className="text-green-700 font-bold"> {upcoming.length}件</span>
+                    <span className="text-green-700 font-bold">
+                      {" "}
+                      {upcoming.length}件
+                    </span>
                     が開催予定となっています。開催日に向けてお買い物を調整しましょう。
                   </span>
                 </p>
@@ -130,10 +155,11 @@ export default function CityCampaignsPage({
                   <span className="text-[17px] sm:text-xl font-semibold">
                     {prefectureName}
                     {cityName}では、現在{" "}
-                    <span className="text-orange-600 font-bold">{active.length}件</span>{" "}
+                    <span className="text-orange-600 font-bold">
+                      {active.length}件
+                    </span>{" "}
                     のキャンペーンが開催中です。
                   </span>
-                  {/* upcoming が 1件以上のときだけ表示（0件なら非表示） */}
                   {upcoming.length > 0 && (
                     <span className="ml-1 text-[17px] sm:text-xl font-semibold text-green-700 font-bold">
                       他に開催予定のキャンペーンがあります。
@@ -154,11 +180,13 @@ export default function CityCampaignsPage({
               <CampaignCardList campaigns={filteredList} />
             </div>
           )}
+
           {/* ✅ 商品券（受付中 + 受付前） */}
           {cityVoucherCampaigns.length > 0 && (
             <section className="mt-12">
               <h2 className="text-xl sm:text-2xl font-bold text-neutral-800 mb-6 border-l-4 border-brand-primary pl-4">
-                {prefectureName}{cityName}のPayPay商品券キャンペーン
+                {prefectureName}
+                {cityName}のPayPay商品券キャンペーン
               </h2>
               <VoucherCampaignCardList campaigns={cityVoucherCampaigns} />
             </section>
@@ -173,6 +201,7 @@ export default function CityCampaignsPage({
             />
           )}
 
+          {/* 他市のキャンペーン */}
           {(() => {
             const otherPrefectureCampaigns = campaigns
               .filter(
@@ -186,8 +215,19 @@ export default function CityCampaignsPage({
                 status: getCampaignStatus(c.startDate, c.endDate),
               }))
               .sort((a, b) => {
-                const order: CampaignStatus[] = ["scheduled", "active", "ended"];
-                return order.indexOf(a.status) - order.indexOf(b.status);
+                const statusOrder = (s: CampaignStatus) =>
+                  s === "active" ? 0 : s === "scheduled" ? 1 : 2;
+
+                const diffStatus = statusOrder(a.status) - statusOrder(b.status);
+                if (diffStatus !== 0) return diffStatus;
+
+                const diffDate =
+                  new Date(a.startDate).getTime() - new Date(b.startDate).getTime();
+                if (diffDate !== 0) return diffDate;
+
+                const brandA = brandPriority[a.paytype] ?? 99;
+                const brandB = brandPriority[b.paytype] ?? 99;
+                return brandA - brandB;
               });
 
             if (otherPrefectureCampaigns.length === 0) return null;
