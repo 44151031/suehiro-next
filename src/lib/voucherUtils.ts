@@ -1,5 +1,15 @@
 import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster";
 /**
+ * 日本語表記の日付に変換する（不正な値は空文字を返す）
+ */
+export function formatJapaneseDate(dateStr?: string): string {
+  if (!dateStr) return "";
+  const d = new Date(dateStr);
+  if (isNaN(d.getTime())) return ""; // Invalid Date の場合は空文字
+  return `${d.getFullYear()}年${d.getMonth() + 1}月${d.getDate()}日`;
+}
+
+/**
  * 指定した都道府県の、市区町村の中で「商品券キャンペーンの申込がこれから or 現在受付中」の市区町村のみを返す
  */
 export function getActiveOrUpcomingVoucherCities(prefectureSlug: string): {
