@@ -1007,5 +1007,165 @@ export const voucherCampaignMaster = [
     dateModified: "2025-09-20",
     eligiblePersons: "居住地に関係なく12歳以上の全ての方（本人確認必須）",
     applicationUrl: "https://paypay.ne.jp/event/ehime-ozu-city-gift-vouchers-20250701/"
-  }
+  },
+  {
+  paytype: "paypay-voucher",
+  prefectureSlug: "fukushima",
+  citySlug: "minamiaizu",
+  prefecture: "福島県",
+  city: "南会津町",
+  campaigntitle: "南会津町デジタル商品券",
+  purchasePrice: 5000,
+  ticketAmount: 6000,
+  maxUnits: 3,
+  applyStartDate: "2025-09-01T10:00:00",
+  applyEndDate: "2026-02-27T23:59:59",
+  /* resultAnnounceDate: null, */  // 抽選ではなく先着順のため省略
+  purchaseEndDate: "2026-02-27",
+  useEndDate: "2026-02-27",
+  datePublished: "2025-09-01",  
+  dateModified: "2025-09-01",  
+  eligiblePersons: "南会津町在住の12歳以上の方方",
+  applicationUrl: "https://paypay.ne.jp/event/fukushima-minamiaizu-town-gift-vouchers-20250901/"
+},
+{
+  paytype: "paypay-voucher",
+  prefectureSlug: "saitama",
+  citySlug: "warabi",
+  prefecture: "埼玉県",
+  city: "蕨市",
+  campaigntitle: "蕨市プレミアム付きデジタル商品券",
+  purchasePrice: 10000,
+  ticketAmount: 13000,
+  maxUnits: 3,
+  applyStartDate: "2025-09-08T10:00:00",
+  applyEndDate: "2025-12-30T23:59:59",
+  /* resultAnnounceDate: null, */  // 先着順
+  purchaseEndDate: "2025-12-30",
+  useEndDate: "2025-12-31",
+  datePublished: "2025-09-08",
+  dateModified: "2025-09-08",
+  eligiblePersons: "埼玉県蕨市在住の12歳以上の方",
+  applicationUrl: "https://paypay.ne.jp/event/saitama-warabi-city-gift-vouchers-20250601/"
+},
+{
+  paytype: "paypay-voucher",
+  prefectureSlug: "tokyo",
+  citySlug: "kita",
+  prefecture: "東京都",
+  city: "北区",
+  campaigntitle: "令和7年度 プレミアム付北区内共通デジタル商品券 しぶさわくんPay",
+  purchasePrice: 5000,
+  ticketAmount: 6000,
+  maxUnits: 4,
+  applyStartDate: "2025-09-13T10:00:00",     // 2次販売開始
+  applyEndDate: "2025-10-31T23:59:59",       // 2次販売終了
+  /* resultAnnounceDate: null, */           // 先着順なので抽選発表日は無し
+  purchaseEndDate: "2025-10-31",
+  useEndDate: "2025-12-31",
+  datePublished: "2025-09-13",
+  dateModified: "2025-09-13",
+  eligiblePersons: "東京都北区に住所を有する12歳以上の方",
+  applicationUrl: "https://paypay.ne.jp/event/tokyo-kita-city-gift-vouchers-20250701/"
+},
+{
+  paytype: "paypay-voucher",
+  prefectureSlug: "niigata",
+  citySlug: "murakami",
+  prefecture: "新潟県",
+  city: "村上市",
+  campaigntitle: "村上市デジタル版プレミアム商品券",
+  purchasePrice: 5000,
+  ticketAmount: 6000,
+  maxUnits: 4,
+  applyStartDate: "2025-10-01T10:00:00",
+  applyEndDate: "2025-10-31T23:59:59",
+  resultAnnounceDate: "2025-11-04T18:00:00",
+  purchaseEndDate: "2026-01-30",
+  useEndDate: "2026-01-31",
+  datePublished: "2025-09-20",
+  dateModified: "2025-09-20",
+  eligiblePersons: "新潟県村上市に住所を有する18歳以上の方",
+  applicationUrl: "https://paypay.ne.jp/event/niigata-murakami-city-gift-vouchers-20251001/"
+},
+{
+  paytype: "paypay-voucher",
+  prefectureSlug: "gifu",
+  citySlug: "kaizu",
+  prefecture: "岐阜県",
+  city: "海津市",
+  campaigntitle: "海津市プレミアム付デジタル商品券",
+  purchasePrice: 5000,
+  ticketAmount: 6000,
+  maxUnits: 4,
+  applyStartDate: "2025-10-01T10:00:00",
+  applyEndDate: "2025-10-30T23:59:59",
+  resultAnnounceDate: "2025-10-31T18:00:00",  // 「夕方以降を予定」のため仮に18:00としています
+  purchaseEndDate: "2025-11-20",
+  useEndDate: "2026-02-01",
+  datePublished: "2025-09-20",   // 仮設定
+  dateModified: "2025-09-20",    // 仮設定
+  eligiblePersons: "岐阜県海津市在住の12歳以上の方",
+  applicationUrl: "https://paypay.ne.jp/event/gifu-kaizu-city-gift-vouchers-20251001/"
+},
+{
+  paytype: "paypay-voucher",
+  prefectureSlug: "kyoto",
+  citySlug: "kizugawa",
+  prefecture: "京都府",
+  city: "木津川市",
+  campaigntitle: "木津川市地域応援クーポン（第2弾）",
+  purchasePrice: 5000,
+  ticketAmount: 5500,
+  maxUnits: 4,
+  applyStartDate: "2025-10-01T10:00:00",
+  applyEndDate: "2025-10-31T23:59:59",
+  resultAnnounceDate: "2025-11-04T18:00:00",  // “夕方以降を予定”から仮に 18:00 としています
+  purchaseEndDate: "2025-12-30",
+  useEndDate: "2025-12-31",
+  datePublished: "2025-09-20",   // 仮設定
+  dateModified: "2025-09-20",    // 仮設定
+  eligiblePersons: "京都府木津川市在住の12歳以上の方（本人確認が必要）",
+  applicationUrl: "https://paypay.ne.jp/event/kyoto-kizugawa-city-gift-vouchers-20251001/"
+},
+{
+  paytype: "paypay-voucher",
+  prefectureSlug: "hyogo",
+  citySlug: "nishiwaki",
+  prefecture: "兵庫県",
+  city: "西脇市",
+  campaigntitle: "にしわきPayプレミアム（2次募集） プレミアム付デジタル商品券",
+  purchasePrice: 5000,
+  ticketAmount: 6000,
+  maxUnits: 6,  // 一般枠：6口まで
+  applyStartDate: "2025-09-01T10:00:00",
+  applyEndDate: "2025-10-28T23:59:59",
+  resultAnnounceDate: "2025-10-31T18:00:00",  // “夕方以降を予定” を仮に18:00と設定
+  purchaseEndDate: "2025-12-15",
+  useEndDate: "2025-12-31",
+  datePublished: "2025-09-01",    // 仮
+  dateModified: "2025-09-01",     // 仮
+  eligiblePersons: "兵庫県西脇市在住の12歳以上の方（一般枠）",
+  applicationUrl: "https://paypay.ne.jp/event/hyogo-nishiwaki-city-gift-vouchers-20250602/"
+},
+{
+  paytype: "paypay-voucher",
+  prefectureSlug: "saga",
+  citySlug: "kiyama",
+  prefecture: "佐賀県",
+  city: "基山町",
+  campaigntitle: "基山町きのくに電子商品券",
+  purchasePrice: 4000,
+  ticketAmount: 5000,
+  maxUnits: 5,
+  applyStartDate: "2025-10-01T10:00:00",
+  applyEndDate: "2025-12-31T23:59:59",
+  /* resultAnnounceDate: null, */  // 先着順なので抽選発表日は不要
+  purchaseEndDate: "2025-12-31",
+  useEndDate: "2025-12-31",
+  datePublished: "2025-10-01",  // 仮設定（販売開始日を使用）
+  dateModified: "2025-10-01",   // 仮設定
+  eligiblePersons: "居住地に関係なく12歳以上の全ての方（本人確認必須）",
+  applicationUrl: "https://paypay.ne.jp/event/saga-kiyama-town-gift-vouchers-20251001/"
+}
 ];
