@@ -493,7 +493,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-01",
     dateModified: "2025-08-01",
     eligiblePersons: "居住地に関係なく12歳以上の全ての方",
-    applicationUrl:""
+    applicationUrl: ""
   },
   {
     paytype: "paypay-voucher",
@@ -513,7 +513,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-01",
     dateModified: "2025-08-01",
     eligiblePersons: "佐賀県伊万里市在住の12歳以上の方",
-    applicationUrl:""
+    applicationUrl: ""
   },
   {
     paytype: "paypay-voucher",
@@ -532,7 +532,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "2025年5月1日時点において日向市に住民登録のある世帯主",
-    applicationUrl:""
+    applicationUrl: ""
   },
   {
     paytype: "paypay-voucher",
@@ -552,7 +552,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "東京都稲城市在住の方",
-    applicationUrl:""
+    applicationUrl: ""
   },
   {
     paytype: "paypay-voucher",
@@ -572,7 +572,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "山梨県昭和町在住の方",
-    applicationUrl:""
+    applicationUrl: ""
   },
   {
     paytype: "paypay-voucher",
@@ -592,7 +592,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "神奈川県大和市在住の方",
-    applicationUrl:""
+    applicationUrl: ""
   },
   {
     paytype: "paypay-voucher",
@@ -612,7 +612,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "福島県桑折町在住の方かつ平成17年4月1日以前に生まれた方",
-    applicationUrl:""
+    applicationUrl: ""
   },
   {
     paytype: "paypay-voucher",
@@ -632,7 +632,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "川崎市在住の方",
-    applicationUrl:""
+    applicationUrl: ""
   },
   {
     paytype: "paypay-voucher",
@@ -651,7 +651,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "居住地に関係なくすべての方",
-    applicationUrl:""
+    applicationUrl: ""
   },
   {
     paytype: "paypay-voucher",
@@ -670,7 +670,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "居住地に関係なくすべての方",
-    applicationUrl:""
+    applicationUrl: ""
   },
   {
     paytype: "paypay-voucher",
@@ -689,7 +689,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "居住地に関係なくすべての方",
-    applicationUrl:""
+    applicationUrl: ""
   },
   {
     paytype: "paypay-voucher",
@@ -708,7 +708,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "居住地に関係なくすべての方",
-    applicationUrl:""
+    applicationUrl: ""
   },
   {
     paytype: "paypay-voucher",
@@ -728,7 +728,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "兵庫県高砂市に住所を有する16歳以上の方",
-    applicationUrl:""
+    applicationUrl: ""
   },
   {
     paytype: "paypay-voucher",
@@ -747,7 +747,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "山梨県甲府市に在住する方",
-    applicationUrl:""
+    applicationUrl: ""
   },
   {
     paytype: "paypay-voucher",
@@ -767,7 +767,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "兵庫県西脇市に住所を有する12歳以上の方",
-    applicationUrl:""
+    applicationUrl: ""
   },
   {
     paytype: "paypay-voucher",
@@ -787,7 +787,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "山梨県甲斐市に住所を有する12歳以上の方",
-    applicationUrl:""
+    applicationUrl: ""
   },
   {
     paytype: "paypay-voucher",
@@ -807,7 +807,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "埼玉県久喜市に住所を有する12歳以上の方",
-    applicationUrl:""
+    applicationUrl: ""
   },
   {
     paytype: "paypay-voucher",
@@ -827,7 +827,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "香川県丸亀市に住所を有する12歳以上の方",
-    applicationUrl:""
+    applicationUrl: ""
   },
   {
     paytype: "paypay-voucher",
@@ -847,7 +847,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "埼玉県蕨市に住所を有する12歳以上の方",
-    applicationUrl:""
+    applicationUrl: ""
   },
   {
     paytype: "paypay-voucher",
@@ -867,6 +867,145 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "埼玉県行田市在住の方",
-    applicationUrl:""
+    applicationUrl: ""
+  },
+  {
+    paytype: "paypay-voucher",
+    prefectureSlug: "akita",
+    citySlug: "nikaho",
+    prefecture: "秋田県",
+    city: "にかほ市",
+    campaigntitle: "にかほ市プレミアムモバイル商品券",
+    purchasePrice: 1000,
+    ticketAmount: 1300,
+    maxUnits: 30,
+    applyStartDate: "2025-10-01T10:00:00",
+    applyEndDate: "2025-10-31T23:59:59",
+    resultAnnounceDate: "2025-11-04T18:00:00",
+    purchaseEndDate: "2026-01-30",
+    useEndDate: "2026-01-31",
+    datePublished: "2025-09-20",
+    dateModified: "2025-09-20",
+    eligiblePersons: "秋田県にかほ市在住の12歳以上の方",
+    applicationUrl: "https://paypay.ne.jp/event/akita-nikaho-city-gift-vouchers-20251001/"
+  }, {
+    paytype: "paypay-voucher",
+    prefectureSlug: "saitama",
+    citySlug: "gyoda",
+    prefecture: "埼玉県",
+    city: "行田市",
+    campaigntitle: "行田市プレミアム付デジタル商品券",
+    purchasePrice: 10000,
+    ticketAmount: 13000,
+    maxUnits: 2,
+    applyStartDate: "2025-09-01T00:00:00",
+    applyEndDate: "2025-12-23T23:59:59",
+    /* resultAnnounceDate: null, */ // 先着順のため不要
+    purchaseEndDate: "2025-12-24",
+    useEndDate: "2025-12-25",
+    datePublished: "2025-09-20",
+    dateModified: "2025-09-20",
+    eligiblePersons: "埼玉県行田市在住の方（12歳以上）",
+    applicationUrl: "https://paypay.ne.jp/event/saitama-gyoda-city-gift-vouchers-20250601/"
+  },
+  {
+    paytype: "paypay-voucher",
+    prefectureSlug: "tokyo",
+    citySlug: "sumida",
+    prefecture: "東京都",
+    city: "墨田区",
+    campaigntitle: "すみだプレミアム付デジタル商品券",
+    purchasePrice: 5000,
+    ticketAmount: 6000,
+    maxUnits: 10,
+    applyStartDate: "2025-09-22T10:00:00",
+    applyEndDate: "2025-11-30T23:59:59",
+    /* resultAnnounceDate: null, */ // 2次販売は先着順
+    purchaseEndDate: "2025-11-30",
+    useEndDate: "2026-01-31",
+    datePublished: "2025-09-20",
+    dateModified: "2025-09-20",
+    eligiblePersons: "居住地に関係なく12歳以上の全ての方",
+    applicationUrl: "https://paypay.ne.jp/event/tokyo-sumida-city-gift-vouchers-20250701/"
+  },
+  {
+    paytype: "paypay-voucher",
+    prefectureSlug: "tokyo",
+    citySlug: "edogawa",
+    prefecture: "東京都",
+    city: "江戸川区",
+    campaigntitle: "江戸川区「えどPay2025」",
+    purchasePrice: 5000,
+    ticketAmount: 6000,
+    maxUnits: 10,
+    applyStartDate: "2025-10-01T10:00:00",
+    applyEndDate: "2025-10-24T23:59:59",
+    resultAnnounceDate: "2025-11-01T10:00:00",
+    purchaseEndDate: "2025-11-07",
+    useEndDate: "2025-12-31",
+    datePublished: "2025-09-20",
+    dateModified: "2025-09-20",
+    eligiblePersons: "東京都江戸川区在住の16歳以上の方",
+    applicationUrl: "https://paypay.ne.jp/event/tokyo-edogawa-city-gift-vouchers-20251001/"
+  },
+  {
+    paytype: "paypay-voucher",
+    prefectureSlug: "yamanashi",
+    citySlug: "kai",
+    prefecture: "山梨県",
+    city: "甲斐市",
+    campaigntitle: "甲斐市プレミアム付デジタル商品券",
+    purchasePrice: 5000,
+    ticketAmount: 6500,
+    maxUnits: 10,
+    applyStartDate: "2025-09-01T10:00:00",
+    applyEndDate: "2025-09-30T23:59:59",
+    resultAnnounceDate: "2025-10-01T10:00:00",
+    purchaseEndDate: "2025-11-30",
+    useEndDate: "2025-12-25",
+    datePublished: "2025-09-20",
+    dateModified: "2025-09-20",
+    eligiblePersons: "山梨県甲斐市に住所を有する12歳以上の方（1次販売・2次販売とも申込可、本人確認必須）",
+    applicationUrl: "https://paypay.ne.jp/event/yamanashi-kai-city-gift-vouchers-20250602/"
+  },
+  {
+    paytype: "paypay-voucher",
+    prefectureSlug: "shizuoka",
+    citySlug: "hamamatsu",
+    prefecture: "静岡県",
+    city: "浜松市",
+    campaigntitle: "浜松市プレミアム付デジタル商品券",
+    purchasePrice: 5000,
+    ticketAmount: 6000,
+    maxUnits: 1,
+    applyStartDate: "2025-09-01T10:00:00",
+    applyEndDate: "2025-09-30T23:59:59",
+    resultAnnounceDate: "2025-10-01T18:00:00",
+    purchaseEndDate: "2025-10-31",
+    useEndDate: "2026-02-28",
+    datePublished: "2025-09-20",
+    dateModified: "2025-09-20",
+    eligiblePersons: "静岡県浜松市在住の12歳以上の方（本人確認必須）",
+    applicationUrl: "https://paypay.ne.jp/event/shizuoka-hamamatsu-city-gift-vouchers-20250901/"
+  },
+  {
+    paytype: "paypay-voucher",
+    prefectureSlug: "ehime",
+    citySlug: "ozu",
+    prefecture: "愛媛県",
+    city: "大洲市",
+    campaigntitle: "大洲市プレミアム付デジタル商品券",
+    purchasePrice: 10000,
+    ticketAmount: 12500,
+    maxUnits: 5,
+    applyStartDate: "2025-09-19T10:00:00",
+    applyEndDate: "2025-12-21T23:59:59",
+    /* resultAnnounceDate: null, */  // 2次販売は先着順
+    purchaseEndDate: "2025-12-21",
+    useEndDate: "2025-12-21",
+    datePublished: "2025-09-20",
+    dateModified: "2025-09-20",
+    eligiblePersons: "居住地に関係なく12歳以上の全ての方（本人確認必須）",
+    applicationUrl: "https://paypay.ne.jp/event/ehime-ozu-city-gift-vouchers-20250701/"
   }
 ];
