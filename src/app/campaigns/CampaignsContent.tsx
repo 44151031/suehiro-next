@@ -14,18 +14,32 @@ import VoucherCampaignCardList from "@/components/common/VoucherCampaignCardList
 
 // ✅ 商品券関連
 import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster";
-import { calculateVoucherDiscountRate, formatJapaneseDateOnly } from "@/lib/voucherUtils";
+import {
+  calculateVoucherDiscountRate,
+  formatJapaneseDateOnly,
+} from "@/lib/voucherUtils";
+
+// ブランドごとの並び順（paytype の値に対応）
+const brandPriority: Record<string, number> = {
+  paypay: 1,
+  rakutenpay: 2,
+  dbarai: 3, // ← 修正
+  aupay: 4,
+  aeonpay: 5,
+};
 
 export default function CampaignsContent() {
   const [showOnlyActive, setShowOnlyActive] = useState(false);
   const [showOnlyOver30Percent, setShowOnlyOver30Percent] = useState(false);
   const [showOnlyOver10000Yen, setShowOnlyOver10000Yen] = useState(false);
 
+  // 終了していないキャンペーンだけ取得
   const notEndedCampaigns = campaigns.filter(
     (c) => getCampaignStatus(c.startDate, c.endDate) !== "ended"
   );
 
-  const filtered = notEndedCampaigns.filter((c) => {
+  // フィルタ処理
+  let filtered = notEndedCampaigns.filter((c) => {
     const status = getCampaignStatus(c.startDate, c.endDate);
     if (showOnlyActive && status !== "active") return false;
     if (showOnlyOver30Percent && c.offer < 30) return false;
@@ -33,16 +47,42 @@ export default function CampaignsContent() {
     return true;
   });
 
+  // ✅ ソート: 開催中 > 未来、日付順、同日ならブランド順
+  filtered = [...filtered].sort((a, b) => {
+    const statusOrder = (s: string) =>
+      s === "active" ? 0 : s === "upcoming" ? 1 : 2;
+
+    // 開催中優先
+    const statusDiff =
+      statusOrder(getCampaignStatus(a.startDate, a.endDate)) -
+      statusOrder(getCampaignStatus(b.startDate, b.endDate));
+    if (statusDiff !== 0) return statusDiff;
+
+    // 開始日で比較
+    const dateDiff =
+      new Date(a.startDate).getTime() - new Date(b.startDate).getTime();
+    if (dateDiff !== 0) return dateDiff;
+
+    // ブランド優先度で比較
+    const brandA = brandPriority[a.paytype] ?? 99;
+    const brandB = brandPriority[b.paytype] ?? 99;
+    return brandA - brandB;
+  });
+
+  // 商品券キャンペーン
   const activeVoucherCampaigns = voucherCampaignMaster
     .filter((v) => {
       const now = new Date();
       return (
         getCampaignStatus(v.startDate, v.endDate) !== "ended" &&
-        new Date(v.applyEndDate) >= now // 申込終了日が未来のもののみ
+        new Date(v.applyEndDate) >= now
       );
     })
-    .sort((a, b) => new Date(a.applyStartDate).getTime() - new Date(b.applyStartDate).getTime());
-
+    .sort(
+      (a, b) =>
+        new Date(a.applyStartDate).getTime() -
+        new Date(b.applyStartDate).getTime()
+    );
 
   return (
     <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
@@ -61,9 +101,9 @@ export default function CampaignsContent() {
         <div className="flex flex-wrap items-center gap-3 text-sm mb-6">
           {[
             { label: "PayPay", color: "#ef2a36", icon: "P" },
-            { label: "au PAY", color: "#f58220", icon: "au" },
             { label: "楽天ペイ", color: "#bf0000", icon: "楽" },
             { label: "d払い", color: "#b11f27", icon: "d" },
+            { label: "au PAY", color: "#f58220", icon: "au" },
             { label: "AEON Pay", color: "#524fa5", icon: "イ" },
           ].map(({ label, color, icon }) => (
             <div key={label} className="flex items-center">

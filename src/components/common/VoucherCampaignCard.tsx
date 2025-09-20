@@ -57,7 +57,7 @@ export default function VoucherCampaignCard({ campaign }: Props) {
         {/* 抽選 / 先着ラベル */}
         <span
           className={`inline-block ml-2 text-xs font-bold px-2 py-1 rounded-full shadow ${
-            type === "先着" ? "bg-red-600 text-white" : "bg-sky-200 text-sky-800"
+            type === "先着" ? "bg-green-500 text-white" : "bg-sky-200 text-sky-800"
           }`}
         >
           {type}
@@ -68,7 +68,7 @@ export default function VoucherCampaignCard({ campaign }: Props) {
       <p className="text-sm text-gray-500 mb-1">
         申込期間：{formatJapaneseDateOnly(campaign.applyStartDate)} ～ {formatJapaneseDateOnly(campaign.applyEndDate)}
         {isActive && (
-          <span className="ml-2 inline-block text-xs bg-green-500 text-white px-2 py-0.5 rounded">
+          <span className="ml-2 inline-block text-xs bg-red-600 text-white px-2 py-0.5 rounded">
             受付中
           </span>
         )}
