@@ -827,7 +827,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "香川県丸亀市に住所を有する12歳以上の方",
-    applicationUrl: ""
+    applicationUrl: "https://paypay.ne.jp/event/kagawa-marugame-city-gift-vouchers-20250602/"
   },
   {
     paytype: "paypay-voucher",
@@ -847,7 +847,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "埼玉県蕨市に住所を有する12歳以上の方",
-    applicationUrl: ""
+    applicationUrl: "https://paypay.ne.jp/event/saitama-warabi-city-gift-vouchers-20250601/"
   },
   {
     paytype: "paypay-voucher",
@@ -867,7 +867,7 @@ export const voucherCampaignMaster = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "埼玉県行田市在住の方",
-    applicationUrl: ""
+    applicationUrl: "https://paypay.ne.jp/event/saitama-gyoda-city-gift-vouchers-20250601/"
   },
   {
     paytype: "paypay-voucher",
@@ -888,7 +888,8 @@ export const voucherCampaignMaster = [
     dateModified: "2025-09-20",
     eligiblePersons: "秋田県にかほ市在住の12歳以上の方",
     applicationUrl: "https://paypay.ne.jp/event/akita-nikaho-city-gift-vouchers-20251001/"
-  }, {
+  },
+  {
     paytype: "paypay-voucher",
     prefectureSlug: "saitama",
     citySlug: "gyoda",

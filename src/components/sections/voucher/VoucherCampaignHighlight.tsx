@@ -13,14 +13,17 @@ type Props = {
 function getApplicationStatus(
   start: string,
   end: string
-): { label: string; isActive: boolean } {
+): { label: string; status: "before" | "active" | "after" } {
   const now = new Date();
   const startDate = new Date(start);
   const endDate = new Date(end);
-  if (now < startDate || now > endDate) {
-    return { label: "申込期間外です", isActive: false };
+
+  if (now < startDate) {
+    return { label: "申込開始前", status: "before" };
+  } else if (now >= startDate && now <= endDate) {
+    return { label: "申込受付中", status: "active" };
   } else {
-    return { label: "申込受付中", isActive: true };
+    return { label: "申込終了", status: "after" };
   }
 }
 
@@ -34,7 +37,6 @@ export default function VoucherCampaignHighlight({
 }: Props) {
   const status = getApplicationStatus(applicationStart, applicationEnd);
 
-  // resultAnnounceDate が有効な日付かどうかを判定
   const parsedDate =
     resultAnnounceDate && !isNaN(new Date(resultAnnounceDate).getTime())
       ? resultAnnounceDate
@@ -48,7 +50,7 @@ export default function VoucherCampaignHighlight({
           <p className="text-sm font-semibold text-gray-500">対象者</p>
           <p className="text-lg font-bold text-gray-900">{targetAudience}</p>
 
-          {isLottery && (
+          {isLottery ? (
             <div className="mt-2 inline-flex items-center gap-x-4 bg-yellow-50 border border-yellow-100 rounded-md px-4 py-2">
               <span className="text-xs font-bold px-3 py-1 rounded-full bg-yellow-200 text-yellow-800">
                 抽選方式です
@@ -57,25 +59,37 @@ export default function VoucherCampaignHighlight({
                 当選発表：{formatJapaneseDate(parsedDate)}以降
               </span>
             </div>
-          )}
-
-          {!isLottery && (
+          ) : (
             <p className="inline-block mt-2 text-xs font-bold px-3 py-1 rounded-full bg-red-100 text-red-700">
               先着順です！お早めに！
             </p>
           )}
         </div>
 
-        {applicationUrl && status.isActive && (
+        {/* ✅ ボタン切り替えロジック */}
+        {applicationUrl && (
           <div>
-            <Link
-              href={applicationUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-block px-5 py-2 text-white bg-blue-600 hover:bg-blue-700 rounded-lg transition"
-            >
-              購入申し込み
-            </Link>
+            {status.status === "active" && (
+              <Link
+                href={applicationUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block px-5 py-2 text-white bg-blue-600 hover:bg-blue-700 rounded-lg transition"
+              >
+                購入申し込み
+              </Link>
+            )}
+
+            {status.status === "before" && (
+              <Link
+                href={applicationUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block px-5 py-2 text-blue-600 border border-blue-600 hover:bg-blue-50 rounded-lg transition"
+              >
+                公式ページ
+              </Link>
+            )}
           </div>
         )}
       </div>
@@ -83,7 +97,7 @@ export default function VoucherCampaignHighlight({
       <div className="mt-6 grid grid-cols-1 md:grid-cols-2 gap-4">
         <div
           className={`rounded-xl p-4 border ${
-            status.isActive
+            status.status === "active"
               ? "bg-gray-50 border-gray-200"
               : "bg-gray-100 text-gray-400 border-gray-200"
           }`}
@@ -91,17 +105,15 @@ export default function VoucherCampaignHighlight({
           <p className="text-sm text-gray-600">申し込み期間</p>
           <p
             className={`text-base font-semibold ${
-              status.isActive ? "text-gray-800" : "text-gray-400"
+              status.status === "active" ? "text-gray-800" : "text-gray-400"
             }`}
           >
             {formatJapaneseDate(applicationStart)} ～{" "}
             {formatJapaneseDate(applicationEnd)}
           </p>
-          {!status.isActive && (
-            <p className="mt-1 text-xs font-medium text-gray-500">
-              {status.label}
-            </p>
-          )}
+          <p className="mt-1 text-xs font-medium text-gray-500">
+            {status.label}
+          </p>
         </div>
 
         <div className="bg-gray-50 rounded-xl p-4 border border-gray-200">
