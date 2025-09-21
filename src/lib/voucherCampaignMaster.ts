@@ -334,7 +334,7 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
     campaigntitle: "川棚町プレミアム商品券",
     purchasePrice: 4000,
     ticketAmount: 5000,
-    maxUnits: 55,
+    maxUnits: 5,
     applyStartDate: "2025-08-01T10:00:00",
     applyEndDate: "2025-11-30T23:59:59",
     purchaseEndDate: "2025-11-30",

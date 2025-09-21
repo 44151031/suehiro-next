@@ -55,7 +55,7 @@ export default function VoucherCampaignPage({
   } = campaign;
 
   const modified = dateModified ?? datePublished;
-  const discountRate = calculateVoucherDiscountRate(ticketAmount, purchasePrice); // パーセント（整数/小数はユーティリティ側に準拠）
+  const discountRate = calculateVoucherDiscountRate(ticketAmount, purchasePrice);
   const maxDiscount = (ticketAmount - purchasePrice) * maxUnits;
   const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${pay}`;
 
@@ -76,7 +76,15 @@ export default function VoucherCampaignPage({
         paytype={pay}
         // H1と意味合わせ：還元ではなく「お得」訴求
         headline={`${cityName}のPayPay商品券（${campaigntitle}）`}
-        articleDescription={`${prefName}${cityName}で実施されるプレミアム商品券（PayPay商品券）の概要、申込期間・対象者・購入上限・利用期限、使い方をわかりやすく紹介します。`}
+        articleDescription={`${prefName}${cityName}のPayPay商品券2025は、${formatJapaneseDate(
+          applyStartDate
+        )}〜${formatJapaneseDate(
+          applyEndDate
+        )}にアプリ申込、当選後に購入・利用可。最大${discountRate}％お得（${maxUnits}口で最大${formatNumber(
+          maxDiscount
+        )}円）、利用期限は${formatJapaneseDate(
+          useEndDate
+        )} 23:59。本ページでは対象者・申込方法・購入手順・使い方・注意点と周辺キャンペーンを解説。`}
         validFrom={applyStartDate}
         validThrough={applyEndDate}
         url={pageUrl}
@@ -99,24 +107,39 @@ export default function VoucherCampaignPage({
             </p>
           )}
 
+          {/* ✅ 導入文A（万能・指名検索向け）に準拠 */}
           <p className="text-xs md:text-base leading-relaxed text-gray-800 mb-2">
-            対象者の方がPayPayアプリから
+            {prefName}
+            {cityName}の<strong>「PayPay商品券2025」</strong>
+            は、
             <span className="font-semibold">
               {formatJapaneseDate(applyStartDate)}
             </span>
-            から
-            <span className="font-semibold">{formatJapaneseDate(applyEndDate)}</span>
-            までに申し込みのうえ、当選後に商品券を購入・利用できます
+            〜
+            <span className="font-semibold">
+              {formatJapaneseDate(applyEndDate)}
+            </span>
+            に<strong>PayPayアプリから申込</strong>、当選後に<strong>購入・利用</strong>
+            できます
             {resultAnnounceDate && (
               <>
-                （当選発表：<span className="font-semibold">{formatJapaneseDate(resultAnnounceDate)}</span> 以降）
+                （当選発表：
+                <span className="font-semibold">
+                  {formatJapaneseDate(resultAnnounceDate)}
+                </span>
+                以降）
               </>
             )}
-            。利用期限は
-            <span className="font-semibold">{formatJapaneseDate(useEndDate)} 23:59</span>
-            までです。
-            <br className="hidden md:block" />
-            このページでは、最短で最大のメリットを得られるよう、キャンペーン概要・申込/利用の流れ・よくある注意点、周辺地域の関連キャンペーンをまとめて紹介します。
+            。<strong>最大{discountRate}%お得</strong>（
+            {maxUnits}
+            口で<strong>最大{formatNumber(maxDiscount)}円</strong>）、
+            <strong>
+              利用期限は{formatJapaneseDate(useEndDate)} 23:59
+            </strong>
+            。本ページでは<strong>対象者・申込方法・購入手順・使い方・注意点</strong>
+            を最短で理解できるように解説し、<strong>周辺自治体の関連キャンペーン</strong>
+            もまとめて比較。<strong>いつから・いつまで・どう使うか</strong>
+            がこの1ページで分かります。
           </p>
 
           <div className="my-6">
@@ -133,7 +156,11 @@ export default function VoucherCampaignPage({
           />
 
           <div className="mt-8">
-            <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
+            <SNSShareButtons
+              url={pageUrl}
+              title={shareTitle}
+              hashtags={shareHashtags}
+            />
           </div>
 
           <AdUnit />
@@ -141,12 +168,15 @@ export default function VoucherCampaignPage({
           {/* ===== H2：概要（商品券とは？） ===== */}
           <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
             <h2 className="headline2">
-              {prefName}{cityName}のPayPay商品券とは？
+              {prefName}
+              {cityName}のPayPay商品券とは？
             </h2>
             <p>
-              <strong>{prefName}{cityName}「{campaigntitle}」</strong>は、
-              申込期間中に対象者が申し込み、当選後に購入できる
-              プレミアム商品券（PayPay商品券）です。最大で
+              <strong>
+                {prefName}
+                {cityName}「{campaigntitle}」
+              </strong>
+              は、申込期間中に対象者が申し込み、当選後に購入できるプレミアム商品券（PayPay商品券）です。最大で
               <span className="text-brand-primary font-bold">
                 {formatNumber(maxDiscount)}円
               </span>
@@ -181,7 +211,11 @@ export default function VoucherCampaignPage({
           </section>
 
           <div className="mt-8">
-            <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
+            <SNSShareButtons
+              url={pageUrl}
+              title={shareTitle}
+              hashtags={shareHashtags}
+            />
           </div>
 
           {/* ✅ 他のPay系キャンペーン（内部回遊） */}
