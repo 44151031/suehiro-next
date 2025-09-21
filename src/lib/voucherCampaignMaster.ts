@@ -401,7 +401,7 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
     datePublished: "2025-08-01",
     dateModified: "2025-08-01",
     eligiblePersons: "居住地に関係なく16歳以上の全ての方",
-    applicationUrl: ""
+    applicationUrl: "https://paypay.ne.jp/event/fukushima-soma-city-gift-vouchers-20250825/"
   },
   {
     paytype: "paypay-voucher",
@@ -421,7 +421,7 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
     datePublished: "2025-08-01",
     dateModified: "2025-08-01",
     eligiblePersons: "栃木県那須烏山市在住の18歳以上の方",
-    applicationUrl: ""
+    applicationUrl: "https://paypay.ne.jp/event/tochigi-nasukarasuyama-city-gift-vouchers-20250825/"
   },
   {
     paytype: "paypay-voucher",
@@ -441,7 +441,7 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
     datePublished: "2025-08-01",
     dateModified: "2025-08-01",
     eligiblePersons: "半田市に住所を有する12歳以上の方",
-    applicationUrl: ""
+    applicationUrl: "https://paypay.ne.jp/event/aichi-handa-city-gift-vouchers-20250501/"
   },
   {
     paytype: "paypay-voucher",
@@ -461,7 +461,7 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
     datePublished: "2025-08-01",
     dateModified: "2025-08-01",
     eligiblePersons: "京都府相楽郡精華町在住の12歳以上の方",
-    applicationUrl: ""
+    applicationUrl: "https://paypay.ne.jp/event/kyoto-seika-town-gift-vouchers-20250901/"
   },
   {
     paytype: "paypay-voucher",
@@ -481,7 +481,7 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
     datePublished: "2025-08-01",
     dateModified: "2025-08-01",
     eligiblePersons: "大阪府泉大津市在住の12歳以上の方",
-    applicationUrl: ""
+    applicationUrl: "https://paypay.ne.jp/event/osaka-izumiotsu-city-gift-vouchers-20250801/"
   },
   {
     paytype: "paypay-voucher",
@@ -500,7 +500,7 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
     datePublished: "2025-08-01",
     dateModified: "2025-08-01",
     eligiblePersons: "居住地に関係なく12歳以上の全ての方",
-    applicationUrl: ""
+    applicationUrl: "https://paypay.ne.jp/event/kochi-konan-city-gift-vouchers-20250901/"
   },
   {
     paytype: "paypay-voucher",
@@ -520,7 +520,7 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
     datePublished: "2025-08-01",
     dateModified: "2025-08-01",
     eligiblePersons: "佐賀県伊万里市在住の12歳以上の方",
-    applicationUrl: ""
+    applicationUrl: "https://paypay.ne.jp/event/saga-imari-city-gift-vouchers-20250901/"
   },
   {
     paytype: "paypay-voucher",
@@ -539,7 +539,7 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "2025年5月1日時点において日向市に住民登録のある世帯主",
-    applicationUrl: ""
+    applicationUrl: "https://paypay.ne.jp/event/miyazaki-hyuga-city-gift-vouchers-20250701/"
   },
   {
     paytype: "paypay-voucher",
@@ -559,7 +559,7 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
     datePublished: "2025-08-15",
     dateModified: "2025-08-15",
     eligiblePersons: "東京都稲城市在住の方",
-    applicationUrl: ""
+    applicationUrl: "https://paypay.ne.jp/event/tokyo-inagi-city-gift-vouchers-20250703/"
   },
   {
     paytype: "paypay-voucher",
