@@ -76,7 +76,7 @@ export default function VoucherCampaignPage({
         paytype={pay}
         // H1と意味合わせ：還元ではなく「お得」訴求
         headline={`${cityName}のPayPay商品券（${campaigntitle}）`}
-        articleDescription={`${prefName}${cityName}のPayPay商品券2025は、${formatJapaneseDate(
+        articleDescription={`${prefName}${cityName}の${campaigntitle}は、${formatJapaneseDate(
           applyStartDate
         )}〜${formatJapaneseDate(
           applyEndDate
@@ -107,10 +107,10 @@ export default function VoucherCampaignPage({
             </p>
           )}
 
-          {/* ✅ 導入文A（万能・指名検索向け）に準拠 */}
+          {/* ✅ 導入文A（万能・指名検索向け）に準拠／タイトルをマスタの campaigntitle で表示 */}
           <p className="text-xs md:text-base leading-relaxed text-gray-800 mb-2">
             {prefName}
-            {cityName}の<strong>「PayPay商品券2025」</strong>
+            {cityName}の<strong>「{campaigntitle}」</strong>
             は、
             <span className="font-semibold">
               {formatJapaneseDate(applyStartDate)}
