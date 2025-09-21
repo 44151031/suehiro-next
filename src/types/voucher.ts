@@ -1,5 +1,3 @@
-// /types/voucher.ts
-
 export type VoucherCampaign = {
   prefecture: string;
   city: string;
@@ -11,19 +9,22 @@ export type VoucherCampaign = {
   maxUnits: number;
   applyStartDate: string;
   applyEndDate: string;
-  useStartDate: string;
+  // --- 修正ここから ---
+  purchaseEndDate: string;   // ← 追加！
+  // --- 修正ここまで ---
+  useStartDate?: string;     // 任意にした方が安全（無いケースが多い）
   useEndDate: string;
-  resultAnnounceDate: string;
+  resultAnnounceDate?: string; // 抽選方式でない場合は無いので optional に
   officialUrl?: string;
   datePublished: string;
   dateModified?: string;
   campaigntitle: string;
   notice?: string;
-  applicationStart: string;
-  applicationEnd: string;
-  target: string;
+  applicationStart?: string;
+  applicationEnd?: string;
+  target?: string;
   eligiblePersons: string;
-  applicationUrl?: string; // optional にしても可
+  applicationUrl?: string;
   campaign?: string;
-  payTypeLabel: string;
+  payTypeLabel?: string;
 };

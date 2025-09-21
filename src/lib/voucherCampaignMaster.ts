@@ -1,4 +1,11 @@
-export const voucherCampaignMaster = [
+import type { VoucherCampaign } from "@/types/voucher";
+
+/**
+ * 商品券キャンペーンのマスターデータ
+ * - 終了済みのキャンペーンはアーカイブ用途で残す
+ * - 同一自治体に複数のデータがある場合、新しい applyStartDate を持つものを優先
+ */
+const voucherCampaignsRaw: VoucherCampaign[] = [
   {
     paytype: "paypay-voucher",
     prefectureSlug: "fukushima",
@@ -1170,3 +1177,32 @@ export const voucherCampaignMaster = [
   applicationUrl: "https://paypay.ne.jp/event/saga-kiyama-town-gift-vouchers-20251001/"
 }
 ];
+
+/**
+ * 同一の市区町村ごとにグループ化して、
+ * 最新の applyStartDate を持つデータだけを残す。
+ */
+function deduplicateBySlug(campaigns: VoucherCampaign[]): VoucherCampaign[] {
+  const latestBySlug = campaigns.reduce<Record<string, VoucherCampaign>>(
+    (acc, campaign) => {
+      const key = `${campaign.prefectureSlug}-${campaign.citySlug}`;
+      const existing = acc[key];
+      if (
+        !existing ||
+        new Date(campaign.applyStartDate) > new Date(existing.applyStartDate)
+      ) {
+        acc[key] = campaign;
+      }
+      return acc;
+    },
+    {}
+  );
+  return Object.values(latestBySlug);
+}
+
+/**
+ * 外部に公開するマスターデータ
+ * - 常に最新の applyStartDate を持つデータのみ
+ */
+export const voucherCampaignMaster: VoucherCampaign[] =
+  deduplicateBySlug(voucherCampaignsRaw);
