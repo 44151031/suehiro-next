@@ -1,3 +1,4 @@
+// src/app/articles/[year]/[month]/[slug]/page.tsx
 import { notFound, redirect } from "next/navigation";
 import type { Metadata } from "next";
 import { createClientServerRSC } from "@/lib/supabase/rsc";
@@ -11,67 +12,12 @@ async function fetchArticleBySlug(slug: string) {
   const supabase = await createClientServerRSC();
   const { data, error } = await supabase
     .from("articles")
-    .select(
-      "id, public_id, title, dek, slug, status, body_md, hero_image_url, og_image_url, published_at, updated_at"
-    )
+    .select("id, public_id, title, dek, slug, status, body_md, hero_image_url, og_image_url, published_at, updated_at")
     .eq("slug", slug)
     .eq("status", "published")
     .single();
   if (error) return null;
   return data;
-}
-
-/** メタ生成（SSR） */
-export async function generateMetadata(
-  { params }: { params: Params }
-): Promise<Metadata> {
-  const a = await fetchArticleBySlug(params.slug);
-  if (!a || !a.published_at) return {};
-
-  const pub = new Date(a.published_at);
-  const y = String(pub.getFullYear());
-  const m = String(pub.getMonth() + 1).padStart(2, "0");
-  const canonicalPath = `/articles/${y}/${m}/${a.slug}`;
-
-  const siteName = "Payキャン（ペイキャン）";
-  const title = a.title ?? siteName;
-  const description = a.dek || `${siteName}のキャンペーン情報`;
-  const ogImg =
-    a.og_image_url || a.hero_image_url || absoluteUrl("/og-default.jpg");
-
-  return {
-    title,
-    description,
-    alternates: { canonical: canonicalPath },
-    openGraph: {
-      type: "article",
-      title,
-      description,
-      url: absoluteUrl(canonicalPath),
-      siteName,
-      images: [
-        {
-          url: ogImg,
-          width: 1200,
-          height: 630,
-          alt: title,
-        },
-      ],
-      publishedTime: a.published_at || undefined,
-      modifiedTime: a.updated_at || undefined,
-    },
-    twitter: {
-      card: "summary_large_image",
-      title,
-      description,
-      images: [ogImg],
-    },
-    robots: {
-      index: true,
-      follow: true,
-      "max-image-preview": "large",
-    },
-  };
 }
 
 export default async function ArticlePage({ params }: { params: Params }) {
@@ -85,59 +31,28 @@ export default async function ArticlePage({ params }: { params: Params }) {
     redirect(`/articles/${y}/${m}/${a.slug}`);
   }
 
-  // JSON-LD
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    headline: a.title,
-    description: a.dek || undefined,
-    datePublished: a.published_at,
-    dateModified: a.updated_at || a.published_at,
-    mainEntityOfPage: absoluteUrl(`/articles/${y}/${m}/${a.slug}`),
-    image: a.og_image_url || a.hero_image_url || undefined,
-    author: { "@type": "Organization", name: "Payキャン（ペイキャン）" },
-    publisher: {
-      "@type": "Organization",
-      name: "Payキャン（ペイキャン）",
-      logo: {
-        "@type": "ImageObject",
-        url: absoluteUrl("/logo.png"),
-      },
-    },
-  };
-
   return (
-    <main className="mx-auto max-w-3xl px-4 py-8">
-      {/* JSON-LD */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
-
-      <article>
-        {/* Hero 画像 */}
-        {a.hero_image_url ? (
+    <main className="mx-auto max-w-7xl px-4 py-8 grid grid-cols-1 lg:grid-cols-12 gap-8">
+      {/* 左：記事本文 */}
+      <article className="lg:col-span-8">
+        {a.hero_image_url && (
           <div className="mb-6">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={a.hero_image_url}
               alt={a.title}
               className="w-full rounded-xl shadow-md"
             />
           </div>
-        ) : null}
+        )}
 
-        {/* タイトル・デッキ */}
         <header className="mb-8">
           <h1 className="text-3xl font-bold leading-tight">{a.title}</h1>
-          {a.dek ? (
+          {a.dek && (
             <p className="mt-3 text-lg text-gray-600">{a.dek}</p>
-          ) : null}
+          )}
           <p className="mt-3 text-sm text-gray-500">
             公開日：{new Date(a.published_at).toLocaleDateString("ja-JP")}
-            {a.updated_at ? (
-              <>（最終更新：{new Date(a.updated_at).toLocaleDateString("ja-JP")}）</>
-            ) : null}
+            {a.updated_at && <>（最終更新：{new Date(a.updated_at).toLocaleDateString("ja-JP")}）</>}
           </p>
         </header>
 
@@ -147,44 +62,49 @@ export default async function ArticlePage({ params }: { params: Params }) {
         </section>
 
         {/* シェアボタン */}
-        <div className="mt-12 flex gap-4">
-          <Link
-            href={`https://twitter.com/share?url=${encodeURIComponent(
-              absoluteUrl(`/articles/${y}/${m}/${a.slug}`)
-            )}&text=${encodeURIComponent(a.title)}`}
-            target="_blank"
-            className="text-sm text-blue-500 underline"
-          >
+        <div className="mt-12 flex flex-wrap gap-4">
+          <Link href={`https://twitter.com/share?url=${encodeURIComponent(absoluteUrl(`/articles/${y}/${m}/${a.slug}`))}&text=${encodeURIComponent(a.title)}`} target="_blank" className="rounded bg-blue-500 px-3 py-1 text-white text-sm shadow hover:bg-blue-600">
             Xでシェア
           </Link>
-          <Link
-            href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
-              absoluteUrl(`/articles/${y}/${m}/${a.slug}`)
-            )}`}
-            target="_blank"
-            className="text-sm text-blue-700 underline"
-          >
+          <Link href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(absoluteUrl(`/articles/${y}/${m}/${a.slug}`))}`} target="_blank" className="rounded bg-blue-700 px-3 py-1 text-white text-sm shadow hover:bg-blue-800">
             Facebookでシェア
           </Link>
-          <Link
-            href={`https://social-plugins.line.me/lineit/share?url=${encodeURIComponent(
-              absoluteUrl(`/articles/${y}/${m}/${a.slug}`)
-            )}`}
-            target="_blank"
-            className="text-sm text-green-600 underline"
-          >
+          <Link href={`https://social-plugins.line.me/lineit/share?url=${encodeURIComponent(absoluteUrl(`/articles/${y}/${m}/${a.slug}`))}`} target="_blank" className="rounded bg-green-500 px-3 py-1 text-white text-sm shadow hover:bg-green-600">
             LINEでシェア
           </Link>
         </div>
 
-        {/* 関連記事（ダミー） */}
+        {/* 関連記事 */}
         <footer className="mt-12 border-t pt-6">
           <h2 className="mb-4 text-lg font-semibold">関連記事</h2>
-          <p className="text-sm text-gray-500">
-            同じエリア・カテゴリの記事をここに差し込む予定です。
-          </p>
+          <ul className="space-y-2 text-sm text-blue-600 underline">
+            <li><Link href="/articles/2025/08/paypay-campaign">8月限定PayPayキャンペーンまとめ</Link></li>
+            <li><Link href="/articles/2025/07/furusato-trend">ふるさと納税トレンド解説</Link></li>
+          </ul>
         </footer>
       </article>
+
+      {/* 右：サイドバー */}
+      <aside className="lg:col-span-4 space-y-8">
+        <div className="sticky top-20 space-y-6">
+          <section>
+            <h2 className="text-lg font-semibold mb-3">人気の記事</h2>
+            <ul className="space-y-3 text-sm">
+              <li><Link href="/articles/2025/09/paypay-satofull" className="text-blue-600 hover:underline">9月限定！さとふる×PayPay 最大21％還元</Link></li>
+              <li><Link href="/articles/2025/08/cashless-overview" className="text-blue-600 hover:underline">キャッシュレス還元の仕組み徹底解説</Link></li>
+              <li><Link href="/articles/2025/07/furusato-ban" className="text-blue-600 hover:underline">ふるさと納税 ポイント禁止の全貌</Link></li>
+            </ul>
+          </section>
+
+          <section>
+            <h2 className="text-lg font-semibold mb-3">注目のキャンペーン</h2>
+            <ul className="space-y-3 text-sm">
+              <li><Link href="/campaigns/tokyo/sumida/paypay" className="text-blue-600 hover:underline">墨田区 × PayPay</Link></li>
+              <li><Link href="/campaigns/saitama/gyoda/paypay" className="text-blue-600 hover:underline">行田市 × PayPay</Link></li>
+            </ul>
+          </section>
+        </div>
+      </aside>
     </main>
   );
 }
