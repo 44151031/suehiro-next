@@ -1,21 +1,25 @@
 import ArticleList, { ArticleListItemData } from "@/components/articles/ArticleList";
-import { createClientServer } from "@/lib/supabase/server";
+import { createClientPublic } from "@/lib/supabase/public";
 
 export const revalidate = 60;
 
 export default async function ArticlesIndexPage() {
-  const supabase = await createClientServer();
+  const supabase = createClientPublic();
 
   const { data, error } = await supabase
     .from("articles")
-    .select("id, title, slug, hero_image_url, published_at") // ← category を外す
+    .select("id, title, slug, hero_image_url, published_at")
     .eq("status", "published")
     .not("published_at", "is", null)
     .order("published_at", { ascending: false })
     .limit(50);
 
   if (error) {
-    return <div className="p-6 text-red-600">Failed to load: {error.message}</div>;
+    return (
+      <div className="p-6 text-red-600">
+        Failed to load: {error.message}
+      </div>
+    );
   }
 
   const items: ArticleListItemData[] = (data ?? []).map((a) => ({

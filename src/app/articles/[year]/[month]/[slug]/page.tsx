@@ -46,9 +46,9 @@ export default async function ArticlePage({ params }: { params: Params }) {
         )}
 
         <header className="mb-8">
-          <h1 className="text-3xl font-bold leading-tight">{a.title}</h1>
+          <h1 className="text-4xl font-bold leading-tight">{a.title}</h1>
           {a.dek && (
-            <p className="mt-3 text-lg text-gray-600">{a.dek}</p>
+            <p className="mt-3 text-xl text-gray-700 leading-relaxed">{a.dek}</p>
           )}
           <p className="mt-3 text-sm text-gray-500">
             公開日：{new Date(a.published_at).toLocaleDateString("ja-JP")}
@@ -57,19 +57,48 @@ export default async function ArticlePage({ params }: { params: Params }) {
         </header>
 
         {/* 本文 */}
-        <section className="prose prose-lg prose-neutral max-w-none">
+        <section
+          className="
+            prose prose-xl max-w-none leading-loose
+            prose-p:my-6 prose-li:my-2
+            prose-headings:font-bold
+            prose-h2:!text-2xl prose-h2:!mt-12 prose-h2:!mb-6
+            prose-h3:!text-xl prose-h3:!mt-8 prose-h3:!mb-4
+            prose-h4:!text-lg prose-h4:!mt-6 prose-h4:!mb-3 prose-h4:!text-gray-700
+            prose-a:text-blue-600 hover:prose-a:underline
+            prose-ul:pl-6 prose-ol:pl-6
+          "
+        >
           <Markdown source={a.body_md ?? ""} />
         </section>
 
         {/* シェアボタン */}
         <div className="mt-12 flex flex-wrap gap-4">
-          <Link href={`https://twitter.com/share?url=${encodeURIComponent(absoluteUrl(`/articles/${y}/${m}/${a.slug}`))}&text=${encodeURIComponent(a.title)}`} target="_blank" className="rounded bg-blue-500 px-3 py-1 text-white text-sm shadow hover:bg-blue-600">
+          <Link
+            href={`https://twitter.com/share?url=${encodeURIComponent(
+              absoluteUrl(`/articles/${y}/${m}/${a.slug}`)
+            )}&text=${encodeURIComponent(a.title)}`}
+            target="_blank"
+            className="rounded bg-blue-500 px-3 py-1 text-white text-sm shadow hover:bg-blue-600"
+          >
             Xでシェア
           </Link>
-          <Link href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(absoluteUrl(`/articles/${y}/${m}/${a.slug}`))}`} target="_blank" className="rounded bg-blue-700 px-3 py-1 text-white text-sm shadow hover:bg-blue-800">
+          <Link
+            href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
+              absoluteUrl(`/articles/${y}/${m}/${a.slug}`)
+            )}`}
+            target="_blank"
+            className="rounded bg-blue-700 px-3 py-1 text-white text-sm shadow hover:bg-blue-800"
+          >
             Facebookでシェア
           </Link>
-          <Link href={`https://social-plugins.line.me/lineit/share?url=${encodeURIComponent(absoluteUrl(`/articles/${y}/${m}/${a.slug}`))}`} target="_blank" className="rounded bg-green-500 px-3 py-1 text-white text-sm shadow hover:bg-green-600">
+          <Link
+            href={`https://social-plugins.line.me/lineit/share?url=${encodeURIComponent(
+              absoluteUrl(`/articles/${y}/${m}/${a.slug}`)
+            )}`}
+            target="_blank"
+            className="rounded bg-green-500 px-3 py-1 text-white text-sm shadow hover:bg-green-600"
+          >
             LINEでシェア
           </Link>
         </div>
@@ -78,29 +107,72 @@ export default async function ArticlePage({ params }: { params: Params }) {
         <footer className="mt-12 border-t pt-6">
           <h2 className="mb-4 text-lg font-semibold">関連記事</h2>
           <ul className="space-y-2 text-sm text-blue-600 underline">
-            <li><Link href="/articles/2025/08/paypay-campaign">8月限定PayPayキャンペーンまとめ</Link></li>
-            <li><Link href="/articles/2025/07/furusato-trend">ふるさと納税トレンド解説</Link></li>
+            <li>
+              <Link href="/articles/2025/08/paypay-campaign">
+                8月限定PayPayキャンペーンまとめ
+              </Link>
+            </li>
+            <li>
+              <Link href="/articles/2025/07/furusato-trend">
+                ふるさと納税トレンド解説
+              </Link>
+            </li>
           </ul>
         </footer>
       </article>
 
-      {/* 右：サイドバー */}
+      {/* 右：サイドバー（変更なし） */}
       <aside className="lg:col-span-4 space-y-8">
         <div className="sticky top-20 space-y-6">
           <section>
             <h2 className="text-lg font-semibold mb-3">人気の記事</h2>
             <ul className="space-y-3 text-sm">
-              <li><Link href="/articles/2025/09/paypay-satofull" className="text-blue-600 hover:underline">9月限定！さとふる×PayPay 最大21％還元</Link></li>
-              <li><Link href="/articles/2025/08/cashless-overview" className="text-blue-600 hover:underline">キャッシュレス還元の仕組み徹底解説</Link></li>
-              <li><Link href="/articles/2025/07/furusato-ban" className="text-blue-600 hover:underline">ふるさと納税 ポイント禁止の全貌</Link></li>
+              <li>
+                <Link
+                  href="/articles/2025/09/paypay-satofull"
+                  className="text-blue-600 hover:underline"
+                >
+                  9月限定！さとふる×PayPay 最大21％還元
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/articles/2025/08/cashless-overview"
+                  className="text-blue-600 hover:underline"
+                >
+                  キャッシュレス還元の仕組み徹底解説
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/articles/2025/07/furusato-ban"
+                  className="text-blue-600 hover:underline"
+                >
+                  ふるさと納税 ポイント禁止の全貌
+                </Link>
+              </li>
             </ul>
           </section>
 
           <section>
             <h2 className="text-lg font-semibold mb-3">注目のキャンペーン</h2>
             <ul className="space-y-3 text-sm">
-              <li><Link href="/campaigns/tokyo/sumida/paypay" className="text-blue-600 hover:underline">墨田区 × PayPay</Link></li>
-              <li><Link href="/campaigns/saitama/gyoda/paypay" className="text-blue-600 hover:underline">行田市 × PayPay</Link></li>
+              <li>
+                <Link
+                  href="/campaigns/tokyo/sumida/paypay"
+                  className="text-blue-600 hover:underline"
+                >
+                  墨田区 × PayPay
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/campaigns/saitama/gyoda/paypay"
+                  className="text-blue-600 hover:underline"
+                >
+                  行田市 × PayPay
+                </Link>
+              </li>
             </ul>
           </section>
         </div>
