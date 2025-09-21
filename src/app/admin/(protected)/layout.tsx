@@ -31,7 +31,16 @@ export default async function AdminProtectedLayout({
               <Link href="/admin/logout" className="text-red-600 hover:underline">ログアウト</Link>
             </nav>
           </div>
-        <div className="text-xs text-gray-500">{user.email}</div>
+          <div className="flex flex-col items-end text-xs text-gray-500">
+            <div>{user.email}</div>
+            <div>
+              {me?.is_admin ? (
+                <span className="text-green-600">is_admin = true</span>
+              ) : (
+                <span className="text-red-600">is_admin = false</span>
+              )}
+            </div>
+          </div>
         </div>
       </header>
       <main className="mx-auto max-w-5xl px-4 py-6">{children}</main>
