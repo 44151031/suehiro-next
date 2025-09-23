@@ -28,6 +28,49 @@ export default function ArticleImagePage() {
     fetchCurrentImage();
   }, [publicId]);
 
+  // 🔧 OGP用に1200x630 jpgに変換する関数
+  const resizeImageToOGP = (file: File): Promise<Blob> => {
+    return new Promise((resolve, reject) => {
+      const img = new Image();
+      img.onload = () => {
+        const canvas = document.createElement("canvas");
+        const ctx = canvas.getContext("2d");
+        if (!ctx) return reject(new Error("Canvas not supported"));
+
+        canvas.width = 1200;
+        canvas.height = 630;
+
+        // cover風にトリミングして描画
+        const aspect = img.width / img.height;
+        const targetAspect = 1200 / 630;
+
+        let sx = 0, sy = 0, sw = img.width, sh = img.height;
+        if (aspect > targetAspect) {
+          // 横長 → 横をカット
+          sw = img.height * targetAspect;
+          sx = (img.width - sw) / 2;
+        } else {
+          // 縦長 → 縦をカット
+          sh = img.width / targetAspect;
+          sy = (img.height - sh) / 2;
+        }
+
+        ctx.drawImage(img, sx, sy, sw, sh, 0, 0, 1200, 630);
+
+        canvas.toBlob(
+          (blob) => {
+            if (blob) resolve(blob);
+            else reject(new Error("Canvas toBlob failed"));
+          },
+          "image/jpeg",
+          0.7 // 品質70%
+        );
+      };
+      img.onerror = reject;
+      img.src = URL.createObjectURL(file);
+    });
+  };
+
   const onDrop = async (acceptedFiles: File[]) => {
     try {
       setUploading(true);
@@ -36,10 +79,14 @@ export default function ArticleImagePage() {
       const file = acceptedFiles[0];
       if (!file) return;
 
-      // プレビュー用にURL生成
+      // プレビュー表示用
       setPreview(URL.createObjectURL(file));
 
-      // 古い拡張子違いを削除
+      // OGP用に変換
+      const blob = await resizeImageToOGP(file);
+      const ogpFile = new File([blob], `${publicId}.jpg`, { type: "image/jpeg" });
+
+      // 古い画像を削除
       await supabaseClient.storage.from("articles-public").remove([
         `${publicId}.jpg`,
         `${publicId}.jpeg`,
@@ -47,15 +94,13 @@ export default function ArticleImagePage() {
         `${publicId}.webp`,
       ]);
 
-      // 新しい拡張子で保存（※フォルダ名は不要）
-      const ext = file.name.split(".").pop();
-      const filePath = `${publicId}.${ext}`;
-
+      // 新しいjpgで保存
+      const filePath = `${publicId}.jpg`;
       const { error: uploadError } = await supabaseClient.storage
         .from("articles-public")
-        .upload(filePath, file, {
+        .upload(filePath, ogpFile, {
           upsert: true,
-          contentType: file.type,
+          contentType: "image/jpeg",
         });
 
       if (uploadError) throw uploadError;
@@ -67,7 +112,6 @@ export default function ArticleImagePage() {
 
       const imageUrl = data.publicUrl;
 
-
       // DBを更新
       const { error: dbError } = await supabaseClient
         .from("articles")
@@ -76,8 +120,8 @@ export default function ArticleImagePage() {
 
       if (dbError) throw dbError;
 
-      setMsg("アップロード完了！（古い画像は削除済み）");
-      setCurrentImage(imageUrl); // DB更新後、最新画像を反映
+      setMsg("アップロード完了！（1200x630 jpgに変換済み）");
+      setCurrentImage(imageUrl);
     } catch (err: any) {
       setMsg("エラー: " + err.message);
     } finally {
@@ -98,8 +142,9 @@ export default function ArticleImagePage() {
 
       <div
         {...getRootProps()}
-        className={`border-2 border-dashed rounded-lg p-10 text-center cursor-pointer ${isDragActive ? "border-blue-500 bg-blue-50" : "border-gray-300"
-          }`}
+        className={`border-2 border-dashed rounded-lg p-10 text-center cursor-pointer ${
+          isDragActive ? "border-blue-500 bg-blue-50" : "border-gray-300"
+        }`}
       >
         <input {...getInputProps()} />
         {isDragActive ? (
@@ -112,11 +157,10 @@ export default function ArticleImagePage() {
       {uploading && <p className="mt-4 text-gray-500">アップロード中...</p>}
       {msg && <p className="mt-4">{msg}</p>}
 
-      {/* 既存画像がある場合 */}
+      {/* 既存画像 */}
       {currentImage && !preview && (
         <div className="mt-6">
           <p className="mb-2 text-gray-600">現在の画像</p>
-          {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src={currentImage}
             alt="current hero"
@@ -125,11 +169,10 @@ export default function ArticleImagePage() {
         </div>
       )}
 
-      {/* 新規アップロードプレビュー */}
+      {/* 新規プレビュー */}
       {preview && (
         <div className="mt-6">
-          <p className="mb-2 text-gray-600">新しいプレビュー</p>
-          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <p className="mb-2 text-gray-600">新しいプレビュー（変換前の元画像）</p>
           <img src={preview} alt="preview" className="max-h-64 rounded shadow" />
         </div>
       )}
