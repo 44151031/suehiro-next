@@ -311,7 +311,7 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
     citySlug: "fukuoka",
     prefecture: "福岡県",
     city: "福岡市",
-    campaigntitle: "福岡市プレミアム商品券(全域では使えません。要確認)",
+    campaigntitle: "福岡市プレミアム商品券",
     purchasePrice: 5000,
     ticketAmount: 6000,
     maxUnits: 20,

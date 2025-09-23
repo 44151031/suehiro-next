@@ -47,9 +47,9 @@ export default function ArticleImagePage() {
         `${publicId}.webp`,
       ]);
 
-      // 新しい拡張子で保存
+      // 新しい拡張子で保存（※フォルダ名は不要）
       const ext = file.name.split(".").pop();
-      const filePath = `articles-public/${publicId}.${ext}`;
+      const filePath = `${publicId}.${ext}`;
 
       const { error: uploadError } = await supabaseClient.storage
         .from("articles-public")
@@ -66,6 +66,7 @@ export default function ArticleImagePage() {
         .getPublicUrl(filePath);
 
       const imageUrl = data.publicUrl;
+
 
       // DBを更新
       const { error: dbError } = await supabaseClient
@@ -97,9 +98,8 @@ export default function ArticleImagePage() {
 
       <div
         {...getRootProps()}
-        className={`border-2 border-dashed rounded-lg p-10 text-center cursor-pointer ${
-          isDragActive ? "border-blue-500 bg-blue-50" : "border-gray-300"
-        }`}
+        className={`border-2 border-dashed rounded-lg p-10 text-center cursor-pointer ${isDragActive ? "border-blue-500 bg-blue-50" : "border-gray-300"
+          }`}
       >
         <input {...getInputProps()} />
         {isDragActive ? (
