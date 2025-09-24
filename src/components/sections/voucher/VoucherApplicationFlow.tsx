@@ -5,6 +5,8 @@ type Props = {
 };
 
 export function VoucherApplicationFlow({ campaignUrl }: Props) {
+  const paypayDeepLink = `paypay://open?url=${encodeURIComponent(campaignUrl)}`;
+
   return (
     <section className="bg-white rounded-2xl shadow-sm p-6 my-6">
       <h2 className="text-xl font-bold mb-4">申し込みの流れ</h2>
@@ -17,8 +19,13 @@ export function VoucherApplicationFlow({ campaignUrl }: Props) {
         <li>申し込み完了後、確認メールが届きます</li>
         <li>
           当選した場合、アプリ上に購入権が表示されます。
-          <a href={campaignUrl} target="_blank" rel="noopener noreferrer"
-             className="ml-1 text-blue-600 underline">
+          {/* モバイル時のみ表示 */}
+          <a
+            href={paypayDeepLink}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="ml-1 text-blue-600 underline block md:hidden"
+          >
             今すぐアプリで確認
           </a>
         </li>
