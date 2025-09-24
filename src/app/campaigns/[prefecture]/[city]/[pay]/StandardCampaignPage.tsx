@@ -1,5 +1,6 @@
 // /app/campaigns/[prefecture]/[city]/[pay]/StandardCampaignPage.tsx
 // ✅ 最終完全版（FAQ構造化データ含む統合構造化データ対応済み）
+
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
 import { campaigns } from "@/lib/campaignMaster";
@@ -26,6 +27,10 @@ import PaytypeCampaignStructuredData from "@/components/structured/PaytypeCampai
 import CityCampaignFAQ from "@/components/sections/city/CampaignFAQ";
 import AdUnit from "@/components/common/AdUnit";
 
+// ▼ 商品券データ
+import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster";
+import VoucherCampaignCardList from "@/components/common/VoucherCampaignCardList";
+
 type Props = {
   params: { prefecture: string; city: string; pay: string };
 };
@@ -49,13 +54,20 @@ export default async function CityPaytypePage({
         c.citySlug === params.city &&
         c.paytype === paytypeId
     )
-    .sort((a, b) => new Date(b.startDate).getTime() - new Date(a.startDate).getTime())[0];
+    .sort(
+      (a, b) =>
+        new Date(b.startDate).getTime() - new Date(a.startDate).getTime()
+    )[0];
 
   if (!campaign) return notFound();
 
   const payLabel = PayTypeLabels[paytypeId];
 
-  const shopListByGenre = await loadShopList(params.prefecture, params.city, paytypeId);
+  const shopListByGenre = await loadShopList(
+    params.prefecture,
+    params.city,
+    paytypeId
+  );
   const genres = await loadGenres(params.prefecture, params.city, paytypeId);
 
   const {
@@ -95,9 +107,15 @@ export default async function CityPaytypePage({
         city={city}
         citySlug={citySlug}
         paytype={paytypeId} // ✅ スラッグ形式（小文字）で渡す
-        headline={`${city} × ${payLabel} 最大${offer}％還元キャンペーン【${formatJapaneseDate(endDate)}まで】`}
+        headline={`${city} × ${payLabel} 最大${offer}％還元キャンペーン【${formatJapaneseDate(
+          endDate
+        )}まで】`}
         articleDescription={`本記事では、${prefecture}${city}で開催される${payLabel}ポイント還元キャンペーンの概要、対象条件、注意事項、対象店舗一覧などを解説します。`}
-        offerDescription={`${formatJapaneseDate(startDate)}から${formatJapaneseDate(endDate)}まで、${prefecture}${city}内の対象店舗で${payLabel}決済を行うと、最大${offer}％のポイントが還元されるキャンペーンが実施されます。`}
+        offerDescription={`${formatJapaneseDate(
+          startDate
+        )}から${formatJapaneseDate(
+          endDate
+        )}まで、${prefecture}${city}内の対象店舗で${payLabel}決済を行うと、最大${offer}％のポイントが還元されるキャンペーンが実施されます。`}
         validFrom={startDate}
         validThrough={endDate}
         url={pageUrl}
@@ -112,8 +130,7 @@ export default async function CityPaytypePage({
       <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
         <main className="max-w-[1200px] mx-auto px-4 py-10">
           <h1 className="headline1">
-            {city}の{payLabel}キャンペーン対象店舗一覧
-            (最大{offer}%還元)
+            {city}の{payLabel}キャンペーン対象店舗一覧 (最大{offer}%還元)
           </h1>
 
           {datePublished && (
@@ -123,13 +140,20 @@ export default async function CityPaytypePage({
             </p>
           )}
           <p className="text-xs md:text-base leading-relaxed text-gray-800 mb-2">
-            <span className="font-semibold">{prefecture}{city}</span>で
+            <span className="font-semibold">
+              {prefecture}
+              {city}
+            </span>
+            で
             <span className="text-brand-primary font-bold">
               {formatJapaneseDate(startDate)}から
               {formatJapaneseDate(endDate)}
             </span>
             までの期間で、
-            <span className="font-semibold">{payLabel}{offer}％還元</span>
+            <span className="font-semibold">
+              {payLabel}
+              {offer}％還元
+            </span>
             キャンペーンが開催。このページでは効率よくポイントを獲得できるように対象店舗をジャンルに分けて紹介しています。
           </p>
 
@@ -140,22 +164,36 @@ export default async function CityPaytypePage({
           />
           <CampaignStatusNotice campaign={campaign} />
           <CampaignSummaryCard campaign={campaign} />
-          <GenreHeaderNav genres={genres} paytypeLabel={payLabel} paytype={paytypeId} />
-          <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
+          <GenreHeaderNav
+            genres={genres}
+            paytypeLabel={payLabel}
+            paytype={paytypeId}
+          />
+          <SNSShareButtons
+            url={pageUrl}
+            title={shareTitle}
+            hashtags={shareHashtags}
+          />
           <AdUnit />
+
           <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
             <h2 className="headline2">
               キャンペーン概要|{city}の{payLabel}還元キャンペーンとは？
             </h2>
             <p>
-              <strong>{prefecture}{city}「{campaigntitle}」</strong> は、
+              <strong>
+                {prefecture}
+                {city}「{campaigntitle}」
+              </strong>{" "}
+              は、
               <span className="text-brand-primary font-bold">
                 {formatJapaneseDate(startDate)}から
                 {formatJapaneseDate(endDate)}
               </span>
               までの期間で、{city}の対象店舗で{payLabel}でお支払いすると、
               <span className="text-brand-primary font-bold">{offer}％</span>
-              が還元されるお得なキャンペーンです。最大{formatNumber(fullpoint)}円分のポイントを獲得できます。
+              が還元されるお得なキャンペーンです。最大
+              {formatNumber(fullpoint)}円分のポイントを獲得できます。
             </p>
           </section>
 
@@ -167,10 +205,7 @@ export default async function CityPaytypePage({
             <CampaignNotice campaign={campaign} />
           </div>
 
-          <h2
-            id="shop-list-section"
-            className="headline2 mb-4 scroll-mt-34"
-          >
+          <h2 id="shop-list-section" className="headline2 mb-4 scroll-mt-34">
             {payLabel}が使える{city}の{offer}%還元対象店舗一覧
           </h2>
           <AdUnit />
@@ -197,9 +232,40 @@ export default async function CityPaytypePage({
             currentPaytype={paytypeId}
           />
 
+          {/* ▼ 追加：同じ都道府県のPayPay商品券 */}
+          {(() => {
+            const now = new Date();
+            const prefectureVoucherCampaigns = voucherCampaignMaster
+              .filter(
+                (v) =>
+                  v.prefectureSlug === prefectureSlug &&
+                  now <= new Date(v.applyEndDate)
+              )
+              .sort(
+                (a, b) =>
+                  new Date(a.applyStartDate).getTime() -
+                  new Date(b.applyStartDate).getTime()
+              );
+
+            if (prefectureVoucherCampaigns.length === 0) return null;
+
+            return (
+              <section className="mt-12">
+                <h2 className="text-xl sm:text-2xl font-bold text-neutral-800 mb-6 border-l-4 border-brand-primary pl-4">
+                  {prefecture}のオトクなPayPay商品券の情報はこちら
+                </h2>
+                <VoucherCampaignCardList campaigns={prefectureVoucherCampaigns} />
+              </section>
+            );
+          })()}
+
           <SampleShopExample />
           <StoreRegistrationCTA />
-          <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
+          <SNSShareButtons
+            url={pageUrl}
+            title={shareTitle}
+            hashtags={shareHashtags}
+          />
           <CityCampaignFAQ
             prefecture={prefecture}
             city={city}
