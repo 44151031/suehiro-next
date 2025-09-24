@@ -25,25 +25,27 @@ type Props = {
   officialUrl?: string;
 };
 
-const PaytypeCampaignStructuredData = ({
-  prefecture,
-  prefectureSlug,
-  city,
-  citySlug,
-  paytype,
-  headline,
-  articleDescription,
-  offerDescription,
-  validFrom,
-  validThrough,
-  url,
-  offerRate,
-  onePayLimit,
-  fullPayLimit,
-  datePublished,
-  dateModified,
-  officialUrl,
-}: Props) => {
+const PaytypeCampaignStructuredData = (props: Props) => {
+  const {
+    prefecture,
+    prefectureSlug,
+    city,
+    citySlug,
+    paytype,
+    headline,
+    articleDescription,
+    offerDescription,
+    validFrom,
+    validThrough,
+    url,
+    offerRate,
+    onePayLimit,
+    fullPayLimit,
+    datePublished,
+    dateModified,
+    officialUrl,
+  } = props;
+
   const origin = "https://paycancampaign.com";
   const paytypeLabel = PayTypeLabels[paytype] || paytype;
 
@@ -55,86 +57,92 @@ const PaytypeCampaignStructuredData = ({
   const officialPageUrl = officialUrl ?? `${origin}/campaigns/${prefectureSlug}/${citySlug}`;
   const faqGraph = generateFAQGraph(prefecture, city, paytypeLabel);
 
+  // ===== ここで「終了済みかどうか」を判定 =====
+  const now = new Date();
+  const endDate = new Date(`${validThrough}T23:59:59+09:00`);
+  const isFutureOrOngoing = endDate >= now;
+
+  const graph: any[] = [
+    {
+      "@type": "Article",
+      headline,
+      description: articleDescription,
+      author: {
+        "@type": "Organization",
+        name: "Payキャン",
+        url: origin,
+      },
+      publisher: {
+        "@type": "Organization",
+        name: "Payキャン",
+        logo: {
+          "@type": "ImageObject",
+          url: `${origin}/logo.png`,
+        },
+      },
+      mainEntityOfPage: {
+        "@type": "WebPage",
+        "@id": url,
+      },
+      url,
+      image: {
+        "@type": "ImageObject",
+        url: imageUrl,
+      },
+      datePublished: `${datePublished}T00:00:00+09:00`,
+      dateModified: `${dateModified}T00:00:00+09:00`,
+    },
+  ];
+
+  if (isFutureOrOngoing) {
+    graph.push({
+      "@type": "Event",
+      name: `${city}の${paytypeLabel}キャンペーン（最大${offerRate}％還元）`,
+      startDate: `${validFrom}T00:00:00+09:00`,
+      endDate: `${validThrough}T23:59:59+09:00`,
+      eventStatus: "http://schema.org/EventScheduled",
+      location: {
+        "@type": "Place",
+        name: `${prefecture}${city}`,
+        address: {
+          "@type": "PostalAddress",
+          addressLocality: city,
+          addressRegion: prefecture,
+          addressCountry: "JP",
+        },
+      },
+      image: imageUrl,
+      description: offerLimitDescription,
+      offers: {
+        "@type": "Offer",
+        name: `最大${offerRate}％ポイント還元キャンペーン（${city} × ${paytypeLabel}）`,
+        description: offerDescription,
+        priceCurrency: "JPY",
+        price: 0, // 無料イベント扱いにして必須項目を満たす
+        availability: "https://schema.org/InStock",
+        validFrom: `${validFrom}T00:00:00+09:00`,
+        validThrough: `${validThrough}T23:59:59+09:00`,
+        url,
+      },
+      performer: {
+        "@type": "Organization",
+        name: `${prefecture}${city}`,
+      },
+      organizer: {
+        "@type": "GovernmentOrganization",
+        name: `${prefecture}${city}`,
+        url: officialPageUrl,
+      },
+      mainEntityOfPage: {
+        "@type": "WebPage",
+        "@id": url,
+      },
+    });
+  }
+
   const data = {
     "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Article",
-        headline,
-        description: articleDescription,
-        author: {
-          "@type": "Organization",
-          name: "Payキャン",
-          url: origin,
-        },
-        publisher: {
-          "@type": "Organization",
-          name: "Payキャン",
-          logo: {
-            "@type": "ImageObject",
-            url: `${origin}/logo.png`,
-          },
-        },
-        mainEntityOfPage: {
-          "@type": "WebPage",
-          "@id": url,
-        },
-        url,
-        image: {
-          "@type": "ImageObject",
-          url: imageUrl,
-        },
-        datePublished: `${datePublished}T00:00:00+09:00`,
-        dateModified: `${dateModified}T00:00:00+09:00`,
-      },
-      {
-        "@type": "Event",
-        name: `${city}の${paytypeLabel}キャンペーン（最大${offerRate}％還元）`,
-        startDate: `${validFrom}T00:00:00+09:00`,
-        endDate: `${validThrough}T00:00:00+09:00`,
-        eventStatus: "http://schema.org/EventScheduled",
-        location: {
-          "@type": "Place",
-          name: `${prefecture}${city}`,
-          address: {
-            "@type": "PostalAddress",
-            addressLocality: city,
-            addressRegion: prefecture,
-            addressCountry: "JP",
-          },
-        },
-        image: imageUrl,
-        description: offerLimitDescription,
-        offers: {
-          "@type": "Offer",
-          name: `最大${offerRate}％ポイント還元キャンペーン（${city} × ${paytypeLabel}）`,
-          description: offerDescription,
-          priceCurrency: "JPY",
-          validFrom: `${validFrom}T00:00:00+09:00`,
-          validThrough: `${validThrough}T00:00:00+09:00`,
-          url,
-          priceSpecification: {
-            "@type": "UnitPriceSpecification",
-            priceCurrency: "JPY",
-            description: offerLimitDescription,
-          },
-        },
-        performer: {
-          "@type": "Organization",
-          name: `${prefecture}${city}`,
-        },
-        organizer: {
-          "@type": "GovernmentOrganization",
-          name: `${prefecture}${city}`,
-          url: officialPageUrl,
-        },
-        mainEntityOfPage: {
-          "@type": "WebPage",
-          "@id": url,
-        },
-      },
-      ...faqGraph,
-    ],
+    "@graph": [...graph, ...faqGraph],
   };
 
   return (
