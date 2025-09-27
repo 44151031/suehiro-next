@@ -3,7 +3,7 @@
 import { Shop } from "@/types/shop";
 import { ShopDetail } from "@/types/shopDetails";
 import { cn } from "@/lib/utils";
-import { SupportButton } from "@/components/common/SupportButton";
+import SupportButton from "@/components/common/SupportButton";
 
 type Props = {
   shop: Shop;

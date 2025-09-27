@@ -1,50 +1,69 @@
 "use client";
 
-import { useState, useTransition } from "react";
+import { useEffect, useState } from "react";
 import { toggleSupport } from "@/app/actions/support";
 import { toast } from "sonner";
 
-type Props = {
-  shopid: string;
-  initialLikes?: number;
-  initiallyLiked?: boolean;
-};
+type Props = { shopid: string };
 
-export function SupportButton({ shopid, initialLikes = 0, initiallyLiked = false }: Props) {
-  const [pending, start] = useTransition();
-  const [likes, setLikes] = useState(initialLikes);
-  const [liked, setLiked] = useState(initiallyLiked);
+export default function SupportButton({ shopid }: Props) {
+  const [likes, setLikes] = useState<number>(0);
+  const [liked, setLiked] = useState<boolean>(false);
+  const [pending, setPending] = useState<boolean>(false); // 連打防止
 
-  async function handleClick() {
-    start(async () => {
-      const res = await toggleSupport(shopid);
+  // ✅ 初期ロードでいいね数を取得
+  useEffect(() => {
+    const fetchLikes = async () => {
+      try {
+        const res = await fetch(`/api/shops/likes?shopid=${shopid}`, { cache: "no-store" });
+        if (res.ok) {
+          const data = await res.json();
+          setLikes(data.likes ?? 0);
+        }
+      } catch (e) {
+        console.error("Failed to fetch likes:", e);
+      }
+    };
+    fetchLikes();
+  }, [shopid]);
 
-      if (res.ok) {
-        setLiked(res.liked);
-        setLikes(res.likes);
+  const handleClick = async () => {
+    if (pending) return;
+    setPending(true);
+    try {
+      const result = await toggleSupport(shopid);
+      if (result.ok) {
+        setLiked(result.liked);
+        setLikes(result.likes);
 
         // ✅ 応援追加時のみトースト通知
-        if (res.liked) {
-          toast.success(res.message); // 「応援ありがとうございます！」を表示
+        if (result.liked) {
+          toast.success(result.message || "応援ありがとうございます！");
         }
-        // 取り消し時は通知なし
+        // ✅ 取り消し時は通知なし
       } else {
-        // ✅ 4回目以降など制限時はエラートースト
-        toast.error(res.message);
+        // ✅ 上限やエラーなどはエラートースト
+        toast.error(result.message || "エラーが発生しました");
       }
-    });
-  }
+    } catch (e) {
+      console.error(e);
+      toast.error("通信エラーが発生しました");
+    } finally {
+      setPending(false);
+    }
+  };
 
   return (
     <button
-      disabled={pending}
       onClick={handleClick}
-      className="flex items-center gap-1 hover:scale-105 transition disabled:opacity-50"
+      disabled={pending}
+      aria-disabled={pending}
+      className={`flex items-center space-x-1 px-3 py-1 rounded-full text-sm transition ${
+        liked ? "bg-pink-100 text-pink-600" : "bg-gray-100 text-gray-600"
+      } ${pending ? "opacity-60 pointer-events-none" : ""}`}
     >
-      {liked ? <span className="text-red-500">❤️</span> : <span className="text-gray-400">♡</span>}
-      <span className={liked ? "text-red-500" : "text-gray-400"}>
-        {likes >= 50 ? "50+" : likes}
-      </span>
+      <span className="text-lg">{liked ? "♥" : "♡"}</span>
+      <span>{likes > 50 ? "50+" : likes}</span>
     </button>
   );
 }
