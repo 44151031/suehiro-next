@@ -2,6 +2,7 @@
 
 import { useState, useTransition } from "react";
 import { toggleSupport } from "@/app/actions/support";
+import { toast } from "sonner";
 
 type Props = {
   shopid: string;
@@ -22,13 +23,14 @@ export function SupportButton({ shopid, initialLikes = 0, initiallyLiked = false
         setLiked(res.liked);
         setLikes(res.likes);
 
-        // ✅ 応援追加時のみアラート表示
+        // ✅ 応援追加時のみトースト通知
         if (res.liked) {
-          alert(res.message); // 「応援ありがとうございます！」を表示
+          toast.success(res.message); // 「応援ありがとうございます！」を表示
         }
+        // 取り消し時は通知なし
       } else {
-        // ✅ 制限時などのエラーメッセージをアラート表示
-        alert(res.message);
+        // ✅ 4回目以降など制限時はエラートースト
+        toast.error(res.message);
       }
     });
   }

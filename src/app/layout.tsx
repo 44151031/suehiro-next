@@ -8,6 +8,9 @@ import Footer from "@/components/layout/Footer";
 import LayoutShell from "@/components/layout/LayoutShell";
 import ClientNoIndex from "@/components/common/ClientNoIndex"; // ✅ 追加
 
+// ✅ toast 用
+import { Toaster } from "sonner";
+
 // ✅ metadataGenerators.ts を使って動的にメタデータを生成
 import { generateMetadata as generateDynamicMetadata } from "@/lib/metadataGenerators";
 
@@ -82,6 +85,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Header />
         <LayoutShell>{children}</LayoutShell>
         <Footer />
+
+        {/* ✅ 全ページでトーストを利用可能にする */}
+        <Toaster richColors position="top-center" />
       </body>
     </html>
   );
