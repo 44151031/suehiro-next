@@ -19,17 +19,19 @@ import StoreRegistrationCTA from "@/components/common/StoreRegistrationCTA";
 import CTAShopList from "@/components/sections/city/CTAShopList";
 import { generateShareContent } from "@/lib/generateShareContent";
 import { SNSShareButtons } from "@/components/common/SNSShareButtons";
-import GenreShopLists from "@/components/sections/shop/GenreShopLists";
 import SampleShopExample from "@/components/sections/shop/SampleShopExample";
 import CampaignStatusNotice from "@/components/common/CampaignStatusNotice";
 import { getPaytypeMetadata } from "@/lib/metadataGenerators";
-import PaytypeCampaignStructuredData from "@/components/structured/PaytypeCampaignStructuredData"; // ✅ 統合構造化データ
+import PaytypeCampaignStructuredData from "@/components/structured/PaytypeCampaignStructuredData";
 import CityCampaignFAQ from "@/components/sections/city/CampaignFAQ";
 import AdUnit from "@/components/common/AdUnit";
 
 // ▼ 商品券データ
 import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster";
 import VoucherCampaignCardList from "@/components/common/VoucherCampaignCardList";
+
+// ✅ 追加: ランキング付きのクライアントコンポーネント
+import ClientShopLists from "@/components/sections/shop/ClientShopLists";
 
 type Props = {
   params: { prefecture: string; city: string; pay: string };
@@ -106,7 +108,7 @@ export default async function CityPaytypePage({
         prefectureSlug={prefectureSlug}
         city={city}
         citySlug={citySlug}
-        paytype={paytypeId} // ✅ スラッグ形式（小文字）で渡す
+        paytype={paytypeId}
         headline={`${city} × ${payLabel} 最大${offer}％還元キャンペーン【${formatJapaneseDate(
           endDate
         )}まで】`}
@@ -210,20 +212,16 @@ export default async function CityPaytypePage({
           </h2>
           <AdUnit />
           {!shopListByGenre ? (
-            <>
-              <p className="mt-10 text-gray-700 text-base">
-                現時点では対象店舗情報が公表されていません。
-                <br />
-                公表されましたらこのページで紹介いたします。
-              </p>
-            </>
+            <p className="mt-10 text-gray-700 text-base">
+              現時点では対象店舗情報が公表されていません。
+              <br />
+              公表されましたらこのページで紹介いたします。
+            </p>
           ) : (
-            <>
-              <GenreShopLists
-                shopListByGenre={shopListByGenre}
-                detailsJsonPath={detailsJsonPath}
-              />
-            </>
+            <ClientShopLists
+              shopListByGenre={shopListByGenre}
+              detailsJsonPath={detailsJsonPath}
+            />
           )}
 
           <OtherPaytypesCampaigns

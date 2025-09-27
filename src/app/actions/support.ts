@@ -9,7 +9,7 @@ import { getOrSetSessionId } from "@/lib/session";
  * @returns { ok, liked, likes, message }
  */
 export async function toggleSupport(shopid: string) {
-  const supabase = await createClientServer(); // ← 修正
+  const supabase = await createClientServer();
   const sid = getOrSetSessionId();
 
   const { data, error } = await supabase.rpc("toggle_support", {
@@ -33,4 +33,19 @@ export async function toggleSupport(shopid: string) {
     likes: number;
     message: string;
   };
+}
+
+/**
+ * 応援ランキングを取得
+ * @returns { shopid, likes }[]
+ */
+export async function getShopRanking() {
+  const supabase = await createClientServer();
+  const { data, error } = await supabase.rpc("get_shop_ranking");
+
+  if (error) {
+    console.error("getShopRanking error:", error);
+    return [];
+  }
+  return data as { shopid: string; likes: number }[];
 }

@@ -11,10 +11,17 @@ type Shop = {
 
 type Props = {
   shopListByGenre: Record<string, Shop[]>;
-  detailsJsonPath: string; // ✅ これを追加！
+  detailsJsonPath: string;
+  sortMode: "default" | "support"; // ✅ 親から受け取る
+  ranking: { shopid: string; likes: number }[]; // ✅ 親から受け取る
 };
 
-export default function GenreShopLists({ shopListByGenre }: Props) {
+export default function GenreShopLists({
+  shopListByGenre,
+  detailsJsonPath,
+  sortMode,
+  ranking,
+}: Props) {
   const rawGenres = Object.keys(shopListByGenre);
   const sortedGenres = sortGenresByPriority(rawGenres);
 
@@ -33,6 +40,8 @@ export default function GenreShopLists({ shopListByGenre }: Props) {
           key={genre}
           genre={genre}
           shops={shopListByGenre[genre]}
+          sortMode={sortMode}     // ✅ 追加
+          ranking={ranking}       // ✅ 追加
         />
       ))}
     </section>

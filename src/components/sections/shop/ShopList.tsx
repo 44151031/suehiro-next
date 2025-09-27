@@ -2,11 +2,11 @@
 
 import { useRef, useState, useEffect } from "react";
 import { useShopDetails } from "@/hooks/useShopDetails";
-import ShopCard from "./ShopCard"; // ✅ 統合したカードを使う
+import ShopCard from "./ShopCard";
 
 type Shop = {
   name: string;
-  address: string;
+  address?: string;
   shopid?: string;
 };
 
@@ -26,22 +26,39 @@ type ShopDetail = {
 type Props = {
   genre: string;
   shops: Shop[];
+  sortMode: "default" | "support"; // ✅ 親から受け取る
+  ranking: { shopid: string; likes: number }[]; // ✅ 親から受け取る
 };
 
-export default function ShopList({ genre, shops }: Props) {
+export default function ShopList({ genre, shops, sortMode, ranking }: Props) {
   const [expanded, setExpanded] = useState(false);
   const [isClient, setIsClient] = useState(false);
+
   const headingRef = useRef<HTMLHeadingElement>(null);
-  const { detailsMap } = useShopDetails();
+  const { detailsMap } = useShopDetails() || { detailsMap: {} };
 
   useEffect(() => {
     setIsClient(true);
   }, []);
 
   const threshold = 12;
-  const showToggle = shops.length > threshold;
+  const showToggle = shops?.length > threshold;
   const visibleShops =
-    isClient && !expanded ? shops.slice(0, threshold) : shops;
+    isClient && !expanded ? shops?.slice(0, threshold) : shops;
+
+  // ✅ 並び替え処理（応援順）
+  const sortedShops =
+    sortMode === "support"
+      ? [...visibleShops].sort((a, b) => {
+          const rankA = a.shopid
+            ? ranking.find((r) => r.shopid === a.shopid)?.likes ?? 0
+            : 0;
+          const rankB = b.shopid
+            ? ranking.find((r) => r.shopid === b.shopid)?.likes ?? 0
+            : 0;
+          return rankB - rankA;
+        })
+      : visibleShops;
 
   const toggleExpanded = () => {
     if (expanded && headingRef.current) {
@@ -60,18 +77,19 @@ export default function ShopList({ genre, shops }: Props) {
         {genre}の対象店舗
       </h2>
 
-      {shops.length === 0 ? (
+      {!shops || shops.length === 0 ? (
         <p className="text-gray-600 text-sm">
           公表されましたらこのページで紹介いたします。
         </p>
       ) : (
         <>
           <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 sm:gap-3 text-sm">
-            {visibleShops.map((shop, idx) => {
-              const detail = shop.shopid ? detailsMap[shop.shopid] : undefined;
+            {sortedShops.map((shop, idx) => {
+              const detail =
+                shop.shopid && detailsMap ? detailsMap[shop.shopid] : undefined;
               return (
                 <ShopCard
-                  key={idx}
+                  key={shop.shopid ?? `${shop.name}-${idx}`}
                   shop={shop}
                   detail={detail}
                   onClick={() => {}}
