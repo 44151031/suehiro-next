@@ -1,99 +1,124 @@
 {
   "飲食店": [
     {
-      "name": "あぶりクリエイションLaPin"
+      "name": "あぶりクリエイションLaPin",
+      "shopid": "abu-paypay-fc8c0c"
     },
     {
-      "name": "パン工房あんな堂"
+      "name": "パン工房あんな堂",
+      "shopid": "abu-paypay-c0d890"
     },
     {
-      "name": "阿武産直　千代丸食堂"
+      "name": "阿武産直　千代丸食堂",
+      "shopid": "abu-paypay-0a49a1"
     },
     {
-      "name": "SUNbashi CAFÉ"
+      "name": "SUNbashi CAFÉ",
+      "shopid": "abu-paypay-bd274c"
     },
     {
-      "name": "竹泉"
+      "name": "竹泉",
+      "shopid": "abu-paypay-b9fbf2"
     },
     {
-      "name": "カドノヤシロ"
+      "name": "カドノヤシロ",
+      "shopid": "abu-paypay-165a92"
     },
     {
-      "name": "八祥園茶舗"
+      "name": "八祥園茶舗",
+      "shopid": "abu-paypay-0002e2"
     },
     {
-      "name": "ダイニングカフェ846"
+      "name": "ダイニングカフェ846",
+      "shopid": "abu-paypay-8006c0"
     },
     {
-      "name": "KONAMONYAGENSANこなもんやげんさん"
+      "name": "KONAMONYAGENSANこなもんやげんさん",
+      "shopid": "abu-paypay-512e9d"
     }
   ],
   "スーパーマーケット": [
     {
-      "name": "サンマート奈古店"
+      "name": "サンマート奈古店",
+      "shopid": "abu-paypay-15e1b2"
     }
   ],
   "ショッピング": [
     {
-      "name": "ツルハホールディングス"
+      "name": "ツルハホールディングス",
+      "shopid": "abu-paypay-ac5e5d"
     },
     {
-      "name": "Po.YASHIRO道の駅阿武町店"
+      "name": "Po.YASHIRO道の駅阿武町店",
+      "shopid": "abu-paypay-43a086"
     },
     {
-      "name": "道の駅阿武町"
+      "name": "道の駅阿武町",
+      "shopid": "abu-paypay-eef82b"
     },
     {
-      "name": "Hick surf  shop Factory"
+      "name": "Hick surf  shop Factory",
+      "shopid": "abu-paypay-df0ed5"
     },
     {
-      "name": "ABU-ROCK"
+      "name": "ABU-ROCK",
+      "shopid": "abu-paypay-759811"
     }
   ],
   "その他": [
     {
-      "name": "ABUキャンプフィールド"
+      "name": "ABUキャンプフィールド",
+      "shopid": "abu-paypay-642086"
     },
     {
-      "name": "遠岳キャンプ場"
+      "name": "遠岳キャンプ場",
+      "shopid": "abu-paypay-e4022d"
     },
     {
-      "name": "あぶナビ"
+      "name": "あぶナビ",
+      "shopid": "abu-paypay-f42669"
     }
   ],
   "酒屋": [
     {
-      "name": "リカーズみよし"
+      "name": "リカーズみよし",
+      "shopid": "abu-paypay-a46634"
     }
   ],
   "ファッション": [
     {
-      "name": "暮らしの荒物屋めぐる"
+      "name": "暮らしの荒物屋めぐる",
+      "shopid": "abu-paypay-56ea08"
     }
   ],
   "クリーニング": [
     {
-      "name": "鹿島クリーニング店"
+      "name": "鹿島クリーニング店",
+      "shopid": "abu-paypay-c17fba"
     }
   ],
   "美容室": [
     {
-      "name": "サン"
+      "name": "サン",
+      "shopid": "abu-paypay-16d68b"
     }
   ],
   "ホテル・旅館": [
     {
-      "name": "GUEST HOUSE IKIATARI"
+      "name": "GUEST HOUSE IKIATARI",
+      "shopid": "abu-paypay-e847e9"
     }
   ],
   "家電量販店": [
     {
-      "name": "エディオン阿武店"
+      "name": "エディオン阿武店",
+      "shopid": "abu-paypay-fac876"
     }
   ],
   "家電": [
     {
-      "name": "市原電気工業"
+      "name": "市原電気工業",
+      "shopid": "abu-paypay-13cab7"
     }
   ]
 }

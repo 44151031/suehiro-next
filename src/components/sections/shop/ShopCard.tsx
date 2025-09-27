@@ -3,6 +3,7 @@
 import { Shop } from "@/types/shop";
 import { ShopDetail } from "@/types/shopDetails";
 import { cn } from "@/lib/utils";
+import { SupportButton } from "@/components/common/SupportButton";
 
 type Props = {
   shop: Shop;
@@ -90,6 +91,13 @@ function DummyLinkCard({ shop, detail }: { shop: Shop; detail: ShopDetail }) {
             </a>
           )}
         </div>
+
+        {/* ❤️ 応援ボタン */}
+        {shop.shopid && (
+          <div className="mt-2">
+            <SupportButton shopid={shop.shopid} initialLikes={0} />
+          </div>
+        )}
       </div>
     </details>
   );
@@ -120,6 +128,13 @@ function NormalShopCard({
           {shop.address}
         </p>
       </div>
+
+      {/* ❤️ 応援ボタン */}
+      {shop.shopid && (
+        <div className="mt-1">
+          <SupportButton shopid={shop.shopid} initialLikes={0} />
+        </div>
+      )}
     </li>
   );
 }
