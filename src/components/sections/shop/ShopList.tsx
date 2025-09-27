@@ -4,11 +4,7 @@ import { useRef, useState, useEffect } from "react";
 import { useShopDetails } from "@/hooks/useShopDetails";
 import ShopCard from "./ShopCard";
 
-type Shop = {
-  name: string;
-  address?: string;
-  shopid?: string;
-};
+type Shop = { name: string; address?: string; shopid?: string };
 
 type ShopDetail = {
   shopid: string;
@@ -26,35 +22,31 @@ type ShopDetail = {
 type Props = {
   genre: string;
   shops: Shop[];
-  sortMode: "default" | "support"; // ✅ 親から受け取る
-  ranking: { shopid: string; likes: number }[]; // ✅ 親から受け取る
+  sortMode: "default" | "support";
+  ranking: { shopid: string; likes_total: number }[];
 };
 
 export default function ShopList({ genre, shops, sortMode, ranking }: Props) {
   const [expanded, setExpanded] = useState(false);
   const [isClient, setIsClient] = useState(false);
-
   const headingRef = useRef<HTMLHeadingElement>(null);
   const { detailsMap } = useShopDetails() || { detailsMap: {} };
 
-  useEffect(() => {
-    setIsClient(true);
-  }, []);
+  useEffect(() => setIsClient(true), []);
 
   const threshold = 12;
   const showToggle = shops?.length > threshold;
-  const visibleShops =
-    isClient && !expanded ? shops?.slice(0, threshold) : shops;
+  const visibleShops = isClient && !expanded ? shops?.slice(0, threshold) : shops;
 
-  // ✅ 並び替え処理（応援順）
+  // ✅ 並び替え処理
   const sortedShops =
     sortMode === "support"
       ? [...visibleShops].sort((a, b) => {
           const rankA = a.shopid
-            ? ranking.find((r) => r.shopid === a.shopid)?.likes ?? 0
+            ? ranking.find((r) => r.shopid === a.shopid)?.likes_total ?? 0
             : 0;
           const rankB = b.shopid
-            ? ranking.find((r) => r.shopid === b.shopid)?.likes ?? 0
+            ? ranking.find((r) => r.shopid === b.shopid)?.likes_total ?? 0
             : 0;
           return rankB - rankA;
         })
@@ -78,11 +70,10 @@ export default function ShopList({ genre, shops, sortMode, ranking }: Props) {
       </h2>
 
       {!shops || shops.length === 0 ? (
-        <p className="text-gray-600 text-sm">
-          公表されましたらこのページで紹介いたします。
-        </p>
+        <p className="text-gray-600 text-sm">公表されましたらこのページで紹介いたします。</p>
       ) : (
         <>
+          {/* ✅ UI削除済み。ソートは親から渡された値を使うだけ */}
           <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 sm:gap-3 text-sm">
             {sortedShops.map((shop, idx) => {
               const detail =

@@ -13,7 +13,7 @@ type Props = {
   shopListByGenre: Record<string, Shop[]>;
   detailsJsonPath: string;
   sortMode: "default" | "support"; // ✅ 親から受け取る
-  ranking: { shopid: string; likes: number }[]; // ✅ 親から受け取る
+  ranking: { shopid: string; likes_total: number }[]; // ✅ 親から受け取る
 };
 
 export default function GenreShopLists({
@@ -40,8 +40,8 @@ export default function GenreShopLists({
           key={genre}
           genre={genre}
           shops={shopListByGenre[genre]}
-          sortMode={sortMode}     // ✅ 追加
-          ranking={ranking}       // ✅ 追加
+          sortMode={sortMode}   // ✅ 親から渡された値を使う
+          ranking={ranking}     // ✅ 親から渡された値を使う
         />
       ))}
     </section>

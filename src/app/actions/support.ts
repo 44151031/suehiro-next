@@ -1,13 +1,10 @@
+// src/app/actions/support.ts
 "use server";
 
 import { createClientServer } from "@/lib/supabase/server";
 import { getOrSetSessionId } from "@/lib/session";
 
-/**
- * 応援ボタンのトグル処理
- * @param shopid - 応援対象の店舗ID
- * @returns { ok, liked, likes, message }
- */
+/** 応援トグル処理（既存） */
 export async function toggleSupport(shopid: string) {
   const supabase = await createClientServer();
   const sid = getOrSetSessionId();
@@ -19,33 +16,24 @@ export async function toggleSupport(shopid: string) {
 
   if (error) {
     console.error("toggleSupport error:", error);
-    return {
-      ok: false,
-      liked: false,
-      likes: 0,
-      message: "エラーが発生しました。時間をおいて再度お試しください。",
-    };
+    return { ok: false, liked: false, likes: 0, message: "エラーが発生しました。" };
   }
 
-  return data as {
-    ok: boolean;
-    liked: boolean;
-    likes: number;
-    message: string;
-  };
+  return data as { ok: boolean; liked: boolean; likes: number; message: string };
 }
 
-/**
- * 応援ランキングを取得
- * @returns { shopid, likes }[]
- */
+/** ランキング取得（shop_statsから） */
 export async function getShopRanking() {
   const supabase = await createClientServer();
-  const { data, error } = await supabase.rpc("get_shop_ranking");
+  const { data, error } = await supabase
+    .from("shop_stats")
+    .select("shopid, likes_total")
+    .order("likes_total", { ascending: false })
+    .limit(100);
 
   if (error) {
     console.error("getShopRanking error:", error);
     return [];
   }
-  return data as { shopid: string; likes: number }[];
+  return data ?? [];
 }
