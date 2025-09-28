@@ -1,7 +1,7 @@
 "use client";
 
-import { useState, useEffect } from "react";
-import { getShopRanking } from "@/app/actions/support";
+import { useEffect, useState } from "react";
+import { toggleSupport, getUserSupportsToday } from "@/app/actions/support";
 import GenreShopLists from "@/components/sections/shop/GenreShopLists";
 import type { Shop } from "@/types/shop";
 
@@ -11,38 +11,54 @@ type Props = {
 };
 
 export default function ClientShopLists({ shopListByGenre, detailsJsonPath }: Props) {
-  const [sortMode, setSortMode] = useState<"default" | "support">("default");
-  const [ranking, setRanking] = useState<{ shopid: string; likes: number }[]>([]);
+  // 今日♥したショップID
+  const [supportedShopIds, setSupportedShopIds] = useState<string[]>([]);
+  // 各ショップのlikes数を管理
+  const [likesMap, setLikesMap] = useState<Record<string, number>>({});
 
+  // 初期ロード時に今日の♥済みショップとlikesをセット
   useEffect(() => {
-    if (sortMode === "support") {
-      (async () => {
-        const data = await getShopRanking();
-        setRanking(data);
-      })();
+    (async () => {
+      const ids = await getUserSupportsToday();
+      setSupportedShopIds(ids);
+
+      const initLikes: Record<string, number> = {};
+      Object.values(shopListByGenre).forEach((shops) => {
+        shops.forEach((shop) => {
+          initLikes[shop.shopid] = shop.likes;
+        });
+      });
+      setLikesMap(initLikes);
+    })();
+  }, [shopListByGenre]);
+
+  // 応援クリック処理
+  const handleToggle = async (shopid: string) => {
+    const result = await toggleSupport(shopid);
+    if (!result.ok) {
+      alert(result.message);
+      return;
     }
-  }, [sortMode]);
+
+    // ♥状態を更新
+    setSupportedShopIds((prev) =>
+      result.liked ? [...prev, shopid] : prev.filter((id) => id !== shopid)
+    );
+
+    // likes数を更新
+    setLikesMap((prev) => ({
+      ...prev,
+      [shopid]: result.likes,
+    }));
+  };
 
   return (
-    <>
-      {/* ✅ ソート切り替え UI */}
-      <div className="mb-4 flex justify-end">
-        <select
-          value={sortMode}
-          onChange={(e) => setSortMode(e.target.value as "default" | "support")}
-          className="border rounded px-3 py-1 text-sm"
-        >
-          <option value="default">通常順</option>
-          <option value="support">応援順</option>
-        </select>
-      </div>
-
-      <GenreShopLists
-        shopListByGenre={shopListByGenre}
-        detailsJsonPath={detailsJsonPath}
-        sortMode={sortMode}
-        ranking={ranking}
-      />
-    </>
+    <GenreShopLists
+      shopListByGenre={shopListByGenre}
+      detailsJsonPath={detailsJsonPath}
+      supportedShopIds={supportedShopIds}
+      likesMap={likesMap}
+      onToggle={handleToggle}
+    />
   );
 }

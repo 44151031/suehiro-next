@@ -6,7 +6,7 @@ import { cn } from "@/lib/utils";
 import SupportButton from "@/components/common/SupportButton";
 
 type Props = {
-  shop: Shop;
+  shop: Shop & { likes?: number }; // ✅ likes を受け取れるように拡張
   detail?: ShopDetail;
   onClick?: () => void;
 };
@@ -21,7 +21,7 @@ export default function ShopCard({ shop, detail, onClick }: Props) {
 }
 
 // ✅ リンク付きダミーカード（<details> 展開型／押せる見た目に調整）
-function DummyLinkCard({ shop, detail }: { shop: Shop; detail: ShopDetail }) {
+function DummyLinkCard({ shop, detail }: { shop: Shop & { likes?: number }; detail: ShopDetail }) {
   const baseClass =
     "rounded-lg px-3 py-[6px] sm:px-4 sm:py-3 mb-1 sm:mb-0 border-2 border-pink-300 bg-white transition duration-200";
 
@@ -95,7 +95,7 @@ function DummyLinkCard({ shop, detail }: { shop: Shop; detail: ShopDetail }) {
         {/* ❤️ 応援ボタン */}
         {shop.shopid && (
           <div className="mt-2">
-            <SupportButton shopid={shop.shopid} initialLikes={0} />
+            <SupportButton shopid={shop.shopid} initialLikes={shop.likes ?? 0} />
           </div>
         )}
       </div>
@@ -108,7 +108,7 @@ function NormalShopCard({
   shop,
   onClick,
 }: {
-  shop: Shop;
+  shop: Shop & { likes?: number };
   onClick?: () => void;
 }) {
   const baseClass = `rounded-lg px-3 py-[5px] sm:px-4 sm:py-3 mb-1 sm:mb-0 border bg-white border-gray-200 cursor-default`;
@@ -132,7 +132,7 @@ function NormalShopCard({
       {/* ❤️ 応援ボタン */}
       {shop.shopid && (
         <div className="mt-1">
-          <SupportButton shopid={shop.shopid} initialLikes={0} />
+          <SupportButton shopid={shop.shopid} initialLikes={shop.likes ?? 0} />
         </div>
       )}
     </li>
