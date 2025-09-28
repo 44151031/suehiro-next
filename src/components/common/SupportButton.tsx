@@ -1,30 +1,48 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { toggleSupport } from "@/app/actions/support";
+import { toggleSupport } from "@/lib/supportService";
 import { toast } from "sonner";
+import { supabaseClient } from "@/lib/supabase/client";
+import { getOrSetSessionId } from "@/lib/sessionClient";
 
 type Props = { shopid: string };
 
 export default function SupportButton({ shopid }: Props) {
   const [likes, setLikes] = useState<number>(0);
   const [liked, setLiked] = useState<boolean>(false);
-  const [pending, setPending] = useState<boolean>(false); // 連打防止
+  const [pending, setPending] = useState<boolean>(false);
 
-  // ✅ 初期ロードでいいね数を取得
+  // ✅ 初期ロードで「いいね数」と「自分が押したか」を取得
   useEffect(() => {
-    const fetchLikes = async () => {
+    const fetchInitial = async () => {
       try {
-        const res = await fetch(`/api/shops/likes?shopid=${shopid}`, { cache: "no-store" });
-        if (res.ok) {
-          const data = await res.json();
-          setLikes(data.likes ?? 0);
-        }
+        const sid = getOrSetSessionId();
+
+        // 店舗の総いいね数
+        const { count: likesCount } = await supabaseClient
+          .from("support_events")
+          .select("*", { count: "exact", head: true })
+          .eq("shopid", shopid);
+
+        setLikes(likesCount ?? 0);
+
+        // 自分が今日押したか？
+        const { data: existing } = await supabaseClient
+          .from("support_events")
+          .select("id")
+          .eq("session_id", sid)
+          .eq("shopid", shopid)
+          .gte("created_at", new Date().toISOString().slice(0, 10))
+          .maybeSingle(); // ← ここを忘れるとエラー
+
+        setLiked(!!existing);
       } catch (e) {
-        console.error("Failed to fetch likes:", e);
+        console.error("Failed to fetch initial like state:", e);
       }
     };
-    fetchLikes();
+
+    fetchInitial();
   }, [shopid]);
 
   const handleClick = async () => {
@@ -32,18 +50,18 @@ export default function SupportButton({ shopid }: Props) {
     setPending(true);
     try {
       const result = await toggleSupport(shopid);
-      if (result.ok) {
-        setLiked(result.liked);
-        setLikes(result.likes);
 
-        // ✅ 応援追加時のみトースト通知
-        if (result.liked) {
-          toast.success(result.message || "応援ありがとうございます！");
-        }
-        // ✅ 取り消し時は通知なし
-      } else {
-        // ✅ 上限やエラーなどはエラートースト
-        toast.error(result.message || "エラーが発生しました");
+      if (result.status === "added") {
+        setLiked(true);
+        setLikes((prev) => prev + 1);
+        toast.success("応援ありがとうございます！");
+      } else if (result.status === "removed") {
+        setLiked(false);
+        setLikes((prev) => Math.max(0, prev - 1));
+      } else if (result.status === "daily_limit") {
+        toast.error("応援は1日3回までです。また明日お願いします。");
+      } else if (result.status === "shop_limit") {
+        toast.error("この店舗は応援上限に達しました。");
       }
     } catch (e) {
       console.error(e);

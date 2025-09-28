@@ -11,26 +11,28 @@ function getTodayKey() {
 // 1日の合計押し回数を取得
 export async function getDailyCount(userId: string) {
   const todayKey = getTodayKey();
-  const { data, error } = await supabase
-    .from("shop_supports")
-    .select("count", { count: "exact" })
+  const { count, error } = await supabase
+    .from("support_events")
+    .select("*", { count: "exact", head: true })
     .eq("user_id", userId)
     .eq("date", todayKey);
+
   if (error) throw error;
-  return data?.length || 0;
+  return count ?? 0;
 }
 
 // 店舗ごとのカウントを取得
 export async function getShopCount(shopid: string) {
-  const { data, error } = await supabase
-    .from("shop_supports")
-    .select("id", { count: "exact" })
+  const { count, error } = await supabase
+    .from("support_events")
+    .select("*", { count: "exact", head: true })
     .eq("shopid", shopid);
+
   if (error) throw error;
-  return data?.length || 0;
+  return count ?? 0;
 }
 
-// ♡を押す
+// ♡を押す（トグル処理）
 export async function toggleSupport(userId: string, shopid: string) {
   const todayKey = getTodayKey();
 
@@ -47,24 +49,33 @@ export async function toggleSupport(userId: string, shopid: string) {
   }
 
   // 既に今日その店に押してるか？
-  const { data: existing } = await supabase
-    .from("shop_supports")
+  const { data: existing, error: selectError } = await supabase
+    .from("support_events")
     .select("id")
     .eq("user_id", userId)
     .eq("shopid", shopid)
     .eq("date", todayKey)
-    .single();
+    .maybeSingle();
+
+  if (selectError) throw selectError;
 
   if (existing) {
     // 取り消し（削除）
-    await supabase.from("shop_supports").delete().eq("id", existing.id);
+    const { error: delError } = await supabase
+      .from("support_events")
+      .delete()
+      .eq("id", existing.id);
+    if (delError) throw delError;
+
     return { status: "removed" };
   }
 
   // 新規追加
-  await supabase.from("shop_supports").insert([
-    { user_id: userId, shopid, date: todayKey },
-  ]);
+  const { error: insertError } = await supabase
+    .from("support_events")
+    .insert([{ user_id: userId, shopid, date: todayKey }]);
+
+  if (insertError) throw insertError;
 
   return { status: "added" };
 }

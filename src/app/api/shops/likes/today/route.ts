@@ -1,3 +1,4 @@
+// src/app/api/shops/likes/today/route.ts
 import { NextResponse } from "next/server";
 import { createClientServer } from "@/lib/supabase/server";
 import { getOrSetSessionId } from "@/lib/session";
@@ -6,11 +7,12 @@ export async function GET() {
   const supabase = await createClientServer();
   const sid = await getOrSetSessionId();
 
+  // ✅ support_events を参照
   const { data, error } = await supabase
-    .from("supports")
+    .from("support_events")
     .select("shopid")
     .eq("session_id", sid)
-    .gte("created_at", new Date().toISOString().slice(0, 10)); // 今日の日付でフィルタ
+    .gte("created_at", new Date().toISOString().slice(0, 10)); 
 
   if (error) {
     console.error("getUserSupportsToday error:", error);
