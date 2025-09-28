@@ -210,6 +210,7 @@ export default async function CityPaytypePage({
           <h2 id="shop-list-section" className="headline2 mb-4 scroll-mt-34">
             {payLabel}が使える{city}の{offer}%還元対象店舗一覧
           </h2>
+          ♡のついている気になるお店を♥で応援しよう。♥の多いお店は今後いいことが…(開発中)
           <AdUnit />
           {!shopListByGenre ? (
             <p className="mt-10 text-gray-700 text-base">
