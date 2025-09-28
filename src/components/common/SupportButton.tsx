@@ -28,13 +28,14 @@ export default function SupportButton({ shopid }: Props) {
         setLikes(likesCount ?? 0);
 
         // 自分が今日押したか？
+        const today = new Date().toISOString().slice(0, 10); // YYYY-MM-DD
         const { data: existing } = await supabaseClient
           .from("support_events")
           .select("id")
           .eq("session_id", sid)
           .eq("shopid", shopid)
-          .gte("created_at", new Date().toISOString().slice(0, 10))
-          .maybeSingle(); // ← ここを忘れるとエラー
+          .gte("created_at", today) // 今日以降のデータがあれば「押した」と判断
+          .maybeSingle();
 
         setLiked(!!existing);
       } catch (e) {
@@ -76,11 +77,14 @@ export default function SupportButton({ shopid }: Props) {
       onClick={handleClick}
       disabled={pending}
       aria-disabled={pending}
-      className={`flex items-center space-x-1 px-3 py-1 rounded-full text-sm transition ${
-        liked ? "bg-pink-100 text-pink-600" : "bg-gray-100 text-gray-600"
-      } ${pending ? "opacity-60 pointer-events-none" : ""}`}
+      className={`flex items-center space-x-1 transition
+        ${liked ? "bg-pink-100 text-pink-600" : "bg-gray-100 text-gray-600"}
+        ${pending ? "opacity-60 pointer-events-none" : ""}
+        px-2 py-[2px] text-xs rounded-md       /* 📱スマホ基準: 小さめ・枠なし */
+        sm:px-3 sm:py-1 sm:text-sm sm:rounded-full /* 💻PC基準: 従来サイズ・枠あり */
+      `}
     >
-      <span className="text-lg">{liked ? "♥" : "♡"}</span>
+      <span className="text-sm sm:text-lg">{liked ? "♥" : "♡"}</span>
       <span>{likes > 50 ? "50+" : likes}</span>
     </button>
   );

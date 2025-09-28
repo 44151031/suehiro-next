@@ -20,8 +20,14 @@ export default function ShopCard({ shop, detail, onClick }: Props) {
   );
 }
 
-// ✅ リンク付きダミーカード（<details> 展開型／押せる見た目に調整）
-function DummyLinkCard({ shop, detail }: { shop: Shop & { likes?: number }; detail: ShopDetail }) {
+// ✅ リンク付きダミーカード
+function DummyLinkCard({
+  shop,
+  detail,
+}: {
+  shop: Shop & { likes?: number };
+  detail: ShopDetail;
+}) {
   const baseClass =
     "rounded-lg px-3 py-[6px] sm:px-4 sm:py-3 mb-1 sm:mb-0 border-2 border-pink-300 bg-white transition duration-200";
 
@@ -34,15 +40,20 @@ function DummyLinkCard({ shop, detail }: { shop: Shop & { likes?: number }; deta
           "rounded-md px-1 sm:px-2 py-1 sm:py-[6px] transition duration-150 ease-in-out"
         )}
       >
-        {/* スマホ1行、PC縦並び */}
-        <div className="sm:hidden flex flex-wrap items-center gap-x-1 leading-normal">
-          <p className="font-semibold text-gray-900 text-xs">{shop.name}</p>
-          {shop.address && (
-            <p className="text-gray-600 text-[11px] leading-normal">{shop.address}</p>
+        {/* スマホ: 店名とハート横並び */}
+        <div className="sm:hidden flex items-center justify-between">
+          <div className="flex flex-col">
+            <p className="font-semibold text-gray-900 text-xs">{shop.name}</p>
+            {shop.address && (
+              <p className="text-gray-600 text-[11px] leading-normal">{shop.address}</p>
+            )}
+          </div>
+          {shop.shopid && (
+            <SupportButton shopid={shop.shopid} initialLikes={shop.likes ?? 0} />
           )}
-          <span className="text-[10px] text-gray-600">[詳細]</span>
         </div>
 
+        {/* PC: 店名（下にハートが出る） */}
         <div className="hidden sm:block">
           <div className="flex flex-wrap items-center gap-x-1 leading-normal">
             <p className="font-semibold text-gray-900 text-sm">{shop.name}</p>
@@ -92,9 +103,9 @@ function DummyLinkCard({ shop, detail }: { shop: Shop & { likes?: number }; deta
           )}
         </div>
 
-        {/* ❤️ 応援ボタン */}
+        {/* PC用 ❤️ 応援ボタン */}
         {shop.shopid && (
-          <div className="mt-2">
+          <div className="hidden sm:block mt-2">
             <SupportButton shopid={shop.shopid} initialLikes={shop.likes ?? 0} />
           </div>
         )}
@@ -103,7 +114,7 @@ function DummyLinkCard({ shop, detail }: { shop: Shop & { likes?: number }; deta
   );
 }
 
-// ✅ 通常の店舗カード（タップできそうに見えないデザインに調整）
+// ✅ 通常の店舗カード
 function NormalShopCard({
   shop,
   onClick,
@@ -115,26 +126,31 @@ function NormalShopCard({
 
   return (
     <li className={baseClass}>
-      <div className="sm:hidden flex flex-wrap items-center gap-x-1 leading-normal">
-        <p className="font-semibold text-gray-800 text-xs">{shop.name}</p>
-        {shop.address && (
-          <p className="text-gray-600 text-[11px] leading-normal">{shop.address}</p>
+      {/* スマホ: 店名とハート横並び */}
+      <div className="sm:hidden flex items-center justify-between">
+        <div className="flex flex-col">
+          <p className="font-semibold text-gray-800 text-xs">{shop.name}</p>
+          {shop.address && (
+            <p className="text-gray-600 text-[11px] leading-normal">{shop.address}</p>
+          )}
+        </div>
+        {shop.shopid && (
+          <SupportButton shopid={shop.shopid} initialLikes={shop.likes ?? 0} />
         )}
       </div>
 
+      {/* PC: 店名（下にハートが出る） */}
       <div className="hidden sm:block">
         <p className="font-semibold text-gray-800 text-sm">{shop.name}</p>
         <p className="text-gray-600 text-sm leading-normal pb-[2px]">
           {shop.address}
         </p>
+        {shop.shopid && (
+          <div className="mt-1">
+            <SupportButton shopid={shop.shopid} initialLikes={shop.likes ?? 0} />
+          </div>
+        )}
       </div>
-
-      {/* ❤️ 応援ボタン */}
-      {shop.shopid && (
-        <div className="mt-1">
-          <SupportButton shopid={shop.shopid} initialLikes={shop.likes ?? 0} />
-        </div>
-      )}
     </li>
   );
 }
