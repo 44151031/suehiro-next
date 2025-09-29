@@ -44,10 +44,10 @@ function main() {
 
   const files = fs
     .readdirSync(DATA_DIR)
-    .filter((f) => f.startsWith("yamaguchi-abu-") && f.endsWith(".json"));
+    .filter((f) => f.startsWith("aichi-tokai-") && f.endsWith(".json"));
 
   if (files.length === 0) {
-    console.warn("⚠️ 対象ファイルが見つかりませんでした (yamaguchi-abu-*.json)");
+    console.warn("⚠️ 対象ファイルが見つかりませんでした (aichi-tokai-*.json)");
     return;
   }
 
