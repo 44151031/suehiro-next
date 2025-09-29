@@ -13,6 +13,24 @@ export default function SupportButton({ shopid }: Props) {
   const [liked, setLiked] = useState<boolean>(false);
   const [pending, setPending] = useState<boolean>(false);
 
+  // ✅ JST の 0:00～翌日0:00 を UTC に変換して返す
+  const getJSTRangeUTC = () => {
+    const now = new Date();
+    // UTC → JST (+9h)
+    const jst = new Date(now.getTime() + 9 * 60 * 60 * 1000);
+
+    // JST の 0:00
+    const startJST = new Date(jst.getFullYear(), jst.getMonth(), jst.getDate());
+    const endJST = new Date(startJST);
+    endJST.setDate(endJST.getDate() + 1);
+
+    // JST → UTC (-9h) に戻す
+    const startUTC = new Date(startJST.getTime() - 9 * 60 * 60 * 1000);
+    const endUTC = new Date(endJST.getTime() - 9 * 60 * 60 * 1000);
+
+    return { start: startUTC.toISOString(), end: endUTC.toISOString() };
+  };
+
   // ✅ 初期ロードで「いいね数」と「自分が押したか」を取得
   useEffect(() => {
     const fetchInitial = async () => {
@@ -27,14 +45,15 @@ export default function SupportButton({ shopid }: Props) {
 
         setLikes(likesCount ?? 0);
 
-        // 自分が今日押したか？
-        const today = new Date().toISOString().slice(0, 10); // YYYY-MM-DD
+        // JST基準で「今日」応援したか？
+        const { start, end } = getJSTRangeUTC();
         const { data: existing } = await supabaseClient
           .from("support_events")
           .select("id")
           .eq("session_id", sid)
           .eq("shopid", shopid)
-          .gte("created_at", today) // 今日以降のデータがあれば「押した」と判断
+          .gte("created_at", start)
+          .lt("created_at", end)
           .maybeSingle();
 
         setLiked(!!existing);
@@ -80,12 +99,12 @@ export default function SupportButton({ shopid }: Props) {
       className={`flex items-center space-x-1 transition
         ${liked ? "bg-pink-100 text-pink-600" : "bg-gray-100 text-gray-600"}
         ${pending ? "opacity-60 pointer-events-none" : ""}
-        px-2 py-[2px] text-xs rounded-md       /* 📱スマホ基準: 小さめ・枠なし */
-        sm:px-3 sm:py-1 sm:text-sm sm:rounded-full /* 💻PC基準: 従来サイズ・枠あり */
+        px-2 py-[2px] text-xs rounded-md
+        sm:px-3 sm:py-1 sm:text-sm sm:rounded-full
       `}
     >
       <span className="text-sm sm:text-lg">{liked ? "♥" : "♡"}</span>
-      <span>{likes > 50 ? "50+" : likes}</span>
+      <span>{likes >= 10 ? "10+" : likes}</span>
     </button>
   );
 }
