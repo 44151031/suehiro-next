@@ -1175,6 +1175,66 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
   dateModified: "2025-10-01",   // 仮設定
   eligiblePersons: "居住地に関係なく12歳以上の全ての方（本人確認必須）",
   applicationUrl: "https://paypay.ne.jp/event/saga-kiyama-town-gift-vouchers-20251001/"
+},
+{
+  paytype: "paypay-voucher",
+  prefectureSlug: "tokyo",
+  citySlug: "kita",
+  prefecture: "東京都",
+  city: "北区",
+  campaigntitle: "令和7年度 第2弾 プレミアム付北区内共通デジタル商品券 しぶさわくんPay！",
+  purchasePrice: 5000,
+  ticketAmount: 6000,
+  maxUnits: 4,
+  applyStartDate: "2025-11-08T10:00:00",
+  applyEndDate: "2025-12-31T23:59:59",
+  /* resultAnnounceDate: null, */  // 先着方式のため抽選発表日は不要
+  purchaseEndDate: "2025-12-31",
+  useEndDate: "2026-04-30T23:59:59",
+  datePublished: "2025-09-30",
+  dateModified: "2025-09-30",
+  eligiblePersons: "東京都北区に住所を有する12歳以上の方（先着順）",
+  applicationUrl: "https://paypay.ne.jp/event/tokyo-kita-city-gift-vouchers-20250701/"
+},
+{
+  paytype: "paypay-voucher",
+  prefectureSlug: "aichi",
+  citySlug: "taketoyo",
+  prefecture: "愛知県",
+  city: "武豊町",
+  campaigntitle: "武豊町プレミアムデジタル商品券",
+  purchasePrice: 5000,
+  ticketAmount: 6500,
+  maxUnits: 6,
+  applyStartDate: "2025-11-04T10:00:00",
+  applyEndDate: "2025-11-30T23:59:59",
+  /* resultAnnounceDate: null, */  // 先着方式になる可能性
+  purchaseEndDate: "2025-12-31",
+  useEndDate: "2026-02-20T23:59:59",
+  datePublished: "2025-09-30", 
+  dateModified: "2025-09-30",
+  eligiblePersons: "愛知県武豊町在住の18歳以上の方", 
+  applicationUrl: "" 
+},
+{
+  paytype: "paypay-voucher",
+  prefectureSlug: "yamanashi",
+  citySlug: "otsuki",
+  prefecture: "山梨県",
+  city: "大月市",
+  campaigntitle: "大月市プレミアム付商品券（仮）",
+  purchasePrice: 5000,
+  ticketAmount: 6500,
+  maxUnits: 5,
+  applyStartDate: "2025-11-04T10:00:00",
+  applyEndDate: "2026-01-31T23:59:59",
+  /* resultAnnounceDate: null, */
+  purchaseEndDate: "2026-01-30",
+  useEndDate: "2026-01-31T23:59:59",
+  datePublished: "2025-09-30",
+  dateModified: "2025-09-30",
+  eligiblePersons: "山梨県大月市在住の12歳以上の方", 
+  applicationUrl: ""
 }
 ];
 
