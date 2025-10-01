@@ -1,0 +1,1228 @@
+{
+  "くらし": [
+    {
+      "name": "いんべクリーニング　アクロスプラザ紫波店",
+      "address": "日詰"
+    },
+    {
+      "name": "Olive By PearlDry オリーブ紫波中央店",
+      "address": "日詰"
+    },
+    {
+      "name": "株式会社ヒノヤタクシー　日詰営業所",
+      "address": "日詰"
+    },
+    {
+      "name": "HIROBO",
+      "address": "日詰"
+    },
+    {
+      "name": "ひづめゆ",
+      "address": "日詰"
+    },
+    {
+      "name": "齋藤クリーニング店",
+      "address": "日詰西"
+    },
+    {
+      "name": "クリーンデザイン",
+      "address": "日詰西"
+    },
+    {
+      "name": "掃除屋ラビットクリーン",
+      "address": "犬渕"
+    },
+    {
+      "name": "Olive By PearlDry ナックス店",
+      "address": "桜町"
+    },
+    {
+      "name": "Olive By PearlDry マックスバリュ紫波店",
+      "address": "北日詰"
+    },
+    {
+      "name": "ミシンスーパー",
+      "address": "北日詰"
+    },
+    {
+      "name": "ホワイト急便　イオンSC紫波古舘店",
+      "address": "高水寺"
+    },
+    {
+      "name": "クリーニング博扇堂",
+      "address": "高水寺"
+    },
+    {
+      "name": "ホワイト急便　二日町店",
+      "address": "二日町"
+    },
+    {
+      "name": "介護タクシーケアまる",
+      "address": "片寄"
+    },
+    {
+      "name": "ホワイト急便　紫波店長岡店",
+      "address": "東長岡"
+    }
+  ],
+  "その他": [
+    {
+      "name": "ジェイパット",
+      "address": "紫波中央駅前"
+    },
+    {
+      "name": "菱川光",
+      "address": "日詰"
+    },
+    {
+      "name": "HATARAKU～畑多楽～",
+      "address": "日詰"
+    },
+    {
+      "name": "佐々幸商店",
+      "address": "日詰西"
+    },
+    {
+      "name": "ゴルディア",
+      "address": "日詰西"
+    },
+    {
+      "name": "有限会社　藤田",
+      "address": "日詰西"
+    },
+    {
+      "name": "中谷地写真館　紫波店",
+      "address": "日詰西"
+    },
+    {
+      "name": "大昭運輸",
+      "address": "犬渕"
+    },
+    {
+      "name": "切り絵作家りゅーや",
+      "address": "桜町"
+    },
+    {
+      "name": "紅",
+      "address": "桜町"
+    },
+    {
+      "name": "北竃",
+      "address": "桜町"
+    },
+    {
+      "name": "竹花電気",
+      "address": "桜町"
+    },
+    {
+      "name": "有限会社山下タイル工業",
+      "address": "桜町"
+    },
+    {
+      "name": "JAいわて中央",
+      "address": "桜町"
+    },
+    {
+      "name": "畠山写真館",
+      "address": "桜町"
+    },
+    {
+      "name": "紫波タクシー",
+      "address": "日詰駅前"
+    },
+    {
+      "name": "マルシン",
+      "address": "平沢"
+    },
+    {
+      "name": "こぐま保育園",
+      "address": "高水寺"
+    },
+    {
+      "name": "加藤水道工業所",
+      "address": "高水寺"
+    },
+    {
+      "name": "紫波中央自動車学校",
+      "address": "二日町"
+    },
+    {
+      "name": "Soleil陽だまり",
+      "address": "下松本"
+    },
+    {
+      "name": "青栄",
+      "address": "吉水"
+    },
+    {
+      "name": "dokkoBASE",
+      "address": "小屋敷"
+    },
+    {
+      "name": "LafleuR",
+      "address": "上平沢"
+    },
+    {
+      "name": "どうぐやショップシュガー",
+      "address": "南伝法寺"
+    },
+    {
+      "name": "ひまわり塗装",
+      "address": "山屋"
+    },
+    {
+      "name": "ピッコンコシェアハウス",
+      "address": "東長岡"
+    },
+    {
+      "name": "常光寺書道会　冬星社",
+      "address": "東長岡"
+    },
+    {
+      "name": "チェリー＆ベリーガーデン",
+      "address": "北沢"
+    },
+    {
+      "name": "農園砥ノ上",
+      "address": "北田"
+    },
+    {
+      "name": "知未",
+      "address": "赤沢"
+    }
+  ],
+  "のりもの": [
+    {
+      "name": "日詰自動車",
+      "address": "日詰"
+    },
+    {
+      "name": "フルダテ輪店",
+      "address": "日詰"
+    },
+    {
+      "name": "アクティブロード",
+      "address": "日詰"
+    },
+    {
+      "name": "戸塚自動車工業所",
+      "address": "日詰"
+    },
+    {
+      "name": "Cycle take",
+      "address": "日詰"
+    },
+    {
+      "name": "King Auto 4号紫波店",
+      "address": "犬渕"
+    },
+    {
+      "name": "crossroad",
+      "address": "桜町"
+    },
+    {
+      "name": "日詰バッテリー",
+      "address": "桜町"
+    },
+    {
+      "name": "岩手ダイハツ販売　紫波店",
+      "address": "桜町"
+    },
+    {
+      "name": "グランドスラムパル",
+      "address": "桜町"
+    },
+    {
+      "name": "日新スズキ販売",
+      "address": "桜町"
+    },
+    {
+      "name": "ヒノヤ商事株式会社",
+      "address": "桜町"
+    },
+    {
+      "name": "CO・VO",
+      "address": "桜町"
+    },
+    {
+      "name": "盛岡自動車部品　紫波営業所",
+      "address": "桜町"
+    },
+    {
+      "name": "Cargle",
+      "address": "南日詰"
+    },
+    {
+      "name": "オート芭蕉インターナショナル",
+      "address": "南日詰"
+    },
+    {
+      "name": "ハーレーダビットソン岩手",
+      "address": "南日詰"
+    },
+    {
+      "name": "有限会社桜モータース",
+      "address": "日詰駅前"
+    },
+    {
+      "name": "深澤自動車",
+      "address": "北日詰"
+    },
+    {
+      "name": "K’ｓ　Dream　紫波店",
+      "address": "北日詰"
+    },
+    {
+      "name": "king auto feet",
+      "address": "高水寺"
+    },
+    {
+      "name": "カーショップ佐々木",
+      "address": "高水寺"
+    },
+    {
+      "name": "FALCON",
+      "address": "高水寺"
+    },
+    {
+      "name": "嶋田自動車整備工場",
+      "address": "高水寺"
+    },
+    {
+      "name": "WILD STYLE",
+      "address": "二日町"
+    },
+    {
+      "name": "ミスタータイヤマンマルショウ紫波",
+      "address": "二日町"
+    },
+    {
+      "name": "藤原輪店",
+      "address": "下松本"
+    },
+    {
+      "name": "OneStyleFactory",
+      "address": "宮手"
+    },
+    {
+      "name": "中央商事　Car shop",
+      "address": "上平沢"
+    },
+    {
+      "name": "スティルガレージノムラ",
+      "address": "上平沢"
+    },
+    {
+      "name": "ゴートラック紫波工場",
+      "address": "南伝法寺"
+    },
+    {
+      "name": "カーショップ紫波",
+      "address": "片寄"
+    },
+    {
+      "name": "岩手オートサービス",
+      "address": "江柄"
+    },
+    {
+      "name": "新和自動車整備工場",
+      "address": "星山"
+    }
+  ],
+  "カルチャー・ホビー": [
+    {
+      "name": "萬屋　紫波店",
+      "address": "桜町"
+    },
+    {
+      "name": "RC CIRCUIT HOBBYWORKS",
+      "address": "小屋敷"
+    },
+    {
+      "name": "Campanella",
+      "address": "上平沢"
+    },
+    {
+      "name": "FAGUS",
+      "address": "左比内"
+    }
+  ],
+  "コスメ・美容・健康": [
+    {
+      "name": "sitoa",
+      "address": "紫波中央駅前"
+    },
+    {
+      "name": "Welina pilates studio",
+      "address": "紫波中央駅前"
+    },
+    {
+      "name": "ノエビア化粧品　紫波町中央代理店",
+      "address": "北日詰"
+    },
+    {
+      "name": "リップス城山",
+      "address": "二日町"
+    },
+    {
+      "name": "リラクゼーションハウスSmile drop",
+      "address": "二日町"
+    },
+    {
+      "name": "Nail salon　空",
+      "address": "南伝法寺"
+    },
+    {
+      "name": "CEサロン　リップス星山",
+      "address": "犬吠森"
+    }
+  ],
+  "スポーツ・ジム・レジャー": [
+    {
+      "name": "Knotty",
+      "address": "紫波中央駅前"
+    },
+    {
+      "name": "GRAVITY 足うらBASE",
+      "address": "日詰西"
+    },
+    {
+      "name": "タムラスポーツ",
+      "address": "桜町"
+    },
+    {
+      "name": "紫波町　スポーツ交流施設",
+      "address": "桜町"
+    }
+  ],
+  "スポーツ・ジム・レジャー・": [
+    {
+      "name": "原スポーツ",
+      "address": "日詰"
+    }
+  ],
+  "スーパー・コンビニ": [
+    {
+      "name": "紫波マルシェ",
+      "address": "紫波中央駅前"
+    },
+    {
+      "name": "フレッシュたもり",
+      "address": "桜町"
+    },
+    {
+      "name": "紫波ふる里センター",
+      "address": "左比内"
+    },
+    {
+      "name": "Yショップ渡辺商店",
+      "address": "栃内"
+    }
+  ],
+  "ファッション": [
+    {
+      "name": "AREA-20",
+      "address": "日詰"
+    },
+    {
+      "name": "グランマファーム",
+      "address": "日詰"
+    },
+    {
+      "name": "てるい手芸店",
+      "address": "日詰"
+    },
+    {
+      "name": "洋品の店　なかむら",
+      "address": "日詰"
+    },
+    {
+      "name": "沖縄島ぞうり屋",
+      "address": "日詰"
+    },
+    {
+      "name": "ウインズ（WINDS）",
+      "address": "日詰西"
+    },
+    {
+      "name": "エプロンハウスあきこ",
+      "address": "桜町"
+    },
+    {
+      "name": "浅草千　あじろ",
+      "address": "桜町"
+    },
+    {
+      "name": "lemmikki",
+      "address": "桜町"
+    },
+    {
+      "name": "布ナプキンのループラス",
+      "address": "北日詰"
+    },
+    {
+      "name": "加藤呉服店",
+      "address": "高水寺"
+    },
+    {
+      "name": "ねこの染物屋",
+      "address": "高水寺"
+    },
+    {
+      "name": "Andante",
+      "address": "二日町"
+    }
+  ],
+  "ペット": [
+    {
+      "name": "けやき並木動物病院",
+      "address": "日詰西"
+    },
+    {
+      "name": "熊谷ペット",
+      "address": "桜町"
+    },
+    {
+      "name": "愛犬シャロン",
+      "address": "下松本"
+    },
+    {
+      "name": "cherish apartment",
+      "address": "下松本"
+    }
+  ],
+  "メガネ・コンタクト・時計": [
+    {
+      "name": "眼鏡屋目明かし堂",
+      "address": "紫波中央駅前"
+    },
+    {
+      "name": "眼鏡屋　目明し堂",
+      "address": "日詰"
+    },
+    {
+      "name": "Petite Fleur",
+      "address": "日詰"
+    },
+    {
+      "name": "メガネのおおくま　紫波ナックス店",
+      "address": "桜町"
+    }
+  ],
+  "医療・鍼灸。療術": [
+    {
+      "name": "リボン整体サロン",
+      "address": "日詰"
+    }
+  ],
+  "医療・鍼灸・療術": [
+    {
+      "name": "一休さん",
+      "address": "桜町"
+    },
+    {
+      "name": "Karakahl Chiropractic",
+      "address": "高水寺"
+    },
+    {
+      "name": "みお訪問マッサージ",
+      "address": "南伝法寺"
+    },
+    {
+      "name": "もみ処とんとん",
+      "address": "彦部"
+    }
+  ],
+  "家具・家電": [
+    {
+      "name": "鈴敬電器商会",
+      "address": "日詰"
+    },
+    {
+      "name": "ソニックセブン",
+      "address": "日詰"
+    },
+    {
+      "name": "髙幸",
+      "address": "桜町"
+    },
+    {
+      "name": "八重樫建具店",
+      "address": "高水寺"
+    },
+    {
+      "name": "電化ライフヨシダ古舘店",
+      "address": "中島"
+    },
+    {
+      "name": "KOU plus design",
+      "address": "二日町"
+    },
+    {
+      "name": "箪笥工房はこや(物販)",
+      "address": "山屋"
+    },
+    {
+      "name": "阿部たたみ店",
+      "address": "大巻"
+    }
+  ],
+  "書籍・文具・印刷": [
+    {
+      "name": "有限会社菅原書店　日詰店",
+      "address": "日詰"
+    },
+    {
+      "name": "中村松和堂",
+      "address": "日詰西"
+    },
+    {
+      "name": "メガトン書店　紫波店",
+      "address": "犬渕"
+    },
+    {
+      "name": "本と文具のすがわら",
+      "address": "桜町"
+    },
+    {
+      "name": "OAランド",
+      "address": "桜町"
+    },
+    {
+      "name": "紫波印刷",
+      "address": "星山"
+    }
+  ],
+  "生活洋品・燃料": [
+    {
+      "name": "盛岡ガス燃料　日詰営業所",
+      "address": "南日詰"
+    }
+  ],
+  "生活用品・燃料": [
+    {
+      "name": "村上石油店　紫波店",
+      "address": "犬渕"
+    },
+    {
+      "name": "キヨーワ　紫波SS",
+      "address": "北日詰"
+    },
+    {
+      "name": "昭和シェル石油",
+      "address": "吉水"
+    }
+  ],
+  "百貨店": [
+    {
+      "name": "ショッピングセンターNACS",
+      "address": "桜町"
+    }
+  ],
+  "美容室・理容室": [
+    {
+      "name": "chou-chou hair",
+      "address": "紫波中央駅前"
+    },
+    {
+      "name": "華つづり",
+      "address": "紫波中央駅前"
+    },
+    {
+      "name": "Conditioning Center HOUSE",
+      "address": "紫波中央駅前"
+    },
+    {
+      "name": "sosogu by Lunon",
+      "address": "日詰"
+    },
+    {
+      "name": "VALTAN BARBERS",
+      "address": "日詰"
+    },
+    {
+      "name": "ヘアーサロン川村",
+      "address": "日詰"
+    },
+    {
+      "name": "Agu hair",
+      "address": "日詰"
+    },
+    {
+      "name": "ヘアーサロンFUJINUMA",
+      "address": "日詰"
+    },
+    {
+      "name": "美容室GARDEN",
+      "address": "日詰"
+    },
+    {
+      "name": "理容たかのはし",
+      "address": "日詰"
+    },
+    {
+      "name": "Ideal hair",
+      "address": "日詰"
+    },
+    {
+      "name": "美容室ロコモコカウイ",
+      "address": "日詰"
+    },
+    {
+      "name": "hair salon otto",
+      "address": "桜町"
+    },
+    {
+      "name": "anne 美容室",
+      "address": "桜町"
+    },
+    {
+      "name": "リカ美容室",
+      "address": "桜町"
+    },
+    {
+      "name": "グレイスルーム・ベーネ",
+      "address": "桜町"
+    },
+    {
+      "name": "hair&spa micro.",
+      "address": "南日詰"
+    },
+    {
+      "name": "ビューティーサロン　エトワール",
+      "address": "南日詰"
+    },
+    {
+      "name": "Hair-Project か美や",
+      "address": "北日詰"
+    },
+    {
+      "name": "L.a.m",
+      "address": "高水寺"
+    },
+    {
+      "name": "タカノ美容室",
+      "address": "高水寺"
+    },
+    {
+      "name": "相心館ゆう美容室",
+      "address": "高水寺"
+    },
+    {
+      "name": "ヘアースペースカーム",
+      "address": "高水寺"
+    },
+    {
+      "name": "hair&eye glow",
+      "address": "高水寺"
+    },
+    {
+      "name": "AR　STUDIO",
+      "address": "高水寺"
+    },
+    {
+      "name": "カットハウス　カスミ",
+      "address": "高水寺"
+    },
+    {
+      "name": "me.me",
+      "address": "高水寺"
+    },
+    {
+      "name": "美容室ワン・ウィーク紫波店",
+      "address": "高水寺"
+    },
+    {
+      "name": "美容室エス",
+      "address": "中島"
+    },
+    {
+      "name": "RANDOM",
+      "address": "二日町"
+    },
+    {
+      "name": "Bon Courage",
+      "address": "二日町"
+    },
+    {
+      "name": "高橋理容店",
+      "address": "土館"
+    }
+  ],
+  "美容院・理容室": [
+    {
+      "name": "美容室Riri",
+      "address": "日詰西"
+    },
+    {
+      "name": "理容ながい",
+      "address": "日詰西"
+    },
+    {
+      "name": "salon.do.Passe",
+      "address": "日詰西"
+    }
+  ],
+  "花・植木・農機具": [
+    {
+      "name": "とわか",
+      "address": "紫波中央駅前"
+    },
+    {
+      "name": "伊藤政行種苗",
+      "address": "日詰"
+    },
+    {
+      "name": "花兵衛本店　紫波店",
+      "address": "桜町"
+    },
+    {
+      "name": "熊谷種苗店",
+      "address": "桜町"
+    },
+    {
+      "name": "共同園芸",
+      "address": "二日町"
+    },
+    {
+      "name": "花の館　紫波佐比内店",
+      "address": "左比内"
+    }
+  ],
+  "観光・宿泊": [
+    {
+      "name": "オガールイン",
+      "address": "紫波中央駅前"
+    },
+    {
+      "name": "本野旅館",
+      "address": "日詰"
+    },
+    {
+      "name": "ラ・フランス温泉",
+      "address": "小屋敷"
+    },
+    {
+      "name": "たまくさ",
+      "address": "上平沢"
+    },
+    {
+      "name": "箪笥工房はこや(宿泊)",
+      "address": "山屋"
+    }
+  ],
+  "酒類・リカーショップ": [
+    {
+      "name": "日詰平井邸",
+      "address": "日詰"
+    },
+    {
+      "name": "Green Neighbors Hard Cider",
+      "address": "日詰"
+    },
+    {
+      "name": "白銀商店",
+      "address": "高水寺"
+    },
+    {
+      "name": "月の輪醸造元販売店わかさや",
+      "address": "高水寺"
+    },
+    {
+      "name": "はじまりの酒店",
+      "address": "吉水"
+    },
+    {
+      "name": "紫波酒造店",
+      "address": "宮手"
+    },
+    {
+      "name": "紫波サイダリー",
+      "address": "升沢"
+    },
+    {
+      "name": "我妻嶺酒造店",
+      "address": "土館"
+    },
+    {
+      "name": "紫波フルーツパーク",
+      "address": "遠山"
+    },
+    {
+      "name": "紫波町物産館",
+      "address": "遠山"
+    }
+  ],
+  "雑貨・陶器": [
+    {
+      "name": "COCOLON",
+      "address": "紫波中央駅前"
+    },
+    {
+      "name": "はしもと商店",
+      "address": "日詰"
+    },
+    {
+      "name": "フリマ探偵団くまがい",
+      "address": "日詰"
+    },
+    {
+      "name": "鈴敬百貨店",
+      "address": "日詰"
+    },
+    {
+      "name": "寝装ふじわら",
+      "address": "日詰西"
+    },
+    {
+      "name": "和風雑貨もがな",
+      "address": "桜町"
+    },
+    {
+      "name": "久慈タイル",
+      "address": "高水寺"
+    },
+    {
+      "name": "ハンドメイド雑貨　Still",
+      "address": "稲藤"
+    },
+    {
+      "name": "陶房金沢",
+      "address": "上松本"
+    },
+    {
+      "name": "saasa工房",
+      "address": "土館"
+    },
+    {
+      "name": "りん工房",
+      "address": "遠山"
+    },
+    {
+      "name": "とんぼ玉　八五郎",
+      "address": "犬吠森"
+    },
+    {
+      "name": "ギャラリーエガラ",
+      "address": "江柄"
+    }
+  ],
+  "食料品": [
+    {
+      "name": "のむら米穀店",
+      "address": "日詰"
+    },
+    {
+      "name": "タゴマル",
+      "address": "日詰"
+    },
+    {
+      "name": "松本精肉店",
+      "address": "日詰"
+    },
+    {
+      "name": "鈴徳商店",
+      "address": "日詰"
+    },
+    {
+      "name": "なんバザホール",
+      "address": "日詰"
+    },
+    {
+      "name": "株式会社よんりん舎",
+      "address": "日詰"
+    },
+    {
+      "name": "ほっかほっか亭",
+      "address": "日詰西"
+    },
+    {
+      "name": "一恩",
+      "address": "桜町"
+    },
+    {
+      "name": "ナックス銘産品コーナー",
+      "address": "桜町"
+    },
+    {
+      "name": "米工房かとう",
+      "address": "桜町"
+    },
+    {
+      "name": "米澤商店",
+      "address": "桜町"
+    },
+    {
+      "name": "肉の匠　中むら屋",
+      "address": "高水寺"
+    },
+    {
+      "name": "向山商店",
+      "address": "二日町"
+    },
+    {
+      "name": "キッチンカー　fu-go",
+      "address": "二日町"
+    },
+    {
+      "name": "菅川商店",
+      "address": "吉水"
+    },
+    {
+      "name": "芽吹き屋　志和店",
+      "address": "上平沢"
+    },
+    {
+      "name": "Shiwa GREEN Farm",
+      "address": "南伝法寺"
+    },
+    {
+      "name": "ねね八農園　紫波店",
+      "address": "犬吠森"
+    },
+    {
+      "name": "Punk Sake Farmer",
+      "address": "左比内"
+    },
+    {
+      "name": "半田商店",
+      "address": "東長岡"
+    },
+    {
+      "name": "ノギマート",
+      "address": "東長岡"
+    }
+  ],
+  "飲料店": [
+    {
+      "name": "いちもん",
+      "address": "平沢"
+    },
+    {
+      "name": "内山商店",
+      "address": "平沢"
+    }
+  ],
+  "飲食店": [
+    {
+      "name": "ご馳走DEがんす　紫波オガール",
+      "address": "紫波中央駅前"
+    },
+    {
+      "name": "焼肉食堂おがわや",
+      "address": "紫波中央駅前"
+    },
+    {
+      "name": "じゃじゃめん八番",
+      "address": "紫波中央駅前"
+    },
+    {
+      "name": "4832 The SUGAR",
+      "address": "紫波中央駅前"
+    },
+    {
+      "name": "potato deli Mameta",
+      "address": "紫波中央駅前"
+    },
+    {
+      "name": "炭焼炉端　二代目真魚板",
+      "address": "紫波中央駅前"
+    },
+    {
+      "name": "貝だしおでんと酒とアテ　じらふ",
+      "address": "紫波中央駅前"
+    },
+    {
+      "name": "鮨清次郎　紫波店",
+      "address": "紫波中央駅前"
+    },
+    {
+      "name": "café alpha",
+      "address": "日詰"
+    },
+    {
+      "name": "中華食堂彩々華",
+      "address": "日詰"
+    },
+    {
+      "name": "ななしや",
+      "address": "日詰"
+    },
+    {
+      "name": "café style bar VIVID",
+      "address": "日詰"
+    },
+    {
+      "name": "スナックルパン",
+      "address": "日詰"
+    },
+    {
+      "name": "紫波deエール",
+      "address": "日詰"
+    },
+    {
+      "name": "22GARAGE",
+      "address": "日詰"
+    },
+    {
+      "name": "まんがめし喫茶ひよこ堂",
+      "address": "日詰"
+    },
+    {
+      "name": "スナックわくわく",
+      "address": "日詰"
+    },
+    {
+      "name": "Dining café あーしゃんず",
+      "address": "日詰"
+    },
+    {
+      "name": "純米ニトロ",
+      "address": "日詰"
+    },
+    {
+      "name": "レストラン＆カフェ　ルッシュ",
+      "address": "日詰"
+    },
+    {
+      "name": "食堂かわむら",
+      "address": "日詰"
+    },
+    {
+      "name": "福龍",
+      "address": "日詰"
+    },
+    {
+      "name": "焼肉よかろ",
+      "address": "日詰"
+    },
+    {
+      "name": "スナックほたる",
+      "address": "日詰"
+    },
+    {
+      "name": "ミルクホールマイカ",
+      "address": "日詰"
+    },
+    {
+      "name": "あづまある",
+      "address": "日詰"
+    },
+    {
+      "name": "藤屋食堂",
+      "address": "日詰"
+    },
+    {
+      "name": "ピアック大盛軒",
+      "address": "日詰"
+    },
+    {
+      "name": "山人　YAMANDO",
+      "address": "日詰"
+    },
+    {
+      "name": "YOKOSAWA CAMPUS",
+      "address": "日詰"
+    },
+    {
+      "name": "喫茶アリス",
+      "address": "日詰"
+    },
+    {
+      "name": "居酒屋はち",
+      "address": "日詰"
+    },
+    {
+      "name": "CAFÉ Laube 紫波店",
+      "address": "日詰"
+    },
+    {
+      "name": "天狗寿司",
+      "address": "日詰"
+    },
+    {
+      "name": "立飲処 Sunset",
+      "address": "日詰西"
+    },
+    {
+      "name": "森の中の直売所　ジョバンニ",
+      "address": "犬渕"
+    },
+    {
+      "name": "鳥屋",
+      "address": "桜町"
+    },
+    {
+      "name": "VILLA KANAI COFFEE",
+      "address": "桜町"
+    },
+    {
+      "name": "中国料理　jiu",
+      "address": "桜町"
+    },
+    {
+      "name": "麵や椿",
+      "address": "桜町"
+    },
+    {
+      "name": "やまなか家　紫波店",
+      "address": "桜町"
+    },
+    {
+      "name": "おひさま食堂　ひなた家",
+      "address": "平沢"
+    },
+    {
+      "name": "Gelateria Tiara",
+      "address": "北日詰"
+    },
+    {
+      "name": "寿し政",
+      "address": "北日詰"
+    },
+    {
+      "name": "紫波ポケット　ふれんどり",
+      "address": "高水寺"
+    },
+    {
+      "name": "花café",
+      "address": "二日町"
+    },
+    {
+      "name": "AZUMANESOKO",
+      "address": "下松本"
+    },
+    {
+      "name": "すずらんの森Café",
+      "address": "下松本"
+    },
+    {
+      "name": "いたちゃん食堂",
+      "address": "小屋敷"
+    },
+    {
+      "name": "ViewGarden",
+      "address": "小屋敷"
+    },
+    {
+      "name": "ラーメンショップ吾妻屋",
+      "address": "上平沢"
+    },
+    {
+      "name": "後庵",
+      "address": "上平沢"
+    },
+    {
+      "name": "江釣子屋　志和稲荷店",
+      "address": "上平沢"
+    },
+    {
+      "name": "石窯PIZZA  DALA",
+      "address": "土館"
+    },
+    {
+      "name": "和純",
+      "address": "栃内"
+    }
+  ]
+}
