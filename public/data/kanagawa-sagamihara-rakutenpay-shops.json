@@ -2,1551 +2,2323 @@
   "中央区": [
     {
       "name": "アベ電化",
-      "address": "中央区すすきの町"
+      "address": "中央区すすきの町",
+      "storeid": "sagamihara-a016f6",
+      "shopid": "sagamihara-a016f6-rakutenpay"
     },
     {
       "name": "有限会社 村井写真館",
-      "address": "中央区すすきの町"
+      "address": "中央区すすきの町",
+      "storeid": "sagamihara-482c5a",
+      "shopid": "sagamihara-482c5a-rakutenpay"
     },
     {
       "name": "こめくまカフェ",
-      "address": "中央区すすきの町"
+      "address": "中央区すすきの町",
+      "storeid": "sagamihara-5653ce",
+      "shopid": "sagamihara-5653ce-rakutenpay"
     },
     {
       "name": "auショップ 相模原店",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-ab799a",
+      "shopid": "sagamihara-ab799a-rakutenpay"
     },
     {
       "name": "焼鳥本山 横山店",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-312263",
+      "shopid": "sagamihara-312263-rakutenpay"
     },
     {
       "name": "MAXクリーニング 横山店",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-edadc7",
+      "shopid": "sagamihara-edadc7-rakutenpay"
     },
     {
       "name": "ぺット美容室 フットスタンプ",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-364b3e",
+      "shopid": "sagamihara-364b3e-rakutenpay"
     },
     {
       "name": "TOMOPOP",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-cd40ae",
+      "shopid": "sagamihara-cd40ae-rakutenpay"
     },
     {
       "name": "中村書店相模原高等学校売店",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-477d90",
+      "shopid": "sagamihara-477d90-rakutenpay"
     },
     {
       "name": "むさしの森珈琲 相模原横山店",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-b79c0b",
+      "shopid": "sagamihara-b79c0b-rakutenpay"
     },
     {
       "name": "La seek",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-499477",
+      "shopid": "sagamihara-499477-rakutenpay"
     },
     {
       "name": "ありす工房",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-72416d",
+      "shopid": "sagamihara-72416d-rakutenpay"
     },
     {
       "name": "ワタナベ電化",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-6f0b81",
+      "shopid": "sagamihara-6f0b81-rakutenpay"
     },
     {
       "name": "焼肉DINING牛若 相模原店",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-3ca08a",
+      "shopid": "sagamihara-3ca08a-rakutenpay"
     },
     {
       "name": "日産サティオ湘南 相模原中央店",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-7ba0af",
+      "shopid": "sagamihara-7ba0af-rakutenpay"
     },
     {
       "name": "Chinese kitchen8×4",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-b1fa27",
+      "shopid": "sagamihara-b1fa27-rakutenpay"
     },
     {
       "name": "PUT Depot",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-c067b8",
+      "shopid": "sagamihara-c067b8-rakutenpay"
     },
     {
       "name": "ドローンラウンジジュピター",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-600f1b",
+      "shopid": "sagamihara-600f1b-rakutenpay"
     },
     {
       "name": "かさい整骨院",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-50623d",
+      "shopid": "sagamihara-50623d-rakutenpay"
     },
     {
       "name": "cafe Bar pixie",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-7c0c71",
+      "shopid": "sagamihara-7c0c71-rakutenpay"
     },
     {
       "name": "安心らくらく 福祉タクシー",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-d97687",
+      "shopid": "sagamihara-d97687-rakutenpay"
     },
     {
       "name": "COULANE",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-562f0b",
+      "shopid": "sagamihara-562f0b-rakutenpay"
     },
     {
       "name": "味の専科",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-faafff",
+      "shopid": "sagamihara-faafff-rakutenpay"
     },
     {
       "name": "ジャパン観光東京",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-f89be5",
+      "shopid": "sagamihara-f89be5-rakutenpay"
     },
     {
       "name": "鍼灸マッサージ院 Monet",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-77584d",
+      "shopid": "sagamihara-77584d-rakutenpay"
     },
     {
       "name": "個人山本タクシー",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-e73455",
+      "shopid": "sagamihara-e73455-rakutenpay"
     },
     {
       "name": "セオサイクル相模原中央店",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-a53d1f",
+      "shopid": "sagamihara-a53d1f-rakutenpay"
     },
     {
       "name": "健康麻雀KSK",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-05c5ac",
+      "shopid": "sagamihara-05c5ac-rakutenpay"
     },
     {
       "name": "流行屋-HAYARIYA-",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-92b501",
+      "shopid": "sagamihara-92b501-rakutenpay"
     },
     {
       "name": "か印 横山商店。",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-91f0c2",
+      "shopid": "sagamihara-91f0c2-rakutenpay"
     },
     {
       "name": "ヴォート・エスパース",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-970e57",
+      "shopid": "sagamihara-970e57-rakutenpay"
     },
     {
       "name": "クシタニ相模原店",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-a26eed",
+      "shopid": "sagamihara-a26eed-rakutenpay"
     },
     {
       "name": "ポムリ",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-b3b05e",
+      "shopid": "sagamihara-b3b05e-rakutenpay"
     },
     {
       "name": "Buddy Hair",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-c818ba",
+      "shopid": "sagamihara-c818ba-rakutenpay"
     },
     {
       "name": "OLUOLU",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-75e462",
+      "shopid": "sagamihara-75e462-rakutenpay"
     },
     {
       "name": "Joys",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-34eb0e",
+      "shopid": "sagamihara-34eb0e-rakutenpay"
     },
     {
       "name": "てるて接骨院鍼灸院",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-2e55bd",
+      "shopid": "sagamihara-2e55bd-rakutenpay"
     },
     {
       "name": "ぶどう亭",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-ddb367",
+      "shopid": "sagamihara-ddb367-rakutenpay"
     },
     {
       "name": "ラーメンたきび",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-8e4d9b",
+      "shopid": "sagamihara-8e4d9b-rakutenpay"
     },
     {
       "name": "元祖ニュータンタンメン本舗 相模原店",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-73dfea",
+      "shopid": "sagamihara-73dfea-rakutenpay"
     },
     {
       "name": "ヘアーショップ ビーポイント",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-261c7a",
+      "shopid": "sagamihara-261c7a-rakutenpay"
     },
     {
       "name": "セラピーシャトークローバー",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-842156",
+      "shopid": "sagamihara-842156-rakutenpay"
     },
     {
       "name": "トータルリペア アクティブ",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-de614e",
+      "shopid": "sagamihara-de614e-rakutenpay"
     },
     {
       "name": "中村書店 本店",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-52385d",
+      "shopid": "sagamihara-52385d-rakutenpay"
     },
     {
       "name": "仏壇の永田屋 上溝店",
-      "address": "中央区横山"
+      "address": "中央区横山",
+      "storeid": "sagamihara-47747b",
+      "shopid": "sagamihara-47747b-rakutenpay"
     },
     {
       "name": "焼鳥酒場 とりべぇ",
-      "address": "中央区横山台"
+      "address": "中央区横山台",
+      "storeid": "sagamihara-cd3ef0",
+      "shopid": "sagamihara-cd3ef0-rakutenpay"
     },
     {
       "name": "HairSalon結人",
-      "address": "中央区横山台"
+      "address": "中央区横山台",
+      "storeid": "sagamihara-59b844",
+      "shopid": "sagamihara-59b844-rakutenpay"
     },
     {
       "name": "ピアノ プログレス",
-      "address": "中央区横山台"
+      "address": "中央区横山台",
+      "storeid": "sagamihara-6bd603",
+      "shopid": "sagamihara-6bd603-rakutenpay"
     },
     {
       "name": "ファミリー美肌サロン",
-      "address": "中央区横山台"
+      "address": "中央区横山台",
+      "storeid": "sagamihara-d113e7",
+      "shopid": "sagamihara-d113e7-rakutenpay"
     },
     {
       "name": "LABREA",
-      "address": "中央区横山台"
+      "address": "中央区横山台",
+      "storeid": "sagamihara-1586b5",
+      "shopid": "sagamihara-1586b5-rakutenpay"
     },
     {
       "name": "mt book",
-      "address": "中央区横山台"
+      "address": "中央区横山台",
+      "storeid": "sagamihara-58c91b",
+      "shopid": "sagamihara-58c91b-rakutenpay"
     },
     {
       "name": "サーティワンアイスクリーム 相模原横山店",
-      "address": "中央区横山台"
+      "address": "中央区横山台",
+      "storeid": "sagamihara-0c45d4",
+      "shopid": "sagamihara-0c45d4-rakutenpay"
     },
     {
       "name": "七輪焼肉 安安 相模原店",
-      "address": "中央区横山台"
+      "address": "中央区横山台",
+      "storeid": "sagamihara-f9b80f",
+      "shopid": "sagamihara-f9b80f-rakutenpay"
     },
     {
       "name": "鉄板焼き居酒屋なかまる",
-      "address": "中央区横山台"
+      "address": "中央区横山台",
+      "storeid": "sagamihara-60f127",
+      "shopid": "sagamihara-60f127-rakutenpay"
     },
     {
       "name": "ら・ふらんす横山台店",
-      "address": "中央区横山台"
+      "address": "中央区横山台",
+      "storeid": "sagamihara-1997d1",
+      "shopid": "sagamihara-1997d1-rakutenpay"
     },
     {
       "name": "ハニーゴールド",
-      "address": "中央区横山台"
+      "address": "中央区横山台",
+      "storeid": "sagamihara-aaf3a5",
+      "shopid": "sagamihara-aaf3a5-rakutenpay"
     },
     {
       "name": "からやま 南橋本店",
-      "address": "中央区下九沢"
+      "address": "中央区下九沢",
+      "storeid": "sagamihara-2775ea",
+      "shopid": "sagamihara-2775ea-rakutenpay"
     },
     {
       "name": "エンアトリエ美容室",
-      "address": "中央区下九沢"
+      "address": "中央区下九沢",
+      "storeid": "sagamihara-35bc96",
+      "shopid": "sagamihara-35bc96-rakutenpay"
     },
     {
       "name": "シューラルー 相模原マーケットプレイス店",
-      "address": "中央区下九沢"
+      "address": "中央区下九沢",
+      "storeid": "sagamihara-1feabd",
+      "shopid": "sagamihara-1feabd-rakutenpay"
     },
     {
       "name": "スギ薬局 相模原下九沢店",
-      "address": "中央区下九沢"
+      "address": "中央区下九沢",
+      "storeid": "sagamihara-e8a08e",
+      "shopid": "sagamihara-e8a08e-rakutenpay"
     },
     {
       "name": "Rurua.Ocean",
-      "address": "中央区下九沢"
+      "address": "中央区下九沢",
+      "storeid": "sagamihara-e68a7e",
+      "shopid": "sagamihara-e68a7e-rakutenpay"
     },
     {
       "name": "はま寿司 相模原下九沢店",
-      "address": "中央区下九沢"
+      "address": "中央区下九沢",
+      "storeid": "sagamihara-d6db46",
+      "shopid": "sagamihara-d6db46-rakutenpay"
     },
     {
       "name": "La meme",
-      "address": "中央区下九沢"
+      "address": "中央区下九沢",
+      "storeid": "sagamihara-4b6e38",
+      "shopid": "sagamihara-4b6e38-rakutenpay"
     },
     {
       "name": "NEXT MARKET",
-      "address": "中央区下九沢"
+      "address": "中央区下九沢",
+      "storeid": "sagamihara-72797f",
+      "shopid": "sagamihara-72797f-rakutenpay"
     },
     {
       "name": "カー・ビューティー・パーク相模原本店",
-      "address": "中央区下九沢"
+      "address": "中央区下九沢",
+      "storeid": "sagamihara-af2d7e",
+      "shopid": "sagamihara-af2d7e-rakutenpay"
     },
     {
       "name": "横浜商工 相模原所",
-      "address": "中央区下九沢"
+      "address": "中央区下九沢",
+      "storeid": "sagamihara-905a29",
+      "shopid": "sagamihara-905a29-rakutenpay"
     },
     {
       "name": "神奈川都市交通 相模原営業所",
-      "address": "中央区下九沢"
+      "address": "中央区下九沢",
+      "storeid": "sagamihara-bbf760",
+      "shopid": "sagamihara-bbf760-rakutenpay"
     },
     {
       "name": "平野石油    相模原営業所",
-      "address": "中央区下九沢"
+      "address": "中央区下九沢",
+      "storeid": "sagamihara-6e5b57",
+      "shopid": "sagamihara-6e5b57-rakutenpay"
     },
     {
       "name": "サクラオート",
-      "address": "中央区下九沢"
+      "address": "中央区下九沢",
+      "storeid": "sagamihara-b71992",
+      "shopid": "sagamihara-b71992-rakutenpay"
     },
     {
       "name": "UR Plan",
-      "address": "中央区下九沢"
+      "address": "中央区下九沢",
+      "storeid": "sagamihara-b26852",
+      "shopid": "sagamihara-b26852-rakutenpay"
     },
     {
       "name": "ボールパークゴルフスクール",
-      "address": "中央区宮下"
+      "address": "中央区宮下",
+      "storeid": "sagamihara-d19e6f",
+      "shopid": "sagamihara-d19e6f-rakutenpay"
     },
     {
       "name": "中古オフィス家具トレタテ",
-      "address": "中央区宮下"
+      "address": "中央区宮下",
+      "storeid": "sagamihara-7344d2",
+      "shopid": "sagamihara-7344d2-rakutenpay"
     },
     {
       "name": "けんこう65トワーズ相模原",
-      "address": "中央区宮下"
+      "address": "中央区宮下",
+      "storeid": "sagamihara-86cd25",
+      "shopid": "sagamihara-86cd25-rakutenpay"
     },
     {
       "name": "4ofwish",
-      "address": "中央区宮下本町"
+      "address": "中央区宮下本町",
+      "storeid": "sagamihara-6b8d50",
+      "shopid": "sagamihara-6b8d50-rakutenpay"
     },
     {
       "name": "makeups",
-      "address": "中央区宮下本町"
+      "address": "中央区宮下本町",
+      "storeid": "sagamihara-f16b3a",
+      "shopid": "sagamihara-f16b3a-rakutenpay"
     },
     {
       "name": "シュール",
-      "address": "中央区宮下本町"
+      "address": "中央区宮下本町",
+      "storeid": "sagamihara-56cf34",
+      "shopid": "sagamihara-56cf34-rakutenpay"
     },
     {
       "name": "A-sh HAIR 宮下本店",
-      "address": "中央区宮下本町"
+      "address": "中央区宮下本町",
+      "storeid": "sagamihara-d0bfe2",
+      "shopid": "sagamihara-d0bfe2-rakutenpay"
     },
     {
       "name": "ドリームショップおかや",
-      "address": "中央区宮下本町"
+      "address": "中央区宮下本町",
+      "storeid": "sagamihara-0f7ccd",
+      "shopid": "sagamihara-0f7ccd-rakutenpay"
     },
     {
       "name": "CHARME",
-      "address": "中央区宮下本町"
+      "address": "中央区宮下本町",
+      "storeid": "sagamihara-816a3d",
+      "shopid": "sagamihara-816a3d-rakutenpay"
     },
     {
       "name": "ウエストヒル",
-      "address": "中央区宮下本町"
+      "address": "中央区宮下本町",
+      "storeid": "sagamihara-0e7cfb",
+      "shopid": "sagamihara-0e7cfb-rakutenpay"
     },
     {
       "name": "happiness ハピネス",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-8994c9",
+      "shopid": "sagamihara-8994c9-rakutenpay"
     },
     {
       "name": "ゆりさく接骨院",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-0ea00c",
+      "shopid": "sagamihara-0ea00c-rakutenpay"
     },
     {
       "name": "スナック 楽だ",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-0538c8",
+      "shopid": "sagamihara-0538c8-rakutenpay"
     },
     {
       "name": "RENAIL",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-ddfec7",
+      "shopid": "sagamihara-ddfec7-rakutenpay"
     },
     {
       "name": "Inner-Light",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-11b247",
+      "shopid": "sagamihara-11b247-rakutenpay"
     },
     {
       "name": "らいおんハート遊びリテーション児童デイらぷあ淵野辺",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-8d589c",
+      "shopid": "sagamihara-8d589c-rakutenpay"
     },
     {
       "name": "Adonis 淵野辺店",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-6a5938",
+      "shopid": "sagamihara-6a5938-rakutenpay"
     },
     {
       "name": "ローズマリー",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-ee6105",
+      "shopid": "sagamihara-ee6105-rakutenpay"
     },
     {
       "name": "髪若返り研究所 R-lab",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-166c6d",
+      "shopid": "sagamihara-166c6d-rakutenpay"
     },
     {
       "name": "ロック喫茶BAN",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-9f0161",
+      "shopid": "sagamihara-9f0161-rakutenpay"
     },
     {
       "name": "Mr.JUMP相模原",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-23a589",
+      "shopid": "sagamihara-23a589-rakutenpay"
     },
     {
       "name": "すき家 相模原共和店",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-0fc21a",
+      "shopid": "sagamihara-0fc21a-rakutenpay"
     },
     {
       "name": "ケイ・ドリーム 16号相模原店",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-868974",
+      "shopid": "sagamihara-868974-rakutenpay"
     },
     {
       "name": "Nail salon HARMONY",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-d87e33",
+      "shopid": "sagamihara-d87e33-rakutenpay"
     },
     {
       "name": "ヒーラーからの贈り物",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-0a985f",
+      "shopid": "sagamihara-0a985f-rakutenpay"
     },
     {
       "name": "はなえみ指圧マッサージ",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-295236",
+      "shopid": "sagamihara-295236-rakutenpay"
     },
     {
       "name": "ストーンマジック",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-69f218",
+      "shopid": "sagamihara-69f218-rakutenpay"
     },
     {
       "name": "Griddle Bar GOOFY",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-4039c7",
+      "shopid": "sagamihara-4039c7-rakutenpay"
     },
     {
       "name": "横浜家系ラーメン 淵野辺家",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-f01d45",
+      "shopid": "sagamihara-f01d45-rakutenpay"
     },
     {
       "name": "レストラン&カラオケ コロッケ倶楽部 相模原店",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-d3ff7b",
+      "shopid": "sagamihara-d3ff7b-rakutenpay"
     },
     {
       "name": "ぬち nuti",
-      "address": "中央区共和"
+      "address": "中央区共和",
+      "storeid": "sagamihara-29a08e",
+      "shopid": "sagamihara-29a08e-rakutenpay"
     },
     {
       "name": "そばや 池乃家",
-      "address": "中央区光が丘"
+      "address": "中央区光が丘",
+      "storeid": "sagamihara-df612e",
+      "shopid": "sagamihara-df612e-rakutenpay"
     },
     {
       "name": "STU Factory相模原",
-      "address": "中央区光が丘"
+      "address": "中央区光が丘",
+      "storeid": "sagamihara-60f141",
+      "shopid": "sagamihara-60f141-rakutenpay"
     },
     {
       "name": "相模オートガラス",
-      "address": "中央区光が丘"
+      "address": "中央区光が丘",
+      "storeid": "sagamihara-f161f0",
+      "shopid": "sagamihara-f161f0-rakutenpay"
     },
     {
       "name": "はま寿司 相模原光が丘店",
-      "address": "中央区光が丘"
+      "address": "中央区光が丘",
+      "storeid": "sagamihara-1deb15",
+      "shopid": "sagamihara-1deb15-rakutenpay"
     },
     {
       "name": "豆工房コーヒーロースト相模原店",
-      "address": "中央区光が丘"
+      "address": "中央区光が丘",
+      "storeid": "sagamihara-026b5a",
+      "shopid": "sagamihara-026b5a-rakutenpay"
     },
     {
       "name": "リサイクルショップ バンバン",
-      "address": "中央区光が丘"
+      "address": "中央区光が丘",
+      "storeid": "sagamihara-8663f3",
+      "shopid": "sagamihara-8663f3-rakutenpay"
     },
     {
       "name": "Bonds Camper 神奈川相模原店",
-      "address": "中央区光が丘"
+      "address": "中央区光が丘",
+      "storeid": "sagamihara-823d29",
+      "shopid": "sagamihara-823d29-rakutenpay"
     },
     {
       "name": "伊藤酒店",
-      "address": "中央区光が丘"
+      "address": "中央区光が丘",
+      "storeid": "sagamihara-4e227a",
+      "shopid": "sagamihara-4e227a-rakutenpay"
     },
     {
       "name": "エトワール整骨院",
-      "address": "中央区光が丘"
+      "address": "中央区光が丘",
+      "storeid": "sagamihara-a6055c",
+      "shopid": "sagamihara-a6055c-rakutenpay"
     },
     {
       "name": "デンズ・カフェ",
-      "address": "中央区光が丘"
+      "address": "中央区光が丘",
+      "storeid": "sagamihara-8f8073",
+      "shopid": "sagamihara-8f8073-rakutenpay"
     },
     {
       "name": "シャンソン)エクシエル",
-      "address": "中央区光が丘"
+      "address": "中央区光が丘",
+      "storeid": "sagamihara-2b71d6",
+      "shopid": "sagamihara-2b71d6-rakutenpay"
     },
     {
       "name": "アイリス介護タクシー",
-      "address": "中央区光が丘"
+      "address": "中央区光が丘",
+      "storeid": "sagamihara-235be4",
+      "shopid": "sagamihara-235be4-rakutenpay"
     },
     {
       "name": "ニック 光が丘店",
-      "address": "中央区光が丘"
+      "address": "中央区光が丘",
+      "storeid": "sagamihara-4df2ea",
+      "shopid": "sagamihara-4df2ea-rakutenpay"
     }
   ],
   "南区": [
     {
       "name": "ヘアーサロン すずき",
-      "address": "南区旭町"
+      "address": "南区旭町",
+      "storeid": "sagamihara-4b548e",
+      "shopid": "sagamihara-4b548e-rakutenpay"
     },
     {
       "name": "工房マミランド",
-      "address": "南区旭町"
+      "address": "南区旭町",
+      "storeid": "sagamihara-8eeee8",
+      "shopid": "sagamihara-8eeee8-rakutenpay"
     },
     {
       "name": "蕎麦処近江家",
-      "address": "南区旭町"
+      "address": "南区旭町",
+      "storeid": "sagamihara-3e4c22",
+      "shopid": "sagamihara-3e4c22-rakutenpay"
     },
     {
       "name": "中野屋篠崎商店",
-      "address": "南区旭町"
+      "address": "南区旭町",
+      "storeid": "sagamihara-859dbb",
+      "shopid": "sagamihara-859dbb-rakutenpay"
     },
     {
       "name": "カワサキ相模販売",
-      "address": "南区旭町"
+      "address": "南区旭町",
+      "storeid": "sagamihara-2c9791",
+      "shopid": "sagamihara-2c9791-rakutenpay"
     },
     {
       "name": "桜川商会",
-      "address": "南区旭町"
+      "address": "南区旭町",
+      "storeid": "sagamihara-77ae06",
+      "shopid": "sagamihara-77ae06-rakutenpay"
     },
     {
       "name": "AR JAPAN",
-      "address": "南区磯部"
+      "address": "南区磯部",
+      "storeid": "sagamihara-c47027",
+      "shopid": "sagamihara-c47027-rakutenpay"
     },
     {
       "name": "Deru's Kitchen",
-      "address": "南区磯部"
+      "address": "南区磯部",
+      "storeid": "sagamihara-cbb17f",
+      "shopid": "sagamihara-cbb17f-rakutenpay"
     },
     {
       "name": "GoldenRabbit",
-      "address": "南区磯部"
+      "address": "南区磯部",
+      "storeid": "sagamihara-3d7535",
+      "shopid": "sagamihara-3d7535-rakutenpay"
     },
     {
       "name": "JITTERBUG KITCHEN",
-      "address": "南区磯部"
+      "address": "南区磯部",
+      "storeid": "sagamihara-9723e9",
+      "shopid": "sagamihara-9723e9-rakutenpay"
     },
     {
       "name": "日野屋商店",
-      "address": "南区磯部"
+      "address": "南区磯部",
+      "storeid": "sagamihara-d07bb3",
+      "shopid": "sagamihara-d07bb3-rakutenpay"
     },
     {
       "name": "AIRWOLF",
-      "address": "南区磯部"
+      "address": "南区磯部",
+      "storeid": "sagamihara-07910f",
+      "shopid": "sagamihara-07910f-rakutenpay"
     },
     {
       "name": "にゃんこの手",
-      "address": "南区磯部"
+      "address": "南区磯部",
+      "storeid": "sagamihara-224ef2",
+      "shopid": "sagamihara-224ef2-rakutenpay"
     },
     {
       "name": "LION1189",
-      "address": "南区磯部"
+      "address": "南区磯部",
+      "storeid": "sagamihara-89f244",
+      "shopid": "sagamihara-89f244-rakutenpay"
     },
     {
       "name": "StunningLeo",
-      "address": "南区磯部"
+      "address": "南区磯部",
+      "storeid": "sagamihara-d30b46",
+      "shopid": "sagamihara-d30b46-rakutenpay"
     },
     {
       "name": "おそうじ本舗 相模原磯部店",
-      "address": "南区磯部"
+      "address": "南区磯部",
+      "storeid": "sagamihara-89c15c",
+      "shopid": "sagamihara-89c15c-rakutenpay"
     },
     {
       "name": "ははともあたたかい手",
-      "address": "南区磯部"
+      "address": "南区磯部",
+      "storeid": "sagamihara-aa14fb",
+      "shopid": "sagamihara-aa14fb-rakutenpay"
     },
     {
       "name": "MUGIFELTY",
-      "address": "南区磯部"
+      "address": "南区磯部",
+      "storeid": "sagamihara-04ea1c",
+      "shopid": "sagamihara-04ea1c-rakutenpay"
     },
     {
       "name": "日本庭園陵墓紅葉亭管理事務所",
-      "address": "南区磯部"
+      "address": "南区磯部",
+      "storeid": "sagamihara-a2915a",
+      "shopid": "sagamihara-a2915a-rakutenpay"
     },
     {
       "name": "garage.k",
-      "address": "南区磯部"
+      "address": "南区磯部",
+      "storeid": "sagamihara-c99561",
+      "shopid": "sagamihara-c99561-rakutenpay"
     },
     {
       "name": "柿澤自動車",
-      "address": "南区磯部"
+      "address": "南区磯部",
+      "storeid": "sagamihara-35939c",
+      "shopid": "sagamihara-35939c-rakutenpay"
     },
     {
       "name": "スパゲッティーのパンチョ 相模原店",
-      "address": "南区鵜野森"
+      "address": "南区鵜野森",
+      "storeid": "sagamihara-36309f",
+      "shopid": "sagamihara-36309f-rakutenpay"
     },
     {
       "name": "から好し 相模原鵜野森店",
-      "address": "南区鵜野森"
+      "address": "南区鵜野森",
+      "storeid": "sagamihara-f495ba",
+      "shopid": "sagamihara-f495ba-rakutenpay"
     },
     {
       "name": "apollostation 16号鵜野森SS",
-      "address": "南区鵜野森"
+      "address": "南区鵜野森",
+      "storeid": "sagamihara-3f58ff",
+      "shopid": "sagamihara-3f58ff-rakutenpay"
     },
     {
       "name": "冨士山",
-      "address": "南区鵜野森"
+      "address": "南区鵜野森",
+      "storeid": "sagamihara-308897",
+      "shopid": "sagamihara-308897-rakutenpay"
     },
     {
       "name": "ARBRE",
-      "address": "南区鵜野森"
+      "address": "南区鵜野森",
+      "storeid": "sagamihara-bfc534",
+      "shopid": "sagamihara-bfc534-rakutenpay"
     },
     {
       "name": "サロンドでくの坊／サロンドラジュニール",
-      "address": "南区鵜野森"
+      "address": "南区鵜野森",
+      "storeid": "sagamihara-c0b808",
+      "shopid": "sagamihara-c0b808-rakutenpay"
     },
     {
       "name": "鈴木恵美",
-      "address": "南区鵜野森"
+      "address": "南区鵜野森",
+      "storeid": "sagamihara-48e046",
+      "shopid": "sagamihara-48e046-rakutenpay"
     },
     {
       "name": "ジェム Y.O",
-      "address": "南区鵜野森"
+      "address": "南区鵜野森",
+      "storeid": "sagamihara-85f029",
+      "shopid": "sagamihara-85f029-rakutenpay"
     },
     {
       "name": "loosey goosey",
-      "address": "南区鵜野森"
+      "address": "南区鵜野森",
+      "storeid": "sagamihara-16ca84",
+      "shopid": "sagamihara-16ca84-rakutenpay"
     },
     {
       "name": "IDEAVILLA",
-      "address": "南区鵜野森"
+      "address": "南区鵜野森",
+      "storeid": "sagamihara-38772a",
+      "shopid": "sagamihara-38772a-rakutenpay"
     },
     {
       "name": "アレッタ 相模原",
-      "address": "南区鵜野森"
+      "address": "南区鵜野森",
+      "storeid": "sagamihara-8835b5",
+      "shopid": "sagamihara-8835b5-rakutenpay"
     },
     {
       "name": "かわな行政書士事務所",
-      "address": "南区鵜野森"
+      "address": "南区鵜野森",
+      "storeid": "sagamihara-9a89f6",
+      "shopid": "sagamihara-9a89f6-rakutenpay"
     },
     {
       "name": "ダックス相模原店",
-      "address": "南区鵜野森"
+      "address": "南区鵜野森",
+      "storeid": "sagamihara-c62792",
+      "shopid": "sagamihara-c62792-rakutenpay"
     },
     {
       "name": "相模大野 魂心家",
-      "address": "南区鵜野森"
+      "address": "南区鵜野森",
+      "storeid": "sagamihara-91896b",
+      "shopid": "sagamihara-91896b-rakutenpay"
     },
     {
       "name": "インフィニティネットワーク",
-      "address": "南区鵜野森"
+      "address": "南区鵜野森",
+      "storeid": "sagamihara-57d0f5",
+      "shopid": "sagamihara-57d0f5-rakutenpay"
     },
     {
       "name": "コインランドリー彩り",
-      "address": "南区鵜野森"
+      "address": "南区鵜野森",
+      "storeid": "sagamihara-f0e1e1",
+      "shopid": "sagamihara-f0e1e1-rakutenpay"
     },
     {
       "name": "村内ファニチャーアクセス相模原店",
-      "address": "南区鵜野森"
+      "address": "南区鵜野森",
+      "storeid": "sagamihara-e182db",
+      "shopid": "sagamihara-e182db-rakutenpay"
     },
     {
       "name": "MSワークス",
-      "address": "南区栄町"
+      "address": "南区栄町",
+      "storeid": "sagamihara-f39c8c",
+      "shopid": "sagamihara-f39c8c-rakutenpay"
     },
     {
       "name": "Kyujitsu",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-9e0b51",
+      "shopid": "sagamihara-9e0b51-rakutenpay"
     },
     {
       "name": "coloris tile",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-b44b5c",
+      "shopid": "sagamihara-b44b5c-rakutenpay"
     },
     {
       "name": "お出かけ日より",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-24d28f",
+      "shopid": "sagamihara-24d28f-rakutenpay"
     },
     {
       "name": "湯あがり珈琲",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-98ebca",
+      "shopid": "sagamihara-98ebca-rakutenpay"
     },
     {
       "name": "くるまやラーメン 相模原下溝店",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-f97d8d",
+      "shopid": "sagamihara-f97d8d-rakutenpay"
     },
     {
       "name": "ナイスティ",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-7f67e3",
+      "shopid": "sagamihara-7f67e3-rakutenpay"
     },
     {
       "name": "カーラッシュ",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-1d0785",
+      "shopid": "sagamihara-1d0785-rakutenpay"
     },
     {
       "name": "風林堂製菓",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-456845",
+      "shopid": "sagamihara-456845-rakutenpay"
     },
     {
       "name": "誤登録",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-064094",
+      "shopid": "sagamihara-064094-rakutenpay"
     },
     {
       "name": "割烹 きよ寿し",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-56b9ea",
+      "shopid": "sagamihara-56b9ea-rakutenpay"
     },
     {
       "name": "BLANC 麻溝店",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-36c80e",
+      "shopid": "sagamihara-36c80e-rakutenpay"
     },
     {
       "name": "カラオケホロホロ原当麻店",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-e1b63a",
+      "shopid": "sagamihara-e1b63a-rakutenpay"
     },
     {
       "name": "drop.rinny",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-054ffe",
+      "shopid": "sagamihara-054ffe-rakutenpay"
     },
     {
       "name": "HAIR MAKE UP CLUB ナチュラル",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-7b635d",
+      "shopid": "sagamihara-7b635d-rakutenpay"
     },
     {
       "name": "創作DINING BAR元祖もこ",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-9ba40b",
+      "shopid": "sagamihara-9ba40b-rakutenpay"
     },
     {
       "name": "baboo 原当麻店",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-ebfce4",
+      "shopid": "sagamihara-ebfce4-rakutenpay"
     },
     {
       "name": "芳賀建設工業",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-528a85",
+      "shopid": "sagamihara-528a85-rakutenpay"
     },
     {
       "name": "お好み焼 道とん堀 麻溝店",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-14ab01",
+      "shopid": "sagamihara-14ab01-rakutenpay"
     },
     {
       "name": "ほっともっと 原当麻店",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-5e80d3",
+      "shopid": "sagamihara-5e80d3-rakutenpay"
     },
     {
       "name": "プラチナ整体",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-d1f8f6",
+      "shopid": "sagamihara-d1f8f6-rakutenpay"
     },
     {
       "name": "Cut in チバ",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-16f022",
+      "shopid": "sagamihara-16f022-rakutenpay"
     },
     {
       "name": "小嶋ライフ",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-6811f9",
+      "shopid": "sagamihara-6811f9-rakutenpay"
     },
     {
       "name": "月のうさぎ",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-292666",
+      "shopid": "sagamihara-292666-rakutenpay"
     },
     {
       "name": "内田タクシー",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-344f54",
+      "shopid": "sagamihara-344f54-rakutenpay"
     },
     {
       "name": "feliceto candle",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-95ada7",
+      "shopid": "sagamihara-95ada7-rakutenpay"
     },
     {
       "name": "トクソーイノベーション",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-04fdda",
+      "shopid": "sagamihara-04fdda-rakutenpay"
     },
     {
       "name": "ソーセージとパンの店 MONJI MONJI",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-b0d7d9",
+      "shopid": "sagamihara-b0d7d9-rakutenpay"
     },
     {
       "name": "チョードリートレイディング",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-9fa6ae",
+      "shopid": "sagamihara-9fa6ae-rakutenpay"
     },
     {
       "name": "HANA. for pets",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-08dd8b",
+      "shopid": "sagamihara-08dd8b-rakutenpay"
     },
     {
       "name": "来来亭 下溝店",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-9c99ed",
+      "shopid": "sagamihara-9c99ed-rakutenpay"
     },
     {
       "name": "緑花倶楽部",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-18df2c",
+      "shopid": "sagamihara-18df2c-rakutenpay"
     },
     {
       "name": "はな鍼灸院・接骨院",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-e800cc",
+      "shopid": "sagamihara-e800cc-rakutenpay"
     },
     {
       "name": "リトルK スプリングファーム いちご園",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-da808a",
+      "shopid": "sagamihara-da808a-rakutenpay"
     },
     {
       "name": "相模テック第二ヤード",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-6abb07",
+      "shopid": "sagamihara-6abb07-rakutenpay"
     },
     {
       "name": "クラフト",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-b6d3e8",
+      "shopid": "sagamihara-b6d3e8-rakutenpay"
     },
     {
       "name": "オートショップ相模",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-36718c",
+      "shopid": "sagamihara-36718c-rakutenpay"
     },
     {
       "name": "JOL 本社営業所",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-32d319",
+      "shopid": "sagamihara-32d319-rakutenpay"
     },
     {
       "name": "HOTEL Sala",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-92fd89",
+      "shopid": "sagamihara-92fd89-rakutenpay"
     },
     {
       "name": "イラストレーターniboshi",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-b6d6c1",
+      "shopid": "sagamihara-b6d6c1-rakutenpay"
     },
     {
       "name": "モナの丘",
-      "address": "南区下溝"
+      "address": "南区下溝",
+      "storeid": "sagamihara-b2a6d3",
+      "shopid": "sagamihara-b2a6d3-rakutenpay"
     },
     {
       "name": "銀のさら 古淵店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-70e833",
+      "shopid": "sagamihara-70e833-rakutenpay"
     },
     {
       "name": "チェリーココン",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-01795f",
+      "shopid": "sagamihara-01795f-rakutenpay"
     },
     {
       "name": "カラオケMAC’s 古淵店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-49b9b1",
+      "shopid": "sagamihara-49b9b1-rakutenpay"
     },
     {
       "name": "庄や 古淵店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-afc820",
+      "shopid": "sagamihara-afc820-rakutenpay"
     },
     {
       "name": "コメダ珈琲店 古淵駅前店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-4aece1",
+      "shopid": "sagamihara-4aece1-rakutenpay"
     },
     {
       "name": "micori",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-646fe9",
+      "shopid": "sagamihara-646fe9-rakutenpay"
     },
     {
       "name": "アンブルウキ",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-86082d",
+      "shopid": "sagamihara-86082d-rakutenpay"
     },
     {
       "name": "Loop for hair",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-fbd134",
+      "shopid": "sagamihara-fbd134-rakutenpay"
     },
     {
       "name": "ゼロマックス南関東店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-ed297a",
+      "shopid": "sagamihara-ed297a-rakutenpay"
     },
     {
       "name": "ヤギ・リカーズ",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-d9ead4",
+      "shopid": "sagamihara-d9ead4-rakutenpay"
     },
     {
       "name": "T-Watch",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-dff44e",
+      "shopid": "sagamihara-dff44e-rakutenpay"
     },
     {
       "name": "スギ薬局 相模原古淵店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-a670b8",
+      "shopid": "sagamihara-a670b8-rakutenpay"
     },
     {
       "name": "サーティワンアイスクリーム イオン相模原SC店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-472847",
+      "shopid": "sagamihara-472847-rakutenpay"
     },
     {
       "name": "ジーユー イオン相模原SC店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-91f29d",
+      "shopid": "sagamihara-91f29d-rakutenpay"
     },
     {
       "name": "ゼットフットサルスポルト",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-cf62c1",
+      "shopid": "sagamihara-cf62c1-rakutenpay"
     },
     {
       "name": "つり具のブンブン イオン相模原店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-0f4da4",
+      "shopid": "sagamihara-0f4da4-rakutenpay"
     },
     {
       "name": "バーミヤン 古淵店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-76031f",
+      "shopid": "sagamihara-76031f-rakutenpay"
     },
     {
       "name": "ワイモバイル イオン相模原店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-359f9a",
+      "shopid": "sagamihara-359f9a-rakutenpay"
     },
     {
       "name": "吉野家 イオン相模原店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-d52741",
+      "shopid": "sagamihara-d52741-rakutenpay"
     },
     {
       "name": "ブックオフ 研修ルーム店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-98bda0",
+      "shopid": "sagamihara-98bda0-rakutenpay"
     },
     {
       "name": "ジョナサン 相模原古淵店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-c8490c",
+      "shopid": "sagamihara-c8490c-rakutenpay"
     },
     {
       "name": "hair&make etoile",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-2b4d34",
+      "shopid": "sagamihara-2b4d34-rakutenpay"
     },
     {
       "name": "SKY FIELD HAIR",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-c3c744",
+      "shopid": "sagamihara-c3c744-rakutenpay"
     },
     {
       "name": "ビヒトジャパン",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-c73e20",
+      "shopid": "sagamihara-c73e20-rakutenpay"
     },
     {
       "name": "ブーランジュリーアイミ",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-682b64",
+      "shopid": "sagamihara-682b64-rakutenpay"
     },
     {
       "name": "古淵かえる整体院",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-0fde90",
+      "shopid": "sagamihara-0fde90-rakutenpay"
     },
     {
       "name": "串焼き酒場 切磋琢磨",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-42c11b",
+      "shopid": "sagamihara-42c11b-rakutenpay"
     },
     {
       "name": "焼き鳥厨房 渋谷商店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-91ae9f",
+      "shopid": "sagamihara-91ae9f-rakutenpay"
     },
     {
       "name": "BOOKOFF PLUS 古淵駅前",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-883aac",
+      "shopid": "sagamihara-883aac-rakutenpay"
     },
     {
       "name": "カレーハウスCoCo壱番屋相模原古淵駅前店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-1d13c5",
+      "shopid": "sagamihara-1d13c5-rakutenpay"
     },
     {
       "name": "ミスタードーナツ 古淵駅前ショップ店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-d978a9",
+      "shopid": "sagamihara-d978a9-rakutenpay"
     },
     {
       "name": "手もみ処 ほぐし手や",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-e1108d",
+      "shopid": "sagamihara-e1108d-rakutenpay"
     },
     {
       "name": "BOOKOFF PLUS 古淵駅前店(本・ソフト館)店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-9673c1",
+      "shopid": "sagamihara-9673c1-rakutenpay"
     },
     {
       "name": "ギフトショップ心",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-1be752",
+      "shopid": "sagamihara-1be752-rakutenpay"
     },
     {
       "name": "がじゃいも家族",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-dc8d14",
+      "shopid": "sagamihara-dc8d14-rakutenpay"
     },
     {
       "name": "ビジョンメガネ 古淵店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-75da42",
+      "shopid": "sagamihara-75da42-rakutenpay"
     },
     {
       "name": "アパホテル 相模原 古淵駅前",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-e3d2d9",
+      "shopid": "sagamihara-e3d2d9-rakutenpay"
     },
     {
       "name": "Verde NAIL",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-f4b2f4",
+      "shopid": "sagamihara-f4b2f4-rakutenpay"
     },
     {
       "name": "Cachette",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-ec8a34",
+      "shopid": "sagamihara-ec8a34-rakutenpay"
     },
     {
       "name": "KINON",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-a12bf3",
+      "shopid": "sagamihara-a12bf3-rakutenpay"
     },
     {
       "name": "Mellow",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-40c442",
+      "shopid": "sagamihara-40c442-rakutenpay"
     },
     {
       "name": "NEO ANTI＊BOO古淵店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-b4a9c5",
+      "shopid": "sagamihara-b4a9c5-rakutenpay"
     },
     {
       "name": "Utopia Thai spa",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-ecb475",
+      "shopid": "sagamihara-ecb475-rakutenpay"
     },
     {
       "name": "COO&RIKU 相模原店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-970a0c",
+      "shopid": "sagamihara-970a0c-rakutenpay"
     },
     {
       "name": "Choki Peta 古淵店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-e71507",
+      "shopid": "sagamihara-e71507-rakutenpay"
     },
     {
       "name": "GiGO イトーヨーカドー古淵",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-9108b2",
+      "shopid": "sagamihara-9108b2-rakutenpay"
     },
     {
       "name": "うさちゃんクリーニング イトーヨーカドー古淵店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-c05494",
+      "shopid": "sagamihara-c05494-rakutenpay"
     },
     {
       "name": "えにかいたもち古淵店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-6c731b",
+      "shopid": "sagamihara-6c731b-rakutenpay"
     },
     {
       "name": "はなまるうどん イトーヨーカドー古淵店",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-ec75b3",
+      "shopid": "sagamihara-ec75b3-rakutenpay"
     },
     {
       "name": "穂苅タクシー",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-a2a635",
+      "shopid": "sagamihara-a2a635-rakutenpay"
     },
     {
       "name": "JALSA Spice Dinner&Bar",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-539ba5",
+      "shopid": "sagamihara-539ba5-rakutenpay"
     },
     {
       "name": "Du.s",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-35745f",
+      "shopid": "sagamihara-35745f-rakutenpay"
     },
     {
       "name": "Nail salon Kilika",
-      "address": "南区古淵"
+      "address": "南区古淵",
+      "storeid": "sagamihara-767268",
+      "shopid": "sagamihara-767268-rakutenpay"
     }
   ],
   "緑区": [
     {
       "name": "BLUE OCEAN MOBILE",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-cbb250",
+      "shopid": "sagamihara-cbb250-rakutenpay"
     },
     {
       "name": "T‘s STUDIO",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-086350",
+      "shopid": "sagamihara-086350-rakutenpay"
     },
     {
       "name": "Car Collection Innovator",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-5d217a",
+      "shopid": "sagamihara-5d217a-rakutenpay"
     },
     {
       "name": "Links Hair",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-9d141f",
+      "shopid": "sagamihara-9d141f-rakutenpay"
     },
     {
       "name": "小料理 ますみ",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-64f7c4",
+      "shopid": "sagamihara-64f7c4-rakutenpay"
     },
     {
       "name": "ティップスオートガレージ",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-c724ee",
+      "shopid": "sagamihara-c724ee-rakutenpay"
     },
     {
       "name": "AULELEI",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-897cee",
+      "shopid": "sagamihara-897cee-rakutenpay"
     },
     {
       "name": "運転代行スマイル",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-c7b759",
+      "shopid": "sagamihara-c7b759-rakutenpay"
     },
     {
       "name": "親興",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-851c53",
+      "shopid": "sagamihara-851c53-rakutenpay"
     },
     {
       "name": "ほねごり接骨院はりきゅう院 下九沢院",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-f1961e",
+      "shopid": "sagamihara-f1961e-rakutenpay"
     },
     {
       "name": "ガスト 相模原下九沢店",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-9d4b57",
+      "shopid": "sagamihara-9d4b57-rakutenpay"
     },
     {
       "name": "とりいち",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-34131a",
+      "shopid": "sagamihara-34131a-rakutenpay"
     },
     {
       "name": "酒処 木ノ葉",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-4f2d72",
+      "shopid": "sagamihara-4f2d72-rakutenpay"
     },
     {
       "name": "和田企画",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-04e825",
+      "shopid": "sagamihara-04e825-rakutenpay"
     },
     {
       "name": "やきとりの扇屋 相模原下九沢店",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-b54fc3",
+      "shopid": "sagamihara-b54fc3-rakutenpay"
     },
     {
       "name": "天使のゆめ",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-071694",
+      "shopid": "sagamihara-071694-rakutenpay"
     },
     {
       "name": "ホテル リヴィエラ 相模原",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-7ef739",
+      "shopid": "sagamihara-7ef739-rakutenpay"
     },
     {
       "name": "ダイイチオートサービス サガミハラ",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-738bb9",
+      "shopid": "sagamihara-738bb9-rakutenpay"
     },
     {
       "name": "ASAHI.beauty",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-2824b8",
+      "shopid": "sagamihara-2824b8-rakutenpay"
     },
     {
       "name": "ほっともっと 下九沢店",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-9431d4",
+      "shopid": "sagamihara-9431d4-rakutenpay"
     },
     {
       "name": "アンファンネージュ",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-cf7a11",
+      "shopid": "sagamihara-cf7a11-rakutenpay"
     },
     {
       "name": "小田島タクシー",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-ac447f",
+      "shopid": "sagamihara-ac447f-rakutenpay"
     },
     {
       "name": "スナック ニューロード",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-450a49",
+      "shopid": "sagamihara-450a49-rakutenpay"
     },
     {
       "name": "すずきファクトリー",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-29537e",
+      "shopid": "sagamihara-29537e-rakutenpay"
     },
     {
       "name": "久保田写真館",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-c0075d",
+      "shopid": "sagamihara-c0075d-rakutenpay"
     },
     {
       "name": "アジアンカレーKHUSI",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-fc657b",
+      "shopid": "sagamihara-fc657b-rakutenpay"
     },
     {
       "name": "ぱるぷんて",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-270000",
+      "shopid": "sagamihara-270000-rakutenpay"
     },
     {
       "name": "ヴァーヴァエ・ロミ",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-6f882f",
+      "shopid": "sagamihara-6f882f-rakutenpay"
     },
     {
       "name": "AND",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-a3f1f8",
+      "shopid": "sagamihara-a3f1f8-rakutenpay"
     },
     {
       "name": "クリーニングショップフラット 下九沢店",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-0a402e",
+      "shopid": "sagamihara-0a402e-rakutenpay"
     },
     {
       "name": "スーパー公正屋 下九沢店",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-fe74db",
+      "shopid": "sagamihara-fe74db-rakutenpay"
     },
     {
       "name": "相模・下九沢温泉 湯楽の里",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-d07254",
+      "shopid": "sagamihara-d07254-rakutenpay"
     },
     {
       "name": "バランス整体サロン和",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-487613",
+      "shopid": "sagamihara-487613-rakutenpay"
     },
     {
       "name": "ペットサロン ムルカスタジオ",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-9ccf0d",
+      "shopid": "sagamihara-9ccf0d-rakutenpay"
     },
     {
       "name": "TAIYAKI MARUCHAN",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-01e499",
+      "shopid": "sagamihara-01e499-rakutenpay"
     },
     {
       "name": "ピザーラ 橋本下九沢店",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-317a7e",
+      "shopid": "sagamihara-317a7e-rakutenpay"
     },
     {
       "name": "髪ing 727",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-a99fbd",
+      "shopid": "sagamihara-a99fbd-rakutenpay"
     },
     {
       "name": "沼尾硝子",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-3031e9",
+      "shopid": "sagamihara-3031e9-rakutenpay"
     },
     {
       "name": "アシストメタル24",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-86477e",
+      "shopid": "sagamihara-86477e-rakutenpay"
     },
     {
       "name": "ヘアーステージ・KUBO",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-cd83b5",
+      "shopid": "sagamihara-cd83b5-rakutenpay"
     },
     {
       "name": "BISTRO風凛",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-fe45c2",
+      "shopid": "sagamihara-fe45c2-rakutenpay"
     },
     {
       "name": "千福寿司",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-2e502e",
+      "shopid": "sagamihara-2e502e-rakutenpay"
     },
     {
       "name": "床屋 KATO",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-a10b8b",
+      "shopid": "sagamihara-a10b8b-rakutenpay"
     },
     {
       "name": "TYSファクトリー",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-8acaab",
+      "shopid": "sagamihara-8acaab-rakutenpay"
     },
     {
       "name": "テイクワン 相模原店",
-      "address": "緑区下九沢"
+      "address": "緑区下九沢",
+      "storeid": "sagamihara-d7b36c",
+      "shopid": "sagamihara-d7b36c-rakutenpay"
     },
     {
       "name": "キグナスセルフ相模湖",
-      "address": "緑区吉野"
+      "address": "緑区吉野",
+      "storeid": "sagamihara-95e151",
+      "shopid": "sagamihara-95e151-rakutenpay"
     },
     {
       "name": "里＋",
-      "address": "緑区吉野"
+      "address": "緑区吉野",
+      "storeid": "sagamihara-84f609",
+      "shopid": "sagamihara-84f609-rakutenpay"
     },
     {
       "name": "沢井屋写真館「2階」",
-      "address": "緑区吉野"
+      "address": "緑区吉野",
+      "storeid": "sagamihara-98d28b",
+      "shopid": "sagamihara-98d28b-rakutenpay"
     },
     {
       "name": "apollostation ニュー相模湖SS",
-      "address": "緑区吉野"
+      "address": "緑区吉野",
+      "storeid": "sagamihara-93e182",
+      "shopid": "sagamihara-93e182-rakutenpay"
     },
     {
       "name": "守屋自動車整備工場",
-      "address": "緑区吉野"
+      "address": "緑区吉野",
+      "storeid": "sagamihara-1102ab",
+      "shopid": "sagamihara-1102ab-rakutenpay"
     },
     {
       "name": "藤野の助産院mid-U",
-      "address": "緑区吉野"
+      "address": "緑区吉野",
+      "storeid": "sagamihara-0f5b1b",
+      "shopid": "sagamihara-0f5b1b-rakutenpay"
     },
     {
       "name": "旅館 陣谷温泉",
-      "address": "緑区吉野"
+      "address": "緑区吉野",
+      "storeid": "sagamihara-770e31",
+      "shopid": "sagamihara-770e31-rakutenpay"
     },
     {
       "name": "旅館 陣渓園",
-      "address": "緑区吉野"
+      "address": "緑区吉野",
+      "storeid": "sagamihara-8b17db",
+      "shopid": "sagamihara-8b17db-rakutenpay"
     },
     {
       "name": "生涯スポーツ応援団",
-      "address": "緑区久保沢"
+      "address": "緑区久保沢",
+      "storeid": "sagamihara-4eebe8",
+      "shopid": "sagamihara-4eebe8-rakutenpay"
     },
     {
       "name": "酵素風呂 RA.RA",
-      "address": "緑区久保沢"
+      "address": "緑区久保沢",
+      "storeid": "sagamihara-05acfa",
+      "shopid": "sagamihara-05acfa-rakutenpay"
     },
     {
       "name": "伊勢原書店 城山店",
-      "address": "緑区久保沢"
+      "address": "緑区久保沢",
+      "storeid": "sagamihara-e1e104",
+      "shopid": "sagamihara-e1e104-rakutenpay"
     },
     {
       "name": "グラッチェガーデンズ 津久井城山店",
-      "address": "緑区久保沢"
+      "address": "緑区久保沢",
+      "storeid": "sagamihara-cf7880",
+      "shopid": "sagamihara-cf7880-rakutenpay"
     },
     {
       "name": "おおしま・はりきゅう整骨院",
-      "address": "緑区久保沢"
+      "address": "緑区久保沢",
+      "storeid": "sagamihara-02cc80",
+      "shopid": "sagamihara-02cc80-rakutenpay"
     },
     {
       "name": "Hair R‘s",
-      "address": "緑区久保沢"
+      "address": "緑区久保沢",
+      "storeid": "sagamihara-ff647c",
+      "shopid": "sagamihara-ff647c-rakutenpay"
     },
     {
       "name": "そば処 尾張屋 城山店",
-      "address": "緑区久保沢"
+      "address": "緑区久保沢",
+      "storeid": "sagamihara-6a8bad",
+      "shopid": "sagamihara-6a8bad-rakutenpay"
     },
     {
       "name": "hairsalonbamboo",
-      "address": "緑区久保沢"
+      "address": "緑区久保沢",
+      "storeid": "sagamihara-e819a6",
+      "shopid": "sagamihara-e819a6-rakutenpay"
     },
     {
       "name": "MARERO",
-      "address": "緑区久保沢"
+      "address": "緑区久保沢",
+      "storeid": "sagamihara-0a9384",
+      "shopid": "sagamihara-0a9384-rakutenpay"
     },
     {
       "name": "しげよし 相模原本店",
-      "address": "緑区久保沢"
+      "address": "緑区久保沢",
+      "storeid": "sagamihara-4f5b59",
+      "shopid": "sagamihara-4f5b59-rakutenpay"
     },
     {
       "name": "nailsalonfelice",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-c4de13",
+      "shopid": "sagamihara-c4de13-rakutenpay"
     },
     {
       "name": "TherapiCo",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-7ad49e",
+      "shopid": "sagamihara-7ad49e-rakutenpay"
     },
     {
       "name": "Honda Cars 神奈川西 橋本店",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-01741a",
+      "shopid": "sagamihara-01741a-rakutenpay"
     },
     {
       "name": "HondaCars 神奈川西 U-Select相模原橋本店",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-dbccff",
+      "shopid": "sagamihara-dbccff-rakutenpay"
     },
     {
       "name": "Very",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-4a2736",
+      "shopid": "sagamihara-4a2736-rakutenpay"
     },
     {
       "name": "jela 橋本",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-f27653",
+      "shopid": "sagamihara-f27653-rakutenpay"
     },
     {
       "name": "KARADAALICIA",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-5887dc",
+      "shopid": "sagamihara-5887dc-rakutenpay"
     },
     {
       "name": "Nail salon COCO",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-421773",
+      "shopid": "sagamihara-421773-rakutenpay"
     },
     {
       "name": "SKY second",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-f84e34",
+      "shopid": "sagamihara-f84e34-rakutenpay"
     },
     {
       "name": "和整体院",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-8aae39",
+      "shopid": "sagamihara-8aae39-rakutenpay"
     },
     {
       "name": "COCO LUANA",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-3a17cb",
+      "shopid": "sagamihara-3a17cb-rakutenpay"
     },
     {
       "name": "ガスト 橋本駅前店",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-26062e",
+      "shopid": "sagamihara-26062e-rakutenpay"
     },
     {
       "name": "かもん 南口店",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-7ed2b4",
+      "shopid": "sagamihara-7ed2b4-rakutenpay"
     },
     {
       "name": "スマホ修理工房 橋本駅店",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-832536",
+      "shopid": "sagamihara-832536-rakutenpay"
     },
     {
       "name": "なか卯 橋本店",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-f1ffdc",
+      "shopid": "sagamihara-f1ffdc-rakutenpay"
     },
     {
       "name": "フラワーショップ京王 橋本店",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-c8b131",
+      "shopid": "sagamihara-c8b131-rakutenpay"
     },
     {
       "name": "ベーカリーアンドカフェ ルパ橋本店",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-1aa17e",
+      "shopid": "sagamihara-1aa17e-rakutenpay"
     },
     {
       "name": "啓文堂書店 橋本駅店",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-139926",
+      "shopid": "sagamihara-139926-rakutenpay"
     },
     {
       "name": "ノイロ 2nd dining",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-7df89d",
+      "shopid": "sagamihara-7df89d-rakutenpay"
     },
     {
       "name": "ヘアメイク ファーストプライズ",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-f7a758",
+      "shopid": "sagamihara-f7a758-rakutenpay"
     },
     {
       "name": "PEDLAR",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-c767b4",
+      "shopid": "sagamihara-c767b4-rakutenpay"
     },
     {
       "name": "湘南巻き爪矯正院 橋本院",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-b144c3",
+      "shopid": "sagamihara-b144c3-rakutenpay"
     },
     {
       "name": "WORLD G8",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-baaed2",
+      "shopid": "sagamihara-baaed2-rakutenpay"
     },
     {
       "name": "整体院粋-Sui",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-92892d",
+      "shopid": "sagamihara-92892d-rakutenpay"
     },
     {
       "name": "amie 橋本駅店",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-670c68",
+      "shopid": "sagamihara-670c68-rakutenpay"
     },
     {
       "name": "HAIR MAKE DESART hair make komorebi",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-09c6fb",
+      "shopid": "sagamihara-09c6fb-rakutenpay"
     },
     {
       "name": "The Cbya float 橋本",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-bb0cb8",
+      "shopid": "sagamihara-bb0cb8-rakutenpay"
     },
     {
       "name": "Capture 橋本",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-d93e56",
+      "shopid": "sagamihara-d93e56-rakutenpay"
     },
     {
       "name": "ReGrous",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-7098ee",
+      "shopid": "sagamihara-7098ee-rakutenpay"
     },
     {
       "name": "HATSU橋本",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-165c60",
+      "shopid": "sagamihara-165c60-rakutenpay"
     },
     {
       "name": "Lnail×Blanc橋本",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-b13705",
+      "shopid": "sagamihara-b13705-rakutenpay"
     },
     {
       "name": "Recess Hair",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-0dbb29",
+      "shopid": "sagamihara-0dbb29-rakutenpay"
     },
     {
       "name": "Avanti",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-447057",
+      "shopid": "sagamihara-447057-rakutenpay"
     },
     {
       "name": "Design Credo",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-e4c00c",
+      "shopid": "sagamihara-e4c00c-rakutenpay"
     },
     {
       "name": "炭焼酒場 焔 ほむら 橋本店",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-187a0f",
+      "shopid": "sagamihara-187a0f-rakutenpay"
     },
     {
       "name": "GOHAN",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-e5139b",
+      "shopid": "sagamihara-e5139b-rakutenpay"
     },
     {
       "name": "馬肉創作酒場 当千坊",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-c92bd2",
+      "shopid": "sagamihara-c92bd2-rakutenpay"
     },
     {
       "name": "イケヤ写真館",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-7043a0",
+      "shopid": "sagamihara-7043a0-rakutenpay"
     },
     {
       "name": "fha-na bloom",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-cc0fad",
+      "shopid": "sagamihara-cc0fad-rakutenpay"
     },
     {
       "name": "トータルボディケアサロン セレノ",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-d9f91e",
+      "shopid": "sagamihara-d9f91e-rakutenpay"
     },
     {
       "name": "橋本みなみ鍼灸整骨院",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-a4a12c",
+      "shopid": "sagamihara-a4a12c-rakutenpay"
     },
     {
       "name": "はしもと接骨院",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-46c82d",
+      "shopid": "sagamihara-46c82d-rakutenpay"
     },
     {
       "name": "mi.belle...",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-8c4eb9",
+      "shopid": "sagamihara-8c4eb9-rakutenpay"
     },
     {
       "name": "Ribbon",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-5209d0",
+      "shopid": "sagamihara-5209d0-rakutenpay"
     },
     {
       "name": "&.n",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-ea02de",
+      "shopid": "sagamihara-ea02de-rakutenpay"
     },
     {
       "name": "Ann charmant",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-446f47",
+      "shopid": "sagamihara-446f47-rakutenpay"
     },
     {
       "name": "橋南堂",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-1e4a92",
+      "shopid": "sagamihara-1e4a92-rakutenpay"
     },
     {
       "name": "840 KITCHEN",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-88dbca",
+      "shopid": "sagamihara-88dbca-rakutenpay"
     },
     {
       "name": "イグレック・パリ 橋本店",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-de914a",
+      "shopid": "sagamihara-de914a-rakutenpay"
     },
     {
       "name": "シーアールガレージ",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-4128d8",
+      "shopid": "sagamihara-4128d8-rakutenpay"
     },
     {
       "name": "レストランいのうえ",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-30877b",
+      "shopid": "sagamihara-30877b-rakutenpay"
     },
     {
       "name": "すき家 16号相模原橋本店",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-03f584",
+      "shopid": "sagamihara-03f584-rakutenpay"
     },
     {
       "name": "フクヤマ画廊",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-1ac133",
+      "shopid": "sagamihara-1ac133-rakutenpay"
     },
     {
       "name": "美活テラス",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-8d8d98",
+      "shopid": "sagamihara-8d8d98-rakutenpay"
     },
     {
       "name": "RICHELLE",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-37506e",
+      "shopid": "sagamihara-37506e-rakutenpay"
     },
     {
       "name": "大吉商店",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-6885c1",
+      "shopid": "sagamihara-6885c1-rakutenpay"
     },
     {
       "name": "esthetic room Ein Blatt",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-40064a",
+      "shopid": "sagamihara-40064a-rakutenpay"
     },
     {
       "name": "Merry HASHIMOTO",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-0cb194",
+      "shopid": "sagamihara-0cb194-rakutenpay"
     },
     {
       "name": "アドアーズ 橋本店",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-248d59",
+      "shopid": "sagamihara-248d59-rakutenpay"
     },
     {
       "name": "ヘアーストーリーピュア 橋本店",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-29b927",
+      "shopid": "sagamihara-29b927-rakutenpay"
     },
     {
       "name": "橋本パークホテル",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-da2c82",
+      "shopid": "sagamihara-da2c82-rakutenpay"
     },
     {
       "name": "BEVY 橋本店",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-78e48f",
+      "shopid": "sagamihara-78e48f-rakutenpay"
     },
     {
       "name": "N HAIR DESIGN",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-8ed2de",
+      "shopid": "sagamihara-8ed2de-rakutenpay"
     },
     {
       "name": "リフール",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-f31a7b",
+      "shopid": "sagamihara-f31a7b-rakutenpay"
     },
     {
       "name": "ブティックティファニー",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-5d88e6",
+      "shopid": "sagamihara-5d88e6-rakutenpay"
     },
     {
       "name": "美容室アルク",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-3f2452",
+      "shopid": "sagamihara-3f2452-rakutenpay"
     },
     {
       "name": "ビューティサロン レディ",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-d7f442",
+      "shopid": "sagamihara-d7f442-rakutenpay"
     },
     {
       "name": "Hair Studio yuse",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-2831a9",
+      "shopid": "sagamihara-2831a9-rakutenpay"
     },
     {
       "name": "個人小竹タクシー",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-47e78c",
+      "shopid": "sagamihara-47e78c-rakutenpay"
     },
     {
       "name": "SoL",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-74f32f",
+      "shopid": "sagamihara-74f32f-rakutenpay"
     },
     {
       "name": "ドライヘッドスパ GOKUJO",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-34bd2d",
+      "shopid": "sagamihara-34bd2d-rakutenpay"
     },
     {
       "name": "Re.Ra.Ku 橋本店",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-58d257",
+      "shopid": "sagamihara-58d257-rakutenpay"
     },
     {
       "name": "炭火 はじめ",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-ee174c",
+      "shopid": "sagamihara-ee174c-rakutenpay"
     },
     {
       "name": "エムス・ヘアーショップ",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-d06cad",
+      "shopid": "sagamihara-d06cad-rakutenpay"
     },
     {
       "name": "HK LOUNGE",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-0016d4",
+      "shopid": "sagamihara-0016d4-rakutenpay"
     },
     {
       "name": "wappoi",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-e08cac",
+      "shopid": "sagamihara-e08cac-rakutenpay"
     },
     {
       "name": "イタリアンバルパステル 橋本駅前店",
-      "address": "緑区橋本"
+      "address": "緑区橋本",
+      "storeid": "sagamihara-c5501e",
+      "shopid": "sagamihara-c5501e-rakutenpay"
     }
   ]
 }

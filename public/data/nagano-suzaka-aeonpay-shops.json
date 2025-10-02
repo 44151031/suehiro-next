@@ -2,331 +2,489 @@
   "その他小売": [
     {
       "name": "Will須坂インター店",
-      "address": "井上1830-9Will須坂インター店"
+      "address": "井上1830-9Will須坂インター店",
+      "storeid": "suzaka-291743",
+      "shopid": "suzaka-291743-aeonpay"
     },
     {
       "name": "土屋印店",
-      "address": "上中町157"
+      "address": "上中町157",
+      "storeid": "suzaka-e3bf2c",
+      "shopid": "suzaka-e3bf2c-aeonpay"
     },
     {
       "name": "スポーツショップ日新",
-      "address": "須坂1303ノ1"
+      "address": "須坂1303ノ1",
+      "storeid": "suzaka-338c58",
+      "shopid": "suzaka-338c58-aeonpay"
     },
     {
       "name": "田中酒類販売",
-      "address": "須坂1454"
+      "address": "須坂1454",
+      "storeid": "suzaka-104612",
+      "shopid": "suzaka-104612-aeonpay"
     },
     {
       "name": "エルコンパスでんおん",
-      "address": "須坂1574-36"
+      "address": "須坂1574-36",
+      "storeid": "suzaka-bcbda3",
+      "shopid": "suzaka-bcbda3-aeonpay"
     },
     {
       "name": "サロン・ド・ジェム　ヤマグチ",
-      "address": "須坂北横町364森川商店ビル1F"
+      "address": "須坂北横町364森川商店ビル1F",
+      "storeid": "suzaka-7ec2a7",
+      "shopid": "suzaka-7ec2a7-aeonpay"
     },
     {
       "name": "綿幸（株）",
-      "address": "中町218"
+      "address": "中町218",
+      "storeid": "suzaka-c4cead",
+      "shopid": "suzaka-c4cead-aeonpay"
     },
     {
       "name": "DCM須坂インター",
-      "address": "井上字蛇沢702-1"
+      "address": "井上字蛇沢702-1",
+      "storeid": "suzaka-fb2a8a",
+      "shopid": "suzaka-fb2a8a-aeonpay"
     },
     {
       "name": "カメラショップ　イワイ",
-      "address": "馬場町1266-16"
+      "address": "馬場町1266-16",
+      "storeid": "suzaka-0eb002",
+      "shopid": "suzaka-0eb002-aeonpay"
     },
     {
       "name": "サカイタイヤサービス",
-      "address": "米持475-1"
+      "address": "米持475-1",
+      "storeid": "suzaka-de6d4a",
+      "shopid": "suzaka-de6d4a-aeonpay"
     },
     {
       "name": "合同会社ケイアイナーセリー",
-      "address": "豊丘843"
+      "address": "豊丘843",
+      "storeid": "suzaka-e48cce",
+      "shopid": "suzaka-e48cce-aeonpay"
     },
     {
       "name": "シューマート須坂店",
-      "address": "墨坂南2-6-3"
+      "address": "墨坂南2-6-3",
+      "storeid": "suzaka-59bb11",
+      "shopid": "suzaka-59bb11-aeonpay"
     },
     {
       "name": "Yショップ信州医療センター売店",
-      "address": "立町1332"
+      "address": "立町1332",
+      "storeid": "suzaka-2f80a3",
+      "shopid": "suzaka-2f80a3-aeonpay"
     },
     {
       "name": "合資会社カミヤ長張商店",
-      "address": "須坂1370"
+      "address": "須坂1370",
+      "storeid": "suzaka-c1c98e",
+      "shopid": "suzaka-c1c98e-aeonpay"
     },
     {
       "name": "キモノのゆきわ",
-      "address": "須坂885-22"
+      "address": "須坂885-22",
+      "storeid": "suzaka-9e3463",
+      "shopid": "suzaka-9e3463-aeonpay"
     },
     {
       "name": "株式会社永井新聞店",
-      "address": "須坂1431-1"
+      "address": "須坂1431-1",
+      "storeid": "suzaka-378be8",
+      "shopid": "suzaka-378be8-aeonpay"
     },
     {
       "name": "アルファー・ミキ",
-      "address": "高梨町2510-1"
+      "address": "高梨町2510-1",
+      "storeid": "suzaka-251c3f",
+      "shopid": "suzaka-251c3f-aeonpay"
     }
   ],
   "サービス": [
     {
       "name": "ベラミ",
-      "address": "小山1300-5"
+      "address": "小山1300-5",
+      "storeid": "suzaka-e62726",
+      "shopid": "suzaka-e62726-aeonpay"
     },
     {
       "name": "奥山ペンション・ラディッシュ",
-      "address": "仁礼3153-596"
+      "address": "仁礼3153-596",
+      "storeid": "suzaka-60d8a0",
+      "shopid": "suzaka-60d8a0-aeonpay"
     },
     {
       "name": "山の宿木まま",
-      "address": "仁礼3153-728"
+      "address": "仁礼3153-728",
+      "storeid": "suzaka-e26c1e",
+      "shopid": "suzaka-e26c1e-aeonpay"
     },
     {
       "name": "ゲストハウス蔵",
-      "address": "須坂39"
+      "address": "須坂39",
+      "storeid": "suzaka-2e7986",
+      "shopid": "suzaka-2e7986-aeonpay"
     },
     {
       "name": "四明館",
-      "address": "南横町1629"
+      "address": "南横町1629",
+      "storeid": "suzaka-14d1a4",
+      "shopid": "suzaka-14d1a4-aeonpay"
     },
     {
       "name": "bota",
-      "address": "北横町1295-1シルキービル"
+      "address": "北横町1295-1シルキービル",
+      "storeid": "suzaka-2f3c21",
+      "shopid": "suzaka-2f3c21-aeonpay"
     },
     {
       "name": "糀屋本藤醸造舗",
-      "address": "野辺1366"
+      "address": "野辺1366",
+      "storeid": "suzaka-97d6e7",
+      "shopid": "suzaka-97d6e7-aeonpay"
     },
     {
       "name": "須坂市技術情報センター",
-      "address": "井上1835-1"
+      "address": "井上1835-1",
+      "storeid": "suzaka-d3a928",
+      "shopid": "suzaka-d3a928-aeonpay"
     },
     {
       "name": "唐十郎窯",
-      "address": "田の神12-3"
+      "address": "田の神12-3",
+      "storeid": "suzaka-555ad9",
+      "shopid": "suzaka-555ad9-aeonpay"
     },
     {
       "name": "ペンション＆レストランHIROSTRADA",
-      "address": "仁礼3153-927 ペンション＆レストランHIROSTRADA"
+      "address": "仁礼3153-927 ペンション＆レストランHIROSTRADA",
+      "storeid": "suzaka-812c78",
+      "shopid": "suzaka-812c78-aeonpay"
     },
     {
       "name": "有限会社嘉道園",
-      "address": "臥竜2-8-2"
+      "address": "臥竜2-8-2",
+      "storeid": "suzaka-a9ea80",
+      "shopid": "suzaka-a9ea80-aeonpay"
     },
     {
       "name": "信濃観光バス",
-      "address": "幸高字早道場32-2"
+      "address": "幸高字早道場32-2",
+      "storeid": "suzaka-27b7f7",
+      "shopid": "suzaka-27b7f7-aeonpay"
     },
     {
       "name": "キタモリカーライフステーション",
-      "address": "須坂1416"
+      "address": "須坂1416",
+      "storeid": "suzaka-1463e2",
+      "shopid": "suzaka-1463e2-aeonpay"
     },
     {
       "name": "ａｎｄＴ",
-      "address": "高梨町2510-1"
+      "address": "高梨町2510-1",
+      "storeid": "suzaka-473eb1",
+      "shopid": "suzaka-473eb1-aeonpay"
     },
     {
       "name": "松山園",
-      "address": "幸高町屋敷添438-1"
+      "address": "幸高町屋敷添438-1",
+      "storeid": "suzaka-1ceae0",
+      "shopid": "suzaka-1ceae0-aeonpay"
     }
   ],
   "食品小売": [
     {
       "name": "酒のスーパータカぎ須坂店",
-      "address": "小山蒔田2522-2"
+      "address": "小山蒔田2522-2",
+      "storeid": "suzaka-17a277",
+      "shopid": "suzaka-17a277-aeonpay"
     },
     {
       "name": "コモリ餅店",
-      "address": "須坂1316-11"
+      "address": "須坂1316-11",
+      "storeid": "suzaka-13ba12",
+      "shopid": "suzaka-13ba12-aeonpay"
     },
     {
       "name": "酒のスーパータカぎ須坂インター店",
-      "address": "井上686-1"
+      "address": "井上686-1",
+      "storeid": "suzaka-f794db",
+      "shopid": "suzaka-f794db-aeonpay"
     },
     {
       "name": "蔦屋茶店",
-      "address": "須坂413-5"
+      "address": "須坂413-5",
+      "storeid": "suzaka-56e89d",
+      "shopid": "suzaka-56e89d-aeonpay"
     },
     {
       "name": "大和屋酒店",
-      "address": "須坂99"
+      "address": "須坂99",
+      "storeid": "suzaka-3b98cb",
+      "shopid": "suzaka-3b98cb-aeonpay"
     },
     {
       "name": "須坂煎餅堂",
-      "address": "須坂東横町358"
+      "address": "須坂東横町358",
+      "storeid": "suzaka-e5911b",
+      "shopid": "suzaka-e5911b-aeonpay"
     },
     {
       "name": "新崎酒店",
-      "address": "日滝4118-3"
+      "address": "日滝4118-3",
+      "storeid": "suzaka-50a6e6",
+      "shopid": "suzaka-50a6e6-aeonpay"
     },
     {
       "name": "すやしん酒店",
-      "address": "馬場町1268"
+      "address": "馬場町1268",
+      "storeid": "suzaka-a181ee",
+      "shopid": "suzaka-a181ee-aeonpay"
     },
     {
       "name": "高野酒店",
-      "address": "立町1396"
+      "address": "立町1396",
+      "storeid": "suzaka-c1a386",
+      "shopid": "suzaka-c1a386-aeonpay"
     },
     {
       "name": "深沢製麺所",
-      "address": "幸高町227-16"
+      "address": "幸高町227-16",
+      "storeid": "suzaka-127ba0",
+      "shopid": "suzaka-127ba0-aeonpay"
     },
     {
       "name": "盛進堂",
-      "address": "上中町158"
+      "address": "上中町158",
+      "storeid": "suzaka-598bee",
+      "shopid": "suzaka-598bee-aeonpay"
     },
     {
       "name": "坂詰商店",
-      "address": "太子町664"
+      "address": "太子町664",
+      "storeid": "suzaka-7ef7ef",
+      "shopid": "suzaka-7ef7ef-aeonpay"
     },
     {
       "name": "中条フルーツ農場",
-      "address": "小河原町3750"
+      "address": "小河原町3750",
+      "storeid": "suzaka-efd211",
+      "shopid": "suzaka-efd211-aeonpay"
     },
     {
       "name": "タナカファーム直売所",
-      "address": "豊丘1878"
+      "address": "豊丘1878",
+      "storeid": "suzaka-15b272",
+      "shopid": "suzaka-15b272-aeonpay"
     }
   ],
   "飲食店": [
     {
       "name": "松葉屋そば店",
-      "address": "常盤町702"
+      "address": "常盤町702",
+      "storeid": "suzaka-8db602",
+      "shopid": "suzaka-8db602-aeonpay"
     },
     {
       "name": "会津喜多方ラーメン蔵須坂インター店",
-      "address": "井上546-1"
+      "address": "井上546-1",
+      "storeid": "suzaka-53a8bb",
+      "shopid": "suzaka-53a8bb-aeonpay"
     },
     {
       "name": "ラーメン人力車須坂インター店",
-      "address": "井上749-1"
+      "address": "井上749-1",
+      "storeid": "suzaka-4ac2e1",
+      "shopid": "suzaka-4ac2e1-aeonpay"
     },
     {
       "name": "松風",
-      "address": "須坂41"
+      "address": "須坂41",
+      "storeid": "suzaka-c46444",
+      "shopid": "suzaka-c46444-aeonpay"
     },
     {
       "name": "魚民　須坂駅前店",
-      "address": "須坂宗石1288-2 長野電鉄須坂駅ビル1階"
+      "address": "須坂宗石1288-2 長野電鉄須坂駅ビル1階",
+      "storeid": "suzaka-f26b78",
+      "shopid": "suzaka-f26b78-aeonpay"
     },
     {
       "name": "WEST",
-      "address": "福島408-1"
+      "address": "福島408-1",
+      "storeid": "suzaka-e3ddcb",
+      "shopid": "suzaka-e3ddcb-aeonpay"
     },
     {
       "name": "ダイニングこころみ",
-      "address": "北横町1302-10"
+      "address": "北横町1302-10",
+      "storeid": "suzaka-7b7dd5",
+      "shopid": "suzaka-7b7dd5-aeonpay"
     },
     {
       "name": "かっぱ寿司新須坂店",
-      "address": "塩川字神田500"
+      "address": "塩川字神田500",
+      "storeid": "suzaka-1cfe84",
+      "shopid": "suzaka-1cfe84-aeonpay"
     },
     {
       "name": "すしはうす",
-      "address": "墨坂4-9-3"
+      "address": "墨坂4-9-3",
+      "storeid": "suzaka-8e4bf8",
+      "shopid": "suzaka-8e4bf8-aeonpay"
     },
     {
       "name": "松栄寿司",
-      "address": "墨坂南2-17-1"
+      "address": "墨坂南2-17-1",
+      "storeid": "suzaka-eee28d",
+      "shopid": "suzaka-eee28d-aeonpay"
     },
     {
       "name": "感激ダイニング三代目太一",
-      "address": "塩川町490-6"
+      "address": "塩川町490-6",
+      "storeid": "suzaka-73c813",
+      "shopid": "suzaka-73c813-aeonpay"
     },
     {
       "name": "海勢寿し",
-      "address": "須坂1274-20"
+      "address": "須坂1274-20",
+      "storeid": "suzaka-56c267",
+      "shopid": "suzaka-56c267-aeonpay"
     },
     {
       "name": "居酒屋酔人倶楽部",
-      "address": "北横町1308-3"
+      "address": "北横町1308-3",
+      "storeid": "suzaka-82b7b2",
+      "shopid": "suzaka-82b7b2-aeonpay"
     },
     {
       "name": "ゆきむら亭",
-      "address": "小河原高畑町1080-1"
+      "address": "小河原高畑町1080-1",
+      "storeid": "suzaka-6ed16b",
+      "shopid": "suzaka-6ed16b-aeonpay"
     },
     {
       "name": "蔵四季",
-      "address": "東横町1266-3"
+      "address": "東横町1266-3",
+      "storeid": "suzaka-a0a5ef",
+      "shopid": "suzaka-a0a5ef-aeonpay"
     },
     {
       "name": "えむら",
-      "address": "北横町1295-1"
+      "address": "北横町1295-1",
+      "storeid": "suzaka-e28cb1",
+      "shopid": "suzaka-e28cb1-aeonpay"
     },
     {
       "name": "居酒屋千幸",
-      "address": "横町 416"
+      "address": "横町 416",
+      "storeid": "suzaka-d0109e",
+      "shopid": "suzaka-d0109e-aeonpay"
     },
     {
       "name": "十割そば あがれ家",
-      "address": "須坂227 ロ"
+      "address": "須坂227 ロ",
+      "storeid": "suzaka-ee53b3",
+      "shopid": "suzaka-ee53b3-aeonpay"
     },
     {
       "name": "珈琲城 フィレンツェ",
-      "address": "九反田町373-2"
+      "address": "九反田町373-2",
+      "storeid": "suzaka-77c4a1",
+      "shopid": "suzaka-77c4a1-aeonpay"
     },
     {
       "name": "ナイトスポットロイヤル",
-      "address": "北横町1324-13"
+      "address": "北横町1324-13",
+      "storeid": "suzaka-904687",
+      "shopid": "suzaka-904687-aeonpay"
     },
     {
       "name": "鈴木蛍雪堂",
-      "address": "小山546-3"
+      "address": "小山546-3",
+      "storeid": "suzaka-03809b",
+      "shopid": "suzaka-03809b-aeonpay"
     },
     {
       "name": "能登茂",
-      "address": "墨坂3-2-8"
+      "address": "墨坂3-2-8",
+      "storeid": "suzaka-62ecfd",
+      "shopid": "suzaka-62ecfd-aeonpay"
     },
     {
       "name": "雫食堂",
-      "address": "小河原3648-8"
+      "address": "小河原3648-8",
+      "storeid": "suzaka-e2f062",
+      "shopid": "suzaka-e2f062-aeonpay"
     },
     {
       "name": "Ｃａｆｅ　ｎｉｗａｔｏｃｏ",
-      "address": "豊丘町846-1"
+      "address": "豊丘町846-1",
+      "storeid": "suzaka-5e1754",
+      "shopid": "suzaka-5e1754-aeonpay"
     },
     {
       "name": "フーズバーページワン",
-      "address": "ハイランド町1230-43 120号"
+      "address": "ハイランド町1230-43 120号",
+      "storeid": "suzaka-55ebc7",
+      "shopid": "suzaka-55ebc7-aeonpay"
     },
     {
       "name": "めん八食堂",
-      "address": "旭ケ丘2129-4"
+      "address": "旭ケ丘2129-4",
+      "storeid": "suzaka-bf64be",
+      "shopid": "suzaka-bf64be-aeonpay"
     },
     {
       "name": "ピッツァ＆パスタ　キャステロドラゴーネ",
-      "address": "幸高113-6"
+      "address": "幸高113-6",
+      "storeid": "suzaka-38ee24",
+      "shopid": "suzaka-38ee24-aeonpay"
     },
     {
       "name": "会席茶屋くろいわ",
-      "address": "南横町1634-1"
+      "address": "南横町1634-1",
+      "storeid": "suzaka-c1c618",
+      "shopid": "suzaka-c1c618-aeonpay"
     },
     {
       "name": "牛角　須坂店",
-      "address": "高畑町1086"
+      "address": "高畑町1086",
+      "storeid": "suzaka-d4cd27",
+      "shopid": "suzaka-d4cd27-aeonpay"
     }
   ],
   "美容・理容": [
     {
       "name": "キタザワ美容室",
-      "address": "須坂100"
+      "address": "須坂100",
+      "storeid": "suzaka-43d852",
+      "shopid": "suzaka-43d852-aeonpay"
     },
     {
       "name": "シスター美容室",
-      "address": "墨坂4-13-20"
+      "address": "墨坂4-13-20",
+      "storeid": "suzaka-52a8f2",
+      "shopid": "suzaka-52a8f2-aeonpay"
     }
   ],
   "スーパー": [
     {
       "name": "イオン須坂駅前",
-      "address": "馬場町1288"
+      "address": "馬場町1288",
+      "storeid": "suzaka-ad2828",
+      "shopid": "suzaka-ad2828-aeonpay"
     }
   ],
   "ドラッグストア": [
     {
       "name": "ウエルシア須坂日滝店",
-      "address": "日滝973-1"
+      "address": "日滝973-1",
+      "storeid": "suzaka-ffefeb",
+      "shopid": "suzaka-ffefeb-aeonpay"
     }
   ]
 }

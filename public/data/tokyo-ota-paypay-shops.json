@@ -1,916 +1,1516 @@
 {
   "ガソリンスタンド": [
     {
-      "name": "株式会社河原商店　ウィング森ケ崎給油所"
+      "name": "株式会社河原商店　ウィング森ケ崎給油所",
+      "storeid": "ota-1c105a",
+      "shopid": "ota-1c105a-paypay"
     },
     {
-      "name": "高橋商店ENEOS Dr.Drive羽田SS"
+      "name": "高橋商店ENEOS Dr.Drive羽田SS",
+      "storeid": "ota-39387f",
+      "shopid": "ota-39387f-paypay"
     },
     {
-      "name": "中央石油株式会社洗足池サービスステーション"
+      "name": "中央石油株式会社洗足池サービスステーション",
+      "storeid": "ota-3c3001",
+      "shopid": "ota-3c3001-paypay"
     }
   ],
   "酒屋・リカーショップ": [
     {
-      "name": "越後屋丸忠酒店店舗用"
+      "name": "越後屋丸忠酒店店舗用",
+      "storeid": "ota-096b12",
+      "shopid": "ota-096b12-paypay"
     },
     {
-      "name": "酒の旭屋"
+      "name": "酒の旭屋",
+      "storeid": "ota-38f883",
+      "shopid": "ota-38f883-paypay"
     },
     {
-      "name": "橋和屋酒店"
+      "name": "橋和屋酒店",
+      "storeid": "ota-5cd7ed",
+      "shopid": "ota-5cd7ed-paypay"
     },
     {
-      "name": "遠州屋酒店"
+      "name": "遠州屋酒店",
+      "storeid": "ota-87f582",
+      "shopid": "ota-87f582-paypay"
     },
     {
-      "name": "酒のマルセ"
+      "name": "酒のマルセ",
+      "storeid": "ota-982fc8",
+      "shopid": "ota-982fc8-paypay"
     },
     {
-      "name": "田中屋酒店"
+      "name": "田中屋酒店",
+      "storeid": "ota-053bd4",
+      "shopid": "ota-053bd4-paypay"
     },
     {
-      "name": "はしごや酒肆"
+      "name": "はしごや酒肆",
+      "storeid": "ota-ebaaca",
+      "shopid": "ota-ebaaca-paypay"
     },
     {
-      "name": "吉野屋酒店"
+      "name": "吉野屋酒店",
+      "storeid": "ota-de707c",
+      "shopid": "ota-de707c-paypay"
     }
   ],
   "スーパーマーケット": [
     {
-      "name": "Zチェーンマート"
+      "name": "Zチェーンマート",
+      "storeid": "ota-5b4d49",
+      "shopid": "ota-5b4d49-paypay"
     },
     {
-      "name": "株式会社斉藤商店安田店"
+      "name": "株式会社斉藤商店安田店",
+      "storeid": "ota-aaa14f",
+      "shopid": "ota-aaa14f-paypay"
     },
     {
-      "name": "キシフォートサンライズ店"
+      "name": "キシフォートサンライズ店",
+      "storeid": "ota-24a2b3",
+      "shopid": "ota-24a2b3-paypay"
     },
     {
-      "name": "果物　菓子　ヤマナカヤ"
+      "name": "果物　菓子　ヤマナカヤ",
+      "storeid": "ota-3646d5",
+      "shopid": "ota-3646d5-paypay"
     },
     {
-      "name": "自然市場えころじあ"
+      "name": "自然市場えころじあ",
+      "storeid": "ota-6e2458",
+      "shopid": "ota-6e2458-paypay"
     },
     {
-      "name": "スーパーもりたや"
+      "name": "スーパーもりたや",
+      "storeid": "ota-07a681",
+      "shopid": "ota-07a681-paypay"
     },
     {
-      "name": "ダイモン薬品"
+      "name": "ダイモン薬品",
+      "storeid": "ota-241e27",
+      "shopid": "ota-241e27-paypay"
     },
     {
-      "name": "トップ"
+      "name": "トップ",
+      "storeid": "ota-3e8251",
+      "shopid": "ota-3e8251-paypay"
     },
     {
-      "name": "八百松"
+      "name": "八百松",
+      "storeid": "ota-f9dbee",
+      "shopid": "ota-f9dbee-paypay"
     },
     {
-      "name": "ヒルママーケットプレイス"
+      "name": "ヒルママーケットプレイス",
+      "storeid": "ota-1b369f",
+      "shopid": "ota-1b369f-paypay"
     },
     {
-      "name": "フレスコベンガベン"
+      "name": "フレスコベンガベン",
+      "storeid": "ota-74fe28",
+      "shopid": "ota-74fe28-paypay"
     },
     {
-      "name": "プロデュース"
+      "name": "プロデュース",
+      "storeid": "ota-59eea1",
+      "shopid": "ota-59eea1-paypay"
     },
     {
-      "name": "ベニースーパー"
+      "name": "ベニースーパー",
+      "storeid": "ota-fc324b",
+      "shopid": "ota-fc324b-paypay"
     },
     {
-      "name": "丸三ストアー"
+      "name": "丸三ストアー",
+      "storeid": "ota-7ba665",
+      "shopid": "ota-7ba665-paypay"
     },
     {
-      "name": "マルヤス"
+      "name": "マルヤス",
+      "storeid": "ota-85778e",
+      "shopid": "ota-85778e-paypay"
     },
     {
-      "name": "八百屋丸文"
+      "name": "八百屋丸文",
+      "storeid": "ota-e1704a",
+      "shopid": "ota-e1704a-paypay"
     },
     {
-      "name": "安田屋"
+      "name": "安田屋",
+      "storeid": "ota-ee33e3",
+      "shopid": "ota-ee33e3-paypay"
     }
   ],
   "ドラッグストア・薬局": [
     {
-      "name": "漢方平和堂薬局"
+      "name": "漢方平和堂薬局",
+      "storeid": "ota-157493",
+      "shopid": "ota-157493-paypay"
     },
     {
-      "name": "化粧店みまつ"
+      "name": "化粧店みまつ",
+      "storeid": "ota-82ef9a",
+      "shopid": "ota-82ef9a-paypay"
     },
     {
-      "name": "サワ薬品"
+      "name": "サワ薬品",
+      "storeid": "ota-0fbe35",
+      "shopid": "ota-0fbe35-paypay"
     },
     {
-      "name": "TSU・CHI・YA土屋化粧品店"
+      "name": "TSU・CHI・YA土屋化粧品店",
+      "storeid": "ota-348277",
+      "shopid": "ota-348277-paypay"
     },
     {
-      "name": "あづまや"
+      "name": "あづまや",
+      "storeid": "ota-0a3c39",
+      "shopid": "ota-0a3c39-paypay"
     },
     {
-      "name": "イナバ化粧品店"
+      "name": "イナバ化粧品店",
+      "storeid": "ota-c41cb8",
+      "shopid": "ota-c41cb8-paypay"
     },
     {
-      "name": "くすりのホーライ"
+      "name": "くすりのホーライ",
+      "storeid": "ota-33297a",
+      "shopid": "ota-33297a-paypay"
     },
     {
-      "name": "クルゥール"
+      "name": "クルゥール",
+      "storeid": "ota-18688a",
+      "shopid": "ota-18688a-paypay"
     },
     {
-      "name": "化粧品の店ときわや"
+      "name": "化粧品の店ときわや",
+      "storeid": "ota-635934",
+      "shopid": "ota-635934-paypay"
     },
     {
-      "name": "コスメティック・フレンズ"
+      "name": "コスメティック・フレンズ",
+      "storeid": "ota-47fc25",
+      "shopid": "ota-47fc25-paypay"
     },
     {
-      "name": "シオカワ化粧品・宝石"
+      "name": "シオカワ化粧品・宝石",
+      "storeid": "ota-6bca3e",
+      "shopid": "ota-6bca3e-paypay"
     },
     {
-      "name": "塚本化粧品店"
+      "name": "塚本化粧品店",
+      "storeid": "ota-2fe7ad",
+      "shopid": "ota-2fe7ad-paypay"
     },
     {
-      "name": "みどりや化粧品店"
+      "name": "みどりや化粧品店",
+      "storeid": "ota-98ed2a",
+      "shopid": "ota-98ed2a-paypay"
     },
     {
-      "name": "ラピスブルー"
+      "name": "ラピスブルー",
+      "storeid": "ota-e791aa",
+      "shopid": "ota-e791aa-paypay"
     }
   ],
   "ホームセンター・ショッピングセンター": [
     {
-      "name": "JFlagTraderLLC/PLAN"
+      "name": "JFlagTraderLLC/PLAN",
+      "storeid": "ota-e0d4b5",
+      "shopid": "ota-e0d4b5-paypay"
     },
     {
-      "name": "ケンマート"
+      "name": "ケンマート",
+      "storeid": "ota-e2a669",
+      "shopid": "ota-e2a669-paypay"
     },
     {
-      "name": "佐々木塗料"
+      "name": "佐々木塗料",
+      "storeid": "ota-885e45",
+      "shopid": "ota-885e45-paypay"
     },
     {
-      "name": "三和鋲螺"
+      "name": "三和鋲螺",
+      "storeid": "ota-686f4e",
+      "shopid": "ota-686f4e-paypay"
     },
     {
-      "name": "バザール"
+      "name": "バザール",
+      "storeid": "ota-36b160",
+      "shopid": "ota-36b160-paypay"
     },
     {
-      "name": "丸康本店"
+      "name": "丸康本店",
+      "storeid": "ota-38c50f",
+      "shopid": "ota-38c50f-paypay"
     },
     {
-      "name": "有限会社モロヤ"
+      "name": "有限会社モロヤ",
+      "storeid": "ota-9f31f2",
+      "shopid": "ota-9f31f2-paypay"
     }
   ],
   "家電": [
     {
-      "name": "合資会社丸高商店マルタカデンキ"
+      "name": "合資会社丸高商店マルタカデンキ",
+      "storeid": "ota-bdb9a4",
+      "shopid": "ota-bdb9a4-paypay"
     },
     {
-      "name": "三晃電機"
+      "name": "三晃電機",
+      "storeid": "ota-e4700f",
+      "shopid": "ota-e4700f-paypay"
     },
     {
-      "name": "ソフトバンク"
+      "name": "ソフトバンク",
+      "storeid": "ota-ff613c",
+      "shopid": "ota-ff613c-paypay"
     },
     {
-      "name": "camori"
+      "name": "camori",
+      "storeid": "ota-359194",
+      "shopid": "ota-359194-paypay"
     },
     {
-      "name": "G&Mグローバルマーケット"
+      "name": "G&Mグローバルマーケット",
+      "storeid": "ota-99ce3c",
+      "shopid": "ota-99ce3c-paypay"
     },
     {
-      "name": "Maison Toji"
+      "name": "Maison Toji",
+      "storeid": "ota-3fc354",
+      "shopid": "ota-3fc354-paypay"
     },
     {
-      "name": "O&S"
+      "name": "O&S",
+      "storeid": "ota-c35dbb",
+      "shopid": "ota-c35dbb-paypay"
     },
     {
-      "name": "Panasonic shop ヤマザキ"
+      "name": "Panasonic shop ヤマザキ",
+      "storeid": "ota-48c132",
+      "shopid": "ota-48c132-paypay"
     },
     {
-      "name": "SB/YMショップ"
+      "name": "SB/YMショップ",
+      "storeid": "ota-e88cd0",
+      "shopid": "ota-e88cd0-paypay"
     },
     {
-      "name": "TOP1"
+      "name": "TOP1",
+      "storeid": "ota-1e3143",
+      "shopid": "ota-1e3143-paypay"
     },
     {
-      "name": "VanillaHouseSoundLabShop"
+      "name": "VanillaHouseSoundLabShop",
+      "storeid": "ota-d2563c",
+      "shopid": "ota-d2563c-paypay"
     },
     {
-      "name": "WA! STORE"
+      "name": "WA! STORE",
+      "storeid": "ota-a28a88",
+      "shopid": "ota-a28a88-paypay"
     },
     {
-      "name": "アール・パズリック"
+      "name": "アール・パズリック",
+      "storeid": "ota-a485a2",
+      "shopid": "ota-a485a2-paypay"
     },
     {
-      "name": "イシイ電器"
+      "name": "イシイ電器",
+      "storeid": "ota-fae1e4",
+      "shopid": "ota-fae1e4-paypay"
     },
     {
-      "name": "いとう電気"
+      "name": "いとう電気",
+      "storeid": "ota-cd4f22",
+      "shopid": "ota-cd4f22-paypay"
     },
     {
-      "name": "稲垣書店"
+      "name": "稲垣書店",
+      "storeid": "ota-df1fce",
+      "shopid": "ota-df1fce-paypay"
     },
     {
-      "name": "今井寝具店"
+      "name": "今井寝具店",
+      "storeid": "ota-6e9160",
+      "shopid": "ota-6e9160-paypay"
     },
     {
-      "name": "インテリア沼田"
+      "name": "インテリア沼田",
+      "storeid": "ota-ea41d6",
+      "shopid": "ota-ea41d6-paypay"
     },
     {
-      "name": "梅村タイル店"
+      "name": "梅村タイル店",
+      "storeid": "ota-cb8803",
+      "shopid": "ota-cb8803-paypay"
     },
     {
-      "name": "エポック・ニシロク"
+      "name": "エポック・ニシロク",
+      "storeid": "ota-4093ae",
+      "shopid": "ota-4093ae-paypay"
     },
     {
-      "name": "追口デンキ"
+      "name": "追口デンキ",
+      "storeid": "ota-ee7014",
+      "shopid": "ota-ee7014-paypay"
     },
     {
-      "name": "介護ショップらくだ"
+      "name": "介護ショップらくだ",
+      "storeid": "ota-044229",
+      "shopid": "ota-044229-paypay"
     },
     {
-      "name": "株式会社清水電気"
+      "name": "株式会社清水電気",
+      "storeid": "ota-4cba21",
+      "shopid": "ota-4cba21-paypay"
     },
     {
-      "name": "株式会社パナハルス三晃"
+      "name": "株式会社パナハルス三晃",
+      "storeid": "ota-71e376",
+      "shopid": "ota-71e376-paypay"
     },
     {
-      "name": "蒲田室内装飾織物店"
+      "name": "蒲田室内装飾織物店",
+      "storeid": "ota-7b6f44",
+      "shopid": "ota-7b6f44-paypay"
     },
     {
-      "name": "木所電器店"
+      "name": "木所電器店",
+      "storeid": "ota-e26965",
+      "shopid": "ota-e26965-paypay"
     },
     {
-      "name": "クマデン"
+      "name": "クマデン",
+      "storeid": "ota-8275eb",
+      "shopid": "ota-8275eb-paypay"
     },
     {
-      "name": "さいとうでんき"
+      "name": "さいとうでんき",
+      "storeid": "ota-2e5da4",
+      "shopid": "ota-2e5da4-paypay"
     },
     {
-      "name": "サガセールケア"
+      "name": "サガセールケア",
+      "storeid": "ota-297b28",
+      "shopid": "ota-297b28-paypay"
     },
     {
-      "name": "サンコーフレックス"
+      "name": "サンコーフレックス",
+      "storeid": "ota-1c2fbb",
+      "shopid": "ota-1c2fbb-paypay"
     },
     {
-      "name": "システムロック"
+      "name": "システムロック",
+      "storeid": "ota-608621",
+      "shopid": "ota-608621-paypay"
     },
     {
-      "name": "スマホ工房"
+      "name": "スマホ工房",
+      "storeid": "ota-111e31",
+      "shopid": "ota-111e31-paypay"
     },
     {
-      "name": "スヤマ家電"
+      "name": "スヤマ家電",
+      "storeid": "ota-0ca21b",
+      "shopid": "ota-0ca21b-paypay"
     },
     {
-      "name": "ダイゴ電気"
+      "name": "ダイゴ電気",
+      "storeid": "ota-c0fa05",
+      "shopid": "ota-c0fa05-paypay"
     },
     {
-      "name": "高桑ムセン"
+      "name": "高桑ムセン",
+      "storeid": "ota-6534a7",
+      "shopid": "ota-6534a7-paypay"
     },
     {
-      "name": "田肥電器商会"
+      "name": "田肥電器商会",
+      "storeid": "ota-38a71f",
+      "shopid": "ota-38a71f-paypay"
     },
     {
-      "name": "田園調布いちょう"
+      "name": "田園調布いちょう",
+      "storeid": "ota-4d8be7",
+      "shopid": "ota-4d8be7-paypay"
     },
     {
-      "name": "電化のササキ"
+      "name": "電化のササキ",
+      "storeid": "ota-5ab1d0",
+      "shopid": "ota-5ab1d0-paypay"
     },
     {
-      "name": "でんきのユーコー社"
+      "name": "でんきのユーコー社",
+      "storeid": "ota-93c870",
+      "shopid": "ota-93c870-paypay"
     },
     {
-      "name": "でんきのワタナベ"
+      "name": "でんきのワタナベ",
+      "storeid": "ota-d3a5f6",
+      "shopid": "ota-d3a5f6-paypay"
     },
     {
-      "name": "電子堂"
+      "name": "電子堂",
+      "storeid": "ota-3c3183",
+      "shopid": "ota-3c3183-paypay"
     },
     {
-      "name": "テンポス情報館本社"
+      "name": "テンポス情報館本社",
+      "storeid": "ota-40f839",
+      "shopid": "ota-40f839-paypay"
     },
     {
-      "name": "東洋デンキ"
+      "name": "東洋デンキ",
+      "storeid": "ota-87d9b3",
+      "shopid": "ota-87d9b3-paypay"
     },
     {
-      "name": "トーイツ本社"
+      "name": "トーイツ本社",
+      "storeid": "ota-33a815",
+      "shopid": "ota-33a815-paypay"
     },
     {
-      "name": "パナシュール"
+      "name": "パナシュール",
+      "storeid": "ota-ee9fe1",
+      "shopid": "ota-ee9fe1-paypay"
     },
     {
-      "name": "フカヤデンキ"
+      "name": "フカヤデンキ",
+      "storeid": "ota-d1252e",
+      "shopid": "ota-d1252e-paypay"
     },
     {
-      "name": "富士屋通商"
+      "name": "富士屋通商",
+      "storeid": "ota-0d81e9",
+      "shopid": "ota-0d81e9-paypay"
     },
     {
-      "name": "プラスワン平和島"
+      "name": "プラスワン平和島",
+      "storeid": "ota-36718a",
+      "shopid": "ota-36718a-paypay"
     },
     {
-      "name": "都栄テレビサービス社"
+      "name": "都栄テレビサービス社",
+      "storeid": "ota-35a5de",
+      "shopid": "ota-35a5de-paypay"
     },
     {
-      "name": "有限会社エコー電器"
+      "name": "有限会社エコー電器",
+      "storeid": "ota-c8c818",
+      "shopid": "ota-c8c818-paypay"
     },
     {
-      "name": "有限会社かまた電化センター"
+      "name": "有限会社かまた電化センター",
+      "storeid": "ota-aaa71f",
+      "shopid": "ota-aaa71f-paypay"
     },
     {
-      "name": "有限会社ささでん"
+      "name": "有限会社ささでん",
+      "storeid": "ota-a2f7e7",
+      "shopid": "ota-a2f7e7-paypay"
     },
     {
-      "name": "有限会社せのでんき"
+      "name": "有限会社せのでんき",
+      "storeid": "ota-796d09",
+      "shopid": "ota-796d09-paypay"
     },
     {
-      "name": "有限会社たかはし電器"
+      "name": "有限会社たかはし電器",
+      "storeid": "ota-3cf4dc",
+      "shopid": "ota-3cf4dc-paypay"
     },
     {
-      "name": "有限会社西六郷電化サービス"
+      "name": "有限会社西六郷電化サービス",
+      "storeid": "ota-cca96d",
+      "shopid": "ota-cca96d-paypay"
     },
     {
-      "name": "横島電機産業株式会社"
+      "name": "横島電機産業株式会社",
+      "storeid": "ota-8fc27a",
+      "shopid": "ota-8fc27a-paypay"
     },
     {
-      "name": "楽天モバイル"
+      "name": "楽天モバイル",
+      "storeid": "ota-314cba",
+      "shopid": "ota-314cba-paypay"
     },
     {
-      "name": "ワイモバイル"
+      "name": "ワイモバイル",
+      "storeid": "ota-e69222",
+      "shopid": "ota-e69222-paypay"
     },
     {
-      "name": "わたしん"
+      "name": "わたしん",
+      "storeid": "ota-e25fc1",
+      "shopid": "ota-e25fc1-paypay"
     }
   ],
   "その他": [
     {
-      "name": "aftf+"
+      "name": "aftf+",
+      "storeid": "ota-3e5bfc",
+      "shopid": "ota-3e5bfc-paypay"
     },
     {
-      "name": "Apple GYM"
+      "name": "Apple GYM",
+      "storeid": "ota-df57af",
+      "shopid": "ota-df57af-paypay"
     },
     {
-      "name": "ASIESTA"
+      "name": "ASIESTA",
+      "storeid": "ota-7194f2",
+      "shopid": "ota-7194f2-paypay"
     },
     {
-      "name": "Astretch"
+      "name": "Astretch",
+      "storeid": "ota-7b1d88",
+      "shopid": "ota-7b1d88-paypay"
     },
     {
-      "name": "B.LABO"
+      "name": "B.LABO",
+      "storeid": "ota-b4b0d1",
+      "shopid": "ota-b4b0d1-paypay"
     },
     {
-      "name": "BATAS"
+      "name": "BATAS",
+      "storeid": "ota-b4bc23",
+      "shopid": "ota-b4bc23-paypay"
     },
     {
-      "name": "BEETLE"
+      "name": "BEETLE",
+      "storeid": "ota-5947a2",
+      "shopid": "ota-5947a2-paypay"
     },
     {
-      "name": "BEYOND"
+      "name": "BEYOND",
+      "storeid": "ota-39ea42",
+      "shopid": "ota-39ea42-paypay"
     },
     {
-      "name": "BHTE"
+      "name": "BHTE",
+      "storeid": "ota-e2013c",
+      "shopid": "ota-e2013c-paypay"
     },
     {
-      "name": "Boulangerie Towaie Towaie"
+      "name": "Boulangerie Towaie Towaie",
+      "storeid": "ota-80180c",
+      "shopid": "ota-80180c-paypay"
     },
     {
-      "name": "Boulderring Gym BUNKER"
+      "name": "Boulderring Gym BUNKER",
+      "storeid": "ota-3830c8",
+      "shopid": "ota-3830c8-paypay"
     },
     {
-      "name": "BoxingstudioTAIGA"
+      "name": "BoxingstudioTAIGA",
+      "storeid": "ota-f5f545",
+      "shopid": "ota-f5f545-paypay"
     },
     {
-      "name": "BROOCH時計修理工房"
+      "name": "BROOCH時計修理工房",
+      "storeid": "ota-c858fc",
+      "shopid": "ota-c858fc-paypay"
     },
     {
-      "name": "BUN-BUN"
+      "name": "BUN-BUN",
+      "storeid": "ota-a2b9b8",
+      "shopid": "ota-a2b9b8-paypay"
     },
     {
-      "name": "COCOKARAplaceHANEDA"
+      "name": "COCOKARAplaceHANEDA",
+      "storeid": "ota-6cf791",
+      "shopid": "ota-6cf791-paypay"
     },
     {
-      "name": "COROMANI"
+      "name": "COROMANI",
+      "storeid": "ota-98c5e7",
+      "shopid": "ota-98c5e7-paypay"
     },
     {
-      "name": "DDICT SURF"
+      "name": "DDICT SURF",
+      "storeid": "ota-91b985",
+      "shopid": "ota-91b985-paypay"
     },
     {
-      "name": "D-WASH PLACE"
+      "name": "D-WASH PLACE",
+      "storeid": "ota-c9aa30",
+      "shopid": "ota-c9aa30-paypay"
     },
     {
-      "name": "eF-foria"
+      "name": "eF-foria",
+      "storeid": "ota-f8d245",
+      "shopid": "ota-f8d245-paypay"
     },
     {
-      "name": "fuku.fuku.arma"
+      "name": "fuku.fuku.arma",
+      "storeid": "ota-4ef3ec",
+      "shopid": "ota-4ef3ec-paypay"
     },
     {
-      "name": "GoodstockTokyo"
+      "name": "GoodstockTokyo",
+      "storeid": "ota-7bf213",
+      "shopid": "ota-7bf213-paypay"
     },
     {
-      "name": "HandmadeGiftMuni"
+      "name": "HandmadeGiftMuni",
+      "storeid": "ota-c425a9",
+      "shopid": "ota-c425a9-paypay"
     },
     {
-      "name": "hanmmmo"
+      "name": "hanmmmo",
+      "storeid": "ota-91df79",
+      "shopid": "ota-91df79-paypay"
     },
     {
-      "name": "Jimmy's SHOP"
+      "name": "Jimmy's SHOP",
+      "storeid": "ota-847afb",
+      "shopid": "ota-847afb-paypay"
     },
     {
-      "name": "K-1ジム"
+      "name": "K-1ジム",
+      "storeid": "ota-14bf70",
+      "shopid": "ota-14bf70-paypay"
     },
     {
-      "name": "KA・RA・DA　factory"
+      "name": "KA・RA・DA　factory",
+      "storeid": "ota-c1e7ce",
+      "shopid": "ota-c1e7ce-paypay"
     },
     {
-      "name": "KAZstreet"
+      "name": "KAZstreet",
+      "storeid": "ota-fccde4",
+      "shopid": "ota-fccde4-paypay"
     },
     {
-      "name": "kilmister_tokyo"
+      "name": "kilmister_tokyo",
+      "storeid": "ota-6f71f2",
+      "shopid": "ota-6f71f2-paypay"
     },
     {
-      "name": "KIRAT"
+      "name": "KIRAT",
+      "storeid": "ota-cee8ce",
+      "shopid": "ota-cee8ce-paypay"
     },
     {
-      "name": "La pilates"
+      "name": "La pilates",
+      "storeid": "ota-44ee1b",
+      "shopid": "ota-44ee1b-paypay"
     },
     {
-      "name": "LUCKY TWELVE"
+      "name": "LUCKY TWELVE",
+      "storeid": "ota-8ad0bf",
+      "shopid": "ota-8ad0bf-paypay"
     },
     {
-      "name": "Mahalo"
+      "name": "Mahalo",
+      "storeid": "ota-d0b9be",
+      "shopid": "ota-d0b9be-paypay"
     },
     {
-      "name": "maumu_loveまうむ"
+      "name": "maumu_loveまうむ",
+      "storeid": "ota-5cfc0f",
+      "shopid": "ota-5cfc0f-paypay"
     },
     {
-      "name": "MAX SEE"
+      "name": "MAX SEE",
+      "storeid": "ota-bd94f8",
+      "shopid": "ota-bd94f8-paypay"
     },
     {
-      "name": "Movingbody"
+      "name": "Movingbody",
+      "storeid": "ota-59a111",
+      "shopid": "ota-59a111-paypay"
     },
     {
-      "name": "nicomore"
+      "name": "nicomore",
+      "storeid": "ota-29b2e2",
+      "shopid": "ota-29b2e2-paypay"
     },
     {
-      "name": "OKAMEHOME"
+      "name": "OKAMEHOME",
+      "storeid": "ota-2e2721",
+      "shopid": "ota-2e2721-paypay"
     },
     {
-      "name": "Oz"
+      "name": "Oz",
+      "storeid": "ota-0adaee",
+      "shopid": "ota-0adaee-paypay"
     },
     {
-      "name": "PAN"
+      "name": "PAN",
+      "storeid": "ota-d74461",
+      "shopid": "ota-d74461-paypay"
     },
     {
-      "name": "Personal Training Gym"
+      "name": "Personal Training Gym",
+      "storeid": "ota-bfe5d3",
+      "shopid": "ota-bfe5d3-paypay"
     },
     {
-      "name": "PERSONAL TRAINING STUDIO U"
+      "name": "PERSONAL TRAINING STUDIO U",
+      "storeid": "ota-af6442",
+      "shopid": "ota-af6442-paypay"
     },
     {
-      "name": "pml Shimomaruko"
+      "name": "pml Shimomaruko",
+      "storeid": "ota-9d716f",
+      "shopid": "ota-9d716f-paypay"
     },
     {
-      "name": "RECIA relaxation salon"
+      "name": "RECIA relaxation salon",
+      "storeid": "ota-e4eb6d",
+      "shopid": "ota-e4eb6d-paypay"
     },
     {
-      "name": "Rep"
+      "name": "Rep",
+      "storeid": "ota-608033",
+      "shopid": "ota-608033-paypay"
     },
     {
-      "name": "RESTA GYM"
+      "name": "RESTA GYM",
+      "storeid": "ota-6f00f6",
+      "shopid": "ota-6f00f6-paypay"
     },
     {
-      "name": "RIRE"
+      "name": "RIRE",
+      "storeid": "ota-1081b2",
+      "shopid": "ota-1081b2-paypay"
     },
     {
-      "name": "RISE"
+      "name": "RISE",
+      "storeid": "ota-2815b6",
+      "shopid": "ota-2815b6-paypay"
     },
     {
-      "name": "RITZかきざわ"
+      "name": "RITZかきざわ",
+      "storeid": "ota-958706",
+      "shopid": "ota-958706-paypay"
     },
     {
-      "name": "RKボクシングファミリー"
+      "name": "RKボクシングファミリー",
+      "storeid": "ota-294729",
+      "shopid": "ota-294729-paypay"
     },
     {
-      "name": "R-TRUCK"
+      "name": "R-TRUCK",
+      "storeid": "ota-640543",
+      "shopid": "ota-640543-paypay"
     },
     {
-      "name": "SOMOSOMOStudio"
+      "name": "SOMOSOMOStudio",
+      "storeid": "ota-8823e1",
+      "shopid": "ota-8823e1-paypay"
     },
     {
-      "name": "Studio At home"
+      "name": "Studio At home",
+      "storeid": "ota-bd1c6d",
+      "shopid": "ota-bd1c6d-paypay"
     },
     {
-      "name": "SUNNYFIT"
+      "name": "SUNNYFIT",
+      "storeid": "ota-c4211a",
+      "shopid": "ota-c4211a-paypay"
     },
     {
-      "name": "TAKCHAN"
+      "name": "TAKCHAN",
+      "storeid": "ota-06562a",
+      "shopid": "ota-06562a-paypay"
     },
     {
-      "name": "Tan Ton Tan"
+      "name": "Tan Ton Tan",
+      "storeid": "ota-5727c9",
+      "shopid": "ota-5727c9-paypay"
     },
     {
-      "name": "THEBLAZEFIT.MAGOME"
+      "name": "THEBLAZEFIT.MAGOME",
+      "storeid": "ota-864e44",
+      "shopid": "ota-864e44-paypay"
     },
     {
-      "name": "trainingstudioRootiess"
+      "name": "trainingstudioRootiess",
+      "storeid": "ota-4ff438",
+      "shopid": "ota-4ff438-paypay"
     },
     {
-      "name": "TSUMIKI"
+      "name": "TSUMIKI",
+      "storeid": "ota-410bcb",
+      "shopid": "ota-410bcb-paypay"
     },
     {
-      "name": "wai room in"
+      "name": "wai room in",
+      "storeid": "ota-2c6268",
+      "shopid": "ota-2c6268-paypay"
     },
     {
-      "name": "WasaWasaMarket"
+      "name": "WasaWasaMarket",
+      "storeid": "ota-206331",
+      "shopid": "ota-206331-paypay"
     },
     {
-      "name": "YOSAPARK May"
+      "name": "YOSAPARK May",
+      "storeid": "ota-2f06bf",
+      "shopid": "ota-2f06bf-paypay"
     },
     {
-      "name": "アーバンフィット24"
+      "name": "アーバンフィット24",
+      "storeid": "ota-8ee0b5",
+      "shopid": "ota-8ee0b5-paypay"
     },
     {
-      "name": "洗足池店"
+      "name": "洗足池店",
+      "storeid": "ota-0d9d91",
+      "shopid": "ota-0d9d91-paypay"
     },
     {
-      "name": "アントレスト天ぷらすずき"
+      "name": "アントレスト天ぷらすずき",
+      "storeid": "ota-4733a6",
+      "shopid": "ota-4733a6-paypay"
     },
     {
-      "name": "アンナサッカ"
+      "name": "アンナサッカ",
+      "storeid": "ota-f4f632",
+      "shopid": "ota-f4f632-paypay"
     },
     {
-      "name": "イース動物病院"
+      "name": "イース動物病院",
+      "storeid": "ota-2b16e7",
+      "shopid": "ota-2b16e7-paypay"
     },
     {
-      "name": "和泉水産"
+      "name": "和泉水産",
+      "storeid": "ota-d89381",
+      "shopid": "ota-d89381-paypay"
     },
     {
-      "name": "イッブクヤ　梅屋敷"
+      "name": "イッブクヤ　梅屋敷",
+      "storeid": "ota-073280",
+      "shopid": "ota-073280-paypay"
     },
     {
-      "name": "イナバかばん店"
+      "name": "イナバかばん店",
+      "storeid": "ota-01381f",
+      "shopid": "ota-01381f-paypay"
     },
     {
-      "name": "いぬねこクリニック"
+      "name": "いぬねこクリニック",
+      "storeid": "ota-5c42f7",
+      "shopid": "ota-5c42f7-paypay"
     },
     {
-      "name": "上島珈琲店"
+      "name": "上島珈琲店",
+      "storeid": "ota-76b8b3",
+      "shopid": "ota-76b8b3-paypay"
     },
     {
-      "name": "うたまる雪谷"
+      "name": "うたまる雪谷",
+      "storeid": "ota-21b282",
+      "shopid": "ota-21b282-paypay"
     },
     {
-      "name": "エーバランススカイロプラクティック"
+      "name": "エーバランススカイロプラクティック",
+      "storeid": "ota-9f83f6",
+      "shopid": "ota-9f83f6-paypay"
     },
     {
-      "name": "エステ＆リラクゼーションスパLull"
+      "name": "エステ＆リラクゼーションスパLull",
+      "storeid": "ota-961598",
+      "shopid": "ota-961598-paypay"
     },
     {
-      "name": "エニタイムフィットネス"
+      "name": "エニタイムフィットネス",
+      "storeid": "ota-763360",
+      "shopid": "ota-763360-paypay"
     },
     {
-      "name": "エフフォリア"
+      "name": "エフフォリア",
+      "storeid": "ota-3309a0",
+      "shopid": "ota-3309a0-paypay"
     },
     {
-      "name": "おおたfab"
+      "name": "おおたfab",
+      "storeid": "ota-4a8947",
+      "shopid": "ota-4a8947-paypay"
     },
     {
-      "name": "おしゃれ共和国"
+      "name": "おしゃれ共和国",
+      "storeid": "ota-36940d",
+      "shopid": "ota-36940d-paypay"
     },
     {
-      "name": "カドヤ繊維"
+      "name": "カドヤ繊維",
+      "storeid": "ota-766e23",
+      "shopid": "ota-766e23-paypay"
     },
     {
-      "name": "カプリチョーザ"
+      "name": "カプリチョーザ",
+      "storeid": "ota-2b5a20",
+      "shopid": "ota-2b5a20-paypay"
     },
     {
-      "name": "蒲田　指匠"
+      "name": "蒲田　指匠",
+      "storeid": "ota-cc1e59",
+      "shopid": "ota-cc1e59-paypay"
     },
     {
-      "name": "蒲田コージン猫院"
+      "name": "蒲田コージン猫院",
+      "storeid": "ota-bc79cc",
+      "shopid": "ota-bc79cc-paypay"
     },
     {
-      "name": "カラオケALL"
+      "name": "カラオケALL",
+      "storeid": "ota-1f7d70",
+      "shopid": "ota-1f7d70-paypay"
     },
     {
-      "name": "カラオケ館"
+      "name": "カラオケ館",
+      "storeid": "ota-46bf1a",
+      "shopid": "ota-46bf1a-paypay"
     },
     {
-      "name": "から好き"
+      "name": "から好き",
+      "storeid": "ota-848294",
+      "shopid": "ota-848294-paypay"
     },
     {
-      "name": "韓国料理とんとら"
+      "name": "韓国料理とんとら",
+      "storeid": "ota-e5d755",
+      "shopid": "ota-e5d755-paypay"
     },
     {
-      "name": "元祖ニュータンタンメン本舗"
+      "name": "元祖ニュータンタンメン本舗",
+      "storeid": "ota-7b7d5b",
+      "shopid": "ota-7b7d5b-paypay"
     },
     {
-      "name": "危機裸裸商店"
+      "name": "危機裸裸商店",
+      "storeid": "ota-d6f13a",
+      "shopid": "ota-d6f13a-paypay"
     },
     {
-      "name": "京新"
+      "name": "京新",
+      "storeid": "ota-de1e20",
+      "shopid": "ota-de1e20-paypay"
     },
     {
-      "name": "銀座山形屋"
+      "name": "銀座山形屋",
+      "storeid": "ota-efcce4",
+      "shopid": "ota-efcce4-paypay"
     },
     {
-      "name": "グッドリフレ"
+      "name": "グッドリフレ",
+      "storeid": "ota-dd3f9c",
+      "shopid": "ota-dd3f9c-paypay"
     },
     {
-      "name": "クリーニング・ホームドライ"
+      "name": "クリーニング・ホームドライ",
+      "storeid": "ota-15cba6",
+      "shopid": "ota-15cba6-paypay"
     },
     {
-      "name": "クリーニングC&C"
+      "name": "クリーニングC&C",
+      "storeid": "ota-8532fe",
+      "shopid": "ota-8532fe-paypay"
     },
     {
-      "name": "クリーニングコウジヤ"
+      "name": "クリーニングコウジヤ",
+      "storeid": "ota-baf0fe",
+      "shopid": "ota-baf0fe-paypay"
     },
     {
-      "name": "クリーニングコマツ"
+      "name": "クリーニングコマツ",
+      "storeid": "ota-169af9",
+      "shopid": "ota-169af9-paypay"
     },
     {
-      "name": "クリーンブルー"
+      "name": "クリーンブルー",
+      "storeid": "ota-d03748",
+      "shopid": "ota-d03748-paypay"
     },
     {
-      "name": "慧寿庵"
+      "name": "慧寿庵",
+      "storeid": "ota-083e97",
+      "shopid": "ota-083e97-paypay"
     },
     {
-      "name": "ケイベスト"
+      "name": "ケイベスト",
+      "storeid": "ota-a037b4",
+      "shopid": "ota-a037b4-paypay"
     },
     {
-      "name": "ゲット"
+      "name": "ゲット",
+      "storeid": "ota-68b148",
+      "shopid": "ota-68b148-paypay"
     },
     {
-      "name": "健康中華庵　青樺"
+      "name": "健康中華庵　青樺",
+      "storeid": "ota-074242",
+      "shopid": "ota-074242-paypay"
     },
     {
-      "name": "国際クリーニング"
+      "name": "国際クリーニング",
+      "storeid": "ota-aa428d",
+      "shopid": "ota-aa428d-paypay"
     },
     {
-      "name": "さかなや洋品店"
+      "name": "さかなや洋品店",
+      "storeid": "ota-aebf8a",
+      "shopid": "ota-aebf8a-paypay"
     },
     {
-      "name": "三代目むら上"
+      "name": "三代目むら上",
+      "storeid": "ota-c99c52",
+      "shopid": "ota-c99c52-paypay"
     },
     {
-      "name": "ジーンズメイト"
+      "name": "ジーンズメイト",
+      "storeid": "ota-11cb1f",
+      "shopid": "ota-11cb1f-paypay"
     },
     {
-      "name": "シマヤ洋品店"
+      "name": "シマヤ洋品店",
+      "storeid": "ota-3b8ea5",
+      "shopid": "ota-3b8ea5-paypay"
     },
     {
-      "name": "十字堂"
+      "name": "十字堂",
+      "storeid": "ota-4053bc",
+      "shopid": "ota-4053bc-paypay"
     },
     {
-      "name": "シロヤグループ　シロヤクリーニング"
+      "name": "シロヤグループ　シロヤクリーニング",
+      "storeid": "ota-faef93",
+      "shopid": "ota-faef93-paypay"
     },
     {
-      "name": "スックプラス"
+      "name": "スックプラス",
+      "storeid": "ota-d7a2e6",
+      "shopid": "ota-d7a2e6-paypay"
     },
     {
-      "name": "ステーキ　ハンバーグ＆生パスタ　けん"
+      "name": "ステーキ　ハンバーグ＆生パスタ　けん",
+      "storeid": "ota-2d2040",
+      "shopid": "ota-2d2040-paypay"
     },
     {
-      "name": "ストレッチアップ"
+      "name": "ストレッチアップ",
+      "storeid": "ota-6fcfbd",
+      "shopid": "ota-6fcfbd-paypay"
     },
     {
-      "name": "スペース壱岐坂"
+      "name": "スペース壱岐坂",
+      "storeid": "ota-b13d9e",
+      "shopid": "ota-b13d9e-paypay"
     },
     {
-      "name": "全力ストレッチ"
+      "name": "全力ストレッチ",
+      "storeid": "ota-22fae3",
+      "shopid": "ota-22fae3-paypay"
     },
     {
-      "name": "そば処　朝日屋"
+      "name": "そば処　朝日屋",
+      "storeid": "ota-5e92c5",
+      "shopid": "ota-5e92c5-paypay"
     },
     {
-      "name": "竹原慎二＆畑山隆則　ボクサ・フィットネスジム"
+      "name": "竹原慎二＆畑山隆則　ボクサ・フィットネスジム",
+      "storeid": "ota-2bf5a8",
+      "shopid": "ota-2bf5a8-paypay"
     },
     {
-      "name": "タコとハイボール"
+      "name": "タコとハイボール",
+      "storeid": "ota-79061b",
+      "shopid": "ota-79061b-paypay"
     },
     {
-      "name": "田所商店"
+      "name": "田所商店",
+      "storeid": "ota-91cfe3",
+      "shopid": "ota-91cfe3-paypay"
     },
     {
-      "name": "タナカ均整院"
+      "name": "タナカ均整院",
+      "storeid": "ota-976cba",
+      "shopid": "ota-976cba-paypay"
     },
     {
-      "name": "田中時計店"
+      "name": "田中時計店",
+      "storeid": "ota-e15755",
+      "shopid": "ota-e15755-paypay"
     },
     {
-      "name": "タパス＆タパス"
+      "name": "タパス＆タパス",
+      "storeid": "ota-d7d1e8",
+      "shopid": "ota-d7d1e8-paypay"
     },
     {
-      "name": "中華料理嘉宴"
+      "name": "中華料理嘉宴",
+      "storeid": "ota-4e424c",
+      "shopid": "ota-4e424c-paypay"
     },
     {
-      "name": "中国整体"
+      "name": "中国整体",
+      "storeid": "ota-63dde3",
+      "shopid": "ota-63dde3-paypay"
     },
     {
-      "name": "鉄板ジョニー"
+      "name": "鉄板ジョニー",
+      "storeid": "ota-80a512",
+      "shopid": "ota-80a512-paypay"
     },
     {
-      "name": "天神湯"
+      "name": "天神湯",
+      "storeid": "ota-2bfcc0",
+      "shopid": "ota-2bfcc0-paypay"
     },
     {
-      "name": "天冨久"
+      "name": "天冨久",
+      "storeid": "ota-df638e",
+      "shopid": "ota-df638e-paypay"
     },
     {
-      "name": "天然温泉ヌーランド"
+      "name": "天然温泉ヌーランド",
+      "storeid": "ota-a81359",
+      "shopid": "ota-a81359-paypay"
     },
     {
-      "name": "東京多摩川ゴルフ練習場"
+      "name": "東京多摩川ゴルフ練習場",
+      "storeid": "ota-dd5cad",
+      "shopid": "ota-dd5cad-paypay"
     },
     {
-      "name": "東京トラヤ"
+      "name": "東京トラヤ",
+      "storeid": "ota-7ac47c",
+      "shopid": "ota-7ac47c-paypay"
     },
     {
-      "name": "とのむら釣具店"
+      "name": "とのむら釣具店",
+      "storeid": "ota-dfca1b",
+      "shopid": "ota-dfca1b-paypay"
     },
     {
-      "name": "ドライクリーニングほんま"
+      "name": "ドライクリーニングほんま",
+      "storeid": "ota-d341f7",
+      "shopid": "ota-d341f7-paypay"
     },
     {
-      "name": "とらちゃんずキッチン"
+      "name": "とらちゃんずキッチン",
+      "storeid": "ota-baf923",
+      "shopid": "ota-baf923-paypay"
     },
     {
-      "name": "鳥貴族"
+      "name": "鳥貴族",
+      "storeid": "ota-2f1ba6",
+      "shopid": "ota-2f1ba6-paypay"
     },
     {
-      "name": "トレーディング＆ストレッチ　トレクマ"
+      "name": "トレーディング＆ストレッチ　トレクマ",
+      "storeid": "ota-3d75c5",
+      "shopid": "ota-3d75c5-paypay"
     },
     {
-      "name": "とんかつ鉄"
+      "name": "とんかつ鉄",
+      "storeid": "ota-02818a",
+      "shopid": "ota-02818a-paypay"
     },
     {
-      "name": "ナイスクリーニング"
+      "name": "ナイスクリーニング",
+      "storeid": "ota-0c23d0",
+      "shopid": "ota-0c23d0-paypay"
     },
     {
-      "name": "なか卯"
+      "name": "なか卯",
+      "storeid": "ota-b937a8",
+      "shopid": "ota-b937a8-paypay"
     },
     {
-      "name": "ナンカ堂"
+      "name": "ナンカ堂",
+      "storeid": "ota-15dd88",
+      "shopid": "ota-15dd88-paypay"
     },
     {
-      "name": "肉のいちのへ"
+      "name": "肉のいちのへ",
+      "storeid": "ota-cf721a",
+      "shopid": "ota-cf721a-paypay"
     },
     {
-      "name": "にしわきクリーニング"
+      "name": "にしわきクリーニング",
+      "storeid": "ota-f5fe6d",
+      "shopid": "ota-f5fe6d-paypay"
     },
     {
-      "name": "日本蒸奇博覧会"
+      "name": "日本蒸奇博覧会",
+      "storeid": "ota-ebb8a5",
+      "shopid": "ota-ebb8a5-paypay"
     },
     {
-      "name": "ね、洗って。"
+      "name": "ね、洗って。",
+      "storeid": "ota-da073c",
+      "shopid": "ota-da073c-paypay"
     },
     {
-      "name": "パーソナルジム"
+      "name": "パーソナルジム",
+      "storeid": "ota-cb1f20",
+      "shopid": "ota-cb1f20-paypay"
     },
     {
-      "name": "パーソナルジムTJ"
+      "name": "パーソナルジムTJ",
+      "storeid": "ota-367e09",
+      "shopid": "ota-367e09-paypay"
     },
     {
-      "name": "八じゅう"
+      "name": "八じゅう",
+      "storeid": "ota-c45abf",
+      "shopid": "ota-c45abf-paypay"
     },
     {
-      "name": "パティスリーコリウール"
+      "name": "パティスリーコリウール",
+      "storeid": "ota-d7e4d2",
+      "shopid": "ota-d7e4d2-paypay"
     },
     {
-      "name": "花文様Rieco"
+      "name": "花文様Rieco",
+      "storeid": "ota-11a5dc",
+      "shopid": "ota-11a5dc-paypay"
     },
     {
-      "name": "はま寿司"
+      "name": "はま寿司",
+      "storeid": "ota-f9e5ab",
+      "shopid": "ota-f9e5ab-paypay"
     },
     {
-      "name": "パン小屋Hutte"
+      "name": "パン小屋Hutte",
+      "storeid": "ota-dcdfc2",
+      "shopid": "ota-dcdfc2-paypay"
     },
     {
-      "name": "久が原ヨガ"
+      "name": "久が原ヨガ",
+      "storeid": "ota-7d1fbd",
+      "shopid": "ota-7d1fbd-paypay"
     },
     {
-      "name": "ビッグボーイ"
+      "name": "ビッグボーイ",
+      "storeid": "ota-4f00dd",
+      "shopid": "ota-4f00dd-paypay"
     },
     {
-      "name": "ピッツァリアトラットリアマルコ"
+      "name": "ピッツァリアトラットリアマルコ",
+      "storeid": "ota-4cf1a5",
+      "shopid": "ota-4cf1a5-paypay"
     },
     {
-      "name": "ピラティスジョイナス"
+      "name": "ピラティスジョイナス",
+      "storeid": "ota-d6175e",
+      "shopid": "ota-d6175e-paypay"
     },
     {
-      "name": "ピラティスステーションライト"
+      "name": "ピラティスステーションライト",
+      "storeid": "ota-0982fa",
+      "shopid": "ota-0982fa-paypay"
     },
     {
-      "name": "ビリーマジック"
+      "name": "ビリーマジック",
+      "storeid": "ota-b174ef",
+      "shopid": "ota-b174ef-paypay"
     },
     {
-      "name": "ビリヤードALICE"
+      "name": "ビリヤードALICE",
+      "storeid": "ota-12bfd5",
+      "shopid": "ota-12bfd5-paypay"
     },
     {
-      "name": "ヒンメル"
+      "name": "ヒンメル",
+      "storeid": "ota-44da31",
+      "shopid": "ota-44da31-paypay"
     },
     {
-      "name": "ファーストキッチングループ"
+      "name": "ファーストキッチングループ",
+      "storeid": "ota-65e42e",
+      "shopid": "ota-65e42e-paypay"
     },
     {
-      "name": "ブーランジェリー・ミモレット"
+      "name": "ブーランジェリー・ミモレット",
+      "storeid": "ota-01614a",
+      "shopid": "ota-01614a-paypay"
     },
     {
-      "name": "福のから"
+      "name": "福のから",
+      "storeid": "ota-a93674",
+      "shopid": "ota-a93674-paypay"
     },
     {
-      "name": "不二屋洋服店"
+      "name": "不二屋洋服店",
+      "storeid": "ota-45f9d2",
+      "shopid": "ota-45f9d2-paypay"
     },
     {
-      "name": "プチモールフタバ"
+      "name": "プチモールフタバ",
+      "storeid": "ota-1565f3",
+      "shopid": "ota-1565f3-paypay"
     },
     {
-      "name": "ブティックえま"
+      "name": "ブティックえま",
+      "storeid": "ota-75e618",
+      "shopid": "ota-75e618-paypay"
     },
     {
-      "name": "フルール"
+      "name": "フルール",
+      "storeid": "ota-b6061a",
+      "shopid": "ota-b6061a-paypay"
     },
     {
-      "name": "フレッシュネスバーガー"
+      "name": "フレッシュネスバーガー",
+      "storeid": "ota-b1e76b",
+      "shopid": "ota-b1e76b-paypay"
     },
     {
-      "name": "ベーカリーカルテット"
+      "name": "ベーカリーカルテット",
+      "storeid": "ota-36babb",
+      "shopid": "ota-36babb-paypay"
     },
     {
-      "name": "ベーカリーヤシパン"
+      "name": "ベーカリーヤシパン",
+      "storeid": "ota-638ec8",
+      "shopid": "ota-638ec8-paypay"
     },
     {
-      "name": "宝石工房かざりや"
+      "name": "宝石工房かざりや",
+      "storeid": "ota-bdbda1",
+      "shopid": "ota-bdbda1-paypay"
     },
     {
-      "name": "ほかほか弁当"
+      "name": "ほかほか弁当",
+      "storeid": "ota-9ce6d1",
+      "shopid": "ota-9ce6d1-paypay"
     },
     {
-      "name": "ポポラマーマ"
+      "name": "ポポラマーマ",
+      "storeid": "ota-63b007",
+      "shopid": "ota-63b007-paypay"
     },
     {
-      "name": "ホワイト急便"
+      "name": "ホワイト急便",
+      "storeid": "ota-318d45",
+      "shopid": "ota-318d45-paypay"
     },
     {
-      "name": "マルアベーカリー"
+      "name": "マルアベーカリー",
+      "storeid": "ota-e0bfae",
+      "shopid": "ota-e0bfae-paypay"
     },
     {
-      "name": "みらいつむぎLab"
+      "name": "みらいつむぎLab",
+      "storeid": "ota-3d846c",
+      "shopid": "ota-3d846c-paypay"
     },
     {
-      "name": "メガネストアー雑食"
+      "name": "メガネストアー雑食",
+      "storeid": "ota-de9ffe",
+      "shopid": "ota-de9ffe-paypay"
     },
     {
-      "name": "メゾン・ド・プティ・フール"
+      "name": "メゾン・ド・プティ・フール",
+      "storeid": "ota-62d8de",
+      "shopid": "ota-62d8de-paypay"
     },
     {
-      "name": "麺処　新松"
+      "name": "麺処　新松",
+      "storeid": "ota-6ac92e",
+      "shopid": "ota-6ac92e-paypay"
     },
     {
-      "name": "もみほぐし処もみたん"
+      "name": "もみほぐし処もみたん",
+      "storeid": "ota-ccec30",
+      "shopid": "ota-ccec30-paypay"
     },
     {
-      "name": "モンロー・ウォーク"
+      "name": "モンロー・ウォーク",
+      "storeid": "ota-9b71ce",
+      "shopid": "ota-9b71ce-paypay"
     },
     {
-      "name": "やぶ久"
+      "name": "やぶ久",
+      "storeid": "ota-6e34da",
+      "shopid": "ota-6e34da-paypay"
     },
     {
-      "name": "ヤマグチヤ"
+      "name": "ヤマグチヤ",
+      "storeid": "ota-e38824",
+      "shopid": "ota-e38824-paypay"
     },
     {
-      "name": "有限会社バスメイト"
+      "name": "有限会社バスメイト",
+      "storeid": "ota-0bbfc7",
+      "shopid": "ota-0bbfc7-paypay"
     },
     {
-      "name": "有限会社マルキヤ繊維"
+      "name": "有限会社マルキヤ繊維",
+      "storeid": "ota-944649",
+      "shopid": "ota-944649-paypay"
     },
     {
-      "name": "ユニフォーム作業洋品シブサワ"
+      "name": "ユニフォーム作業洋品シブサワ",
+      "storeid": "ota-09b42f",
+      "shopid": "ota-09b42f-paypay"
     },
     {
-      "name": "ユニフォームスタジオ株式会社"
+      "name": "ユニフォームスタジオ株式会社",
+      "storeid": "ota-c0680c",
+      "shopid": "ota-c0680c-paypay"
     },
     {
-      "name": "ユミースポーツマッサージ療院"
+      "name": "ユミースポーツマッサージ療院",
+      "storeid": "ota-ee2f30",
+      "shopid": "ota-ee2f30-paypay"
     },
     {
-      "name": "ユルディズケバブ"
+      "name": "ユルディズケバブ",
+      "storeid": "ota-f09544",
+      "shopid": "ota-f09544-paypay"
     },
     {
-      "name": "横濱帽子屋"
+      "name": "横濱帽子屋",
+      "storeid": "ota-01167b",
+      "shopid": "ota-01167b-paypay"
     },
     {
-      "name": "らく美silhouette"
+      "name": "らく美silhouette",
+      "storeid": "ota-d57891",
+      "shopid": "ota-d57891-paypay"
     },
     {
-      "name": "ランドリープレス"
+      "name": "ランドリープレス",
+      "storeid": "ota-a30849",
+      "shopid": "ota-a30849-paypay"
     },
     {
-      "name": "リヨンセレブ"
+      "name": "リヨンセレブ",
+      "storeid": "ota-4e5351",
+      "shopid": "ota-4e5351-paypay"
     },
     {
-      "name": "ルークカイロプラクティック"
+      "name": "ルークカイロプラクティック",
+      "storeid": "ota-5384b5",
+      "shopid": "ota-5384b5-paypay"
     },
     {
-      "name": "ルブリ"
+      "name": "ルブリ",
+      "storeid": "ota-022709",
+      "shopid": "ota-022709-paypay"
     },
     {
-      "name": "ローズボウル×イースター"
+      "name": "ローズボウル×イースター",
+      "storeid": "ota-cc70ff",
+      "shopid": "ota-cc70ff-paypay"
     },
     {
-      "name": "和楽"
+      "name": "和楽",
+      "storeid": "ota-c1c04e",
+      "shopid": "ota-c1c04e-paypay"
     }
   ]
 }

@@ -2,617 +2,917 @@
   "美容・理容": [
     {
       "name": "Hair　Salon　haru",
-      "address": "高梨町2521-32"
+      "address": "高梨町2521-32",
+      "storeid": "suzaka-805cbd",
+      "shopid": "suzaka-805cbd-dbarai"
     },
     {
       "name": "Lis",
-      "address": "小山1288-12"
+      "address": "小山1288-12",
+      "storeid": "suzaka-e66473",
+      "shopid": "suzaka-e66473-dbarai"
     },
     {
       "name": "Hair　salon　びっく",
-      "address": "上中町164-1クラージュすざか104"
+      "address": "上中町164-1クラージュすざか104",
+      "storeid": "suzaka-37d10e",
+      "shopid": "suzaka-37d10e-dbarai"
     },
     {
       "name": "キタザワ美容室",
-      "address": "須坂100"
+      "address": "須坂100",
+      "storeid": "suzaka-43d852",
+      "shopid": "suzaka-43d852-dbarai"
     },
     {
       "name": "ACIES　private　salon",
-      "address": "須坂12-1"
+      "address": "須坂12-1",
+      "storeid": "suzaka-470a6a",
+      "shopid": "suzaka-470a6a-dbarai"
     },
     {
       "name": "coeur",
-      "address": "須坂1628-10勝山ビル2F"
+      "address": "須坂1628-10勝山ビル2F",
+      "storeid": "suzaka-fc5790",
+      "shopid": "suzaka-fc5790-dbarai"
     },
     {
       "name": "aalto",
-      "address": "馬場町1262-1"
+      "address": "馬場町1262-1",
+      "storeid": "suzaka-c96299",
+      "shopid": "suzaka-c96299-dbarai"
     },
     {
       "name": "HAIR’SLa―tata",
-      "address": "米持627-14"
+      "address": "米持627-14",
+      "storeid": "suzaka-c5483d",
+      "shopid": "suzaka-c5483d-dbarai"
     },
     {
       "name": "美容室　Mimulus",
-      "address": "墨坂南2-14-12"
+      "address": "墨坂南2-14-12",
+      "storeid": "suzaka-f06987",
+      "shopid": "suzaka-f06987-dbarai"
     },
     {
       "name": "HairSalon　ノイム　Neu",
-      "address": "墨坂南2-3-43"
+      "address": "墨坂南2-3-43",
+      "storeid": "suzaka-a656d0",
+      "shopid": "suzaka-a656d0-dbarai"
     },
     {
       "name": "美容室みょんみょん金井原店",
-      "address": "本上町1471-16"
+      "address": "本上町1471-16",
+      "storeid": "suzaka-1b5353",
+      "shopid": "suzaka-1b5353-dbarai"
     },
     {
       "name": "glam　hair",
-      "address": "本上町1478-9"
+      "address": "本上町1478-9",
+      "storeid": "suzaka-d5cbae",
+      "shopid": "suzaka-d5cbae-dbarai"
     },
     {
       "name": "おびなた理容室",
-      "address": "立町1404-9"
+      "address": "立町1404-9",
+      "storeid": "suzaka-2440a9",
+      "shopid": "suzaka-2440a9-dbarai"
     },
     {
       "name": "美容室ギャラント",
-      "address": "屋部町1269-3"
+      "address": "屋部町1269-3",
+      "storeid": "suzaka-37997e",
+      "shopid": "suzaka-37997e-dbarai"
     },
     {
       "name": "美容室マギーdiva",
-      "address": "東横町1434-1"
+      "address": "東横町1434-1",
+      "storeid": "suzaka-1128e7",
+      "shopid": "suzaka-1128e7-dbarai"
     },
     {
       "name": "THE　BARBER",
-      "address": "日滝2196-5"
+      "address": "日滝2196-5",
+      "storeid": "suzaka-d87ae3",
+      "shopid": "suzaka-d87ae3-dbarai"
     },
     {
       "name": "カットショップ141",
-      "address": "旭ケ丘1-46"
+      "address": "旭ケ丘1-46",
+      "storeid": "suzaka-0d5baf",
+      "shopid": "suzaka-0d5baf-dbarai"
     }
   ],
   "その他小売": [
     {
       "name": "イエローハット　須坂店",
-      "address": "高梨町2522-3"
+      "address": "高梨町2522-3",
+      "storeid": "suzaka-42f244",
+      "shopid": "suzaka-42f244-dbarai"
     },
     {
       "name": "MeSSAGE",
-      "address": "高梨町93-1"
+      "address": "高梨町93-1",
+      "storeid": "suzaka-575972",
+      "shopid": "suzaka-575972-dbarai"
     },
     {
       "name": "Will須坂インター店",
-      "address": "井上1830-9Will須坂インター店"
+      "address": "井上1830-9Will須坂インター店",
+      "storeid": "suzaka-291743",
+      "shopid": "suzaka-291743-dbarai"
     },
     {
       "name": "御菓子処　つたや　本店",
-      "address": "穀町529-7"
+      "address": "穀町529-7",
+      "storeid": "suzaka-d20b99",
+      "shopid": "suzaka-d20b99-dbarai"
     },
     {
       "name": "平安堂須坂店",
-      "address": "宗石1277-3"
+      "address": "宗石1277-3",
+      "storeid": "suzaka-4a5292",
+      "shopid": "suzaka-4a5292-dbarai"
     },
     {
       "name": "土屋印店",
-      "address": "上中町157"
+      "address": "上中町157",
+      "storeid": "suzaka-e3bf2c",
+      "shopid": "suzaka-e3bf2c-dbarai"
     },
     {
       "name": "古道具そらしま",
-      "address": "井上2295"
+      "address": "井上2295",
+      "storeid": "suzaka-108fca",
+      "shopid": "suzaka-108fca-dbarai"
     },
     {
       "name": "モトフォーラムミズノ",
-      "address": "須坂113"
+      "address": "須坂113",
+      "storeid": "suzaka-de6931",
+      "shopid": "suzaka-de6931-dbarai"
     },
     {
       "name": "スポーツショップ日新",
-      "address": "須坂1303ノ1"
+      "address": "須坂1303ノ1",
+      "storeid": "suzaka-338c58",
+      "shopid": "suzaka-338c58-dbarai"
     },
     {
       "name": "田中酒類販売",
-      "address": "須坂1454"
+      "address": "須坂1454",
+      "storeid": "suzaka-104612",
+      "shopid": "suzaka-104612-dbarai"
     },
     {
       "name": "エルコンパスでんおん",
-      "address": "須坂1574-36"
+      "address": "須坂1574-36",
+      "storeid": "suzaka-bcbda3",
+      "shopid": "suzaka-bcbda3-dbarai"
     },
     {
       "name": "時空堂",
-      "address": "須坂中町230"
+      "address": "須坂中町230",
+      "storeid": "suzaka-735d99",
+      "shopid": "suzaka-735d99-dbarai"
     },
     {
       "name": "ホームセンタームサシ須坂店",
-      "address": "井上854-1"
+      "address": "井上854-1",
+      "storeid": "suzaka-b8c416",
+      "shopid": "suzaka-b8c416-dbarai"
     },
     {
       "name": "サロン・ド・ジェム　ヤマグチ",
-      "address": "須坂北横町364森川商店ビル1F"
+      "address": "須坂北横町364森川商店ビル1F",
+      "storeid": "suzaka-7ec2a7",
+      "shopid": "suzaka-7ec2a7-dbarai"
     },
     {
       "name": "綿幸（株）",
-      "address": "中町218"
+      "address": "中町218",
+      "storeid": "suzaka-c4cead",
+      "shopid": "suzaka-c4cead-dbarai"
     },
     {
       "name": "シュ―・プラザ須坂インターファーストプラザ店",
-      "address": "井上字1830-9"
+      "address": "井上字1830-9",
+      "storeid": "suzaka-e5dc9b",
+      "shopid": "suzaka-e5dc9b-dbarai"
     },
     {
       "name": "眼鏡店　鶫",
-      "address": "中町 230西1階"
+      "address": "中町 230西1階",
+      "storeid": "suzaka-d21f7e",
+      "shopid": "suzaka-d21f7e-dbarai"
     },
     {
       "name": "DCM須坂インター",
-      "address": "井上字蛇沢702-1"
+      "address": "井上字蛇沢702-1",
+      "storeid": "suzaka-fb2a8a",
+      "shopid": "suzaka-fb2a8a-dbarai"
     },
     {
       "name": "犬処ケンケン",
-      "address": "東横町1416"
+      "address": "東横町1416",
+      "storeid": "suzaka-50e78f",
+      "shopid": "suzaka-50e78f-dbarai"
     },
     {
       "name": "TRADHOUSECHAMP",
-      "address": "東横町327"
+      "address": "東横町327",
+      "storeid": "suzaka-e4f6a6",
+      "shopid": "suzaka-e4f6a6-dbarai"
     },
     {
       "name": "HYPERBALLAD",
-      "address": "東横町349"
+      "address": "東横町349",
+      "storeid": "suzaka-b5f9a5",
+      "shopid": "suzaka-b5f9a5-dbarai"
     },
     {
       "name": "グリーンベリー",
-      "address": "南横町1605-1 ツルヤ須坂西店"
+      "address": "南横町1605-1 ツルヤ須坂西店",
+      "storeid": "suzaka-56d67d",
+      "shopid": "suzaka-56d67d-dbarai"
     },
     {
       "name": "再起堂書店",
-      "address": "南横町1612"
+      "address": "南横町1612",
+      "storeid": "suzaka-4c25cc",
+      "shopid": "suzaka-4c25cc-dbarai"
     },
     {
       "name": "マックハウススーパーストアフュー",
-      "address": "井上字双61865-1"
+      "address": "井上字双61865-1",
+      "storeid": "suzaka-727214",
+      "shopid": "suzaka-727214-dbarai"
     },
     {
       "name": "市川モータース",
-      "address": "日滝2198"
+      "address": "日滝2198",
+      "storeid": "suzaka-c5f643",
+      "shopid": "suzaka-c5f643-dbarai"
     },
     {
       "name": "弐萬圓堂須坂東インター前店",
-      "address": "井上字双61865-1"
+      "address": "井上字双61865-1",
+      "storeid": "suzaka-1f9de1",
+      "shopid": "suzaka-1f9de1-dbarai"
     },
     {
       "name": "カメラショップ　イワイ",
-      "address": "馬場町1266-16"
+      "address": "馬場町1266-16",
+      "storeid": "suzaka-0eb002",
+      "shopid": "suzaka-0eb002-dbarai"
     },
     {
       "name": "ダイソー須坂塩川店",
-      "address": "塩川2634"
+      "address": "塩川2634",
+      "storeid": "suzaka-0ff48a",
+      "shopid": "suzaka-0ff48a-dbarai"
     },
     {
       "name": "サカイタイヤサービス",
-      "address": "米持475-1"
+      "address": "米持475-1",
+      "storeid": "suzaka-de6d4a",
+      "shopid": "suzaka-de6d4a-dbarai"
     },
     {
       "name": "長野トヨタ自動車須坂店",
-      "address": "米持字大道下南之割454"
+      "address": "米持字大道下南之割454",
+      "storeid": "suzaka-19882b",
+      "shopid": "suzaka-19882b-dbarai"
     },
     {
       "name": "合同会社ケイアイナーセリー",
-      "address": "豊丘843"
+      "address": "豊丘843",
+      "storeid": "suzaka-e48cce",
+      "shopid": "suzaka-e48cce-dbarai"
     },
     {
       "name": "メガネストアー須坂西",
-      "address": "墨坂3-2-13"
+      "address": "墨坂3-2-13",
+      "storeid": "suzaka-fa3e84",
+      "shopid": "suzaka-fa3e84-dbarai"
     },
     {
       "name": "しまむら　須坂店",
-      "address": "墨坂南2-1-8"
+      "address": "墨坂南2-1-8",
+      "storeid": "suzaka-2da885",
+      "shopid": "suzaka-2da885-dbarai"
     },
     {
       "name": "シューマート須坂店",
-      "address": "墨坂南2-6-3"
+      "address": "墨坂南2-6-3",
+      "storeid": "suzaka-59bb11",
+      "shopid": "suzaka-59bb11-dbarai"
     },
     {
       "name": "カードックガイ",
-      "address": "野辺1918-6"
+      "address": "野辺1918-6",
+      "storeid": "suzaka-d55bfa",
+      "shopid": "suzaka-d55bfa-dbarai"
     },
     {
       "name": "Yショップ信州医療センター売店",
-      "address": "立町1332"
+      "address": "立町1332",
+      "storeid": "suzaka-2f80a3",
+      "shopid": "suzaka-2f80a3-dbarai"
     },
     {
       "name": "ザれもん西友須坂",
-      "address": "須坂1539-1"
+      "address": "須坂1539-1",
+      "storeid": "suzaka-613647",
+      "shopid": "suzaka-613647-dbarai"
     },
     {
       "name": "ドコモショップ須坂店",
-      "address": "南横町1618-1"
+      "address": "南横町1618-1",
+      "storeid": "suzaka-e3d94b",
+      "shopid": "suzaka-e3d94b-dbarai"
     },
     {
       "name": "花美",
-      "address": "臥竜1-1-6"
+      "address": "臥竜1-1-6",
+      "storeid": "suzaka-010bcd",
+      "shopid": "suzaka-010bcd-dbarai"
     },
     {
       "name": "総合寝装ワタシン",
-      "address": "米持677-1"
+      "address": "米持677-1",
+      "storeid": "suzaka-84448d",
+      "shopid": "suzaka-84448d-dbarai"
     },
     {
       "name": "Sketchinhikeイベント",
-      "address": "本上町（須坂）39"
+      "address": "本上町（須坂）39",
+      "storeid": "suzaka-050523",
+      "shopid": "suzaka-050523-dbarai"
     },
     {
       "name": "AYYAN　ENTERPRISES",
-      "address": "野辺2044-1"
+      "address": "野辺2044-1",
+      "storeid": "suzaka-676467",
+      "shopid": "suzaka-676467-dbarai"
     },
     {
       "name": "アルファー・ミキ",
-      "address": "高梨町2510-1"
+      "address": "高梨町2510-1",
+      "storeid": "suzaka-251c3f",
+      "shopid": "suzaka-251c3f-dbarai"
     }
   ],
   "サービス": [
     {
       "name": "カラオケBanBan須坂店",
-      "address": "穀町514"
+      "address": "穀町514",
+      "storeid": "suzaka-769191",
+      "shopid": "suzaka-769191-dbarai"
     },
     {
       "name": "ベラミ",
-      "address": "小山1300-5"
+      "address": "小山1300-5",
+      "storeid": "suzaka-e62726",
+      "shopid": "suzaka-e62726-dbarai"
     },
     {
       "name": "HondaCars長野中央　須坂店",
-      "address": "小山2500-5"
+      "address": "小山2500-5",
+      "storeid": "suzaka-13ca44",
+      "shopid": "suzaka-13ca44-dbarai"
     },
     {
       "name": "長野電鉄株式会社 日野駅",
-      "address": "小山蒔田2517"
+      "address": "小山蒔田2517",
+      "storeid": "suzaka-928e86",
+      "shopid": "suzaka-928e86-dbarai"
     },
     {
       "name": "HALE　PLUMERIA",
-      "address": "小島408"
+      "address": "小島408",
+      "storeid": "suzaka-4b947b",
+      "shopid": "suzaka-4b947b-dbarai"
     },
     {
       "name": "リフレシュ須坂店",
-      "address": "常盤町 765"
+      "address": "常盤町 765",
+      "storeid": "suzaka-e703ee",
+      "shopid": "suzaka-e703ee-dbarai"
     },
     {
       "name": "奥山ペンション・ラディッシュ",
-      "address": "仁礼3153-596"
+      "address": "仁礼3153-596",
+      "storeid": "suzaka-60d8a0",
+      "shopid": "suzaka-60d8a0-dbarai"
     },
     {
       "name": "山の宿木まま",
-      "address": "仁礼3153-728"
+      "address": "仁礼3153-728",
+      "storeid": "suzaka-e26c1e",
+      "shopid": "suzaka-e26c1e-dbarai"
     },
     {
       "name": "つかだ接骨院",
-      "address": "井上2866-1"
+      "address": "井上2866-1",
+      "storeid": "suzaka-2300d3",
+      "shopid": "suzaka-2300d3-dbarai"
     },
     {
       "name": "愛の郷・メモリアルペットパーク",
-      "address": "井上446-1"
+      "address": "井上446-1",
+      "storeid": "suzaka-48d42e",
+      "shopid": "suzaka-48d42e-dbarai"
     },
     {
       "name": "信州スポーツプロモーション",
-      "address": "須坂1230-43須坂ハイランド209号室"
+      "address": "須坂1230-43須坂ハイランド209号室",
+      "storeid": "suzaka-d3d5b6",
+      "shopid": "suzaka-d3d5b6-dbarai"
     },
     {
       "name": "グリーンコンタクト須坂支店",
-      "address": "須坂1237-2"
+      "address": "須坂1237-2",
+      "storeid": "suzaka-65ed03",
+      "shopid": "suzaka-65ed03-dbarai"
     },
     {
       "name": "長野電鉄株式会社 須坂駅",
-      "address": "須坂1288-2"
+      "address": "須坂1288-2",
+      "storeid": "suzaka-05612f",
+      "shopid": "suzaka-05612f-dbarai"
     },
     {
       "name": "ミントネイル",
-      "address": "須坂1471-2"
+      "address": "須坂1471-2",
+      "storeid": "suzaka-2b60a9",
+      "shopid": "suzaka-2b60a9-dbarai"
     },
     {
       "name": "写真のかつやま",
-      "address": "須坂305"
+      "address": "須坂305",
+      "storeid": "suzaka-d5b344",
+      "shopid": "suzaka-d5b344-dbarai"
     },
     {
       "name": "ゲストハウス蔵",
-      "address": "須坂39"
+      "address": "須坂39",
+      "storeid": "suzaka-2e7986",
+      "shopid": "suzaka-2e7986-dbarai"
     },
     {
       "name": "クリーニング黒岩",
-      "address": "須坂529"
+      "address": "須坂529",
+      "storeid": "suzaka-b65745",
+      "shopid": "suzaka-b65745-dbarai"
     },
     {
       "name": "タイマッサージみゆき　須坂駅前店",
-      "address": "須坂馬場町 1298"
+      "address": "須坂馬場町 1298",
+      "storeid": "suzaka-4ac42e",
+      "shopid": "suzaka-4ac42e-dbarai"
     },
     {
       "name": "ホテルルートイン須坂",
-      "address": "井上890-4"
+      "address": "井上890-4",
+      "storeid": "suzaka-7e76ef",
+      "shopid": "suzaka-7e76ef-dbarai"
     },
     {
       "name": "移動火葬車　やすらぎのあしあと",
-      "address": "東横町1416"
+      "address": "東横町1416",
+      "storeid": "suzaka-281e2a",
+      "shopid": "suzaka-281e2a-dbarai"
     },
     {
       "name": "四明館",
-      "address": "南横町1629"
+      "address": "南横町1629",
+      "storeid": "suzaka-14d1a4",
+      "shopid": "suzaka-14d1a4-dbarai"
     },
     {
       "name": "bota",
-      "address": "北横町1295-1シルキービル"
+      "address": "北横町1295-1シルキービル",
+      "storeid": "suzaka-2f3c21",
+      "shopid": "suzaka-2f3c21-dbarai"
     },
     {
       "name": "タマキ",
-      "address": "墨坂南1-15-28"
+      "address": "墨坂南1-15-28",
+      "storeid": "suzaka-48fa77",
+      "shopid": "suzaka-48fa77-dbarai"
     },
     {
       "name": "YOSAPARK　tiele　須坂店",
-      "address": "墨坂南1-3-14"
+      "address": "墨坂南1-3-14",
+      "storeid": "suzaka-888fb7",
+      "shopid": "suzaka-888fb7-dbarai"
     },
     {
       "name": "ラインナップ",
-      "address": "墨坂南2-3-44 3-44"
+      "address": "墨坂南2-3-44 3-44",
+      "storeid": "suzaka-e828c9",
+      "shopid": "suzaka-e828c9-dbarai"
     },
     {
       "name": "糀屋本藤醸造舗",
-      "address": "野辺1366"
+      "address": "野辺1366",
+      "storeid": "suzaka-97d6e7",
+      "shopid": "suzaka-97d6e7-dbarai"
     },
     {
       "name": "KT総合企画",
-      "address": "立町1457-8"
+      "address": "立町1457-8",
+      "storeid": "suzaka-6ff22f",
+      "shopid": "suzaka-6ff22f-dbarai"
     },
     {
       "name": "須坂市技術情報センター",
-      "address": "井上1835-1"
+      "address": "井上1835-1",
+      "storeid": "suzaka-d3a928",
+      "shopid": "suzaka-d3a928-dbarai"
     },
     {
       "name": "ヤマト運輸株式会社 須坂南営業所（須坂南）",
-      "address": "幸高218-1"
+      "address": "幸高218-1",
+      "storeid": "suzaka-c4d584",
+      "shopid": "suzaka-c4d584-dbarai"
     },
     {
       "name": "ヤマト運輸株式会社 須坂営業所（小布施）",
-      "address": "小河原3112-1"
+      "address": "小河原3112-1",
+      "storeid": "suzaka-fe410d",
+      "shopid": "suzaka-fe410d-dbarai"
     },
     {
       "name": "ペンションブルーベル",
-      "address": "仁礼町3153-434"
+      "address": "仁礼町3153-434",
+      "storeid": "suzaka-c47432",
+      "shopid": "suzaka-c47432-dbarai"
     },
     {
       "name": "コング",
-      "address": "仁礼峰の原3153-595"
+      "address": "仁礼峰の原3153-595",
+      "storeid": "suzaka-90d171",
+      "shopid": "suzaka-90d171-dbarai"
     },
     {
       "name": "健友館須坂整体療術院",
-      "address": "須坂1264"
+      "address": "須坂1264",
+      "storeid": "suzaka-f192d2",
+      "shopid": "suzaka-f192d2-dbarai"
     },
     {
       "name": "ましま整骨院",
-      "address": "墨坂3-5-26"
+      "address": "墨坂3-5-26",
+      "storeid": "suzaka-552b28",
+      "shopid": "suzaka-552b28-dbarai"
     },
     {
       "name": "ジョグ鍼灸接骨院",
-      "address": "高橋町168-4"
+      "address": "高橋町168-4",
+      "storeid": "suzaka-4e5770",
+      "shopid": "suzaka-4e5770-dbarai"
     },
     {
       "name": "長野電鉄株式会社 村山駅",
-      "address": "高梨字流303-2"
+      "address": "高梨字流303-2",
+      "storeid": "suzaka-06aa04",
+      "shopid": "suzaka-06aa04-dbarai"
     }
   ],
   "スーパー": [
     {
       "name": "A・コープ　すこう店",
-      "address": "小河原1080-1"
+      "address": "小河原1080-1",
+      "storeid": "suzaka-ecd615",
+      "shopid": "suzaka-ecd615-dbarai"
     },
     {
       "name": "デリシア須坂井上店",
-      "address": "幸高92-1"
+      "address": "幸高92-1",
+      "storeid": "suzaka-598b3c",
+      "shopid": "suzaka-598b3c-dbarai"
     },
     {
       "name": "綿半スーパーセンター　須坂店",
-      "address": "高梨245"
+      "address": "高梨245",
+      "storeid": "suzaka-e21d18",
+      "shopid": "suzaka-e21d18-dbarai"
     }
   ],
   "食品小売": [
     {
       "name": "高沢酒店",
-      "address": "小河原2730-1"
+      "address": "小河原2730-1",
+      "storeid": "suzaka-6268ab",
+      "shopid": "suzaka-6268ab-dbarai"
     },
     {
       "name": "コモリ餅店",
-      "address": "須坂1316-11"
+      "address": "須坂1316-11",
+      "storeid": "suzaka-13ba12",
+      "shopid": "suzaka-13ba12-dbarai"
     },
     {
       "name": "遠藤酒造場",
-      "address": "須坂29"
+      "address": "須坂29",
+      "storeid": "suzaka-40a59d",
+      "shopid": "suzaka-40a59d-dbarai"
     },
     {
       "name": "蔦屋茶店",
-      "address": "須坂413-5"
+      "address": "須坂413-5",
+      "storeid": "suzaka-56e89d",
+      "shopid": "suzaka-56e89d-dbarai"
     },
     {
       "name": "大和屋酒店",
-      "address": "須坂99"
+      "address": "須坂99",
+      "storeid": "suzaka-3b98cb",
+      "shopid": "suzaka-3b98cb-dbarai"
     },
     {
       "name": "西友　須坂店",
-      "address": "須坂字金井原1539-1"
+      "address": "須坂字金井原1539-1",
+      "storeid": "suzaka-bea536",
+      "shopid": "suzaka-bea536-dbarai"
     },
     {
       "name": "須坂煎餅堂",
-      "address": "須坂東横町358"
+      "address": "須坂東横町358",
+      "storeid": "suzaka-e5911b",
+      "shopid": "suzaka-e5911b-dbarai"
     },
     {
       "name": "中村農園",
-      "address": "栃倉350中村農園"
+      "address": "栃倉350中村農園",
+      "storeid": "suzaka-0910f7",
+      "shopid": "suzaka-0910f7-dbarai"
     },
     {
       "name": "ひばら農園",
-      "address": "日滝2320-1"
+      "address": "日滝2320-1",
+      "storeid": "suzaka-120fa5",
+      "shopid": "suzaka-120fa5-dbarai"
     },
     {
       "name": "新崎酒店",
-      "address": "日滝4118-3"
+      "address": "日滝4118-3",
+      "storeid": "suzaka-50a6e6",
+      "shopid": "suzaka-50a6e6-dbarai"
     },
     {
       "name": "ヤマホンそりまち農園",
-      "address": "日滝4304-2"
+      "address": "日滝4304-2",
+      "storeid": "suzaka-9b90c9",
+      "shopid": "suzaka-9b90c9-dbarai"
     },
     {
       "name": "すやしん酒店",
-      "address": "馬場町1268"
+      "address": "馬場町1268",
+      "storeid": "suzaka-a181ee",
+      "shopid": "suzaka-a181ee-dbarai"
     },
     {
       "name": "＆　chocolate",
-      "address": "北横町1314"
+      "address": "北横町1314",
+      "storeid": "suzaka-aaecc9",
+      "shopid": "suzaka-aaecc9-dbarai"
     },
     {
       "name": "サーティワンアイスクリーム　須坂",
-      "address": "墨坂3-7-27"
+      "address": "墨坂3-7-27",
+      "storeid": "suzaka-e16b31",
+      "shopid": "suzaka-e16b31-dbarai"
     },
     {
       "name": "デリシア須坂西店",
-      "address": "墨坂4-1-3"
+      "address": "墨坂4-1-3",
+      "storeid": "suzaka-84ad97",
+      "shopid": "suzaka-84ad97-dbarai"
     },
     {
       "name": "二葉堂須坂店",
-      "address": "墨坂南2-8-15"
+      "address": "墨坂南2-8-15",
+      "storeid": "suzaka-8491bb",
+      "shopid": "suzaka-8491bb-dbarai"
     },
     {
       "name": "高野酒店",
-      "address": "立町1396"
+      "address": "立町1396",
+      "storeid": "suzaka-c1a386",
+      "shopid": "suzaka-c1a386-dbarai"
     },
     {
       "name": "おやつとごはんの店　ai",
-      "address": "立町1402-8"
+      "address": "立町1402-8",
+      "storeid": "suzaka-2003d1",
+      "shopid": "suzaka-2003d1-dbarai"
     },
     {
       "name": "深沢製麺所",
-      "address": "幸高町227-16"
+      "address": "幸高町227-16",
+      "storeid": "suzaka-127ba0",
+      "shopid": "suzaka-127ba0-dbarai"
     },
     {
       "name": "浦野酒舗",
-      "address": "新町 528"
+      "address": "新町 528",
+      "storeid": "suzaka-635978",
+      "shopid": "suzaka-635978-dbarai"
     },
     {
       "name": "鈴木養蜂場",
-      "address": "須坂中町222-3"
+      "address": "須坂中町222-3",
+      "storeid": "suzaka-af9a8a",
+      "shopid": "suzaka-af9a8a-dbarai"
     },
     {
       "name": "マルロク返町遊覧園",
-      "address": "高畑町1838-2"
+      "address": "高畑町1838-2",
+      "storeid": "suzaka-80be10",
+      "shopid": "suzaka-80be10-dbarai"
     }
   ],
   "飲食店": [
     {
       "name": "モスバーガー須坂店",
-      "address": "小河原高畑町1088-1"
+      "address": "小河原高畑町1088-1",
+      "storeid": "suzaka-25b936",
+      "shopid": "suzaka-25b936-dbarai"
     },
     {
       "name": "ミスタードーナツ須坂インターショップ",
-      "address": "井上1973-1"
+      "address": "井上1973-1",
+      "storeid": "suzaka-56a3c3",
+      "shopid": "suzaka-56a3c3-dbarai"
     },
     {
       "name": "松葉屋そば店",
-      "address": "常盤町702"
+      "address": "常盤町702",
+      "storeid": "suzaka-8db602",
+      "shopid": "suzaka-8db602-dbarai"
     },
     {
       "name": "枠屋",
-      "address": "新町614-2"
+      "address": "新町614-2",
+      "storeid": "suzaka-4a126f",
+      "shopid": "suzaka-4a126f-dbarai"
     },
     {
       "name": "居酒屋　仁",
-      "address": "仁礼町675-2"
+      "address": "仁礼町675-2",
+      "storeid": "suzaka-073663",
+      "shopid": "suzaka-073663-dbarai"
     },
     {
       "name": "Communication　Pub",
-      "address": "須坂1230-43須坂ハイランド001-06"
+      "address": "須坂1230-43須坂ハイランド001-06",
+      "storeid": "suzaka-a54f02",
+      "shopid": "suzaka-a54f02-dbarai"
     },
     {
       "name": "会津喜多方ラーメン蔵須坂インター店",
-      "address": "井上546-1"
+      "address": "井上546-1",
+      "storeid": "suzaka-53a8bb",
+      "shopid": "suzaka-53a8bb-dbarai"
     },
     {
       "name": "ラーメン人力車須坂インター店",
-      "address": "井上749-1"
+      "address": "井上749-1",
+      "storeid": "suzaka-4ac2e1",
+      "shopid": "suzaka-4ac2e1-dbarai"
     },
     {
       "name": "松風",
-      "address": "須坂41"
+      "address": "須坂41",
+      "storeid": "suzaka-c46444",
+      "shopid": "suzaka-c46444-dbarai"
     },
     {
       "name": "クルアアリヤ",
-      "address": "須坂ハイランド町1230-43"
+      "address": "須坂ハイランド町1230-43",
+      "storeid": "suzaka-619077",
+      "shopid": "suzaka-619077-dbarai"
     },
     {
       "name": "すたみな太郎須坂インター店",
-      "address": "井上772-1"
+      "address": "井上772-1",
+      "storeid": "suzaka-0fea01",
+      "shopid": "suzaka-0fea01-dbarai"
     },
     {
       "name": "魚民　須坂駅前店",
-      "address": "須坂宗石1288-2 長野電鉄須坂駅ビル1階"
+      "address": "須坂宗石1288-2 長野電鉄須坂駅ビル1階",
+      "storeid": "suzaka-f26b78",
+      "shopid": "suzaka-f26b78-dbarai"
     },
     {
       "name": "六味亭",
-      "address": "南横町1632"
+      "address": "南横町1632",
+      "storeid": "suzaka-9f3b55",
+      "shopid": "suzaka-9f3b55-dbarai"
     },
     {
       "name": "酒房山頭火",
-      "address": "馬場町1274-6"
+      "address": "馬場町1274-6",
+      "storeid": "suzaka-039ef4",
+      "shopid": "suzaka-039ef4-dbarai"
     },
     {
       "name": "WEST",
-      "address": "福島408-1"
+      "address": "福島408-1",
+      "storeid": "suzaka-e3ddcb",
+      "shopid": "suzaka-e3ddcb-dbarai"
     },
     {
       "name": "あかり",
-      "address": "北横町1322順栄ビル1階"
+      "address": "北横町1322順栄ビル1階",
+      "storeid": "suzaka-cdd50d",
+      "shopid": "suzaka-cdd50d-dbarai"
     },
     {
       "name": "かっぱ寿司新須坂店",
-      "address": "塩川字神田500"
+      "address": "塩川字神田500",
+      "storeid": "suzaka-1cfe84",
+      "shopid": "suzaka-1cfe84-dbarai"
     },
     {
       "name": "すしはうす",
-      "address": "墨坂4-9-3"
+      "address": "墨坂4-9-3",
+      "storeid": "suzaka-8e4bf8",
+      "shopid": "suzaka-8e4bf8-dbarai"
     },
     {
       "name": "松栄寿司",
-      "address": "墨坂南2-17-1"
+      "address": "墨坂南2-17-1",
+      "storeid": "suzaka-eee28d",
+      "shopid": "suzaka-eee28d-dbarai"
     },
     {
       "name": "きりもみそば泰眞",
-      "address": "墨坂南2-8-31"
+      "address": "墨坂南2-8-31",
+      "storeid": "suzaka-a15e66",
+      "shopid": "suzaka-a15e66-dbarai"
     },
     {
       "name": "ざかすラーメン",
-      "address": "立町1445-1"
+      "address": "立町1445-1",
+      "storeid": "suzaka-48627e",
+      "shopid": "suzaka-48627e-dbarai"
     },
     {
       "name": "海勢寿し",
-      "address": "須坂1274-20"
+      "address": "須坂1274-20",
+      "storeid": "suzaka-56c267",
+      "shopid": "suzaka-56c267-dbarai"
     },
     {
       "name": "居酒屋酔人倶楽部",
-      "address": "北横町1308-3"
+      "address": "北横町1308-3",
+      "storeid": "suzaka-82b7b2",
+      "shopid": "suzaka-82b7b2-dbarai"
     },
     {
       "name": "みすゞや",
-      "address": "臥竜2-5-8"
+      "address": "臥竜2-5-8",
+      "storeid": "suzaka-3b8714",
+      "shopid": "suzaka-3b8714-dbarai"
     },
     {
       "name": "牛角　須坂店",
-      "address": "高畑町1086"
+      "address": "高畑町1086",
+      "storeid": "suzaka-d4cd27",
+      "shopid": "suzaka-d4cd27-dbarai"
     },
     {
       "name": "道とん堀須坂店",
-      "address": "小河原高畑町1097"
+      "address": "小河原高畑町1097",
+      "storeid": "suzaka-3bdeea",
+      "shopid": "suzaka-3bdeea-dbarai"
     }
   ],
   "ガソリンスタンド": [
     {
       "name": "ENEOS キタモリ 須坂SS",
-      "address": "東横町1416"
+      "address": "東横町1416",
+      "storeid": "suzaka-bce5f1",
+      "shopid": "suzaka-bce5f1-dbarai"
     },
     {
       "name": "apollostation / (有)外村石油 セルフ相森SS",
-      "address": "日滝相森町2178"
+      "address": "日滝相森町2178",
+      "storeid": "suzaka-19d9ef",
+      "shopid": "suzaka-19d9ef-dbarai"
     }
   ],
   "ドラッグストア": [
     {
       "name": "ウエルシア須坂日滝店",
-      "address": "日滝973-1"
+      "address": "日滝973-1",
+      "storeid": "suzaka-ffefeb",
+      "shopid": "suzaka-ffefeb-dbarai"
     }
   ]
 }

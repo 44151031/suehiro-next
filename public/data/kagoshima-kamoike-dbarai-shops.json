@@ -1,159 +1,248 @@
 {
   "くらし・趣味": [
     {
-      "name": "鹿児島サンロイヤルホテル"
+      "name": "鹿児島サンロイヤルホテル",
+      "storeid": "kamoike-fdaa2b",
+      "shopid": "kamoike-fdaa2b-dbarai"
     },
     {
-      "name": "\t株式会社JAエコパル 鴨池SS"
+      "name": "\t株式会社JAエコパル 鴨池SS",
+      "storeid": "kamoike-d86511",
+      "shopid": "kamoike-d86511-dbarai"
     },
     {
-      "name": "SAKODAホームファニシングス与次郎店"
+      "name": "SAKODAホームファニシングス与次郎店",
+      "storeid": "kamoike-8b4904",
+      "shopid": "kamoike-8b4904-dbarai"
     },
     {
-      "name": "ドローンショップ DDH.JP"
+      "name": "ドローンショップ DDH.JP",
+      "storeid": "kamoike-8682e9",
+      "shopid": "kamoike-8682e9-dbarai"
     },
     {
-      "name": "パソコン教室 スローステップ"
+      "name": "パソコン教室 スローステップ",
+      "storeid": "kamoike-8391b1",
+      "shopid": "kamoike-8391b1-dbarai"
     },
     {
-      "name": "フラワーショップはなさき"
+      "name": "フラワーショップはなさき",
+      "storeid": "kamoike-5f6b88",
+      "shopid": "kamoike-5f6b88-dbarai"
     },
     {
-      "name": "フラワーショップはなさき"
+      "name": "メガネのヨネザワ ニシムタスカイマーケット鴨池店",
+      "storeid": "kamoike-e08c8b",
+      "shopid": "kamoike-e08c8b-dbarai"
     },
     {
-      "name": "メガネのヨネザワ ニシムタスカイマーケット鴨池店"
-    },
-    {
-      "name": "メガネのヨネザワ フレスポ与次郎店"
+      "name": "メガネのヨネザワ フレスポ与次郎店",
+      "storeid": "kamoike-277ec3",
+      "shopid": "kamoike-277ec3-dbarai"
     }
   ],
   "スタジアム": [
     {
-      "name": "伊太利亜 キッチンカー"
+      "name": "伊太利亜 キッチンカー",
+      "storeid": "kamoike-aef86f",
+      "shopid": "kamoike-aef86f-dbarai"
     },
     {
-      "name": "鹿児島ユナイテッドFC グッズ販売"
+      "name": "鹿児島ユナイテッドFC グッズ販売",
+      "storeid": "kamoike-209cf8",
+      "shopid": "kamoike-209cf8-dbarai"
     },
     {
-      "name": "キッチン、島田屋"
+      "name": "キッチン、島田屋",
+      "storeid": "kamoike-53227c",
+      "shopid": "kamoike-53227c-dbarai"
     }
   ],
   "ファッション": [
     {
-      "name": "\t靴の尚美堂 ニシムタ鴨池店"
+      "name": "\t靴の尚美堂 ニシムタ鴨池店",
+      "storeid": "kamoike-da1d73",
+      "shopid": "kamoike-da1d73-dbarai"
     },
     {
-      "name": "洋服の青山 フレスポジャングルパーク店"
+      "name": "洋服の青山 フレスポジャングルパーク店",
+      "storeid": "kamoike-e5b853",
+      "shopid": "kamoike-e5b853-dbarai"
     }
   ],
   "整体・整骨": [
     {
-      "name": "温活サロン ココロサク"
+      "name": "温活サロン ココロサク",
+      "storeid": "kamoike-ea254d",
+      "shopid": "kamoike-ea254d-dbarai"
     },
     {
-      "name": "しみず鍼灸院レジリエンス"
+      "name": "しみず鍼灸院レジリエンス",
+      "storeid": "kamoike-e068da",
+      "shopid": "kamoike-e068da-dbarai"
     },
     {
-      "name": "鍼灸院 はりー"
+      "name": "鍼灸院 はりー",
+      "storeid": "kamoike-ef3bd8",
+      "shopid": "kamoike-ef3bd8-dbarai"
     }
   ],
   "理美容": [
     {
-      "name": "FIX serein"
+      "name": "FIX serein",
+      "storeid": "kamoike-5ee56c",
+      "shopid": "kamoike-5ee56c-dbarai"
     },
     {
-      "name": "グレイカラー･カット専門店あいみ"
+      "name": "グレイカラー･カット専門店あいみ",
+      "storeid": "kamoike-a60b38",
+      "shopid": "kamoike-a60b38-dbarai"
     },
     {
-      "name": "ヘアーサロン リュウ"
+      "name": "ヘアーサロン リュウ",
+      "storeid": "kamoike-3e37a1",
+      "shopid": "kamoike-3e37a1-dbarai"
     },
     {
-      "name": "ベレーザメドコ・ヘアーサロンメドコ"
+      "name": "ベレーザメドコ・ヘアーサロンメドコ",
+      "storeid": "kamoike-d67624",
+      "shopid": "kamoike-d67624-dbarai"
     },
     {
-      "name": "理容室 ピース"
+      "name": "理容室 ピース",
+      "storeid": "kamoike-d8a3c2",
+      "shopid": "kamoike-d8a3c2-dbarai"
     }
   ],
   "薬局・病院": [
     {
-      "name": "康心鴨池薬局"
+      "name": "康心鴨池薬局",
+      "storeid": "kamoike-eab1f3",
+      "shopid": "kamoike-eab1f3-dbarai"
     },
     {
-      "name": "七福さくら薬局"
+      "name": "七福さくら薬局",
+      "storeid": "kamoike-1d57ba",
+      "shopid": "kamoike-1d57ba-dbarai"
     },
     {
-      "name": "南日本薬剤センター薬局 鴨池新町店"
+      "name": "南日本薬剤センター薬局 鴨池新町店",
+      "storeid": "kamoike-535755",
+      "shopid": "kamoike-535755-dbarai"
     }
   ],
   "食品・日用品": [
     {
-      "name": "石塚米店"
+      "name": "石塚米店",
+      "storeid": "kamoike-e097cb",
+      "shopid": "kamoike-e097cb-dbarai"
     },
     {
-      "name": "おいどん市場 与次郎館"
+      "name": "おいどん市場 与次郎館",
+      "storeid": "kamoike-6d03ca",
+      "shopid": "kamoike-6d03ca-dbarai"
     },
     {
-      "name": "薩摩蒸気屋 鴨池店"
+      "name": "薩摩蒸気屋 鴨池店",
+      "storeid": "kamoike-da0465",
+      "shopid": "kamoike-da0465-dbarai"
     },
     {
-      "name": "スカイマーケットニシムタ 鴨池店"
+      "name": "スカイマーケットニシムタ 鴨池店",
+      "storeid": "kamoike-58fe58",
+      "shopid": "kamoike-58fe58-dbarai"
     },
     {
-      "name": "\tダイレックス アクロスプラザ与次郎店"
+      "name": "\tダイレックス アクロスプラザ与次郎店",
+      "storeid": "kamoike-9df4cb",
+      "shopid": "kamoike-9df4cb-dbarai"
     },
     {
-      "name": "\t釣り具のポイント 鹿児島与次郎店"
+      "name": "\t釣り具のポイント 鹿児島与次郎店",
+      "storeid": "kamoike-c7cbf6",
+      "shopid": "kamoike-c7cbf6-dbarai"
     },
     {
-      "name": "ドコモショップ 鴨池ニュータウン店"
+      "name": "ドコモショップ 鴨池ニュータウン店",
+      "storeid": "kamoike-824cb6",
+      "shopid": "kamoike-824cb6-dbarai"
     },
     {
-      "name": "ドコモショップ 騎射場店"
+      "name": "ドコモショップ 騎射場店",
+      "storeid": "kamoike-7ce7e9",
+      "shopid": "kamoike-7ce7e9-dbarai"
     },
     {
-      "name": "ニシムタ 与次郎店"
+      "name": "ニシムタ 与次郎店",
+      "storeid": "kamoike-2dbb9c",
+      "shopid": "kamoike-2dbb9c-dbarai"
     },
     {
-      "name": "\tパン工房 カレン"
+      "name": "\tパン工房 カレン",
+      "storeid": "kamoike-539fee",
+      "shopid": "kamoike-539fee-dbarai"
     }
   ],
   "飲食店": [
     {
-      "name": "味処 白雲"
+      "name": "味処 白雲",
+      "storeid": "kamoike-74a90f",
+      "shopid": "kamoike-74a90f-dbarai"
     },
     {
-      "name": "伊太利亜 県庁前"
+      "name": "伊太利亜 県庁前",
+      "storeid": "kamoike-f61c08",
+      "shopid": "kamoike-f61c08-dbarai"
     },
     {
-      "name": "鴨池すし源"
+      "name": "鴨池すし源",
+      "storeid": "kamoike-551755",
+      "shopid": "kamoike-551755-dbarai"
     },
     {
-      "name": "こめやさかなや"
+      "name": "こめやさかなや",
+      "storeid": "kamoike-92d511",
+      "shopid": "kamoike-92d511-dbarai"
     },
     {
-      "name": "炭火焼肉 カフカ"
+      "name": "炭火焼肉 カフカ",
+      "storeid": "kamoike-ed858e",
+      "shopid": "kamoike-ed858e-dbarai"
     },
     {
-      "name": "\tダイニング居酒屋 RyuO"
+      "name": "\tダイニング居酒屋 RyuO",
+      "storeid": "kamoike-88b5de",
+      "shopid": "kamoike-88b5de-dbarai"
     },
     {
-      "name": "\tはるまんま"
+      "name": "\tはるまんま",
+      "storeid": "kamoike-eef964",
+      "shopid": "kamoike-eef964-dbarai"
     },
     {
-      "name": "ファミリアーレキッチン"
+      "name": "ファミリアーレキッチン",
+      "storeid": "kamoike-2aae0d",
+      "shopid": "kamoike-2aae0d-dbarai"
     },
     {
-      "name": "\tふぁみり庵はいから亭 与次郎本店"
+      "name": "\tふぁみり庵はいから亭 与次郎本店",
+      "storeid": "kamoike-8fb35b",
+      "shopid": "kamoike-8fb35b-dbarai"
     },
     {
-      "name": "\t本格炭火 あじとり"
+      "name": "\t本格炭火 あじとり",
+      "storeid": "kamoike-070e6f",
+      "shopid": "kamoike-070e6f-dbarai"
     },
     {
-      "name": "本気串 たろう"
+      "name": "本気串 たろう",
+      "storeid": "kamoike-e1c1d5",
+      "shopid": "kamoike-e1c1d5-dbarai"
     },
     {
-      "name": "焼鳥居酒屋 颯花"
+      "name": "焼鳥居酒屋 颯花",
+      "storeid": "kamoike-3cd347",
+      "shopid": "kamoike-3cd347-dbarai"
     }
   ]
 }

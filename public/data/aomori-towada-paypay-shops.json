@@ -1,919 +1,1516 @@
 {
   "その他": [
     {
-      "name": "たかさご屋"
+      "name": "たかさご屋",
+      "storeid": "towada-d0546c",
+      "shopid": "towada-d0546c-paypay"
     },
     {
-      "name": "HOW 十和田市立中央病院店"
+      "name": "HOW 十和田市立中央病院店",
+      "storeid": "towada-58f753",
+      "shopid": "towada-58f753-paypay"
     },
     {
-      "name": "TSUTAYA"
+      "name": "TSUTAYA",
+      "storeid": "towada-35bf2f",
+      "shopid": "towada-35bf2f-paypay"
     },
     {
-      "name": "オートバックス"
+      "name": "オートバックス",
+      "storeid": "towada-fe1aa3",
+      "shopid": "towada-fe1aa3-paypay"
     },
     {
-      "name": "第一興商クレヨンビッグエコー"
+      "name": "第一興商クレヨンビッグエコー",
+      "storeid": "towada-331d7d",
+      "shopid": "towada-331d7d-paypay"
     },
     {
-      "name": "手づくり村鯉艸郷ブルーベリー園"
+      "name": "手づくり村鯉艸郷ブルーベリー園",
+      "storeid": "towada-27c26d",
+      "shopid": "towada-27c26d-paypay"
     },
     {
-      "name": "ヤマト運輸"
+      "name": "ヤマト運輸",
+      "storeid": "towada-e8b740",
+      "shopid": "towada-e8b740-paypay"
     },
     {
-      "name": "奥入瀬湧水館"
+      "name": "奥入瀬湧水館",
+      "storeid": "towada-5c5f9b",
+      "shopid": "towada-5c5f9b-paypay"
     },
     {
-      "name": "RIB Pioneer"
+      "name": "RIB Pioneer",
+      "storeid": "towada-e040ef",
+      "shopid": "towada-e040ef-paypay"
     },
     {
-      "name": "イーグルボウル株式会社"
+      "name": "イーグルボウル株式会社",
+      "storeid": "towada-bf5c47",
+      "shopid": "towada-bf5c47-paypay"
     },
     {
-      "name": "奥入瀬モスボール工房"
+      "name": "奥入瀬モスボール工房",
+      "storeid": "towada-db1491",
+      "shopid": "towada-db1491-paypay"
     },
     {
-      "name": "TOYS　SPOT　PALO　TOYS"
+      "name": "TOYS　SPOT　PALO　TOYS",
+      "storeid": "towada-9db65d",
+      "shopid": "towada-9db65d-paypay"
     },
     {
-      "name": "イエローハット"
+      "name": "イエローハット",
+      "storeid": "towada-888867",
+      "shopid": "towada-888867-paypay"
     },
     {
-      "name": "グータス星野リゾート２"
+      "name": "グータス星野リゾート２",
+      "storeid": "towada-c7f9e4",
+      "shopid": "towada-c7f9e4-paypay"
     },
     {
-      "name": "DOGSALON NaTuLa"
+      "name": "DOGSALON NaTuLa",
+      "storeid": "towada-d1ea5b",
+      "shopid": "towada-d1ea5b-paypay"
     },
     {
-      "name": "青森県庁生協"
+      "name": "青森県庁生協",
+      "storeid": "towada-07cb6c",
+      "shopid": "towada-07cb6c-paypay"
     },
     {
-      "name": "ハピたのかふぇ"
+      "name": "ハピたのかふぇ",
+      "storeid": "towada-170fa1",
+      "shopid": "towada-170fa1-paypay"
     },
     {
-      "name": "ダイナミックベンディングネットワークアサヒ飲料自販機"
+      "name": "ダイナミックベンディングネットワークアサヒ飲料自販機",
+      "storeid": "towada-f7f3aa",
+      "shopid": "towada-f7f3aa-paypay"
     },
     {
-      "name": "紺野商事"
+      "name": "紺野商事",
+      "storeid": "towada-01b8b8",
+      "shopid": "towada-01b8b8-paypay"
     },
     {
-      "name": "ほぐし屋　さくら"
+      "name": "ほぐし屋　さくら",
+      "storeid": "towada-ce639f",
+      "shopid": "towada-ce639f-paypay"
     },
     {
-      "name": "写真のオクヤマ"
+      "name": "写真のオクヤマ",
+      "storeid": "towada-c7e3af",
+      "shopid": "towada-c7e3af-paypay"
     },
     {
-      "name": "腰痛整体猫の手リラクゼーション"
+      "name": "腰痛整体猫の手リラクゼーション",
+      "storeid": "towada-19963d",
+      "shopid": "towada-19963d-paypay"
     },
     {
-      "name": "車検のコバック"
+      "name": "車検のコバック",
+      "storeid": "towada-e9a96b",
+      "shopid": "towada-e9a96b-paypay"
     },
     {
-      "name": "十和田乗馬倶楽部"
+      "name": "十和田乗馬倶楽部",
+      "storeid": "towada-0629a9",
+      "shopid": "towada-0629a9-paypay"
     },
     {
-      "name": "休養堂"
+      "name": "休養堂",
+      "storeid": "towada-4bb36f",
+      "shopid": "towada-4bb36f-paypay"
     },
     {
-      "name": "有限会社昭和針金"
+      "name": "有限会社昭和針金",
+      "storeid": "towada-78b316",
+      "shopid": "towada-78b316-paypay"
     },
     {
-      "name": "有限会社玉川写真館"
+      "name": "有限会社玉川写真館",
+      "storeid": "towada-bee6b9",
+      "shopid": "towada-bee6b9-paypay"
     },
     {
-      "name": "ふたば写真館"
+      "name": "ふたば写真館",
+      "storeid": "towada-d322c3",
+      "shopid": "towada-d322c3-paypay"
     },
     {
-      "name": "ReLaxuda"
+      "name": "ReLaxuda",
+      "storeid": "towada-33961b",
+      "shopid": "towada-33961b-paypay"
     },
     {
-      "name": "アロマショップアネモネ"
+      "name": "アロマショップアネモネ",
+      "storeid": "towada-112b39",
+      "shopid": "towada-112b39-paypay"
     },
     {
-      "name": "十和田中央モータースクール"
+      "name": "十和田中央モータースクール",
+      "storeid": "towada-abab80",
+      "shopid": "towada-abab80-paypay"
     },
     {
-      "name": "オキタ工業"
+      "name": "オキタ工業",
+      "storeid": "towada-eff327",
+      "shopid": "towada-eff327-paypay"
     },
     {
-      "name": "田中自動車整備工場"
+      "name": "田中自動車整備工場",
+      "storeid": "towada-ab4994",
+      "shopid": "towada-ab4994-paypay"
     },
     {
-      "name": "トリミングサロンstella"
+      "name": "トリミングサロンstella",
+      "storeid": "towada-c0e5ed",
+      "shopid": "towada-c0e5ed-paypay"
     },
     {
-      "name": "PUALOHA."
+      "name": "PUALOHA.",
+      "storeid": "towada-b86f04",
+      "shopid": "towada-b86f04-paypay"
     },
     {
-      "name": "沼岡カメラ"
+      "name": "沼岡カメラ",
+      "storeid": "towada-29f6a8",
+      "shopid": "towada-29f6a8-paypay"
     },
     {
-      "name": "ボデーショップ三浦"
+      "name": "ボデーショップ三浦",
+      "storeid": "towada-49d907",
+      "shopid": "towada-49d907-paypay"
     },
     {
-      "name": "照井自動車工業"
+      "name": "照井自動車工業",
+      "storeid": "towada-88b899",
+      "shopid": "towada-88b899-paypay"
     },
     {
-      "name": "深堀自動車販売"
+      "name": "深堀自動車販売",
+      "storeid": "towada-48ef17",
+      "shopid": "towada-48ef17-paypay"
     },
     {
-      "name": "中野自動車"
+      "name": "中野自動車",
+      "storeid": "towada-357bc3",
+      "shopid": "towada-357bc3-paypay"
     },
     {
-      "name": "田清商店"
+      "name": "田清商店",
+      "storeid": "towada-2d2769",
+      "shopid": "towada-2d2769-paypay"
     },
     {
-      "name": "タイヤランド"
+      "name": "タイヤランド",
+      "storeid": "towada-ecc6df",
+      "shopid": "towada-ecc6df-paypay"
     },
     {
-      "name": "有限会社スタジオおだしま"
+      "name": "有限会社スタジオおだしま",
+      "storeid": "towada-79aeab",
+      "shopid": "towada-79aeab-paypay"
     },
     {
-      "name": "JRハウス十和田"
+      "name": "JRハウス十和田",
+      "storeid": "towada-9bb91a",
+      "shopid": "towada-9bb91a-paypay"
     },
     {
-      "name": "SALON　BETTY"
+      "name": "SALON　BETTY",
+      "storeid": "towada-a565b4",
+      "shopid": "towada-a565b4-paypay"
     },
     {
-      "name": "フレアオート"
+      "name": "フレアオート",
+      "storeid": "towada-472ab3",
+      "shopid": "towada-472ab3-paypay"
     },
     {
-      "name": "関口自動車整備工場"
+      "name": "関口自動車整備工場",
+      "storeid": "towada-6924ae",
+      "shopid": "towada-6924ae-paypay"
     },
     {
-      "name": "西館ガラス店"
+      "name": "西館ガラス店",
+      "storeid": "towada-4278ff",
+      "shopid": "towada-4278ff-paypay"
     },
     {
-      "name": "りらっくだ東店"
+      "name": "りらっくだ東店",
+      "storeid": "towada-aaa4ec",
+      "shopid": "towada-aaa4ec-paypay"
     },
     {
-      "name": "有限会社マルユー自動車"
+      "name": "有限会社マルユー自動車",
+      "storeid": "towada-3722e4",
+      "shopid": "towada-3722e4-paypay"
     },
     {
-      "name": "女性専用さろん　和・手あて"
+      "name": "女性専用さろん　和・手あて",
+      "storeid": "towada-115712",
+      "shopid": "towada-115712-paypay"
     },
     {
-      "name": "くるまのガラス屋さん"
+      "name": "くるまのガラス屋さん",
+      "storeid": "towada-391e13",
+      "shopid": "towada-391e13-paypay"
     },
     {
-      "name": "スズキ自販ハマムラ"
+      "name": "スズキ自販ハマムラ",
+      "storeid": "towada-37ee67",
+      "shopid": "towada-37ee67-paypay"
     },
     {
-      "name": "高橋写真館"
+      "name": "高橋写真館",
+      "storeid": "towada-b2e512",
+      "shopid": "towada-b2e512-paypay"
     },
     {
-      "name": "PEACE　MAKER"
+      "name": "PEACE　MAKER",
+      "storeid": "towada-0bbfe1",
+      "shopid": "towada-0bbfe1-paypay"
     },
     {
-      "name": "十和田セレモニーホール元町"
+      "name": "十和田セレモニーホール元町",
+      "storeid": "towada-bf761c",
+      "shopid": "towada-bf761c-paypay"
     },
     {
-      "name": "CarドクターSBP"
+      "name": "CarドクターSBP",
+      "storeid": "towada-53ae36",
+      "shopid": "towada-53ae36-paypay"
     },
     {
-      "name": "スクール実"
+      "name": "スクール実",
+      "storeid": "towada-8df1b5",
+      "shopid": "towada-8df1b5-paypay"
     },
     {
-      "name": "アロマとハーブのスクールBernadette"
+      "name": "アロマとハーブのスクールBernadette",
+      "storeid": "towada-8b2f25",
+      "shopid": "towada-8b2f25-paypay"
     },
     {
-      "name": "修理屋イクソン"
+      "name": "修理屋イクソン",
+      "storeid": "towada-76d895",
+      "shopid": "towada-76d895-paypay"
     },
     {
-      "name": "カーショップ市ノ渡"
+      "name": "カーショップ市ノ渡",
+      "storeid": "towada-20087c",
+      "shopid": "towada-20087c-paypay"
     },
     {
-      "name": "RSコジロー"
+      "name": "RSコジロー",
+      "storeid": "towada-595fba",
+      "shopid": "towada-595fba-paypay"
     },
     {
-      "name": "ブリヂストンタイヤサービス東日本"
+      "name": "ブリヂストンタイヤサービス東日本",
+      "storeid": "towada-4f6b1c",
+      "shopid": "towada-4f6b1c-paypay"
     },
     {
-      "name": "CoCoMignon"
+      "name": "CoCoMignon",
+      "storeid": "towada-0c0293",
+      "shopid": "towada-0c0293-paypay"
     },
     {
-      "name": "商　ハタケヤマ"
+      "name": "商　ハタケヤマ",
+      "storeid": "towada-c22efa",
+      "shopid": "towada-c22efa-paypay"
     },
     {
-      "name": "シラヤマ自動車販売"
+      "name": "シラヤマ自動車販売",
+      "storeid": "towada-f53fbb",
+      "shopid": "towada-f53fbb-paypay"
     },
     {
-      "name": "リボルト青森"
+      "name": "リボルト青森",
+      "storeid": "towada-11ac23",
+      "shopid": "towada-11ac23-paypay"
     },
     {
-      "name": "リフォームプラザ"
+      "name": "リフォームプラザ",
+      "storeid": "towada-1e00bb",
+      "shopid": "towada-1e00bb-paypay"
     },
     {
-      "name": "靴工房"
+      "name": "靴工房",
+      "storeid": "towada-e03aad",
+      "shopid": "towada-e03aad-paypay"
     },
     {
-      "name": "Book&Space旅空間"
+      "name": "Book&Space旅空間",
+      "storeid": "towada-cebe1c",
+      "shopid": "towada-cebe1c-paypay"
     },
     {
-      "name": "ルンルン"
+      "name": "ルンルン",
+      "storeid": "towada-0e71ea",
+      "shopid": "towada-0e71ea-paypay"
     },
     {
-      "name": "スマイルホテル"
+      "name": "スマイルホテル",
+      "storeid": "towada-f3a475",
+      "shopid": "towada-f3a475-paypay"
     },
     {
-      "name": "ホテルポニー温泉"
+      "name": "ホテルポニー温泉",
+      "storeid": "towada-2f6460",
+      "shopid": "towada-2f6460-paypay"
     },
     {
-      "name": "旅館大阪屋"
+      "name": "旅館大阪屋",
+      "storeid": "towada-8cd9f0",
+      "shopid": "towada-8cd9f0-paypay"
     },
     {
-      "name": "十和田湖畔桜楽"
+      "name": "十和田湖畔桜楽",
+      "storeid": "towada-be17ed",
+      "shopid": "towada-be17ed-paypay"
     },
     {
-      "name": "ドライブイン民宿桂月"
+      "name": "ドライブイン民宿桂月",
+      "storeid": "towada-e4ccb3",
+      "shopid": "towada-e4ccb3-paypay"
     },
     {
-      "name": "スーパーホテル"
+      "name": "スーパーホテル",
+      "storeid": "towada-70665c",
+      "shopid": "towada-70665c-paypay"
     },
     {
-      "name": "野の花　焼山壮"
+      "name": "野の花　焼山壮",
+      "storeid": "towada-a1f382",
+      "shopid": "towada-a1f382-paypay"
     },
     {
-      "name": "谷地温泉"
+      "name": "谷地温泉",
+      "storeid": "towada-170f2b",
+      "shopid": "towada-170f2b-paypay"
     },
     {
-      "name": "ホテルルートイン"
+      "name": "ホテルルートイン",
+      "storeid": "towada-dd130f",
+      "shopid": "towada-dd130f-paypay"
     },
     {
-      "name": "蔦温泉"
+      "name": "蔦温泉",
+      "storeid": "towada-1e9c07",
+      "shopid": "towada-1e9c07-paypay"
     },
     {
-      "name": "シャトル"
+      "name": "シャトル",
+      "storeid": "towada-519530",
+      "shopid": "towada-519530-paypay"
     },
     {
-      "name": "IT&除菌コインランドリー"
+      "name": "IT&除菌コインランドリー",
+      "storeid": "towada-d4a894",
+      "shopid": "towada-d4a894-paypay"
     },
     {
-      "name": "有限会社丸善クリーニング"
+      "name": "有限会社丸善クリーニング",
+      "storeid": "towada-783608",
+      "shopid": "towada-783608-paypay"
     },
     {
-      "name": "クリーニングのブルースター"
+      "name": "クリーニングのブルースター",
+      "storeid": "towada-ef841e",
+      "shopid": "towada-ef841e-paypay"
     },
     {
-      "name": "おそうじ本舗"
+      "name": "おそうじ本舗",
+      "storeid": "towada-c94baa",
+      "shopid": "towada-c94baa-paypay"
     },
     {
-      "name": "東京クリーニング"
+      "name": "東京クリーニング",
+      "storeid": "towada-86873d",
+      "shopid": "towada-86873d-paypay"
     },
     {
-      "name": "(有)青森クリーニング"
+      "name": "(有)青森クリーニング",
+      "storeid": "towada-c43584",
+      "shopid": "towada-c43584-paypay"
     },
     {
-      "name": "クリーニングシャトル"
+      "name": "クリーニングシャトル",
+      "storeid": "towada-cc0d30",
+      "shopid": "towada-cc0d30-paypay"
     },
     {
-      "name": "舘坂接骨院"
+      "name": "舘坂接骨院",
+      "storeid": "towada-34ebe1",
+      "shopid": "towada-34ebe1-paypay"
     },
     {
-      "name": "理容プラージュ"
+      "name": "理容プラージュ",
+      "storeid": "towada-ece8ab",
+      "shopid": "towada-ece8ab-paypay"
     },
     {
-      "name": "ヘアーズクラブ21"
+      "name": "ヘアーズクラブ21",
+      "storeid": "towada-720976",
+      "shopid": "towada-720976-paypay"
     },
     {
-      "name": "アーティスターヘアーメイクるぽ"
+      "name": "アーティスターヘアーメイクるぽ",
+      "storeid": "towada-a87054",
+      "shopid": "towada-a87054-paypay"
     },
     {
-      "name": "kapilina＼w. standard"
+      "name": "kapilina＼w. standard",
+      "storeid": "towada-a30e86",
+      "shopid": "towada-a30e86-paypay"
     },
     {
-      "name": "髪師ジバング"
+      "name": "髪師ジバング",
+      "storeid": "towada-b789ad",
+      "shopid": "towada-b789ad-paypay"
     },
     {
-      "name": "cut hair room"
+      "name": "cut hair room",
+      "storeid": "towada-2a3437",
+      "shopid": "towada-2a3437-paypay"
     },
     {
-      "name": "KOHJI HOUSE"
+      "name": "KOHJI HOUSE",
+      "storeid": "towada-f15d3c",
+      "shopid": "towada-f15d3c-paypay"
     },
     {
-      "name": "サロンエイト"
+      "name": "サロンエイト",
+      "storeid": "towada-48f258",
+      "shopid": "towada-48f258-paypay"
     },
     {
-      "name": "eyesalon澄"
+      "name": "eyesalon澄",
+      "storeid": "towada-304343",
+      "shopid": "towada-304343-paypay"
     },
     {
-      "name": "チルル美容院"
+      "name": "チルル美容院",
+      "storeid": "towada-41f7db",
+      "shopid": "towada-41f7db-paypay"
     },
     {
-      "name": "和み家"
+      "name": "和み家",
+      "storeid": "towada-c40bda",
+      "shopid": "towada-c40bda-paypay"
     },
     {
-      "name": "美容室山野"
+      "name": "美容室山野",
+      "storeid": "towada-bdb4f0",
+      "shopid": "towada-bdb4f0-paypay"
     },
     {
-      "name": "まつげ専門店　Salon Breparis"
+      "name": "まつげ専門店　Salon Breparis",
+      "storeid": "towada-4371c7",
+      "shopid": "towada-4371c7-paypay"
     },
     {
-      "name": "ME TIME"
+      "name": "ME TIME",
+      "storeid": "towada-b9e032",
+      "shopid": "towada-b9e032-paypay"
     },
     {
-      "name": "Hair Lovable"
+      "name": "Hair Lovable",
+      "storeid": "towada-e6f825",
+      "shopid": "towada-e6f825-paypay"
     },
     {
-      "name": "inicio"
+      "name": "inicio",
+      "storeid": "towada-893ce8",
+      "shopid": "towada-893ce8-paypay"
     },
     {
-      "name": "2. 2ヘアサロン"
+      "name": "2. 2ヘアサロン",
+      "storeid": "towada-fb34f0",
+      "shopid": "towada-fb34f0-paypay"
     },
     {
-      "name": "セブンカラーズビタミン"
+      "name": "セブンカラーズビタミン",
+      "storeid": "towada-b3662a",
+      "shopid": "towada-b3662a-paypay"
     },
     {
-      "name": "Palm"
+      "name": "Palm",
+      "storeid": "towada-5ff710",
+      "shopid": "towada-5ff710-paypay"
     },
     {
-      "name": "Kiyo’ｓhair"
+      "name": "Kiyo’ｓhair",
+      "storeid": "towada-eed17b",
+      "shopid": "towada-eed17b-paypay"
     },
     {
-      "name": "アプリシエイト"
+      "name": "アプリシエイト",
+      "storeid": "towada-4e8aec",
+      "shopid": "towada-4e8aec-paypay"
     },
     {
-      "name": "ett"
+      "name": "ett",
+      "storeid": "towada-afd809",
+      "shopid": "towada-afd809-paypay"
     },
     {
-      "name": "ヘアーサロンチェカット"
+      "name": "ヘアーサロンチェカット",
+      "storeid": "towada-d9095e",
+      "shopid": "towada-d9095e-paypay"
     },
     {
-      "name": "シェルクレール"
+      "name": "シェルクレール",
+      "storeid": "towada-7933a2",
+      "shopid": "towada-7933a2-paypay"
     },
     {
-      "name": "チャルム"
+      "name": "チャルム",
+      "storeid": "towada-31e4a3",
+      "shopid": "towada-31e4a3-paypay"
     },
     {
-      "name": "BETTY"
+      "name": "BETTY",
+      "storeid": "towada-1ad908",
+      "shopid": "towada-1ad908-paypay"
     },
     {
-      "name": "和風ヘアギャラリーラクザン"
+      "name": "和風ヘアギャラリーラクザン",
+      "storeid": "towada-45dbc3",
+      "shopid": "towada-45dbc3-paypay"
     },
     {
-      "name": "Agu hair phase"
+      "name": "Agu hair phase",
+      "storeid": "towada-2808f6",
+      "shopid": "towada-2808f6-paypay"
     },
     {
-      "name": "Vidaway（トレカコーナー）TSUTAYA"
+      "name": "Vidaway（トレカコーナー）TSUTAYA",
+      "storeid": "towada-3da7de",
+      "shopid": "towada-3da7de-paypay"
     },
     {
-      "name": "モーリーファンタジーよくばりパス"
+      "name": "モーリーファンタジーよくばりパス",
+      "storeid": "towada-8ee8f6",
+      "shopid": "towada-8ee8f6-paypay"
     },
     {
-      "name": "about"
+      "name": "about",
+      "storeid": "towada-46b393",
+      "shopid": "towada-46b393-paypay"
     },
     {
-      "name": "十和田ゴルフプラザ"
+      "name": "十和田ゴルフプラザ",
+      "storeid": "towada-10cbc5",
+      "shopid": "towada-10cbc5-paypay"
     },
     {
-      "name": "松本茶舗"
+      "name": "松本茶舗",
+      "storeid": "towada-97ccd4",
+      "shopid": "towada-97ccd4-paypay"
     },
     {
-      "name": "三八五観光"
+      "name": "三八五観光",
+      "storeid": "towada-ee5cad",
+      "shopid": "towada-ee5cad-paypay"
     },
     {
-      "name": "チヨダ東京靴流通センター"
+      "name": "チヨダ東京靴流通センター",
+      "storeid": "towada-3bddfe",
+      "shopid": "towada-3bddfe-paypay"
     },
     {
-      "name": "ABC-MART"
+      "name": "ABC-MART",
+      "storeid": "towada-dd5ccf",
+      "shopid": "towada-dd5ccf-paypay"
     },
     {
-      "name": "鳥曇"
+      "name": "鳥曇",
+      "storeid": "towada-759e58",
+      "shopid": "towada-759e58-paypay"
     },
     {
-      "name": "rope"
+      "name": "rope",
+      "storeid": "towada-379e86",
+      "shopid": "towada-379e86-paypay"
     },
     {
-      "name": "かまもと"
+      "name": "かまもと",
+      "storeid": "towada-c199c8",
+      "shopid": "towada-c199c8-paypay"
     },
     {
-      "name": "田清第一店舗"
+      "name": "田清第一店舗",
+      "storeid": "towada-a3ae79",
+      "shopid": "towada-a3ae79-paypay"
     },
     {
-      "name": "ichi leather factory"
+      "name": "ichi leather factory",
+      "storeid": "towada-a4ac72",
+      "shopid": "towada-a4ac72-paypay"
     },
     {
-      "name": "弐萬圓堂"
+      "name": "弐萬圓堂",
+      "storeid": "towada-625310",
+      "shopid": "towada-625310-paypay"
     },
     {
-      "name": "さらん・さらん"
+      "name": "さらん・さらん",
+      "storeid": "towada-10b48c",
+      "shopid": "towada-10b48c-paypay"
     },
     {
-      "name": "大巻時計本店"
+      "name": "大巻時計本店",
+      "storeid": "towada-6bdbd8",
+      "shopid": "towada-6bdbd8-paypay"
     },
     {
-      "name": "ワークショップホーセン"
+      "name": "ワークショップホーセン",
+      "storeid": "towada-4b772d",
+      "shopid": "towada-4b772d-paypay"
     },
     {
-      "name": "ヤマダ東店"
+      "name": "ヤマダ東店",
+      "storeid": "towada-49b621",
+      "shopid": "towada-49b621-paypay"
     },
     {
-      "name": "江渡呉服店"
+      "name": "江渡呉服店",
+      "storeid": "towada-c42ab4",
+      "shopid": "towada-c42ab4-paypay"
     },
     {
-      "name": "ブティックポージィ"
+      "name": "ブティックポージィ",
+      "storeid": "towada-88ca64",
+      "shopid": "towada-88ca64-paypay"
     },
     {
-      "name": "ゆきの木"
+      "name": "ゆきの木",
+      "storeid": "towada-af820a",
+      "shopid": "towada-af820a-paypay"
     },
     {
-      "name": "empress-195"
+      "name": "empress-195",
+      "storeid": "towada-6bba4f",
+      "shopid": "towada-6bba4f-paypay"
     },
     {
-      "name": "白鳥時計店"
+      "name": "白鳥時計店",
+      "storeid": "towada-7699ee",
+      "shopid": "towada-7699ee-paypay"
     },
     {
-      "name": "メガネのタカハシ"
+      "name": "メガネのタカハシ",
+      "storeid": "towada-2d77c4",
+      "shopid": "towada-2d77c4-paypay"
     },
     {
-      "name": "コナカ"
+      "name": "コナカ",
+      "storeid": "towada-8f8d72",
+      "shopid": "towada-8f8d72-paypay"
     },
     {
-      "name": "ぶなの森かだぁ～れ"
+      "name": "ぶなの森かだぁ～れ",
+      "storeid": "towada-c5a844",
+      "shopid": "towada-c5a844-paypay"
     },
     {
-      "name": "lili"
+      "name": "lili",
+      "storeid": "towada-777bbb",
+      "shopid": "towada-777bbb-paypay"
     },
     {
-      "name": "エクセルワールド"
+      "name": "エクセルワールド",
+      "storeid": "towada-2049c3",
+      "shopid": "towada-2049c3-paypay"
     },
     {
-      "name": "TAILORナカワタリ"
+      "name": "TAILORナカワタリ",
+      "storeid": "towada-0d8e2e",
+      "shopid": "towada-0d8e2e-paypay"
     },
     {
-      "name": "サランサラン"
+      "name": "サランサラン",
+      "storeid": "towada-8eadd7",
+      "shopid": "towada-8eadd7-paypay"
     },
     {
-      "name": "mimi lapine"
+      "name": "mimi lapine",
+      "storeid": "towada-596412",
+      "shopid": "towada-596412-paypay"
     },
     {
-      "name": "ダイソー"
+      "name": "ダイソー",
+      "storeid": "towada-9088f8",
+      "shopid": "towada-9088f8-paypay"
     },
     {
-      "name": "道の駅とわだ"
+      "name": "道の駅とわだ",
+      "storeid": "towada-176ed9",
+      "shopid": "towada-176ed9-paypay"
     },
     {
-      "name": "四季彩館"
+      "name": "四季彩館",
+      "storeid": "towada-2ec5cb",
+      "shopid": "towada-2ec5cb-paypay"
     },
     {
-      "name": "ファーマーズ・マーケットかだぁ～れ"
+      "name": "ファーマーズ・マーケットかだぁ～れ",
+      "storeid": "towada-d8b7a0",
+      "shopid": "towada-d8b7a0-paypay"
     },
     {
-      "name": "セリア"
+      "name": "セリア",
+      "storeid": "towada-d745be",
+      "shopid": "towada-d745be-paypay"
     },
     {
-      "name": "ユニクロ"
+      "name": "ユニクロ",
+      "storeid": "towada-8a2448",
+      "shopid": "towada-8a2448-paypay"
     },
     {
-      "name": "シャトレーゼ"
+      "name": "シャトレーゼ",
+      "storeid": "towada-1a5567",
+      "shopid": "towada-1a5567-paypay"
     },
     {
-      "name": "しまむら"
+      "name": "しまむら",
+      "storeid": "towada-e04c62",
+      "shopid": "towada-e04c62-paypay"
     },
     {
-      "name": "ニトリ"
+      "name": "ニトリ",
+      "storeid": "towada-8daf03",
+      "shopid": "towada-8daf03-paypay"
     },
     {
-      "name": "やまや"
+      "name": "やまや",
+      "storeid": "towada-b2ee26",
+      "shopid": "towada-b2ee26-paypay"
     },
     {
-      "name": "JRバス子ノ口"
+      "name": "JRバス子ノ口",
+      "storeid": "towada-dd7991",
+      "shopid": "towada-dd7991-paypay"
     },
     {
-      "name": "アベイル"
+      "name": "アベイル",
+      "storeid": "towada-8274e4",
+      "shopid": "towada-8274e4-paypay"
     },
     {
-      "name": "シャンブル"
+      "name": "シャンブル",
+      "storeid": "towada-57a18d",
+      "shopid": "towada-57a18d-paypay"
     },
     {
-      "name": "西松屋"
+      "name": "西松屋",
+      "storeid": "towada-fac701",
+      "shopid": "towada-fac701-paypay"
     },
     {
-      "name": "バースデイ"
+      "name": "バースデイ",
+      "storeid": "towada-1326af",
+      "shopid": "towada-1326af-paypay"
     },
     {
-      "name": "大竹菓子舗"
+      "name": "大竹菓子舗",
+      "storeid": "towada-ec6cd9",
+      "shopid": "towada-ec6cd9-paypay"
     },
     {
-      "name": "田子屋商店"
+      "name": "田子屋商店",
+      "storeid": "towada-0a7456",
+      "shopid": "towada-0a7456-paypay"
     },
     {
-      "name": "ゴージャス先生"
+      "name": "ゴージャス先生",
+      "storeid": "towada-4460d3",
+      "shopid": "towada-4460d3-paypay"
     },
     {
-      "name": "ハニーズ"
+      "name": "ハニーズ",
+      "storeid": "towada-3e05ca",
+      "shopid": "towada-3e05ca-paypay"
     },
     {
-      "name": "ラグノオささき"
+      "name": "ラグノオささき",
+      "storeid": "towada-7e6a7a",
+      "shopid": "towada-7e6a7a-paypay"
     },
     {
-      "name": "からあげ屋さん"
+      "name": "からあげ屋さん",
+      "storeid": "towada-a895aa",
+      "shopid": "towada-a895aa-paypay"
     },
     {
-      "name": "ASBeefam"
+      "name": "ASBeefam",
+      "storeid": "towada-a7c450",
+      "shopid": "towada-a7c450-paypay"
     },
     {
-      "name": "ラム善"
+      "name": "ラム善",
+      "storeid": "towada-90eaca",
+      "shopid": "towada-90eaca-paypay"
     },
     {
-      "name": "マックハウス"
+      "name": "マックハウス",
+      "storeid": "towada-949fb5",
+      "shopid": "towada-949fb5-paypay"
     },
     {
-      "name": "鈴木釣具店"
+      "name": "鈴木釣具店",
+      "storeid": "towada-3271a0",
+      "shopid": "towada-3271a0-paypay"
     },
     {
-      "name": "手芸の店やねに"
+      "name": "手芸の店やねに",
+      "storeid": "towada-f66a4e",
+      "shopid": "towada-f66a4e-paypay"
     },
     {
-      "name": "眼鏡市場"
+      "name": "眼鏡市場",
+      "storeid": "towada-1c5a57",
+      "shopid": "towada-1c5a57-paypay"
     },
     {
-      "name": "だいちゃん本舗"
+      "name": "だいちゃん本舗",
+      "storeid": "towada-442dd2",
+      "shopid": "towada-442dd2-paypay"
     },
     {
-      "name": "田島生花店"
+      "name": "田島生花店",
+      "storeid": "towada-786b2a",
+      "shopid": "towada-786b2a-paypay"
     },
     {
-      "name": "洋服の青山"
+      "name": "洋服の青山",
+      "storeid": "towada-7234f3",
+      "shopid": "towada-7234f3-paypay"
     },
     {
-      "name": "メガネスーパー"
+      "name": "メガネスーパー",
+      "storeid": "towada-d2ce42",
+      "shopid": "towada-d2ce42-paypay"
     },
     {
-      "name": "青森ダイハツモータース"
+      "name": "青森ダイハツモータース",
+      "storeid": "towada-1aea9b",
+      "shopid": "towada-1aea9b-paypay"
     },
     {
-      "name": "タイヤ館"
+      "name": "タイヤ館",
+      "storeid": "towada-86efed",
+      "shopid": "towada-86efed-paypay"
     },
     {
-      "name": "吉金商店"
+      "name": "吉金商店",
+      "storeid": "towada-a82cfe",
+      "shopid": "towada-a82cfe-paypay"
     },
     {
-      "name": "Hondacars"
+      "name": "Hondacars",
+      "storeid": "towada-415d71",
+      "shopid": "towada-415d71-paypay"
     },
     {
-      "name": "リサイクルショップきものや"
+      "name": "リサイクルショップきものや",
+      "storeid": "towada-84bf6f",
+      "shopid": "towada-84bf6f-paypay"
     },
     {
-      "name": "快眠ギフトショップみぞぐち"
+      "name": "快眠ギフトショップみぞぐち",
+      "storeid": "towada-632908",
+      "shopid": "towada-632908-paypay"
     },
     {
-      "name": "エコカーショップ"
+      "name": "エコカーショップ",
+      "storeid": "towada-74089d",
+      "shopid": "towada-74089d-paypay"
     },
     {
-      "name": "天然はちみつカメル"
+      "name": "天然はちみつカメル",
+      "storeid": "towada-363437",
+      "shopid": "towada-363437-paypay"
     },
     {
-      "name": "カフェ　ミルマウンテン"
+      "name": "カフェ　ミルマウンテン",
+      "storeid": "towada-a7eb7d",
+      "shopid": "towada-a7eb7d-paypay"
     },
     {
-      "name": "大学前コンタクトレンズ"
+      "name": "大学前コンタクトレンズ",
+      "storeid": "towada-30abe2",
+      "shopid": "towada-30abe2-paypay"
     },
     {
-      "name": "アナハイム"
+      "name": "アナハイム",
+      "storeid": "towada-0bbb44",
+      "shopid": "towada-0bbb44-paypay"
     },
     {
-      "name": "肉のぶん"
+      "name": "肉のぶん",
+      "storeid": "towada-420065",
+      "shopid": "towada-420065-paypay"
     },
     {
-      "name": "ジョイスポーツ"
+      "name": "ジョイスポーツ",
+      "storeid": "towada-9dc452",
+      "shopid": "towada-9dc452-paypay"
     },
     {
-      "name": "ゲーム倉庫"
+      "name": "ゲーム倉庫",
+      "storeid": "towada-54c4c6",
+      "shopid": "towada-54c4c6-paypay"
     },
     {
-      "name": "ナナオ家具百貨店"
+      "name": "ナナオ家具百貨店",
+      "storeid": "towada-74170f",
+      "shopid": "towada-74170f-paypay"
     },
     {
-      "name": "サンコー弁当"
+      "name": "サンコー弁当",
+      "storeid": "towada-961c0c",
+      "shopid": "towada-961c0c-paypay"
     },
     {
-      "name": "新田青果"
+      "name": "新田青果",
+      "storeid": "towada-b682f3",
+      "shopid": "towada-b682f3-paypay"
     },
     {
-      "name": "ダイアナメロディー"
+      "name": "ダイアナメロディー",
+      "storeid": "towada-680e34",
+      "shopid": "towada-680e34-paypay"
     },
     {
-      "name": "天空堂"
+      "name": "天空堂",
+      "storeid": "towada-fa239c",
+      "shopid": "towada-fa239c-paypay"
     },
     {
-      "name": "花キューピット"
+      "name": "花キューピット",
+      "storeid": "towada-9f6764",
+      "shopid": "towada-9f6764-paypay"
     },
     {
-      "name": "未来屋書店"
+      "name": "未来屋書店",
+      "storeid": "towada-99de29",
+      "shopid": "towada-99de29-paypay"
     },
     {
-      "name": "みやび商店"
+      "name": "みやび商店",
+      "storeid": "towada-88cf6a",
+      "shopid": "towada-88cf6a-paypay"
     },
     {
-      "name": "テイクR"
+      "name": "テイクR",
+      "storeid": "towada-631d58",
+      "shopid": "towada-631d58-paypay"
     },
     {
-      "name": "すき家"
+      "name": "すき家",
+      "storeid": "towada-762f52",
+      "shopid": "towada-762f52-paypay"
     },
     {
-      "name": "はま寿司"
+      "name": "はま寿司",
+      "storeid": "towada-f9e5ab",
+      "shopid": "towada-f9e5ab-paypay"
     },
     {
-      "name": "かっぱ寿司"
+      "name": "かっぱ寿司",
+      "storeid": "towada-53652d",
+      "shopid": "towada-53652d-paypay"
     },
     {
-      "name": "カルラまるまつ"
+      "name": "カルラまるまつ",
+      "storeid": "towada-04b275",
+      "shopid": "towada-04b275-paypay"
     },
     {
-      "name": "すばけ亭"
+      "name": "すばけ亭",
+      "storeid": "towada-920668",
+      "shopid": "towada-920668-paypay"
     },
     {
-      "name": "農園カフェ日々木"
+      "name": "農園カフェ日々木",
+      "storeid": "towada-545a0b",
+      "shopid": "towada-545a0b-paypay"
     },
     {
-      "name": "麺食処あんじん亭"
+      "name": "麺食処あんじん亭",
+      "storeid": "towada-09b11c",
+      "shopid": "towada-09b11c-paypay"
     },
     {
-      "name": "牛角"
+      "name": "牛角",
+      "storeid": "towada-14acab",
+      "shopid": "towada-14acab-paypay"
     },
     {
-      "name": "モンテローザ魚民"
+      "name": "モンテローザ魚民",
+      "storeid": "towada-048c5d",
+      "shopid": "towada-048c5d-paypay"
     },
     {
-      "name": "レストランエスカルゴ"
+      "name": "レストランエスカルゴ",
+      "storeid": "towada-d903d9",
+      "shopid": "towada-d903d9-paypay"
     },
     {
-      "name": "ガーデンキッチン垂穂"
+      "name": "ガーデンキッチン垂穂",
+      "storeid": "towada-57b040",
+      "shopid": "towada-57b040-paypay"
     },
     {
-      "name": "居酒屋はせ川"
+      "name": "居酒屋はせ川",
+      "storeid": "towada-1072fd",
+      "shopid": "towada-1072fd-paypay"
     },
     {
-      "name": "兒玉"
+      "name": "兒玉",
+      "storeid": "towada-ec3779",
+      "shopid": "towada-ec3779-paypay"
     },
     {
-      "name": "銀とら"
+      "name": "銀とら",
+      "storeid": "towada-740de2",
+      "shopid": "towada-740de2-paypay"
     },
     {
-      "name": "ふく屋"
+      "name": "ふく屋",
+      "storeid": "towada-dda22d",
+      "shopid": "towada-dda22d-paypay"
     },
     {
-      "name": "居酒屋　旬"
+      "name": "居酒屋　旬",
+      "storeid": "towada-5e0387",
+      "shopid": "towada-5e0387-paypay"
     },
     {
-      "name": "焼肉居酒屋ひびき庵"
+      "name": "焼肉居酒屋ひびき庵",
+      "storeid": "towada-9a24ca",
+      "shopid": "towada-9a24ca-paypay"
     },
     {
-      "name": "BAR　K’ｓ"
+      "name": "BAR　K’ｓ",
+      "storeid": "towada-c8b97d",
+      "shopid": "towada-c8b97d-paypay"
     },
     {
-      "name": "焼肉ホルモン　はなまる"
+      "name": "焼肉ホルモン　はなまる",
+      "storeid": "towada-6f998a",
+      "shopid": "towada-6f998a-paypay"
     },
     {
-      "name": "シャモしげ"
+      "name": "シャモしげ",
+      "storeid": "towada-df8d00",
+      "shopid": "towada-df8d00-paypay"
     },
     {
-      "name": "海鮮ワイン酒場イビザ"
+      "name": "海鮮ワイン酒場イビザ",
+      "storeid": "towada-817315",
+      "shopid": "towada-817315-paypay"
     },
     {
-      "name": "居酒屋　だぶりゅー"
+      "name": "居酒屋　だぶりゅー",
+      "storeid": "towada-9dfb27",
+      "shopid": "towada-9dfb27-paypay"
     },
     {
-      "name": "鮨　多しま"
+      "name": "鮨　多しま",
+      "storeid": "towada-9a6e6d",
+      "shopid": "towada-9a6e6d-paypay"
     },
     {
-      "name": "渓流の駅おいらせ"
+      "name": "渓流の駅おいらせ",
+      "storeid": "towada-3433d9",
+      "shopid": "towada-3433d9-paypay"
     },
     {
-      "name": "焼肉冷麺ひびき"
+      "name": "焼肉冷麺ひびき",
+      "storeid": "towada-e4d4de",
+      "shopid": "towada-e4d4de-paypay"
     },
     {
-      "name": "お菓子工房　ふくろーる"
+      "name": "お菓子工房　ふくろーる",
+      "storeid": "towada-01f5cb",
+      "shopid": "towada-01f5cb-paypay"
     },
     {
-      "name": "十和田はつ花　蕎麦＆ワイン居酒屋"
+      "name": "十和田はつ花　蕎麦＆ワイン居酒屋",
+      "storeid": "towada-91e490",
+      "shopid": "towada-91e490-paypay"
     },
     {
-      "name": "お土産とお食事の店もりた"
+      "name": "お土産とお食事の店もりた",
+      "storeid": "towada-941cd8",
+      "shopid": "towada-941cd8-paypay"
     },
     {
-      "name": "Café HappyTREE"
+      "name": "Café HappyTREE",
+      "storeid": "towada-488835",
+      "shopid": "towada-488835-paypay"
     },
     {
-      "name": "みちのく園"
+      "name": "みちのく園",
+      "storeid": "towada-663616",
+      "shopid": "towada-663616-paypay"
     },
     {
-      "name": "十和田市観光物産センター"
+      "name": "十和田市観光物産センター",
+      "storeid": "towada-4384c6",
+      "shopid": "towada-4384c6-paypay"
     },
     {
-      "name": "Patisserie Lieu"
+      "name": "Patisserie Lieu",
+      "storeid": "towada-0ee38b",
+      "shopid": "towada-0ee38b-paypay"
     },
     {
-      "name": "24ｈ無人ホルモン直売所"
+      "name": "24ｈ無人ホルモン直売所",
+      "storeid": "towada-903301",
+      "shopid": "towada-903301-paypay"
     },
     {
-      "name": "あら、りんご。青森ファクトリーショップ"
+      "name": "あら、りんご。青森ファクトリーショップ",
+      "storeid": "towada-eca311",
+      "shopid": "towada-eca311-paypay"
     },
     {
-      "name": "十和田スズキ自販"
+      "name": "十和田スズキ自販",
+      "storeid": "towada-b9e8cd",
+      "shopid": "towada-b9e8cd-paypay"
     },
     {
-      "name": "アトムリユースファクトリーお宝探偵団"
+      "name": "アトムリユースファクトリーお宝探偵団",
+      "storeid": "towada-10be1f",
+      "shopid": "towada-10be1f-paypay"
     },
     {
-      "name": "(有)ササキオート"
+      "name": "(有)ササキオート",
+      "storeid": "towada-1e2e2b",
+      "shopid": "towada-1e2e2b-paypay"
     },
     {
-      "name": "株式会社フジモーターズ"
+      "name": "株式会社フジモーターズ",
+      "storeid": "towada-2223b4",
+      "shopid": "towada-2223b4-paypay"
     },
     {
-      "name": "リサイクルショップキャプテン"
+      "name": "リサイクルショップキャプテン",
+      "storeid": "towada-90294e",
+      "shopid": "towada-90294e-paypay"
     },
     {
-      "name": "ナチュラルハーモニーハウス"
+      "name": "ナチュラルハーモニーハウス",
+      "storeid": "towada-2f358b",
+      "shopid": "towada-2f358b-paypay"
     },
     {
-      "name": "ヴィレッジヴァンガード"
+      "name": "ヴィレッジヴァンガード",
+      "storeid": "towada-80bc5b",
+      "shopid": "towada-80bc5b-paypay"
     },
     {
-      "name": "ご当地グルメセレクション青森"
+      "name": "ご当地グルメセレクション青森",
+      "storeid": "towada-88aaa7",
+      "shopid": "towada-88aaa7-paypay"
     }
   ],
   "ガソリンスタンド": [
     {
-      "name": "JA-SS三本松給油所"
+      "name": "JA-SS三本松給油所",
+      "storeid": "towada-05f54a",
+      "shopid": "towada-05f54a-paypay"
     },
     {
-      "name": "JA-SS藤坂給油所"
+      "name": "JA-SS藤坂給油所",
+      "storeid": "towada-483f6d",
+      "shopid": "towada-483f6d-paypay"
     },
     {
-      "name": "JA-SS八郷給油所"
+      "name": "JA-SS八郷給油所",
+      "storeid": "towada-d4066d",
+      "shopid": "towada-d4066d-paypay"
     },
     {
-      "name": "JA-SS十和田子湖給油所"
+      "name": "JA-SS十和田子湖給油所",
+      "storeid": "towada-df50d0",
+      "shopid": "towada-df50d0-paypay"
     },
     {
-      "name": "JA-SS大深内給油所"
+      "name": "JA-SS大深内給油所",
+      "storeid": "towada-c4a9b9",
+      "shopid": "towada-c4a9b9-paypay"
     },
     {
-      "name": "apollostationセルフ切田通りSS"
+      "name": "apollostationセルフ切田通りSS",
+      "storeid": "towada-e41e20",
+      "shopid": "towada-e41e20-paypay"
     },
     {
-      "name": "焼山給油所"
+      "name": "焼山給油所",
+      "storeid": "towada-5ea587",
+      "shopid": "towada-5ea587-paypay"
     },
     {
-      "name": "三本木燃料"
+      "name": "三本木燃料",
+      "storeid": "towada-1ba252",
+      "shopid": "towada-1ba252-paypay"
     }
   ],
   "スーパーマーケット": [
     {
-      "name": "ユニバースパワーズU"
+      "name": "ユニバースパワーズU",
+      "storeid": "towada-e6fcf2",
+      "shopid": "towada-e6fcf2-paypay"
     },
     {
-      "name": "ユニバース"
+      "name": "ユニバース",
+      "storeid": "towada-0ee8e1",
+      "shopid": "towada-0ee8e1-paypay"
     },
     {
-      "name": "マエダストア"
+      "name": "マエダストア",
+      "storeid": "towada-f414b3",
+      "shopid": "towada-f414b3-paypay"
     },
     {
-      "name": "スーパーシティアサヒ"
+      "name": "スーパーシティアサヒ",
+      "storeid": "towada-e250d8",
+      "shopid": "towada-e250d8-paypay"
     },
     {
-      "name": "スーパーカケモ"
+      "name": "スーパーカケモ",
+      "storeid": "towada-0d3cee",
+      "shopid": "towada-0d3cee-paypay"
     },
     {
-      "name": "小田桐産業十和田馬肉屋"
+      "name": "小田桐産業十和田馬肉屋",
+      "storeid": "towada-66f014",
+      "shopid": "towada-66f014-paypay"
     },
     {
-      "name": "達人の一品"
+      "name": "達人の一品",
+      "storeid": "towada-c08cf1",
+      "shopid": "towada-c08cf1-paypay"
     },
     {
-      "name": "スーパードラッグアサヒ"
+      "name": "スーパードラッグアサヒ",
+      "storeid": "towada-2784ea",
+      "shopid": "towada-2784ea-paypay"
     }
   ],
   "ドラッグストア・薬局": [
     {
-      "name": "ウエルシア"
+      "name": "ウエルシア",
+      "storeid": "towada-c1e567",
+      "shopid": "towada-c1e567-paypay"
     },
     {
-      "name": "薬王堂"
+      "name": "薬王堂",
+      "storeid": "towada-53d912",
+      "shopid": "towada-53d912-paypay"
     },
     {
-      "name": "サンドラッググループサンドラッグ"
+      "name": "サンドラッググループサンドラッグ",
+      "storeid": "towada-a1ae1a",
+      "shopid": "towada-a1ae1a-paypay"
     },
     {
-      "name": "ツルハホールディングスツルハ"
+      "name": "ツルハホールディングスツルハ",
+      "storeid": "towada-bd97d0",
+      "shopid": "towada-bd97d0-paypay"
     },
     {
-      "name": "ウエルシア"
+      "name": "ひまわり調剤薬局",
+      "storeid": "towada-8ea4a7",
+      "shopid": "towada-8ea4a7-paypay"
     },
     {
-      "name": "ひまわり調剤薬局"
+      "name": "サワカミ薬局",
+      "storeid": "towada-30f46e",
+      "shopid": "towada-30f46e-paypay"
     },
     {
-      "name": "サワカミ薬局"
+      "name": "なの花薬局",
+      "storeid": "towada-b3e0b7",
+      "shopid": "towada-b3e0b7-paypay"
     },
     {
-      "name": "なの花薬局"
+      "name": "ほなみ薬局",
+      "storeid": "towada-ebe2b1",
+      "shopid": "towada-ebe2b1-paypay"
     },
     {
-      "name": "ほなみ薬局"
+      "name": "ライブリーとわだ調剤薬局",
+      "storeid": "towada-b33e6c",
+      "shopid": "towada-b33e6c-paypay"
     },
     {
-      "name": "ライブリーとわだ調剤薬局"
+      "name": "落合薬局",
+      "storeid": "towada-2d8309",
+      "shopid": "towada-2d8309-paypay"
     },
     {
-      "name": "落合薬局"
+      "name": "吉田薬局",
+      "storeid": "towada-d73c5e",
+      "shopid": "towada-d73c5e-paypay"
     },
     {
-      "name": "吉田薬局"
+      "name": "あおぞら薬局",
+      "storeid": "towada-62cbf1",
+      "shopid": "towada-62cbf1-paypay"
     },
     {
-      "name": "あおぞら薬局"
+      "name": "ロクイチマル企画",
+      "storeid": "towada-d9be58",
+      "shopid": "towada-d9be58-paypay"
     },
     {
-      "name": "ロクイチマル企画"
+      "name": "ほなみメディカル",
+      "storeid": "towada-dad99b",
+      "shopid": "towada-dad99b-paypay"
     },
     {
-      "name": "ほなみメディカル"
+      "name": "竹内調剤薬局",
+      "storeid": "towada-e2317f",
+      "shopid": "towada-e2317f-paypay"
     },
     {
-      "name": "竹内調剤薬局"
+      "name": "桐生薬局",
+      "storeid": "towada-515b1a",
+      "shopid": "towada-515b1a-paypay"
     },
     {
-      "name": "桐生薬局"
+      "name": "山本薬局",
+      "storeid": "towada-95da7d",
+      "shopid": "towada-95da7d-paypay"
     },
     {
-      "name": "山本薬局"
+      "name": "くすりと健康の天空堂",
+      "storeid": "towada-180092",
+      "shopid": "towada-180092-paypay"
     },
     {
-      "name": "くすりと健康の天空堂"
+      "name": "三本木薬局",
+      "storeid": "towada-d58aea",
+      "shopid": "towada-d58aea-paypay"
     },
     {
-      "name": "三本木薬局"
+      "name": "コスメハウス　イフ",
+      "storeid": "towada-2a58c5",
+      "shopid": "towada-2a58c5-paypay"
     },
     {
-      "name": "コスメハウス　イフ"
+      "name": "海麗堂",
+      "storeid": "towada-ea6ece",
+      "shopid": "towada-ea6ece-paypay"
     },
     {
-      "name": "海麗堂"
-    },
-    {
-      "name": "C&E青森　十和田サロン"
+      "name": "C&E青森　十和田サロン",
+      "storeid": "towada-170da6",
+      "shopid": "towada-170da6-paypay"
     }
   ],
   "ホームセンター・ショッピングセンター": [
     {
-      "name": "コメリPW"
+      "name": "コメリPW",
+      "storeid": "towada-b2130e",
+      "shopid": "towada-b2130e-paypay"
     },
     {
-      "name": "コメリH＆G"
+      "name": "コメリH＆G",
+      "storeid": "towada-dabd29",
+      "shopid": "towada-dabd29-paypay"
     },
     {
-      "name": "DCM"
+      "name": "DCM",
+      "storeid": "towada-818da0",
+      "shopid": "towada-818da0-paypay"
     }
   ],
   "家電": [
     {
-      "name": "ケーズデンキ"
+      "name": "ケーズデンキ",
+      "storeid": "towada-08150c",
+      "shopid": "towada-08150c-paypay"
     },
     {
-      "name": "ヤマダデンキ"
+      "name": "ヤマダデンキ",
+      "storeid": "towada-cb5e6f",
+      "shopid": "towada-cb5e6f-paypay"
     },
     {
-      "name": "ソフトバンク"
+      "name": "ソフトバンク",
+      "storeid": "towada-ff613c",
+      "shopid": "towada-ff613c-paypay"
     },
     {
-      "name": "暮らしのクラフトゆずりは"
+      "name": "暮らしのクラフトゆずりは",
+      "storeid": "towada-6a82e2",
+      "shopid": "towada-6a82e2-paypay"
     },
     {
-      "name": "松本茶舗"
+      "name": "松本茶舗",
+      "storeid": "towada-97ccd4",
+      "shopid": "towada-97ccd4-paypay"
     },
     {
-      "name": "パナデン　ワタナベ電器"
+      "name": "パナデン　ワタナベ電器",
+      "storeid": "towada-334ab2",
+      "shopid": "towada-334ab2-paypay"
     },
     {
-      "name": "パナデン　芋田電気"
+      "name": "パナデン　芋田電気",
+      "storeid": "towada-155dc9",
+      "shopid": "towada-155dc9-paypay"
     },
     {
-      "name": "(株)青森ミシン商会"
+      "name": "(株)青森ミシン商会",
+      "storeid": "towada-ef1964",
+      "shopid": "towada-ef1964-paypay"
     }
   ],
   "酒屋・リカーショップ": [
     {
-      "name": "酒のステップ"
+      "name": "酒のステップ",
+      "storeid": "towada-5b8d42",
+      "shopid": "towada-5b8d42-paypay"
     },
     {
-      "name": "有限会社遠田酒店"
+      "name": "有限会社遠田酒店",
+      "storeid": "towada-e2e49e",
+      "shopid": "towada-e2e49e-paypay"
     },
     {
-      "name": "遠田酒店えん屋"
+      "name": "遠田酒店えん屋",
+      "storeid": "towada-f33cad",
+      "shopid": "towada-f33cad-paypay"
     },
     {
-      "name": "松服葡萄酒の店"
+      "name": "松服葡萄酒の店",
+      "storeid": "towada-fbbe66",
+      "shopid": "towada-fbbe66-paypay"
     },
     {
-      "name": "上山酒店"
+      "name": "上山酒店",
+      "storeid": "towada-52dfc6",
+      "shopid": "towada-52dfc6-paypay"
     },
     {
-      "name": "酒のステップイベント用"
+      "name": "酒のステップイベント用",
+      "storeid": "towada-8ff295",
+      "shopid": "towada-8ff295-paypay"
     }
   ]
 }

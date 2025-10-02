@@ -1,349 +1,567 @@
 {
   "飲食店": [
     {
-      "name": "登竜"
+      "name": "登竜",
+      "storeid": "sakura-1e7a56",
+      "shopid": "sakura-1e7a56-paypay"
     },
     {
-      "name": "志生亭"
+      "name": "志生亭",
+      "storeid": "sakura-7c5b26",
+      "shopid": "sakura-7c5b26-paypay"
     },
     {
-      "name": "うちだ"
+      "name": "うちだ",
+      "storeid": "sakura-e123e3",
+      "shopid": "sakura-e123e3-paypay"
     },
     {
-      "name": "紙屋"
+      "name": "紙屋",
+      "storeid": "sakura-7510c3",
+      "shopid": "sakura-7510c3-paypay"
     },
     {
-      "name": "味ろく"
+      "name": "味ろく",
+      "storeid": "sakura-418fc7",
+      "shopid": "sakura-418fc7-paypay"
     },
     {
-      "name": "三元閣"
+      "name": "三元閣",
+      "storeid": "sakura-5e2b28",
+      "shopid": "sakura-5e2b28-paypay"
     },
     {
-      "name": "京月"
+      "name": "京月",
+      "storeid": "sakura-f7f179",
+      "shopid": "sakura-f7f179-paypay"
     },
     {
-      "name": "高林堂"
+      "name": "高林堂",
+      "storeid": "sakura-e0764d",
+      "shopid": "sakura-e0764d-paypay"
     },
     {
-      "name": "kagetsudo"
+      "name": "kagetsudo",
+      "storeid": "sakura-6ae650",
+      "shopid": "sakura-6ae650-paypay"
     },
     {
-      "name": "勝山"
+      "name": "勝山",
+      "storeid": "sakura-173f20",
+      "shopid": "sakura-173f20-paypay"
     },
     {
-      "name": "フェニックス"
+      "name": "フェニックス",
+      "storeid": "sakura-eb19b5",
+      "shopid": "sakura-eb19b5-paypay"
     },
     {
-      "name": "すず欄"
+      "name": "すず欄",
+      "storeid": "sakura-684138",
+      "shopid": "sakura-684138-paypay"
     },
     {
-      "name": "桔梗"
+      "name": "桔梗",
+      "storeid": "sakura-2ee743",
+      "shopid": "sakura-2ee743-paypay"
     },
     {
-      "name": "久万皇"
+      "name": "久万皇",
+      "storeid": "sakura-a2070d",
+      "shopid": "sakura-a2070d-paypay"
     },
     {
-      "name": "すし貞"
+      "name": "すし貞",
+      "storeid": "sakura-e63d75",
+      "shopid": "sakura-e63d75-paypay"
     },
     {
-      "name": "吉見や"
+      "name": "吉見や",
+      "storeid": "sakura-e988af",
+      "shopid": "sakura-e988af-paypay"
     }
   ],
   "スーパーマーケット": [
     {
-      "name": "ちょこれーと此の花や"
+      "name": "ちょこれーと此の花や",
+      "storeid": "sakura-5ec0af",
+      "shopid": "sakura-5ec0af-paypay"
     }
   ],
   "ドラッグストア": [
     {
-      "name": "ViVi"
+      "name": "ViVi",
+      "storeid": "sakura-a93430",
+      "shopid": "sakura-a93430-paypay"
     },
     {
-      "name": "よしみや"
+      "name": "よしみや",
+      "storeid": "sakura-a18e34",
+      "shopid": "sakura-a18e34-paypay"
     }
   ],
   "ショッピング": [
     {
-      "name": "さんき"
+      "name": "さんき",
+      "storeid": "sakura-48ad27",
+      "shopid": "sakura-48ad27-paypay"
     },
     {
-      "name": "シャトレーゼ"
+      "name": "シャトレーゼ",
+      "storeid": "sakura-1a5567",
+      "shopid": "sakura-1a5567-paypay"
     },
     {
-      "name": "ビックミート"
+      "name": "ビックミート",
+      "storeid": "sakura-a64c07",
+      "shopid": "sakura-a64c07-paypay"
     },
     {
-      "name": "TSUTAYA"
+      "name": "TSUTAYA",
+      "storeid": "sakura-35bf2f",
+      "shopid": "sakura-35bf2f-paypay"
     },
     {
-      "name": "みやまる"
+      "name": "みやまる",
+      "storeid": "sakura-88ebfa",
+      "shopid": "sakura-88ebfa-paypay"
     },
     {
-      "name": "菜っ葉館"
+      "name": "菜っ葉館",
+      "storeid": "sakura-9a6bb3",
+      "shopid": "sakura-9a6bb3-paypay"
     },
     {
-      "name": "温泉ぱん"
+      "name": "温泉ぱん",
+      "storeid": "sakura-18cb61",
+      "shopid": "sakura-18cb61-paypay"
     },
     {
-      "name": "新那須エッグ"
+      "name": "新那須エッグ",
+      "storeid": "sakura-84d726",
+      "shopid": "sakura-84d726-paypay"
     },
     {
-      "name": "魚又水産"
+      "name": "魚又水産",
+      "storeid": "sakura-4a4651",
+      "shopid": "sakura-4a4651-paypay"
     },
     {
-      "name": "きらぼし"
+      "name": "きらぼし",
+      "storeid": "sakura-1ab6e7",
+      "shopid": "sakura-1ab6e7-paypay"
     },
     {
-      "name": "滝澤酒店"
+      "name": "滝澤酒店",
+      "storeid": "sakura-a6e625",
+      "shopid": "sakura-a6e625-paypay"
     },
     {
-      "name": "山口果樹園"
+      "name": "山口果樹園",
+      "storeid": "sakura-6a6f1a",
+      "shopid": "sakura-6a6f1a-paypay"
     },
     {
-      "name": "キタグチスポーツ"
+      "name": "キタグチスポーツ",
+      "storeid": "sakura-99635d",
+      "shopid": "sakura-99635d-paypay"
     },
     {
-      "name": "見目商店"
+      "name": "見目商店",
+      "storeid": "sakura-08e549",
+      "shopid": "sakura-08e549-paypay"
     },
     {
-      "name": "cica"
+      "name": "cica",
+      "storeid": "sakura-b9abdd",
+      "shopid": "sakura-b9abdd-paypay"
     },
     {
-      "name": "カトウコンタクト"
+      "name": "カトウコンタクト",
+      "storeid": "sakura-8b67df",
+      "shopid": "sakura-8b67df-paypay"
     },
     {
-      "name": "荒川養殖漁業"
+      "name": "荒川養殖漁業",
+      "storeid": "sakura-bcfe6c",
+      "shopid": "sakura-bcfe6c-paypay"
     },
     {
-      "name": "吉沢生花店"
+      "name": "吉沢生花店",
+      "storeid": "sakura-bb5df2",
+      "shopid": "sakura-bb5df2-paypay"
     },
     {
-      "name": "flowershop KIMURA"
+      "name": "flowershop KIMURA",
+      "storeid": "sakura-f7a746",
+      "shopid": "sakura-f7a746-paypay"
     },
     {
-      "name": "まんまとちぎ"
+      "name": "まんまとちぎ",
+      "storeid": "sakura-a5fdda",
+      "shopid": "sakura-a5fdda-paypay"
     },
     {
-      "name": "ひかりコンタクト"
+      "name": "ひかりコンタクト",
+      "storeid": "sakura-ffc48a",
+      "shopid": "sakura-ffc48a-paypay"
     },
     {
-      "name": "和光メガネ"
+      "name": "和光メガネ",
+      "storeid": "sakura-d05cb6",
+      "shopid": "sakura-d05cb6-paypay"
     },
     {
-      "name": "マツザキヤ"
+      "name": "マツザキヤ",
+      "storeid": "sakura-41bcc1",
+      "shopid": "sakura-41bcc1-paypay"
     },
     {
-      "name": "山田自動車商会"
+      "name": "山田自動車商会",
+      "storeid": "sakura-893972",
+      "shopid": "sakura-893972-paypay"
     },
     {
-      "name": "アトリエジュリアローズ"
+      "name": "アトリエジュリアローズ",
+      "storeid": "sakura-09fb04",
+      "shopid": "sakura-09fb04-paypay"
     },
     {
-      "name": "カシワヤ"
+      "name": "カシワヤ",
+      "storeid": "sakura-243bfb",
+      "shopid": "sakura-243bfb-paypay"
     },
     {
-      "name": "礒商会"
+      "name": "礒商会",
+      "storeid": "sakura-a43a0a",
+      "shopid": "sakura-a43a0a-paypay"
     },
     {
-      "name": "センカンド・カーズ"
+      "name": "センカンド・カーズ",
+      "storeid": "sakura-d2077d",
+      "shopid": "sakura-d2077d-paypay"
     },
     {
-      "name": "木下モータース"
+      "name": "木下モータース",
+      "storeid": "sakura-af9bb4",
+      "shopid": "sakura-af9bb4-paypay"
     },
     {
-      "name": "ビックミート山久"
+      "name": "ビックミート山久",
+      "storeid": "sakura-68ac4b",
+      "shopid": "sakura-68ac4b-paypay"
     },
     {
-      "name": "小竹いちご園"
+      "name": "小竹いちご園",
+      "storeid": "sakura-9f9222",
+      "shopid": "sakura-9f9222-paypay"
     },
     {
-      "name": "氏家オート"
+      "name": "氏家オート",
+      "storeid": "sakura-782b10",
+      "shopid": "sakura-782b10-paypay"
     },
     {
-      "name": "結び"
+      "name": "結び",
+      "storeid": "sakura-9d66fd",
+      "shopid": "sakura-9d66fd-paypay"
     },
     {
-      "name": "花寿"
+      "name": "花寿",
+      "storeid": "sakura-f4d3cf",
+      "shopid": "sakura-f4d3cf-paypay"
     },
     {
-      "name": "SAKURAfarm"
+      "name": "SAKURAfarm",
+      "storeid": "sakura-cf5508",
+      "shopid": "sakura-cf5508-paypay"
     },
     {
-      "name": "KURANEKOYA"
+      "name": "KURANEKOYA",
+      "storeid": "sakura-ef4a79",
+      "shopid": "sakura-ef4a79-paypay"
     },
     {
-      "name": "Hisai"
+      "name": "Hisai",
+      "storeid": "sakura-a07d20",
+      "shopid": "sakura-a07d20-paypay"
     },
     {
-      "name": "ムラカミスポーツ"
+      "name": "ムラカミスポーツ",
+      "storeid": "sakura-27af6a",
+      "shopid": "sakura-27af6a-paypay"
     },
     {
-      "name": "富岡屋"
+      "name": "富岡屋",
+      "storeid": "sakura-29ab20",
+      "shopid": "sakura-29ab20-paypay"
     }
   ],
   "百貨店・ショッピングセンター": [
     {
-      "name": "農家の店みのり"
+      "name": "農家の店みのり",
+      "storeid": "sakura-8c2724",
+      "shopid": "sakura-8c2724-paypay"
     },
     {
-      "name": "ノザワヤ"
+      "name": "ノザワヤ",
+      "storeid": "sakura-045808",
+      "shopid": "sakura-045808-paypay"
     }
   ],
   "酒屋・リカーショップ": [
     {
-      "name": "リカーアンドフーズささぬま"
+      "name": "リカーアンドフーズささぬま",
+      "storeid": "sakura-d14f34",
+      "shopid": "sakura-d14f34-paypay"
     },
     {
-      "name": "恵比寿屋酒店"
+      "name": "恵比寿屋酒店",
+      "storeid": "sakura-999f8e",
+      "shopid": "sakura-999f8e-paypay"
     },
     {
-      "name": "天星酒店"
+      "name": "天星酒店",
+      "storeid": "sakura-c37891",
+      "shopid": "sakura-c37891-paypay"
     }
   ],
   "その他": [
     {
-      "name": "道の駅きつれがわ"
+      "name": "道の駅きつれがわ",
+      "storeid": "sakura-c07c66",
+      "shopid": "sakura-c07c66-paypay"
     },
     {
-      "name": "BOOKOFF"
+      "name": "BOOKOFF",
+      "storeid": "sakura-316cf9",
+      "shopid": "sakura-316cf9-paypay"
     },
     {
-      "name": "カラオケBanBan"
+      "name": "カラオケBanBan",
+      "storeid": "sakura-b3471c",
+      "shopid": "sakura-b3471c-paypay"
     },
     {
-      "name": "もっかい堂"
+      "name": "もっかい堂",
+      "storeid": "sakura-880254",
+      "shopid": "sakura-880254-paypay"
     },
     {
-      "name": "まねきねこ"
+      "name": "まねきねこ",
+      "storeid": "sakura-d1a78b",
+      "shopid": "sakura-d1a78b-paypay"
     },
     {
-      "name": "フレンズ動物病院"
+      "name": "フレンズ動物病院",
+      "storeid": "sakura-d8171a",
+      "shopid": "sakura-d8171a-paypay"
     },
     {
-      "name": "車検のコバック"
+      "name": "車検のコバック",
+      "storeid": "sakura-e9a96b",
+      "shopid": "sakura-e9a96b-paypay"
     },
     {
-      "name": "上野屋商店"
+      "name": "上野屋商店",
+      "storeid": "sakura-5861c2",
+      "shopid": "sakura-5861c2-paypay"
     },
     {
-      "name": "ボディリセット"
+      "name": "ボディリセット",
+      "storeid": "sakura-ef1440",
+      "shopid": "sakura-ef1440-paypay"
     },
     {
-      "name": "SUBARU栃木スバル自動車"
+      "name": "SUBARU栃木スバル自動車",
+      "storeid": "sakura-64ff8e",
+      "shopid": "sakura-64ff8e-paypay"
     },
     {
-      "name": "AT guitars"
+      "name": "AT guitars",
+      "storeid": "sakura-c7a143",
+      "shopid": "sakura-c7a143-paypay"
     },
     {
-      "name": "美容室アジュダ"
+      "name": "美容室アジュダ",
+      "storeid": "sakura-82bb26",
+      "shopid": "sakura-82bb26-paypay"
     },
     {
-      "name": "さくらのカイロプラクティック"
+      "name": "さくらのカイロプラクティック",
+      "storeid": "sakura-d02809",
+      "shopid": "sakura-d02809-paypay"
     },
     {
-      "name": "studio declic"
+      "name": "studio declic",
+      "storeid": "sakura-694fc6",
+      "shopid": "sakura-694fc6-paypay"
     },
     {
-      "name": "整体院ヒカリノキュウジツ"
+      "name": "整体院ヒカリノキュウジツ",
+      "storeid": "sakura-b4b22d",
+      "shopid": "sakura-b4b22d-paypay"
     },
     {
-      "name": "村野事務所"
+      "name": "村野事務所",
+      "storeid": "sakura-8fede0",
+      "shopid": "sakura-8fede0-paypay"
     },
     {
-      "name": "ファンクリック"
+      "name": "ファンクリック",
+      "storeid": "sakura-6c8edd",
+      "shopid": "sakura-6c8edd-paypay"
     },
     {
-      "name": "きまぐれもみタイ"
+      "name": "きまぐれもみタイ",
+      "storeid": "sakura-9159fb",
+      "shopid": "sakura-9159fb-paypay"
     },
     {
-      "name": "吉永自動車板金塗装"
+      "name": "吉永自動車板金塗装",
+      "storeid": "sakura-789ba2",
+      "shopid": "sakura-789ba2-paypay"
     },
     {
-      "name": "タイヤガーデン小林"
+      "name": "タイヤガーデン小林",
+      "storeid": "sakura-f3606d",
+      "shopid": "sakura-f3606d-paypay"
     },
     {
-      "name": "hinano"
+      "name": "hinano",
+      "storeid": "sakura-1842b5",
+      "shopid": "sakura-1842b5-paypay"
     },
     {
-      "name": "石川自動車"
+      "name": "石川自動車",
+      "storeid": "sakura-7f6aa1",
+      "shopid": "sakura-7f6aa1-paypay"
     },
     {
-      "name": "さくら日和動物病院"
+      "name": "さくら日和動物病院",
+      "storeid": "sakura-0133d3",
+      "shopid": "sakura-0133d3-paypay"
     },
     {
-      "name": "吉沢モータース"
+      "name": "吉沢モータース",
+      "storeid": "sakura-fa833a",
+      "shopid": "sakura-fa833a-paypay"
     },
     {
-      "name": "ガラスアート工房Assemble"
+      "name": "ガラスアート工房Assemble",
+      "storeid": "sakura-99534c",
+      "shopid": "sakura-99534c-paypay"
     },
     {
-      "name": "津浦自動車整備工場"
+      "name": "津浦自動車整備工場",
+      "storeid": "sakura-85b798",
+      "shopid": "sakura-85b798-paypay"
     }
   ],
   "ガソリンスタンド": [
     {
-      "name": "ビータイム・ウジイエ　ENEOS氏家西SS"
+      "name": "ビータイム・ウジイエ　ENEOS氏家西SS",
+      "storeid": "sakura-e42c65",
+      "shopid": "sakura-e42c65-paypay"
     },
     {
-      "name": "ENEOS　喜連川SS"
+      "name": "ENEOS　喜連川SS",
+      "storeid": "sakura-ca13eb",
+      "shopid": "sakura-ca13eb-paypay"
     },
     {
-      "name": "矢沢油店"
+      "name": "矢沢油店",
+      "storeid": "sakura-2f52ec",
+      "shopid": "sakura-2f52ec-paypay"
     },
     {
-      "name": "エネオス喜連川"
+      "name": "エネオス喜連川",
+      "storeid": "sakura-e628ed",
+      "shopid": "sakura-e628ed-paypay"
     }
   ],
   "ホテル・旅館": [
     {
-      "name": "もとゆ温泉"
+      "name": "もとゆ温泉",
+      "storeid": "sakura-9f35d3",
+      "shopid": "sakura-9f35d3-paypay"
     },
     {
-      "name": "太陽の丘"
+      "name": "太陽の丘",
+      "storeid": "sakura-326489",
+      "shopid": "sakura-326489-paypay"
     },
     {
-      "name": "ホテル清水荘"
+      "name": "ホテル清水荘",
+      "storeid": "sakura-138bd2",
+      "shopid": "sakura-138bd2-paypay"
     },
     {
-      "name": "ホテルサンヒル"
+      "name": "ホテルサンヒル",
+      "storeid": "sakura-788661",
+      "shopid": "sakura-788661-paypay"
     },
     {
-      "name": "喜連川早乙女温泉"
+      "name": "喜連川早乙女温泉",
+      "storeid": "sakura-e274b9",
+      "shopid": "sakura-e274b9-paypay"
     },
     {
-      "name": "民宿樽分"
+      "name": "民宿樽分",
+      "storeid": "sakura-9fcee0",
+      "shopid": "sakura-9fcee0-paypay"
     }
   ],
   "美容室": [
     {
-      "name": "Yoshiつね"
+      "name": "Yoshiつね",
+      "storeid": "sakura-8f2d73",
+      "shopid": "sakura-8f2d73-paypay"
     },
     {
-      "name": "BeautySalon Y&Y"
+      "name": "BeautySalon Y&Y",
+      "storeid": "sakura-0fef06",
+      "shopid": "sakura-0fef06-paypay"
     },
     {
-      "name": "HAIRCREATIONmare"
+      "name": "HAIRCREATIONmare",
+      "storeid": "sakura-542380",
+      "shopid": "sakura-542380-paypay"
     },
     {
-      "name": "hair design Room"
+      "name": "hair design Room",
+      "storeid": "sakura-a0d491",
+      "shopid": "sakura-a0d491-paypay"
     },
     {
-      "name": "HAIR STUDIO Re:miX"
+      "name": "HAIR STUDIO Re:miX",
+      "storeid": "sakura-d3fb65",
+      "shopid": "sakura-d3fb65-paypay"
     },
     {
-      "name": "Perisakurano"
+      "name": "Perisakurano",
+      "storeid": "sakura-3d4128",
+      "shopid": "sakura-3d4128-paypay"
     },
     {
-      "name": "DOUX"
+      "name": "DOUX",
+      "storeid": "sakura-54585a",
+      "shopid": "sakura-54585a-paypay"
     },
     {
-      "name": "rico hair design"
+      "name": "rico hair design",
+      "storeid": "sakura-d82cd7",
+      "shopid": "sakura-d82cd7-paypay"
     },
     {
-      "name": "BLUES"
+      "name": "BLUES",
+      "storeid": "sakura-3838af",
+      "shopid": "sakura-3838af-paypay"
     },
     {
-      "name": "カットハウススタイル"
+      "name": "カットハウススタイル",
+      "storeid": "sakura-139265",
+      "shopid": "sakura-139265-paypay"
     }
   ]
 }

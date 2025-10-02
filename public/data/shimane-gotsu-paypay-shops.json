@@ -2,737 +2,1099 @@
   "その他小売": [
     {
       "name": "テックランド　江津店",
-      "address": "都野津町2277-13"
+      "address": "都野津町2277-13",
+      "storeid": "gotsu-a89623",
+      "shopid": "gotsu-a89623-paypay"
     },
     {
       "name": "エディオン江津店",
-      "address": "和木町524"
+      "address": "和木町524",
+      "storeid": "gotsu-b9284c",
+      "shopid": "gotsu-b9284c-paypay"
     },
     {
       "name": "エディオン昭和電器",
-      "address": "都野津町2283-7"
+      "address": "都野津町2283-7",
+      "storeid": "gotsu-908ac7",
+      "shopid": "gotsu-908ac7-paypay"
     },
     {
       "name": "ダイレックス江津店",
-      "address": "二宮町神主ハ187-2"
+      "address": "二宮町神主ハ187-2",
+      "storeid": "gotsu-cb1bbd",
+      "shopid": "gotsu-cb1bbd-paypay"
     },
     {
       "name": "H＆G江津店",
-      "address": "敬川町1264-1"
+      "address": "敬川町1264-1",
+      "storeid": "gotsu-613111",
+      "shopid": "gotsu-613111-paypay"
     },
     {
       "name": "ABC―MARTゆめタウン江津店",
-      "address": "嘉久志町2306-30ゆめタウン江津2F"
+      "address": "嘉久志町2306-30ゆめタウン江津2F",
+      "storeid": "gotsu-0872ed",
+      "shopid": "gotsu-0872ed-paypay"
     },
     {
       "name": "TOKUTOKUYA　江津店",
-      "address": "嘉久志町2306-30ゆめタウン江津2階"
+      "address": "嘉久志町2306-30ゆめタウン江津2階",
+      "storeid": "gotsu-12fd4d",
+      "shopid": "gotsu-12fd4d-paypay"
     },
     {
       "name": "ウエーブゆめタウン江津店",
-      "address": "嘉久志町2306-30ゆめタウン江津1階"
+      "address": "嘉久志町2306-30ゆめタウン江津1階",
+      "storeid": "gotsu-a786e6",
+      "shopid": "gotsu-a786e6-paypay"
     },
     {
       "name": "ゆめタウン江津　きもの処あおき",
-      "address": "嘉久志町2306-30ゆめタウン江津2階"
+      "address": "嘉久志町2306-30ゆめタウン江津2階",
+      "storeid": "gotsu-3d5d2f",
+      "shopid": "gotsu-3d5d2f-paypay"
     },
     {
       "name": "ゆめタウン江津　グランサックス",
-      "address": "嘉久志町2306-30ゆめタウン江津2階"
+      "address": "嘉久志町2306-30ゆめタウン江津2階",
+      "storeid": "gotsu-adb6ae",
+      "shopid": "gotsu-adb6ae-paypay"
     },
     {
       "name": "ゆめタウン江津　ビューティショップ可夢",
-      "address": "嘉久志町2306-30ゆめタウン江津1階"
+      "address": "嘉久志町2306-30ゆめタウン江津1階",
+      "storeid": "gotsu-3ed1f4",
+      "shopid": "gotsu-3ed1f4-paypay"
     },
     {
       "name": "ゆめタウン江津　ブティック　ティアラ",
-      "address": "嘉久志町2306-30ゆめタウン江津2階"
+      "address": "嘉久志町2306-30ゆめタウン江津2階",
+      "storeid": "gotsu-c7610c",
+      "shopid": "gotsu-c7610c-paypay"
     },
     {
       "name": "ゆめタウン江津　フロレゾン",
-      "address": "嘉久志町2306-30ゆめタウン江津1階"
+      "address": "嘉久志町2306-30ゆめタウン江津1階",
+      "storeid": "gotsu-53b61a",
+      "shopid": "gotsu-53b61a-paypay"
     },
     {
       "name": "ゆめタウン江津　眼鏡市場",
-      "address": "嘉久志町2306-30ゆめタウン江津1階"
+      "address": "嘉久志町2306-30ゆめタウン江津1階",
+      "storeid": "gotsu-817718",
+      "shopid": "gotsu-817718-paypay"
     },
     {
       "name": "ゆめタウン江津　文具の店いずみ",
-      "address": "嘉久志町2306-30ゆめタウン江津2階"
+      "address": "嘉久志町2306-30ゆめタウン江津2階",
+      "storeid": "gotsu-26b1ab",
+      "shopid": "gotsu-26b1ab-paypay"
     },
     {
       "name": "有限会社深野時計店 フカノ",
-      "address": "嘉久志町2308-3"
+      "address": "嘉久志町2308-3",
+      "storeid": "gotsu-2a22cc",
+      "shopid": "gotsu-2a22cc-paypay"
     },
     {
       "name": "6194　パリミキ　江津店",
-      "address": "嘉久志町2325"
+      "address": "嘉久志町2325",
+      "storeid": "gotsu-65aab8",
+      "shopid": "gotsu-65aab8-paypay"
     },
     {
       "name": "山陰製畳有限会社",
-      "address": "嘉久志町イ1703"
+      "address": "嘉久志町イ1703",
+      "storeid": "gotsu-0b0862",
+      "shopid": "gotsu-0b0862-paypay"
     },
     {
       "name": "元重製陶所",
-      "address": "嘉久志町イ1762"
+      "address": "嘉久志町イ1762",
+      "storeid": "gotsu-6b7c4c",
+      "shopid": "gotsu-6b7c4c-paypay"
     },
     {
       "name": "花shopふくもと江津店",
-      "address": "嘉久志町イ1820-34"
+      "address": "嘉久志町イ1820-34",
+      "storeid": "gotsu-a75cc5",
+      "shopid": "gotsu-a75cc5-paypay"
     },
     {
       "name": "江津市地場産業振興センター",
-      "address": "嘉久志町イ405"
+      "address": "嘉久志町イ405",
+      "storeid": "gotsu-7898b4",
+      "shopid": "gotsu-7898b4-paypay"
     },
     {
       "name": "サカエ",
-      "address": "敬川町1191-5"
+      "address": "敬川町1191-5",
+      "storeid": "gotsu-b189da",
+      "shopid": "gotsu-b189da-paypay"
     },
     {
       "name": "リビオナカタ　中田家具店",
-      "address": "敬川町2185-1"
+      "address": "敬川町2185-1",
+      "storeid": "gotsu-0f7a5b",
+      "shopid": "gotsu-0f7a5b-paypay"
     },
     {
       "name": "ブロードファクトリー",
-      "address": "敬川町2472-8"
+      "address": "敬川町2472-8",
+      "storeid": "gotsu-55fbf3",
+      "shopid": "gotsu-55fbf3-paypay"
     },
     {
       "name": "Cars　Dream",
-      "address": "敬川町973-9"
+      "address": "敬川町973-9",
+      "storeid": "gotsu-24aba7",
+      "shopid": "gotsu-24aba7-paypay"
     },
     {
       "name": "NAOFARM",
-      "address": "後地町2376-1"
+      "address": "後地町2376-1",
+      "storeid": "gotsu-76b784",
+      "shopid": "gotsu-76b784-paypay"
     },
     {
       "name": "THE　HANGAR",
-      "address": "後地町3133-16"
+      "address": "後地町3133-16",
+      "storeid": "gotsu-aa86ab",
+      "shopid": "gotsu-aa86ab-paypay"
     },
     {
       "name": "神楽の里　舞乃市",
-      "address": "後地町3348-113"
+      "address": "後地町3348-113",
+      "storeid": "gotsu-706638",
+      "shopid": "gotsu-706638-paypay"
     },
     {
       "name": "アルソアサロン　みつい江津店",
-      "address": "江津町953-1"
+      "address": "江津町953-1",
+      "storeid": "gotsu-d2d485",
+      "shopid": "gotsu-d2d485-paypay"
     },
     {
       "name": "有限会社木曽時計店",
-      "address": "江津町954-3"
+      "address": "江津町954-3",
+      "storeid": "gotsu-a4b1b9",
+      "shopid": "gotsu-a4b1b9-paypay"
     },
     {
       "name": "きもの処あおき",
-      "address": "江津町969-6"
+      "address": "江津町969-6",
+      "storeid": "gotsu-451100",
+      "shopid": "gotsu-451100-paypay"
     },
     {
       "name": "羊毛フェルト＆ハンドメイドきるけ",
-      "address": "千田町325-3"
+      "address": "千田町325-3",
+      "storeid": "gotsu-b58941",
+      "shopid": "gotsu-b58941-paypay"
     },
     {
       "name": "いちごや",
-      "address": "千田町504"
+      "address": "千田町504",
+      "storeid": "gotsu-699e7f",
+      "shopid": "gotsu-699e7f-paypay"
     },
     {
       "name": "アクアショップ縁",
-      "address": "渡津町1058-1"
+      "address": "渡津町1058-1",
+      "storeid": "gotsu-6f48e1",
+      "shopid": "gotsu-6f48e1-paypay"
     },
     {
       "name": "釣り具のにしたに",
-      "address": "渡津町268-3"
+      "address": "渡津町268-3",
+      "storeid": "gotsu-997e05",
+      "shopid": "gotsu-997e05-paypay"
     },
     {
       "name": "飯田呉服",
-      "address": "都野津町1842"
+      "address": "都野津町1842",
+      "storeid": "gotsu-62c411",
+      "shopid": "gotsu-62c411-paypay"
     },
     {
       "name": "南原ホンダ",
-      "address": "都野津町2253-52"
+      "address": "都野津町2253-52",
+      "storeid": "gotsu-0d3db2",
+      "shopid": "gotsu-0d3db2-paypay"
     },
     {
       "name": "メガネの佐々木",
-      "address": "都野津町2279-22"
+      "address": "都野津町2279-22",
+      "storeid": "gotsu-98cfe6",
+      "shopid": "gotsu-98cfe6-paypay"
     },
     {
       "name": "ペットサロントーイパスティー",
-      "address": "都野津町2349-12"
+      "address": "都野津町2349-12",
+      "storeid": "gotsu-33778f",
+      "shopid": "gotsu-33778f-paypay"
     },
     {
       "name": "カーライフサポート",
-      "address": "都野津町2363-17"
+      "address": "都野津町2363-17",
+      "storeid": "gotsu-9f3410",
+      "shopid": "gotsu-9f3410-paypay"
     },
     {
       "name": "岩地電器",
-      "address": "都野津町2366-33"
+      "address": "都野津町2366-33",
+      "storeid": "gotsu-d815d4",
+      "shopid": "gotsu-d815d4-paypay"
     },
     {
       "name": "島根ダイハツ販売江津店",
-      "address": "都野津町2373-6"
+      "address": "都野津町2373-6",
+      "storeid": "gotsu-72c824",
+      "shopid": "gotsu-72c824-paypay"
     },
     {
       "name": "スマイルピット",
-      "address": "都野津町2380-19"
+      "address": "都野津町2380-19",
+      "storeid": "gotsu-3586f8",
+      "shopid": "gotsu-3586f8-paypay"
     },
     {
       "name": "ミスタータイヤマン都野津店",
-      "address": "二宮町神主1993-32"
+      "address": "二宮町神主1993-32",
+      "storeid": "gotsu-652f41",
+      "shopid": "gotsu-652f41-paypay"
     },
     {
       "name": "（株）ワイエム商会",
-      "address": "二宮町神主2265-5"
+      "address": "二宮町神主2265-5",
+      "storeid": "gotsu-75debe",
+      "shopid": "gotsu-75debe-paypay"
     },
     {
       "name": "フィッシングZERO",
-      "address": "二宮町神主216-8"
+      "address": "二宮町神主216-8",
+      "storeid": "gotsu-214d20",
+      "shopid": "gotsu-214d20-paypay"
     },
     {
       "name": "しまむら　江津店",
-      "address": "二宮町神主ハ89"
+      "address": "二宮町神主ハ89",
+      "storeid": "gotsu-9a293a",
+      "shopid": "gotsu-9a293a-paypay"
     },
     {
       "name": "ジュンテンドー江津店",
-      "address": "二宮町神主ハ89-1"
+      "address": "二宮町神主ハ89-1",
+      "storeid": "gotsu-7b3978",
+      "shopid": "gotsu-7b3978-paypay"
     },
     {
       "name": "ナミノコ雑貨店",
-      "address": "波子町イ987"
+      "address": "波子町イ987",
+      "storeid": "gotsu-807139",
+      "shopid": "gotsu-807139-paypay"
     },
     {
       "name": "有福商店",
-      "address": "有福温泉町480"
+      "address": "有福温泉町480",
+      "storeid": "gotsu-febbe1",
+      "shopid": "gotsu-febbe1-paypay"
     },
     {
       "name": "ウェルネス江津店",
-      "address": "和木町306-35"
+      "address": "和木町306-35",
+      "storeid": "gotsu-034a5e",
+      "shopid": "gotsu-034a5e-paypay"
     },
     {
       "name": "［HC］もりでん1",
-      "address": "和木町497-3"
+      "address": "和木町497-3",
+      "storeid": "gotsu-3a42e0",
+      "shopid": "gotsu-3a42e0-paypay"
     },
     {
       "name": "車検のコバック江津和木店",
-      "address": "和木町501-12"
+      "address": "和木町501-12",
+      "storeid": "gotsu-eddd27",
+      "shopid": "gotsu-eddd27-paypay"
     },
     {
       "name": "タイヤガーデン江津店",
-      "address": "和木町525-3"
+      "address": "和木町525-3",
+      "storeid": "gotsu-2ba481",
+      "shopid": "gotsu-2ba481-paypay"
     },
     {
       "name": "江津自動車センター",
-      "address": "和木町603-17"
+      "address": "和木町603-17",
+      "storeid": "gotsu-f1886a",
+      "shopid": "gotsu-f1886a-paypay"
     },
     {
       "name": "合同会社タイヤコミット",
-      "address": "和木町693-5"
+      "address": "和木町693-5",
+      "storeid": "gotsu-d81c16",
+      "shopid": "gotsu-d81c16-paypay"
     },
     {
       "name": "桜江町桑茶生産組合（店頭）",
-      "address": "桜江町市山507-1"
+      "address": "桜江町市山507-1",
+      "storeid": "gotsu-d21712",
+      "shopid": "gotsu-d21712-paypay"
     },
     {
       "name": "スズキプラザ江津",
-      "address": "渡津町1975-3"
+      "address": "渡津町1975-3",
+      "storeid": "gotsu-7b2e1a",
+      "shopid": "gotsu-7b2e1a-paypay"
     },
     {
       "name": "株式会社シュ－ズショップノムラ",
-      "address": "嘉久志町イ1308-2"
+      "address": "嘉久志町イ1308-2",
+      "storeid": "gotsu-29a65f",
+      "shopid": "gotsu-29a65f-paypay"
     },
     {
       "name": "しんぷう堂",
-      "address": "江津町1517-46"
+      "address": "江津町1517-46",
+      "storeid": "gotsu-13e148",
+      "shopid": "gotsu-13e148-paypay"
     }
   ],
   "ガソリンスタンド": [
     {
       "name": "コスモ石油セルフ江津",
-      "address": "渡津町495"
+      "address": "渡津町495",
+      "storeid": "gotsu-b4503a",
+      "shopid": "gotsu-b4503a-paypay"
     },
     {
       "name": "セルフ＆カーケアステーションつのづ",
-      "address": "二宮町神主ハ-528"
+      "address": "二宮町神主ハ-528",
+      "storeid": "gotsu-4c03f2",
+      "shopid": "gotsu-4c03f2-paypay"
     },
     {
       "name": "apollostation ハラセルフ江津SS",
-      "address": "敬川町2963-2"
+      "address": "敬川町2963-2",
+      "storeid": "gotsu-17b174",
+      "shopid": "gotsu-17b174-paypay"
     },
     {
       "name": "apollostation セルフ桜江SS",
-      "address": "桜江町谷住郷2611-1"
+      "address": "桜江町谷住郷2611-1",
+      "storeid": "gotsu-93c55f",
+      "shopid": "gotsu-93c55f-paypay"
     },
     {
       "name": "apollostation 江津SS",
-      "address": "嘉久志町イ1245-1"
+      "address": "嘉久志町イ1245-1",
+      "storeid": "gotsu-a39ab3",
+      "shopid": "gotsu-a39ab3-paypay"
     }
   ],
   "サービス": [
     {
       "name": "モーリーファンタジー江津",
-      "address": "嘉久志町2306-30"
+      "address": "嘉久志町2306-30",
+      "storeid": "gotsu-ff2327",
+      "shopid": "gotsu-ff2327-paypay"
     },
     {
       "name": "三階旅館",
-      "address": "有福温泉町692"
+      "address": "有福温泉町692",
+      "storeid": "gotsu-3210e5",
+      "shopid": "gotsu-3210e5-paypay"
     },
     {
       "name": "ゆめタウン江津店",
-      "address": "嘉久志町2306-30"
+      "address": "嘉久志町2306-30",
+      "storeid": "gotsu-22ae1e",
+      "shopid": "gotsu-22ae1e-paypay"
     },
     {
       "name": "ブルースカイランドリー　コメリハード＆グリーン江津店",
-      "address": "敬川町1285-1"
+      "address": "敬川町1285-1",
+      "storeid": "gotsu-30e839",
+      "shopid": "gotsu-30e839-paypay"
     },
     {
       "name": "日本交通江津営業所",
-      "address": "嘉久志町1245-3"
+      "address": "嘉久志町1245-3",
+      "storeid": "gotsu-e0b7dc",
+      "shopid": "gotsu-e0b7dc-paypay"
     },
     {
       "name": "Karaoke　Garden",
-      "address": "嘉久志町2306-21"
+      "address": "嘉久志町2306-21",
+      "storeid": "gotsu-14f578",
+      "shopid": "gotsu-14f578-paypay"
     },
     {
       "name": "ゆめタウン江津　ホワイト急便",
-      "address": "嘉久志町2306-30ゆめタウン江津3階"
+      "address": "嘉久志町2306-30ゆめタウン江津3階",
+      "storeid": "gotsu-396105",
+      "shopid": "gotsu-396105-paypay"
     },
     {
       "name": "カイロサロン　シャルム",
-      "address": "嘉久志町イ1820-23"
+      "address": "嘉久志町イ1820-23",
+      "storeid": "gotsu-1a7631",
+      "shopid": "gotsu-1a7631-paypay"
     },
     {
       "name": "美容カイロすぷらうと江津敬川店",
-      "address": "敬川町2430-12"
+      "address": "敬川町2430-12",
+      "storeid": "gotsu-e1da37",
+      "shopid": "gotsu-e1da37-paypay"
     },
     {
       "name": "まごころ施術院",
-      "address": "江津町1001-2"
+      "address": "江津町1001-2",
+      "storeid": "gotsu-c42531",
+      "shopid": "gotsu-c42531-paypay"
     },
     {
       "name": "なかがわ鍼灸院",
-      "address": "江津町1517-44"
+      "address": "江津町1517-44",
+      "storeid": "gotsu-fb0c45",
+      "shopid": "gotsu-fb0c45-paypay"
     },
     {
       "name": "江津市観光協会",
-      "address": "江津町1518-1パレットごうつ"
+      "address": "江津町1518-1パレットごうつ",
+      "storeid": "gotsu-1a10b2",
+      "shopid": "gotsu-1a10b2-paypay"
     },
     {
       "name": "今井美術館",
-      "address": "桜江町川戸472-1"
+      "address": "桜江町川戸472-1",
+      "storeid": "gotsu-3d7bc0",
+      "shopid": "gotsu-3d7bc0-paypay"
     },
     {
       "name": "KAZENOKUNI",
-      "address": "桜江町長谷2696"
+      "address": "桜江町長谷2696",
+      "storeid": "gotsu-a81762",
+      "shopid": "gotsu-a81762-paypay"
     },
     {
       "name": "天療整体施術院",
-      "address": "浅利町107-1"
+      "address": "浅利町107-1",
+      "storeid": "gotsu-f30cc6",
+      "shopid": "gotsu-f30cc6-paypay"
     },
     {
       "name": "SUKIMONO　SHOP",
-      "address": "浅利町166-2"
+      "address": "浅利町166-2",
+      "storeid": "gotsu-60a082",
+      "shopid": "gotsu-60a082-paypay"
     },
     {
       "name": "永大整備工業",
-      "address": "浅利町87-5"
+      "address": "浅利町87-5",
+      "storeid": "gotsu-b40403",
+      "shopid": "gotsu-b40403-paypay"
     },
     {
       "name": "江津営業所",
-      "address": "渡津町307-1"
+      "address": "渡津町307-1",
+      "storeid": "gotsu-1809b3",
+      "shopid": "gotsu-1809b3-paypay"
     },
     {
       "name": "デントリペア島根",
-      "address": "渡津町495-1"
+      "address": "渡津町495-1",
+      "storeid": "gotsu-750e65",
+      "shopid": "gotsu-750e65-paypay"
     },
     {
       "name": "銀嶺写真館",
-      "address": "都野津町2279-73"
+      "address": "都野津町2279-73",
+      "storeid": "gotsu-593352",
+      "shopid": "gotsu-593352-paypay"
     },
     {
       "name": "dogsalon　ONCE",
-      "address": "都野津町2321-12"
+      "address": "都野津町2321-12",
+      "storeid": "gotsu-068af2",
+      "shopid": "gotsu-068af2-paypay"
     },
     {
       "name": "プライベートサロンown",
-      "address": "二宮町神主ハ134-17"
+      "address": "二宮町神主ハ134-17",
+      "storeid": "gotsu-a7914f",
+      "shopid": "gotsu-a7914f-paypay"
     },
     {
       "name": "米刻堂",
-      "address": "波子町イ1265-17"
+      "address": "波子町イ1265-17",
+      "storeid": "gotsu-0896bd",
+      "shopid": "gotsu-0896bd-paypay"
     },
     {
       "name": "宿ロイノハコ",
-      "address": "有福温泉町1123-11"
+      "address": "有福温泉町1123-11",
+      "storeid": "gotsu-d0faff",
+      "shopid": "gotsu-d0faff-paypay"
     },
     {
       "name": "株式会社　丸惣ゴルフセンター　いちご山ゴルフ練習場",
-      "address": "和木町458-1"
+      "address": "和木町458-1",
+      "storeid": "gotsu-9248b0",
+      "shopid": "gotsu-9248b0-paypay"
     },
     {
       "name": "有限会社中央",
-      "address": "和木町571-7"
+      "address": "和木町571-7",
+      "storeid": "gotsu-17ae65",
+      "shopid": "gotsu-17ae65-paypay"
     },
     {
       "name": "ホワイト急便 青山店",
-      "address": "二宮町神主89-1"
+      "address": "二宮町神主89-1",
+      "storeid": "gotsu-7ecfcb",
+      "shopid": "gotsu-7ecfcb-paypay"
     },
     {
       "name": "sammasworks",
-      "address": "桜江町市山119"
+      "address": "桜江町市山119",
+      "storeid": "gotsu-e113b9",
+      "shopid": "gotsu-e113b9-paypay"
     },
     {
       "name": "さひめランドリー 浅利店",
-      "address": "後地町2348-2"
+      "address": "後地町2348-2",
+      "storeid": "gotsu-35a709",
+      "shopid": "gotsu-35a709-paypay"
     },
     {
       "name": "モーリーファンタジー よくばりパス 江津",
-      "address": "嘉久志町2306-30 ゆめタウン2階"
+      "address": "嘉久志町2306-30 ゆめタウン2階",
+      "storeid": "gotsu-eae129",
+      "shopid": "gotsu-eae129-paypay"
     },
     {
       "name": "モーリーファンタジー メダル 江津",
-      "address": "嘉久志町2306-30 ゆめタウン2階"
+      "address": "嘉久志町2306-30 ゆめタウン2階",
+      "storeid": "gotsu-bb954a",
+      "shopid": "gotsu-bb954a-paypay"
     }
   ],
   "美容・理容": [
     {
       "name": "NOA　hair",
-      "address": "和木町508-1"
+      "address": "和木町508-1",
+      "storeid": "gotsu-fc2005",
+      "shopid": "gotsu-fc2005-paypay"
     },
     {
       "name": "メディカルエステ　リセラ　江津",
-      "address": "和木町508-1 ドクターリセラカスタマーセンタ-1F"
+      "address": "和木町508-1 ドクターリセラカスタマーセンタ-1F",
+      "storeid": "gotsu-b23a1c",
+      "shopid": "gotsu-b23a1c-paypay"
     },
     {
       "name": "ゆめタウン江津　ボブヘアー",
-      "address": "嘉久志町2306-30ゆめタウン江津3階"
+      "address": "嘉久志町2306-30ゆめタウン江津3階",
+      "storeid": "gotsu-e91f8f",
+      "shopid": "gotsu-e91f8f-paypay"
     },
     {
       "name": "Melia",
-      "address": "嘉久志町イ1638-1"
+      "address": "嘉久志町イ1638-1",
+      "storeid": "gotsu-9901ac",
+      "shopid": "gotsu-9901ac-paypay"
     },
     {
       "name": "美容室　アージュ",
-      "address": "嘉久志町イ-1681-7"
+      "address": "嘉久志町イ-1681-7",
+      "storeid": "gotsu-7201d4",
+      "shopid": "gotsu-7201d4-paypay"
     },
     {
       "name": "美容室朱い実",
-      "address": "嘉久志町イ1740-2"
+      "address": "嘉久志町イ1740-2",
+      "storeid": "gotsu-a65387",
+      "shopid": "gotsu-a65387-paypay"
     },
     {
       "name": "HAIR＆BODY　心　くくる",
-      "address": "嘉久志町イ932-1"
+      "address": "嘉久志町イ932-1",
+      "storeid": "gotsu-51dac6",
+      "shopid": "gotsu-51dac6-paypay"
     },
     {
       "name": "へあすたいる",
-      "address": "嘉久志町969-2"
+      "address": "嘉久志町969-2",
+      "storeid": "gotsu-21af96",
+      "shopid": "gotsu-21af96-paypay"
     },
     {
       "name": "ウイプラス",
-      "address": "敬川町1307-6"
+      "address": "敬川町1307-6",
+      "storeid": "gotsu-e9d02c",
+      "shopid": "gotsu-e9d02c-paypay"
     },
     {
       "name": "cocon",
-      "address": "江津町1188-21"
+      "address": "江津町1188-21",
+      "storeid": "gotsu-7acc72",
+      "shopid": "gotsu-7acc72-paypay"
     },
     {
       "name": "ヘアーサロンワハラ",
-      "address": "江津町1520-117"
+      "address": "江津町1520-117",
+      "storeid": "gotsu-da6b13",
+      "shopid": "gotsu-da6b13-paypay"
     },
     {
       "name": "Buzz　clip",
-      "address": "江津町1595-3"
+      "address": "江津町1595-3",
+      "storeid": "gotsu-ac4128",
+      "shopid": "gotsu-ac4128-paypay"
     },
     {
       "name": "Brocart",
-      "address": "桜江町川戸9-15"
+      "address": "桜江町川戸9-15",
+      "storeid": "gotsu-5ef973",
+      "shopid": "gotsu-5ef973-paypay"
     },
     {
       "name": "シンカモンりんぱ",
-      "address": "浅利町336-29"
+      "address": "浅利町336-29",
+      "storeid": "gotsu-6da6e1",
+      "shopid": "gotsu-6da6e1-paypay"
     },
     {
       "name": "リン",
-      "address": "都野津町2253-13"
+      "address": "都野津町2253-13",
+      "storeid": "gotsu-d170ab",
+      "shopid": "gotsu-d170ab-paypay"
     },
     {
       "name": "salondenico",
-      "address": "都野津町2324-26"
+      "address": "都野津町2324-26",
+      "storeid": "gotsu-a6f99e",
+      "shopid": "gotsu-a6f99e-paypay"
     },
     {
       "name": "ヘアーボックスレーヴ",
-      "address": "都野津町2326-11"
+      "address": "都野津町2326-11",
+      "storeid": "gotsu-4a03d7",
+      "shopid": "gotsu-4a03d7-paypay"
     },
     {
       "name": "ペアツリー",
-      "address": "二宮町神主ハ-216-7"
+      "address": "二宮町神主ハ-216-7",
+      "storeid": "gotsu-d0946d",
+      "shopid": "gotsu-d0946d-paypay"
     },
     {
       "name": "ALLURE",
-      "address": "二宮町神主ハ501-1"
+      "address": "二宮町神主ハ501-1",
+      "storeid": "gotsu-e69489",
+      "shopid": "gotsu-e69489-paypay"
     },
     {
       "name": "ShuKuru",
-      "address": "二宮町神主8216-15"
+      "address": "二宮町神主8216-15",
+      "storeid": "gotsu-e02c1a",
+      "shopid": "gotsu-e02c1a-paypay"
     },
     {
       "name": "菅壱織髪",
-      "address": "波子町イ767-7"
+      "address": "波子町イ767-7",
+      "storeid": "gotsu-7929ff",
+      "shopid": "gotsu-7929ff-paypay"
     },
     {
       "name": "おおきな木",
-      "address": "有福温泉町704-2"
+      "address": "有福温泉町704-2",
+      "storeid": "gotsu-81b590",
+      "shopid": "gotsu-81b590-paypay"
     },
     {
       "name": "salon　むすび",
-      "address": "和木町601-19"
+      "address": "和木町601-19",
+      "storeid": "gotsu-a40f26",
+      "shopid": "gotsu-a40f26-paypay"
     },
     {
       "name": "カットショップ はやし",
-      "address": "二宮町神主ハ74-6"
+      "address": "二宮町神主ハ74-6",
+      "storeid": "gotsu-2d0fe5",
+      "shopid": "gotsu-2d0fe5-paypay"
     },
     {
       "name": "log design plus",
-      "address": "嘉久志町イ1186-6"
+      "address": "嘉久志町イ1186-6",
+      "storeid": "gotsu-c66136",
+      "shopid": "gotsu-c66136-paypay"
     },
     {
       "name": "カットショップはやし 済生会理容室",
-      "address": "江津町1016-37"
+      "address": "江津町1016-37",
+      "storeid": "gotsu-b569c7",
+      "shopid": "gotsu-b569c7-paypay"
     },
     {
       "name": "楽土 江津店",
-      "address": "江津町46"
+      "address": "江津町46",
+      "storeid": "gotsu-004180",
+      "shopid": "gotsu-004180-paypay"
     }
   ],
   "食品小売": [
     {
       "name": "キヌヤ　江津店",
-      "address": "嘉久志町1310"
+      "address": "嘉久志町1310",
+      "storeid": "gotsu-bad2f5",
+      "shopid": "gotsu-bad2f5-paypay"
     },
     {
       "name": "ゆめタウン江津　パリクロアッサン",
-      "address": "嘉久志町2306-30ゆめタウン江津1階"
+      "address": "嘉久志町2306-30ゆめタウン江津1階",
+      "storeid": "gotsu-c8e1f7",
+      "shopid": "gotsu-c8e1f7-paypay"
     },
     {
       "name": "ゼペットコーヒーロースターズ",
-      "address": "嘉久志町イ1222-4"
+      "address": "嘉久志町イ1222-4",
+      "storeid": "gotsu-59e7b0",
+      "shopid": "gotsu-59e7b0-paypay"
     },
     {
       "name": "52　sweets　factor",
-      "address": "後地町3348-113 神楽の里舞乃市"
+      "address": "後地町3348-113 神楽の里舞乃市",
+      "storeid": "gotsu-257c4b",
+      "shopid": "gotsu-257c4b-paypay"
     },
     {
       "name": "MOG―MOG　Farm",
-      "address": "後地町712-1"
+      "address": "後地町712-1",
+      "storeid": "gotsu-3a592b",
+      "shopid": "gotsu-3a592b-paypay"
     },
     {
       "name": "桑の木本舗",
-      "address": "江津町1110-20"
+      "address": "江津町1110-20",
+      "storeid": "gotsu-f26ede",
+      "shopid": "gotsu-f26ede-paypay"
     },
     {
       "name": "南山酒店",
-      "address": "江津町1155-18"
+      "address": "江津町1155-18",
+      "storeid": "gotsu-382d4d",
+      "shopid": "gotsu-382d4d-paypay"
     },
     {
       "name": "酒の山尾",
-      "address": "江津町847-1"
+      "address": "江津町847-1",
+      "storeid": "gotsu-a48d28",
+      "shopid": "gotsu-a48d28-paypay"
     },
     {
       "name": "吉岡醤油有限会社",
-      "address": "桜江町川戸13-7"
+      "address": "桜江町川戸13-7",
+      "storeid": "gotsu-90726e",
+      "shopid": "gotsu-90726e-paypay"
     },
     {
       "name": "猪加工販売センター榎木の郷",
-      "address": "桜江町大貫57-1"
+      "address": "桜江町大貫57-1",
+      "storeid": "gotsu-55377e",
+      "shopid": "gotsu-55377e-paypay"
     },
     {
       "name": "石見麦酒",
-      "address": "波子町イ844-6"
+      "address": "波子町イ844-6",
+      "storeid": "gotsu-944e9e",
+      "shopid": "gotsu-944e9e-paypay"
     },
     {
       "name": "Natural　Shop　陽樹",
-      "address": "浅利町248-4"
+      "address": "浅利町248-4",
+      "storeid": "gotsu-4edccf",
+      "shopid": "gotsu-4edccf-paypay"
     },
     {
       "name": "キヌヤ　渡津店",
-      "address": "渡津町444-1"
+      "address": "渡津町444-1",
+      "storeid": "gotsu-0698cf",
+      "shopid": "gotsu-0698cf-paypay"
     },
     {
       "name": "菓子処みなと",
-      "address": "都野津町2014-1"
+      "address": "都野津町2014-1",
+      "storeid": "gotsu-ce7aca",
+      "shopid": "gotsu-ce7aca-paypay"
     },
     {
       "name": "希樹",
-      "address": "都野津町2069"
+      "address": "都野津町2069",
+      "storeid": "gotsu-76101f",
+      "shopid": "gotsu-76101f-paypay"
     },
     {
       "name": "株式会社永島青果",
-      "address": "都野津町2307-18"
+      "address": "都野津町2307-18",
+      "storeid": "gotsu-675b6a",
+      "shopid": "gotsu-675b6a-paypay"
     },
     {
       "name": "ouchiのごはん",
-      "address": "二宮町神主ハ134-16"
+      "address": "二宮町神主ハ134-16",
+      "storeid": "gotsu-842479",
+      "shopid": "gotsu-842479-paypay"
     },
     {
       "name": "ラ・グラン・モンテ",
-      "address": "二宮町神主216-10"
+      "address": "二宮町神主216-10",
+      "storeid": "gotsu-e41882",
+      "shopid": "gotsu-e41882-paypay"
     },
     {
       "name": "キヌヤ　二宮店",
-      "address": "二宮町神主ハ89-1"
+      "address": "二宮町神主ハ89-1",
+      "storeid": "gotsu-f2be24",
+      "shopid": "gotsu-f2be24-paypay"
     },
     {
       "name": "酒ゴリラ　江津店",
-      "address": "都野津町2372-2"
+      "address": "都野津町2372-2",
+      "storeid": "gotsu-32fd49",
+      "shopid": "gotsu-32fd49-paypay"
     }
   ],
   "飲食店": [
     {
       "name": "インド料理RASOI　江津ゆめタウン店",
-      "address": "嘉久志町2306-30"
+      "address": "嘉久志町2306-30",
+      "storeid": "gotsu-1d7083",
+      "shopid": "gotsu-1d7083-paypay"
     },
     {
       "name": "モスバーガー　ゆめタウン江津店",
-      "address": "嘉久志町2306-30ゆめタウン江津1階"
+      "address": "嘉久志町2306-30ゆめタウン江津1階",
+      "storeid": "gotsu-ca4361",
+      "shopid": "gotsu-ca4361-paypay"
     },
     {
       "name": "ゆめタウン江津　茶珈瑠",
-      "address": "嘉久志町2306-30ゆめタウン江津1階"
+      "address": "嘉久志町2306-30ゆめタウン江津1階",
+      "storeid": "gotsu-cbc0f0",
+      "shopid": "gotsu-cbc0f0-paypay"
     },
     {
       "name": "NOPE",
-      "address": "嘉久志町イ1242-2山装ビル1F"
+      "address": "嘉久志町イ1242-2山装ビル1F",
+      "storeid": "gotsu-af3d6c",
+      "shopid": "gotsu-af3d6c-paypay"
     },
     {
       "name": "うえ乃寿司",
-      "address": "嘉久志町イ2426-132"
+      "address": "嘉久志町イ2426-132",
+      "storeid": "gotsu-b57cb7",
+      "shopid": "gotsu-b57cb7-paypay"
     },
     {
       "name": "cafe　　桜co．．",
-      "address": "嘉久志町イ405地場産センター内"
+      "address": "嘉久志町イ405地場産センター内",
+      "storeid": "gotsu-afd9f5",
+      "shopid": "gotsu-afd9f5-paypay"
     },
     {
       "name": "chu―ka　chu―bou　梵天",
-      "address": "嘉久志町イ681-2"
+      "address": "嘉久志町イ681-2",
+      "storeid": "gotsu-130639",
+      "shopid": "gotsu-130639-paypay"
     },
     {
       "name": "寺CafeSARA",
-      "address": "敬川町1754"
+      "address": "敬川町1754",
+      "storeid": "gotsu-2a836b",
+      "shopid": "gotsu-2a836b-paypay"
     },
     {
       "name": "なぎの木Cafe",
-      "address": "後地町3348-113"
+      "address": "後地町3348-113",
+      "storeid": "gotsu-ccc639",
+      "shopid": "gotsu-ccc639-paypay"
     },
     {
       "name": "大黒食堂",
-      "address": "後地町3348-113 神楽の里 舞乃市内"
+      "address": "後地町3348-113 神楽の里 舞乃市内",
+      "storeid": "gotsu-dfc309",
+      "shopid": "gotsu-dfc309-paypay"
     },
     {
       "name": "麺や　オロチ",
-      "address": "後地町3348-113 神楽の里舞乃市内"
+      "address": "後地町3348-113 神楽の里舞乃市内",
+      "storeid": "gotsu-27ec79",
+      "shopid": "gotsu-27ec79-paypay"
     },
     {
       "name": "森のレストラン",
-      "address": "江津町1110-20"
+      "address": "江津町1110-20",
+      "storeid": "gotsu-3e0a5b",
+      "shopid": "gotsu-3e0a5b-paypay"
     },
     {
       "name": "clubM",
-      "address": "江津町1152-10"
+      "address": "江津町1152-10",
+      "storeid": "gotsu-d91b8a",
+      "shopid": "gotsu-d91b8a-paypay"
     },
     {
       "name": "koganemushi",
-      "address": "江津町1212-2"
+      "address": "江津町1212-2",
+      "storeid": "gotsu-fb167f",
+      "shopid": "gotsu-fb167f-paypay"
     },
     {
       "name": "TORANA",
-      "address": "江津町1213"
+      "address": "江津町1213",
+      "storeid": "gotsu-928bf0",
+      "shopid": "gotsu-928bf0-paypay"
     },
     {
       "name": "阿じ与志",
-      "address": "江津町1217-5"
+      "address": "江津町1217-5",
+      "storeid": "gotsu-ecedb7",
+      "shopid": "gotsu-ecedb7-paypay"
     },
     {
       "name": "ブルージードーナツ＆カフェ",
-      "address": "江津町1258-3"
+      "address": "江津町1258-3",
+      "storeid": "gotsu-f7652f",
+      "shopid": "gotsu-f7652f-paypay"
     },
     {
       "name": "祭や",
-      "address": "江津町1517-24"
+      "address": "江津町1517-24",
+      "storeid": "gotsu-6b093c",
+      "shopid": "gotsu-6b093c-paypay"
     },
     {
       "name": "Rui",
-      "address": "江津町1517-27市川ビル1階"
+      "address": "江津町1517-27市川ビル1階",
+      "storeid": "gotsu-4b181c",
+      "shopid": "gotsu-4b181c-paypay"
     },
     {
       "name": "Cafe＆Bar花鳥風月",
-      "address": "江津町1517-27-1号"
+      "address": "江津町1517-27-1号",
+      "storeid": "gotsu-6759f3",
+      "shopid": "gotsu-6759f3-paypay"
     },
     {
       "name": "cafe　KICHI",
-      "address": "江津町1517-35"
+      "address": "江津町1517-35",
+      "storeid": "gotsu-c6ac3e",
+      "shopid": "gotsu-c6ac3e-paypay"
     },
     {
       "name": "かわさきや",
-      "address": "江津町1520-158"
+      "address": "江津町1520-158",
+      "storeid": "gotsu-f8217c",
+      "shopid": "gotsu-f8217c-paypay"
     },
     {
       "name": "今出屋",
-      "address": "江津町46"
+      "address": "江津町46",
+      "storeid": "gotsu-0e7795",
+      "shopid": "gotsu-0e7795-paypay"
     },
     {
       "name": "食彩空間　海人",
-      "address": "江津町913"
+      "address": "江津町913",
+      "storeid": "gotsu-21642b",
+      "shopid": "gotsu-21642b-paypay"
     },
     {
       "name": "Bar　Y．Albero",
-      "address": "江津町936-1"
+      "address": "江津町936-1",
+      "storeid": "gotsu-8fe9e5",
+      "shopid": "gotsu-8fe9e5-paypay"
     },
     {
       "name": "トラットリア　キツツキ",
-      "address": "松川町市村342-6"
+      "address": "松川町市村342-6",
+      "storeid": "gotsu-239d07",
+      "shopid": "gotsu-239d07-paypay"
     },
     {
       "name": "NAOFARM　cafe",
-      "address": "浅利町248-5"
+      "address": "浅利町248-5",
+      "storeid": "gotsu-7f35b1",
+      "shopid": "gotsu-7f35b1-paypay"
     },
     {
       "name": "焼肉こなみ",
-      "address": "都野津町2308-13"
+      "address": "都野津町2308-13",
+      "storeid": "gotsu-7e971c",
+      "shopid": "gotsu-7e971c-paypay"
     },
     {
       "name": "カジュアルダイニング　38",
-      "address": "都野津町2323-2"
+      "address": "都野津町2323-2",
+      "storeid": "gotsu-697562",
+      "shopid": "gotsu-697562-paypay"
     },
     {
       "name": "CURRY　and　BEER　山椒魚",
-      "address": "波子町イ593-3"
+      "address": "波子町イ593-3",
+      "storeid": "gotsu-dbca83",
+      "shopid": "gotsu-dbca83-paypay"
     },
     {
       "name": "有福BIANCO",
-      "address": "有福温泉町690"
+      "address": "有福温泉町690",
+      "storeid": "gotsu-51f791",
+      "shopid": "gotsu-51f791-paypay"
     },
     {
       "name": "happy?lot．",
-      "address": "和木町601-9 サンハイツ102号"
+      "address": "和木町601-9 サンハイツ102号",
+      "storeid": "gotsu-f90aa4",
+      "shopid": "gotsu-f90aa4-paypay"
     },
     {
       "name": "焼肉ふじた",
-      "address": "和木町606-18"
+      "address": "和木町606-18",
+      "storeid": "gotsu-caae46",
+      "shopid": "gotsu-caae46-paypay"
     },
     {
       "name": "華龍 江津",
-      "address": "嘉久志町1857-3"
+      "address": "嘉久志町1857-3",
+      "storeid": "gotsu-4529c1",
+      "shopid": "gotsu-4529c1-paypay"
     },
     {
       "name": "GRANDS VINS 有福店",
-      "address": "有福温泉町1123-2"
+      "address": "有福温泉町1123-2",
+      "storeid": "gotsu-40d3f5",
+      "shopid": "gotsu-40d3f5-paypay"
     },
     {
       "name": "華龍 渡津町",
-      "address": "渡津町941-1"
+      "address": "渡津町941-1",
+      "storeid": "gotsu-75ad78",
+      "shopid": "gotsu-75ad78-paypay"
     },
     {
       "name": "Cafe＆Galleryよしゑやし",
-      "address": "都野津町2019-1"
+      "address": "都野津町2019-1",
+      "storeid": "gotsu-ab3ff5",
+      "shopid": "gotsu-ab3ff5-paypay"
     },
     {
       "name": "たぬきの国",
-      "address": "桜江町市山503-1"
+      "address": "桜江町市山503-1",
+      "storeid": "gotsu-fca705",
+      "shopid": "gotsu-fca705-paypay"
     }
   ]
 }

@@ -1,512 +1,844 @@
 {
   "その他": [
     {
-      "name": "act hair"
+      "name": "act hair",
+      "storeid": "otake-eac443",
+      "shopid": "otake-eac443-paypay"
     },
     {
-      "name": "Anfairy"
+      "name": "Anfairy",
+      "storeid": "otake-ea7692",
+      "shopid": "otake-ea7692-paypay"
     },
     {
-      "name": "ange Design"
+      "name": "ange Design",
+      "storeid": "otake-05bbcb",
+      "shopid": "otake-05bbcb-paypay"
     },
     {
-      "name": "A'sense"
+      "name": "A'sense",
+      "storeid": "otake-ffadab",
+      "shopid": "otake-ffadab-paypay"
     },
     {
-      "name": "Atelier33"
+      "name": "Atelier33",
+      "storeid": "otake-72ec37",
+      "shopid": "otake-72ec37-paypay"
     },
     {
-      "name": "BARBER　TRYM"
+      "name": "BARBER　TRYM",
+      "storeid": "otake-6ef7f9",
+      "shopid": "otake-6ef7f9-paypay"
     },
     {
-      "name": "Barbershop MATSUNAGA"
+      "name": "Barbershop MATSUNAGA",
+      "storeid": "otake-772047",
+      "shopid": "otake-772047-paypay"
     },
     {
-      "name": "beauty studio TIARA"
+      "name": "beauty studio TIARA",
+      "storeid": "otake-435489",
+      "shopid": "otake-435489-paypay"
     },
     {
-      "name": "Bell Epoc"
+      "name": "Bell Epoc",
+      "storeid": "otake-fe4399",
+      "shopid": "otake-fe4399-paypay"
     },
     {
-      "name": "ciQz hair design"
+      "name": "ciQz hair design",
+      "storeid": "otake-45d12b",
+      "shopid": "otake-45d12b-paypay"
     },
     {
-      "name": "COCo+cut"
+      "name": "COCo+cut",
+      "storeid": "otake-5fbfc4",
+      "shopid": "otake-5fbfc4-paypay"
     },
     {
-      "name": "COO&RIKU YT"
+      "name": "COO&RIKU YT",
+      "storeid": "otake-2f8405",
+      "shopid": "otake-2f8405-paypay"
     },
     {
-      "name": "Dog salon ito"
+      "name": "Dog salon ito",
+      "storeid": "otake-145d0f",
+      "shopid": "otake-145d0f-paypay"
     },
     {
-      "name": "Enchante"
+      "name": "Enchante",
+      "storeid": "otake-b6a341",
+      "shopid": "otake-b6a341-paypay"
     },
     {
-      "name": "HAIR STUDIO髪工房"
+      "name": "HAIR STUDIO髪工房",
+      "storeid": "otake-4ef034",
+      "shopid": "otake-4ef034-paypay"
     },
     {
-      "name": "HondaCars"
+      "name": "HondaCars",
+      "storeid": "otake-cac151",
+      "shopid": "otake-cac151-paypay"
     },
     {
-      "name": "huit∞"
+      "name": "huit∞",
+      "storeid": "otake-aa9632",
+      "shopid": "otake-aa9632-paypay"
     },
     {
-      "name": "Joie"
+      "name": "Joie",
+      "storeid": "otake-de5bbc",
+      "shopid": "otake-de5bbc-paypay"
     },
     {
-      "name": "Kindhair&make"
+      "name": "Kindhair&make",
+      "storeid": "otake-0b6b6e",
+      "shopid": "otake-0b6b6e-paypay"
     },
     {
-      "name": "LeReve"
+      "name": "LeReve",
+      "storeid": "otake-a81893",
+      "shopid": "otake-a81893-paypay"
     },
     {
-      "name": "Lesgoutersgaku"
+      "name": "Lesgoutersgaku",
+      "storeid": "otake-ffba86",
+      "shopid": "otake-ffba86-paypay"
     },
     {
-      "name": "Lounge AQUA"
+      "name": "Lounge AQUA",
+      "storeid": "otake-e1e182",
+      "shopid": "otake-e1e182-paypay"
     },
     {
-      "name": "MENARDフェイシャルサロン"
+      "name": "MENARDフェイシャルサロン",
+      "storeid": "otake-f1f9b6",
+      "shopid": "otake-f1f9b6-paypay"
     },
     {
-      "name": "Montresorhairsalon"
+      "name": "Montresorhairsalon",
+      "storeid": "otake-f92d9f",
+      "shopid": "otake-f92d9f-paypay"
     },
     {
-      "name": "Nail salon Fleur"
+      "name": "Nail salon Fleur",
+      "storeid": "otake-93a194",
+      "shopid": "otake-93a194-paypay"
     },
     {
-      "name": "Nature Dog"
+      "name": "Nature Dog",
+      "storeid": "otake-1a38a5",
+      "shopid": "otake-1a38a5-paypay"
     },
     {
-      "name": "Nnomori.."
+      "name": "Nnomori..",
+      "storeid": "otake-3863db",
+      "shopid": "otake-3863db-paypay"
     },
     {
-      "name": "otakeバルgaku"
+      "name": "otakeバルgaku",
+      "storeid": "otake-753051",
+      "shopid": "otake-753051-paypay"
     },
     {
-      "name": "PatisserieOga"
+      "name": "PatisserieOga",
+      "storeid": "otake-a4ba51",
+      "shopid": "otake-a4ba51-paypay"
     },
     {
-      "name": "PatisserieTrois"
+      "name": "PatisserieTrois",
+      "storeid": "otake-49c396",
+      "shopid": "otake-49c396-paypay"
     },
     {
-      "name": "PENNY LANE RSG"
+      "name": "PENNY LANE RSG",
+      "storeid": "otake-707976",
+      "shopid": "otake-707976-paypay"
     },
     {
-      "name": "Petit bonheur"
+      "name": "Petit bonheur",
+      "storeid": "otake-f75194",
+      "shopid": "otake-f75194-paypay"
     },
     {
-      "name": "R-label FUGETSUDO"
+      "name": "R-label FUGETSUDO",
+      "storeid": "otake-560ace",
+      "shopid": "otake-560ace-paypay"
     },
     {
-      "name": "ROOThairsalon"
+      "name": "ROOThairsalon",
+      "storeid": "otake-fe0fc0",
+      "shopid": "otake-fe0fc0-paypay"
     },
     {
-      "name": "STELLIO"
+      "name": "STELLIO",
+      "storeid": "otake-868a6b",
+      "shopid": "otake-868a6b-paypay"
     },
     {
-      "name": "T.Happiness"
+      "name": "T.Happiness",
+      "storeid": "otake-6cd8f3",
+      "shopid": "otake-6cd8f3-paypay"
     },
     {
-      "name": "TSUTAYA フタバ図書"
+      "name": "TSUTAYA フタバ図書",
+      "storeid": "otake-8b3e35",
+      "shopid": "otake-8b3e35-paypay"
     },
     {
-      "name": "y beauty salon"
+      "name": "y beauty salon",
+      "storeid": "otake-70594f",
+      "shopid": "otake-70594f-paypay"
     },
     {
-      "name": "アート写真本店"
+      "name": "アート写真本店",
+      "storeid": "otake-d41c63",
+      "shopid": "otake-d41c63-paypay"
     },
     {
-      "name": "アウトドアコーヒー"
+      "name": "アウトドアコーヒー",
+      "storeid": "otake-a015be",
+      "shopid": "otake-a015be-paypay"
     },
     {
-      "name": "イエローハット"
+      "name": "イエローハット",
+      "storeid": "otake-888867",
+      "shopid": "otake-888867-paypay"
     },
     {
-      "name": "居酒屋一休"
+      "name": "居酒屋一休",
+      "storeid": "otake-920a37",
+      "shopid": "otake-920a37-paypay"
     },
     {
-      "name": "居酒屋一心"
+      "name": "居酒屋一心",
+      "storeid": "otake-1c5ac4",
+      "shopid": "otake-1c5ac4-paypay"
     },
     {
-      "name": "居酒屋秦心"
+      "name": "居酒屋秦心",
+      "storeid": "otake-e35409",
+      "shopid": "otake-e35409-paypay"
     },
     {
-      "name": "ウイル"
+      "name": "ウイル",
+      "storeid": "otake-a86da0",
+      "shopid": "otake-a86da0-paypay"
     },
     {
-      "name": "海辺のサロン　サラスバティ"
+      "name": "海辺のサロン　サラスバティ",
+      "storeid": "otake-4e67c8",
+      "shopid": "otake-4e67c8-paypay"
     },
     {
-      "name": "エムズ☆SAIKI"
+      "name": "エムズ☆SAIKI",
+      "storeid": "otake-da3cfb",
+      "shopid": "otake-da3cfb-paypay"
     },
     {
-      "name": "近江屋"
+      "name": "近江屋",
+      "storeid": "otake-8d5d75",
+      "shopid": "otake-8d5d75-paypay"
     },
     {
-      "name": "おおたけconditioning接骨院"
+      "name": "おおたけconditioning接骨院",
+      "storeid": "otake-ce7e21",
+      "shopid": "otake-ce7e21-paypay"
     },
     {
-      "name": "大竹環境保全"
+      "name": "大竹環境保全",
+      "storeid": "otake-3bc4e0",
+      "shopid": "otake-3bc4e0-paypay"
     },
     {
-      "name": "大竹交通"
+      "name": "大竹交通",
+      "storeid": "otake-4bafa5",
+      "shopid": "otake-4bafa5-paypay"
     },
     {
-      "name": "大竹タクシー"
+      "name": "大竹タクシー",
+      "storeid": "otake-38fcf1",
+      "shopid": "otake-38fcf1-paypay"
     },
     {
-      "name": "大野美容室"
+      "name": "大野美容室",
+      "storeid": "otake-ee9fd8",
+      "shopid": "otake-ee9fd8-paypay"
     },
     {
-      "name": "桶本家具店"
+      "name": "桶本家具店",
+      "storeid": "otake-4436f1",
+      "shopid": "otake-4436f1-paypay"
     },
     {
-      "name": "お好み焼わだ"
+      "name": "お好み焼わだ",
+      "storeid": "otake-f82b7b",
+      "shopid": "otake-f82b7b-paypay"
     },
     {
-      "name": "お食事処やまぐち"
+      "name": "お食事処やまぐち",
+      "storeid": "otake-191c29",
+      "shopid": "otake-191c29-paypay"
     },
     {
-      "name": "小田輪業商会"
+      "name": "小田輪業商会",
+      "storeid": "otake-f8596c",
+      "shopid": "otake-f8596c-paypay"
     },
     {
-      "name": "オレの牡蠣アミスイ"
+      "name": "オレの牡蠣アミスイ",
+      "storeid": "otake-d25724",
+      "shopid": "otake-d25724-paypay"
     },
     {
-      "name": "オロシバJapan jewelry"
+      "name": "オロシバJapan jewelry",
+      "storeid": "otake-807e0f",
+      "shopid": "otake-807e0f-paypay"
     },
     {
-      "name": "菓子園喜喜"
+      "name": "菓子園喜喜",
+      "storeid": "otake-7b93fe",
+      "shopid": "otake-7b93fe-paypay"
     },
     {
-      "name": "カットハウスジュリアン"
+      "name": "カットハウスジュリアン",
+      "storeid": "otake-e00831",
+      "shopid": "otake-e00831-paypay"
     },
     {
-      "name": "割烹宇恵喜"
+      "name": "割烹宇恵喜",
+      "storeid": "otake-e5f674",
+      "shopid": "otake-e5f674-paypay"
     },
     {
-      "name": "金井クリーニング"
+      "name": "金井クリーニング",
+      "storeid": "otake-258080",
+      "shopid": "otake-258080-paypay"
     },
     {
-      "name": "株式会社アミスイ"
+      "name": "株式会社アミスイ",
+      "storeid": "otake-9eb240",
+      "shopid": "otake-9eb240-paypay"
     },
     {
-      "name": "カラオケタイシン"
+      "name": "カラオケタイシン",
+      "storeid": "otake-a439c5",
+      "shopid": "otake-a439c5-paypay"
     },
     {
-      "name": "喫茶バーモンド"
+      "name": "喫茶バーモンド",
+      "storeid": "otake-ca315f",
+      "shopid": "otake-ca315f-paypay"
     },
     {
-      "name": "きらく陶工房"
+      "name": "きらく陶工房",
+      "storeid": "otake-cd21a7",
+      "shopid": "otake-cd21a7-paypay"
     },
     {
-      "name": "きらら"
+      "name": "きらら",
+      "storeid": "otake-965fcc",
+      "shopid": "otake-965fcc-paypay"
     },
     {
-      "name": "くにきよ園芸"
+      "name": "くにきよ園芸",
+      "storeid": "otake-b06f3c",
+      "shopid": "otake-b06f3c-paypay"
     },
     {
-      "name": "クリーニング大野屋"
+      "name": "クリーニング大野屋",
+      "storeid": "otake-f7eb03",
+      "shopid": "otake-f7eb03-paypay"
     },
     {
-      "name": "小柴クリーニング"
+      "name": "小柴クリーニング",
+      "storeid": "otake-f333d9",
+      "shopid": "otake-f333d9-paypay"
     },
     {
-      "name": "児玉理容院"
+      "name": "児玉理容院",
+      "storeid": "otake-d8e3b2",
+      "shopid": "otake-d8e3b2-paypay"
     },
     {
-      "name": "コベイカ"
+      "name": "コベイカ",
+      "storeid": "otake-f36390",
+      "shopid": "otake-f36390-paypay"
     },
     {
-      "name": "さちのたね"
+      "name": "さちのたね",
+      "storeid": "otake-7b5d87",
+      "shopid": "otake-7b5d87-paypay"
     },
     {
-      "name": "里の味みかわ"
+      "name": "里の味みかわ",
+      "storeid": "otake-e4c1ff",
+      "shopid": "otake-e4c1ff-paypay"
     },
     {
-      "name": "三愛"
+      "name": "三愛",
+      "storeid": "otake-0aca0c",
+      "shopid": "otake-0aca0c-paypay"
     },
     {
-      "name": "三国酢"
+      "name": "三国酢",
+      "storeid": "otake-94c439",
+      "shopid": "otake-94c439-paypay"
     },
     {
-      "name": "サンホテル大竹"
+      "name": "サンホテル大竹",
+      "storeid": "otake-b4982c",
+      "shopid": "otake-b4982c-paypay"
     },
     {
-      "name": "自家焙煎イブリック"
+      "name": "自家焙煎イブリック",
+      "storeid": "otake-a1c208",
+      "shopid": "otake-a1c208-paypay"
     },
     {
-      "name": "しげよし"
+      "name": "しげよし",
+      "storeid": "otake-8e340e",
+      "shopid": "otake-8e340e-paypay"
     },
     {
-      "name": "車検の速太郎"
+      "name": "車検の速太郎",
+      "storeid": "otake-971cb2",
+      "shopid": "otake-971cb2-paypay"
     },
     {
-      "name": "ジャスト大竹パソコンサポート"
+      "name": "ジャスト大竹パソコンサポート",
+      "storeid": "otake-d52115",
+      "shopid": "otake-d52115-paypay"
     },
     {
-      "name": "翆モータース"
+      "name": "翆モータース",
+      "storeid": "otake-7fccc6",
+      "shopid": "otake-7fccc6-paypay"
     },
     {
-      "name": "すなだどんどんどんどん"
+      "name": "すなだどんどんどんどん",
+      "storeid": "otake-225822",
+      "shopid": "otake-225822-paypay"
     },
     {
-      "name": "スポーツサイクルウエキ"
+      "name": "スポーツサイクルウエキ",
+      "storeid": "otake-a67f92",
+      "shopid": "otake-a67f92-paypay"
     },
     {
-      "name": "竹中スポーツ"
+      "name": "竹中スポーツ",
+      "storeid": "otake-562906",
+      "shopid": "otake-562906-paypay"
     },
     {
-      "name": "タナカサイクル"
+      "name": "タナカサイクル",
+      "storeid": "otake-c2c034",
+      "shopid": "otake-c2c034-paypay"
     },
     {
-      "name": "田宮事務器"
+      "name": "田宮事務器",
+      "storeid": "otake-95a7df",
+      "shopid": "otake-95a7df-paypay"
     },
     {
-      "name": "中国料理鳳凰"
+      "name": "中国料理鳳凰",
+      "storeid": "otake-7581ca",
+      "shopid": "otake-7581ca-paypay"
     },
     {
-      "name": "てっく堂模型"
+      "name": "てっく堂模型",
+      "storeid": "otake-2f8a94",
+      "shopid": "otake-2f8a94-paypay"
     },
     {
-      "name": "鉄板＆炉端焼きたいしん"
+      "name": "鉄板＆炉端焼きたいしん",
+      "storeid": "otake-4f97f4",
+      "shopid": "otake-4f97f4-paypay"
     },
     {
-      "name": "ドッグサロンぷちる"
+      "name": "ドッグサロンぷちる",
+      "storeid": "otake-3f3746",
+      "shopid": "otake-3f3746-paypay"
     },
     {
-      "name": "届出済未使用車専門店軽マーケット"
+      "name": "届出済未使用車専門店軽マーケット",
+      "storeid": "otake-36b8f0",
+      "shopid": "otake-36b8f0-paypay"
     },
     {
-      "name": "長浜ラーメン博多屋"
+      "name": "長浜ラーメン博多屋",
+      "storeid": "otake-173da5",
+      "shopid": "otake-173da5-paypay"
     },
     {
-      "name": "ナマステタージマハル"
+      "name": "ナマステタージマハル",
+      "storeid": "otake-6c50e6",
+      "shopid": "otake-6c50e6-paypay"
     },
     {
-      "name": "日本料理魚池"
+      "name": "日本料理魚池",
+      "storeid": "otake-a96809",
+      "shopid": "otake-a96809-paypay"
     },
     {
-      "name": "のyaki"
+      "name": "のyaki",
+      "storeid": "otake-f6335c",
+      "shopid": "otake-f6335c-paypay"
     },
     {
-      "name": "ハクジュプラザ"
+      "name": "ハクジュプラザ",
+      "storeid": "otake-7292de",
+      "shopid": "otake-7292de-paypay"
     },
     {
-      "name": "パティスリートロワ"
+      "name": "パティスリートロワ",
+      "storeid": "otake-0ac534",
+      "shopid": "otake-0ac534-paypay"
     },
     {
-      "name": "花屋花み"
+      "name": "花屋花み",
+      "storeid": "otake-155378",
+      "shopid": "otake-155378-paypay"
     },
     {
-      "name": "林鮮魚"
+      "name": "林鮮魚",
+      "storeid": "otake-7433da",
+      "shopid": "otake-7433da-paypay"
     },
     {
-      "name": "パリミキ"
+      "name": "パリミキ",
+      "storeid": "otake-945c0f",
+      "shopid": "otake-945c0f-paypay"
     },
     {
-      "name": "バン・トラック専門店軽マーケット"
+      "name": "バン・トラック専門店軽マーケット",
+      "storeid": "otake-f18ca4",
+      "shopid": "otake-f18ca4-paypay"
     },
     {
-      "name": "ヒカリテック＆エンゼル"
+      "name": "ヒカリテック＆エンゼル",
+      "storeid": "otake-52c67c",
+      "shopid": "otake-52c67c-paypay"
     },
     {
-      "name": "ビューティーサロンmew"
+      "name": "ビューティーサロンmew",
+      "storeid": "otake-ab70a6",
+      "shopid": "otake-ab70a6-paypay"
     },
     {
-      "name": "広島西ドライブサービス"
+      "name": "広島西ドライブサービス",
+      "storeid": "otake-93e619",
+      "shopid": "otake-93e619-paypay"
     },
     {
-      "name": "ファミリア"
+      "name": "ファミリア",
+      "storeid": "otake-bf7d82",
+      "shopid": "otake-bf7d82-paypay"
     },
     {
-      "name": "フード＆カフェ　サンヒトリ"
+      "name": "フード＆カフェ　サンヒトリ",
+      "storeid": "otake-d0eec7",
+      "shopid": "otake-d0eec7-paypay"
     },
     {
-      "name": "福祉用具プラザおおたけ"
+      "name": "福祉用具プラザおおたけ",
+      "storeid": "otake-d8acdd",
+      "shopid": "otake-d8acdd-paypay"
     },
     {
-      "name": "プライベートネイルアトリエモンクール"
+      "name": "プライベートネイルアトリエモンクール",
+      "storeid": "otake-423901",
+      "shopid": "otake-423901-paypay"
     },
     {
-      "name": "ヘアブランコくらもと美容院"
+      "name": "ヘアブランコくらもと美容院",
+      "storeid": "otake-d3bb90",
+      "shopid": "otake-d3bb90-paypay"
     },
     {
-      "name": "平安堂梅坪"
+      "name": "平安堂梅坪",
+      "storeid": "otake-1cc377",
+      "shopid": "otake-1cc377-paypay"
     },
     {
-      "name": "ペリカン"
+      "name": "ペリカン",
+      "storeid": "otake-974329",
+      "shopid": "otake-974329-paypay"
     },
     {
-      "name": "ほっかほっか亭"
+      "name": "ほっかほっか亭",
+      "storeid": "otake-45edcc",
+      "shopid": "otake-45edcc-paypay"
     },
     {
-      "name": "本格焼肉韓韓"
+      "name": "本格焼肉韓韓",
+      "storeid": "otake-33b8f0",
+      "shopid": "otake-33b8f0-paypay"
     },
     {
-      "name": "みか恵"
+      "name": "みか恵",
+      "storeid": "otake-8c179d",
+      "shopid": "otake-8c179d-paypay"
     },
     {
-      "name": "ミュージアムカフェ"
+      "name": "ミュージアムカフェ",
+      "storeid": "otake-30bf3a",
+      "shopid": "otake-30bf3a-paypay"
     },
     {
-      "name": "ミュージアムショップ"
+      "name": "ミュージアムショップ",
+      "storeid": "otake-a38035",
+      "shopid": "otake-a38035-paypay"
     },
     {
-      "name": "麦ばたけ"
+      "name": "麦ばたけ",
+      "storeid": "otake-b924c8",
+      "shopid": "otake-b924c8-paypay"
     },
     {
-      "name": "眼鏡市場大竹"
+      "name": "眼鏡市場大竹",
+      "storeid": "otake-25566d",
+      "shopid": "otake-25566d-paypay"
     },
     {
-      "name": "メナード化粧品"
+      "name": "メナード化粧品",
+      "storeid": "otake-b200d0",
+      "shopid": "otake-b200d0-paypay"
     },
     {
-      "name": "メンズスギノ"
+      "name": "メンズスギノ",
+      "storeid": "otake-42c964",
+      "shopid": "otake-42c964-paypay"
     },
     {
-      "name": "やきいもの虎"
+      "name": "やきいもの虎",
+      "storeid": "otake-e34eff",
+      "shopid": "otake-e34eff-paypay"
     },
     {
-      "name": "やさか弥栄オートキャンプ場"
+      "name": "やさか弥栄オートキャンプ場",
+      "storeid": "otake-1df682",
+      "shopid": "otake-1df682-paypay"
     },
     {
-      "name": "やまとタクシー"
+      "name": "やまとタクシー",
+      "storeid": "otake-b321a7",
+      "shopid": "otake-b321a7-paypay"
     },
     {
-      "name": "有限会社エフケーテック"
+      "name": "有限会社エフケーテック",
+      "storeid": "otake-30ea64",
+      "shopid": "otake-30ea64-paypay"
     },
     {
-      "name": "有限会社ゲイナン(有)"
+      "name": "有限会社ゲイナン(有)",
+      "storeid": "otake-68b276",
+      "shopid": "otake-68b276-paypay"
     },
     {
-      "name": "有限会社中野自動車"
+      "name": "有限会社中野自動車",
+      "storeid": "otake-d6b676",
+      "shopid": "otake-d6b676-paypay"
     },
     {
-      "name": "よしおか企画"
+      "name": "よしおか企画",
+      "storeid": "otake-c32968",
+      "shopid": "otake-c32968-paypay"
     },
     {
-      "name": "ラウンジ花もん"
+      "name": "ラウンジ花もん",
+      "storeid": "otake-cbcfb3",
+      "shopid": "otake-cbcfb3-paypay"
     },
     {
-      "name": "リトルマーメイド"
+      "name": "リトルマーメイド",
+      "storeid": "otake-8c9544",
+      "shopid": "otake-8c9544-paypay"
     },
     {
-      "name": "リラクゼーションサロンTHERAPY HIMAWARI"
+      "name": "リラクゼーションサロンTHERAPY HIMAWARI",
+      "storeid": "otake-9895b5",
+      "shopid": "otake-9895b5-paypay"
     },
     {
-      "name": "リンダ・ベル"
+      "name": "リンダ・ベル",
+      "storeid": "otake-03515e",
+      "shopid": "otake-03515e-paypay"
     },
     {
-      "name": "和牛と米"
+      "name": "和牛と米",
+      "storeid": "otake-5ba511",
+      "shopid": "otake-5ba511-paypay"
     },
     {
-      "name": "レディースファッションあまの"
+      "name": "レディースファッションあまの",
+      "storeid": "otake-ad00b8",
+      "shopid": "otake-ad00b8-paypay"
     },
     {
-      "name": "CoCo壱番屋"
+      "name": "CoCo壱番屋",
+      "storeid": "otake-24886f",
+      "shopid": "otake-24886f-paypay"
     },
     {
-      "name": "お好み一番地"
+      "name": "お好み一番地",
+      "storeid": "otake-474e0a",
+      "shopid": "otake-474e0a-paypay"
     },
     {
-      "name": "サーティーワンアイスクリーム"
+      "name": "サーティーワンアイスクリーム",
+      "storeid": "otake-9011ca",
+      "shopid": "otake-9011ca-paypay"
     },
     {
-      "name": "しまむら"
+      "name": "しまむら",
+      "storeid": "otake-e04c62",
+      "shopid": "otake-e04c62-paypay"
     },
     {
-      "name": "ジュンテンドー"
+      "name": "ジュンテンドー",
+      "storeid": "otake-6ad4cd",
+      "shopid": "otake-6ad4cd-paypay"
     },
     {
-      "name": "セリア"
+      "name": "セリア",
+      "storeid": "otake-d745be",
+      "shopid": "otake-d745be-paypay"
     },
     {
-      "name": "ダイソー"
+      "name": "ダイソー",
+      "storeid": "otake-9088f8",
+      "shopid": "otake-9088f8-paypay"
     },
     {
-      "name": "たこ一番"
+      "name": "たこ一番",
+      "storeid": "otake-0d7bd6",
+      "shopid": "otake-0d7bd6-paypay"
     },
     {
-      "name": "西松屋チェーン"
+      "name": "西松屋チェーン",
+      "storeid": "otake-c0fb0e",
+      "shopid": "otake-c0fb0e-paypay"
     },
     {
-      "name": "ハニーズ"
+      "name": "ハニーズ",
+      "storeid": "otake-3e05ca",
+      "shopid": "otake-3e05ca-paypay"
     },
     {
-      "name": "広島西医療センター病院売店"
+      "name": "広島西医療センター病院売店",
+      "storeid": "otake-3e45aa",
+      "shopid": "otake-3e45aa-paypay"
     },
     {
-      "name": "ミスタードーナツ"
+      "name": "ミスタードーナツ",
+      "storeid": "otake-19cc19",
+      "shopid": "otake-19cc19-paypay"
     },
     {
-      "name": "焼肉丼炙り一番"
+      "name": "焼肉丼炙り一番",
+      "storeid": "otake-e71ee7",
+      "shopid": "otake-e71ee7-paypay"
     },
     {
-      "name": "ヤマト運輸"
+      "name": "ヤマト運輸",
+      "storeid": "otake-e8b740",
+      "shopid": "otake-e8b740-paypay"
     },
     {
-      "name": "やよい軒"
+      "name": "やよい軒",
+      "storeid": "otake-b387b3",
+      "shopid": "otake-b387b3-paypay"
     }
   ],
   "ガソリンスタンド": [
     {
-      "name": "apollistation"
+      "name": "apollistation",
+      "storeid": "otake-74a659",
+      "shopid": "otake-74a659-paypay"
     }
   ],
   "スーパーマーケット": [
     {
-      "name": "ゆめマート"
+      "name": "ゆめマート",
+      "storeid": "otake-19adc6",
+      "shopid": "otake-19adc6-paypay"
     },
     {
-      "name": "アルク"
+      "name": "アルク",
+      "storeid": "otake-188730",
+      "shopid": "otake-188730-paypay"
     },
     {
-      "name": "マルキュウ"
+      "name": "マルキュウ",
+      "storeid": "otake-f389f5",
+      "shopid": "otake-f389f5-paypay"
     },
     {
-      "name": "ゆめタウン"
+      "name": "ゆめタウン",
+      "storeid": "otake-c53174",
+      "shopid": "otake-c53174-paypay"
     }
   ],
   "ドラッグストア・薬局": [
     {
-      "name": "メナード化粧品"
+      "name": "メナード化粧品",
+      "storeid": "otake-b200d0",
+      "shopid": "otake-b200d0-paypay"
     },
     {
-      "name": "ツルハホールディングス"
+      "name": "ツルハホールディングス",
+      "storeid": "otake-81afa0",
+      "shopid": "otake-81afa0-paypay"
     },
     {
-      "name": "ウォンツ"
+      "name": "ウォンツ",
+      "storeid": "otake-88ad22",
+      "shopid": "otake-88ad22-paypay"
     },
     {
-      "name": "サンドラッググループ"
+      "name": "サンドラッググループ",
+      "storeid": "otake-69ce82",
+      "shopid": "otake-69ce82-paypay"
     }
   ],
   "ホームセンター・ショッピングセンター": [
     {
-      "name": "コメリPW"
+      "name": "コメリPW",
+      "storeid": "otake-b2130e",
+      "shopid": "otake-b2130e-paypay"
     }
   ],
   "家電": [
     {
-      "name": "ポケット"
+      "name": "ポケット",
+      "storeid": "otake-74ef42",
+      "shopid": "otake-74ef42-paypay"
     },
     {
-      "name": "パナライフさんよう"
+      "name": "パナライフさんよう",
+      "storeid": "otake-3e2c21",
+      "shopid": "otake-3e2c21-paypay"
     },
     {
-      "name": "栗本商店"
+      "name": "栗本商店",
+      "storeid": "otake-453585",
+      "shopid": "otake-453585-paypay"
     },
     {
-      "name": "エディオン中川電機"
+      "name": "エディオン中川電機",
+      "storeid": "otake-83005f",
+      "shopid": "otake-83005f-paypay"
     },
     {
-      "name": "ソフトバンク"
+      "name": "ソフトバンク",
+      "storeid": "otake-ff613c",
+      "shopid": "otake-ff613c-paypay"
     },
     {
-      "name": "エディオン"
+      "name": "エディオン",
+      "storeid": "otake-5b781c",
+      "shopid": "otake-5b781c-paypay"
     }
   ]
 }

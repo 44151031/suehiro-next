@@ -1,982 +1,1586 @@
 {
   "その他": [
     {
-      "name": "デイツーグループ　古本市場"
+      "name": "デイツーグループ　古本市場",
+      "storeid": "daito-e8aff5",
+      "shopid": "daito-e8aff5-paypay"
     },
     {
-      "name": "GEO Luck Rack　ポップタウン住道店"
+      "name": "GEO Luck Rack　ポップタウン住道店",
+      "storeid": "daito-5bfd99",
+      "shopid": "daito-5bfd99-paypay"
     },
     {
-      "name": "ワンラブ"
+      "name": "ワンラブ",
+      "storeid": "daito-1e9deb",
+      "shopid": "daito-1e9deb-paypay"
     },
     {
-      "name": "ヤマト運輸"
+      "name": "ヤマト運輸",
+      "storeid": "daito-e8b740",
+      "shopid": "daito-e8b740-paypay"
     },
     {
-      "name": "Beauty Salon Smily"
+      "name": "Beauty Salon Smily",
+      "storeid": "daito-ad1944",
+      "shopid": "daito-ad1944-paypay"
     },
     {
-      "name": "コーミン"
+      "name": "コーミン",
+      "storeid": "daito-2bf000",
+      "shopid": "daito-2bf000-paypay"
     },
     {
-      "name": "アストロプロダクツ"
+      "name": "アストロプロダクツ",
+      "storeid": "daito-bdf724",
+      "shopid": "daito-bdf724-paypay"
     },
     {
-      "name": "MEI DANCE school"
+      "name": "MEI DANCE school",
+      "storeid": "daito-6987c7",
+      "shopid": "daito-6987c7-paypay"
     },
     {
-      "name": "ひと手間のごちそう"
+      "name": "ひと手間のごちそう",
+      "storeid": "daito-529257",
+      "shopid": "daito-529257-paypay"
     },
     {
-      "name": "さがサイクル"
+      "name": "さがサイクル",
+      "storeid": "daito-154254",
+      "shopid": "daito-154254-paypay"
     },
     {
-      "name": "PGUショップ　PGU　モータ"
+      "name": "PGUショップ　PGU　モータ",
+      "storeid": "daito-385c14",
+      "shopid": "daito-385c14-paypay"
     },
     {
-      "name": "さくもと動物病院"
+      "name": "さくもと動物病院",
+      "storeid": "daito-bae843",
+      "shopid": "daito-bae843-paypay"
     },
     {
-      "name": "癒隠～ゆいん～"
+      "name": "癒隠～ゆいん～",
+      "storeid": "daito-4becdd",
+      "shopid": "daito-4becdd-paypay"
     },
     {
-      "name": "電材センター　電材買取センター"
+      "name": "電材センター　電材買取センター",
+      "storeid": "daito-035591",
+      "shopid": "daito-035591-paypay"
     },
     {
-      "name": "阪奈自動車教習所"
+      "name": "阪奈自動車教習所",
+      "storeid": "daito-a9a5b3",
+      "shopid": "daito-a9a5b3-paypay"
     },
     {
-      "name": "pilatesK"
+      "name": "pilatesK",
+      "storeid": "daito-54a828",
+      "shopid": "daito-54a828-paypay"
     }
   ],
   "その他/オートバックス": [
     {
-      "name": "オートバックス"
+      "name": "オートバックス",
+      "storeid": "daito-fe1aa3",
+      "shopid": "daito-fe1aa3-paypay"
     }
   ],
   "その他/サービス": [
     {
-      "name": "ジャンカラ"
+      "name": "ジャンカラ",
+      "storeid": "daito-24ce03",
+      "shopid": "daito-24ce03-paypay"
     },
     {
-      "name": "りらくる"
+      "name": "りらくる",
+      "storeid": "daito-614f2f",
+      "shopid": "daito-614f2f-paypay"
     }
   ],
   "その他/各種小売(その他)": [
     {
-      "name": "わたなべ動物病院"
+      "name": "わたなべ動物病院",
+      "storeid": "daito-b94132",
+      "shopid": "daito-b94132-paypay"
     },
     {
-      "name": "cycle shop チルチルミチル"
+      "name": "cycle shop チルチルミチル",
+      "storeid": "daito-55ddd2",
+      "shopid": "daito-55ddd2-paypay"
     }
   ],
   "その他/各種小売(コンビニ)": [
     {
-      "name": "コンビナス"
+      "name": "コンビナス",
+      "storeid": "daito-1aac62",
+      "shopid": "daito-1aac62-paypay"
     }
   ],
   "エンタメ": [
     {
-      "name": "PXG OSAKA DRIVING RANGE　フロント"
+      "name": "PXG OSAKA DRIVING RANGE　フロント",
+      "storeid": "daito-abb748",
+      "shopid": "daito-abb748-paypay"
     }
   ],
   "エンタメ/カラオケ": [
     {
-      "name": "カラオケレインボー"
+      "name": "カラオケレインボー",
+      "storeid": "daito-cdbdba",
+      "shopid": "daito-cdbdba-paypay"
     }
   ],
   "ガソリンスタンド": [
     {
-      "name": "コスモ石油"
+      "name": "コスモ石油",
+      "storeid": "daito-9a601e",
+      "shopid": "daito-9a601e-paypay"
     },
     {
-      "name": "apollostation　住道SS"
+      "name": "apollostation　住道SS",
+      "storeid": "daito-f107e9",
+      "shopid": "daito-f107e9-paypay"
     },
     {
-      "name": "ガソリンスタンド 三箇SS"
+      "name": "ガソリンスタンド 三箇SS",
+      "storeid": "daito-d9772d",
+      "shopid": "daito-d9772d-paypay"
     },
     {
-      "name": "山文商事株式会社　DDセルフ外環大東SS"
+      "name": "山文商事株式会社　DDセルフ外環大東SS",
+      "storeid": "daito-486a8a",
+      "shopid": "daito-486a8a-paypay"
     },
     {
-      "name": "株式会社冨士商　大東SS"
+      "name": "株式会社冨士商　大東SS",
+      "storeid": "daito-bf6ece",
+      "shopid": "daito-bf6ece-paypay"
     }
   ],
   "クリーニング": [
     {
-      "name": "シルキードライ"
+      "name": "シルキードライ",
+      "storeid": "daito-bf1906",
+      "shopid": "daito-bf1906-paypay"
     },
     {
-      "name": "ホワイト急便"
+      "name": "ホワイト急便",
+      "storeid": "daito-318d45",
+      "shopid": "daito-318d45-paypay"
     },
     {
-      "name": "ノムラクリーニング"
+      "name": "ノムラクリーニング",
+      "storeid": "daito-141d65",
+      "shopid": "daito-141d65-paypay"
     },
     {
-      "name": "サワノクリーニング"
+      "name": "サワノクリーニング",
+      "storeid": "daito-732c2c",
+      "shopid": "daito-732c2c-paypay"
     },
     {
-      "name": "いづみやクリーニング"
+      "name": "いづみやクリーニング",
+      "storeid": "daito-6c4eb5",
+      "shopid": "daito-6c4eb5-paypay"
     }
   ],
   "コンビニ": [
     {
-      "name": "ヤマザキショップ　Yショップ"
+      "name": "ヤマザキショップ　Yショップ",
+      "storeid": "daito-4a5005",
+      "shopid": "daito-4a5005-paypay"
     }
   ],
   "コンビニ/各種小売(コンビニ)": [
     {
-      "name": "コンビニエンス　ヤスイ"
+      "name": "コンビニエンス　ヤスイ",
+      "storeid": "daito-4bd34b",
+      "shopid": "daito-4bd34b-paypay"
     }
   ],
   "ショッピング": [
     {
-      "name": "ダイソー"
+      "name": "ダイソー",
+      "storeid": "daito-9088f8",
+      "shopid": "daito-9088f8-paypay"
     },
     {
-      "name": "シャトレーゼ　住道店"
+      "name": "シャトレーゼ　住道店",
+      "storeid": "daito-3375c3",
+      "shopid": "daito-3375c3-paypay"
     },
     {
-      "name": "しまむら"
+      "name": "しまむら",
+      "storeid": "daito-e04c62",
+      "shopid": "daito-e04c62-paypay"
     },
     {
-      "name": "ニトリ"
+      "name": "ニトリ",
+      "storeid": "daito-8daf03",
+      "shopid": "daito-8daf03-paypay"
     },
     {
-      "name": "紀伊國屋書店"
+      "name": "紀伊國屋書店",
+      "storeid": "daito-b573a1",
+      "shopid": "daito-b573a1-paypay"
     },
     {
-      "name": "キャンドゥ"
+      "name": "キャンドゥ",
+      "storeid": "daito-a69750",
+      "shopid": "daito-a69750-paypay"
     },
     {
-      "name": "セリア"
+      "name": "セリア",
+      "storeid": "daito-d745be",
+      "shopid": "daito-d745be-paypay"
     },
     {
-      "name": "ユニクロ"
+      "name": "ユニクロ",
+      "storeid": "daito-8a2448",
+      "shopid": "daito-8a2448-paypay"
     },
     {
-      "name": "西松屋"
+      "name": "西松屋",
+      "storeid": "daito-fac701",
+      "shopid": "daito-fac701-paypay"
     },
     {
-      "name": "パシオス"
+      "name": "パシオス",
+      "storeid": "daito-2e54e7",
+      "shopid": "daito-2e54e7-paypay"
     },
     {
-      "name": "ヤマキカク"
+      "name": "ヤマキカク",
+      "storeid": "daito-32a671",
+      "shopid": "daito-32a671-paypay"
     },
     {
-      "name": "サンエトワール"
+      "name": "サンエトワール",
+      "storeid": "daito-6b620b",
+      "shopid": "daito-6b620b-paypay"
     },
     {
-      "name": "華龍食品"
+      "name": "華龍食品",
+      "storeid": "daito-591263",
+      "shopid": "daito-591263-paypay"
     },
     {
-      "name": "くまざわ書店"
+      "name": "くまざわ書店",
+      "storeid": "daito-d2c992",
+      "shopid": "daito-d2c992-paypay"
     },
     {
-      "name": "丸幸水産"
+      "name": "丸幸水産",
+      "storeid": "daito-ab4702",
+      "shopid": "daito-ab4702-paypay"
     },
     {
-      "name": "トイコンプ"
+      "name": "トイコンプ",
+      "storeid": "daito-ac96fe",
+      "shopid": "daito-ac96fe-paypay"
     },
     {
-      "name": "買取りまっくす"
+      "name": "買取りまっくす",
+      "storeid": "daito-6333a4",
+      "shopid": "daito-6333a4-paypay"
     },
     {
-      "name": "HOTフーズ　キッチンカー"
+      "name": "HOTフーズ　キッチンカー",
+      "storeid": "daito-16260b",
+      "shopid": "daito-16260b-paypay"
     },
     {
-      "name": "晴レルヤ　kitchen"
+      "name": "晴レルヤ　kitchen",
+      "storeid": "daito-0f93a9",
+      "shopid": "daito-0f93a9-paypay"
     },
     {
-      "name": "ハニーズ"
+      "name": "ハニーズ",
+      "storeid": "daito-3e05ca",
+      "shopid": "daito-3e05ca-paypay"
     },
     {
-      "name": "おまめのおうち催事"
+      "name": "おまめのおうち催事",
+      "storeid": "daito-a0f28f",
+      "shopid": "daito-a0f28f-paypay"
     },
     {
-      "name": "ファイテンショップ"
+      "name": "ファイテンショップ",
+      "storeid": "daito-23f1de",
+      "shopid": "daito-23f1de-paypay"
     },
     {
-      "name": "Bear Cosco"
+      "name": "Bear Cosco",
+      "storeid": "daito-66bc6f",
+      "shopid": "daito-66bc6f-paypay"
     },
     {
-      "name": "天然酵母の蒸しぱん屋イロハ"
+      "name": "天然酵母の蒸しぱん屋イロハ",
+      "storeid": "daito-834ee7",
+      "shopid": "daito-834ee7-paypay"
     },
     {
-      "name": "大阪店"
+      "name": "大阪店",
+      "storeid": "daito-de6ddb",
+      "shopid": "daito-de6ddb-paypay"
     },
     {
-      "name": "マックハウス"
+      "name": "マックハウス",
+      "storeid": "daito-949fb5",
+      "shopid": "daito-949fb5-paypay"
     },
     {
-      "name": "サイクルベースあさひ"
+      "name": "サイクルベースあさひ",
+      "storeid": "daito-e99353",
+      "shopid": "daito-e99353-paypay"
     },
     {
-      "name": "サイクルコンビニてるてる"
+      "name": "サイクルコンビニてるてる",
+      "storeid": "daito-97a7a1",
+      "shopid": "daito-97a7a1-paypay"
     },
     {
-      "name": "もりねき書店"
+      "name": "もりねき書店",
+      "storeid": "daito-84671d",
+      "shopid": "daito-84671d-paypay"
     },
     {
-      "name": "アイシティ"
+      "name": "アイシティ",
+      "storeid": "daito-0b5456",
+      "shopid": "daito-0b5456-paypay"
     },
     {
-      "name": "とり竹"
+      "name": "とり竹",
+      "storeid": "daito-ee643c",
+      "shopid": "daito-ee643c-paypay"
     },
     {
-      "name": "眼鏡市場"
+      "name": "眼鏡市場",
+      "storeid": "daito-1c5a57",
+      "shopid": "daito-1c5a57-paypay"
     },
     {
-      "name": "洋服の青山"
+      "name": "洋服の青山",
+      "storeid": "daito-7234f3",
+      "shopid": "daito-7234f3-paypay"
     },
     {
-      "name": "toto kitchen　トトキッチン"
+      "name": "toto kitchen　トトキッチン",
+      "storeid": "daito-a3d4e2",
+      "shopid": "daito-a3d4e2-paypay"
     },
     {
-      "name": "メガネのアイガン"
+      "name": "メガネのアイガン",
+      "storeid": "daito-ee2ef7",
+      "shopid": "daito-ee2ef7-paypay"
     },
     {
-      "name": "ぱわあくらふと"
+      "name": "ぱわあくらふと",
+      "storeid": "daito-ad07b3",
+      "shopid": "daito-ad07b3-paypay"
     },
     {
-      "name": "BrosperZ"
+      "name": "BrosperZ",
+      "storeid": "daito-88ce6e",
+      "shopid": "daito-88ce6e-paypay"
     },
     {
-      "name": "DOG SALON KUCHEN"
+      "name": "DOG SALON KUCHEN",
+      "storeid": "daito-efac5f",
+      "shopid": "daito-efac5f-paypay"
     },
     {
-      "name": "alal myhome cafe"
+      "name": "alal myhome cafe",
+      "storeid": "daito-fe2dbe",
+      "shopid": "daito-fe2dbe-paypay"
     },
     {
-      "name": "ろくろく屋"
+      "name": "ろくろく屋",
+      "storeid": "daito-d8ad90",
+      "shopid": "daito-d8ad90-paypay"
     },
     {
-      "name": "大東ホンダ販売"
+      "name": "大東ホンダ販売",
+      "storeid": "daito-58618c",
+      "shopid": "daito-58618c-paypay"
     },
     {
-      "name": "ワインフードストア　こにし"
+      "name": "ワインフードストア　こにし",
+      "storeid": "daito-50803c",
+      "shopid": "daito-50803c-paypay"
     },
     {
-      "name": "Sotoaso O.B.S."
+      "name": "Sotoaso O.B.S.",
+      "storeid": "daito-4590c2",
+      "shopid": "daito-4590c2-paypay"
     },
     {
-      "name": "アールエスタイチ"
+      "name": "アールエスタイチ",
+      "storeid": "daito-8f392d",
+      "shopid": "daito-8f392d-paypay"
     },
     {
-      "name": "サイクルショップ米沢"
+      "name": "サイクルショップ米沢",
+      "storeid": "daito-a76360",
+      "shopid": "daito-a76360-paypay"
     },
     {
-      "name": "オート整備ファクトリー"
+      "name": "オート整備ファクトリー",
+      "storeid": "daito-ee79e0",
+      "shopid": "daito-ee79e0-paypay"
     },
     {
-      "name": "ツジグチコーポレーション"
+      "name": "ツジグチコーポレーション",
+      "storeid": "daito-58c8b8",
+      "shopid": "daito-58c8b8-paypay"
     },
     {
-      "name": "阪奈珈琲豆店"
+      "name": "阪奈珈琲豆店",
+      "storeid": "daito-c39f5a",
+      "shopid": "daito-c39f5a-paypay"
     },
     {
-      "name": "TRIAL Surf Family TRIAL SurfFamily & CAFE TSF"
+      "name": "TRIAL Surf Family TRIAL SurfFamily & CAFE TSF",
+      "storeid": "daito-74ad42",
+      "shopid": "daito-74ad42-paypay"
     },
     {
-      "name": "ダイアナ　ランウェイ"
+      "name": "ダイアナ　ランウェイ",
+      "storeid": "daito-ef06db",
+      "shopid": "daito-ef06db-paypay"
     },
     {
-      "name": "はんこ屋さん21"
+      "name": "はんこ屋さん21",
+      "storeid": "daito-97d142",
+      "shopid": "daito-97d142-paypay"
     }
   ],
   "ショッピング/各種小売(その他)": [
     {
-      "name": "バードプルーム野崎"
+      "name": "バードプルーム野崎",
+      "storeid": "daito-d9a3f3",
+      "shopid": "daito-d9a3f3-paypay"
     },
     {
-      "name": "スポーツサクライ"
+      "name": "スポーツサクライ",
+      "storeid": "daito-26bccc",
+      "shopid": "daito-26bccc-paypay"
     },
     {
-      "name": "肉の岡崎"
+      "name": "肉の岡崎",
+      "storeid": "daito-934a3f",
+      "shopid": "daito-934a3f-paypay"
     },
     {
-      "name": "Hello32"
+      "name": "Hello32",
+      "storeid": "daito-a0c2cb",
+      "shopid": "daito-a0c2cb-paypay"
     },
     {
-      "name": "タニグチスポーツ"
+      "name": "タニグチスポーツ",
+      "storeid": "daito-5c4156",
+      "shopid": "daito-5c4156-paypay"
     },
     {
-      "name": "bloomworks"
+      "name": "bloomworks",
+      "storeid": "daito-71e8ae",
+      "shopid": "daito-71e8ae-paypay"
     },
     {
-      "name": "株式会社深野屋"
+      "name": "株式会社深野屋",
+      "storeid": "daito-6ebb85",
+      "shopid": "daito-6ebb85-paypay"
     },
     {
-      "name": "株式会社大東タイヤサービス"
+      "name": "株式会社大東タイヤサービス",
+      "storeid": "daito-d1ba5f",
+      "shopid": "daito-d1ba5f-paypay"
     }
   ],
   "ショッピングセンター": [
     {
-      "name": "ハクジュプラザ"
+      "name": "ハクジュプラザ",
+      "storeid": "daito-7292de",
+      "shopid": "daito-7292de-paypay"
     }
   ],
   "スーパーマーケット": [
     {
-      "name": "JA岩手ふるさと"
+      "name": "JA岩手ふるさと",
+      "storeid": "daito-cfe15f",
+      "shopid": "daito-cfe15f-paypay"
     },
     {
-      "name": "Kマート"
+      "name": "Kマート",
+      "storeid": "daito-36c145",
+      "shopid": "daito-36c145-paypay"
     },
     {
-      "name": "万代"
+      "name": "万代",
+      "storeid": "daito-bd8719",
+      "shopid": "daito-bd8719-paypay"
     },
     {
-      "name": "サンディ"
+      "name": "サンディ",
+      "storeid": "daito-9f8342",
+      "shopid": "daito-9f8342-paypay"
     },
     {
-      "name": "コノミヤ"
+      "name": "コノミヤ",
+      "storeid": "daito-4d23e6",
+      "shopid": "daito-4d23e6-paypay"
     },
     {
-      "name": "オークワ"
+      "name": "オークワ",
+      "storeid": "daito-4e5df0",
+      "shopid": "daito-4e5df0-paypay"
     },
     {
-      "name": "オーディーエー"
+      "name": "オーディーエー",
+      "storeid": "daito-cf3223",
+      "shopid": "daito-cf3223-paypay"
     }
   ],
   "ドラッグストア": [
     {
-      "name": "ココカラファイン"
+      "name": "ココカラファイン",
+      "storeid": "daito-3a174f",
+      "shopid": "daito-3a174f-paypay"
     },
     {
-      "name": "ウエルシア"
+      "name": "ウエルシア",
+      "storeid": "daito-c1e567",
+      "shopid": "daito-c1e567-paypay"
     },
     {
-      "name": "サンドラッグ"
+      "name": "サンドラッグ",
+      "storeid": "daito-dd55c5",
+      "shopid": "daito-dd55c5-paypay"
     },
     {
-      "name": "メナード化粧品赤井代行店"
+      "name": "メナード化粧品赤井代行店",
+      "storeid": "daito-263ea1",
+      "shopid": "daito-263ea1-paypay"
     },
     {
-      "name": "ビューティーコスメyoko"
+      "name": "ビューティーコスメyoko",
+      "storeid": "daito-112b79",
+      "shopid": "daito-112b79-paypay"
     },
     {
-      "name": "ハロードラッグすみのどう薬局"
+      "name": "ハロードラッグすみのどう薬局",
+      "storeid": "daito-4a33e6",
+      "shopid": "daito-4a33e6-paypay"
     },
     {
-      "name": "やすい化粧品店"
+      "name": "やすい化粧品店",
+      "storeid": "daito-e0f8d3",
+      "shopid": "daito-e0f8d3-paypay"
     },
     {
-      "name": "平和堂"
+      "name": "平和堂",
+      "storeid": "daito-c5f735",
+      "shopid": "daito-c5f735-paypay"
     },
     {
-      "name": "As.beaute アズボーテ　POPUP"
+      "name": "As.beaute アズボーテ　POPUP",
+      "storeid": "daito-fb08a6",
+      "shopid": "daito-fb08a6-paypay"
     },
     {
-      "name": "スギ薬局"
+      "name": "スギ薬局",
+      "storeid": "daito-846e0f",
+      "shopid": "daito-846e0f-paypay"
     },
     {
-      "name": "キリン堂"
+      "name": "キリン堂",
+      "storeid": "daito-113dfc",
+      "shopid": "daito-113dfc-paypay"
     },
     {
-      "name": "アカカベ"
+      "name": "アカカベ",
+      "storeid": "daito-5c8c6d",
+      "shopid": "daito-5c8c6d-paypay"
     }
   ],
   "ファッション": [
     {
-      "name": "イトウゴフク"
+      "name": "イトウゴフク",
+      "storeid": "daito-6663ab",
+      "shopid": "daito-6663ab-paypay"
     },
     {
-      "name": "Keitto asua"
+      "name": "Keitto asua",
+      "storeid": "daito-c0ef27",
+      "shopid": "daito-c0ef27-paypay"
     },
     {
-      "name": "手芸の丸十"
+      "name": "手芸の丸十",
+      "storeid": "daito-f2a0dd",
+      "shopid": "daito-f2a0dd-paypay"
     },
     {
-      "name": "パレモ"
+      "name": "パレモ",
+      "storeid": "daito-12b50f",
+      "shopid": "daito-12b50f-paypay"
     },
     {
-      "name": "NORTHERN TRUCK/LILASIC"
+      "name": "NORTHERN TRUCK/LILASIC",
+      "storeid": "daito-093278",
+      "shopid": "daito-093278-paypay"
     }
   ],
   "ファッション/アクセサリー/時計": [
     {
-      "name": "ジュエリー&腕時計　Bene Bene"
+      "name": "ジュエリー&腕時計　Bene Bene",
+      "storeid": "daito-050f63",
+      "shopid": "daito-050f63-paypay"
     }
   ],
   "ファッション/各種小売(その他)": [
     {
-      "name": "パレット"
+      "name": "パレット",
+      "storeid": "daito-e4f4ee",
+      "shopid": "daito-e4f4ee-paypay"
     },
     {
-      "name": "バラエティ101"
+      "name": "バラエティ101",
+      "storeid": "daito-60308e",
+      "shopid": "daito-60308e-paypay"
     },
     {
-      "name": "たまゆら"
+      "name": "たまゆら",
+      "storeid": "daito-3fdad5",
+      "shopid": "daito-3fdad5-paypay"
     }
   ],
   "ファッション/靴販売店": [
     {
-      "name": "チヨダ　シュープラザ"
+      "name": "チヨダ　シュープラザ",
+      "storeid": "daito-69462b",
+      "shopid": "daito-69462b-paypay"
     }
   ],
   "ホテル・旅館": [
     {
-      "name": "扇温泉"
+      "name": "扇温泉",
+      "storeid": "daito-f0905a",
+      "shopid": "daito-f0905a-paypay"
     }
   ],
   "ホームセンター": [
     {
-      "name": "ホームセンターコーナン"
+      "name": "ホームセンターコーナン",
+      "storeid": "daito-5352b7",
+      "shopid": "daito-5352b7-paypay"
     },
     {
-      "name": "ジョーシン"
+      "name": "ジョーシン",
+      "storeid": "daito-c556fa",
+      "shopid": "daito-c556fa-paypay"
     },
     {
-      "name": "エディオン"
+      "name": "エディオン",
+      "storeid": "daito-5b781c",
+      "shopid": "daito-5b781c-paypay"
     }
   ],
   "マッサージ": [
     {
-      "name": "もり鍼灸整骨院"
+      "name": "もり鍼灸整骨院",
+      "storeid": "daito-7cd348",
+      "shopid": "daito-7cd348-paypay"
     }
   ],
   "家電・携帯電話": [
     {
-      "name": "コジマ×ビックカメラ"
+      "name": "コジマ×ビックカメラ",
+      "storeid": "daito-3dc97a",
+      "shopid": "daito-3dc97a-paypay"
     },
     {
-      "name": "モコヤクラフト"
+      "name": "モコヤクラフト",
+      "storeid": "daito-d3dc0a",
+      "shopid": "daito-d3dc0a-paypay"
     },
     {
-      "name": "ソフトバンク"
+      "name": "ソフトバンク",
+      "storeid": "daito-ff613c",
+      "shopid": "daito-ff613c-paypay"
     },
     {
-      "name": "KBCデンキ"
+      "name": "KBCデンキ",
+      "storeid": "daito-a3f06d",
+      "shopid": "daito-a3f06d-paypay"
     },
     {
-      "name": "スマホとネットの窓口"
+      "name": "スマホとネットの窓口",
+      "storeid": "daito-f8e297",
+      "shopid": "daito-f8e297-paypay"
     },
     {
-      "name": "SB/YMショップ"
+      "name": "SB/YMショップ",
+      "storeid": "daito-e88cd0",
+      "shopid": "daito-e88cd0-paypay"
     },
     {
-      "name": "ユアーズ株式会社"
+      "name": "ユアーズ株式会社",
+      "storeid": "daito-c74f8e",
+      "shopid": "daito-c74f8e-paypay"
     },
     {
-      "name": "カネトウ商工"
+      "name": "カネトウ商工",
+      "storeid": "daito-0ca467",
+      "shopid": "daito-0ca467-paypay"
     },
     {
-      "name": "QQテック"
+      "name": "QQテック",
+      "storeid": "daito-008f26",
+      "shopid": "daito-008f26-paypay"
     },
     {
-      "name": "パルウエダ株式会社"
+      "name": "パルウエダ株式会社",
+      "storeid": "daito-15c00a",
+      "shopid": "daito-15c00a-paypay"
     },
     {
-      "name": "&.art"
+      "name": "&.art",
+      "storeid": "daito-9ddd50",
+      "shopid": "daito-9ddd50-paypay"
     },
     {
-      "name": "うえむら畳商店"
+      "name": "うえむら畳商店",
+      "storeid": "daito-5b0058",
+      "shopid": "daito-5b0058-paypay"
     },
     {
-      "name": "圭里刃物"
+      "name": "圭里刃物",
+      "storeid": "daito-fbb4f9",
+      "shopid": "daito-fbb4f9-paypay"
     },
     {
-      "name": "SALON LINO"
+      "name": "SALON LINO",
+      "storeid": "daito-ea0ba3",
+      "shopid": "daito-ea0ba3-paypay"
     },
     {
-      "name": "室内計画"
+      "name": "室内計画",
+      "storeid": "daito-0b934b",
+      "shopid": "daito-0b934b-paypay"
     },
     {
-      "name": "AINZ　キリヤス"
+      "name": "AINZ　キリヤス",
+      "storeid": "daito-daf32d",
+      "shopid": "daito-daf32d-paypay"
     },
     {
-      "name": "三幸電機"
+      "name": "三幸電機",
+      "storeid": "daito-b4e6cf",
+      "shopid": "daito-b4e6cf-paypay"
     }
   ],
   "百貨店・ショッピングセンター": [
     {
-      "name": "京阪百貨店"
+      "name": "京阪百貨店",
+      "storeid": "daito-86fe52",
+      "shopid": "daito-86fe52-paypay"
     },
     {
-      "name": "ビアード　パパ"
+      "name": "ビアード　パパ",
+      "storeid": "daito-6457a2",
+      "shopid": "daito-6457a2-paypay"
     },
     {
-      "name": "ポップタウン住道　花満円"
+      "name": "ポップタウン住道　花満円",
+      "storeid": "daito-7fa86e",
+      "shopid": "daito-7fa86e-paypay"
     },
     {
-      "name": "ポップタウン住道　イレブンカット"
+      "name": "ポップタウン住道　イレブンカット",
+      "storeid": "daito-21d7c8",
+      "shopid": "daito-21d7c8-paypay"
     },
     {
-      "name": "ポップタウン住道　cliffhanger"
+      "name": "ポップタウン住道　cliffhanger",
+      "storeid": "daito-d304ac",
+      "shopid": "daito-d304ac-paypay"
     },
     {
-      "name": "ポップタウン住道　ewvoam"
+      "name": "ポップタウン住道　ewvoam",
+      "storeid": "daito-4e4438",
+      "shopid": "daito-4e4438-paypay"
     },
     {
-      "name": "ポップタウン住道　any FAM by KUMIKYOKU"
+      "name": "ポップタウン住道　any FAM by KUMIKYOKU",
+      "storeid": "daito-429dce",
+      "shopid": "daito-429dce-paypay"
     },
     {
-      "name": "ポップタウン住道　Charme by FIGARO"
+      "name": "ポップタウン住道　Charme by FIGARO",
+      "storeid": "daito-b54d14",
+      "shopid": "daito-b54d14-paypay"
     },
     {
-      "name": "ポップタウン住道　パンジーショップ"
+      "name": "ポップタウン住道　パンジーショップ",
+      "storeid": "daito-fd9366",
+      "shopid": "daito-fd9366-paypay"
     },
     {
-      "name": "ポップタウン住道　クリーニングルビー"
+      "name": "ポップタウン住道　クリーニングルビー",
+      "storeid": "daito-218b32",
+      "shopid": "daito-218b32-paypay"
     },
     {
-      "name": "ポップタウン住道　Natural Style"
+      "name": "ポップタウン住道　Natural Style",
+      "storeid": "daito-167f06",
+      "shopid": "daito-167f06-paypay"
     },
     {
-      "name": "ポップタウン住道　セントエリーネ"
+      "name": "ポップタウン住道　セントエリーネ",
+      "storeid": "daito-6e9135",
+      "shopid": "daito-6e9135-paypay"
     },
     {
-      "name": "ポップタウン住道　マザーガーデン&ペットパラダイス"
+      "name": "ポップタウン住道　マザーガーデン&ペットパラダイス",
+      "storeid": "daito-e88634",
+      "shopid": "daito-e88634-paypay"
     },
     {
-      "name": "ポップタウン住道　SUITS&SUITS"
+      "name": "ポップタウン住道　SUITS&SUITS",
+      "storeid": "daito-48f111",
+      "shopid": "daito-48f111-paypay"
     },
     {
-      "name": "ポップタウン住道　しらかば"
+      "name": "ポップタウン住道　しらかば",
+      "storeid": "daito-1f568f",
+      "shopid": "daito-1f568f-paypay"
     },
     {
-      "name": "ポップタウン住道　DOUX SAC'S"
+      "name": "ポップタウン住道　DOUX SAC'S",
+      "storeid": "daito-ef634a",
+      "shopid": "daito-ef634a-paypay"
     },
     {
-      "name": "ポップタウン住道　PLUSONE"
+      "name": "ポップタウン住道　PLUSONE",
+      "storeid": "daito-e7c01f",
+      "shopid": "daito-e7c01f-paypay"
     },
     {
-      "name": "ラフィネ"
+      "name": "ラフィネ",
+      "storeid": "daito-350405",
+      "shopid": "daito-350405-paypay"
     },
     {
-      "name": "おしゃれ工房"
+      "name": "おしゃれ工房",
+      "storeid": "daito-f32c26",
+      "shopid": "daito-f32c26-paypay"
     },
     {
-      "name": "イトミヤ"
+      "name": "イトミヤ",
+      "storeid": "daito-b85f87",
+      "shopid": "daito-b85f87-paypay"
     },
     {
-      "name": "BEAST"
+      "name": "BEAST",
+      "storeid": "daito-aef8e8",
+      "shopid": "daito-aef8e8-paypay"
     },
     {
-      "name": "レヴェ　アンジュ"
+      "name": "レヴェ　アンジュ",
+      "storeid": "daito-d82117",
+      "shopid": "daito-d82117-paypay"
     },
     {
-      "name": "ラ　ポール"
+      "name": "ラ　ポール",
+      "storeid": "daito-91318a",
+      "shopid": "daito-91318a-paypay"
     },
     {
-      "name": "AVENUE"
+      "name": "AVENUE",
+      "storeid": "daito-c561fb",
+      "shopid": "daito-c561fb-paypay"
     },
     {
-      "name": "M2 by sensounico"
+      "name": "M2 by sensounico",
+      "storeid": "daito-98ebf9",
+      "shopid": "daito-98ebf9-paypay"
     },
     {
-      "name": "はんえいどう"
+      "name": "はんえいどう",
+      "storeid": "daito-51904d",
+      "shopid": "daito-51904d-paypay"
     },
     {
-      "name": "Bene　"
+      "name": "Bene　",
+      "storeid": "daito-fafa0d",
+      "shopid": "daito-fafa0d-paypay"
     },
     {
-      "name": "ポップタウン住道"
+      "name": "ポップタウン住道",
+      "storeid": "daito-9e43c4",
+      "shopid": "daito-9e43c4-paypay"
     },
     {
-      "name": "クールカレアン"
+      "name": "クールカレアン",
+      "storeid": "daito-950651",
+      "shopid": "daito-950651-paypay"
     },
     {
-      "name": "田仲屋"
+      "name": "田仲屋",
+      "storeid": "daito-898433",
+      "shopid": "daito-898433-paypay"
     },
     {
-      "name": "吉野家"
+      "name": "吉野家",
+      "storeid": "daito-b80560",
+      "shopid": "daito-b80560-paypay"
     }
   ],
   "美容院・サロン": [
     {
-      "name": "理容プラージュ"
+      "name": "理容プラージュ",
+      "storeid": "daito-ece8ab",
+      "shopid": "daito-ece8ab-paypay"
     },
     {
-      "name": "QLC CUT STAND"
+      "name": "QLC CUT STAND",
+      "storeid": "daito-20251e",
+      "shopid": "daito-20251e-paypay"
     },
     {
-      "name": "Fransh"
+      "name": "Fransh",
+      "storeid": "daito-eb68cc",
+      "shopid": "daito-eb68cc-paypay"
     },
     {
-      "name": "Parmtown Climb"
+      "name": "Parmtown Climb",
+      "storeid": "daito-21e0d9",
+      "shopid": "daito-21e0d9-paypay"
     },
     {
-      "name": "Laviere 美容室 hair salon"
+      "name": "Laviere 美容室 hair salon",
+      "storeid": "daito-fc2d08",
+      "shopid": "daito-fc2d08-paypay"
     },
     {
-      "name": "株式会社イーストンアーミー FREEZ 住道"
+      "name": "株式会社イーストンアーミー FREEZ 住道",
+      "storeid": "daito-f7eaba",
+      "shopid": "daito-f7eaba-paypay"
     },
     {
-      "name": "nail&eye Lily"
+      "name": "nail&eye Lily",
+      "storeid": "daito-898202",
+      "shopid": "daito-898202-paypay"
     },
     {
-      "name": "Betty by schon"
+      "name": "Betty by schon",
+      "storeid": "daito-49e8da",
+      "shopid": "daito-49e8da-paypay"
     },
     {
-      "name": "COCO&RO"
+      "name": "COCO&RO",
+      "storeid": "daito-e97c8e",
+      "shopid": "daito-e97c8e-paypay"
     },
     {
-      "name": "美容プラージュ"
+      "name": "美容プラージュ",
+      "storeid": "daito-728e7d",
+      "shopid": "daito-728e7d-paypay"
     },
     {
-      "name": "有限会社フィデス　Hair create Party Party"
+      "name": "有限会社フィデス　Hair create Party Party",
+      "storeid": "daito-285985",
+      "shopid": "daito-285985-paypay"
     },
     {
-      "name": "T's gallery -bright- ティーズギャラリーブライト"
+      "name": "T's gallery -bright- ティーズギャラリーブライト",
+      "storeid": "daito-a5ae5a",
+      "shopid": "daito-a5ae5a-paypay"
     },
     {
-      "name": "hair's BOB"
+      "name": "hair's BOB",
+      "storeid": "daito-533d3f",
+      "shopid": "daito-533d3f-paypay"
     },
     {
-      "name": "HAIR SALON OKITA ~H.O~"
+      "name": "HAIR SALON OKITA ~H.O~",
+      "storeid": "daito-561422",
+      "shopid": "daito-561422-paypay"
     },
     {
-      "name": "Rapport"
+      "name": "Rapport",
+      "storeid": "daito-863766",
+      "shopid": "daito-863766-paypay"
     },
     {
-      "name": "Hair creation"
+      "name": "Hair creation",
+      "storeid": "daito-21aca6",
+      "shopid": "daito-21aca6-paypay"
     },
     {
-      "name": "clover hair"
+      "name": "clover hair",
+      "storeid": "daito-1d9423",
+      "shopid": "daito-1d9423-paypay"
     },
     {
-      "name": "はあとねいる"
+      "name": "はあとねいる",
+      "storeid": "daito-9f06c3",
+      "shopid": "daito-9f06c3-paypay"
     },
     {
-      "name": "ヘアメイクピース（Hair make Piece）"
+      "name": "ヘアメイクピース（Hair make Piece）",
+      "storeid": "daito-b10e61",
+      "shopid": "daito-b10e61-paypay"
     },
     {
-      "name": "Hair&Spa chouetto."
+      "name": "Hair&Spa chouetto.",
+      "storeid": "daito-ceeb32",
+      "shopid": "daito-ceeb32-paypay"
     },
     {
-      "name": "Bliss eyes　ブリスアイズ"
+      "name": "Bliss eyes　ブリスアイズ",
+      "storeid": "daito-bcff19",
+      "shopid": "daito-bcff19-paypay"
     },
     {
-      "name": "L'un L'autre"
+      "name": "L'un L'autre",
+      "storeid": "daito-f98dd9",
+      "shopid": "daito-f98dd9-paypay"
     },
     {
-      "name": "カノンアート Canon art"
+      "name": "カノンアート Canon art",
+      "storeid": "daito-6143c1",
+      "shopid": "daito-6143c1-paypay"
     },
     {
-      "name": "STYLISH MITSUKO"
+      "name": "STYLISH MITSUKO",
+      "storeid": "daito-c5538b",
+      "shopid": "daito-c5538b-paypay"
     },
     {
-      "name": "Latre"
+      "name": "Latre",
+      "storeid": "daito-4982ef",
+      "shopid": "daito-4982ef-paypay"
     },
     {
-      "name": "LASH LAB"
+      "name": "LASH LAB",
+      "storeid": "daito-ee83e5",
+      "shopid": "daito-ee83e5-paypay"
     },
     {
-      "name": "Tirtha"
+      "name": "Tirtha",
+      "storeid": "daito-17fa78",
+      "shopid": "daito-17fa78-paypay"
     },
     {
-      "name": "LOOP"
+      "name": "LOOP",
+      "storeid": "daito-9159b3",
+      "shopid": "daito-9159b3-paypay"
     },
     {
-      "name": "PELICAN"
+      "name": "PELICAN",
+      "storeid": "daito-d0d92c",
+      "shopid": "daito-d0d92c-paypay"
     },
     {
-      "name": "symHAIR シムヘアー"
+      "name": "symHAIR シムヘアー",
+      "storeid": "daito-2e8127",
+      "shopid": "daito-2e8127-paypay"
     },
     {
-      "name": "chura"
+      "name": "chura",
+      "storeid": "daito-cd1142",
+      "shopid": "daito-cd1142-paypay"
     }
   ],
   "飲食店": [
     {
-      "name": "大阪王将"
+      "name": "大阪王将",
+      "storeid": "daito-4d912f",
+      "shopid": "daito-4d912f-paypay"
     },
     {
-      "name": "めだかぱん"
+      "name": "めだかぱん",
+      "storeid": "daito-7163d0",
+      "shopid": "daito-7163d0-paypay"
     },
     {
-      "name": "米せん"
+      "name": "米せん",
+      "storeid": "daito-c1ba12",
+      "shopid": "daito-c1ba12-paypay"
     },
     {
-      "name": "ポップタウン住道　うどんの宿六"
+      "name": "ポップタウン住道　うどんの宿六",
+      "storeid": "daito-1c1261",
+      "shopid": "daito-1c1261-paypay"
     },
     {
-      "name": "大阪ふくちぁんラーメン"
+      "name": "大阪ふくちぁんラーメン",
+      "storeid": "daito-f33150",
+      "shopid": "daito-f33150-paypay"
     },
     {
-      "name": "麺場　田所商店"
+      "name": "麺場　田所商店",
+      "storeid": "daito-99e013",
+      "shopid": "daito-99e013-paypay"
     },
     {
-      "name": "餃子の王将"
+      "name": "餃子の王将",
+      "storeid": "daito-6fa12c",
+      "shopid": "daito-6fa12c-paypay"
     },
     {
-      "name": "魚べい"
+      "name": "魚べい",
+      "storeid": "daito-d21a05",
+      "shopid": "daito-d21a05-paypay"
     },
     {
-      "name": "バーガーキング"
+      "name": "バーガーキング",
+      "storeid": "daito-8257d0",
+      "shopid": "daito-8257d0-paypay"
     },
     {
-      "name": "コッペ田島"
+      "name": "コッペ田島",
+      "storeid": "daito-7ba7c8",
+      "shopid": "daito-7ba7c8-paypay"
     },
     {
-      "name": "あきんどスシロー"
+      "name": "あきんどスシロー",
+      "storeid": "daito-8ff7c2",
+      "shopid": "daito-8ff7c2-paypay"
     },
     {
-      "name": "ゼッテリア"
+      "name": "ゼッテリア",
+      "storeid": "daito-c3c914",
+      "shopid": "daito-c3c914-paypay"
     },
     {
-      "name": "Keitto Leipa"
+      "name": "Keitto Leipa",
+      "storeid": "daito-de9c36",
+      "shopid": "daito-de9c36-paypay"
     },
     {
-      "name": "松屋フーズ"
+      "name": "松屋フーズ",
+      "storeid": "daito-ac8ffe",
+      "shopid": "daito-ac8ffe-paypay"
     },
     {
-      "name": "ケンタッキーフライドチキン"
+      "name": "ケンタッキーフライドチキン",
+      "storeid": "daito-d5292c",
+      "shopid": "daito-d5292c-paypay"
     },
     {
-      "name": "ミスタードーナツ"
+      "name": "ミスタードーナツ",
+      "storeid": "daito-19cc19",
+      "shopid": "daito-19cc19-paypay"
     },
     {
-      "name": "くら寿司"
+      "name": "くら寿司",
+      "storeid": "daito-69e7e7",
+      "shopid": "daito-69e7e7-paypay"
     },
     {
-      "name": "コメダ珈琲店"
+      "name": "コメダ珈琲店",
+      "storeid": "daito-db09b6",
+      "shopid": "daito-db09b6-paypay"
     },
     {
-      "name": "かつや"
+      "name": "かつや",
+      "storeid": "daito-8ef884",
+      "shopid": "daito-8ef884-paypay"
     },
     {
-      "name": "サーティワン　アイスクリーム"
+      "name": "サーティワン　アイスクリーム",
+      "storeid": "daito-fc37a1",
+      "shopid": "daito-fc37a1-paypay"
     },
     {
-      "name": "なか卯"
+      "name": "なか卯",
+      "storeid": "daito-b937a8",
+      "shopid": "daito-b937a8-paypay"
     },
     {
-      "name": "さん天"
+      "name": "さん天",
+      "storeid": "daito-0e754d",
+      "shopid": "daito-0e754d-paypay"
     },
     {
-      "name": "はなまるうどん"
+      "name": "はなまるうどん",
+      "storeid": "daito-995dd1",
+      "shopid": "daito-995dd1-paypay"
     },
     {
-      "name": "サンマルクカフェ"
+      "name": "サンマルクカフェ",
+      "storeid": "daito-392349",
+      "shopid": "daito-392349-paypay"
     },
     {
-      "name": "Holly's Cafe"
+      "name": "Holly's Cafe",
+      "storeid": "daito-632fc1",
+      "shopid": "daito-632fc1-paypay"
     },
     {
-      "name": "菓子工房レジェール　クロワ"
+      "name": "菓子工房レジェール　クロワ",
+      "storeid": "daito-87907f",
+      "shopid": "daito-87907f-paypay"
     },
     {
-      "name": "シンショク食堂"
+      "name": "シンショク食堂",
+      "storeid": "daito-00bb4b",
+      "shopid": "daito-00bb4b-paypay"
     },
     {
-      "name": "コリアンダイニング李朝園"
+      "name": "コリアンダイニング李朝園",
+      "storeid": "daito-50df8c",
+      "shopid": "daito-50df8c-paypay"
     },
     {
-      "name": "ガスト"
+      "name": "ガスト",
+      "storeid": "daito-9e4d11",
+      "shopid": "daito-9e4d11-paypay"
     },
     {
-      "name": "采なりうどん　きらく"
+      "name": "采なりうどん　きらく",
+      "storeid": "daito-c0be8a",
+      "shopid": "daito-c0be8a-paypay"
     },
     {
-      "name": "ラ・フォーレ"
+      "name": "ラ・フォーレ",
+      "storeid": "daito-5da435",
+      "shopid": "daito-5da435-paypay"
     },
     {
-      "name": "ジョリーパスタ"
+      "name": "ジョリーパスタ",
+      "storeid": "daito-a127da",
+      "shopid": "daito-a127da-paypay"
     },
     {
-      "name": "かつ喜"
+      "name": "かつ喜",
+      "storeid": "daito-843337",
+      "shopid": "daito-843337-paypay"
     },
     {
-      "name": "てこや"
+      "name": "てこや",
+      "storeid": "daito-7a1867",
+      "shopid": "daito-7a1867-paypay"
     },
     {
-      "name": "インド料理　Milan"
+      "name": "インド料理　Milan",
+      "storeid": "daito-540864",
+      "shopid": "daito-540864-paypay"
     },
     {
-      "name": "彩華ラーメン"
+      "name": "彩華ラーメン",
+      "storeid": "daito-382aaa",
+      "shopid": "daito-382aaa-paypay"
     },
     {
-      "name": "ぷろーじっと"
+      "name": "ぷろーじっと",
+      "storeid": "daito-5643f1",
+      "shopid": "daito-5643f1-paypay"
     },
     {
-      "name": "Keirro Ruokala"
+      "name": "Keirro Ruokala",
+      "storeid": "daito-0603f7",
+      "shopid": "daito-0603f7-paypay"
     },
     {
-      "name": "もりねき食堂"
+      "name": "もりねき食堂",
+      "storeid": "daito-d7e930",
+      "shopid": "daito-d7e930-paypay"
     },
     {
-      "name": "焼肉きんぐ"
+      "name": "焼肉きんぐ",
+      "storeid": "daito-e0cd33",
+      "shopid": "daito-e0cd33-paypay"
     },
     {
-      "name": "スカイブルー"
+      "name": "スカイブルー",
+      "storeid": "daito-575caa",
+      "shopid": "daito-575caa-paypay"
     },
     {
-      "name": "ROJI HOUSE"
+      "name": "ROJI HOUSE",
+      "storeid": "daito-3322d3",
+      "shopid": "daito-3322d3-paypay"
     },
     {
-      "name": "最鳥"
+      "name": "最鳥",
+      "storeid": "daito-8a80be",
+      "shopid": "daito-8a80be-paypay"
     },
     {
-      "name": "お好み焼き偶"
+      "name": "お好み焼き偶",
+      "storeid": "daito-1340e8",
+      "shopid": "daito-1340e8-paypay"
     },
     {
-      "name": "ゴーゴーコロッケ"
+      "name": "ゴーゴーコロッケ",
+      "storeid": "daito-ff9f85",
+      "shopid": "daito-ff9f85-paypay"
     },
     {
-      "name": "とり膳"
+      "name": "とり膳",
+      "storeid": "daito-e50a7d",
+      "shopid": "daito-e50a7d-paypay"
     },
     {
-      "name": "うどん処　龍太郎"
+      "name": "うどん処　龍太郎",
+      "storeid": "daito-796720",
+      "shopid": "daito-796720-paypay"
     },
     {
-      "name": "スワンベーカリー"
+      "name": "スワンベーカリー",
+      "storeid": "daito-29b51f",
+      "shopid": "daito-29b51f-paypay"
     },
     {
-      "name": "麺屋かねよし"
+      "name": "麺屋かねよし",
+      "storeid": "daito-a5ff63",
+      "shopid": "daito-a5ff63-paypay"
     },
     {
-      "name": "鶏笑"
+      "name": "鶏笑",
+      "storeid": "daito-c5e301",
+      "shopid": "daito-c5e301-paypay"
     },
     {
-      "name": "インド料理カルマ"
+      "name": "インド料理カルマ",
+      "storeid": "daito-a32794",
+      "shopid": "daito-a32794-paypay"
     },
     {
-      "name": "アルカディア"
+      "name": "アルカディア",
+      "storeid": "daito-1eec77",
+      "shopid": "daito-1eec77-paypay"
     },
     {
-      "name": "Opera Cafe"
+      "name": "Opera Cafe",
+      "storeid": "daito-9d7daa",
+      "shopid": "daito-9d7daa-paypay"
     },
     {
-      "name": "cafe M"
+      "name": "cafe M",
+      "storeid": "daito-2d9304",
+      "shopid": "daito-2d9304-paypay"
     },
     {
-      "name": "株式会社　都給食　川村義肢株式会社　社員食堂"
+      "name": "株式会社　都給食　川村義肢株式会社　社員食堂",
+      "storeid": "daito-703558",
+      "shopid": "daito-703558-paypay"
     },
     {
-      "name": "Mahalo"
+      "name": "Mahalo",
+      "storeid": "daito-d0b9be",
+      "shopid": "daito-d0b9be-paypay"
     },
     {
-      "name": "大力　オークラ"
+      "name": "大力　オークラ",
+      "storeid": "daito-fdb5ad",
+      "shopid": "daito-fdb5ad-paypay"
     },
     {
-      "name": "鳥貴族"
+      "name": "鳥貴族",
+      "storeid": "daito-2f1ba6",
+      "shopid": "daito-2f1ba6-paypay"
     },
     {
-      "name": "ZELKOVA CAFE"
+      "name": "ZELKOVA CAFE",
+      "storeid": "daito-1f380e",
+      "shopid": "daito-1f380e-paypay"
     },
     {
-      "name": "Keitto Oppi"
+      "name": "Keitto Oppi",
+      "storeid": "daito-d98039",
+      "shopid": "daito-d98039-paypay"
     },
     {
-      "name": "SAPANA"
+      "name": "SAPANA",
+      "storeid": "daito-2876c7",
+      "shopid": "daito-2876c7-paypay"
     },
     {
-      "name": "京橋ハラミ屋"
+      "name": "京橋ハラミ屋",
+      "storeid": "daito-f9b315",
+      "shopid": "daito-f9b315-paypay"
     },
     {
-      "name": "波平"
+      "name": "波平",
+      "storeid": "daito-dcf268",
+      "shopid": "daito-dcf268-paypay"
     },
     {
-      "name": "福ずし別館"
+      "name": "福ずし別館",
+      "storeid": "daito-9e0cad",
+      "shopid": "daito-9e0cad-paypay"
     },
     {
-      "name": "AQUA"
+      "name": "AQUA",
+      "storeid": "daito-136690",
+      "shopid": "daito-136690-paypay"
     },
     {
-      "name": "ヨシックス　や台ずし"
+      "name": "ヨシックス　や台ずし",
+      "storeid": "daito-004396",
+      "shopid": "daito-004396-paypay"
     },
     {
-      "name": "風の街"
+      "name": "風の街",
+      "storeid": "daito-1bf945",
+      "shopid": "daito-1bf945-paypay"
     },
     {
-      "name": "木曽路"
+      "name": "木曽路",
+      "storeid": "daito-645466",
+      "shopid": "daito-645466-paypay"
     },
     {
-      "name": "ピザ・サントロペ"
+      "name": "ピザ・サントロペ",
+      "storeid": "daito-13f2dc",
+      "shopid": "daito-13f2dc-paypay"
     },
     {
-      "name": "LBcafe"
+      "name": "LBcafe",
+      "storeid": "daito-f2b359",
+      "shopid": "daito-f2b359-paypay"
     },
     {
-      "name": "菜りっしゅ"
+      "name": "菜りっしゅ",
+      "storeid": "daito-367f6c",
+      "shopid": "daito-367f6c-paypay"
     },
     {
-      "name": "よこの家"
+      "name": "よこの家",
+      "storeid": "daito-c15595",
+      "shopid": "daito-c15595-paypay"
     },
     {
-      "name": "SHOTA"
+      "name": "SHOTA",
+      "storeid": "daito-f79337",
+      "shopid": "daito-f79337-paypay"
     },
     {
-      "name": "焼き鳥酒場　響"
+      "name": "焼き鳥酒場　響",
+      "storeid": "daito-fc7ee6",
+      "shopid": "daito-fc7ee6-paypay"
     },
     {
-      "name": "和ノなの　SPICE CURRY"
+      "name": "和ノなの　SPICE CURRY",
+      "storeid": "daito-1ea937",
+      "shopid": "daito-1ea937-paypay"
     },
     {
-      "name": "からあげやカリッジュ"
+      "name": "からあげやカリッジュ",
+      "storeid": "daito-41cdf1",
+      "shopid": "daito-41cdf1-paypay"
     },
     {
-      "name": "YAMA KITCHEN"
+      "name": "YAMA KITCHEN",
+      "storeid": "daito-774d1d",
+      "shopid": "daito-774d1d-paypay"
     },
     {
-      "name": "TARA"
+      "name": "TARA",
+      "storeid": "daito-cc0229",
+      "shopid": "daito-cc0229-paypay"
     },
     {
-      "name": "kitchen ma-ru"
+      "name": "kitchen ma-ru",
+      "storeid": "daito-7daf56",
+      "shopid": "daito-7daf56-paypay"
     },
     {
-      "name": "酔虎伝"
+      "name": "酔虎伝",
+      "storeid": "daito-00c2fc",
+      "shopid": "daito-00c2fc-paypay"
     },
     {
-      "name": "赤身肉・塩ホルモン　天平"
+      "name": "赤身肉・塩ホルモン　天平",
+      "storeid": "daito-b60234",
+      "shopid": "daito-b60234-paypay"
     },
     {
-      "name": "からあげ　ふじや　キッチンカー"
+      "name": "からあげ　ふじや　キッチンカー",
+      "storeid": "daito-6bb36f",
+      "shopid": "daito-6bb36f-paypay"
     },
     {
-      "name": "焼肉　大東ミラク"
+      "name": "焼肉　大東ミラク",
+      "storeid": "daito-3ab066",
+      "shopid": "daito-3ab066-paypay"
     }
   ],
   "飲食店/つけ麺/ラーメン": [
     {
-      "name": "中華食堂せっちゃん"
+      "name": "中華食堂せっちゃん",
+      "storeid": "daito-dffef0",
+      "shopid": "daito-dffef0-paypay"
     }
   ],
   "飲食店/カフェ": [
     {
-      "name": "カフェマルジ"
+      "name": "カフェマルジ",
+      "storeid": "daito-5b3890",
+      "shopid": "daito-5b3890-paypay"
     }
   ],
   "飲食店/スペイン料理/バル": [
     {
-      "name": "ふじバル"
+      "name": "ふじバル",
+      "storeid": "daito-8c76bf",
+      "shopid": "daito-8c76bf-paypay"
     }
   ],
   "飲食店/パン屋/サンドイッチ": [
     {
-      "name": "BAKERY&CAFE GAUDI"
+      "name": "BAKERY&CAFE GAUDI",
+      "storeid": "daito-1082d3",
+      "shopid": "daito-1082d3-paypay"
     }
   ],
   "飲食店/ラーメン": [
     {
-      "name": "ラーメン　まこと屋"
+      "name": "ラーメン　まこと屋",
+      "storeid": "daito-7e1947",
+      "shopid": "daito-7e1947-paypay"
     }
   ],
   "飲食店/ラーメン/定食": [
     {
-      "name": "未来亭"
+      "name": "未来亭",
+      "storeid": "daito-21bc24",
+      "shopid": "daito-21bc24-paypay"
     }
   ],
   "飲食店/中華料理/中華": [
     {
-      "name": "長安"
+      "name": "長安",
+      "storeid": "daito-8348fb",
+      "shopid": "daito-8348fb-paypay"
     }
   ],
   "飲食店/中華料理/四川料理": [
     {
-      "name": "中國料理　雲水樓"
+      "name": "中國料理　雲水樓",
+      "storeid": "daito-a351b5",
+      "shopid": "daito-a351b5-paypay"
     }
   ],
   "飲食店/弁当屋/食品": [
     {
-      "name": "ほっかほっか亭"
+      "name": "ほっかほっか亭",
+      "storeid": "daito-45edcc",
+      "shopid": "daito-45edcc-paypay"
     }
   ],
   "飲食店/洋食/ファミレス": [
     {
-      "name": "カフェチャレンジャー88"
+      "name": "カフェチャレンジャー88",
+      "storeid": "daito-a1d13e",
+      "shopid": "daito-a1d13e-paypay"
     }
   ]
 }

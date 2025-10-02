@@ -1,132 +1,208 @@
 {
   "その他": [
     {
-      "name": "道の駅平泉"
+      "name": "道の駅平泉",
+      "storeid": "hiraizumi-11c7b1",
+      "shopid": "hiraizumi-11c7b1-paypay"
     },
     {
-      "name": "わんこ保育園ひまわり"
+      "name": "わんこ保育園ひまわり",
+      "storeid": "hiraizumi-686d8a",
+      "shopid": "hiraizumi-686d8a-paypay"
     },
     {
-      "name": "平泉ドライビング・スクール"
+      "name": "平泉ドライビング・スクール",
+      "storeid": "hiraizumi-58d0e8",
+      "shopid": "hiraizumi-58d0e8-paypay"
     },
     {
-      "name": "翁知屋"
+      "name": "翁知屋",
+      "storeid": "hiraizumi-038866",
+      "shopid": "hiraizumi-038866-paypay"
     },
     {
-      "name": "阿部板金塗装工業"
+      "name": "阿部板金塗装工業",
+      "storeid": "hiraizumi-be6b04",
+      "shopid": "hiraizumi-be6b04-paypay"
     },
     {
-      "name": "高橋工務株式会社"
+      "name": "高橋工務株式会社",
+      "storeid": "hiraizumi-13973a",
+      "shopid": "hiraizumi-13973a-paypay"
     }
   ],
   "飲食店": [
     {
-      "name": "KOZENJI　café"
+      "name": "KOZENJI　café",
+      "storeid": "hiraizumi-622c1a",
+      "shopid": "hiraizumi-622c1a-paypay"
     },
     {
-      "name": "夢乃風"
+      "name": "夢乃風",
+      "storeid": "hiraizumi-31493b",
+      "shopid": "hiraizumi-31493b-paypay"
     },
     {
-      "name": "芭蕉館"
+      "name": "芭蕉館",
+      "storeid": "hiraizumi-b742e9",
+      "shopid": "hiraizumi-b742e9-paypay"
     },
     {
-      "name": "総本店泉橋庵"
+      "name": "総本店泉橋庵",
+      "storeid": "hiraizumi-d9cc5e",
+      "shopid": "hiraizumi-d9cc5e-paypay"
     },
     {
-      "name": "菓子工房　吉野家"
+      "name": "菓子工房　吉野家",
+      "storeid": "hiraizumi-9e0add",
+      "shopid": "hiraizumi-9e0add-paypay"
     },
     {
-      "name": "花みずき"
+      "name": "花みずき",
+      "storeid": "hiraizumi-52ca7c",
+      "shopid": "hiraizumi-52ca7c-paypay"
     },
     {
-      "name": "モリッツァ珈琲"
+      "name": "モリッツァ珈琲",
+      "storeid": "hiraizumi-9b924f",
+      "shopid": "hiraizumi-9b924f-paypay"
     },
     {
-      "name": "斉藤うどん店平泉"
+      "name": "斉藤うどん店平泉",
+      "storeid": "hiraizumi-6bbe78",
+      "shopid": "hiraizumi-6bbe78-paypay"
     },
     {
-      "name": "カフェセキミヤ"
+      "name": "カフェセキミヤ",
+      "storeid": "hiraizumi-6bfe0b",
+      "shopid": "hiraizumi-6bfe0b-paypay"
     },
     {
-      "name": "駅前芭蕉館"
+      "name": "駅前芭蕉館",
+      "storeid": "hiraizumi-968a8e",
+      "shopid": "hiraizumi-968a8e-paypay"
     },
     {
-      "name": "喫茶去じゅげむ"
+      "name": "喫茶去じゅげむ",
+      "storeid": "hiraizumi-2e1b39",
+      "shopid": "hiraizumi-2e1b39-paypay"
     },
     {
-      "name": "居酒屋Guu"
+      "name": "居酒屋Guu",
+      "storeid": "hiraizumi-1d4b3d",
+      "shopid": "hiraizumi-1d4b3d-paypay"
     },
     {
-      "name": "コウリャン"
+      "name": "コウリャン",
+      "storeid": "hiraizumi-b2ff98",
+      "shopid": "hiraizumi-b2ff98-paypay"
     },
     {
-      "name": "旭屋"
+      "name": "旭屋",
+      "storeid": "hiraizumi-38659f",
+      "shopid": "hiraizumi-38659f-paypay"
     },
     {
-      "name": "オレンジTeaHouseココ"
+      "name": "オレンジTeaHouseココ",
+      "storeid": "hiraizumi-7f717e",
+      "shopid": "hiraizumi-7f717e-paypay"
     },
     {
-      "name": "HIRAIZUMI　CROSS＆"
+      "name": "HIRAIZUMI　CROSS＆",
+      "storeid": "hiraizumi-a8811b",
+      "shopid": "hiraizumi-a8811b-paypay"
     },
     {
-      "name": "焼肉　八つ花"
+      "name": "焼肉　八つ花",
+      "storeid": "hiraizumi-492069",
+      "shopid": "hiraizumi-492069-paypay"
     },
     {
-      "name": "茶店ケー"
+      "name": "茶店ケー",
+      "storeid": "hiraizumi-65270f",
+      "shopid": "hiraizumi-65270f-paypay"
     },
     {
-      "name": "café & bar　琥珀"
+      "name": "café & bar　琥珀",
+      "storeid": "hiraizumi-0261df",
+      "shopid": "hiraizumi-0261df-paypay"
     },
     {
-      "name": "道の駅平泉　レストラン"
+      "name": "道の駅平泉　レストラン",
+      "storeid": "hiraizumi-ff3d67",
+      "shopid": "hiraizumi-ff3d67-paypay"
     }
   ],
   "ショッピング": [
     {
-      "name": "毛越寺門前直場あやめ"
+      "name": "毛越寺門前直場あやめ",
+      "storeid": "hiraizumi-d57503",
+      "shopid": "hiraizumi-d57503-paypay"
     },
     {
-      "name": "U-base平泉"
+      "name": "U-base平泉",
+      "storeid": "hiraizumi-a8b626",
+      "shopid": "hiraizumi-a8b626-paypay"
     },
     {
-      "name": "きんいろぱん屋"
+      "name": "きんいろぱん屋",
+      "storeid": "hiraizumi-afd7db",
+      "shopid": "hiraizumi-afd7db-paypay"
     },
     {
-      "name": "両盤酒造平泉工場"
+      "name": "両盤酒造平泉工場",
+      "storeid": "hiraizumi-fe8f68",
+      "shopid": "hiraizumi-fe8f68-paypay"
     }
   ],
   "ガソリンスタンド": [
     {
-      "name": "丸紅エネルギー旭東平泉ＳＳ"
+      "name": "丸紅エネルギー旭東平泉ＳＳ",
+      "storeid": "hiraizumi-461efd",
+      "shopid": "hiraizumi-461efd-paypay"
     }
   ],
   "ホテル・旅館": [
     {
-      "name": "旅館舞鶴"
+      "name": "旅館舞鶴",
+      "storeid": "hiraizumi-dbacba",
+      "shopid": "hiraizumi-dbacba-paypay"
     },
     {
-      "name": "旅館アイリス悠"
+      "name": "旅館アイリス悠",
+      "storeid": "hiraizumi-63cbb4",
+      "shopid": "hiraizumi-63cbb4-paypay"
     },
     {
-      "name": "民泊飛来住"
+      "name": "民泊飛来住",
+      "storeid": "hiraizumi-1f93c8",
+      "shopid": "hiraizumi-1f93c8-paypay"
     },
     {
-      "name": "宿泊交流体験施設「浄土の館」"
+      "name": "宿泊交流体験施設「浄土の館」",
+      "storeid": "hiraizumi-1de866",
+      "shopid": "hiraizumi-1de866-paypay"
     }
   ],
   "クリーニング": [
     {
-      "name": "クリーニング博扇堂　平泉店"
+      "name": "クリーニング博扇堂　平泉店",
+      "storeid": "hiraizumi-319e98",
+      "shopid": "hiraizumi-319e98-paypay"
     }
   ],
   "ヘアサロン・美容室": [
     {
-      "name": "リップス彩"
+      "name": "リップス彩",
+      "storeid": "hiraizumi-59f38c",
+      "shopid": "hiraizumi-59f38c-paypay"
     }
   ],
   "マッサージ": [
     {
-      "name": "青木長生治療院"
+      "name": "青木長生治療院",
+      "storeid": "hiraizumi-a9c989",
+      "shopid": "hiraizumi-a9c989-paypay"
     }
   ]
 }

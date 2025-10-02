@@ -1,916 +1,1511 @@
 {
   "その他": [
     {
-      "name": "かめや釣具"
+      "name": "かめや釣具",
+      "storeid": "ama-0da16a",
+      "shopid": "ama-0da16a-paypay"
     },
     {
-      "name": ".craft"
+      "name": ".craft",
+      "storeid": "ama-de7075",
+      "shopid": "ama-de7075-paypay"
     },
     {
-      "name": "「buuno」"
+      "name": "「buuno」",
+      "storeid": "ama-f904b5",
+      "shopid": "ama-f904b5-paypay"
     },
     {
-      "name": "3Q株式会社"
+      "name": "3Q株式会社",
+      "storeid": "ama-660481",
+      "shopid": "ama-660481-paypay"
     },
     {
-      "name": "alt tsushimaLium"
+      "name": "alt tsushimaLium",
+      "storeid": "ama-553f1e",
+      "shopid": "ama-553f1e-paypay"
     },
     {
-      "name": "AMOUR"
+      "name": "AMOUR",
+      "storeid": "ama-ef5d6d",
+      "shopid": "ama-ef5d6d-paypay"
     },
     {
-      "name": "Anelaキョロ"
+      "name": "Anelaキョロ",
+      "storeid": "ama-438385",
+      "shopid": "ama-438385-paypay"
     },
     {
-      "name": "ARMAZEN・VIDA"
+      "name": "ARMAZEN・VIDA",
+      "storeid": "ama-ff26f6",
+      "shopid": "ama-ff26f6-paypay"
     },
     {
-      "name": "aromalife_demi aromalife D"
+      "name": "aromalife_demi aromalife D",
+      "storeid": "ama-c4558f",
+      "shopid": "ama-c4558f-paypay"
     },
     {
-      "name": "BarBa-BOON"
+      "name": "BarBa-BOON",
+      "storeid": "ama-bee68c",
+      "shopid": "ama-bee68c-paypay"
     },
     {
-      "name": "beyond Auto Service"
+      "name": "beyond Auto Service",
+      "storeid": "ama-b21e2b",
+      "shopid": "ama-b21e2b-paypay"
     },
     {
-      "name": "Blanche2"
+      "name": "Blanche2",
+      "storeid": "ama-be1931",
+      "shopid": "ama-be1931-paypay"
     },
     {
-      "name": "BLUE HEAVEN"
+      "name": "BLUE HEAVEN",
+      "storeid": "ama-7d047c",
+      "shopid": "ama-7d047c-paypay"
     },
     {
-      "name": "BOOKSえみたす"
+      "name": "BOOKSえみたす",
+      "storeid": "ama-8c9a17",
+      "shopid": "ama-8c9a17-paypay"
     },
     {
-      "name": "BrillianHairDia"
+      "name": "BrillianHairDia",
+      "storeid": "ama-6b3d23",
+      "shopid": "ama-6b3d23-paypay"
     },
     {
-      "name": "bの穴"
+      "name": "bの穴",
+      "storeid": "ama-49ff82",
+      "shopid": "ama-49ff82-paypay"
     },
     {
-      "name": "CLAPHAIR"
+      "name": "CLAPHAIR",
+      "storeid": "ama-7ccc1b",
+      "shopid": "ama-7ccc1b-paypay"
     },
     {
-      "name": "Cocoism"
+      "name": "Cocoism",
+      "storeid": "ama-a3b11e",
+      "shopid": "ama-a3b11e-paypay"
     },
     {
-      "name": "COFFELOVER."
+      "name": "COFFELOVER.",
+      "storeid": "ama-89a182",
+      "shopid": "ama-89a182-paypay"
     },
     {
-      "name": "CUCCI"
+      "name": "CUCCI",
+      "storeid": "ama-4e6654",
+      "shopid": "ama-4e6654-paypay"
     },
     {
-      "name": "DANCE STUDIO A ♥"
+      "name": "DANCE STUDIO A ♥",
+      "storeid": "ama-b565c4",
+      "shopid": "ama-b565c4-paypay"
     },
     {
-      "name": "DOG HOUSE GARAGE"
+      "name": "DOG HOUSE GARAGE",
+      "storeid": "ama-79b719",
+      "shopid": "ama-79b719-paypay"
     },
     {
-      "name": "Eightteen Leather"
+      "name": "Eightteen Leather",
+      "storeid": "ama-415a4b",
+      "shopid": "ama-415a4b-paypay"
     },
     {
-      "name": "ELECTRIC　TOKAI株式会社"
+      "name": "ELECTRIC　TOKAI株式会社",
+      "storeid": "ama-b922e8",
+      "shopid": "ama-b922e8-paypay"
     },
     {
-      "name": "EMA SPIRIT"
+      "name": "EMA SPIRIT",
+      "storeid": "ama-32d5c5",
+      "shopid": "ama-32d5c5-paypay"
     },
     {
-      "name": "FATE8"
+      "name": "FATE8",
+      "storeid": "ama-02f432",
+      "shopid": "ama-02f432-paypay"
     },
     {
-      "name": "FIT-EASY"
+      "name": "FIT-EASY",
+      "storeid": "ama-cc01a9",
+      "shopid": "ama-cc01a9-paypay"
     },
     {
-      "name": "G lamorous u"
+      "name": "G lamorous u",
+      "storeid": "ama-04621e",
+      "shopid": "ama-04621e-paypay"
     },
     {
-      "name": "Gatto"
+      "name": "Gatto",
+      "storeid": "ama-62f745",
+      "shopid": "ama-62f745-paypay"
     },
     {
-      "name": "Grace"
+      "name": "Grace",
+      "storeid": "ama-68727d",
+      "shopid": "ama-68727d-paypay"
     },
     {
-      "name": "Grove"
+      "name": "Grove",
+      "storeid": "ama-b5b50f",
+      "shopid": "ama-b5b50f-paypay"
     },
     {
-      "name": "H・A・N・Aぴゅあ"
+      "name": "H・A・N・Aぴゅあ",
+      "storeid": "ama-91ceb0",
+      "shopid": "ama-91ceb0-paypay"
     },
     {
-      "name": "Hair club POLOama"
+      "name": "Hair club POLOama",
+      "storeid": "ama-7553b2",
+      "shopid": "ama-7553b2-paypay"
     },
     {
-      "name": "hair make Luung(ルオン)"
+      "name": "hair make Luung(ルオン)",
+      "storeid": "ama-d5df92",
+      "shopid": "ama-d5df92-paypay"
     },
     {
-      "name": "Hair Salon Sunny"
+      "name": "Hair Salon Sunny",
+      "storeid": "ama-e22979",
+      "shopid": "ama-e22979-paypay"
     },
     {
-      "name": "hairatelierAmie"
+      "name": "hairatelierAmie",
+      "storeid": "ama-02d25e",
+      "shopid": "ama-02d25e-paypay"
     },
     {
-      "name": "HALALYA"
+      "name": "HALALYA",
+      "storeid": "ama-a3a059",
+      "shopid": "ama-a3a059-paypay"
     },
     {
-      "name": "Haneul"
+      "name": "Haneul",
+      "storeid": "ama-a2a005",
+      "shopid": "ama-a2a005-paypay"
     },
     {
-      "name": "heimi"
+      "name": "heimi",
+      "storeid": "ama-4f766a",
+      "shopid": "ama-4f766a-paypay"
     },
     {
-      "name": "HondaCars東海"
+      "name": "HondaCars東海",
+      "storeid": "ama-2c834d",
+      "shopid": "ama-2c834d-paypay"
     },
     {
-      "name": "ifオートサービスifステーション"
+      "name": "ifオートサービスifステーション",
+      "storeid": "ama-6889ce",
+      "shopid": "ama-6889ce-paypay"
     },
     {
-      "name": "italian food truck ROTO"
+      "name": "italian food truck ROTO",
+      "storeid": "ama-7ed57d",
+      "shopid": "ama-7ed57d-paypay"
     },
     {
-      "name": "J-PASSION"
+      "name": "J-PASSION",
+      "storeid": "ama-e4927c",
+      "shopid": "ama-e4927c-paypay"
     },
     {
-      "name": "KeePer LABO"
+      "name": "KeePer LABO",
+      "storeid": "ama-a51b18",
+      "shopid": "ama-a51b18-paypay"
     },
     {
-      "name": "kondo_kanamonotenGOLF×KAKERU"
+      "name": "kondo_kanamonotenGOLF×KAKERU",
+      "storeid": "ama-bcb85c",
+      "shopid": "ama-bcb85c-paypay"
     },
     {
-      "name": "La Mirage"
+      "name": "La Mirage",
+      "storeid": "ama-12c096",
+      "shopid": "ama-12c096-paypay"
     },
     {
-      "name": "Lana hair salon SHIPPO"
+      "name": "Lana hair salon SHIPPO",
+      "storeid": "ama-bfbfea",
+      "shopid": "ama-bfbfea-paypay"
     },
     {
-      "name": "Lium"
+      "name": "Lium",
+      "storeid": "ama-0eac55",
+      "shopid": "ama-0eac55-paypay"
     },
     {
-      "name": "Lotti hair design"
+      "name": "Lotti hair design",
+      "storeid": "ama-1ce1c1",
+      "shopid": "ama-1ce1c1-paypay"
     },
     {
-      "name": "Men'sSalon STAR"
+      "name": "Men'sSalon STAR",
+      "storeid": "ama-226305",
+      "shopid": "ama-226305-paypay"
     },
     {
-      "name": "MERMAIDNAIL"
+      "name": "MERMAIDNAIL",
+      "storeid": "ama-e8b9c5",
+      "shopid": "ama-e8b9c5-paypay"
     },
     {
-      "name": "MERMAIDNAIL"
+      "name": "miel eyelashsalon",
+      "storeid": "ama-ecbc5a",
+      "shopid": "ama-ecbc5a-paypay"
     },
     {
-      "name": "miel eyelashsalon"
+      "name": "Mistral ",
+      "storeid": "ama-53cef5",
+      "shopid": "ama-53cef5-paypay"
     },
     {
-      "name": "Mistral "
+      "name": "MoanA BY LANA",
+      "storeid": "ama-96292b",
+      "shopid": "ama-96292b-paypay"
     },
     {
-      "name": "MoanA BY LANA"
+      "name": "MoN",
+      "storeid": "ama-f597de",
+      "shopid": "ama-f597de-paypay"
     },
     {
-      "name": "MoN"
+      "name": "noel.dogwear",
+      "storeid": "ama-bf36a1",
+      "shopid": "ama-bf36a1-paypay"
     },
     {
-      "name": "noel.dogwear"
+      "name": "NTP名古屋トヨペット",
+      "storeid": "ama-74cb60",
+      "shopid": "ama-74cb60-paypay"
     },
     {
-      "name": "NTP名古屋トヨペット"
+      "name": "OFY.nails",
+      "storeid": "ama-532f6a",
+      "shopid": "ama-532f6a-paypay"
     },
     {
-      "name": "OFY.nails"
+      "name": "OHANA",
+      "storeid": "ama-30c121",
+      "shopid": "ama-30c121-paypay"
     },
     {
-      "name": "OHANA"
+      "name": "One×Blue",
+      "storeid": "ama-3f5433",
+      "shopid": "ama-3f5433-paypay"
     },
     {
-      "name": "One×Blue"
+      "name": "PoPo Gaeten",
+      "storeid": "ama-cadff4",
+      "shopid": "ama-cadff4-paypay"
     },
     {
-      "name": "PoPo Gaeten"
+      "name": "PROSHOP BELLS",
+      "storeid": "ama-360c0e",
+      "shopid": "ama-360c0e-paypay"
     },
     {
-      "name": "PROSHOP BELLS"
+      "name": "Quokka",
+      "storeid": "ama-2b9d6a",
+      "shopid": "ama-2b9d6a-paypay"
     },
     {
-      "name": "Quokka"
+      "name": "Raviluceフラワー教室",
+      "storeid": "ama-7073c0",
+      "shopid": "ama-7073c0-paypay"
     },
     {
-      "name": "Raviluceフラワー教室"
+      "name": "RISE HAIR",
+      "storeid": "ama-b65f4c",
+      "shopid": "ama-b65f4c-paypay"
     },
     {
-      "name": "RISE HAIR"
+      "name": "SinPooh",
+      "storeid": "ama-2c331a",
+      "shopid": "ama-2c331a-paypay"
     },
     {
-      "name": "SinPooh"
+      "name": "SpaHati",
+      "storeid": "ama-d72724",
+      "shopid": "ama-d72724-paypay"
     },
     {
-      "name": "SpaHati"
+      "name": "studio saji",
+      "storeid": "ama-fd9748",
+      "shopid": "ama-fd9748-paypay"
     },
     {
-      "name": "studio saji"
+      "name": "THAIDUONGmart",
+      "storeid": "ama-1d3fbd",
+      "shopid": "ama-1d3fbd-paypay"
     },
     {
-      "name": "THAIDUONGmart"
+      "name": "Turkish Kebab",
+      "storeid": "ama-6b7c79",
+      "shopid": "ama-6b7c79-paypay"
     },
     {
-      "name": "Turkish Kebab"
+      "name": "WAN",
+      "storeid": "ama-e4c50e",
+      "shopid": "ama-e4c50e-paypay"
     },
     {
-      "name": "WAN"
+      "name": "WAN gallery用",
+      "storeid": "ama-c946db",
+      "shopid": "ama-c946db-paypay"
     },
     {
-      "name": "WAN gallery用"
+      "name": "愛chiRScarshop",
+      "storeid": "ama-9805d0",
+      "shopid": "ama-9805d0-paypay"
     },
     {
-      "name": "愛chiRScarshop"
+      "name": "あい美す",
+      "storeid": "ama-fbd57a",
+      "shopid": "ama-fbd57a-paypay"
     },
     {
-      "name": "あい美す"
+      "name": "葵",
+      "storeid": "ama-a0ebbe",
+      "shopid": "ama-a0ebbe-paypay"
     },
     {
-      "name": "葵"
+      "name": "アスライト株式会社",
+      "storeid": "ama-fcf612",
+      "shopid": "ama-fcf612-paypay"
     },
     {
-      "name": "アスライト株式会社"
+      "name": "アトリエ　Chez-Nous",
+      "storeid": "ama-5c0306",
+      "shopid": "ama-5c0306-paypay"
     },
     {
-      "name": "アトリエ　Chez-Nous"
+      "name": "あま動物病院",
+      "storeid": "ama-7baac1",
+      "shopid": "ama-7baac1-paypay"
     },
     {
-      "name": "あま動物病院"
+      "name": "あまの蔵",
+      "storeid": "ama-1c44b4",
+      "shopid": "ama-1c44b4-paypay"
     },
     {
-      "name": "あまの蔵"
+      "name": "海部のくちどけ",
+      "storeid": "ama-62d05a",
+      "shopid": "ama-62d05a-paypay"
     },
     {
-      "name": "海部のくちどけ"
+      "name": "アンイングリッシュグループ",
+      "storeid": "ama-5f4c56",
+      "shopid": "ama-5f4c56-paypay"
     },
     {
-      "name": "アンイングリッシュグループ"
+      "name": "いずみ庵",
+      "storeid": "ama-f0bec8",
+      "shopid": "ama-f0bec8-paypay"
     },
     {
-      "name": "いずみ庵"
+      "name": "いずもやピアゴ",
+      "storeid": "ama-4b2368",
+      "shopid": "ama-4b2368-paypay"
     },
     {
-      "name": "いずもやピアゴ"
+      "name": "板牧自動車",
+      "storeid": "ama-f0b51f",
+      "shopid": "ama-f0b51f-paypay"
     },
     {
-      "name": "板牧自動車"
+      "name": "伊藤タクシー",
+      "storeid": "ama-b51527",
+      "shopid": "ama-b51527-paypay"
     },
     {
-      "name": "伊藤タクシー"
+      "name": "いもひと",
+      "storeid": "ama-8bc2ad",
+      "shopid": "ama-8bc2ad-paypay"
     },
     {
-      "name": "いもひと"
+      "name": "インド・ネパール・ナンカレーハウスナマステ",
+      "storeid": "ama-66f16e",
+      "shopid": "ama-66f16e-paypay"
     },
     {
-      "name": "インド・ネパール・ナンカレーハウスナマステ"
+      "name": "ウィズスタイル",
+      "storeid": "ama-040b96",
+      "shopid": "ama-040b96-paypay"
     },
     {
-      "name": "ウィズスタイル"
+      "name": "うなぎ蒲焼き魚太",
+      "storeid": "ama-98d5fa",
+      "shopid": "ama-98d5fa-paypay"
     },
     {
-      "name": "うなぎ蒲焼き魚太"
+      "name": "浦田建築工房ストア",
+      "storeid": "ama-6f1f4e",
+      "shopid": "ama-6f1f4e-paypay"
     },
     {
-      "name": "浦田建築工房ストア"
+      "name": "占いギャラリーココロにウルオイ",
+      "storeid": "ama-bce84e",
+      "shopid": "ama-bce84e-paypay"
     },
     {
-      "name": "占いギャラリーココロにウルオイ"
+      "name": "エアリー",
+      "storeid": "ama-52271a",
+      "shopid": "ama-52271a-paypay"
     },
     {
-      "name": "エアリー"
+      "name": "エイビス",
+      "storeid": "ama-232507",
+      "shopid": "ama-232507-paypay"
     },
     {
-      "name": "エイビス"
+      "name": "エステ　シンセリティー",
+      "storeid": "ama-8b893a",
+      "shopid": "ama-8b893a-paypay"
     },
     {
-      "name": "エステ　シンセリティー"
+      "name": "エムズスタジオ",
+      "storeid": "ama-197ede",
+      "shopid": "ama-197ede-paypay"
     },
     {
-      "name": "エムズスタジオ"
+      "name": "エリートクリーニング",
+      "storeid": "ama-d82b70",
+      "shopid": "ama-d82b70-paypay"
     },
     {
-      "name": "エリートクリーニング"
+      "name": "オート石原",
+      "storeid": "ama-f566df",
+      "shopid": "ama-f566df-paypay"
     },
     {
-      "name": "オート石原"
+      "name": "大野メンテナンスサービス",
+      "storeid": "ama-9c90b2",
+      "shopid": "ama-9c90b2-paypay"
     },
     {
-      "name": "大野メンテナンスサービス"
+      "name": "大平交通",
+      "storeid": "ama-c45824",
+      "shopid": "ama-c45824-paypay"
     },
     {
-      "name": "大平交通"
+      "name": "おかしの里",
+      "storeid": "ama-2bab55",
+      "shopid": "ama-2bab55-paypay"
     },
     {
-      "name": "おかしの里"
+      "name": "おさかなひろばうおっ",
+      "storeid": "ama-32b16e",
+      "shopid": "ama-32b16e-paypay"
     },
     {
-      "name": "おさかなひろばうおっ"
+      "name": "カーズ代行",
+      "storeid": "ama-5f7e53",
+      "shopid": "ama-5f7e53-paypay"
     },
     {
-      "name": "カーズ代行"
+      "name": "学生衣料イナガキ",
+      "storeid": "ama-b2f48c",
+      "shopid": "ama-b2f48c-paypay"
     },
     {
-      "name": "学生衣料イナガキ"
+      "name": "学研Link",
+      "storeid": "ama-f25ecf",
+      "shopid": "ama-f25ecf-paypay"
     },
     {
-      "name": "学研Link"
+      "name": "加藤製菓",
+      "storeid": "ama-777923",
+      "shopid": "ama-777923-paypay"
     },
     {
-      "name": "加藤製菓"
+      "name": "買取王国",
+      "storeid": "ama-989592",
+      "shopid": "ama-989592-paypay"
     },
     {
-      "name": "買取王国"
+      "name": "金石",
+      "storeid": "ama-dc274a",
+      "shopid": "ama-dc274a-paypay"
     },
     {
-      "name": "金石"
+      "name": "金沢屋",
+      "storeid": "ama-432945",
+      "shopid": "ama-432945-paypay"
     },
     {
-      "name": "金沢屋"
+      "name": "株式会社AUTO DOCTOR",
+      "storeid": "ama-d4a949",
+      "shopid": "ama-d4a949-paypay"
     },
     {
-      "name": "株式会社AUTO DOCTOR"
+      "name": "株式会社今福",
+      "storeid": "ama-9dc071",
+      "shopid": "ama-9dc071-paypay"
     },
     {
-      "name": "株式会社今福"
+      "name": "株式会社ウィルサポート",
+      "storeid": "ama-ebba8d",
+      "shopid": "ama-ebba8d-paypay"
     },
     {
-      "name": "株式会社ウィルサポート"
+      "name": "株式会社エスエムグループ",
+      "storeid": "ama-85f088",
+      "shopid": "ama-85f088-paypay"
     },
     {
-      "name": "株式会社エスエムグループ"
+      "name": "株式会社カトウ",
+      "storeid": "ama-7a1f1d",
+      "shopid": "ama-7a1f1d-paypay"
     },
     {
-      "name": "株式会社カトウ"
+      "name": "株式会社関西ランドシステムKLS愛知",
+      "storeid": "ama-2bd6a8",
+      "shopid": "ama-2bd6a8-paypay"
     },
     {
-      "name": "株式会社関西ランドシステムKLS愛知"
+      "name": "株式会社ワークマート",
+      "storeid": "ama-55f68a",
+      "shopid": "ama-55f68a-paypay"
     },
     {
-      "name": "株式会社ワークマート"
+      "name": "きくや",
+      "storeid": "ama-fb2dd7",
+      "shopid": "ama-fb2dd7-paypay"
     },
     {
-      "name": "きくや"
+      "name": "喫茶シュシュ",
+      "storeid": "ama-2dabae",
+      "shopid": "ama-2dabae-paypay"
     },
     {
-      "name": "喫茶シュシュ"
+      "name": "喫茶ハイライト",
+      "storeid": "ama-1179f4",
+      "shopid": "ama-1179f4-paypay"
     },
     {
-      "name": "喫茶ハイライト"
+      "name": "行政書士あま事務所",
+      "storeid": "ama-2480a6",
+      "shopid": "ama-2480a6-paypay"
     },
     {
-      "name": "行政書士あま事務所"
+      "name": "京町屋",
+      "storeid": "ama-1d722c",
+      "shopid": "ama-1d722c-paypay"
     },
     {
-      "name": "京町屋"
+      "name": "京料理　河合",
+      "storeid": "ama-0917eb",
+      "shopid": "ama-0917eb-paypay"
     },
     {
-      "name": "京料理　河合"
+      "name": "キングファミリー",
+      "storeid": "ama-59de7c",
+      "shopid": "ama-59de7c-paypay"
     },
     {
-      "name": "キングファミリー"
+      "name": "串塊",
+      "storeid": "ama-654d7a",
+      "shopid": "ama-654d7a-paypay"
     },
     {
-      "name": "串塊"
+      "name": "櫛田養鶏",
+      "storeid": "ama-642169",
+      "shopid": "ama-642169-paypay"
     },
     {
-      "name": "櫛田養鶏"
+      "name": "クラウドエヌ",
+      "storeid": "ama-52f816",
+      "shopid": "ama-52f816-paypay"
     },
     {
-      "name": "クラウドエヌ"
+      "name": "くら寿司",
+      "storeid": "ama-69e7e7",
+      "shopid": "ama-69e7e7-paypay"
     },
     {
-      "name": "くら寿司"
+      "name": "グランマルシェ",
+      "storeid": "ama-23faa8",
+      "shopid": "ama-23faa8-paypay"
     },
     {
-      "name": "グランマルシェ"
+      "name": "クリーニングシンエードライ",
+      "storeid": "ama-6d5e4e",
+      "shopid": "ama-6d5e4e-paypay"
     },
     {
-      "name": "クリーニングシンエードライ"
+      "name": "クレードル・マム",
+      "storeid": "ama-71c397",
+      "shopid": "ama-71c397-paypay"
     },
     {
-      "name": "クレードル・マム"
+      "name": "クロード珈琲",
+      "storeid": "ama-c537db",
+      "shopid": "ama-c537db-paypay"
     },
     {
-      "name": "クロード珈琲"
+      "name": "ケーキ屋さんた",
+      "storeid": "ama-397d1e",
+      "shopid": "ama-397d1e-paypay"
     },
     {
-      "name": "ケーキ屋さんた"
+      "name": "ケンタッキーフライドチキン",
+      "storeid": "ama-d5292c",
+      "shopid": "ama-d5292c-paypay"
     },
     {
-      "name": "ケンタッキーフライドチキン"
+      "name": "コインランドリーボーテ",
+      "storeid": "ama-7b9c7a",
+      "shopid": "ama-7b9c7a-paypay"
     },
     {
-      "name": "コインランドリーボーテ"
+      "name": "講談社こども教室",
+      "storeid": "ama-cd5fb5",
+      "shopid": "ama-cd5fb5-paypay"
     },
     {
-      "name": "講談社こども教室"
+      "name": "心幸ホールディングス",
+      "storeid": "ama-85bbd9",
+      "shopid": "ama-85bbd9-paypay"
     },
     {
-      "name": "心幸ホールディングス"
+      "name": "五十実業",
+      "storeid": "ama-a42a25",
+      "shopid": "ama-a42a25-paypay"
     },
     {
-      "name": "五十実業"
+      "name": "五条五ツ橋",
+      "storeid": "ama-bd8f00",
+      "shopid": "ama-bd8f00-paypay"
     },
     {
-      "name": "五条五ツ橋"
+      "name": "コメダ珈琲",
+      "storeid": "ama-2ffc45",
+      "shopid": "ama-2ffc45-paypay"
     },
     {
-      "name": "コメダ珈琲"
+      "name": "米乃家",
+      "storeid": "ama-2ba9aa",
+      "shopid": "ama-2ba9aa-paypay"
     },
     {
-      "name": "米乃家"
+      "name": "コルトレーン",
+      "storeid": "ama-95e588",
+      "shopid": "ama-95e588-paypay"
     },
     {
-      "name": "コルトレーン"
+      "name": "コンテナシティー",
+      "storeid": "ama-413764",
+      "shopid": "ama-413764-paypay"
     },
     {
-      "name": "コンテナシティー"
+      "name": "坂牧自動車",
+      "storeid": "ama-d7923f",
+      "shopid": "ama-d7923f-paypay"
     },
     {
-      "name": "坂牧自動車"
+      "name": "サロンローズフロー",
+      "storeid": "ama-44708f",
+      "shopid": "ama-44708f-paypay"
     },
     {
-      "name": "サロンローズフロー"
+      "name": "しあわせ・かき氷",
+      "storeid": "ama-8a942c",
+      "shopid": "ama-8a942c-paypay"
     },
     {
-      "name": "しあわせ・かき氷"
+      "name": "姿勢Labo+",
+      "storeid": "ama-a17b26",
+      "shopid": "ama-a17b26-paypay"
     },
     {
-      "name": "姿勢Labo+"
+      "name": "シャトレーゼ",
+      "storeid": "ama-1a5567",
+      "shopid": "ama-1a5567-paypay"
     },
     {
-      "name": "シャトレーゼ"
+      "name": "昭和食堂",
+      "storeid": "ama-2109f5",
+      "shopid": "ama-2109f5-paypay"
     },
     {
-      "name": "昭和食堂"
+      "name": "昭和の焼肉　焼肉山ちゃん",
+      "storeid": "ama-6c2d2b",
+      "shopid": "ama-6c2d2b-paypay"
     },
     {
-      "name": "昭和の焼肉　焼肉山ちゃん"
+      "name": "白英舎アオキスーパー",
+      "storeid": "ama-e97ab9",
+      "shopid": "ama-e97ab9-paypay"
     },
     {
-      "name": "白英舎アオキスーパー"
+      "name": "しんかえん",
+      "storeid": "ama-ad3d9e",
+      "shopid": "ama-ad3d9e-paypay"
     },
     {
-      "name": "しんかえん"
+      "name": "ステーキ　吉屋",
+      "storeid": "ama-04dde3",
+      "shopid": "ama-04dde3-paypay"
     },
     {
-      "name": "ステーキ　吉屋"
+      "name": "スパート",
+      "storeid": "ama-d88dc0",
+      "shopid": "ama-d88dc0-paypay"
     },
     {
-      "name": "スパート"
+      "name": "スリープ",
+      "storeid": "ama-e0e389",
+      "shopid": "ama-e0e389-paypay"
     },
     {
-      "name": "スリープ"
+      "name": "セリア",
+      "storeid": "ama-d745be",
+      "shopid": "ama-d745be-paypay"
     },
     {
-      "name": "セリア"
+      "name": "双鈴自転車店",
+      "storeid": "ama-53912a",
+      "shopid": "ama-53912a-paypay"
     },
     {
-      "name": "双鈴自転車店"
+      "name": "そば処和照居",
+      "storeid": "ama-171a71",
+      "shopid": "ama-171a71-paypay"
     },
     {
-      "name": "そば処和照居"
+      "name": "ダイソー",
+      "storeid": "ama-9088f8",
+      "shopid": "ama-9088f8-paypay"
     },
     {
-      "name": "ダイソー"
+      "name": "担々麺はなび",
+      "storeid": "ama-17c3e4",
+      "shopid": "ama-17c3e4-paypay"
     },
     {
-      "name": "担々麺はなび"
+      "name": "小さな珈琲専門店",
+      "storeid": "ama-53de7c",
+      "shopid": "ama-53de7c-paypay"
     },
     {
-      "name": "小さな珈琲専門店"
+      "name": "中建",
+      "storeid": "ama-637175",
+      "shopid": "ama-637175-paypay"
     },
     {
-      "name": "中建"
+      "name": "チヨダ",
+      "storeid": "ama-1d4d06",
+      "shopid": "ama-1d4d06-paypay"
     },
     {
-      "name": "チヨダ"
+      "name": "坪井ガラス",
+      "storeid": "ama-3ae810",
+      "shopid": "ama-3ae810-paypay"
     },
     {
-      "name": "坪井ガラス"
+      "name": "デアエール",
+      "storeid": "ama-250c95",
+      "shopid": "ama-250c95-paypay"
     },
     {
-      "name": "デアエール"
+      "name": "鉄板焼いちか",
+      "storeid": "ama-bba371",
+      "shopid": "ama-bba371-paypay"
     },
     {
-      "name": "鉄板焼いちか"
+      "name": "テニスアカデミークレセント",
+      "storeid": "ama-402fa1",
+      "shopid": "ama-402fa1-paypay"
     },
     {
-      "name": "テニスアカデミークレセント"
+      "name": "テルキナヤ",
+      "storeid": "ama-ac5195",
+      "shopid": "ama-ac5195-paypay"
     },
     {
-      "name": "テルキナヤ"
+      "name": "てんてん",
+      "storeid": "ama-fb42a5",
+      "shopid": "ama-fb42a5-paypay"
     },
     {
-      "name": "てんてん"
+      "name": "東海タクシー",
+      "storeid": "ama-ecdf80",
+      "shopid": "ama-ecdf80-paypay"
     },
     {
-      "name": "東海タクシー"
+      "name": "東海マツダ販売",
+      "storeid": "ama-0ad9e2",
+      "shopid": "ama-0ad9e2-paypay"
     },
     {
-      "name": "東海マツダ販売"
+      "name": "時計宝石メガネのサトウ",
+      "storeid": "ama-75ae0c",
+      "shopid": "ama-75ae0c-paypay"
     },
     {
-      "name": "時計宝石メガネのサトウ"
+      "name": "どんどん庵",
+      "storeid": "ama-271aec",
+      "shopid": "ama-271aec-paypay"
     },
     {
-      "name": "どんどん庵"
+      "name": "名古屋藤吉郎",
+      "storeid": "ama-dc188b",
+      "shopid": "ama-dc188b-paypay"
     },
     {
-      "name": "名古屋藤吉郎"
+      "name": "ナックオートサービス",
+      "storeid": "ama-7edb95",
+      "shopid": "ama-7edb95-paypay"
     },
     {
-      "name": "ナックオートサービス"
+      "name": "七宝焼アートヴィレッジ",
+      "storeid": "ama-1cda82",
+      "shopid": "ama-1cda82-paypay"
     },
     {
-      "name": "七宝焼アートヴィレッジ"
+      "name": "肉のこまど",
+      "storeid": "ama-4d3b00",
+      "shopid": "ama-4d3b00-paypay"
     },
     {
-      "name": "肉のこまど"
+      "name": "西尾レントオールRA",
+      "storeid": "ama-8b9775",
+      "shopid": "ama-8b9775-paypay"
     },
     {
-      "name": "西尾レントオールRA"
+      "name": "西松屋チェーン",
+      "storeid": "ama-c0fb0e",
+      "shopid": "ama-c0fb0e-paypay"
     },
     {
-      "name": "西松屋チェーン"
+      "name": "日本空手道　学心会",
+      "storeid": "ama-3e32fb",
+      "shopid": "ama-3e32fb-paypay"
     },
     {
-      "name": "日本空手道　学心会"
+      "name": "日本料理まるい",
+      "storeid": "ama-1df595",
+      "shopid": "ama-1df595-paypay"
     },
     {
-      "name": "日本料理まるい"
+      "name": "人形処柴田",
+      "storeid": "ama-32ccc9",
+      "shopid": "ama-32ccc9-paypay"
     },
     {
-      "name": "人形処柴田"
+      "name": "ぬくもりサロンSmileSKD",
+      "storeid": "ama-637ca7",
+      "shopid": "ama-637ca7-paypay"
     },
     {
-      "name": "ぬくもりサロンSmileSKD"
+      "name": "ネイルサロン＆スクールGRACIA",
+      "storeid": "ama-c6d925",
+      "shopid": "ama-c6d925-paypay"
     },
     {
-      "name": "ネイルサロン＆スクールGRACIA"
+      "name": "ネイルサロンルミエール",
+      "storeid": "ama-aef576",
+      "shopid": "ama-aef576-paypay"
     },
     {
-      "name": "ネイルサロンルミエール"
+      "name": "ノブレス",
+      "storeid": "ama-3903af",
+      "shopid": "ama-3903af-paypay"
     },
     {
-      "name": "ノブレス"
+      "name": "パソコン教室オズ",
+      "storeid": "ama-e4240a",
+      "shopid": "ama-e4240a-paypay"
     },
     {
-      "name": "パソコン教室オズ"
+      "name": "花キューピット",
+      "storeid": "ama-9f6764",
+      "shopid": "ama-9f6764-paypay"
     },
     {
-      "name": "花キューピット"
+      "name": "花萬蒲",
+      "storeid": "ama-106356",
+      "shopid": "ama-106356-paypay"
     },
     {
-      "name": "花萬蒲"
+      "name": "ハヤシヤ",
+      "storeid": "ama-ee9ec1",
+      "shopid": "ama-ee9ec1-paypay"
     },
     {
-      "name": "ハヤシヤ"
+      "name": "ピーチ福祉タクシー",
+      "storeid": "ama-76be49",
+      "shopid": "ama-76be49-paypay"
     },
     {
-      "name": "ピーチ福祉タクシー"
+      "name": "ピザーラ　あま",
+      "storeid": "ama-633a56",
+      "shopid": "ama-633a56-paypay"
     },
     {
-      "name": "ピザーラ　あま"
+      "name": "美眉サロンART",
+      "storeid": "ama-2da56c",
+      "shopid": "ama-2da56c-paypay"
     },
     {
-      "name": "美眉サロンART"
+      "name": "美容院　魔Ju",
+      "storeid": "ama-90c487",
+      "shopid": "ama-90c487-paypay"
     },
     {
-      "name": "美容院　魔Ju"
+      "name": "美容室スリープ",
+      "storeid": "ama-57970a",
+      "shopid": "ama-57970a-paypay"
     },
     {
-      "name": "美容室スリープ"
+      "name": "ファインシックス",
+      "storeid": "ama-6e9889",
+      "shopid": "ama-6e9889-paypay"
     },
     {
-      "name": "ファインシックス"
+      "name": "フェイシャルサロンクリーム",
+      "storeid": "ama-838e7b",
+      "shopid": "ama-838e7b-paypay"
     },
     {
-      "name": "フェイシャルサロンクリーム"
+      "name": "福助屋",
+      "storeid": "ama-7c6e58",
+      "shopid": "ama-7c6e58-paypay"
     },
     {
-      "name": "福助屋"
+      "name": "ぶっくすみわ",
+      "storeid": "ama-7f4ff9",
+      "shopid": "ama-7f4ff9-paypay"
     },
     {
-      "name": "ぶっくすみわ"
+      "name": "沸天セレモニー＆サービス",
+      "storeid": "ama-100bea",
+      "shopid": "ama-100bea-paypay"
     },
     {
-      "name": "沸天セレモニー＆サービス"
+      "name": "ぶぶはこの似顔絵",
+      "storeid": "ama-b7cad1",
+      "shopid": "ama-b7cad1-paypay"
     },
     {
-      "name": "ぶぶはこの似顔絵"
+      "name": "ブライトンベーカリー",
+      "storeid": "ama-3455a7",
+      "shopid": "ama-3455a7-paypay"
     },
     {
-      "name": "ブライトンベーカリー"
+      "name": "フリーカーマーケット",
+      "storeid": "ama-4afdea",
+      "shopid": "ama-4afdea-paypay"
     },
     {
-      "name": "フリーカーマーケット"
+      "name": "フルーツショップ",
+      "storeid": "ama-ad05d9",
+      "shopid": "ama-ad05d9-paypay"
     },
     {
-      "name": "フルーツショップ"
+      "name": "古覚製畳所",
+      "storeid": "ama-274b28",
+      "shopid": "ama-274b28-paypay"
     },
     {
-      "name": "古覚製畳所"
+      "name": "ふろーりすとほうかえん",
+      "storeid": "ama-06ddc1",
+      "shopid": "ama-06ddc1-paypay"
     },
     {
-      "name": "ふろーりすとほうかえん"
+      "name": "プロショップベルズ",
+      "storeid": "ama-8a3871",
+      "shopid": "ama-8a3871-paypay"
     },
     {
-      "name": "プロショップベルズ"
+      "name": "ヘアーブランタン",
+      "storeid": "ama-c1de5d",
+      "shopid": "ama-c1de5d-paypay"
     },
     {
-      "name": "ヘアーブランタン"
+      "name": "ヘアサロンボヌール",
+      "storeid": "ama-2eab61",
+      "shopid": "ama-2eab61-paypay"
     },
     {
-      "name": "ヘアサロンボヌール"
+      "name": "ペットクリニックりあん",
+      "storeid": "ama-c22a5b",
+      "shopid": "ama-c22a5b-paypay"
     },
     {
-      "name": "ペットクリニックりあん"
+      "name": "ペットパラダイスとと",
+      "storeid": "ama-0dea90",
+      "shopid": "ama-0dea90-paypay"
     },
     {
-      "name": "ペットパラダイスとと"
+      "name": "ヘルシー倶楽部",
+      "storeid": "ama-d36801",
+      "shopid": "ama-d36801-paypay"
     },
     {
-      "name": "ヘルシー倶楽部"
+      "name": "ホッタサイクル",
+      "storeid": "ama-6f4465",
+      "shopid": "ama-6f4465-paypay"
     },
     {
-      "name": "ホッタサイクル"
+      "name": "ほっとふっと",
+      "storeid": "ama-c5bab2",
+      "shopid": "ama-c5bab2-paypay"
     },
     {
-      "name": "ほっとふっと"
+      "name": "ホワイト急便",
+      "storeid": "ama-318d45",
+      "shopid": "ama-318d45-paypay"
     },
     {
-      "name": "ホワイト急便"
+      "name": "ボン松屋",
+      "storeid": "ama-a173bb",
+      "shopid": "ama-a173bb-paypay"
     },
     {
-      "name": "ボン松屋"
+      "name": "桝文",
+      "storeid": "ama-eb4f8a",
+      "shopid": "ama-eb4f8a-paypay"
     },
     {
-      "name": "桝文"
+      "name": "松本皮革",
+      "storeid": "ama-954590",
+      "shopid": "ama-954590-paypay"
     },
     {
-      "name": "松本皮革"
+      "name": "まほうの上履き屋さん",
+      "storeid": "ama-10cdcc",
+      "shopid": "ama-10cdcc-paypay"
     },
     {
-      "name": "まほうの上履き屋さん"
+      "name": "マリーヌ洋菓子店",
+      "storeid": "ama-11de83",
+      "shopid": "ama-11de83-paypay"
     },
     {
-      "name": "マリーヌ洋菓子店"
+      "name": "マリモくつしたのいろはにポケット",
+      "storeid": "ama-a8885b",
+      "shopid": "ama-a8885b-paypay"
     },
     {
-      "name": "マリモくつしたのいろはにポケット"
+      "name": "萬勇家具",
+      "storeid": "ama-98abe3",
+      "shopid": "ama-98abe3-paypay"
     },
     {
-      "name": "萬勇家具"
+      "name": "萬勇鞄",
+      "storeid": "ama-9d855d",
+      "shopid": "ama-9d855d-paypay"
     },
     {
-      "name": "萬勇鞄"
+      "name": "水野米商店",
+      "storeid": "ama-8f5fe6",
+      "shopid": "ama-8f5fe6-paypay"
     },
     {
-      "name": "水野米商店"
+      "name": "みずの動物クリニック",
+      "storeid": "ama-386ff2",
+      "shopid": "ama-386ff2-paypay"
     },
     {
-      "name": "みずの動物クリニック"
+      "name": "みたき",
+      "storeid": "ama-bb4da6",
+      "shopid": "ama-bb4da6-paypay"
     },
     {
-      "name": "みたき"
+      "name": "みやびエネルギー",
+      "storeid": "ama-9d2bfd",
+      "shopid": "ama-9d2bfd-paypay"
     },
     {
-      "name": "みやびエネルギー"
+      "name": "紫雲殿あま七宝斎場",
+      "storeid": "ama-19e663",
+      "shopid": "ama-19e663-paypay"
     },
     {
-      "name": "紫雲殿あま七宝斎場"
+      "name": "名宝オート",
+      "storeid": "ama-aac94a",
+      "shopid": "ama-aac94a-paypay"
     },
     {
-      "name": "名宝オート"
+      "name": "メナードフェイシャルサロン",
+      "storeid": "ama-c1de05",
+      "shopid": "ama-c1de05-paypay"
     },
     {
-      "name": "メナードフェイシャルサロン"
+      "name": "メプのおうち",
+      "storeid": "ama-f9b4ea",
+      "shopid": "ama-f9b4ea-paypay"
     },
     {
-      "name": "メプのおうち"
+      "name": "メンズサロングリーンハット新宿ルーム",
+      "storeid": "ama-2a56e7",
+      "shopid": "ama-2a56e7-paypay"
     },
     {
-      "name": "メンズサロングリーンハット新宿ルーム"
+      "name": "メンテピア",
+      "storeid": "ama-4d15fe",
+      "shopid": "ama-4d15fe-paypay"
     },
     {
-      "name": "メンテピア"
+      "name": "麵屋りょうま櫻堂",
+      "storeid": "ama-9ec5b6",
+      "shopid": "ama-9ec5b6-paypay"
     },
     {
-      "name": "麵屋りょうま櫻堂"
+      "name": "望月生活館株式会社望月商事物流センター",
+      "storeid": "ama-bc965f",
+      "shopid": "ama-bc965f-paypay"
     },
     {
-      "name": "望月生活館株式会社望月商事物流センター"
+      "name": "モトショップタケシマ",
+      "storeid": "ama-718fad",
+      "shopid": "ama-718fad-paypay"
     },
     {
-      "name": "モトショップタケシマ"
+      "name": "木綿屋本店",
+      "storeid": "ama-722639",
+      "shopid": "ama-722639-paypay"
     },
     {
-      "name": "木綿屋本店"
+      "name": "焼肉心園",
+      "storeid": "ama-ea7e34",
+      "shopid": "ama-ea7e34-paypay"
     },
     {
-      "name": "焼肉心園"
+      "name": "焼肉すぎ乃くら",
+      "storeid": "ama-184440",
+      "shopid": "ama-184440-paypay"
     },
     {
-      "name": "焼肉すぎ乃くら"
+      "name": "焼肉太郎",
+      "storeid": "ama-a966f4",
+      "shopid": "ama-a966f4-paypay"
     },
     {
-      "name": "焼肉太郎"
+      "name": "安田タクシー",
+      "storeid": "ama-1b6e83",
+      "shopid": "ama-1b6e83-paypay"
     },
     {
-      "name": "安田タクシー"
+      "name": "山甚クリーニング商会",
+      "storeid": "ama-841bfb",
+      "shopid": "ama-841bfb-paypay"
     },
     {
-      "name": "山甚クリーニング商会"
+      "name": "ヤマジンクリーニングナフコ",
+      "storeid": "ama-4f5256",
+      "shopid": "ama-4f5256-paypay"
     },
     {
-      "name": "ヤマジンクリーニングナフコ"
+      "name": "やまとうクリーニング",
+      "storeid": "ama-dc7e7c",
+      "shopid": "ama-dc7e7c-paypay"
     },
     {
-      "name": "やまとうクリーニング"
+      "name": "ヤマト運輸",
+      "storeid": "ama-e8b740",
+      "shopid": "ama-e8b740-paypay"
     },
     {
-      "name": "ヤマト運輸"
+      "name": "大和デラックスクリーニング",
+      "storeid": "ama-2b06dc",
+      "shopid": "ama-2b06dc-paypay"
     },
     {
-      "name": "大和デラックスクリーニング"
+      "name": "山藤クリーニング",
+      "storeid": "ama-fd3558",
+      "shopid": "ama-fd3558-paypay"
     },
     {
-      "name": "山藤クリーニング"
+      "name": "有限会社みやびエネルギー",
+      "storeid": "ama-8a50ed",
+      "shopid": "ama-8a50ed-paypay"
     },
     {
-      "name": "有限会社みやびエネルギー"
+      "name": "ゆーずどかぁ本舗（株）",
+      "storeid": "ama-d74479",
+      "shopid": "ama-d74479-paypay"
     },
     {
-      "name": "ゆーずどかぁ本舗（株）"
+      "name": "ゆとりこ",
+      "storeid": "ama-1619d2",
+      "shopid": "ama-1619d2-paypay"
     },
     {
-      "name": "ゆとりこ"
+      "name": "洋服のヤマト",
+      "storeid": "ama-9c5a59",
+      "shopid": "ama-9c5a59-paypay"
     },
     {
-      "name": "洋服のヤマト"
+      "name": "吉川自動車",
+      "storeid": "ama-9ef405",
+      "shopid": "ama-9ef405-paypay"
     },
     {
-      "name": "吉川自動車"
+      "name": "吉光",
+      "storeid": "ama-9eb53a",
+      "shopid": "ama-9eb53a-paypay"
     },
     {
-      "name": "吉光"
+      "name": "リオグラフィコ",
+      "storeid": "ama-f511e5",
+      "shopid": "ama-f511e5-paypay"
     },
     {
-      "name": "リオグラフィコ"
+      "name": "リラクゼーションサロンan",
+      "storeid": "ama-f58692",
+      "shopid": "ama-f58692-paypay"
     },
     {
-      "name": "リラクゼーションサロンan"
+      "name": "りらくる",
+      "storeid": "ama-614f2f",
+      "shopid": "ama-614f2f-paypay"
     },
     {
-      "name": "りらくる"
+      "name": "凜華",
+      "storeid": "ama-db5117",
+      "shopid": "ama-db5117-paypay"
     },
     {
-      "name": "凜華"
+      "name": "ル・トレゾア",
+      "storeid": "ama-a3c802",
+      "shopid": "ama-a3c802-paypay"
     },
     {
-      "name": "ル・トレゾア"
+      "name": "レオドバック",
+      "storeid": "ama-7536c8",
+      "shopid": "ama-7536c8-paypay"
     },
     {
-      "name": "レオドバック"
+      "name": "レストラン天王",
+      "storeid": "ama-64b554",
+      "shopid": "ama-64b554-paypay"
     },
     {
-      "name": "レストラン天王"
+      "name": "蓮華堂",
+      "storeid": "ama-f80054",
+      "shopid": "ama-f80054-paypay"
     },
     {
-      "name": "蓮華堂"
-    },
-    {
-      "name": "ワーキングウェアー　トップ"
+      "name": "ワーキングウェアー　トップ",
+      "storeid": "ama-a4fef1",
+      "shopid": "ama-a4fef1-paypay"
     }
   ],
   "ガソリンスタンド": [
     {
-      "name": "コスモ石油セルフUステーションもり"
+      "name": "コスモ石油セルフUステーションもり",
+      "storeid": "ama-c6fedc",
+      "shopid": "ama-c6fedc-paypay"
     },
     {
-      "name": "長商　蜂須賀SS"
+      "name": "長商　蜂須賀SS",
+      "storeid": "ama-89c425",
+      "shopid": "ama-89c425-paypay"
     },
     {
-      "name": "apollostationセルフ甚目寺SS"
+      "name": "apollostationセルフ甚目寺SS",
+      "storeid": "ama-864c47",
+      "shopid": "ama-864c47-paypay"
     },
     {
-      "name": "apollostationセルふる甚目寺南SS"
+      "name": "apollostationセルふる甚目寺南SS",
+      "storeid": "ama-e99dfb",
+      "shopid": "ama-e99dfb-paypay"
     },
     {
-      "name": "シンプルパーキング甚目寺駅南"
+      "name": "シンプルパーキング甚目寺駅南",
+      "storeid": "ama-b113cd",
+      "shopid": "ama-b113cd-paypay"
     },
     {
-      "name": "SK東海　丹波SS"
+      "name": "SK東海　丹波SS",
+      "storeid": "ama-dc86de",
+      "shopid": "ama-dc86de-paypay"
     }
   ],
   "スーパーマーケット": [
     {
-      "name": "アオキスーパー"
+      "name": "アオキスーパー",
+      "storeid": "ama-f8064a",
+      "shopid": "ama-f8064a-paypay"
     },
     {
-      "name": "Yストア"
+      "name": "Yストア",
+      "storeid": "ama-4a35b6",
+      "shopid": "ama-4a35b6-paypay"
     },
     {
-      "name": "コノミヤ"
+      "name": "コノミヤ",
+      "storeid": "ama-4d23e6",
+      "shopid": "ama-4d23e6-paypay"
     },
     {
-      "name": "ヨシヅヤストアー"
+      "name": "ヨシヅヤストアー",
+      "storeid": "ama-d4c7fd",
+      "shopid": "ama-d4c7fd-paypay"
     },
     {
-      "name": "ヨシヅヤ食品"
+      "name": "ヨシヅヤ食品",
+      "storeid": "ama-168703",
+      "shopid": "ama-168703-paypay"
     }
   ],
   "ドラッグストア・薬局": [
     {
-      "name": "ツルハホールディングス"
+      "name": "ツルハホールディングス",
+      "storeid": "ama-81afa0",
+      "shopid": "ama-81afa0-paypay"
     },
     {
-      "name": "サンドラッググループ"
+      "name": "サンドラッググループ",
+      "storeid": "ama-69ce82",
+      "shopid": "ama-69ce82-paypay"
     },
     {
-      "name": "クリエイトエス・ディー"
+      "name": "クリエイトエス・ディー",
+      "storeid": "ama-187f82",
+      "shopid": "ama-187f82-paypay"
     },
     {
-      "name": "明治堂薬品"
+      "name": "明治堂薬品",
+      "storeid": "ama-daec78",
+      "shopid": "ama-daec78-paypay"
     },
     {
-      "name": "たんぽぽ薬局"
+      "name": "たんぽぽ薬局",
+      "storeid": "ama-5e1b3d",
+      "shopid": "ama-5e1b3d-paypay"
     },
     {
-      "name": "clocheFACIAL SALON"
+      "name": "clocheFACIAL SALON",
+      "storeid": "ama-3b4d3c",
+      "shopid": "ama-3b4d3c-paypay"
     },
     {
-      "name": "Delmまえだ"
+      "name": "Delmまえだ",
+      "storeid": "ama-fa644d",
+      "shopid": "ama-fa644d-paypay"
     },
     {
-      "name": "ソフト・ピアB&D"
+      "name": "ソフト・ピアB&D",
+      "storeid": "ama-e2910a",
+      "shopid": "ama-e2910a-paypay"
     },
     {
-      "name": "private salon Grandeur"
+      "name": "private salon Grandeur",
+      "storeid": "ama-6b613c",
+      "shopid": "ama-6b613c-paypay"
     },
     {
-      "name": "富士薬品グループドラッグユタカ"
+      "name": "富士薬品グループドラッグユタカ",
+      "storeid": "ama-d2d344",
+      "shopid": "ama-d2d344-paypay"
     },
     {
-      "name": "スギ薬局グループスギドラッグ"
+      "name": "スギ薬局グループスギドラッグ",
+      "storeid": "ama-6fa727",
+      "shopid": "ama-6fa727-paypay"
     },
     {
-      "name": "V・ドラッグ"
+      "name": "V・ドラッグ",
+      "storeid": "ama-ffe4ff",
+      "shopid": "ama-ffe4ff-paypay"
     },
     {
-      "name": "ドラッグストアマツモトキヨシ"
+      "name": "ドラッグストアマツモトキヨシ",
+      "storeid": "ama-78f124",
+      "shopid": "ama-78f124-paypay"
     }
   ],
   "ホームセンター・ショッピングセンター": [
     {
-      "name": "DCM"
+      "name": "DCM",
+      "storeid": "ama-818da0",
+      "shopid": "ama-818da0-paypay"
     }
   ],
   "家電": [
     {
-      "name": "ソフトバンク"
+      "name": "ソフトバンク",
+      "storeid": "ama-ff613c",
+      "shopid": "ama-ff613c-paypay"
     },
     {
-      "name": "想-omoi-"
+      "name": "想-omoi-",
+      "storeid": "ama-414cc0",
+      "shopid": "ama-414cc0-paypay"
     },
     {
-      "name": "ヤマダデンキ"
+      "name": "ヤマダデンキ",
+      "storeid": "ama-cb5e6f",
+      "shopid": "ama-cb5e6f-paypay"
     },
     {
-      "name": "YABU屋"
+      "name": "YABU屋",
+      "storeid": "ama-aa66d5",
+      "shopid": "ama-aa66d5-paypay"
     },
     {
-      "name": "有限会社東松電器"
+      "name": "有限会社東松電器",
+      "storeid": "ama-ca3bad",
+      "shopid": "ama-ca3bad-paypay"
     },
     {
-      "name": "山新"
+      "name": "山新",
+      "storeid": "ama-901429",
+      "shopid": "ama-901429-paypay"
     },
     {
-      "name": "田村七宝工芸"
+      "name": "田村七宝工芸",
+      "storeid": "ama-62bbfa",
+      "shopid": "ama-62bbfa-paypay"
     },
     {
-      "name": "パナランドしょうえい"
+      "name": "パナランドしょうえい",
+      "storeid": "ama-8040f3",
+      "shopid": "ama-8040f3-paypay"
     },
     {
-      "name": "Rexヨシヤ"
+      "name": "Rexヨシヤ",
+      "storeid": "ama-b51a8b",
+      "shopid": "ama-b51a8b-paypay"
     },
     {
-      "name": "愛電管アイセイ"
+      "name": "愛電管アイセイ",
+      "storeid": "ama-2c9365",
+      "shopid": "ama-2c9365-paypay"
     },
     {
-      "name": "有限会社ワタナベデンキ"
+      "name": "有限会社ワタナベデンキ",
+      "storeid": "ama-ef15a1",
+      "shopid": "ama-ef15a1-paypay"
     },
     {
-      "name": "SB/YMショップ"
+      "name": "SB/YMショップ",
+      "storeid": "ama-e88cd0",
+      "shopid": "ama-e88cd0-paypay"
     }
   ],
   "酒屋・リカーショップ": [
     {
-      "name": "酒ゃビック"
+      "name": "酒ゃビック",
+      "storeid": "ama-12c6ce",
+      "shopid": "ama-12c6ce-paypay"
     },
     {
-      "name": "地酒屋サケハウス"
+      "name": "地酒屋サケハウス",
+      "storeid": "ama-8e8ac3",
+      "shopid": "ama-8e8ac3-paypay"
     }
   ]
 }

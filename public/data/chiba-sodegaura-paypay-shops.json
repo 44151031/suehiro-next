@@ -1,556 +1,905 @@
 {
   "その他": [
     {
-      "name": "モーモーズ"
+      "name": "モーモーズ",
+      "storeid": "sodegaura-cf9f12",
+      "shopid": "sodegaura-cf9f12-paypay"
     },
     {
-      "name": "大和屋袖ケ浦店"
+      "name": "大和屋袖ケ浦店",
+      "storeid": "sodegaura-9ad4c8",
+      "shopid": "sodegaura-9ad4c8-paypay"
     },
     {
-      "name": "ICHIGOYA・SUN"
+      "name": "ICHIGOYA・SUN",
+      "storeid": "sodegaura-48e8f7",
+      "shopid": "sodegaura-48e8f7-paypay"
     },
     {
-      "name": "ますみ犬猫病院本院"
+      "name": "ますみ犬猫病院本院",
+      "storeid": "sodegaura-8fc23b",
+      "shopid": "sodegaura-8fc23b-paypay"
     },
     {
-      "name": "トップシステム南庁舎売店"
+      "name": "トップシステム南庁舎売店",
+      "storeid": "sodegaura-c62fc8",
+      "shopid": "sodegaura-c62fc8-paypay"
     },
     {
-      "name": "上泉農園"
+      "name": "上泉農園",
+      "storeid": "sodegaura-c108a4",
+      "shopid": "sodegaura-c108a4-paypay"
     },
     {
-      "name": "川村とまと園"
+      "name": "川村とまと園",
+      "storeid": "sodegaura-8d26a9",
+      "shopid": "sodegaura-8d26a9-paypay"
     },
     {
-      "name": "ねむのもり"
+      "name": "ねむのもり",
+      "storeid": "sodegaura-b04522",
+      "shopid": "sodegaura-b04522-paypay"
     },
     {
-      "name": "CAFÉ LA FORESTA"
+      "name": "CAFÉ LA FORESTA",
+      "storeid": "sodegaura-8598d0",
+      "shopid": "sodegaura-8598d0-paypay"
     },
     {
-      "name": "身体工房 mackey"
+      "name": "身体工房 mackey",
+      "storeid": "sodegaura-82d022",
+      "shopid": "sodegaura-82d022-paypay"
     },
     {
-      "name": "DogSalon　Fluffy"
+      "name": "DogSalon　Fluffy",
+      "storeid": "sodegaura-4ae99f",
+      "shopid": "sodegaura-4ae99f-paypay"
     },
     {
-      "name": "(有)武井製茶工場"
+      "name": "(有)武井製茶工場",
+      "storeid": "sodegaura-78b272",
+      "shopid": "sodegaura-78b272-paypay"
     },
     {
-      "name": "ガッツレンタカー"
+      "name": "ガッツレンタカー",
+      "storeid": "sodegaura-2aa675",
+      "shopid": "sodegaura-2aa675-paypay"
     },
     {
-      "name": "しまむらファーム＆ガーデン"
+      "name": "しまむらファーム＆ガーデン",
+      "storeid": "sodegaura-9e489d",
+      "shopid": "sodegaura-9e489d-paypay"
     },
     {
-      "name": "カーメイキングレヴュー"
+      "name": "カーメイキングレヴュー",
+      "storeid": "sodegaura-08cd72",
+      "shopid": "sodegaura-08cd72-paypay"
     },
     {
-      "name": "長浦コンタクトレンズ"
+      "name": "長浦コンタクトレンズ",
+      "storeid": "sodegaura-04b17a",
+      "shopid": "sodegaura-04b17a-paypay"
     },
     {
-      "name": "ZERO FIGHTERS"
+      "name": "ZERO FIGHTERS",
+      "storeid": "sodegaura-3f6887",
+      "shopid": "sodegaura-3f6887-paypay"
     },
     {
-      "name": "イシイモータース"
+      "name": "イシイモータース",
+      "storeid": "sodegaura-0df9e5",
+      "shopid": "sodegaura-0df9e5-paypay"
     },
     {
-      "name": "家事代行アルト"
+      "name": "家事代行アルト",
+      "storeid": "sodegaura-cee565",
+      "shopid": "sodegaura-cee565-paypay"
     },
     {
-      "name": "ハピラセラ"
+      "name": "ハピラセラ",
+      "storeid": "sodegaura-ca9cf5",
+      "shopid": "sodegaura-ca9cf5-paypay"
     },
     {
-      "name": "スタジオPIC "
+      "name": "スタジオPIC ",
+      "storeid": "sodegaura-edeea7",
+      "shopid": "sodegaura-edeea7-paypay"
     },
     {
-      "name": "スナック　環"
+      "name": "スナック　環",
+      "storeid": "sodegaura-7f54c8",
+      "shopid": "sodegaura-7f54c8-paypay"
     },
     {
-      "name": "あづ整体院"
+      "name": "あづ整体院",
+      "storeid": "sodegaura-fcefeb",
+      "shopid": "sodegaura-fcefeb-paypay"
     },
     {
-      "name": "勝畑税理士事務所"
+      "name": "勝畑税理士事務所",
+      "storeid": "sodegaura-32efcc",
+      "shopid": "sodegaura-32efcc-paypay"
     },
     {
-      "name": "SupportWorksJoyTreeglacege-vase"
+      "name": "SupportWorksJoyTreeglacege-vase",
+      "storeid": "sodegaura-e9275d",
+      "shopid": "sodegaura-e9275d-paypay"
     },
     {
-      "name": "LBC"
+      "name": "LBC",
+      "storeid": "sodegaura-2e83e2",
+      "shopid": "sodegaura-2e83e2-paypay"
     },
     {
-      "name": "seaya dreamcapsule酵素カプセルサロンシーヤ"
+      "name": "seaya dreamcapsule酵素カプセルサロンシーヤ",
+      "storeid": "sodegaura-7c158a",
+      "shopid": "sodegaura-7c158a-paypay"
     },
     {
-      "name": "CHAKY"
+      "name": "CHAKY",
+      "storeid": "sodegaura-ecfbab",
+      "shopid": "sodegaura-ecfbab-paypay"
     },
     {
-      "name": "レンタルニューワンAQUA店"
+      "name": "レンタルニューワンAQUA店",
+      "storeid": "sodegaura-85ada5",
+      "shopid": "sodegaura-85ada5-paypay"
     },
     {
-      "name": "綿屋輪業"
+      "name": "綿屋輪業",
+      "storeid": "sodegaura-06699c",
+      "shopid": "sodegaura-06699c-paypay"
     },
     {
-      "name": "カラオケモコモコ"
+      "name": "カラオケモコモコ",
+      "storeid": "sodegaura-8db8ca",
+      "shopid": "sodegaura-8db8ca-paypay"
     },
     {
-      "name": "(有)寿板金"
+      "name": "(有)寿板金",
+      "storeid": "sodegaura-c6d028",
+      "shopid": "sodegaura-c6d028-paypay"
     },
     {
-      "name": "glacage-vase"
+      "name": "glacage-vase",
+      "storeid": "sodegaura-a90876",
+      "shopid": "sodegaura-a90876-paypay"
     },
     {
-      "name": "小原クリーニング"
+      "name": "小原クリーニング",
+      "storeid": "sodegaura-131310",
+      "shopid": "sodegaura-131310-paypay"
     },
     {
-      "name": "GIFT1号店"
+      "name": "GIFT1号店",
+      "storeid": "sodegaura-aaae9c",
+      "shopid": "sodegaura-aaae9c-paypay"
     },
     {
-      "name": "HEAD SCAN TOKYO."
+      "name": "HEAD SCAN TOKYO.",
+      "storeid": "sodegaura-0615ed",
+      "shopid": "sodegaura-0615ed-paypay"
     },
     {
-      "name": "ラックボディ"
+      "name": "ラックボディ",
+      "storeid": "sodegaura-5b0198",
+      "shopid": "sodegaura-5b0198-paypay"
     },
     {
-      "name": "有限会社すずもと"
+      "name": "有限会社すずもと",
+      "storeid": "sodegaura-500f11",
+      "shopid": "sodegaura-500f11-paypay"
     },
     {
-      "name": "飯島設備"
+      "name": "飯島設備",
+      "storeid": "sodegaura-8c0160",
+      "shopid": "sodegaura-8c0160-paypay"
     },
     {
-      "name": "Navia"
+      "name": "Navia",
+      "storeid": "sodegaura-1b18df",
+      "shopid": "sodegaura-1b18df-paypay"
     },
     {
-      "name": "HakoNeko塊根植物専門店"
+      "name": "HakoNeko塊根植物専門店",
+      "storeid": "sodegaura-cd84f3",
+      "shopid": "sodegaura-cd84f3-paypay"
     },
     {
-      "name": "袖ヶ浦総建"
+      "name": "袖ヶ浦総建",
+      "storeid": "sodegaura-82d8f0",
+      "shopid": "sodegaura-82d8f0-paypay"
     },
     {
-      "name": "福原自動車整備工場"
+      "name": "福原自動車整備工場",
+      "storeid": "sodegaura-dbe232",
+      "shopid": "sodegaura-dbe232-paypay"
     },
     {
-      "name": "MINDSSPORTSFIELDS"
+      "name": "MINDSSPORTSFIELDS",
+      "storeid": "sodegaura-341b8a",
+      "shopid": "sodegaura-341b8a-paypay"
     },
     {
-      "name": "シャトレーゼ"
+      "name": "シャトレーゼ",
+      "storeid": "sodegaura-1a5567",
+      "shopid": "sodegaura-1a5567-paypay"
     },
     {
-      "name": "オーリーブレッド"
+      "name": "オーリーブレッド",
+      "storeid": "sodegaura-ab8275",
+      "shopid": "sodegaura-ab8275-paypay"
     },
     {
-      "name": "プリメーロ"
+      "name": "プリメーロ",
+      "storeid": "sodegaura-568aac",
+      "shopid": "sodegaura-568aac-paypay"
     },
     {
-      "name": "オランダ家"
+      "name": "オランダ家",
+      "storeid": "sodegaura-dfa641",
+      "shopid": "sodegaura-dfa641-paypay"
     },
     {
-      "name": "(有)奈良輪豊月堂"
+      "name": "(有)奈良輪豊月堂",
+      "storeid": "sodegaura-b9b203",
+      "shopid": "sodegaura-b9b203-paypay"
     },
     {
-      "name": "PLANTS"
+      "name": "PLANTS",
+      "storeid": "sodegaura-bc78b9",
+      "shopid": "sodegaura-bc78b9-paypay"
     },
     {
-      "name": "ケーキハウス赤とんぼ"
+      "name": "ケーキハウス赤とんぼ",
+      "storeid": "sodegaura-aba6bf",
+      "shopid": "sodegaura-aba6bf-paypay"
     },
     {
-      "name": "パティスリー　キャンジュール"
+      "name": "パティスリー　キャンジュール",
+      "storeid": "sodegaura-3977fb",
+      "shopid": "sodegaura-3977fb-paypay"
     },
     {
-      "name": "Little Sweets Shop Anthony"
+      "name": "Little Sweets Shop Anthony",
+      "storeid": "sodegaura-c5f1db",
+      "shopid": "sodegaura-c5f1db-paypay"
     },
     {
-      "name": "いぬ日和"
+      "name": "いぬ日和",
+      "storeid": "sodegaura-7aad54",
+      "shopid": "sodegaura-7aad54-paypay"
     },
     {
-      "name": "RCスタジアム袖ヶ浦"
+      "name": "RCスタジアム袖ヶ浦",
+      "storeid": "sodegaura-7543b3",
+      "shopid": "sodegaura-7543b3-paypay"
     },
     {
-      "name": "袖ヶ浦ホンダ"
+      "name": "袖ヶ浦ホンダ",
+      "storeid": "sodegaura-9411b3",
+      "shopid": "sodegaura-9411b3-paypay"
     },
     {
-      "name": "フラワーヒロ"
+      "name": "フラワーヒロ",
+      "storeid": "sodegaura-d95c13",
+      "shopid": "sodegaura-d95c13-paypay"
     },
     {
-      "name": "(株)メディアサイトウ"
+      "name": "(株)メディアサイトウ",
+      "storeid": "sodegaura-643c6e",
+      "shopid": "sodegaura-643c6e-paypay"
     },
     {
-      "name": "Buondi"
+      "name": "Buondi",
+      "storeid": "sodegaura-522e60",
+      "shopid": "sodegaura-522e60-paypay"
     },
     {
-      "name": "Noix Bruno."
+      "name": "Noix Bruno.",
+      "storeid": "sodegaura-414b5a",
+      "shopid": "sodegaura-414b5a-paypay"
     },
     {
-      "name": "はんこ家はん造"
+      "name": "はんこ家はん造",
+      "storeid": "sodegaura-015dfc",
+      "shopid": "sodegaura-015dfc-paypay"
     },
     {
-      "name": "ひらおかサステラス"
+      "name": "ひらおかサステラス",
+      "storeid": "sodegaura-1859c8",
+      "shopid": "sodegaura-1859c8-paypay"
     },
     {
-      "name": "峯下モータース"
+      "name": "峯下モータース",
+      "storeid": "sodegaura-c0e8aa",
+      "shopid": "sodegaura-c0e8aa-paypay"
     },
     {
-      "name": "バード袖ヶ浦"
+      "name": "バード袖ヶ浦",
+      "storeid": "sodegaura-74b4cc",
+      "shopid": "sodegaura-74b4cc-paypay"
     },
     {
-      "name": "グリムのへや"
+      "name": "グリムのへや",
+      "storeid": "sodegaura-45f96a",
+      "shopid": "sodegaura-45f96a-paypay"
     },
     {
-      "name": "irodori"
+      "name": "irodori",
+      "storeid": "sodegaura-202d26",
+      "shopid": "sodegaura-202d26-paypay"
     },
     {
-      "name": "アップルポップ千葉3号店"
+      "name": "アップルポップ千葉3号店",
+      "storeid": "sodegaura-22948c",
+      "shopid": "sodegaura-22948c-paypay"
     },
     {
-      "name": "ユナイテッドインターナショナル"
+      "name": "ユナイテッドインターナショナル",
+      "storeid": "sodegaura-cd5d35",
+      "shopid": "sodegaura-cd5d35-paypay"
     },
     {
-      "name": "GROW-UP"
+      "name": "GROW-UP",
+      "storeid": "sodegaura-0e0ab7",
+      "shopid": "sodegaura-0e0ab7-paypay"
     },
     {
-      "name": "ガウラスポーツイベント"
+      "name": "ガウラスポーツイベント",
+      "storeid": "sodegaura-c95070",
+      "shopid": "sodegaura-c95070-paypay"
     },
     {
-      "name": "IGNITION"
+      "name": "IGNITION",
+      "storeid": "sodegaura-e719c3",
+      "shopid": "sodegaura-e719c3-paypay"
     },
     {
-      "name": "有限会社一真企画居酒屋食堂なじみ"
+      "name": "有限会社一真企画居酒屋食堂なじみ",
+      "storeid": "sodegaura-63ceb0",
+      "shopid": "sodegaura-63ceb0-paypay"
     },
     {
-      "name": "魚料理専門店　わかせい"
+      "name": "魚料理専門店　わかせい",
+      "storeid": "sodegaura-7e24f7",
+      "shopid": "sodegaura-7e24f7-paypay"
     },
     {
-      "name": "焼肉DINING大和"
+      "name": "焼肉DINING大和",
+      "storeid": "sodegaura-8b0c28",
+      "shopid": "sodegaura-8b0c28-paypay"
     },
     {
-      "name": "すし・創作料理一幸"
+      "name": "すし・創作料理一幸",
+      "storeid": "sodegaura-1d6a1f",
+      "shopid": "sodegaura-1d6a1f-paypay"
     },
     {
-      "name": "和風レストラン亀悦"
+      "name": "和風レストラン亀悦",
+      "storeid": "sodegaura-dd63bd",
+      "shopid": "sodegaura-dd63bd-paypay"
     },
     {
-      "name": "モンテローザ魚民"
+      "name": "モンテローザ魚民",
+      "storeid": "sodegaura-048c5d",
+      "shopid": "sodegaura-048c5d-paypay"
     },
     {
-      "name": "ROSEHIPCAFE"
+      "name": "ROSEHIPCAFE",
+      "storeid": "sodegaura-a25a74",
+      "shopid": "sodegaura-a25a74-paypay"
     },
     {
-      "name": "中華料理　正華楼"
+      "name": "中華料理　正華楼",
+      "storeid": "sodegaura-e0a982",
+      "shopid": "sodegaura-e0a982-paypay"
     },
     {
-      "name": "レストランキャセロール"
+      "name": "レストランキャセロール",
+      "storeid": "sodegaura-8921ef",
+      "shopid": "sodegaura-8921ef-paypay"
     },
     {
-      "name": "焼肉亭赤とんぼ"
+      "name": "焼肉亭赤とんぼ",
+      "storeid": "sodegaura-1239f7",
+      "shopid": "sodegaura-1239f7-paypay"
     },
     {
-      "name": "養老乃瀧"
+      "name": "養老乃瀧",
+      "storeid": "sodegaura-9dc448",
+      "shopid": "sodegaura-9dc448-paypay"
     },
     {
-      "name": "居酒屋れいちゃん"
+      "name": "居酒屋れいちゃん",
+      "storeid": "sodegaura-d879b2",
+      "shopid": "sodegaura-d879b2-paypay"
     },
     {
-      "name": "川善"
+      "name": "川善",
+      "storeid": "sodegaura-d550c0",
+      "shopid": "sodegaura-d550c0-paypay"
     },
     {
-      "name": "妙繕閣"
+      "name": "妙繕閣",
+      "storeid": "sodegaura-af6e7f",
+      "shopid": "sodegaura-af6e7f-paypay"
     },
     {
-      "name": "焼肉かげろう"
+      "name": "焼肉かげろう",
+      "storeid": "sodegaura-775094",
+      "shopid": "sodegaura-775094-paypay"
     },
     {
-      "name": "麺処霧笛"
+      "name": "麺処霧笛",
+      "storeid": "sodegaura-7a1d6e",
+      "shopid": "sodegaura-7a1d6e-paypay"
     },
     {
-      "name": "たけや食堂"
+      "name": "たけや食堂",
+      "storeid": "sodegaura-690325",
+      "shopid": "sodegaura-690325-paypay"
     },
     {
-      "name": "大原軒"
+      "name": "大原軒",
+      "storeid": "sodegaura-d3c6c0",
+      "shopid": "sodegaura-d3c6c0-paypay"
     },
     {
-      "name": "Tonic Diner"
+      "name": "Tonic Diner",
+      "storeid": "sodegaura-0f76b3",
+      "shopid": "sodegaura-0f76b3-paypay"
     },
     {
-      "name": "アメリカンステーキ16イチロー"
+      "name": "アメリカンステーキ16イチロー",
+      "storeid": "sodegaura-2c3a30",
+      "shopid": "sodegaura-2c3a30-paypay"
     },
     {
-      "name": "袖ヶ浦ふれあいどうぶつ緑"
+      "name": "袖ヶ浦ふれあいどうぶつ緑",
+      "storeid": "sodegaura-edb9de",
+      "shopid": "sodegaura-edb9de-paypay"
     },
     {
-      "name": "石井洋品店"
+      "name": "石井洋品店",
+      "storeid": "sodegaura-faf380",
+      "shopid": "sodegaura-faf380-paypay"
     },
     {
-      "name": "上田屋さつき台"
+      "name": "上田屋さつき台",
+      "storeid": "sodegaura-9d14cc",
+      "shopid": "sodegaura-9d14cc-paypay"
     },
     {
-      "name": "MIYANOTE handmade"
+      "name": "MIYANOTE handmade",
+      "storeid": "sodegaura-afbe16",
+      "shopid": "sodegaura-afbe16-paypay"
     },
     {
-      "name": "NOHM"
+      "name": "NOHM",
+      "storeid": "sodegaura-1e52ee",
+      "shopid": "sodegaura-1e52ee-paypay"
     },
     {
-      "name": "tic.works"
+      "name": "tic.works",
+      "storeid": "sodegaura-ab4d3b",
+      "shopid": "sodegaura-ab4d3b-paypay"
     },
     {
-      "name": "東京ドイツ村事業部"
+      "name": "東京ドイツ村事業部",
+      "storeid": "sodegaura-2a7f0a",
+      "shopid": "sodegaura-2a7f0a-paypay"
     },
     {
-      "name": "アコーディア・ゴルフ東京湾カントリークラブ"
+      "name": "アコーディア・ゴルフ東京湾カントリークラブ",
+      "storeid": "sodegaura-21e28b",
+      "shopid": "sodegaura-21e28b-paypay"
     },
     {
-      "name": "ギフトふじい・クマの陶芸教室"
+      "name": "ギフトふじい・クマの陶芸教室",
+      "storeid": "sodegaura-a739bc",
+      "shopid": "sodegaura-a739bc-paypay"
     },
     {
-      "name": "TrainingteamGROW"
+      "name": "TrainingteamGROW",
+      "storeid": "sodegaura-40b6f0",
+      "shopid": "sodegaura-40b6f0-paypay"
     },
     {
-      "name": "グリーンアローBornCafe"
+      "name": "グリーンアローBornCafe",
+      "storeid": "sodegaura-fc4ad4",
+      "shopid": "sodegaura-fc4ad4-paypay"
     },
     {
-      "name": "サンダーコマンドスサバゲーフィールド"
+      "name": "サンダーコマンドスサバゲーフィールド",
+      "storeid": "sodegaura-bb5c46",
+      "shopid": "sodegaura-bb5c46-paypay"
     },
     {
-      "name": "グリーンアロートランポリンパーク"
+      "name": "グリーンアロートランポリンパーク",
+      "storeid": "sodegaura-b17785",
+      "shopid": "sodegaura-b17785-paypay"
     },
     {
-      "name": "PERSONALGYMCRESCO"
+      "name": "PERSONALGYMCRESCO",
+      "storeid": "sodegaura-ccad5e",
+      "shopid": "sodegaura-ccad5e-paypay"
     },
     {
-      "name": "Nail&Eyelash Salon Lea"
+      "name": "Nail&Eyelash Salon Lea",
+      "storeid": "sodegaura-6a71f3",
+      "shopid": "sodegaura-6a71f3-paypay"
     },
     {
-      "name": "もみほぐしサロンゆりまち癒しの空間"
+      "name": "もみほぐしサロンゆりまち癒しの空間",
+      "storeid": "sodegaura-637400",
+      "shopid": "sodegaura-637400-paypay"
     },
     {
-      "name": "Toiro"
+      "name": "Toiro",
+      "storeid": "sodegaura-d3747a",
+      "shopid": "sodegaura-d3747a-paypay"
     },
     {
-      "name": "Ballom d' Or"
+      "name": "Ballom d' Or",
+      "storeid": "sodegaura-adfa1e",
+      "shopid": "sodegaura-adfa1e-paypay"
     },
     {
-      "name": "nekoRu"
+      "name": "nekoRu",
+      "storeid": "sodegaura-461f63",
+      "shopid": "sodegaura-461f63-paypay"
     },
     {
-      "name": "KITTE"
+      "name": "KITTE",
+      "storeid": "sodegaura-81c88b",
+      "shopid": "sodegaura-81c88b-paypay"
     },
     {
-      "name": "Jelly"
+      "name": "Jelly",
+      "storeid": "sodegaura-eff58c",
+      "shopid": "sodegaura-eff58c-paypay"
     },
     {
-      "name": "Nail&Bodycare salon milimili"
+      "name": "Nail&Bodycare salon milimili",
+      "storeid": "sodegaura-b40ef1",
+      "shopid": "sodegaura-b40ef1-paypay"
     },
     {
-      "name": "Art the line"
+      "name": "Art the line",
+      "storeid": "sodegaura-a78d48",
+      "shopid": "sodegaura-a78d48-paypay"
     },
     {
-      "name": "Hair Salon aLotta"
+      "name": "Hair Salon aLotta",
+      "storeid": "sodegaura-e09b53",
+      "shopid": "sodegaura-e09b53-paypay"
     },
     {
-      "name": "kanoah kaila"
+      "name": "kanoah kaila",
+      "storeid": "sodegaura-a0b813",
+      "shopid": "sodegaura-a0b813-paypay"
     },
     {
-      "name": "hairdesign eclat"
+      "name": "hairdesign eclat",
+      "storeid": "sodegaura-97b8bc",
+      "shopid": "sodegaura-97b8bc-paypay"
     },
     {
-      "name": "ALMOND"
+      "name": "ALMOND",
+      "storeid": "sodegaura-291e11",
+      "shopid": "sodegaura-291e11-paypay"
     },
     {
-      "name": "エステサロン salon de vita"
+      "name": "エステサロン salon de vita",
+      "storeid": "sodegaura-1415d9",
+      "shopid": "sodegaura-1415d9-paypay"
     },
     {
-      "name": "Cherish"
+      "name": "Cherish",
+      "storeid": "sodegaura-20d62d",
+      "shopid": "sodegaura-20d62d-paypay"
     },
     {
-      "name": "結"
+      "name": "結",
+      "storeid": "sodegaura-37e6d8",
+      "shopid": "sodegaura-37e6d8-paypay"
     },
     {
-      "name": "フットケア専門店りく"
+      "name": "フットケア専門店りく",
+      "storeid": "sodegaura-15da4f",
+      "shopid": "sodegaura-15da4f-paypay"
     },
     {
-      "name": "eau-de-vie"
+      "name": "eau-de-vie",
+      "storeid": "sodegaura-8d82d4",
+      "shopid": "sodegaura-8d82d4-paypay"
     },
     {
-      "name": "ファースト"
+      "name": "ファースト",
+      "storeid": "sodegaura-60b8d9",
+      "shopid": "sodegaura-60b8d9-paypay"
     },
     {
-      "name": "髪kura"
+      "name": "髪kura",
+      "storeid": "sodegaura-461619",
+      "shopid": "sodegaura-461619-paypay"
     },
     {
-      "name": "soothing"
+      "name": "soothing",
+      "storeid": "sodegaura-438fe4",
+      "shopid": "sodegaura-438fe4-paypay"
     },
     {
-      "name": "Aquange"
+      "name": "Aquange",
+      "storeid": "sodegaura-285681",
+      "shopid": "sodegaura-285681-paypay"
     },
     {
-      "name": "ヘアーサロンフクハラ"
+      "name": "ヘアーサロンフクハラ",
+      "storeid": "sodegaura-6c9e3e",
+      "shopid": "sodegaura-6c9e3e-paypay"
     },
     {
-      "name": "nailsalonzips"
+      "name": "nailsalonzips",
+      "storeid": "sodegaura-992f91",
+      "shopid": "sodegaura-992f91-paypay"
     },
     {
-      "name": "Lumia"
+      "name": "Lumia",
+      "storeid": "sodegaura-59a485",
+      "shopid": "sodegaura-59a485-paypay"
     },
     {
-      "name": "Balance"
+      "name": "Balance",
+      "storeid": "sodegaura-99a808",
+      "shopid": "sodegaura-99a808-paypay"
     },
     {
-      "name": "CLB salon"
+      "name": "CLB salon",
+      "storeid": "sodegaura-897d8c",
+      "shopid": "sodegaura-897d8c-paypay"
     },
     {
-      "name": "アトリエクープ"
+      "name": "アトリエクープ",
+      "storeid": "sodegaura-589515",
+      "shopid": "sodegaura-589515-paypay"
     },
     {
-      "name": "green"
+      "name": "green",
+      "storeid": "sodegaura-9f2741",
+      "shopid": "sodegaura-9f2741-paypay"
     },
     {
-      "name": "HAIR SALON Art the garden"
+      "name": "HAIR SALON Art the garden",
+      "storeid": "sodegaura-6974ae",
+      "shopid": "sodegaura-6974ae-paypay"
     },
     {
-      "name": "minimini nail"
+      "name": "minimini nail",
+      "storeid": "sodegaura-1ec37d",
+      "shopid": "sodegaura-1ec37d-paypay"
     },
     {
-      "name": "快眠ドライヘッドスパ　天使のうたた寝～ゆりーぷ"
+      "name": "快眠ドライヘッドスパ　天使のうたた寝～ゆりーぷ",
+      "storeid": "sodegaura-95e998",
+      "shopid": "sodegaura-95e998-paypay"
     },
     {
-      "name": "nail salon Octobre"
+      "name": "nail salon Octobre",
+      "storeid": "sodegaura-231668",
+      "shopid": "sodegaura-231668-paypay"
     },
     {
-      "name": "BELIAS"
+      "name": "BELIAS",
+      "storeid": "sodegaura-42afa9",
+      "shopid": "sodegaura-42afa9-paypay"
     },
     {
-      "name": "Ballond'Or"
+      "name": "Ballond'Or",
+      "storeid": "sodegaura-a34241",
+      "shopid": "sodegaura-a34241-paypay"
     },
     {
-      "name": "nailsalonOctobre"
+      "name": "nailsalonOctobre",
+      "storeid": "sodegaura-dced92",
+      "shopid": "sodegaura-dced92-paypay"
     },
     {
-      "name": "Lovely Smile"
+      "name": "Lovely Smile",
+      "storeid": "sodegaura-8fdae5",
+      "shopid": "sodegaura-8fdae5-paypay"
     },
     {
-      "name": "美肌専門サロンEteluce"
+      "name": "美肌専門サロンEteluce",
+      "storeid": "sodegaura-6b7759",
+      "shopid": "sodegaura-6b7759-paypay"
     },
     {
-      "name": "nail salon mieux"
+      "name": "nail salon mieux",
+      "storeid": "sodegaura-e6a5da",
+      "shopid": "sodegaura-e6a5da-paypay"
     },
     {
-      "name": "AtelierBiz"
+      "name": "AtelierBiz",
+      "storeid": "sodegaura-84d21f",
+      "shopid": "sodegaura-84d21f-paypay"
     },
     {
-      "name": "BEEST beauty salon"
+      "name": "BEEST beauty salon",
+      "storeid": "sodegaura-f4367e",
+      "shopid": "sodegaura-f4367e-paypay"
     },
     {
-      "name": "TELAHAIR"
+      "name": "TELAHAIR",
+      "storeid": "sodegaura-c77960",
+      "shopid": "sodegaura-c77960-paypay"
     },
     {
-      "name": "ストレッチ鍼灸イトー整骨院"
+      "name": "ストレッチ鍼灸イトー整骨院",
+      "storeid": "sodegaura-88955e",
+      "shopid": "sodegaura-88955e-paypay"
     },
     {
-      "name": "イトー整骨院"
+      "name": "イトー整骨院",
+      "storeid": "sodegaura-beaeb7",
+      "shopid": "sodegaura-beaeb7-paypay"
     },
     {
-      "name": "よつば整体院"
+      "name": "よつば整体院",
+      "storeid": "sodegaura-28f878",
+      "shopid": "sodegaura-28f878-paypay"
     },
     {
-      "name": "ココ・KARA・DA整骨院"
+      "name": "ココ・KARA・DA整骨院",
+      "storeid": "sodegaura-ec2717",
+      "shopid": "sodegaura-ec2717-paypay"
     },
     {
-      "name": "リラクゼーション整体Re.Body"
+      "name": "リラクゼーション整体Re.Body",
+      "storeid": "sodegaura-0a7c0e",
+      "shopid": "sodegaura-0a7c0e-paypay"
     },
     {
-      "name": "高橋総合健康センター"
+      "name": "高橋総合健康センター",
+      "storeid": "sodegaura-bc1366",
+      "shopid": "sodegaura-bc1366-paypay"
     },
     {
-      "name": "木もれ陽鍼灸院・整骨院"
+      "name": "木もれ陽鍼灸院・整骨院",
+      "storeid": "sodegaura-efe266",
+      "shopid": "sodegaura-efe266-paypay"
     },
     {
-      "name": "ASAHI整骨院"
+      "name": "ASAHI整骨院",
+      "storeid": "sodegaura-0168ed",
+      "shopid": "sodegaura-0168ed-paypay"
     },
     {
-      "name": "private sakon_凪_"
+      "name": "private sakon_凪_",
+      "storeid": "sodegaura-ed0c56",
+      "shopid": "sodegaura-ed0c56-paypay"
     },
     {
-      "name": "サロンパルク～pUrk～"
+      "name": "サロンパルク～pUrk～",
+      "storeid": "sodegaura-3271cb",
+      "shopid": "sodegaura-3271cb-paypay"
     },
     {
-      "name": "あづ整体院"
+      "name": "YOSAPARKborelo",
+      "storeid": "sodegaura-c45248",
+      "shopid": "sodegaura-c45248-paypay"
     },
     {
-      "name": "YOSAPARKborelo"
+      "name": "今井接骨院",
+      "storeid": "sodegaura-1eb386",
+      "shopid": "sodegaura-1eb386-paypay"
     },
     {
-      "name": "今井接骨院"
+      "name": "神納ひかり整骨院",
+      "storeid": "sodegaura-6a9ab1",
+      "shopid": "sodegaura-6a9ab1-paypay"
     },
     {
-      "name": "神納ひかり整骨院"
+      "name": "袖ヶ浦中央整体院",
+      "storeid": "sodegaura-c8bd48",
+      "shopid": "sodegaura-c8bd48-paypay"
     },
     {
-      "name": "袖ヶ浦中央整体院"
+      "name": "クリーニング専科",
+      "storeid": "sodegaura-8e3dfd",
+      "shopid": "sodegaura-8e3dfd-paypay"
     },
     {
-      "name": "クリーニング専科"
+      "name": "クリーニングスワン",
+      "storeid": "sodegaura-2afd71",
+      "shopid": "sodegaura-2afd71-paypay"
     },
     {
-      "name": "クリーニングスワン"
+      "name": "おそうじ本舗",
+      "storeid": "sodegaura-c94baa",
+      "shopid": "sodegaura-c94baa-paypay"
     },
     {
-      "name": "小原クリーニング"
+      "name": "ハウスクリーンたけい",
+      "storeid": "sodegaura-44b3ff",
+      "shopid": "sodegaura-44b3ff-paypay"
     },
     {
-      "name": "家事代行アルト"
+      "name": "湯舞音",
+      "storeid": "sodegaura-b1ccf2",
+      "shopid": "sodegaura-b1ccf2-paypay"
     },
     {
-      "name": "おそうじ本舗"
+      "name": "東横INN",
+      "storeid": "sodegaura-ca2a90",
+      "shopid": "sodegaura-ca2a90-paypay"
     },
     {
-      "name": "ハウスクリーンたけい"
+      "name": "ゆたか旅館",
+      "storeid": "sodegaura-d97241",
+      "shopid": "sodegaura-d97241-paypay"
     },
     {
-      "name": "湯舞音"
-    },
-    {
-      "name": "東横INN"
-    },
-    {
-      "name": "ゆたか旅館"
-    },
-    {
-      "name": "Tabist浜戸屋旅館"
+      "name": "Tabist浜戸屋旅館",
+      "storeid": "sodegaura-181baf",
+      "shopid": "sodegaura-181baf-paypay"
     }
   ],
   "スーパーマーケット": [
     {
-      "name": "veryfoods尾張屋"
+      "name": "veryfoods尾張屋",
+      "storeid": "sodegaura-89e4db",
+      "shopid": "sodegaura-89e4db-paypay"
     },
     {
-      "name": "主婦の店"
+      "name": "主婦の店",
+      "storeid": "sodegaura-5c8371",
+      "shopid": "sodegaura-5c8371-paypay"
     },
     {
-      "name": "富分スーパー伊藤"
+      "name": "富分スーパー伊藤",
+      "storeid": "sodegaura-f08fc3",
+      "shopid": "sodegaura-f08fc3-paypay"
     },
     {
-      "name": "小僧寿し"
+      "name": "小僧寿し",
+      "storeid": "sodegaura-36ac9b",
+      "shopid": "sodegaura-36ac9b-paypay"
     }
   ],
   "ドラッグストア・薬局": [
     {
-      "name": "株式会社ルージュアクワレル"
+      "name": "株式会社ルージュアクワレル",
+      "storeid": "sodegaura-68081e",
+      "shopid": "sodegaura-68081e-paypay"
     }
   ],
   "家電": [
     {
-      "name": "熾"
+      "name": "熾",
+      "storeid": "sodegaura-8d10fe",
+      "shopid": "sodegaura-8d10fe-paypay"
     },
     {
-      "name": "須藤電化"
+      "name": "須藤電化",
+      "storeid": "sodegaura-6f603c",
+      "shopid": "sodegaura-6f603c-paypay"
     },
     {
-      "name": "トップシステム"
+      "name": "トップシステム",
+      "storeid": "sodegaura-c5226d",
+      "shopid": "sodegaura-c5226d-paypay"
     },
     {
-      "name": "かさはら睡眠館"
+      "name": "かさはら睡眠館",
+      "storeid": "sodegaura-58eca9",
+      "shopid": "sodegaura-58eca9-paypay"
     },
     {
-      "name": "石野電化"
+      "name": "石野電化",
+      "storeid": "sodegaura-30a106",
+      "shopid": "sodegaura-30a106-paypay"
     }
   ]
 }

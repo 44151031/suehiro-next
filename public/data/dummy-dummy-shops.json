@@ -1,9 +1,10 @@
 {
-    "その他": [
-        {
-            "name": "Dummyパン",
-            "address": "ダミー町ダミー番地",
-            "shopid": "s001"
-        }
-    ]
+  "その他": [
+    {
+      "name": "Dummyパン",
+      "address": "ダミー町ダミー番地",
+      "shopid": "s001",
+      "storeid": "dummy-7c6953"
+    }
+  ]
 }

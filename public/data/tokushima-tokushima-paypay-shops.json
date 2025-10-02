@@ -1,556 +1,905 @@
 {
   "その他": [
     {
-      "name": "モーモーズ"
+      "name": "モーモーズ",
+      "storeid": "tokushima-cf9f12",
+      "shopid": "tokushima-cf9f12-paypay"
     },
     {
-      "name": "大和屋袖ケ浦店"
+      "name": "大和屋袖ケ浦店",
+      "storeid": "tokushima-9ad4c8",
+      "shopid": "tokushima-9ad4c8-paypay"
     },
     {
-      "name": "ICHIGOYA・SUN"
+      "name": "ICHIGOYA・SUN",
+      "storeid": "tokushima-48e8f7",
+      "shopid": "tokushima-48e8f7-paypay"
     },
     {
-      "name": "ますみ犬猫病院本院"
+      "name": "ますみ犬猫病院本院",
+      "storeid": "tokushima-8fc23b",
+      "shopid": "tokushima-8fc23b-paypay"
     },
     {
-      "name": "トップシステム南庁舎売店"
+      "name": "トップシステム南庁舎売店",
+      "storeid": "tokushima-c62fc8",
+      "shopid": "tokushima-c62fc8-paypay"
     },
     {
-      "name": "上泉農園"
+      "name": "上泉農園",
+      "storeid": "tokushima-c108a4",
+      "shopid": "tokushima-c108a4-paypay"
     },
     {
-      "name": "川村とまと園"
+      "name": "川村とまと園",
+      "storeid": "tokushima-8d26a9",
+      "shopid": "tokushima-8d26a9-paypay"
     },
     {
-      "name": "ねむのもり"
+      "name": "ねむのもり",
+      "storeid": "tokushima-b04522",
+      "shopid": "tokushima-b04522-paypay"
     },
     {
-      "name": "CAFÉ LA FORESTA"
+      "name": "CAFÉ LA FORESTA",
+      "storeid": "tokushima-8598d0",
+      "shopid": "tokushima-8598d0-paypay"
     },
     {
-      "name": "身体工房 mackey"
+      "name": "身体工房 mackey",
+      "storeid": "tokushima-82d022",
+      "shopid": "tokushima-82d022-paypay"
     },
     {
-      "name": "DogSalon　Fluffy"
+      "name": "DogSalon　Fluffy",
+      "storeid": "tokushima-4ae99f",
+      "shopid": "tokushima-4ae99f-paypay"
     },
     {
-      "name": "(有)武井製茶工場"
+      "name": "(有)武井製茶工場",
+      "storeid": "tokushima-78b272",
+      "shopid": "tokushima-78b272-paypay"
     },
     {
-      "name": "ガッツレンタカー"
+      "name": "ガッツレンタカー",
+      "storeid": "tokushima-2aa675",
+      "shopid": "tokushima-2aa675-paypay"
     },
     {
-      "name": "しまむらファーム＆ガーデン"
+      "name": "しまむらファーム＆ガーデン",
+      "storeid": "tokushima-9e489d",
+      "shopid": "tokushima-9e489d-paypay"
     },
     {
-      "name": "カーメイキングレヴュー"
+      "name": "カーメイキングレヴュー",
+      "storeid": "tokushima-08cd72",
+      "shopid": "tokushima-08cd72-paypay"
     },
     {
-      "name": "長浦コンタクトレンズ"
+      "name": "長浦コンタクトレンズ",
+      "storeid": "tokushima-04b17a",
+      "shopid": "tokushima-04b17a-paypay"
     },
     {
-      "name": "ZERO FIGHTERS"
+      "name": "ZERO FIGHTERS",
+      "storeid": "tokushima-3f6887",
+      "shopid": "tokushima-3f6887-paypay"
     },
     {
-      "name": "イシイモータース"
+      "name": "イシイモータース",
+      "storeid": "tokushima-0df9e5",
+      "shopid": "tokushima-0df9e5-paypay"
     },
     {
-      "name": "家事代行アルト"
+      "name": "家事代行アルト",
+      "storeid": "tokushima-cee565",
+      "shopid": "tokushima-cee565-paypay"
     },
     {
-      "name": "ハピラセラ"
+      "name": "ハピラセラ",
+      "storeid": "tokushima-ca9cf5",
+      "shopid": "tokushima-ca9cf5-paypay"
     },
     {
-      "name": "スタジオPIC "
+      "name": "スタジオPIC ",
+      "storeid": "tokushima-edeea7",
+      "shopid": "tokushima-edeea7-paypay"
     },
     {
-      "name": "スナック　環"
+      "name": "スナック　環",
+      "storeid": "tokushima-7f54c8",
+      "shopid": "tokushima-7f54c8-paypay"
     },
     {
-      "name": "あづ整体院"
+      "name": "あづ整体院",
+      "storeid": "tokushima-fcefeb",
+      "shopid": "tokushima-fcefeb-paypay"
     },
     {
-      "name": "勝畑税理士事務所"
+      "name": "勝畑税理士事務所",
+      "storeid": "tokushima-32efcc",
+      "shopid": "tokushima-32efcc-paypay"
     },
     {
-      "name": "SupportWorksJoyTreeglacege-vase"
+      "name": "SupportWorksJoyTreeglacege-vase",
+      "storeid": "tokushima-e9275d",
+      "shopid": "tokushima-e9275d-paypay"
     },
     {
-      "name": "LBC"
+      "name": "LBC",
+      "storeid": "tokushima-2e83e2",
+      "shopid": "tokushima-2e83e2-paypay"
     },
     {
-      "name": "seaya dreamcapsule酵素カプセルサロンシーヤ"
+      "name": "seaya dreamcapsule酵素カプセルサロンシーヤ",
+      "storeid": "tokushima-7c158a",
+      "shopid": "tokushima-7c158a-paypay"
     },
     {
-      "name": "CHAKY"
+      "name": "CHAKY",
+      "storeid": "tokushima-ecfbab",
+      "shopid": "tokushima-ecfbab-paypay"
     },
     {
-      "name": "レンタルニューワンAQUA店"
+      "name": "レンタルニューワンAQUA店",
+      "storeid": "tokushima-85ada5",
+      "shopid": "tokushima-85ada5-paypay"
     },
     {
-      "name": "綿屋輪業"
+      "name": "綿屋輪業",
+      "storeid": "tokushima-06699c",
+      "shopid": "tokushima-06699c-paypay"
     },
     {
-      "name": "カラオケモコモコ"
+      "name": "カラオケモコモコ",
+      "storeid": "tokushima-8db8ca",
+      "shopid": "tokushima-8db8ca-paypay"
     },
     {
-      "name": "(有)寿板金"
+      "name": "(有)寿板金",
+      "storeid": "tokushima-c6d028",
+      "shopid": "tokushima-c6d028-paypay"
     },
     {
-      "name": "glacage-vase"
+      "name": "glacage-vase",
+      "storeid": "tokushima-a90876",
+      "shopid": "tokushima-a90876-paypay"
     },
     {
-      "name": "小原クリーニング"
+      "name": "小原クリーニング",
+      "storeid": "tokushima-131310",
+      "shopid": "tokushima-131310-paypay"
     },
     {
-      "name": "GIFT1号店"
+      "name": "GIFT1号店",
+      "storeid": "tokushima-aaae9c",
+      "shopid": "tokushima-aaae9c-paypay"
     },
     {
-      "name": "HEAD SCAN TOKYO."
+      "name": "HEAD SCAN TOKYO.",
+      "storeid": "tokushima-0615ed",
+      "shopid": "tokushima-0615ed-paypay"
     },
     {
-      "name": "ラックボディ"
+      "name": "ラックボディ",
+      "storeid": "tokushima-5b0198",
+      "shopid": "tokushima-5b0198-paypay"
     },
     {
-      "name": "有限会社すずもと"
+      "name": "有限会社すずもと",
+      "storeid": "tokushima-500f11",
+      "shopid": "tokushima-500f11-paypay"
     },
     {
-      "name": "飯島設備"
+      "name": "飯島設備",
+      "storeid": "tokushima-8c0160",
+      "shopid": "tokushima-8c0160-paypay"
     },
     {
-      "name": "Navia"
+      "name": "Navia",
+      "storeid": "tokushima-1b18df",
+      "shopid": "tokushima-1b18df-paypay"
     },
     {
-      "name": "HakoNeko塊根植物専門店"
+      "name": "HakoNeko塊根植物専門店",
+      "storeid": "tokushima-cd84f3",
+      "shopid": "tokushima-cd84f3-paypay"
     },
     {
-      "name": "袖ヶ浦総建"
+      "name": "袖ヶ浦総建",
+      "storeid": "tokushima-82d8f0",
+      "shopid": "tokushima-82d8f0-paypay"
     },
     {
-      "name": "福原自動車整備工場"
+      "name": "福原自動車整備工場",
+      "storeid": "tokushima-dbe232",
+      "shopid": "tokushima-dbe232-paypay"
     },
     {
-      "name": "MINDSSPORTSFIELDS"
+      "name": "MINDSSPORTSFIELDS",
+      "storeid": "tokushima-341b8a",
+      "shopid": "tokushima-341b8a-paypay"
     },
     {
-      "name": "シャトレーゼ"
+      "name": "シャトレーゼ",
+      "storeid": "tokushima-1a5567",
+      "shopid": "tokushima-1a5567-paypay"
     },
     {
-      "name": "オーリーブレッド"
+      "name": "オーリーブレッド",
+      "storeid": "tokushima-ab8275",
+      "shopid": "tokushima-ab8275-paypay"
     },
     {
-      "name": "プリメーロ"
+      "name": "プリメーロ",
+      "storeid": "tokushima-568aac",
+      "shopid": "tokushima-568aac-paypay"
     },
     {
-      "name": "オランダ家"
+      "name": "オランダ家",
+      "storeid": "tokushima-dfa641",
+      "shopid": "tokushima-dfa641-paypay"
     },
     {
-      "name": "(有)奈良輪豊月堂"
+      "name": "(有)奈良輪豊月堂",
+      "storeid": "tokushima-b9b203",
+      "shopid": "tokushima-b9b203-paypay"
     },
     {
-      "name": "PLANTS"
+      "name": "PLANTS",
+      "storeid": "tokushima-bc78b9",
+      "shopid": "tokushima-bc78b9-paypay"
     },
     {
-      "name": "ケーキハウス赤とんぼ"
+      "name": "ケーキハウス赤とんぼ",
+      "storeid": "tokushima-aba6bf",
+      "shopid": "tokushima-aba6bf-paypay"
     },
     {
-      "name": "パティスリー　キャンジュール"
+      "name": "パティスリー　キャンジュール",
+      "storeid": "tokushima-3977fb",
+      "shopid": "tokushima-3977fb-paypay"
     },
     {
-      "name": "Little Sweets Shop Anthony"
+      "name": "Little Sweets Shop Anthony",
+      "storeid": "tokushima-c5f1db",
+      "shopid": "tokushima-c5f1db-paypay"
     },
     {
-      "name": "いぬ日和"
+      "name": "いぬ日和",
+      "storeid": "tokushima-7aad54",
+      "shopid": "tokushima-7aad54-paypay"
     },
     {
-      "name": "RCスタジアム袖ヶ浦"
+      "name": "RCスタジアム袖ヶ浦",
+      "storeid": "tokushima-7543b3",
+      "shopid": "tokushima-7543b3-paypay"
     },
     {
-      "name": "袖ヶ浦ホンダ"
+      "name": "袖ヶ浦ホンダ",
+      "storeid": "tokushima-9411b3",
+      "shopid": "tokushima-9411b3-paypay"
     },
     {
-      "name": "フラワーヒロ"
+      "name": "フラワーヒロ",
+      "storeid": "tokushima-d95c13",
+      "shopid": "tokushima-d95c13-paypay"
     },
     {
-      "name": "(株)メディアサイトウ"
+      "name": "(株)メディアサイトウ",
+      "storeid": "tokushima-643c6e",
+      "shopid": "tokushima-643c6e-paypay"
     },
     {
-      "name": "Buondi"
+      "name": "Buondi",
+      "storeid": "tokushima-522e60",
+      "shopid": "tokushima-522e60-paypay"
     },
     {
-      "name": "Noix Bruno."
+      "name": "Noix Bruno.",
+      "storeid": "tokushima-414b5a",
+      "shopid": "tokushima-414b5a-paypay"
     },
     {
-      "name": "はんこ家はん造"
+      "name": "はんこ家はん造",
+      "storeid": "tokushima-015dfc",
+      "shopid": "tokushima-015dfc-paypay"
     },
     {
-      "name": "ひらおかサステラス"
+      "name": "ひらおかサステラス",
+      "storeid": "tokushima-1859c8",
+      "shopid": "tokushima-1859c8-paypay"
     },
     {
-      "name": "峯下モータース"
+      "name": "峯下モータース",
+      "storeid": "tokushima-c0e8aa",
+      "shopid": "tokushima-c0e8aa-paypay"
     },
     {
-      "name": "バード袖ヶ浦"
+      "name": "バード袖ヶ浦",
+      "storeid": "tokushima-74b4cc",
+      "shopid": "tokushima-74b4cc-paypay"
     },
     {
-      "name": "グリムのへや"
+      "name": "グリムのへや",
+      "storeid": "tokushima-45f96a",
+      "shopid": "tokushima-45f96a-paypay"
     },
     {
-      "name": "irodori"
+      "name": "irodori",
+      "storeid": "tokushima-202d26",
+      "shopid": "tokushima-202d26-paypay"
     },
     {
-      "name": "アップルポップ千葉3号店"
+      "name": "アップルポップ千葉3号店",
+      "storeid": "tokushima-22948c",
+      "shopid": "tokushima-22948c-paypay"
     },
     {
-      "name": "ユナイテッドインターナショナル"
+      "name": "ユナイテッドインターナショナル",
+      "storeid": "tokushima-cd5d35",
+      "shopid": "tokushima-cd5d35-paypay"
     },
     {
-      "name": "GROW-UP"
+      "name": "GROW-UP",
+      "storeid": "tokushima-0e0ab7",
+      "shopid": "tokushima-0e0ab7-paypay"
     },
     {
-      "name": "ガウラスポーツイベント"
+      "name": "ガウラスポーツイベント",
+      "storeid": "tokushima-c95070",
+      "shopid": "tokushima-c95070-paypay"
     },
     {
-      "name": "IGNITION"
+      "name": "IGNITION",
+      "storeid": "tokushima-e719c3",
+      "shopid": "tokushima-e719c3-paypay"
     },
     {
-      "name": "有限会社一真企画居酒屋食堂なじみ"
+      "name": "有限会社一真企画居酒屋食堂なじみ",
+      "storeid": "tokushima-63ceb0",
+      "shopid": "tokushima-63ceb0-paypay"
     },
     {
-      "name": "魚料理専門店　わかせい"
+      "name": "魚料理専門店　わかせい",
+      "storeid": "tokushima-7e24f7",
+      "shopid": "tokushima-7e24f7-paypay"
     },
     {
-      "name": "焼肉DINING大和"
+      "name": "焼肉DINING大和",
+      "storeid": "tokushima-8b0c28",
+      "shopid": "tokushima-8b0c28-paypay"
     },
     {
-      "name": "すし・創作料理一幸"
+      "name": "すし・創作料理一幸",
+      "storeid": "tokushima-1d6a1f",
+      "shopid": "tokushima-1d6a1f-paypay"
     },
     {
-      "name": "和風レストラン亀悦"
+      "name": "和風レストラン亀悦",
+      "storeid": "tokushima-dd63bd",
+      "shopid": "tokushima-dd63bd-paypay"
     },
     {
-      "name": "モンテローザ魚民"
+      "name": "モンテローザ魚民",
+      "storeid": "tokushima-048c5d",
+      "shopid": "tokushima-048c5d-paypay"
     },
     {
-      "name": "ROSEHIPCAFE"
+      "name": "ROSEHIPCAFE",
+      "storeid": "tokushima-a25a74",
+      "shopid": "tokushima-a25a74-paypay"
     },
     {
-      "name": "中華料理　正華楼"
+      "name": "中華料理　正華楼",
+      "storeid": "tokushima-e0a982",
+      "shopid": "tokushima-e0a982-paypay"
     },
     {
-      "name": "レストランキャセロール"
+      "name": "レストランキャセロール",
+      "storeid": "tokushima-8921ef",
+      "shopid": "tokushima-8921ef-paypay"
     },
     {
-      "name": "焼肉亭赤とんぼ"
+      "name": "焼肉亭赤とんぼ",
+      "storeid": "tokushima-1239f7",
+      "shopid": "tokushima-1239f7-paypay"
     },
     {
-      "name": "養老乃瀧"
+      "name": "養老乃瀧",
+      "storeid": "tokushima-9dc448",
+      "shopid": "tokushima-9dc448-paypay"
     },
     {
-      "name": "居酒屋れいちゃん"
+      "name": "居酒屋れいちゃん",
+      "storeid": "tokushima-d879b2",
+      "shopid": "tokushima-d879b2-paypay"
     },
     {
-      "name": "川善"
+      "name": "川善",
+      "storeid": "tokushima-d550c0",
+      "shopid": "tokushima-d550c0-paypay"
     },
     {
-      "name": "妙繕閣"
+      "name": "妙繕閣",
+      "storeid": "tokushima-af6e7f",
+      "shopid": "tokushima-af6e7f-paypay"
     },
     {
-      "name": "焼肉かげろう"
+      "name": "焼肉かげろう",
+      "storeid": "tokushima-775094",
+      "shopid": "tokushima-775094-paypay"
     },
     {
-      "name": "麺処霧笛"
+      "name": "麺処霧笛",
+      "storeid": "tokushima-7a1d6e",
+      "shopid": "tokushima-7a1d6e-paypay"
     },
     {
-      "name": "たけや食堂"
+      "name": "たけや食堂",
+      "storeid": "tokushima-690325",
+      "shopid": "tokushima-690325-paypay"
     },
     {
-      "name": "大原軒"
+      "name": "大原軒",
+      "storeid": "tokushima-d3c6c0",
+      "shopid": "tokushima-d3c6c0-paypay"
     },
     {
-      "name": "Tonic Diner"
+      "name": "Tonic Diner",
+      "storeid": "tokushima-0f76b3",
+      "shopid": "tokushima-0f76b3-paypay"
     },
     {
-      "name": "アメリカンステーキ16イチロー"
+      "name": "アメリカンステーキ16イチロー",
+      "storeid": "tokushima-2c3a30",
+      "shopid": "tokushima-2c3a30-paypay"
     },
     {
-      "name": "袖ヶ浦ふれあいどうぶつ緑"
+      "name": "袖ヶ浦ふれあいどうぶつ緑",
+      "storeid": "tokushima-edb9de",
+      "shopid": "tokushima-edb9de-paypay"
     },
     {
-      "name": "石井洋品店"
+      "name": "石井洋品店",
+      "storeid": "tokushima-faf380",
+      "shopid": "tokushima-faf380-paypay"
     },
     {
-      "name": "上田屋さつき台"
+      "name": "上田屋さつき台",
+      "storeid": "tokushima-9d14cc",
+      "shopid": "tokushima-9d14cc-paypay"
     },
     {
-      "name": "MIYANOTE handmade"
+      "name": "MIYANOTE handmade",
+      "storeid": "tokushima-afbe16",
+      "shopid": "tokushima-afbe16-paypay"
     },
     {
-      "name": "NOHM"
+      "name": "NOHM",
+      "storeid": "tokushima-1e52ee",
+      "shopid": "tokushima-1e52ee-paypay"
     },
     {
-      "name": "tic.works"
+      "name": "tic.works",
+      "storeid": "tokushima-ab4d3b",
+      "shopid": "tokushima-ab4d3b-paypay"
     },
     {
-      "name": "東京ドイツ村事業部"
+      "name": "東京ドイツ村事業部",
+      "storeid": "tokushima-2a7f0a",
+      "shopid": "tokushima-2a7f0a-paypay"
     },
     {
-      "name": "アコーディア・ゴルフ東京湾カントリークラブ"
+      "name": "アコーディア・ゴルフ東京湾カントリークラブ",
+      "storeid": "tokushima-21e28b",
+      "shopid": "tokushima-21e28b-paypay"
     },
     {
-      "name": "ギフトふじい・クマの陶芸教室"
+      "name": "ギフトふじい・クマの陶芸教室",
+      "storeid": "tokushima-a739bc",
+      "shopid": "tokushima-a739bc-paypay"
     },
     {
-      "name": "TrainingteamGROW"
+      "name": "TrainingteamGROW",
+      "storeid": "tokushima-40b6f0",
+      "shopid": "tokushima-40b6f0-paypay"
     },
     {
-      "name": "グリーンアローBornCafe"
+      "name": "グリーンアローBornCafe",
+      "storeid": "tokushima-fc4ad4",
+      "shopid": "tokushima-fc4ad4-paypay"
     },
     {
-      "name": "サンダーコマンドスサバゲーフィールド"
+      "name": "サンダーコマンドスサバゲーフィールド",
+      "storeid": "tokushima-bb5c46",
+      "shopid": "tokushima-bb5c46-paypay"
     },
     {
-      "name": "グリーンアロートランポリンパーク"
+      "name": "グリーンアロートランポリンパーク",
+      "storeid": "tokushima-b17785",
+      "shopid": "tokushima-b17785-paypay"
     },
     {
-      "name": "PERSONALGYMCRESCO"
+      "name": "PERSONALGYMCRESCO",
+      "storeid": "tokushima-ccad5e",
+      "shopid": "tokushima-ccad5e-paypay"
     },
     {
-      "name": "Nail&Eyelash Salon Lea"
+      "name": "Nail&Eyelash Salon Lea",
+      "storeid": "tokushima-6a71f3",
+      "shopid": "tokushima-6a71f3-paypay"
     },
     {
-      "name": "もみほぐしサロンゆりまち癒しの空間"
+      "name": "もみほぐしサロンゆりまち癒しの空間",
+      "storeid": "tokushima-637400",
+      "shopid": "tokushima-637400-paypay"
     },
     {
-      "name": "Toiro"
+      "name": "Toiro",
+      "storeid": "tokushima-d3747a",
+      "shopid": "tokushima-d3747a-paypay"
     },
     {
-      "name": "Ballom d' Or"
+      "name": "Ballom d' Or",
+      "storeid": "tokushima-adfa1e",
+      "shopid": "tokushima-adfa1e-paypay"
     },
     {
-      "name": "nekoRu"
+      "name": "nekoRu",
+      "storeid": "tokushima-461f63",
+      "shopid": "tokushima-461f63-paypay"
     },
     {
-      "name": "KITTE"
+      "name": "KITTE",
+      "storeid": "tokushima-81c88b",
+      "shopid": "tokushima-81c88b-paypay"
     },
     {
-      "name": "Jelly"
+      "name": "Jelly",
+      "storeid": "tokushima-eff58c",
+      "shopid": "tokushima-eff58c-paypay"
     },
     {
-      "name": "Nail&Bodycare salon milimili"
+      "name": "Nail&Bodycare salon milimili",
+      "storeid": "tokushima-b40ef1",
+      "shopid": "tokushima-b40ef1-paypay"
     },
     {
-      "name": "Art the line"
+      "name": "Art the line",
+      "storeid": "tokushima-a78d48",
+      "shopid": "tokushima-a78d48-paypay"
     },
     {
-      "name": "Hair Salon aLotta"
+      "name": "Hair Salon aLotta",
+      "storeid": "tokushima-e09b53",
+      "shopid": "tokushima-e09b53-paypay"
     },
     {
-      "name": "kanoah kaila"
+      "name": "kanoah kaila",
+      "storeid": "tokushima-a0b813",
+      "shopid": "tokushima-a0b813-paypay"
     },
     {
-      "name": "hairdesign eclat"
+      "name": "hairdesign eclat",
+      "storeid": "tokushima-97b8bc",
+      "shopid": "tokushima-97b8bc-paypay"
     },
     {
-      "name": "ALMOND"
+      "name": "ALMOND",
+      "storeid": "tokushima-291e11",
+      "shopid": "tokushima-291e11-paypay"
     },
     {
-      "name": "エステサロン salon de vita"
+      "name": "エステサロン salon de vita",
+      "storeid": "tokushima-1415d9",
+      "shopid": "tokushima-1415d9-paypay"
     },
     {
-      "name": "Cherish"
+      "name": "Cherish",
+      "storeid": "tokushima-20d62d",
+      "shopid": "tokushima-20d62d-paypay"
     },
     {
-      "name": "結"
+      "name": "結",
+      "storeid": "tokushima-37e6d8",
+      "shopid": "tokushima-37e6d8-paypay"
     },
     {
-      "name": "フットケア専門店りく"
+      "name": "フットケア専門店りく",
+      "storeid": "tokushima-15da4f",
+      "shopid": "tokushima-15da4f-paypay"
     },
     {
-      "name": "eau-de-vie"
+      "name": "eau-de-vie",
+      "storeid": "tokushima-8d82d4",
+      "shopid": "tokushima-8d82d4-paypay"
     },
     {
-      "name": "ファースト"
+      "name": "ファースト",
+      "storeid": "tokushima-60b8d9",
+      "shopid": "tokushima-60b8d9-paypay"
     },
     {
-      "name": "髪kura"
+      "name": "髪kura",
+      "storeid": "tokushima-461619",
+      "shopid": "tokushima-461619-paypay"
     },
     {
-      "name": "soothing"
+      "name": "soothing",
+      "storeid": "tokushima-438fe4",
+      "shopid": "tokushima-438fe4-paypay"
     },
     {
-      "name": "Aquange"
+      "name": "Aquange",
+      "storeid": "tokushima-285681",
+      "shopid": "tokushima-285681-paypay"
     },
     {
-      "name": "ヘアーサロンフクハラ"
+      "name": "ヘアーサロンフクハラ",
+      "storeid": "tokushima-6c9e3e",
+      "shopid": "tokushima-6c9e3e-paypay"
     },
     {
-      "name": "nailsalonzips"
+      "name": "nailsalonzips",
+      "storeid": "tokushima-992f91",
+      "shopid": "tokushima-992f91-paypay"
     },
     {
-      "name": "Lumia"
+      "name": "Lumia",
+      "storeid": "tokushima-59a485",
+      "shopid": "tokushima-59a485-paypay"
     },
     {
-      "name": "Balance"
+      "name": "Balance",
+      "storeid": "tokushima-99a808",
+      "shopid": "tokushima-99a808-paypay"
     },
     {
-      "name": "CLB salon"
+      "name": "CLB salon",
+      "storeid": "tokushima-897d8c",
+      "shopid": "tokushima-897d8c-paypay"
     },
     {
-      "name": "アトリエクープ"
+      "name": "アトリエクープ",
+      "storeid": "tokushima-589515",
+      "shopid": "tokushima-589515-paypay"
     },
     {
-      "name": "green"
+      "name": "green",
+      "storeid": "tokushima-9f2741",
+      "shopid": "tokushima-9f2741-paypay"
     },
     {
-      "name": "HAIR SALON Art the garden"
+      "name": "HAIR SALON Art the garden",
+      "storeid": "tokushima-6974ae",
+      "shopid": "tokushima-6974ae-paypay"
     },
     {
-      "name": "minimini nail"
+      "name": "minimini nail",
+      "storeid": "tokushima-1ec37d",
+      "shopid": "tokushima-1ec37d-paypay"
     },
     {
-      "name": "快眠ドライヘッドスパ　天使のうたた寝～ゆりーぷ"
+      "name": "快眠ドライヘッドスパ　天使のうたた寝～ゆりーぷ",
+      "storeid": "tokushima-95e998",
+      "shopid": "tokushima-95e998-paypay"
     },
     {
-      "name": "nail salon Octobre"
+      "name": "nail salon Octobre",
+      "storeid": "tokushima-231668",
+      "shopid": "tokushima-231668-paypay"
     },
     {
-      "name": "BELIAS"
+      "name": "BELIAS",
+      "storeid": "tokushima-42afa9",
+      "shopid": "tokushima-42afa9-paypay"
     },
     {
-      "name": "Ballond'Or"
+      "name": "Ballond'Or",
+      "storeid": "tokushima-a34241",
+      "shopid": "tokushima-a34241-paypay"
     },
     {
-      "name": "nailsalonOctobre"
+      "name": "nailsalonOctobre",
+      "storeid": "tokushima-dced92",
+      "shopid": "tokushima-dced92-paypay"
     },
     {
-      "name": "Lovely Smile"
+      "name": "Lovely Smile",
+      "storeid": "tokushima-8fdae5",
+      "shopid": "tokushima-8fdae5-paypay"
     },
     {
-      "name": "美肌専門サロンEteluce"
+      "name": "美肌専門サロンEteluce",
+      "storeid": "tokushima-6b7759",
+      "shopid": "tokushima-6b7759-paypay"
     },
     {
-      "name": "nail salon mieux"
+      "name": "nail salon mieux",
+      "storeid": "tokushima-e6a5da",
+      "shopid": "tokushima-e6a5da-paypay"
     },
     {
-      "name": "AtelierBiz"
+      "name": "AtelierBiz",
+      "storeid": "tokushima-84d21f",
+      "shopid": "tokushima-84d21f-paypay"
     },
     {
-      "name": "BEEST beauty salon"
+      "name": "BEEST beauty salon",
+      "storeid": "tokushima-f4367e",
+      "shopid": "tokushima-f4367e-paypay"
     },
     {
-      "name": "TELAHAIR"
+      "name": "TELAHAIR",
+      "storeid": "tokushima-c77960",
+      "shopid": "tokushima-c77960-paypay"
     },
     {
-      "name": "ストレッチ鍼灸イトー整骨院"
+      "name": "ストレッチ鍼灸イトー整骨院",
+      "storeid": "tokushima-88955e",
+      "shopid": "tokushima-88955e-paypay"
     },
     {
-      "name": "イトー整骨院"
+      "name": "イトー整骨院",
+      "storeid": "tokushima-beaeb7",
+      "shopid": "tokushima-beaeb7-paypay"
     },
     {
-      "name": "よつば整体院"
+      "name": "よつば整体院",
+      "storeid": "tokushima-28f878",
+      "shopid": "tokushima-28f878-paypay"
     },
     {
-      "name": "ココ・KARA・DA整骨院"
+      "name": "ココ・KARA・DA整骨院",
+      "storeid": "tokushima-ec2717",
+      "shopid": "tokushima-ec2717-paypay"
     },
     {
-      "name": "リラクゼーション整体Re.Body"
+      "name": "リラクゼーション整体Re.Body",
+      "storeid": "tokushima-0a7c0e",
+      "shopid": "tokushima-0a7c0e-paypay"
     },
     {
-      "name": "高橋総合健康センター"
+      "name": "高橋総合健康センター",
+      "storeid": "tokushima-bc1366",
+      "shopid": "tokushima-bc1366-paypay"
     },
     {
-      "name": "木もれ陽鍼灸院・整骨院"
+      "name": "木もれ陽鍼灸院・整骨院",
+      "storeid": "tokushima-efe266",
+      "shopid": "tokushima-efe266-paypay"
     },
     {
-      "name": "ASAHI整骨院"
+      "name": "ASAHI整骨院",
+      "storeid": "tokushima-0168ed",
+      "shopid": "tokushima-0168ed-paypay"
     },
     {
-      "name": "private sakon_凪_"
+      "name": "private sakon_凪_",
+      "storeid": "tokushima-ed0c56",
+      "shopid": "tokushima-ed0c56-paypay"
     },
     {
-      "name": "サロンパルク～pUrk～"
+      "name": "サロンパルク～pUrk～",
+      "storeid": "tokushima-3271cb",
+      "shopid": "tokushima-3271cb-paypay"
     },
     {
-      "name": "あづ整体院"
+      "name": "YOSAPARKborelo",
+      "storeid": "tokushima-c45248",
+      "shopid": "tokushima-c45248-paypay"
     },
     {
-      "name": "YOSAPARKborelo"
+      "name": "今井接骨院",
+      "storeid": "tokushima-1eb386",
+      "shopid": "tokushima-1eb386-paypay"
     },
     {
-      "name": "今井接骨院"
+      "name": "神納ひかり整骨院",
+      "storeid": "tokushima-6a9ab1",
+      "shopid": "tokushima-6a9ab1-paypay"
     },
     {
-      "name": "神納ひかり整骨院"
+      "name": "袖ヶ浦中央整体院",
+      "storeid": "tokushima-c8bd48",
+      "shopid": "tokushima-c8bd48-paypay"
     },
     {
-      "name": "袖ヶ浦中央整体院"
+      "name": "クリーニング専科",
+      "storeid": "tokushima-8e3dfd",
+      "shopid": "tokushima-8e3dfd-paypay"
     },
     {
-      "name": "クリーニング専科"
+      "name": "クリーニングスワン",
+      "storeid": "tokushima-2afd71",
+      "shopid": "tokushima-2afd71-paypay"
     },
     {
-      "name": "クリーニングスワン"
+      "name": "おそうじ本舗",
+      "storeid": "tokushima-c94baa",
+      "shopid": "tokushima-c94baa-paypay"
     },
     {
-      "name": "小原クリーニング"
+      "name": "ハウスクリーンたけい",
+      "storeid": "tokushima-44b3ff",
+      "shopid": "tokushima-44b3ff-paypay"
     },
     {
-      "name": "家事代行アルト"
+      "name": "湯舞音",
+      "storeid": "tokushima-b1ccf2",
+      "shopid": "tokushima-b1ccf2-paypay"
     },
     {
-      "name": "おそうじ本舗"
+      "name": "東横INN",
+      "storeid": "tokushima-ca2a90",
+      "shopid": "tokushima-ca2a90-paypay"
     },
     {
-      "name": "ハウスクリーンたけい"
+      "name": "ゆたか旅館",
+      "storeid": "tokushima-d97241",
+      "shopid": "tokushima-d97241-paypay"
     },
     {
-      "name": "湯舞音"
-    },
-    {
-      "name": "東横INN"
-    },
-    {
-      "name": "ゆたか旅館"
-    },
-    {
-      "name": "Tabist浜戸屋旅館"
+      "name": "Tabist浜戸屋旅館",
+      "storeid": "tokushima-181baf",
+      "shopid": "tokushima-181baf-paypay"
     }
   ],
   "スーパーマーケット": [
     {
-      "name": "veryfoods尾張屋"
+      "name": "veryfoods尾張屋",
+      "storeid": "tokushima-89e4db",
+      "shopid": "tokushima-89e4db-paypay"
     },
     {
-      "name": "主婦の店"
+      "name": "主婦の店",
+      "storeid": "tokushima-5c8371",
+      "shopid": "tokushima-5c8371-paypay"
     },
     {
-      "name": "富分スーパー伊藤"
+      "name": "富分スーパー伊藤",
+      "storeid": "tokushima-f08fc3",
+      "shopid": "tokushima-f08fc3-paypay"
     },
     {
-      "name": "小僧寿し"
+      "name": "小僧寿し",
+      "storeid": "tokushima-36ac9b",
+      "shopid": "tokushima-36ac9b-paypay"
     }
   ],
   "ドラッグストア・薬局": [
     {
-      "name": "株式会社ルージュアクワレル"
+      "name": "株式会社ルージュアクワレル",
+      "storeid": "tokushima-68081e",
+      "shopid": "tokushima-68081e-paypay"
     }
   ],
   "家電": [
     {
-      "name": "熾"
+      "name": "熾",
+      "storeid": "tokushima-8d10fe",
+      "shopid": "tokushima-8d10fe-paypay"
     },
     {
-      "name": "須藤電化"
+      "name": "須藤電化",
+      "storeid": "tokushima-6f603c",
+      "shopid": "tokushima-6f603c-paypay"
     },
     {
-      "name": "トップシステム"
+      "name": "トップシステム",
+      "storeid": "tokushima-c5226d",
+      "shopid": "tokushima-c5226d-paypay"
     },
     {
-      "name": "かさはら睡眠館"
+      "name": "かさはら睡眠館",
+      "storeid": "tokushima-58eca9",
+      "shopid": "tokushima-58eca9-paypay"
     },
     {
-      "name": "石野電化"
+      "name": "石野電化",
+      "storeid": "tokushima-30a106",
+      "shopid": "tokushima-30a106-paypay"
     }
   ]
 }

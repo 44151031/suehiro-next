@@ -2,123 +2,148 @@
   "飲食店": [
     {
       "name": "あぶりクリエイションLaPin",
-      "shopid": "abu-paypay-fc8c0c"
+      "shopid": "abu-paypay-fc8c0c",
+      "storeid": "abu-8e727a"
     },
     {
       "name": "パン工房あんな堂",
-      "shopid": "abu-paypay-c0d890"
+      "shopid": "abu-paypay-c0d890",
+      "storeid": "abu-587bf4"
     },
     {
       "name": "阿武産直　千代丸食堂",
-      "shopid": "abu-paypay-0a49a1"
+      "shopid": "abu-paypay-0a49a1",
+      "storeid": "abu-fb2bf5"
     },
     {
       "name": "SUNbashi CAFÉ",
-      "shopid": "abu-paypay-bd274c"
+      "shopid": "abu-paypay-bd274c",
+      "storeid": "abu-c5e4c5"
     },
     {
       "name": "竹泉",
-      "shopid": "abu-paypay-b9fbf2"
+      "shopid": "abu-paypay-b9fbf2",
+      "storeid": "abu-04c51b"
     },
     {
       "name": "カドノヤシロ",
-      "shopid": "abu-paypay-165a92"
+      "shopid": "abu-paypay-165a92",
+      "storeid": "abu-da128a"
     },
     {
       "name": "八祥園茶舗",
-      "shopid": "abu-paypay-0002e2"
+      "shopid": "abu-paypay-0002e2",
+      "storeid": "abu-561ede"
     },
     {
       "name": "ダイニングカフェ846",
-      "shopid": "abu-paypay-8006c0"
+      "shopid": "abu-paypay-8006c0",
+      "storeid": "abu-d9e460"
     },
     {
       "name": "KONAMONYAGENSANこなもんやげんさん",
-      "shopid": "abu-paypay-512e9d"
+      "shopid": "abu-paypay-512e9d",
+      "storeid": "abu-61066f"
     }
   ],
   "スーパーマーケット": [
     {
       "name": "サンマート奈古店",
-      "shopid": "abu-paypay-15e1b2"
+      "shopid": "abu-paypay-15e1b2",
+      "storeid": "abu-b132ff"
     }
   ],
   "ショッピング": [
     {
       "name": "ツルハホールディングス",
-      "shopid": "abu-paypay-ac5e5d"
+      "shopid": "abu-paypay-ac5e5d",
+      "storeid": "abu-81afa0"
     },
     {
       "name": "Po.YASHIRO道の駅阿武町店",
-      "shopid": "abu-paypay-43a086"
+      "shopid": "abu-paypay-43a086",
+      "storeid": "abu-bd99bc"
     },
     {
       "name": "道の駅阿武町",
-      "shopid": "abu-paypay-eef82b"
+      "shopid": "abu-paypay-eef82b",
+      "storeid": "abu-0fb1ce"
     },
     {
       "name": "Hick surf  shop Factory",
-      "shopid": "abu-paypay-df0ed5"
+      "shopid": "abu-paypay-df0ed5",
+      "storeid": "abu-b52c79"
     },
     {
       "name": "ABU-ROCK",
-      "shopid": "abu-paypay-759811"
+      "shopid": "abu-paypay-759811",
+      "storeid": "abu-577ccf"
     }
   ],
   "その他": [
     {
       "name": "ABUキャンプフィールド",
-      "shopid": "abu-paypay-642086"
+      "shopid": "abu-paypay-642086",
+      "storeid": "abu-47e18a"
     },
     {
       "name": "遠岳キャンプ場",
-      "shopid": "abu-paypay-e4022d"
+      "shopid": "abu-paypay-e4022d",
+      "storeid": "abu-cbe8d0"
     },
     {
       "name": "あぶナビ",
-      "shopid": "abu-paypay-f42669"
+      "shopid": "abu-paypay-f42669",
+      "storeid": "abu-c05c5a"
     }
   ],
   "酒屋": [
     {
       "name": "リカーズみよし",
-      "shopid": "abu-paypay-a46634"
+      "shopid": "abu-paypay-a46634",
+      "storeid": "abu-027e98"
     }
   ],
   "ファッション": [
     {
       "name": "暮らしの荒物屋めぐる",
-      "shopid": "abu-paypay-56ea08"
+      "shopid": "abu-paypay-56ea08",
+      "storeid": "abu-e82fcc"
     }
   ],
   "クリーニング": [
     {
       "name": "鹿島クリーニング店",
-      "shopid": "abu-paypay-c17fba"
+      "shopid": "abu-paypay-c17fba",
+      "storeid": "abu-9133a1"
     }
   ],
   "美容室": [
     {
       "name": "サン",
-      "shopid": "abu-paypay-16d68b"
+      "shopid": "abu-paypay-16d68b",
+      "storeid": "abu-80c7a6"
     }
   ],
   "ホテル・旅館": [
     {
       "name": "GUEST HOUSE IKIATARI",
-      "shopid": "abu-paypay-e847e9"
+      "shopid": "abu-paypay-e847e9",
+      "storeid": "abu-92f396"
     }
   ],
   "家電量販店": [
     {
       "name": "エディオン阿武店",
-      "shopid": "abu-paypay-fac876"
+      "shopid": "abu-paypay-fac876",
+      "storeid": "abu-766259"
     }
   ],
   "家電": [
     {
       "name": "市原電気工業",
-      "shopid": "abu-paypay-13cab7"
+      "shopid": "abu-paypay-13cab7",
+      "storeid": "abu-29ae2e"
     }
   ]
 }

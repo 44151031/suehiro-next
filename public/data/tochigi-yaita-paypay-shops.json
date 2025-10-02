@@ -1,796 +1,1304 @@
 {
   "衣類・呉服": [
     {
-      "name": "コナカ　矢板店"
+      "name": "コナカ　矢板店",
+      "storeid": "yaita-10c87a",
+      "shopid": "yaita-10c87a-paypay"
     },
     {
-      "name": "しまむら　矢板店"
+      "name": "しまむら　矢板店",
+      "storeid": "yaita-cb5529",
+      "shopid": "yaita-cb5529-paypay"
     },
     {
-      "name": "ブティックヒロ"
+      "name": "ブティックヒロ",
+      "storeid": "yaita-3c5ae8",
+      "shopid": "yaita-3c5ae8-paypay"
     },
     {
-      "name": "ラスコリナス　矢板店"
+      "name": "ラスコリナス　矢板店",
+      "storeid": "yaita-9e855f",
+      "shopid": "yaita-9e855f-paypay"
     }
   ],
   "飲食店": [
     {
-      "name": "58カフェ&オーガニックサルーン"
+      "name": "58カフェ&オーガニックサルーン",
+      "storeid": "yaita-cc256d",
+      "shopid": "yaita-cc256d-paypay"
     },
     {
-      "name": "58ロハスキッチン"
+      "name": "58ロハスキッチン",
+      "storeid": "yaita-a1d728",
+      "shopid": "yaita-a1d728-paypay"
     },
     {
-      "name": "58ロハスクラブ"
+      "name": "58ロハスクラブ",
+      "storeid": "yaita-8498a3",
+      "shopid": "yaita-8498a3-paypay"
     },
     {
-      "name": "Blue　Tokai　Coffee　Roasters"
+      "name": "Blue　Tokai　Coffee　Roasters",
+      "storeid": "yaita-b004b1",
+      "shopid": "yaita-b004b1-paypay"
     },
     {
-      "name": "CANOEIST　COFFEE"
+      "name": "CANOEIST　COFFEE",
+      "storeid": "yaita-f22e3e",
+      "shopid": "yaita-f22e3e-paypay"
     },
     {
-      "name": "C'est　la　vie"
+      "name": "C'est　la　vie",
+      "storeid": "yaita-161f49",
+      "shopid": "yaita-161f49-paypay"
     },
     {
-      "name": "CoCo壱番屋"
+      "name": "CoCo壱番屋",
+      "storeid": "yaita-24886f",
+      "shopid": "yaita-24886f-paypay"
     },
     {
-      "name": "DiningHARE"
+      "name": "DiningHARE",
+      "storeid": "yaita-2a7f24",
+      "shopid": "yaita-2a7f24-paypay"
     },
     {
-      "name": "Hygge"
+      "name": "Hygge",
+      "storeid": "yaita-d3f134",
+      "shopid": "yaita-d3f134-paypay"
     },
     {
-      "name": "Kumagoro Coffee Beans"
+      "name": "Kumagoro Coffee Beans",
+      "storeid": "yaita-aaa6f4",
+      "shopid": "yaita-aaa6f4-paypay"
     },
     {
-      "name": "SAKURA黒猫堂"
+      "name": "SAKURA黒猫堂",
+      "storeid": "yaita-bd3408",
+      "shopid": "yaita-bd3408-paypay"
     },
     {
-      "name": "Suisei　Square"
+      "name": "Suisei　Square",
+      "storeid": "yaita-cea462",
+      "shopid": "yaita-cea462-paypay"
     },
     {
-      "name": "TULLY’S COFFEE　矢板"
+      "name": "TULLY’S COFFEE　矢板",
+      "storeid": "yaita-e75a57",
+      "shopid": "yaita-e75a57-paypay"
     },
     {
-      "name": "Y’s　brekkie"
+      "name": "Y’s　brekkie",
+      "storeid": "yaita-edbec1",
+      "shopid": "yaita-edbec1-paypay"
     },
     {
-      "name": "YAITAROASTERY"
+      "name": "YAITAROASTERY",
+      "storeid": "yaita-8491ef",
+      "shopid": "yaita-8491ef-paypay"
     },
     {
-      "name": "あおい亭　四季"
+      "name": "あおい亭　四季",
+      "storeid": "yaita-d61288",
+      "shopid": "yaita-d61288-paypay"
     },
     {
-      "name": "あっこのキッチン青のおと＆カフェ"
+      "name": "あっこのキッチン青のおと＆カフェ",
+      "storeid": "yaita-db01a8",
+      "shopid": "yaita-db01a8-paypay"
     },
     {
-      "name": "アルナパレス　矢板店"
+      "name": "アルナパレス　矢板店",
+      "storeid": "yaita-04b733",
+      "shopid": "yaita-04b733-paypay"
     },
     {
-      "name": "アローボード"
+      "name": "アローボード",
+      "storeid": "yaita-e5c23a",
+      "shopid": "yaita-e5c23a-paypay"
     },
     {
-      "name": "あん姫"
+      "name": "あん姫",
+      "storeid": "yaita-327911",
+      "shopid": "yaita-327911-paypay"
     },
     {
-      "name": "キムチ家　舳心"
+      "name": "キムチ家　舳心",
+      "storeid": "yaita-e6d6af",
+      "shopid": "yaita-e6d6af-paypay"
     },
     {
-      "name": "くじら亭"
+      "name": "くじら亭",
+      "storeid": "yaita-8c3248",
+      "shopid": "yaita-8c3248-paypay"
     },
     {
-      "name": "ケンタッキーフライドチキン　ヨークベニマル矢板店"
+      "name": "ケンタッキーフライドチキン　ヨークベニマル矢板店",
+      "storeid": "yaita-fc2b3e",
+      "shopid": "yaita-fc2b3e-paypay"
     },
     {
-      "name": "サニーズ　矢板店"
+      "name": "サニーズ　矢板店",
+      "storeid": "yaita-91b11d",
+      "shopid": "yaita-91b11d-paypay"
     },
     {
-      "name": "シカノクラ珈琲"
+      "name": "シカノクラ珈琲",
+      "storeid": "yaita-85fa1f",
+      "shopid": "yaita-85fa1f-paypay"
     },
     {
-      "name": "ジュリエ"
+      "name": "ジュリエ",
+      "storeid": "yaita-137588",
+      "shopid": "yaita-137588-paypay"
     },
     {
-      "name": "すき家　4号矢板店"
+      "name": "すき家　4号矢板店",
+      "storeid": "yaita-96d065",
+      "shopid": "yaita-96d065-paypay"
     },
     {
-      "name": "そば処天盛"
+      "name": "そば処天盛",
+      "storeid": "yaita-8a109f",
+      "shopid": "yaita-8a109f-paypay"
     },
     {
-      "name": "ダッタンそば　寿庵"
+      "name": "ダッタンそば　寿庵",
+      "storeid": "yaita-8d738c",
+      "shopid": "yaita-8d738c-paypay"
     },
     {
-      "name": "ふじや食堂"
+      "name": "ふじや食堂",
+      "storeid": "yaita-160828",
+      "shopid": "yaita-160828-paypay"
     },
     {
-      "name": "ブルーベリーファームウエキ"
+      "name": "ブルーベリーファームウエキ",
+      "storeid": "yaita-9445cb",
+      "shopid": "yaita-9445cb-paypay"
     },
     {
-      "name": "プロフィール"
+      "name": "プロフィール",
+      "storeid": "yaita-7d9100",
+      "shopid": "yaita-7d9100-paypay"
     },
     {
-      "name": "みつわ"
+      "name": "みつわ",
+      "storeid": "yaita-786cf4",
+      "shopid": "yaita-786cf4-paypay"
     },
     {
-      "name": "みんと倶楽部"
+      "name": "みんと倶楽部",
+      "storeid": "yaita-c753b2",
+      "shopid": "yaita-c753b2-paypay"
     },
     {
-      "name": "モスバーガー　矢板店"
+      "name": "モスバーガー　矢板店",
+      "storeid": "yaita-afe174",
+      "shopid": "yaita-afe174-paypay"
     },
     {
-      "name": "レストランピアノ"
+      "name": "レストランピアノ",
+      "storeid": "yaita-9992b5",
+      "shopid": "yaita-9992b5-paypay"
     },
     {
-      "name": "一代元　矢板店"
+      "name": "一代元　矢板店",
+      "storeid": "yaita-2655e8",
+      "shopid": "yaita-2655e8-paypay"
     },
     {
-      "name": "沖龍"
+      "name": "沖龍",
+      "storeid": "yaita-440de2",
+      "shopid": "yaita-440de2-paypay"
     },
     {
-      "name": "栄鮨"
+      "name": "栄鮨",
+      "storeid": "yaita-c5e1c4",
+      "shopid": "yaita-c5e1c4-paypay"
     },
     {
-      "name": "酒場　はち"
+      "name": "酒場　はち",
+      "storeid": "yaita-19f63d",
+      "shopid": "yaita-19f63d-paypay"
     },
     {
-      "name": "作次郎"
+      "name": "作次郎",
+      "storeid": "yaita-f66759",
+      "shopid": "yaita-f66759-paypay"
     },
     {
-      "name": "炭火焼肉 舳心"
+      "name": "炭火焼肉 舳心",
+      "storeid": "yaita-ed8235",
+      "shopid": "yaita-ed8235-paypay"
     },
     {
-      "name": "創作ダイニング　ボンクレー"
+      "name": "創作ダイニング　ボンクレー",
+      "storeid": "yaita-8380ac",
+      "shopid": "yaita-8380ac-paypay"
     },
     {
-      "name": "台湾料理宴天下　矢板店"
+      "name": "台湾料理宴天下　矢板店",
+      "storeid": "yaita-f9e037",
+      "shopid": "yaita-f9e037-paypay"
     },
     {
-      "name": "竹屋"
+      "name": "竹屋",
+      "storeid": "yaita-bcc7e3",
+      "shopid": "yaita-bcc7e3-paypay"
     },
     {
-      "name": "中華飯店　華清"
+      "name": "中華飯店　華清",
+      "storeid": "yaita-f6fad0",
+      "shopid": "yaita-f6fad0-paypay"
     },
     {
-      "name": "誠鮨"
+      "name": "誠鮨",
+      "storeid": "yaita-06e9a5",
+      "shopid": "yaita-06e9a5-paypay"
     },
     {
-      "name": "矢板の酒場くろべい"
+      "name": "矢板の酒場くろべい",
+      "storeid": "yaita-fa95f1",
+      "shopid": "yaita-fa95f1-paypay"
     },
     {
-      "name": "吉野家　４号線矢板店"
+      "name": "吉野家　４号線矢板店",
+      "storeid": "yaita-1e368a",
+      "shopid": "yaita-1e368a-paypay"
     },
     {
-      "name": "和膳処　かまよし"
+      "name": "和膳処　かまよし",
+      "storeid": "yaita-51439e",
+      "shopid": "yaita-51439e-paypay"
     },
     {
-      "name": "童"
+      "name": "童",
+      "storeid": "yaita-a5f4da",
+      "shopid": "yaita-a5f4da-paypay"
     }
   ],
   "農園": [
     {
-      "name": "スズキりんご園"
+      "name": "スズキりんご園",
+      "storeid": "yaita-924bbc",
+      "shopid": "yaita-924bbc-paypay"
     },
     {
-      "name": "のうえん絆"
+      "name": "のうえん絆",
+      "storeid": "yaita-139fec",
+      "shopid": "yaita-139fec-paypay"
     },
     {
-      "name": "ふるさとりんご園"
+      "name": "ふるさとりんご園",
+      "storeid": "yaita-31c4d7",
+      "shopid": "yaita-31c4d7-paypay"
     },
     {
-      "name": "澳原いちご農園"
+      "name": "澳原いちご農園",
+      "storeid": "yaita-e50c50",
+      "shopid": "yaita-e50c50-paypay"
     },
     {
-      "name": "加藤農園"
+      "name": "加藤農園",
+      "storeid": "yaita-0c271d",
+      "shopid": "yaita-0c271d-paypay"
     },
     {
-      "name": "君嶋きのこ園"
+      "name": "君嶋きのこ園",
+      "storeid": "yaita-fe5d24",
+      "shopid": "yaita-fe5d24-paypay"
     },
     {
-      "name": "手塚郁夫りんご園"
+      "name": "手塚郁夫りんご園",
+      "storeid": "yaita-d831c1",
+      "shopid": "yaita-d831c1-paypay"
     },
     {
-      "name": "渡邊農園"
+      "name": "渡邊農園",
+      "storeid": "yaita-b66440",
+      "shopid": "yaita-b66440-paypay"
     },
     {
-      "name": "渡辺りんご園"
+      "name": "渡辺りんご園",
+      "storeid": "yaita-605634",
+      "shopid": "yaita-605634-paypay"
     }
   ],
   "家電販売店": [
     {
-      "name": "エドヤデンキ"
+      "name": "エドヤデンキ",
+      "storeid": "yaita-31a721",
+      "shopid": "yaita-31a721-paypay"
     },
     {
-      "name": "ケーズデンキ　矢板店"
+      "name": "ケーズデンキ　矢板店",
+      "storeid": "yaita-9098bf",
+      "shopid": "yaita-9098bf-paypay"
     },
     {
-      "name": "スズキ電化センター"
+      "name": "スズキ電化センター",
+      "storeid": "yaita-9e9293",
+      "shopid": "yaita-9e9293-paypay"
     },
     {
-      "name": "西脇ラジオ店"
+      "name": "西脇ラジオ店",
+      "storeid": "yaita-5e3794",
+      "shopid": "yaita-5e3794-paypay"
     },
     {
-      "name": "(有)アクツ電器"
+      "name": "(有)アクツ電器",
+      "storeid": "yaita-3580af",
+      "shopid": "yaita-3580af-paypay"
     }
   ],
   "建築・リフォーム": [
     {
-      "name": "大進電気工事(株)"
+      "name": "大進電気工事(株)",
+      "storeid": "yaita-19b4b7",
+      "shopid": "yaita-19b4b7-paypay"
     },
     {
-      "name": "大鷹工業"
+      "name": "大鷹工業",
+      "storeid": "yaita-f35aee",
+      "shopid": "yaita-f35aee-paypay"
     }
   ],
   "スポーツ用品・玩具": [
     {
-      "name": "高橋スポーツ"
+      "name": "高橋スポーツ",
+      "storeid": "yaita-ea9988",
+      "shopid": "yaita-ea9988-paypay"
     },
     {
-      "name": "二木ゴルフ　矢板店"
+      "name": "二木ゴルフ　矢板店",
+      "storeid": "yaita-ead2b5",
+      "shopid": "yaita-ead2b5-paypay"
     }
   ],
   "自動車・二輪車": [
     {
-      "name": "HondaCars那須　矢板店"
+      "name": "HondaCars那須　矢板店",
+      "storeid": "yaita-771b49",
+      "shopid": "yaita-771b49-paypay"
     },
     {
-      "name": "MakeUpShopATOMU"
+      "name": "MakeUpShopATOMU",
+      "storeid": "yaita-99aebc",
+      "shopid": "yaita-99aebc-paypay"
     },
     {
-      "name": "ウッドベル"
+      "name": "ウッドベル",
+      "storeid": "yaita-52c5d9",
+      "shopid": "yaita-52c5d9-paypay"
     },
     {
-      "name": "オートアールズ　矢板バイパス店"
+      "name": "オートアールズ　矢板バイパス店",
+      "storeid": "yaita-986637",
+      "shopid": "yaita-986637-paypay"
     },
     {
-      "name": "ケイライド"
+      "name": "ケイライド",
+      "storeid": "yaita-874f10",
+      "shopid": "yaita-874f10-paypay"
     },
     {
-      "name": "じてんしゃ屋フレーシュ"
+      "name": "じてんしゃ屋フレーシュ",
+      "storeid": "yaita-6e4638",
+      "shopid": "yaita-6e4638-paypay"
     },
     {
-      "name": "タイヤ館矢板"
+      "name": "タイヤ館矢板",
+      "storeid": "yaita-b90c31",
+      "shopid": "yaita-b90c31-paypay"
     },
     {
-      "name": "トヨタカローラ栃木　矢板店"
+      "name": "トヨタカローラ栃木　矢板店",
+      "storeid": "yaita-f263eb",
+      "shopid": "yaita-f263eb-paypay"
     },
     {
-      "name": "トラスト自動車"
+      "name": "トラスト自動車",
+      "storeid": "yaita-d3adb3",
+      "shopid": "yaita-d3adb3-paypay"
     },
     {
-      "name": "ネッツトヨタ栃木　矢板店"
+      "name": "ネッツトヨタ栃木　矢板店",
+      "storeid": "yaita-ef9f1f",
+      "shopid": "yaita-ef9f1f-paypay"
     },
     {
-      "name": "バイクショップモリエツ"
+      "name": "バイクショップモリエツ",
+      "storeid": "yaita-4fe063",
+      "shopid": "yaita-4fe063-paypay"
     },
     {
-      "name": "レーシングガレージaZ"
+      "name": "レーシングガレージaZ",
+      "storeid": "yaita-0136c9",
+      "shopid": "yaita-0136c9-paypay"
     },
     {
-      "name": "大山自動車整備工場"
+      "name": "大山自動車整備工場",
+      "storeid": "yaita-195e4e",
+      "shopid": "yaita-195e4e-paypay"
     },
     {
-      "name": "岡原自動車"
+      "name": "岡原自動車",
+      "storeid": "yaita-6f9e22",
+      "shopid": "yaita-6f9e22-paypay"
     },
     {
-      "name": "乙畑自動車修理工場"
+      "name": "乙畑自動車修理工場",
+      "storeid": "yaita-9460f8",
+      "shopid": "yaita-9460f8-paypay"
     },
     {
-      "name": "神山自動車"
+      "name": "神山自動車",
+      "storeid": "yaita-c5453a",
+      "shopid": "yaita-c5453a-paypay"
     },
     {
-      "name": "(有)紙屋輪店"
+      "name": "(有)紙屋輪店",
+      "storeid": "yaita-f3368f",
+      "shopid": "yaita-f3368f-paypay"
     },
     {
-      "name": "(株)皓翔"
+      "name": "(株)皓翔",
+      "storeid": "yaita-158398",
+      "shopid": "yaita-158398-paypay"
     },
     {
-      "name": "車検のコバック　矢板店"
+      "name": "車検のコバック　矢板店",
+      "storeid": "yaita-5dbd5d",
+      "shopid": "yaita-5dbd5d-paypay"
     },
     {
-      "name": "鈴木自動車整備工場"
+      "name": "鈴木自動車整備工場",
+      "storeid": "yaita-9b4a98",
+      "shopid": "yaita-9b4a98-paypay"
     },
     {
-      "name": "田中自動車"
+      "name": "田中自動車",
+      "storeid": "yaita-b5b620",
+      "shopid": "yaita-b5b620-paypay"
     },
     {
-      "name": "栃木トヨタ　矢板店"
+      "name": "栃木トヨタ　矢板店",
+      "storeid": "yaita-24960b",
+      "shopid": "yaita-24960b-paypay"
     },
     {
-      "name": "街のクルマ屋さん"
+      "name": "街のクルマ屋さん",
+      "storeid": "yaita-41f185",
+      "shopid": "yaita-41f185-paypay"
     },
     {
-      "name": "(有)矢板ツーリング"
+      "name": "(有)矢板ツーリング",
+      "storeid": "yaita-69278a",
+      "shopid": "yaita-69278a-paypay"
     }
   ],
   "ガソリンスタンド": [
     {
-      "name": "apollostation　4号線矢板SS"
+      "name": "apollostation　4号線矢板SS",
+      "storeid": "yaita-12f0b4",
+      "shopid": "yaita-12f0b4-paypay"
     },
     {
-      "name": "ENECOM　矢板営業所"
+      "name": "ENECOM　矢板営業所",
+      "storeid": "yaita-e55ddc",
+      "shopid": "yaita-e55ddc-paypay"
     },
     {
-      "name": "GreenQuickCharge　じゃすぽーと矢板SS"
+      "name": "GreenQuickCharge　じゃすぽーと矢板SS",
+      "storeid": "yaita-6808ce",
+      "shopid": "yaita-6808ce-paypay"
     },
     {
-      "name": "JA-SS　じゃすぽーと矢板SS"
+      "name": "JA-SS　じゃすぽーと矢板SS",
+      "storeid": "yaita-5f64f9",
+      "shopid": "yaita-5f64f9-paypay"
     },
     {
-      "name": "（有）石塚燃料"
+      "name": "（有）石塚燃料",
+      "storeid": "yaita-4adb54",
+      "shopid": "yaita-4adb54-paypay"
     },
     {
-      "name": "スミスケ"
+      "name": "スミスケ",
+      "storeid": "yaita-640c98",
+      "shopid": "yaita-640c98-paypay"
     },
     {
-      "name": "ヤマグチ　Enejet4号矢板給油所"
+      "name": "ヤマグチ　Enejet4号矢板給油所",
+      "storeid": "yaita-ce9ce2",
+      "shopid": "yaita-ce9ce2-paypay"
     },
     {
-      "name": "ヤマグチ　矢板給油所"
+      "name": "ヤマグチ　矢板給油所",
+      "storeid": "yaita-2d84aa",
+      "shopid": "yaita-2d84aa-paypay"
     },
     {
-      "name": "高瀬油店"
+      "name": "高瀬油店",
+      "storeid": "yaita-fe91dc",
+      "shopid": "yaita-fe91dc-paypay"
     }
   ],
   "書店": [
     {
-      "name": "bullock　books"
+      "name": "bullock　books",
+      "storeid": "yaita-09306e",
+      "shopid": "yaita-09306e-paypay"
     },
     {
-      "name": "TSUTAYA　矢板店"
+      "name": "TSUTAYA　矢板店",
+      "storeid": "yaita-bb2ebe",
+      "shopid": "yaita-bb2ebe-paypay"
     },
     {
-      "name": "あさひ書店"
+      "name": "あさひ書店",
+      "storeid": "yaita-020c3b",
+      "shopid": "yaita-020c3b-paypay"
     },
     {
-      "name": "(株)マルヤ"
+      "name": "(株)マルヤ",
+      "storeid": "yaita-73a5c7",
+      "shopid": "yaita-73a5c7-paypay"
     }
   ],
   "スーパー・食品": [
     {
-      "name": "ダイユー　矢板店"
+      "name": "ダイユー　矢板店",
+      "storeid": "yaita-f03a36",
+      "shopid": "yaita-f03a36-paypay"
     },
     {
-      "name": "はりまや"
+      "name": "はりまや",
+      "storeid": "yaita-62bf67",
+      "shopid": "yaita-62bf67-paypay"
     },
     {
-      "name": "パン工房GRANDIR"
+      "name": "パン工房GRANDIR",
+      "storeid": "yaita-5a177c",
+      "shopid": "yaita-5a177c-paypay"
     },
     {
-      "name": "ビックミート山久　矢板店"
+      "name": "ビックミート山久　矢板店",
+      "storeid": "yaita-826631",
+      "shopid": "yaita-826631-paypay"
     },
     {
-      "name": "フードオアシスオータニ　矢板店"
+      "name": "フードオアシスオータニ　矢板店",
+      "storeid": "yaita-43c2e7",
+      "shopid": "yaita-43c2e7-paypay"
     },
     {
-      "name": "ベイシア　矢板店"
+      "name": "ベイシア　矢板店",
+      "storeid": "yaita-9c58bc",
+      "shopid": "yaita-9c58bc-paypay"
     },
     {
-      "name": "ほっともっと　矢板店"
+      "name": "ほっともっと　矢板店",
+      "storeid": "yaita-63840f",
+      "shopid": "yaita-63840f-paypay"
     },
     {
-      "name": "ほっともっと　矢板鹿島町店"
+      "name": "ほっともっと　矢板鹿島町店",
+      "storeid": "yaita-3ad044",
+      "shopid": "yaita-3ad044-paypay"
     },
     {
-      "name": "ヨークベニマル　矢板店"
+      "name": "ヨークベニマル　矢板店",
+      "storeid": "yaita-46757d",
+      "shopid": "yaita-46757d-paypay"
     },
     {
-      "name": "小川屋商店"
+      "name": "小川屋商店",
+      "storeid": "yaita-1436eb",
+      "shopid": "yaita-1436eb-paypay"
     },
     {
-      "name": "小野﨑糀店"
+      "name": "小野﨑糀店",
+      "storeid": "yaita-ea5ac6",
+      "shopid": "yaita-ea5ac6-paypay"
     },
     {
-      "name": "木村屋"
+      "name": "木村屋",
+      "storeid": "yaita-fa4c0e",
+      "shopid": "yaita-fa4c0e-paypay"
     },
     {
-      "name": "新川屋"
+      "name": "新川屋",
+      "storeid": "yaita-7f803c",
+      "shopid": "yaita-7f803c-paypay"
     },
     {
-      "name": "肉汁工房　乙畑店"
+      "name": "肉汁工房　乙畑店",
+      "storeid": "yaita-e2985a",
+      "shopid": "yaita-e2985a-paypay"
     },
     {
-      "name": "肉汁工房　倉掛店"
+      "name": "肉汁工房　倉掛店",
+      "storeid": "yaita-c86d57",
+      "shopid": "yaita-c86d57-paypay"
     },
     {
-      "name": "肉汁工房　高塩店"
+      "name": "肉汁工房　高塩店",
+      "storeid": "yaita-5001c1",
+      "shopid": "yaita-5001c1-paypay"
     },
     {
-      "name": "肉汁工房　矢板店"
+      "name": "肉汁工房　矢板店",
+      "storeid": "yaita-5114f0",
+      "shopid": "yaita-5114f0-paypay"
     },
     {
-      "name": "本間ストアー"
+      "name": "本間ストアー",
+      "storeid": "yaita-7d6539",
+      "shopid": "yaita-7d6539-paypay"
     },
     {
-      "name": "矢板園茶舗"
+      "name": "矢板園茶舗",
+      "storeid": "yaita-60479d",
+      "shopid": "yaita-60479d-paypay"
     },
     {
-      "name": "山久チーズファクトリー"
+      "name": "山久チーズファクトリー",
+      "storeid": "yaita-3766c1",
+      "shopid": "yaita-3766c1-paypay"
     }
   ],
   "写真・眼鏡・宝飾": [
     {
-      "name": "Seewell矢板店"
+      "name": "Seewell矢板店",
+      "storeid": "yaita-34a235",
+      "shopid": "yaita-34a235-paypay"
     },
     {
-      "name": "ジュエリきくち"
+      "name": "ジュエリきくち",
+      "storeid": "yaita-5348ab",
+      "shopid": "yaita-5348ab-paypay"
     },
     {
-      "name": "近藤カメラスタジオ"
+      "name": "近藤カメラスタジオ",
+      "storeid": "yaita-bdbca7",
+      "shopid": "yaita-bdbca7-paypay"
     },
     {
-      "name": "福島写真館"
+      "name": "福島写真館",
+      "storeid": "yaita-4a9c34",
+      "shopid": "yaita-4a9c34-paypay"
     },
     {
-      "name": "眼鏡市場"
+      "name": "眼鏡市場",
+      "storeid": "yaita-1c5a57",
+      "shopid": "yaita-1c5a57-paypay"
     },
     {
-      "name": "渡辺めがね店"
+      "name": "渡辺めがね店",
+      "storeid": "yaita-df0aa3",
+      "shopid": "yaita-df0aa3-paypay"
     }
   ],
   "クリーニング店": [
     {
-      "name": "うさちゃんクリーニング　ベイシア矢板店"
+      "name": "うさちゃんクリーニング　ベイシア矢板店",
+      "storeid": "yaita-ff3f81",
+      "shopid": "yaita-ff3f81-paypay"
     },
     {
-      "name": "クリーニング専科　ヨークタウン矢板店"
+      "name": "クリーニング専科　ヨークタウン矢板店",
+      "storeid": "yaita-cb0fcd",
+      "shopid": "yaita-cb0fcd-paypay"
     },
     {
-      "name": "クリーニング専科　矢板末広店"
+      "name": "クリーニング専科　矢板末広店",
+      "storeid": "yaita-781f38",
+      "shopid": "yaita-781f38-paypay"
     },
     {
-      "name": "スタークリーニング　ダイユー店"
+      "name": "スタークリーニング　ダイユー店",
+      "storeid": "yaita-303b1b",
+      "shopid": "yaita-303b1b-paypay"
     },
     {
-      "name": "スタークリーニング　本町店"
+      "name": "スタークリーニング　本町店",
+      "storeid": "yaita-7d53ad",
+      "shopid": "yaita-7d53ad-paypay"
     },
     {
-      "name": "メイトドリーム　ヨークタウン矢板店"
+      "name": "メイトドリーム　ヨークタウン矢板店",
+      "storeid": "yaita-14f51d",
+      "shopid": "yaita-14f51d-paypay"
     },
     {
-      "name": "メイトドリーム　カインズ矢板店"
+      "name": "メイトドリーム　カインズ矢板店",
+      "storeid": "yaita-032b4c",
+      "shopid": "yaita-032b4c-paypay"
     }
   ],
   "ホテル・旅館": [
     {
-      "name": "HOTELR9TheYard　矢板"
+      "name": "HOTELR9TheYard　矢板",
+      "storeid": "yaita-87634b",
+      "shopid": "yaita-87634b-paypay"
     },
     {
-      "name": "たかはら花畑キャンプ場"
+      "name": "たかはら花畑キャンプ場",
+      "storeid": "yaita-802ecb",
+      "shopid": "yaita-802ecb-paypay"
     },
     {
-      "name": "ホテルウェリィスミヨシ"
+      "name": "ホテルウェリィスミヨシ",
+      "storeid": "yaita-a85960",
+      "shopid": "yaita-a85960-paypay"
     },
     {
-      "name": "ホテルルートイン矢板"
+      "name": "ホテルルートイン矢板",
+      "storeid": "yaita-8487f0",
+      "shopid": "yaita-8487f0-paypay"
     },
     {
-      "name": "メイフラワーゴルフクラブ　ホテル桜"
+      "name": "メイフラワーゴルフクラブ　ホテル桜",
+      "storeid": "yaita-c43ecf",
+      "shopid": "yaita-c43ecf-paypay"
     },
     {
-      "name": "矢板温泉まことの湯"
+      "name": "矢板温泉まことの湯",
+      "storeid": "yaita-a39e10",
+      "shopid": "yaita-a39e10-paypay"
     }
   ],
   "ドラッグストア": [
     {
-      "name": "QTREK シロタ"
+      "name": "QTREK シロタ",
+      "storeid": "yaita-375f62",
+      "shopid": "yaita-375f62-paypay"
     },
     {
-      "name": "カワチ薬品　矢板南店"
+      "name": "カワチ薬品　矢板南店",
+      "storeid": "yaita-2f5c88",
+      "shopid": "yaita-2f5c88-paypay"
     },
     {
-      "name": "クスリのアオキ　木幡店"
+      "name": "クスリのアオキ　木幡店",
+      "storeid": "yaita-34bbb8",
+      "shopid": "yaita-34bbb8-paypay"
     },
     {
-      "name": "クスリのアオキ　矢板店"
+      "name": "クスリのアオキ　矢板店",
+      "storeid": "yaita-17d507",
+      "shopid": "yaita-17d507-paypay"
     },
     {
-      "name": "サンドラッグ　矢板店"
+      "name": "サンドラッグ　矢板店",
+      "storeid": "yaita-999d5a",
+      "shopid": "yaita-999d5a-paypay"
     },
     {
-      "name": "ツルハドラッグ　矢板片岡店"
+      "name": "ツルハドラッグ　矢板片岡店",
+      "storeid": "yaita-f2ed42",
+      "shopid": "yaita-f2ed42-paypay"
     },
     {
-      "name": "マツモトキヨシ　矢板店"
+      "name": "マツモトキヨシ　矢板店",
+      "storeid": "yaita-e6d7a6",
+      "shopid": "yaita-e6d7a6-paypay"
     },
     {
-      "name": "大貫薬局"
+      "name": "大貫薬局",
+      "storeid": "yaita-22a763",
+      "shopid": "yaita-22a763-paypay"
     },
     {
-      "name": "大谷薬局"
+      "name": "大谷薬局",
+      "storeid": "yaita-f611b4",
+      "shopid": "yaita-f611b4-paypay"
     }
   ],
   "理容・美容": [
     {
-      "name": "cut　shop　Lanp"
+      "name": "cut　shop　Lanp",
+      "storeid": "yaita-bad90e",
+      "shopid": "yaita-bad90e-paypay"
     },
     {
-      "name": "eyelash　salon　R"
+      "name": "eyelash　salon　R",
+      "storeid": "yaita-a12de8",
+      "shopid": "yaita-a12de8-paypay"
     },
     {
-      "name": "Hair’z Home　en"
+      "name": "Hair’z Home　en",
+      "storeid": "yaita-df9faa",
+      "shopid": "yaita-df9faa-paypay"
     },
     {
-      "name": "K－NINE"
+      "name": "K－NINE",
+      "storeid": "yaita-2ec3d4",
+      "shopid": "yaita-2ec3d4-paypay"
     },
     {
-      "name": "Lira　Cuore"
+      "name": "Lira　Cuore",
+      "storeid": "yaita-a1a53a",
+      "shopid": "yaita-a1a53a-paypay"
     },
     {
-      "name": "MAQUIA　矢板店"
+      "name": "MAQUIA　矢板店",
+      "storeid": "yaita-e53a0d",
+      "shopid": "yaita-e53a0d-paypay"
     },
     {
-      "name": "material　hairworks"
+      "name": "material　hairworks",
+      "storeid": "yaita-c2e4c7",
+      "shopid": "yaita-c2e4c7-paypay"
     },
     {
-      "name": "nail　salon　sky"
+      "name": "nail　salon　sky",
+      "storeid": "yaita-170a08",
+      "shopid": "yaita-170a08-paypay"
     },
     {
-      "name": "unro（アンロ）"
+      "name": "unro（アンロ）",
+      "storeid": "yaita-358840",
+      "shopid": "yaita-358840-paypay"
     },
     {
-      "name": "Vanity hair"
+      "name": "Vanity hair",
+      "storeid": "yaita-b0e73d",
+      "shopid": "yaita-b0e73d-paypay"
     },
     {
-      "name": "アイラッシュサロンTHREE"
+      "name": "アイラッシュサロンTHREE",
+      "storeid": "yaita-1f438d",
+      "shopid": "yaita-1f438d-paypay"
     },
     {
-      "name": "カットハウス　ディオール"
+      "name": "カットハウス　ディオール",
+      "storeid": "yaita-b9abca",
+      "shopid": "yaita-b9abca-paypay"
     },
     {
-      "name": "サロン　ジェイベリー"
+      "name": "サロン　ジェイベリー",
+      "storeid": "yaita-89737b",
+      "shopid": "yaita-89737b-paypay"
     },
     {
-      "name": "プライベートサロンR"
+      "name": "プライベートサロンR",
+      "storeid": "yaita-7c1051",
+      "shopid": "yaita-7c1051-paypay"
     },
     {
-      "name": "プライベートネイルルーム　メル"
+      "name": "プライベートネイルルーム　メル",
+      "storeid": "yaita-a449a7",
+      "shopid": "yaita-a449a7-paypay"
     },
     {
-      "name": "ヘアーサロン　スタイル"
+      "name": "ヘアーサロン　スタイル",
+      "storeid": "yaita-d37d42",
+      "shopid": "yaita-d37d42-paypay"
     },
     {
-      "name": "ヘアーメイクキミジマ"
+      "name": "ヘアーメイクキミジマ",
+      "storeid": "yaita-d3062c",
+      "shopid": "yaita-d3062c-paypay"
     },
     {
-      "name": "ベスト・カット　矢板店"
+      "name": "ベスト・カット　矢板店",
+      "storeid": "yaita-ea649b",
+      "shopid": "yaita-ea649b-paypay"
     },
     {
-      "name": "リゼラアンドコー矢板"
+      "name": "リゼラアンドコー矢板",
+      "storeid": "yaita-4f6470",
+      "shopid": "yaita-4f6470-paypay"
     },
     {
-      "name": "美容室アクール"
+      "name": "美容室アクール",
+      "storeid": "yaita-b0c1df",
+      "shopid": "yaita-b0c1df-paypay"
     },
     {
-      "name": "美容室えむ"
+      "name": "美容室えむ",
+      "storeid": "yaita-35334e",
+      "shopid": "yaita-35334e-paypay"
     }
   ],
   "その他": [
     {
-      "name": "308Club"
+      "name": "308Club",
+      "storeid": "yaita-ea441d",
+      "shopid": "yaita-ea441d-paypay"
     },
     {
-      "name": "58WildForestOne"
+      "name": "58WildForestOne",
+      "storeid": "yaita-066427",
+      "shopid": "yaita-066427-paypay"
     },
     {
-      "name": "58アドベンチャークラブ"
+      "name": "58アドベンチャークラブ",
+      "storeid": "yaita-4e9153",
+      "shopid": "yaita-4e9153-paypay"
     },
     {
-      "name": "azureco"
+      "name": "azureco",
+      "storeid": "yaita-035c8e",
+      "shopid": "yaita-035c8e-paypay"
     },
     {
-      "name": "baan　Nook"
+      "name": "baan　Nook",
+      "storeid": "yaita-273a1a",
+      "shopid": "yaita-273a1a-paypay"
     },
     {
-      "name": "BEEHIVE"
+      "name": "BEEHIVE",
+      "storeid": "yaita-4c7162",
+      "shopid": "yaita-4c7162-paypay"
     },
     {
-      "name": "Blissful　Time"
+      "name": "Blissful　Time",
+      "storeid": "yaita-013484",
+      "shopid": "yaita-013484-paypay"
     },
     {
-      "name": "Bunzo"
+      "name": "Bunzo",
+      "storeid": "yaita-b08425",
+      "shopid": "yaita-b08425-paypay"
     },
     {
-      "name": "handmade　makana"
+      "name": "handmade　makana",
+      "storeid": "yaita-fc7044",
+      "shopid": "yaita-fc7044-paypay"
     },
     {
-      "name": "ITO☆iroiro"
+      "name": "ITO☆iroiro",
+      "storeid": "yaita-5b1eec",
+      "shopid": "yaita-5b1eec-paypay"
     },
     {
-      "name": "M*style"
+      "name": "M*style",
+      "storeid": "yaita-dd429b",
+      "shopid": "yaita-dd429b-paypay"
     },
     {
-      "name": "ma　cherie"
+      "name": "ma　cherie",
+      "storeid": "yaita-46ba14",
+      "shopid": "yaita-46ba14-paypay"
     },
     {
-      "name": "nana.la"
+      "name": "nana.la",
+      "storeid": "yaita-ae04b9",
+      "shopid": "yaita-ae04b9-paypay"
     },
     {
-      "name": "omuche"
+      "name": "omuche",
+      "storeid": "yaita-ef7e69",
+      "shopid": "yaita-ef7e69-paypay"
     },
     {
-      "name": "purin"
+      "name": "purin",
+      "storeid": "yaita-4600a2",
+      "shopid": "yaita-4600a2-paypay"
     },
     {
-      "name": "Salon絆和"
+      "name": "Salon絆和",
+      "storeid": "yaita-b08425",
+      "shopid": "yaita-b08425-paypay"
     },
     {
-      "name": "WALK　ON　CLOUDS　BIGBAND"
+      "name": "WALK　ON　CLOUDS　BIGBAND",
+      "storeid": "yaita-29fe64",
+      "shopid": "yaita-29fe64-paypay"
     },
     {
-      "name": "YASMOCCA　矢板北PA（上り）"
+      "name": "YASMOCCA　矢板北PA（上り）",
+      "storeid": "yaita-bb220c",
+      "shopid": "yaita-bb220c-paypay"
     },
     {
-      "name": "YASMOCCA　矢板北PA（下り）"
+      "name": "YASMOCCA　矢板北PA（下り）",
+      "storeid": "yaita-43695e",
+      "shopid": "yaita-43695e-paypay"
     },
     {
-      "name": "アイングループ売店　（国際医療福祉大学塩谷病院）"
+      "name": "アイングループ売店　（国際医療福祉大学塩谷病院）",
+      "storeid": "yaita-15c678",
+      "shopid": "yaita-15c678-paypay"
     },
     {
-      "name": "アグティビティ矢板"
+      "name": "アグティビティ矢板",
+      "storeid": "yaita-8eb600",
+      "shopid": "yaita-8eb600-paypay"
     },
     {
-      "name": "アローエースゴルフクラブ"
+      "name": "アローエースゴルフクラブ",
+      "storeid": "yaita-7fb933",
+      "shopid": "yaita-7fb933-paypay"
     },
     {
-      "name": "オフィスグリコ"
+      "name": "オフィスグリコ",
+      "storeid": "yaita-c7b3f3",
+      "shopid": "yaita-c7b3f3-paypay"
     },
     {
-      "name": "おもてなしストーリー"
+      "name": "おもてなしストーリー",
+      "storeid": "yaita-95c58d",
+      "shopid": "yaita-95c58d-paypay"
     },
     {
-      "name": "カイロプラクティック中澤"
+      "name": "カイロプラクティック中澤",
+      "storeid": "yaita-1a152c",
+      "shopid": "yaita-1a152c-paypay"
     },
     {
-      "name": "カインズ　矢板店"
+      "name": "カインズ　矢板店",
+      "storeid": "yaita-24b523",
+      "shopid": "yaita-24b523-paypay"
     },
     {
-      "name": "かかしの占い相談室"
+      "name": "かかしの占い相談室",
+      "storeid": "yaita-bc1163",
+      "shopid": "yaita-bc1163-paypay"
     },
     {
-      "name": "クイック整体 「整え屋」"
+      "name": "クイック整体 「整え屋」",
+      "storeid": "yaita-fee569",
+      "shopid": "yaita-fee569-paypay"
     },
     {
-      "name": "クラフトケイズ"
+      "name": "クラフトケイズ",
+      "storeid": "yaita-0f464d",
+      "shopid": "yaita-0f464d-paypay"
     },
     {
-      "name": "コメリ　Ｈ＆Ｇ矢板店"
+      "name": "コメリ　Ｈ＆Ｇ矢板店",
+      "storeid": "yaita-802a07",
+      "shopid": "yaita-802a07-paypay"
     },
     {
-      "name": "サードプレイスcocoto"
+      "name": "サードプレイスcocoto",
+      "storeid": "yaita-0b53f4",
+      "shopid": "yaita-0b53f4-paypay"
     },
     {
-      "name": "さきがけ"
+      "name": "さきがけ",
+      "storeid": "yaita-0f744c",
+      "shopid": "yaita-0f744c-paypay"
     },
     {
-      "name": "ジムラット"
+      "name": "ジムラット",
+      "storeid": "yaita-8e01cc",
+      "shopid": "yaita-8e01cc-paypay"
     },
     {
-      "name": "ソフトバンク　矢板"
+      "name": "ソフトバンク　矢板",
+      "storeid": "yaita-374189",
+      "shopid": "yaita-374189-paypay"
     },
     {
-      "name": "ダイアナ　トルテ"
+      "name": "ダイアナ　トルテ",
+      "storeid": "yaita-115e08",
+      "shopid": "yaita-115e08-paypay"
     },
     {
-      "name": "ダイソー　ヨークタウン矢板店"
+      "name": "ダイソー　ヨークタウン矢板店",
+      "storeid": "yaita-9f8c6f",
+      "shopid": "yaita-9f8c6f-paypay"
     },
     {
-      "name": "ダスキン　中支店"
+      "name": "ダスキン　中支店",
+      "storeid": "yaita-6c60ec",
+      "shopid": "yaita-6c60ec-paypay"
     },
     {
-      "name": "テンフィールズファクトリー"
+      "name": "テンフィールズファクトリー",
+      "storeid": "yaita-70f528",
+      "shopid": "yaita-70f528-paypay"
     },
     {
-      "name": "ねばらん"
+      "name": "ねばらん",
+      "storeid": "yaita-f9e4a2",
+      "shopid": "yaita-f9e4a2-paypay"
     },
     {
-      "name": "ビーズの宝石箱"
+      "name": "ビーズの宝石箱",
+      "storeid": "yaita-882c0b",
+      "shopid": "yaita-882c0b-paypay"
     },
     {
-      "name": "ピースフル　ひらいし"
+      "name": "ピースフル　ひらいし",
+      "storeid": "yaita-6675c0",
+      "shopid": "yaita-6675c0-paypay"
     },
     {
-      "name": "ひまわり整骨院"
+      "name": "ひまわり整骨院",
+      "storeid": "yaita-395725",
+      "shopid": "yaita-395725-paypay"
     },
     {
-      "name": "フローレンス花美"
+      "name": "フローレンス花美",
+      "storeid": "yaita-4def0f",
+      "shopid": "yaita-4def0f-paypay"
     },
     {
-      "name": "むとう整骨院"
+      "name": "むとう整骨院",
+      "storeid": "yaita-4c9326",
+      "shopid": "yaita-4c9326-paypay"
     },
     {
-      "name": "ムラカミインテリア"
+      "name": "ムラカミインテリア",
+      "storeid": "yaita-e8f0cc",
+      "shopid": "yaita-e8f0cc-paypay"
     },
     {
-      "name": "め組のお店"
+      "name": "め組のお店",
+      "storeid": "yaita-280fe8",
+      "shopid": "yaita-280fe8-paypay"
     },
     {
-      "name": "もみ楽リラクゼーション"
+      "name": "もみ楽リラクゼーション",
+      "storeid": "yaita-b8e425",
+      "shopid": "yaita-b8e425-paypay"
     },
     {
-      "name": "もりもりカイロ"
+      "name": "もりもりカイロ",
+      "storeid": "yaita-f84218",
+      "shopid": "yaita-f84218-paypay"
     },
     {
-      "name": "ヤマト運輸　矢板営業所"
+      "name": "ヤマト運輸　矢板営業所",
+      "storeid": "yaita-18dbe6",
+      "shopid": "yaita-18dbe6-paypay"
     },
     {
-      "name": "ヤムヤム"
+      "name": "ヤムヤム",
+      "storeid": "yaita-3ac5ca",
+      "shopid": "yaita-3ac5ca-paypay"
     },
     {
-      "name": "ユニックスジャパン"
+      "name": "ユニックスジャパン",
+      "storeid": "yaita-cedce4",
+      "shopid": "yaita-cedce4-paypay"
     },
     {
-      "name": "リビングセンターたかはし"
+      "name": "リビングセンターたかはし",
+      "storeid": "yaita-7a8e2b",
+      "shopid": "yaita-7a8e2b-paypay"
     },
     {
-      "name": "りらくる　矢板店"
+      "name": "りらくる　矢板店",
+      "storeid": "yaita-0a4e81",
+      "shopid": "yaita-0a4e81-paypay"
     },
     {
-      "name": "ルンビニー楽社　矢板センター"
+      "name": "ルンビニー楽社　矢板センター",
+      "storeid": "yaita-a705cd",
+      "shopid": "yaita-a705cd-paypay"
     },
     {
-      "name": "ワッツ　矢板ベイシア店"
+      "name": "ワッツ　矢板ベイシア店",
+      "storeid": "yaita-8e1ce9",
+      "shopid": "yaita-8e1ce9-paypay"
     },
     {
-      "name": "大谷津ふとん店"
+      "name": "大谷津ふとん店",
+      "storeid": "yaita-a0c61c",
+      "shopid": "yaita-a0c61c-paypay"
     },
     {
-      "name": "小野崎商工"
+      "name": "小野崎商工",
+      "storeid": "yaita-957b54",
+      "shopid": "yaita-957b54-paypay"
     },
     {
-      "name": "(有)兼崎家具店"
+      "name": "(有)兼崎家具店",
+      "storeid": "yaita-301cd8",
+      "shopid": "yaita-301cd8-paypay"
     },
     {
-      "name": "光雲堂　矢板店"
+      "name": "光雲堂　矢板店",
+      "storeid": "yaita-00e040",
+      "shopid": "yaita-00e040-paypay"
     },
     {
-      "name": "金精川漁業生産組合"
+      "name": "金精川漁業生産組合",
+      "storeid": "yaita-1a066c",
+      "shopid": "yaita-1a066c-paypay"
     },
     {
-      "name": "三和住宅　矢板店"
+      "name": "三和住宅　矢板店",
+      "storeid": "yaita-0bce2d",
+      "shopid": "yaita-0bce2d-paypay"
     },
     {
-      "name": "鈴木がん具製作所"
+      "name": "鈴木がん具製作所",
+      "storeid": "yaita-3af71e",
+      "shopid": "yaita-3af71e-paypay"
     },
     {
-      "name": "竹村実可子ピアノ教室"
+      "name": "竹村実可子ピアノ教室",
+      "storeid": "yaita-139b2d",
+      "shopid": "yaita-139b2d-paypay"
     },
     {
-      "name": "鉄花めだか"
+      "name": "鉄花めだか",
+      "storeid": "yaita-af16a6",
+      "shopid": "yaita-af16a6-paypay"
     },
     {
-      "name": "西松屋チェーン　矢板店"
+      "name": "西松屋チェーン　矢板店",
+      "storeid": "yaita-1d4af4",
+      "shopid": "yaita-1d4af4-paypay"
     },
     {
-      "name": "日省エンジニアリング"
+      "name": "日省エンジニアリング",
+      "storeid": "yaita-1b28de",
+      "shopid": "yaita-1b28de-paypay"
     },
     {
-      "name": "農家の店　カクヤス　矢板店"
+      "name": "農家の店　カクヤス　矢板店",
+      "storeid": "yaita-c389e4",
+      "shopid": "yaita-c389e4-paypay"
     },
     {
-      "name": "花彩めだか"
+      "name": "花彩めだか",
+      "storeid": "yaita-2eed60",
+      "shopid": "yaita-2eed60-paypay"
     },
     {
-      "name": "(株)幕壱"
+      "name": "(株)幕壱",
+      "storeid": "yaita-255058",
+      "shopid": "yaita-255058-paypay"
     },
     {
-      "name": "益子丈　ベース教室"
+      "name": "益子丈　ベース教室",
+      "storeid": "yaita-a4730c",
+      "shopid": "yaita-a4730c-paypay"
     },
     {
-      "name": "三菱農機販売　矢板営業所"
+      "name": "三菱農機販売　矢板営業所",
+      "storeid": "yaita-c53653",
+      "shopid": "yaita-c53653-paypay"
     },
     {
-      "name": "室井総合事務所"
+      "name": "室井総合事務所",
+      "storeid": "yaita-cbc772",
+      "shopid": "yaita-cbc772-paypay"
     },
     {
-      "name": "矢板偀接骨院"
+      "name": "矢板偀接骨院",
+      "storeid": "yaita-c2d860",
+      "shopid": "yaita-c2d860-paypay"
     },
     {
-      "name": "渡辺土地家屋調査士事務所"
+      "name": "渡辺土地家屋調査士事務所",
+      "storeid": "yaita-293e30",
+      "shopid": "yaita-293e30-paypay"
     },
     {
-      "name": "和洋園"
+      "name": "和洋園",
+      "storeid": "yaita-f8bad6",
+      "shopid": "yaita-f8bad6-paypay"
     }
   ]
 }

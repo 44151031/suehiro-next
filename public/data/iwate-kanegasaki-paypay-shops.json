@@ -1,280 +1,439 @@
 {
   "全対象店舗": [
     {
-      "name": "宝介　金ヶ崎店"
+      "name": "宝介　金ヶ崎店",
+      "storeid": "kanegasaki-458380",
+      "shopid": "kanegasaki-458380-paypay"
     },
     {
-      "name": "金ヶ崎温泉駒子の湯"
+      "name": "金ヶ崎温泉駒子の湯",
+      "storeid": "kanegasaki-e25183",
+      "shopid": "kanegasaki-e25183-paypay"
     },
     {
-      "name": "台湾料理　金福"
+      "name": "台湾料理　金福",
+      "storeid": "kanegasaki-4cf6fd",
+      "shopid": "kanegasaki-4cf6fd-paypay"
     },
     {
-      "name": "タージマハル"
+      "name": "タージマハル",
+      "storeid": "kanegasaki-31d11c",
+      "shopid": "kanegasaki-31d11c-paypay"
     },
     {
-      "name": "サバービア"
+      "name": "サバービア",
+      "storeid": "kanegasaki-368d5e",
+      "shopid": "kanegasaki-368d5e-paypay"
     },
     {
-      "name": "長岡温泉　夢の湯"
+      "name": "長岡温泉　夢の湯",
+      "storeid": "kanegasaki-98ebd3",
+      "shopid": "kanegasaki-98ebd3-paypay"
     },
     {
-      "name": "すずみ食堂"
+      "name": "すずみ食堂",
+      "storeid": "kanegasaki-e8c31d",
+      "shopid": "kanegasaki-e8c31d-paypay"
     },
     {
-      "name": "盛絽屋"
+      "name": "盛絽屋",
+      "storeid": "kanegasaki-b505e5",
+      "shopid": "kanegasaki-b505e5-paypay"
     },
     {
-      "name": "大松沢家"
+      "name": "大松沢家",
+      "storeid": "kanegasaki-8399e8",
+      "shopid": "kanegasaki-8399e8-paypay"
     },
     {
-      "name": "牧の丘ジェラート店"
+      "name": "牧の丘ジェラート店",
+      "storeid": "kanegasaki-14ff29",
+      "shopid": "kanegasaki-14ff29-paypay"
     },
     {
-      "name": "とうふの松や"
+      "name": "とうふの松や",
+      "storeid": "kanegasaki-66fbe2",
+      "shopid": "kanegasaki-66fbe2-paypay"
     },
     {
-      "name": "SUGOSU HITOTOKI"
+      "name": "SUGOSU HITOTOKI",
+      "storeid": "kanegasaki-fdc5dd",
+      "shopid": "kanegasaki-fdc5dd-paypay"
     },
     {
-      "name": "高砂食堂"
+      "name": "高砂食堂",
+      "storeid": "kanegasaki-de08bd",
+      "shopid": "kanegasaki-de08bd-paypay"
     },
     {
-      "name": "リラクゼーションサロンふわり"
+      "name": "リラクゼーションサロンふわり",
+      "storeid": "kanegasaki-521cec",
+      "shopid": "kanegasaki-521cec-paypay"
     },
     {
-      "name": "和洋食堂Ecru"
+      "name": "和洋食堂Ecru",
+      "storeid": "kanegasaki-ed5893",
+      "shopid": "kanegasaki-ed5893-paypay"
     },
     {
-      "name": "お菓子工房ふ和ふ和"
+      "name": "お菓子工房ふ和ふ和",
+      "storeid": "kanegasaki-ce7350",
+      "shopid": "kanegasaki-ce7350-paypay"
     },
     {
-      "name": "KICHI.雑貨カフェキチ"
+      "name": "KICHI.雑貨カフェキチ",
+      "storeid": "kanegasaki-9cc808",
+      "shopid": "kanegasaki-9cc808-paypay"
     },
     {
-      "name": "アレス"
+      "name": "アレス",
+      "storeid": "kanegasaki-5afdbe",
+      "shopid": "kanegasaki-5afdbe-paypay"
     },
     {
-      "name": "ピリカ美容室"
+      "name": "ピリカ美容室",
+      "storeid": "kanegasaki-c18948",
+      "shopid": "kanegasaki-c18948-paypay"
     },
     {
-      "name": "千貫石温泉湯元東館"
+      "name": "千貫石温泉湯元東館",
+      "storeid": "kanegasaki-64d9f5",
+      "shopid": "kanegasaki-64d9f5-paypay"
     },
     {
-      "name": "ヘアファクトリーよこみち"
+      "name": "ヘアファクトリーよこみち",
+      "storeid": "kanegasaki-4b3afa",
+      "shopid": "kanegasaki-4b3afa-paypay"
     },
     {
-      "name": "YOKOMICHI SPORTS"
+      "name": "YOKOMICHI SPORTS",
+      "storeid": "kanegasaki-9415d5",
+      "shopid": "kanegasaki-9415d5-paypay"
     },
     {
-      "name": "HairSalonAllonsy"
+      "name": "HairSalonAllonsy",
+      "storeid": "kanegasaki-8176a0",
+      "shopid": "kanegasaki-8176a0-paypay"
     },
     {
-      "name": "金ヶ崎薬草酒造"
+      "name": "金ヶ崎薬草酒造",
+      "storeid": "kanegasaki-3e8b4b",
+      "shopid": "kanegasaki-3e8b4b-paypay"
     },
     {
-      "name": "おかず家　煮心"
+      "name": "おかず家　煮心",
+      "storeid": "kanegasaki-1c33e0",
+      "shopid": "kanegasaki-1c33e0-paypay"
     },
     {
-      "name": "トーサイ金ヶ崎工場"
+      "name": "トーサイ金ヶ崎工場",
+      "storeid": "kanegasaki-273ac0",
+      "shopid": "kanegasaki-273ac0-paypay"
     },
     {
-      "name": "ヘアーサロンAsa"
+      "name": "ヘアーサロンAsa",
+      "storeid": "kanegasaki-2da082",
+      "shopid": "kanegasaki-2da082-paypay"
     },
     {
-      "name": "yips café availla"
+      "name": "yips café availla",
+      "storeid": "kanegasaki-430460",
+      "shopid": "kanegasaki-430460-paypay"
     },
     {
-      "name": "佐藤整骨院"
+      "name": "佐藤整骨院",
+      "storeid": "kanegasaki-5b96c8",
+      "shopid": "kanegasaki-5b96c8-paypay"
     },
     {
-      "name": "及定商店"
+      "name": "及定商店",
+      "storeid": "kanegasaki-c19f69",
+      "shopid": "kanegasaki-c19f69-paypay"
     },
     {
-      "name": "和風レストラン星萬"
+      "name": "和風レストラン星萬",
+      "storeid": "kanegasaki-fa5128",
+      "shopid": "kanegasaki-fa5128-paypay"
     },
     {
-      "name": "美容室ヘアカルチャー"
+      "name": "美容室ヘアカルチャー",
+      "storeid": "kanegasaki-a63002",
+      "shopid": "kanegasaki-a63002-paypay"
     },
     {
-      "name": "ミニショップ浅沼"
+      "name": "ミニショップ浅沼",
+      "storeid": "kanegasaki-0afcdd",
+      "shopid": "kanegasaki-0afcdd-paypay"
     },
     {
-      "name": "ヘアーサロンhana"
+      "name": "ヘアーサロンhana",
+      "storeid": "kanegasaki-f94b78",
+      "shopid": "kanegasaki-f94b78-paypay"
     },
     {
-      "name": "小沢商店　灯油"
+      "name": "小沢商店　灯油",
+      "storeid": "kanegasaki-81d64f",
+      "shopid": "kanegasaki-81d64f-paypay"
     },
     {
-      "name": "お食事処楓"
+      "name": "お食事処楓",
+      "storeid": "kanegasaki-23e692",
+      "shopid": "kanegasaki-23e692-paypay"
     },
     {
-      "name": "あけぼの"
+      "name": "あけぼの",
+      "storeid": "kanegasaki-b01a86",
+      "shopid": "kanegasaki-b01a86-paypay"
     },
     {
-      "name": "有限会社カーセンター車堂"
+      "name": "有限会社カーセンター車堂",
+      "storeid": "kanegasaki-54a0a5",
+      "shopid": "kanegasaki-54a0a5-paypay"
     },
     {
-      "name": "有限会社菊地分店"
+      "name": "有限会社菊地分店",
+      "storeid": "kanegasaki-280816",
+      "shopid": "kanegasaki-280816-paypay"
     },
     {
-      "name": "制服のキクエ"
+      "name": "制服のキクエ",
+      "storeid": "kanegasaki-b0ecf7",
+      "shopid": "kanegasaki-b0ecf7-paypay"
     },
     {
-      "name": "ここから整骨院"
+      "name": "ここから整骨院",
+      "storeid": "kanegasaki-f8bc6f",
+      "shopid": "kanegasaki-f8bc6f-paypay"
     },
     {
-      "name": "山本ファーム"
+      "name": "山本ファーム",
+      "storeid": "kanegasaki-26ec5e",
+      "shopid": "kanegasaki-26ec5e-paypay"
     },
     {
-      "name": "やきもの工房コシカ"
+      "name": "やきもの工房コシカ",
+      "storeid": "kanegasaki-53bca1",
+      "shopid": "kanegasaki-53bca1-paypay"
     },
     {
-      "name": "駅前の理容室コアラセ"
+      "name": "駅前の理容室コアラセ",
+      "storeid": "kanegasaki-1bf3cf",
+      "shopid": "kanegasaki-1bf3cf-paypay"
     },
     {
-      "name": "糖之介"
+      "name": "糖之介",
+      "storeid": "kanegasaki-e34d73",
+      "shopid": "kanegasaki-e34d73-paypay"
     },
     {
-      "name": "BEAUTY RESOLUTION M&Be"
+      "name": "BEAUTY RESOLUTION M&Be",
+      "storeid": "kanegasaki-10ccb8",
+      "shopid": "kanegasaki-10ccb8-paypay"
     },
     {
-      "name": "やきとりダイニング　高砂哉"
+      "name": "やきとりダイニング　高砂哉",
+      "storeid": "kanegasaki-9654e0",
+      "shopid": "kanegasaki-9654e0-paypay"
     },
     {
-      "name": "合同会社なんてん屋"
+      "name": "合同会社なんてん屋",
+      "storeid": "kanegasaki-adadca",
+      "shopid": "kanegasaki-adadca-paypay"
     },
     {
-      "name": "チェリー美容室"
+      "name": "チェリー美容室",
+      "storeid": "kanegasaki-b3f7f9",
+      "shopid": "kanegasaki-b3f7f9-paypay"
     },
     {
-      "name": "clipviky"
+      "name": "clipviky",
+      "storeid": "kanegasaki-d30cb4",
+      "shopid": "kanegasaki-d30cb4-paypay"
     },
     {
-      "name": "金ヶ崎温泉駒子の湯和光ドーム"
+      "name": "金ヶ崎温泉駒子の湯和光ドーム",
+      "storeid": "kanegasaki-a267ab",
+      "shopid": "kanegasaki-a267ab-paypay"
     },
     {
-      "name": "ファミリーイン金ヶ崎"
+      "name": "ファミリーイン金ヶ崎",
+      "storeid": "kanegasaki-12cd37",
+      "shopid": "kanegasaki-12cd37-paypay"
     },
     {
-      "name": "LifeBASE"
+      "name": "LifeBASE",
+      "storeid": "kanegasaki-77c2e6",
+      "shopid": "kanegasaki-77c2e6-paypay"
     },
     {
-      "name": "田中屋呉服店"
+      "name": "田中屋呉服店",
+      "storeid": "kanegasaki-d6688b",
+      "shopid": "kanegasaki-d6688b-paypay"
     },
     {
-      "name": "小沢商店"
+      "name": "小沢商店",
+      "storeid": "kanegasaki-e945ba",
+      "shopid": "kanegasaki-e945ba-paypay"
     },
     {
-      "name": "藤光堂"
+      "name": "藤光堂",
+      "storeid": "kanegasaki-fc6387",
+      "shopid": "kanegasaki-fc6387-paypay"
     },
     {
-      "name": "中国足心道療術院足楽園"
+      "name": "中国足心道療術院足楽園",
+      "storeid": "kanegasaki-c714e4",
+      "shopid": "kanegasaki-c714e4-paypay"
     },
     {
-      "name": "サイクルセンターおいたい"
+      "name": "サイクルセンターおいたい",
+      "storeid": "kanegasaki-0ead8e",
+      "shopid": "kanegasaki-0ead8e-paypay"
     },
     {
-      "name": "ELWOODCRAFTWORKS"
+      "name": "ELWOODCRAFTWORKS",
+      "storeid": "kanegasaki-17be39",
+      "shopid": "kanegasaki-17be39-paypay"
     },
     {
-      "name": "キリ美装"
+      "name": "キリ美装",
+      "storeid": "kanegasaki-046349",
+      "shopid": "kanegasaki-046349-paypay"
     },
     {
-      "name": "ヘアーサロンチバ"
+      "name": "ヘアーサロンチバ",
+      "storeid": "kanegasaki-cbf745",
+      "shopid": "kanegasaki-cbf745-paypay"
     },
     {
-      "name": "及川商店"
+      "name": "及川商店",
+      "storeid": "kanegasaki-cc24a5",
+      "shopid": "kanegasaki-cc24a5-paypay"
     },
     {
-      "name": "メルシー田中や"
+      "name": "メルシー田中や",
+      "storeid": "kanegasaki-d9ce00",
+      "shopid": "kanegasaki-d9ce00-paypay"
     },
     {
-      "name": "MISAKA STYLE"
+      "name": "MISAKA STYLE",
+      "storeid": "kanegasaki-6c63e5",
+      "shopid": "kanegasaki-6c63e5-paypay"
     },
     {
-      "name": "YAMATOMO. FUN"
+      "name": "YAMATOMO. FUN",
+      "storeid": "kanegasaki-5b6fee",
+      "shopid": "kanegasaki-5b6fee-paypay"
     },
     {
-      "name": "和風レストラン星萬"
+      "name": "金ヶ崎町産業開発公社",
+      "storeid": "kanegasaki-fe3cdc",
+      "shopid": "kanegasaki-fe3cdc-paypay"
     },
     {
-      "name": "金ヶ崎町産業開発公社"
+      "name": "佐藤工務店　SUGOSU-HITOTOKI+e",
+      "storeid": "kanegasaki-edb8af",
+      "shopid": "kanegasaki-edb8af-paypay"
     },
     {
-      "name": "SUGOSU HITOTOKI"
+      "name": "KSPデザインラボ",
+      "storeid": "kanegasaki-8b8571",
+      "shopid": "kanegasaki-8b8571-paypay"
     },
     {
-      "name": "佐藤工務店　SUGOSU-HITOTOKI+e"
+      "name": "Citronnier",
+      "storeid": "kanegasaki-c3e2df",
+      "shopid": "kanegasaki-c3e2df-paypay"
     },
     {
-      "name": "佐藤整骨院"
+      "name": "侍屋敷　大松沢家",
+      "storeid": "kanegasaki-4314f7",
+      "shopid": "kanegasaki-4314f7-paypay"
     },
     {
-      "name": "KSPデザインラボ"
+      "name": "東洋リラクゼーションコスモス",
+      "storeid": "kanegasaki-7e8252",
+      "shopid": "kanegasaki-7e8252-paypay"
     },
     {
-      "name": "Citronnier"
+      "name": "及川輪店",
+      "storeid": "kanegasaki-597c6b",
+      "shopid": "kanegasaki-597c6b-paypay"
     },
     {
-      "name": "侍屋敷　大松沢家"
+      "name": "サンメディカル金ヶ崎フィッティングセンター",
+      "storeid": "kanegasaki-53f068",
+      "shopid": "kanegasaki-53f068-paypay"
     },
     {
-      "name": "東洋リラクゼーションコスモス"
+      "name": "CHIBACOFFEE",
+      "storeid": "kanegasaki-f53f3f",
+      "shopid": "kanegasaki-f53f3f-paypay"
     },
     {
-      "name": "及川輪店"
+      "name": "正時堂ピアノ壱番館",
+      "storeid": "kanegasaki-40fdb2",
+      "shopid": "kanegasaki-40fdb2-paypay"
     },
     {
-      "name": "サンメディカル金ヶ崎フィッティングセンター"
+      "name": "スナックナイト",
+      "storeid": "kanegasaki-770a8c",
+      "shopid": "kanegasaki-770a8c-paypay"
     },
     {
-      "name": "CHIBACOFFEE"
+      "name": "カーリペアショップ＆ローコストカー",
+      "storeid": "kanegasaki-f0d540",
+      "shopid": "kanegasaki-f0d540-paypay"
     },
     {
-      "name": "正時堂ピアノ壱番館"
+      "name": "T-SELECT",
+      "storeid": "kanegasaki-e732ff",
+      "shopid": "kanegasaki-e732ff-paypay"
     },
     {
-      "name": "スナックナイト"
+      "name": "真柴商会",
+      "storeid": "kanegasaki-b3efef",
+      "shopid": "kanegasaki-b3efef-paypay"
     },
     {
-      "name": "カーリペアショップ＆ローコストカー"
+      "name": "金ヶ崎印刷",
+      "storeid": "kanegasaki-be6c3f",
+      "shopid": "kanegasaki-be6c3f-paypay"
     },
     {
-      "name": "T-SELECT"
+      "name": "ブティックカルドロ",
+      "storeid": "kanegasaki-ac9f64",
+      "shopid": "kanegasaki-ac9f64-paypay"
     },
     {
-      "name": "東洋リラクゼーションコスモス"
+      "name": "アイテックジャパン",
+      "storeid": "kanegasaki-7de2ee",
+      "shopid": "kanegasaki-7de2ee-paypay"
     },
     {
-      "name": "真柴商会"
+      "name": "共和商事",
+      "storeid": "kanegasaki-44de8d",
+      "shopid": "kanegasaki-44de8d-paypay"
     },
     {
-      "name": "金ヶ崎印刷"
+      "name": "六原　本社",
+      "storeid": "kanegasaki-411675",
+      "shopid": "kanegasaki-411675-paypay"
     },
     {
-      "name": "ブティックカルドロ"
+      "name": "後藤ラジオ",
+      "storeid": "kanegasaki-dec6e3",
+      "shopid": "kanegasaki-dec6e3-paypay"
     },
     {
-      "name": "アイテックジャパン"
+      "name": "小山田オートサービス",
+      "storeid": "kanegasaki-dc4bf2",
+      "shopid": "kanegasaki-dc4bf2-paypay"
     },
     {
-      "name": "共和商事"
-    },
-    {
-      "name": "六原　本社"
-    },
-    {
-      "name": "後藤ラジオ"
-    },
-    {
-      "name": "小山田オートサービス"
-    },
-    {
-      "name": "あけぼの理容本店"
-    },
-    {
-      "name": "アレス"
+      "name": "あけぼの理容本店",
+      "storeid": "kanegasaki-e3ece2",
+      "shopid": "kanegasaki-e3ece2-paypay"
     }
   ]
 }

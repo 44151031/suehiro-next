@@ -1,186 +1,293 @@
 {
   "くらし・趣味": [
     {
-      "name": "\t株式会社JAエコパル 鴨池SS"
+      "name": "\t株式会社JAエコパル 鴨池SS",
+      "storeid": "kamoike-d86511",
+      "shopid": "kamoike-d86511-aupay"
     },
     {
-      "name": "SAKODAホームファニシングス与次郎店"
+      "name": "SAKODAホームファニシングス与次郎店",
+      "storeid": "kamoike-8b4904",
+      "shopid": "kamoike-8b4904-aupay"
     },
     {
-      "name": "トレーニングスタジオCALIDAD-カリダ-"
+      "name": "トレーニングスタジオCALIDAD-カリダ-",
+      "storeid": "kamoike-446905",
+      "shopid": "kamoike-446905-aupay"
     },
     {
-      "name": "ドローンショップ DDH.JP"
+      "name": "ドローンショップ DDH.JP",
+      "storeid": "kamoike-8682e9",
+      "shopid": "kamoike-8682e9-aupay"
     },
     {
-      "name": "パソコン教室 スローステップ"
+      "name": "パソコン教室 スローステップ",
+      "storeid": "kamoike-8391b1",
+      "shopid": "kamoike-8391b1-aupay"
     },
     {
-      "name": "フラワーショップはなさき"
+      "name": "フラワーショップはなさき",
+      "storeid": "kamoike-5f6b88",
+      "shopid": "kamoike-5f6b88-aupay"
     },
     {
-      "name": "フラワーショップはなさき"
+      "name": "メガネのヨネザワ ニシムタスカイマーケット鴨池店",
+      "storeid": "kamoike-e08c8b",
+      "shopid": "kamoike-e08c8b-aupay"
     },
     {
-      "name": "メガネのヨネザワ ニシムタスカイマーケット鴨池店"
+      "name": "メガネのヨネザワ フレスポ与次郎店",
+      "storeid": "kamoike-277ec3",
+      "shopid": "kamoike-277ec3-aupay"
     },
     {
-      "name": "メガネのヨネザワ フレスポ与次郎店"
-    },
-    {
-      "name": "ライドオートサービス"
+      "name": "ライドオートサービス",
+      "storeid": "kamoike-7c3b4c",
+      "shopid": "kamoike-7c3b4c-aupay"
     }
   ],
   "スタジアム": [
     {
-      "name": "鹿児島ユナイテッドFC グッズ販売"
+      "name": "鹿児島ユナイテッドFC グッズ販売",
+      "storeid": "kamoike-209cf8",
+      "shopid": "kamoike-209cf8-aupay"
     },
     {
-      "name": "キッチン島田屋"
+      "name": "キッチン島田屋",
+      "storeid": "kamoike-c2cbba",
+      "shopid": "kamoike-c2cbba-aupay"
     }
   ],
   "ファッション": [
     {
-      "name": "\t靴の尚美堂 ニシムタ鴨池店"
+      "name": "\t靴の尚美堂 ニシムタ鴨池店",
+      "storeid": "kamoike-da1d73",
+      "shopid": "kamoike-da1d73-aupay"
     },
     {
-      "name": "洋服の青山 フレスポジャングルパーク店"
+      "name": "洋服の青山 フレスポジャングルパーク店",
+      "storeid": "kamoike-e5b853",
+      "shopid": "kamoike-e5b853-aupay"
     }
   ],
   "整体・整骨": [
     {
-      "name": "温活サロン ココロサク"
+      "name": "温活サロン ココロサク",
+      "storeid": "kamoike-ea254d",
+      "shopid": "kamoike-ea254d-aupay"
     },
     {
-      "name": "しみず鍼灸院レジリエンス"
+      "name": "しみず鍼灸院レジリエンス",
+      "storeid": "kamoike-e068da",
+      "shopid": "kamoike-e068da-aupay"
     },
     {
-      "name": "鍼灸院 はりー"
+      "name": "鍼灸院 はりー",
+      "storeid": "kamoike-ef3bd8",
+      "shopid": "kamoike-ef3bd8-aupay"
     },
     {
-      "name": "ハートランド接骨院"
+      "name": "ハートランド接骨院",
+      "storeid": "kamoike-2ce709",
+      "shopid": "kamoike-2ce709-aupay"
     }
   ],
   "理美容": [
     {
-      "name": "FIX serein"
+      "name": "FIX serein",
+      "storeid": "kamoike-5ee56c",
+      "shopid": "kamoike-5ee56c-aupay"
     },
     {
-      "name": "ヘアーサロン リュウ"
+      "name": "ヘアーサロン リュウ",
+      "storeid": "kamoike-3e37a1",
+      "shopid": "kamoike-3e37a1-aupay"
     },
     {
-      "name": "ベレーザメドコ・ヘアーサロンメドコ"
+      "name": "ベレーザメドコ・ヘアーサロンメドコ",
+      "storeid": "kamoike-d67624",
+      "shopid": "kamoike-d67624-aupay"
     },
     {
-      "name": "理容室 ピース"
+      "name": "理容室 ピース",
+      "storeid": "kamoike-d8a3c2",
+      "shopid": "kamoike-d8a3c2-aupay"
     }
   ],
   "薬局・病院": [
     {
-      "name": "康心鴨池薬局"
+      "name": "康心鴨池薬局",
+      "storeid": "kamoike-eab1f3",
+      "shopid": "kamoike-eab1f3-aupay"
     },
     {
-      "name": "七福さくら薬局"
+      "name": "七福さくら薬局",
+      "storeid": "kamoike-1d57ba",
+      "shopid": "kamoike-1d57ba-aupay"
     },
     {
-      "name": "マルノ薬局 鴨池店"
+      "name": "マルノ薬局 鴨池店",
+      "storeid": "kamoike-e8d9ec",
+      "shopid": "kamoike-e8d9ec-aupay"
     },
     {
-      "name": "南日本薬剤センター薬局 鴨池新町店"
+      "name": "南日本薬剤センター薬局 鴨池新町店",
+      "storeid": "kamoike-535755",
+      "shopid": "kamoike-535755-aupay"
     }
   ],
   "食品・日用品": [
     {
-      "name": "明石屋 鴨池店"
+      "name": "明石屋 鴨池店",
+      "storeid": "kamoike-4d68c0",
+      "shopid": "kamoike-4d68c0-aupay"
     },
     {
-      "name": "石塚米店"
+      "name": "石塚米店",
+      "storeid": "kamoike-e097cb",
+      "shopid": "kamoike-e097cb-aupay"
     },
     {
-      "name": "一番堂ハンヤ 南栄店"
+      "name": "一番堂ハンヤ 南栄店",
+      "storeid": "kamoike-46aed8",
+      "shopid": "kamoike-46aed8-aupay"
     },
     {
-      "name": "一番堂ハンヤ 真砂本店"
+      "name": "一番堂ハンヤ 真砂本店",
+      "storeid": "kamoike-951df4",
+      "shopid": "kamoike-951df4-aupay"
     },
     {
-      "name": "おいどん市場 与次郎館"
+      "name": "おいどん市場 与次郎館",
+      "storeid": "kamoike-6d03ca",
+      "shopid": "kamoike-6d03ca-aupay"
     },
     {
-      "name": "\t鹿児島県職員生協 本庁店"
+      "name": "\t鹿児島県職員生協 本庁店",
+      "storeid": "kamoike-653f51",
+      "shopid": "kamoike-653f51-aupay"
     },
     {
-      "name": "薩摩蒸気屋 鴨池店"
+      "name": "薩摩蒸気屋 鴨池店",
+      "storeid": "kamoike-da0465",
+      "shopid": "kamoike-da0465-aupay"
     },
     {
-      "name": "スカイマーケットニシムタ 鴨池店"
+      "name": "スカイマーケットニシムタ 鴨池店",
+      "storeid": "kamoike-58fe58",
+      "shopid": "kamoike-58fe58-aupay"
     },
     {
-      "name": "\tダイレックス アクロスプラザ与次郎店"
+      "name": "\tダイレックス アクロスプラザ与次郎店",
+      "storeid": "kamoike-9df4cb",
+      "shopid": "kamoike-9df4cb-aupay"
     },
     {
-      "name": "\t釣り具のポイント 鹿児島与次郎店"
+      "name": "\t釣り具のポイント 鹿児島与次郎店",
+      "storeid": "kamoike-c7cbf6",
+      "shopid": "kamoike-c7cbf6-aupay"
     },
     {
-      "name": "\t南海電器"
+      "name": "\t南海電器",
+      "storeid": "kamoike-c53ac6",
+      "shopid": "kamoike-c53ac6-aupay"
     },
     {
-      "name": "ニシムタ 与次郎店"
+      "name": "ニシムタ 与次郎店",
+      "storeid": "kamoike-2dbb9c",
+      "shopid": "kamoike-2dbb9c-aupay"
     },
     {
-      "name": "\t(有)印章堂"
+      "name": "\t(有)印章堂",
+      "storeid": "kamoike-ea61cd",
+      "shopid": "kamoike-ea61cd-aupay"
     },
     {
-      "name": "au Style アクロスプラザ与次郎"
+      "name": "au Style アクロスプラザ与次郎",
+      "storeid": "kamoike-3cb7be",
+      "shopid": "kamoike-3cb7be-aupay"
     }
   ],
   "飲食店": [
     {
-      "name": "AJITO"
+      "name": "AJITO",
+      "storeid": "kamoike-475b5c",
+      "shopid": "kamoike-475b5c-aupay"
     },
     {
-      "name": "味処 白雲"
+      "name": "味処 白雲",
+      "storeid": "kamoike-74a90f",
+      "shopid": "kamoike-74a90f-aupay"
     },
     {
-      "name": "伊太利亜 県庁前"
+      "name": "伊太利亜 県庁前",
+      "storeid": "kamoike-f61c08",
+      "shopid": "kamoike-f61c08-aupay"
     },
     {
-      "name": "鴨池すし源"
+      "name": "鴨池すし源",
+      "storeid": "kamoike-551755",
+      "shopid": "kamoike-551755-aupay"
     },
     {
-      "name": "こめやさかなや"
+      "name": "こめやさかなや",
+      "storeid": "kamoike-92d511",
+      "shopid": "kamoike-92d511-aupay"
     },
     {
-      "name": "笹寿司 やまを"
+      "name": "笹寿司 やまを",
+      "storeid": "kamoike-f9524d",
+      "shopid": "kamoike-f9524d-aupay"
     },
     {
-      "name": "寿司孝"
+      "name": "寿司孝",
+      "storeid": "kamoike-4f3490",
+      "shopid": "kamoike-4f3490-aupay"
     },
     {
-      "name": "\t寿司処 まるしん"
+      "name": "\t寿司処 まるしん",
+      "storeid": "kamoike-6fc7b0",
+      "shopid": "kamoike-6fc7b0-aupay"
     },
     {
-      "name": "炭火焼肉 カフカ"
+      "name": "炭火焼肉 カフカ",
+      "storeid": "kamoike-ed858e",
+      "shopid": "kamoike-ed858e-aupay"
     },
     {
-      "name": "\tダイニング居酒屋 RyuO"
+      "name": "\tダイニング居酒屋 RyuO",
+      "storeid": "kamoike-88b5de",
+      "shopid": "kamoike-88b5de-aupay"
     },
     {
-      "name": "\tはるまんま"
+      "name": "\tはるまんま",
+      "storeid": "kamoike-eef964",
+      "shopid": "kamoike-eef964-aupay"
     },
     {
-      "name": "ファミリアーレキッチン"
+      "name": "ファミリアーレキッチン",
+      "storeid": "kamoike-2aae0d",
+      "shopid": "kamoike-2aae0d-aupay"
     },
     {
-      "name": "\tふぁみり庵はいから亭 与次郎本店"
+      "name": "\tふぁみり庵はいから亭 与次郎本店",
+      "storeid": "kamoike-8fb35b",
+      "shopid": "kamoike-8fb35b-aupay"
     },
     {
-      "name": "\t本格炭火 あじとり"
+      "name": "\t本格炭火 あじとり",
+      "storeid": "kamoike-070e6f",
+      "shopid": "kamoike-070e6f-aupay"
     },
     {
-      "name": "本気串 たろう"
+      "name": "本気串 たろう",
+      "storeid": "kamoike-e1c1d5",
+      "shopid": "kamoike-e1c1d5-aupay"
     },
     {
-      "name": "焼鳥居酒屋 颯花"
+      "name": "焼鳥居酒屋 颯花",
+      "storeid": "kamoike-3cd347",
+      "shopid": "kamoike-3cd347-aupay"
     }
   ]
 }

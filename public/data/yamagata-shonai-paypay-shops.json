@@ -2,783 +2,1145 @@
   "DPE・印刷・コピー": [
     {
       "name": "リヒトカメラ",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-bcf1d3",
+      "shopid": "shonai-bcf1d3-paypay"
     }
   ],
   "エステティックサロン": [
     {
       "name": "art    aoi",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-f2d4bb",
+      "shopid": "shonai-f2d4bb-paypay"
     },
     {
       "name": "AlluRe.",
-      "address": "狩川"
+      "address": "狩川",
+      "storeid": "shonai-b54b14",
+      "shopid": "shonai-b54b14-paypay"
     }
   ],
   "その他": [
     {
       "name": "釣り船 黒ひげ",
-      "address": "狩川"
+      "address": "狩川",
+      "storeid": "shonai-a69fbb",
+      "shopid": "shonai-a69fbb-paypay"
     },
     {
       "name": "リラクゼーションfamille",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-a740d9",
+      "shopid": "shonai-a740d9-paypay"
     },
     {
       "name": "みしまフォトスタジオ",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-7f8cb9",
+      "shopid": "shonai-7f8cb9-paypay"
     },
     {
       "name": "ほぐしの名人 余目店",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-97815d",
+      "shopid": "shonai-97815d-paypay"
     },
     {
       "name": "ダンス&整体サロン io",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-a85073",
+      "shopid": "shonai-a85073-paypay"
     },
     {
       "name": "カラオケプラザ    ハーティ",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-5195f3",
+      "shopid": "shonai-5195f3-paypay"
     },
     {
       "name": "カイロサロンまみよん",
-      "address": "廿六木"
+      "address": "廿六木",
+      "storeid": "shonai-e6d3b4",
+      "shopid": "shonai-e6d3b4-paypay"
     },
     {
       "name": "SpaTirta",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-fa16ab",
+      "shopid": "shonai-fa16ab-paypay"
     },
     {
       "name": "mahalo",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-da5c28",
+      "shopid": "shonai-da5c28-paypay"
     },
     {
       "name": "Lapis Rose",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-45f30f",
+      "shopid": "shonai-45f30f-paypay"
     },
     {
       "name": "中屋のこぎり店",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-a6619a",
+      "shopid": "shonai-a6619a-paypay"
     },
     {
       "name": "総合食品もり",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-0b1615",
+      "shopid": "shonai-0b1615-paypay"
     },
     {
       "name": "成澤養魚場",
-      "address": "西袋"
+      "address": "西袋",
+      "storeid": "shonai-a21582",
+      "shopid": "shonai-a21582-paypay"
     },
     {
       "name": "上野屋書店",
-      "address": "狩川"
+      "address": "狩川",
+      "storeid": "shonai-abcda1",
+      "shopid": "shonai-abcda1-paypay"
     },
     {
       "name": "焼肉もりもり",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-f9f274",
+      "shopid": "shonai-f9f274-paypay"
     },
     {
       "name": "佐藤ガス工事",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-bcb373",
+      "shopid": "shonai-bcb373-paypay"
     },
     {
       "name": "佐々木水道",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-c9b48e",
+      "shopid": "shonai-c9b48e-paypay"
     },
     {
       "name": "合同会社五十嵐ファーム",
-      "address": "島田"
+      "address": "島田",
+      "storeid": "shonai-b2bc57",
+      "shopid": "shonai-b2bc57-paypay"
     },
     {
       "name": "岡本?光堂",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-3fcb5c",
+      "shopid": "shonai-3fcb5c-paypay"
     },
     {
       "name": "安藤組",
-      "address": "提興屋"
+      "address": "提興屋",
+      "storeid": "shonai-8e0c49",
+      "shopid": "shonai-8e0c49-paypay"
     },
     {
       "name": "オランダせんべいFACTORY 無人販売所",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-56af1f",
+      "shopid": "shonai-56af1f-paypay"
     },
     {
       "name": "JAあまるめ 農業機械サービスセンター",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-d35119",
+      "shopid": "shonai-d35119-paypay"
     },
     {
       "name": "JAあまるめ 自動車サービスセンター",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-562401",
+      "shopid": "shonai-562401-paypay"
     },
     {
       "name": "JAあまるめ 資材館",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-2a9b95",
+      "shopid": "shonai-2a9b95-paypay"
     },
     {
       "name": "JAあまるめ JASS ユーロードあまるめ",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-02252a",
+      "shopid": "shonai-02252a-paypay"
     }
   ],
   "ハウスクリーニング（衣服洗濯業以外）": [
     {
       "name": "ママ.クリーニング小野寺よ 松陽",
-      "address": "松陽"
+      "address": "松陽",
+      "storeid": "shonai-f9571e",
+      "shopid": "shonai-f9571e-paypay"
     },
     {
       "name": "クリーンハウス",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-b4a3cb",
+      "shopid": "shonai-b4a3cb-paypay"
     },
     {
       "name": "うさちゃんクリーニング ヤマザワ余目店",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-3c50c4",
+      "shopid": "shonai-3c50c4-paypay"
     },
     {
       "name": "うさちゃんクリーニング マックスバリュ余目店",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-2caa65",
+      "shopid": "shonai-2caa65-paypay"
     }
   ],
   "ホテル・旅館・レジャー・浴場": [
     {
       "name": "旅館    平成館",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-2785a6",
+      "shopid": "shonai-2785a6-paypay"
     },
     {
       "name": "庄内町ギャラリー温泉 町湯",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-b5c4a5",
+      "shopid": "shonai-b5c4a5-paypay"
     }
   ],
   "学習塾・語学教室・パソコン教室・カルチャースクール": [
     {
       "name": "功ソシアルダンスカンパニー",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-bf1d7e",
+      "shopid": "shonai-bf1d7e-paypay"
     }
   ],
   "自動車整備・各種修理": [
     {
       "name": "余目自動車工業",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-a0b23b",
+      "shopid": "shonai-a0b23b-paypay"
     },
     {
       "name": "目黒商会",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-fe3c26",
+      "shopid": "shonai-fe3c26-paypay"
     },
     {
       "name": "関東自動車興業",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-4c4add",
+      "shopid": "shonai-4c4add-paypay"
     },
     {
       "name": "安藤整備工業",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-e5c61c",
+      "shopid": "shonai-e5c61c-paypay"
     },
     {
       "name": "わかば自動車",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-eece85",
+      "shopid": "shonai-eece85-paypay"
     },
     {
       "name": "スズキカーライフ余目",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-9ab3c9",
+      "shopid": "shonai-9ab3c9-paypay"
     },
     {
       "name": "スズキアリーナオオヤ 立川店",
-      "address": "狩川"
+      "address": "狩川",
+      "storeid": "shonai-9ba8b6",
+      "shopid": "shonai-9ba8b6-paypay"
     },
     {
       "name": "オートパル庄内町",
-      "address": "廻館"
+      "address": "廻館",
+      "storeid": "shonai-88bcb6",
+      "shopid": "shonai-88bcb6-paypay"
     },
     {
       "name": "オオタサービス",
-      "address": "桑田"
+      "address": "桑田",
+      "storeid": "shonai-37f2a4",
+      "shopid": "shonai-37f2a4-paypay"
     },
     {
       "name": "エス・キャリー",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-7e8c92",
+      "shopid": "shonai-7e8c92-paypay"
     },
     {
       "name": "CUSTOMSHOP Project",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-6f944b",
+      "shopid": "shonai-6f944b-paypay"
     },
     {
       "name": "BRS．be－STYLE",
-      "address": "家根合"
+      "address": "家根合",
+      "storeid": "shonai-58cc87",
+      "shopid": "shonai-58cc87-paypay"
     },
     {
       "name": "(有)伊藤自動車工業",
-      "address": "跡"
+      "address": "跡",
+      "storeid": "shonai-8b48f9",
+      "shopid": "shonai-8b48f9-paypay"
     }
   ],
   "住宅建設・リフォーム": [
     {
       "name": "今井建築",
-      "address": "清川"
+      "address": "清川",
+      "storeid": "shonai-0dec2a",
+      "shopid": "shonai-0dec2a-paypay"
     },
     {
       "name": "みちひろ建築",
-      "address": "宮曽根"
+      "address": "宮曽根",
+      "storeid": "shonai-5dff35",
+      "shopid": "shonai-5dff35-paypay"
     },
     {
       "name": "サイキ電設",
-      "address": "松陽"
+      "address": "松陽",
+      "storeid": "shonai-35b07a",
+      "shopid": "shonai-35b07a-paypay"
     }
   ],
   "電話・通信・ISP・テレビ・新聞": [
     {
       "name": "有限会社リンク（しろくまベンディング）",
-      "address": "狩川"
+      "address": "狩川",
+      "storeid": "shonai-39a07f",
+      "shopid": "shonai-39a07f-paypay"
     }
   ],
   "美容業": [
     {
       "name": "理容こばやし",
-      "address": "狩川"
+      "address": "狩川",
+      "storeid": "shonai-958860",
+      "shopid": "shonai-958860-paypay"
     },
     {
       "name": "美容室    セピア",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-c49a30",
+      "shopid": "shonai-c49a30-paypay"
     },
     {
       "name": "美容室 さあど",
-      "address": "狩川"
+      "address": "狩川",
+      "storeid": "shonai-3fe4e6",
+      "shopid": "shonai-3fe4e6-paypay"
     },
     {
       "name": "美容室    gajumaru",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-103a52",
+      "shopid": "shonai-103a52-paypay"
     },
     {
       "name": "美容室    Four Seasons",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-299004",
+      "shopid": "shonai-299004-paypay"
     },
     {
       "name": "昭美館",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-e0ccc3",
+      "shopid": "shonai-e0ccc3-paypay"
     },
     {
       "name": "ヘアルームオリーブ",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-3b163c",
+      "shopid": "shonai-3b163c-paypay"
     },
     {
       "name": "ヘアスタジオ・アート",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-40839f",
+      "shopid": "shonai-40839f-paypay"
     },
     {
       "name": "ヘアサロンストーブ",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-8a4793",
+      "shopid": "shonai-8a4793-paypay"
     },
     {
       "name": "ヘアガレージ エムズ",
-      "address": "松陽"
+      "address": "松陽",
+      "storeid": "shonai-7a850d",
+      "shopid": "shonai-7a850d-paypay"
     },
     {
       "name": "ヘアーステージWin",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-22c31b",
+      "shopid": "shonai-22c31b-paypay"
     },
     {
       "name": "ヘアーサロンクローバー",
-      "address": "南野"
+      "address": "南野",
+      "storeid": "shonai-ac9806",
+      "shopid": "shonai-ac9806-paypay"
     },
     {
       "name": "ヘアーサロン スガイ",
-      "address": "千河原"
+      "address": "千河原",
+      "storeid": "shonai-411a1c",
+      "shopid": "shonai-411a1c-paypay"
     },
     {
       "name": "ヘアーサロン さとう",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-a00a81",
+      "shopid": "shonai-a00a81-paypay"
     },
     {
       "name": "ヘアーサロン    サーティ30",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-7e0a79",
+      "shopid": "shonai-7e0a79-paypay"
     },
     {
       "name": "ぱーまハウスくれよん",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-d7056d",
+      "shopid": "shonai-d7056d-paypay"
     },
     {
       "name": "チャーム美容室",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-0ae8a8",
+      "shopid": "shonai-0ae8a8-paypay"
     },
     {
       "name": "くどう理容",
-      "address": "古関"
+      "address": "古関",
+      "storeid": "shonai-bfed9f",
+      "shopid": "shonai-bfed9f-paypay"
     },
     {
       "name": "カットハウス ひまわり",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-1126eb",
+      "shopid": "shonai-1126eb-paypay"
     },
     {
       "name": "かっとはうす くあると",
-      "address": "狩川"
+      "address": "狩川",
+      "storeid": "shonai-cc81c9",
+      "shopid": "shonai-cc81c9-paypay"
     },
     {
       "name": "nino美容室",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-14eff0",
+      "shopid": "shonai-14eff0-paypay"
     },
     {
       "name": "Lopolis2",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-678ef2",
+      "shopid": "shonai-678ef2-paypay"
     },
     {
       "name": "Lopolis",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-a727b7",
+      "shopid": "shonai-a727b7-paypay"
     },
     {
       "name": "LiLi family hair",
-      "address": "廿六木"
+      "address": "廿六木",
+      "storeid": "shonai-76a051",
+      "shopid": "shonai-76a051-paypay"
     },
     {
       "name": "leikkimokkisopo",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-58c515",
+      "shopid": "shonai-58c515-paypay"
     },
     {
       "name": "fix.Hair Studio",
-      "address": "狩川"
+      "address": "狩川",
+      "storeid": "shonai-76b172",
+      "shopid": "shonai-76b172-paypay"
     },
     {
       "name": "BAR BER いしづか",
-      "address": "清川"
+      "address": "清川",
+      "storeid": "shonai-9391da",
+      "shopid": "shonai-9391da-paypay"
     },
     {
       "name": "Arte Hair&Make",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-11ab74",
+      "shopid": "shonai-11ab74-paypay"
     },
     {
       "name": "2cut'kei",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-5cfa51",
+      "shopid": "shonai-5cfa51-paypay"
     }
   ],
   "旅行代理店・旅行業": [
     {
       "name": "日本海トラベル",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-6eafcb",
+      "shopid": "shonai-6eafcb-paypay"
     }
   ],
   "施術所（鍼灸院、治療院、接骨院・整骨院）": [
     {
       "name": "かえる治療院",
-      "address": "狩川"
+      "address": "狩川",
+      "storeid": "shonai-dad057",
+      "shopid": "shonai-dad057-paypay"
     },
     {
       "name": "ShinWa鍼灸院",
-      "address": "常万"
+      "address": "常万",
+      "storeid": "shonai-2a83d9",
+      "shopid": "shonai-2a83d9-paypay"
     }
   ],
   "飲食店・喫茶店": [
     {
       "name": "梛の木カフェ",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-e0e9bd",
+      "shopid": "shonai-e0e9bd-paypay"
     },
     {
       "name": "来夢来人",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-b7e39e",
+      "shopid": "shonai-b7e39e-paypay"
     },
     {
       "name": "麺厨房    煌麺",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-e21c7c",
+      "shopid": "shonai-e21c7c-paypay"
     },
     {
       "name": "麺工房    香味屋",
-      "address": "廿六木"
+      "address": "廿六木",
+      "storeid": "shonai-e12f94",
+      "shopid": "shonai-e12f94-paypay"
     },
     {
       "name": "南部屋    久三郎",
-      "address": "添津"
+      "address": "添津",
+      "storeid": "shonai-07c22c",
+      "shopid": "shonai-07c22c-paypay"
     },
     {
       "name": "台湾料理    一番亭",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-bdb116",
+      "shopid": "shonai-bdb116-paypay"
     },
     {
       "name": "川村食堂",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-cc9f44",
+      "shopid": "shonai-cc9f44-paypay"
     },
     {
       "name": "焼そば専門店テンテン",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-ab03ea",
+      "shopid": "shonai-ab03ea-paypay"
     },
     {
       "name": "御殿茶屋",
-      "address": "清川"
+      "address": "清川",
+      "storeid": "shonai-626fe6",
+      "shopid": "shonai-626fe6-paypay"
     },
     {
       "name": "依田?",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-58a644",
+      "shopid": "shonai-58a644-paypay"
     },
     {
       "name": "ロザーナ",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-d7dfab",
+      "shopid": "shonai-d7dfab-paypay"
     },
     {
       "name": "ゆみりあ",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-d813b9",
+      "shopid": "shonai-d813b9-paypay"
     },
     {
       "name": "やきとり一平",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-988357",
+      "shopid": "shonai-988357-paypay"
     },
     {
       "name": "やきとり    一久",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-29c89e",
+      "shopid": "shonai-29c89e-paypay"
     },
     {
       "name": "ホルモン・焼肉居酒屋まるしん。",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-82b2f9",
+      "shopid": "shonai-82b2f9-paypay"
     },
     {
       "name": "パストラール",
-      "address": "廻館"
+      "address": "廻館",
+      "storeid": "shonai-ed9a2c",
+      "shopid": "shonai-ed9a2c-paypay"
     },
     {
       "name": "スナック純娘",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-9d8028",
+      "shopid": "shonai-9d8028-paypay"
     },
     {
       "name": "スナック    ロイヤル",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-01731b",
+      "shopid": "shonai-01731b-paypay"
     },
     {
       "name": "すし海道    余目店",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-793d12",
+      "shopid": "shonai-793d12-paypay"
     },
     {
       "name": "カフェ余目製パン",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-49bba6",
+      "shopid": "shonai-49bba6-paypay"
     },
     {
       "name": "かなめ食堂",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-9e5ad4",
+      "shopid": "shonai-9e5ad4-paypay"
     },
     {
       "name": "あじ彩",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-b0c0fa",
+      "shopid": "shonai-b0c0fa-paypay"
     },
     {
       "name": "Snack CoCo",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-71263b",
+      "shopid": "shonai-71263b-paypay"
     },
     {
       "name": "K-Dining",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-fdfd7a",
+      "shopid": "shonai-fdfd7a-paypay"
     },
     {
       "name": "FELICITA＋",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-b6c920",
+      "shopid": "shonai-b6c920-paypay"
     },
     {
       "name": "Brillano～ブリラーノ～",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-883061",
+      "shopid": "shonai-883061-paypay"
     }
   ],
   "居酒屋・パブ・バー": [
     {
       "name": "大衆ダイニングゆうすけ",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-3917a0",
+      "shopid": "shonai-3917a0-paypay"
     },
     {
       "name": "爽味旬風    和心",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-a18f72",
+      "shopid": "shonai-a18f72-paypay"
     },
     {
       "name": "庄内発酵堂",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-dbf61f",
+      "shopid": "shonai-dbf61f-paypay"
     },
     {
       "name": "酒友快処 うたげ家",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-cbb362",
+      "shopid": "shonai-cbb362-paypay"
     },
     {
       "name": "居酒屋しょうじ",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-0ba1e2",
+      "shopid": "shonai-0ba1e2-paypay"
     },
     {
       "name": "稲村",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-9b35b6",
+      "shopid": "shonai-9b35b6-paypay"
     },
     {
       "name": "レストラン香林塔",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-0f6242",
+      "shopid": "shonai-0f6242-paypay"
     },
     {
       "name": "Red Saloon～レッド・サルーン～",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-479799",
+      "shopid": "shonai-479799-paypay"
     }
   ],
   "ガソリンスタンド": [
     {
       "name": "泉屋商店 本店",
-      "address": "狩川"
+      "address": "狩川",
+      "storeid": "shonai-e3aee5",
+      "shopid": "shonai-e3aee5-paypay"
     },
     {
       "name": "泉屋商店 SS",
-      "address": "狩川"
+      "address": "狩川",
+      "storeid": "shonai-d4b0f9",
+      "shopid": "shonai-d4b0f9-paypay"
     },
     {
       "name": "ENEOS 寿商会 余目西SS",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-d3ef75",
+      "shopid": "shonai-d3ef75-paypay"
     }
   ],
   "衣服・靴・服飾品・カバン・バッグ": [
     {
       "name": "宮川衣料",
-      "address": "京島"
+      "address": "京島",
+      "storeid": "shonai-96fcd7",
+      "shopid": "shonai-96fcd7-paypay"
     },
     {
       "name": "株式会社みかわ屋",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-e9564d",
+      "shopid": "shonai-e9564d-paypay"
     },
     {
       "name": "阿部はきもの店",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-54ca67",
+      "shopid": "shonai-54ca67-paypay"
     },
     {
       "name": "プライドテーラー秋葉",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-8d96cd",
+      "shopid": "shonai-8d96cd-paypay"
     },
     {
       "name": "だいこくや",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-b91fb0",
+      "shopid": "shonai-b91fb0-paypay"
     },
     {
       "name": "かどや洋品店",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-e6cab3",
+      "shopid": "shonai-e6cab3-paypay"
     },
     {
       "name": "おしゃれな洋品    アテネ",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-afd7d9",
+      "shopid": "shonai-afd7d9-paypay"
     }
   ],
   "医薬品・化粧品・ドラッグストア": [
     {
       "name": "ビューティーショップ    ハラダ",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-661fbb",
+      "shopid": "shonai-661fbb-paypay"
     },
     {
       "name": "セナミヤ糸店",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-0f9cb7",
+      "shopid": "shonai-0f9cb7-paypay"
     },
     {
       "name": "あおやまびじん庄内余目店",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-329654",
+      "shopid": "shonai-329654-paypay"
     },
     {
       "name": "CP華    サロンLUANA",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-0b3750",
+      "shopid": "shonai-0b3750-paypay"
     }
   ],
   "家電・家具・寝具・キッチン用品": [
     {
       "name": "日本海家具センター",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-43f88e",
+      "shopid": "shonai-43f88e-paypay"
     },
     {
       "name": "大滝電器",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-44a71b",
+      "shopid": "shonai-44a71b-paypay"
     },
     {
       "name": "清野デンキ",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-8c68e2",
+      "shopid": "shonai-8c68e2-paypay"
     },
     {
       "name": "フィズミック",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-140487",
+      "shopid": "shonai-140487-paypay"
     },
     {
       "name": "でんきの専門パートナー    でんちや",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-d61778",
+      "shopid": "shonai-d61778-paypay"
     }
   ],
   "花・植木・農耕具・ペット": [
     {
       "name": "成澤よしみ養魚場",
-      "address": "西袋"
+      "address": "西袋",
+      "storeid": "shonai-237419",
+      "shopid": "shonai-237419-paypay"
     },
     {
       "name": "三丁目生花店",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-2a9166",
+      "shopid": "shonai-2a9166-paypay"
     },
     {
       "name": "フラワー佐々木",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-d73d02",
+      "shopid": "shonai-d73d02-paypay"
     },
     {
       "name": "norra",
-      "address": "大真木"
+      "address": "大真木",
+      "storeid": "shonai-0a985f",
+      "shopid": "shonai-0a985f-paypay"
     }
   ],
   "時計・貴金属・メガネ・カメラ": [
     {
       "name": "天光堂時計店",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-09f8b8",
+      "shopid": "shonai-09f8b8-paypay"
     },
     {
       "name": "r23atelier88",
-      "address": "廿六木"
+      "address": "廿六木",
+      "storeid": "shonai-33d253",
+      "shopid": "shonai-33d253-paypay"
     }
   ],
   "酒類・リカーショップ": [
     {
       "name": "鯉川酒造",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-9285ea",
+      "shopid": "shonai-9285ea-paypay"
     },
     {
       "name": "後藤初太郎商店",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-16895a",
+      "shopid": "shonai-16895a-paypay"
     }
   ],
   "書籍・文具・楽器・スポーツ・自転車・おもちゃ・CD・DVD": [
     {
       "name": "斎藤?之助輪店",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-13ec55",
+      "shopid": "shonai-13ec55-paypay"
     },
     {
       "name": "ファミリーショップ甲子園",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-4a7db7",
+      "shopid": "shonai-4a7db7-paypay"
     },
     {
       "name": "BookCityとみや",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-ae09e7",
+      "shopid": "shonai-ae09e7-paypay"
     }
   ],
   "食品スーパー": [
     {
       "name": "新鮮館Ａコープたちかわ店",
-      "address": "狩川"
+      "address": "狩川",
+      "storeid": "shonai-5a70f6",
+      "shopid": "shonai-5a70f6-paypay"
     },
     {
       "name": "Aコープあまるめ    生活館",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-5fd7a3",
+      "shopid": "shonai-5fd7a3-paypay"
     }
   ],
   "食品販売店": [
     {
       "name": "道の駅しょうない    風車市場",
-      "address": "狩川"
+      "address": "狩川",
+      "storeid": "shonai-c77857",
+      "shopid": "shonai-c77857-paypay"
     },
     {
       "name": "川村米穀・餅店",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-870d01",
+      "shopid": "shonai-870d01-paypay"
     },
     {
       "name": "森のケーキ屋さん",
-      "address": "廿六木"
+      "address": "廿六木",
+      "storeid": "shonai-f28106",
+      "shopid": "shonai-f28106-paypay"
     },
     {
       "name": "障害者多機能型施設ひまわり園",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-8a363d",
+      "shopid": "shonai-8a363d-paypay"
     },
     {
       "name": "晶芯道",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-89f84f",
+      "shopid": "shonai-89f84f-paypay"
     },
     {
       "name": "主婦の店狩川店",
-      "address": "狩川"
+      "address": "狩川",
+      "storeid": "shonai-11aaaf",
+      "shopid": "shonai-11aaaf-paypay"
     },
     {
       "name": "佐藤米穀店",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-cef0c4",
+      "shopid": "shonai-cef0c4-paypay"
     },
     {
       "name": "佐藤畜産食品",
-      "address": "狩川"
+      "address": "狩川",
+      "storeid": "shonai-a15df3",
+      "shopid": "shonai-a15df3-paypay"
     },
     {
       "name": "兼古商店",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-111de1",
+      "shopid": "shonai-111de1-paypay"
     },
     {
       "name": "魚銀商店",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-fbf498",
+      "shopid": "shonai-fbf498-paypay"
     },
     {
       "name": "吉祥ファーム",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-c56390",
+      "shopid": "shonai-c56390-paypay"
     },
     {
       "name": "株式会社イグゼあまるめ",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-6ad472",
+      "shopid": "shonai-6ad472-paypay"
     },
     {
       "name": "角蔵珈琲",
-      "address": "狩川"
+      "address": "狩川",
+      "storeid": "shonai-566328",
+      "shopid": "shonai-566328-paypay"
     },
     {
       "name": "永成食品",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-f19416",
+      "shopid": "shonai-f19416-paypay"
     },
     {
       "name": "みずほ",
-      "address": "廿六木"
+      "address": "廿六木",
+      "storeid": "shonai-fc23a1",
+      "shopid": "shonai-fc23a1-paypay"
     },
     {
       "name": "はらぺこファーム",
-      "address": "連枝"
+      "address": "連枝",
+      "storeid": "shonai-a70d19",
+      "shopid": "shonai-a70d19-paypay"
     },
     {
       "name": "ハナブサ醤油",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-1254db",
+      "shopid": "shonai-1254db-paypay"
     },
     {
       "name": "はなくろや余目店",
-      "address": "久田"
+      "address": "久田",
+      "storeid": "shonai-48b745",
+      "shopid": "shonai-48b745-paypay"
     },
     {
       "name": "かほり惣菜",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-e0de52",
+      "shopid": "shonai-e0de52-paypay"
     },
     {
       "name": "うめかわ",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-8b7e7a",
+      "shopid": "shonai-8b7e7a-paypay"
     },
     {
       "name": "いで葉工望",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-89b1aa",
+      "shopid": "shonai-89b1aa-paypay"
     },
     {
       "name": "(有)原田米穀SS",
-      "address": "狩川"
+      "address": "狩川",
+      "storeid": "shonai-75e032",
+      "shopid": "shonai-75e032-paypay"
     }
   ],
   "製剤薬局": [
     {
       "name": "みしまや薬局",
-      "address": "清川"
+      "address": "清川",
+      "storeid": "shonai-7df375",
+      "shopid": "shonai-7df375-paypay"
     }
   ],
   "百貨店・GMS・ディスカウントストア・ホームセンター": [
     {
       "name": "ホームセンターチャンピオン 余目店",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-814886",
+      "shopid": "shonai-814886-paypay"
     },
     {
       "name": "武田商店",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-3b63fa",
+      "shopid": "shonai-3b63fa-paypay"
     }
   ],
   "ゴルフ場": [
     {
       "name": "庄内ゴルフ?楽部",
-      "address": "狩川"
+      "address": "狩川",
+      "storeid": "shonai-cdd58d",
+      "shopid": "shonai-cdd58d-paypay"
     }
   ],
   "タクシー": [
     {
       "name": "立川タクシー",
-      "address": "狩川"
+      "address": "狩川",
+      "storeid": "shonai-01aaea",
+      "shopid": "shonai-01aaea-paypay"
     },
     {
       "name": "余目タクシー",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-3424c4",
+      "shopid": "shonai-3424c4-paypay"
     },
     {
       "name": "ハーティタクシー",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-f45e32",
+      "shopid": "shonai-f45e32-paypay"
     }
   ],
   "運転代行業": [
     {
       "name": "夢元代行",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-1787fa",
+      "shopid": "shonai-1787fa-paypay"
     },
     {
       "name": "ハーティ運転代行",
-      "address": "余目"
+      "address": "余目",
+      "storeid": "shonai-f4b6ff",
+      "shopid": "shonai-f4b6ff-paypay"
     }
   ]
 }

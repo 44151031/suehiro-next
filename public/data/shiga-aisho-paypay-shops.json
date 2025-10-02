@@ -2,669 +2,999 @@
   "サービス": [
     {
       "name": "arco iris",
-      "address": "市1485-6"
+      "address": "市1485-6",
+      "storeid": "aisho-3266c3",
+      "shopid": "aisho-3266c3-paypay"
     },
     {
       "name": "ｉ.Ｂｏｄｙ    ｗｏｒｋｓ",
-      "address": "市811-2"
+      "address": "市811-2",
+      "storeid": "aisho-7c03a9",
+      "shopid": "aisho-7c03a9-paypay"
     },
     {
       "name": "LASTSTAND",
-      "address": "愛知川    455-9"
+      "address": "愛知川    455-9",
+      "storeid": "aisho-226739",
+      "shopid": "aisho-226739-paypay"
     },
     {
       "name": "愛荘町観光協会",
-      "address": "愛知川    ３８－２"
+      "address": "愛知川    ３８－２",
+      "storeid": "aisho-a90d3b",
+      "shopid": "aisho-a90d3b-paypay"
     },
     {
       "name": "えちか",
-      "address": "愛知川    １６０１"
+      "address": "愛知川    １６０１",
+      "storeid": "aisho-8c8d38",
+      "shopid": "aisho-8c8d38-paypay"
     },
     {
       "name": "おかじま鍼灸整骨院",
-      "address": "東円堂2511-15"
+      "address": "東円堂2511-15",
+      "storeid": "aisho-43ee51",
+      "shopid": "aisho-43ee51-paypay"
     },
     {
       "name": "勝美自動車    株式会社",
-      "address": "石橋２２"
+      "address": "石橋２２",
+      "storeid": "aisho-54946d",
+      "shopid": "aisho-54946d-paypay"
     },
     {
       "name": "株式会社     愛知川車検",
-      "address": "長野225-1"
+      "address": "長野225-1",
+      "storeid": "aisho-f45c63",
+      "shopid": "aisho-f45c63-paypay"
     },
     {
       "name": "株式会社     スリーエー",
-      "address": "豊満491-5"
+      "address": "豊満491-5",
+      "storeid": "aisho-996650",
+      "shopid": "aisho-996650-paypay"
     },
     {
       "name": "北鈑自動車",
-      "address": "東出324-1"
+      "address": "東出324-1",
+      "storeid": "aisho-5876a1",
+      "shopid": "aisho-5876a1-paypay"
     },
     {
       "name": "究極の施術",
-      "address": "市1190-12"
+      "address": "市1190-12",
+      "storeid": "aisho-8e56ac",
+      "shopid": "aisho-8e56ac-paypay"
     },
     {
       "name": "京屋クリーニング    ｱﾓｰﾙ店",
-      "address": "愛知川    58"
+      "address": "愛知川    58",
+      "storeid": "aisho-d67217",
+      "shopid": "aisho-d67217-paypay"
     },
     {
       "name": "磁気整体院    元張屋",
-      "address": "長野647-1"
+      "address": "長野647-1",
+      "storeid": "aisho-b87d12",
+      "shopid": "aisho-b87d12-paypay"
     },
     {
       "name": "スタジオタカダ",
-      "address": "愛知川    2-19"
+      "address": "愛知川    2-19",
+      "storeid": "aisho-a487c4",
+      "shopid": "aisho-a487c4-paypay"
     },
     {
       "name": "虹色サロン",
-      "address": "豊満910"
+      "address": "豊満910",
+      "storeid": "aisho-eb2d7a",
+      "shopid": "aisho-eb2d7a-paypay"
     },
     {
       "name": "ネコリパブリック滋賀",
-      "address": "愛知川    364-1"
+      "address": "愛知川    364-1",
+      "storeid": "aisho-5b6d32",
+      "shopid": "aisho-5b6d32-paypay"
     },
     {
       "name": "ピラティスYogaスタジオYuj",
-      "address": "東円堂1075-1"
+      "address": "東円堂1075-1",
+      "storeid": "aisho-3b44a8",
+      "shopid": "aisho-3b44a8-paypay"
     },
     {
       "name": "ほぐし家 新風堂",
-      "address": "愛知川    58"
+      "address": "愛知川    58",
+      "storeid": "aisho-5eac30",
+      "shopid": "aisho-5eac30-paypay"
     },
     {
       "name": "マエダクリーニング    愛知川    店",
-      "address": "豊満490-2"
+      "address": "豊満490-2",
+      "storeid": "aisho-ebc1ff",
+      "shopid": "aisho-ebc1ff-paypay"
     },
     {
       "name": "まこと鍼灸院",
-      "address": "市811-2"
+      "address": "市811-2",
+      "storeid": "aisho-c7527d",
+      "shopid": "aisho-c7527d-paypay"
     },
     {
       "name": "まやま鍼灸整骨院",
-      "address": "東円堂2511-16"
+      "address": "東円堂2511-16",
+      "storeid": "aisho-70370b",
+      "shopid": "aisho-70370b-paypay"
     },
     {
       "name": "メディカルアロマリンパケアakira",
-      "address": "長野2248-6"
+      "address": "長野2248-6",
+      "storeid": "aisho-73268e",
+      "shopid": "aisho-73268e-paypay"
     },
     {
       "name": "有限会社    近江電機自動車整備工場",
-      "address": "沓掛313-1"
+      "address": "沓掛313-1",
+      "storeid": "aisho-1a91d2",
+      "shopid": "aisho-1a91d2-paypay"
     },
     {
       "name": "有限会社    西村設備",
-      "address": "島川    1105"
+      "address": "島川    1105",
+      "storeid": "aisho-fb8831",
+      "shopid": "aisho-fb8831-paypay"
     },
     {
       "name": "有限会社  村川マイカーセンター",
-      "address": "香之庄911-1"
+      "address": "香之庄911-1",
+      "storeid": "aisho-694ceb",
+      "shopid": "aisho-694ceb-paypay"
     },
     {
       "name": "ヨシハラクリーニングフレンドマート秦荘店",
-      "address": "東出490-2"
+      "address": "東出490-2",
+      "storeid": "aisho-348c76",
+      "shopid": "aisho-348c76-paypay"
     },
     {
       "name": "愛荘町立  ハーティーセンター秦荘",
-      "address": "安孫子822"
+      "address": "安孫子822",
+      "storeid": "aisho-4c5618",
+      "shopid": "aisho-4c5618-paypay"
     },
     {
       "name": "愛知川    駅コミュニティハウス     るーぶる愛知川",
-      "address": "市895-3"
+      "address": "市895-3",
+      "storeid": "aisho-ea0d5c",
+      "shopid": "aisho-ea0d5c-paypay"
     },
     {
       "name": "厘療術",
-      "address": "市701-3"
+      "address": "市701-3",
+      "storeid": "aisho-08d3ca",
+      "shopid": "aisho-08d3ca-paypay"
     }
   ],
   "ヘアーサロン・理美容": [
     {
       "name": "Ｂｅａｕｔｙ Ｓａｌｏｎ   ＢＥＮＩ",
-      "address": "安孫子853-5"
+      "address": "安孫子853-5",
+      "storeid": "aisho-718c2f",
+      "shopid": "aisho-718c2f-paypay"
     },
     {
       "name": "Ｃｈａ   Ｌｕ-Ｌｕ",
-      "address": "島川    623-5"
+      "address": "島川    623-5",
+      "storeid": "aisho-514649",
+      "shopid": "aisho-514649-paypay"
     },
     {
       "name": "ｃｈｏｕｃｈｏｕ   Ｈａｉｒ",
-      "address": "石橋664"
+      "address": "石橋664",
+      "storeid": "aisho-52a593",
+      "shopid": "aisho-52a593-paypay"
     },
     {
       "name": "Ciel   Eyelash    salon",
-      "address": "島川    1290-13"
+      "address": "島川    1290-13",
+      "storeid": "aisho-76e07d",
+      "shopid": "aisho-76e07d-paypay"
     },
     {
       "name": "ｃｏｃｏｒｏ   ｈａｉｒ",
-      "address": "安孫子836-27"
+      "address": "安孫子836-27",
+      "storeid": "aisho-3449e9",
+      "shopid": "aisho-3449e9-paypay"
     },
     {
       "name": "DOTE",
-      "address": "島川    294-2    カンパーニュ104"
+      "address": "島川    294-2    カンパーニュ104",
+      "storeid": "aisho-c4d2f0",
+      "shopid": "aisho-c4d2f0-paypay"
     },
     {
       "name": "ｅｓｓｅｎｃｅ",
-      "address": "平居531-15"
+      "address": "平居531-15",
+      "storeid": "aisho-bcdf80",
+      "shopid": "aisho-bcdf80-paypay"
     },
     {
       "name": "Flare",
-      "address": "川久保56-1"
+      "address": "川久保56-1",
+      "storeid": "aisho-58ddd1",
+      "shopid": "aisho-58ddd1-paypay"
     },
     {
       "name": "ｇｒａｃｅ",
-      "address": "愛知川    188-10"
+      "address": "愛知川    188-10",
+      "storeid": "aisho-c5701b",
+      "shopid": "aisho-c5701b-paypay"
     },
     {
       "name": "hair make Leaf",
-      "address": "東円堂"
+      "address": "東円堂",
+      "storeid": "aisho-5ca3ca",
+      "shopid": "aisho-5ca3ca-paypay"
     },
     {
       "name": "ｈａｉｒ   ｍａｋｅ   Ｙ３",
-      "address": "川久保237"
+      "address": "川久保237",
+      "storeid": "aisho-3e1927",
+      "shopid": "aisho-3e1927-paypay"
     },
     {
       "name": "ｋｒｅｖａ（クレバ）",
-      "address": "市1812-1"
+      "address": "市1812-1",
+      "storeid": "aisho-13c92d",
+      "shopid": "aisho-13c92d-paypay"
     },
     {
       "name": "Lilly",
-      "address": "愛知川    ４１３    エクシブ1番館"
+      "address": "愛知川    ４１３    エクシブ1番館",
+      "storeid": "aisho-725c85",
+      "shopid": "aisho-725c85-paypay"
     },
     {
       "name": "nailsalon Na.",
-      "address": "市917"
+      "address": "市917",
+      "storeid": "aisho-74b4ae",
+      "shopid": "aisho-74b4ae-paypay"
     },
     {
       "name": "Olii",
-      "address": "沖305"
+      "address": "沖305",
+      "storeid": "aisho-f185eb",
+      "shopid": "aisho-f185eb-paypay"
     },
     {
       "name": "Ｒｅ；ｃｌｅａｒ",
-      "address": "島川294-2-204"
+      "address": "島川294-2-204",
+      "storeid": "aisho-895f69",
+      "shopid": "aisho-895f69-paypay"
     },
     {
       "name": "Salon de elf",
-      "address": "長野2107-19"
+      "address": "長野2107-19",
+      "storeid": "aisho-2d59ac",
+      "shopid": "aisho-2d59ac-paypay"
     },
     {
       "name": "髪質改善   Soi   for    hair",
-      "address": "愛知川    40    J    プラザ1-1"
+      "address": "愛知川    40    J    プラザ1-1",
+      "storeid": "aisho-44c2b1",
+      "shopid": "aisho-44c2b1-paypay"
     },
     {
       "name": "ＷＨＩＴＥＦＬＡＴ",
-      "address": "愛知川    1503"
+      "address": "愛知川    1503",
+      "storeid": "aisho-b29cbe",
+      "shopid": "aisho-b29cbe-paypay"
     },
     {
       "name": "ｙｕｎ愛荘",
-      "address": "石橋664"
+      "address": "石橋664",
+      "storeid": "aisho-9485ad",
+      "shopid": "aisho-9485ad-paypay"
     },
     {
       "name": "カットハウス宇野",
-      "address": "蚊野2947-3"
+      "address": "蚊野2947-3",
+      "storeid": "aisho-d6c8bc",
+      "shopid": "aisho-d6c8bc-paypay"
     },
     {
       "name": "サロン・ド・ナカムラ",
-      "address": "東円堂1898-2"
+      "address": "東円堂1898-2",
+      "storeid": "aisho-b08187",
+      "shopid": "aisho-b08187-paypay"
     },
     {
       "name": "堤ＢＡＲＢＥＲ",
-      "address": "蚊野1571"
+      "address": "蚊野1571",
+      "storeid": "aisho-197de9",
+      "shopid": "aisho-197de9-paypay"
     },
     {
       "name": "ドライヘッドスパ    ルポゼ",
-      "address": "愛知川    364-1"
+      "address": "愛知川    364-1",
+      "storeid": "aisho-84b504",
+      "shopid": "aisho-84b504-paypay"
     },
     {
       "name": "ビューティーモール    ヒロセ美容室本店",
-      "address": "市1705-1"
+      "address": "市1705-1",
+      "storeid": "aisho-be10b6",
+      "shopid": "aisho-be10b6-paypay"
     },
     {
       "name": "ヒロセウィッグサロン",
-      "address": "市1705-1"
+      "address": "市1705-1",
+      "storeid": "aisho-6a4127",
+      "shopid": "aisho-6a4127-paypay"
     },
     {
       "name": "ヒロセビートルみずみな",
-      "address": "市1705-1"
+      "address": "市1705-1",
+      "storeid": "aisho-551e7b",
+      "shopid": "aisho-551e7b-paypay"
     },
     {
       "name": "ヒロセ美容室    はなれ",
-      "address": "市1707-6"
+      "address": "市1707-6",
+      "storeid": "aisho-1e0c5d",
+      "shopid": "aisho-1e0c5d-paypay"
     },
     {
       "name": "ヒロセ美容室 秦荘店",
-      "address": "東出505-1"
+      "address": "東出505-1",
+      "storeid": "aisho-915a94",
+      "shopid": "aisho-915a94-paypay"
     },
     {
       "name": "ヘアーオアシス    アルル",
-      "address": "愛知川    1619-3"
+      "address": "愛知川    1619-3",
+      "storeid": "aisho-243d70",
+      "shopid": "aisho-243d70-paypay"
     },
     {
       "name": "ヘアーサロン    プリンス",
-      "address": "東出402-2"
+      "address": "東出402-2",
+      "storeid": "aisho-3bdbc3",
+      "shopid": "aisho-3bdbc3-paypay"
     },
     {
       "name": "まつげエクステサロンｓｕａｖｅ",
-      "address": "川久保245-8"
+      "address": "川久保245-8",
+      "storeid": "aisho-966141",
+      "shopid": "aisho-966141-paypay"
     },
     {
       "name": "ユリ美容室",
-      "address": "愛知川    7-5"
+      "address": "愛知川    7-5",
+      "storeid": "aisho-d708b5",
+      "shopid": "aisho-d708b5-paypay"
     },
     {
       "name": "ユリ美容室    アモール店",
-      "address": "愛知川    58"
+      "address": "愛知川    58",
+      "storeid": "aisho-c8c5c1",
+      "shopid": "aisho-c8c5c1-paypay"
     },
     {
       "name": "美容室    Ｒｉｎ",
-      "address": "竹原1013-2"
+      "address": "竹原1013-2",
+      "storeid": "aisho-e8bebd",
+      "shopid": "aisho-e8bebd-paypay"
     }
   ],
   "小売": [
     {
       "name": "DOGHOUSE",
-      "address": "中宿６２"
+      "address": "中宿６２",
+      "storeid": "aisho-d96731",
+      "shopid": "aisho-d96731-paypay"
     },
     {
       "name": "ＦＵＳＳ－ＦＲＥＥ",
-      "address": "原672-2"
+      "address": "原672-2",
+      "storeid": "aisho-cae4db",
+      "shopid": "aisho-cae4db-paypay"
     },
     {
       "name": "K2ファーム",
-      "address": "安孫子156"
+      "address": "安孫子156",
+      "storeid": "aisho-a75b03",
+      "shopid": "aisho-a75b03-paypay"
     },
     {
       "name": "MADE    IN    BRAZIL",
-      "address": "愛知川    458"
+      "address": "愛知川    458",
+      "storeid": "aisho-67014b",
+      "shopid": "aisho-67014b-paypay"
     },
     {
       "name": "nanala",
-      "address": "長野８０３"
+      "address": "長野８０３",
+      "storeid": "aisho-8cef2b",
+      "shopid": "aisho-8cef2b-paypay"
     },
     {
       "name": "OVER9",
-      "address": "上蚊野４９５"
+      "address": "上蚊野４９５",
+      "storeid": "aisho-10cdea",
+      "shopid": "aisho-10cdea-paypay"
     },
     {
       "name": "あいしょうアグリ",
-      "address": "東円堂3078"
+      "address": "東円堂3078",
+      "storeid": "aisho-8da83e",
+      "shopid": "aisho-8da83e-paypay"
     },
     {
       "name": "愛荘町商工会",
-      "address": "愛知川    72"
+      "address": "愛知川    72",
+      "storeid": "aisho-a9c0d1",
+      "shopid": "aisho-a9c0d1-paypay"
     },
     {
       "name": "いちごびより",
-      "address": "豊満１３７５"
+      "address": "豊満１３７５",
+      "storeid": "aisho-f268b4",
+      "shopid": "aisho-f268b4-paypay"
     },
     {
       "name": "伊藤畳商店",
-      "address": "沓掛316"
+      "address": "沓掛316",
+      "storeid": "aisho-8efde8",
+      "shopid": "aisho-8efde8-paypay"
     },
     {
       "name": "永咲堂",
-      "address": "愛知川    58"
+      "address": "愛知川    58",
+      "storeid": "aisho-625115",
+      "shopid": "aisho-625115-paypay"
     },
     {
       "name": "クロネコベーカリー",
-      "address": "愛知川    33"
+      "address": "愛知川    33",
+      "storeid": "aisho-6c9eb5",
+      "shopid": "aisho-6c9eb5-paypay"
     },
     {
       "name": "愛知川酒造",
-      "address": "野々目207"
+      "address": "野々目207",
+      "storeid": "aisho-523d85",
+      "shopid": "aisho-523d85-paypay"
     },
     {
       "name": "帯武商店",
-      "address": "愛知川    1584"
+      "address": "愛知川    1584",
+      "storeid": "aisho-7f963d",
+      "shopid": "aisho-7f963d-paypay"
     },
     {
       "name": "カーショップ    ヒロセ",
-      "address": "岩倉791"
+      "address": "岩倉791",
+      "storeid": "aisho-6f6e68",
+      "shopid": "aisho-6f6e68-paypay"
     },
     {
       "name": "菓子工房   Yu and ．．．",
-      "address": "愛知川    1512"
+      "address": "愛知川    1512",
+      "storeid": "aisho-376eb0",
+      "shopid": "aisho-376eb0-paypay"
     },
     {
       "name": "株式会社     CARCLE",
-      "address": "長野308-6"
+      "address": "長野308-6",
+      "storeid": "aisho-83da56",
+      "shopid": "aisho-83da56-paypay"
     },
     {
       "name": "株式会社     タカダ",
-      "address": "愛知川    1582"
+      "address": "愛知川    1582",
+      "storeid": "aisho-0ebf1e",
+      "shopid": "aisho-0ebf1e-paypay"
     },
     {
       "name": "株式会社     塚本楽器",
-      "address": "愛知川    5-10"
+      "address": "愛知川    5-10",
+      "storeid": "aisho-8c1484",
+      "shopid": "aisho-8c1484-paypay"
     },
     {
       "name": "キタムラDENKI",
-      "address": "愛知川    1507"
+      "address": "愛知川    1507",
+      "storeid": "aisho-6739aa",
+      "shopid": "aisho-6739aa-paypay"
     },
     {
       "name": "吉福庵",
-      "address": "石橋708"
+      "address": "石橋708",
+      "storeid": "aisho-40bd51",
+      "shopid": "aisho-40bd51-paypay"
     },
     {
       "name": "くよもん農園",
-      "address": "東円堂2543-5"
+      "address": "東円堂2543-5",
+      "storeid": "aisho-ba0003",
+      "shopid": "aisho-ba0003-paypay"
     },
     {
       "name": "クリタ・フラワー",
-      "address": "市714-5"
+      "address": "市714-5",
+      "storeid": "aisho-bc1a41",
+      "shopid": "aisho-bc1a41-paypay"
     },
     {
       "name": "くるまや    せがわ",
-      "address": "安孫子704"
+      "address": "安孫子704",
+      "storeid": "aisho-c90a70",
+      "shopid": "aisho-c90a70-paypay"
     },
     {
       "name": "コスメティック     にしむら",
-      "address": "愛知川    1615"
+      "address": "愛知川    1615",
+      "storeid": "aisho-838b5d",
+      "shopid": "aisho-838b5d-paypay"
     },
     {
       "name": "湖東三山館あいしょう",
-      "address": "松尾寺１３９５－１"
+      "address": "松尾寺１３９５－１",
+      "storeid": "aisho-de38c9",
+      "shopid": "aisho-de38c9-paypay"
     },
     {
       "name": "サイクルショップ  ひろせ",
-      "address": "市697-19"
+      "address": "市697-19",
+      "storeid": "aisho-2cb529",
+      "shopid": "aisho-2cb529-paypay"
     },
     {
       "name": "酒正",
-      "address": "沓掛380"
+      "address": "沓掛380",
+      "storeid": "aisho-700aaf",
+      "shopid": "aisho-700aaf-paypay"
     },
     {
       "name": "しろ平老舗",
-      "address": "愛知川    1504-1"
+      "address": "愛知川    1504-1",
+      "storeid": "aisho-3dfc35",
+      "shopid": "aisho-3dfc35-paypay"
     },
     {
       "name": "スマイルマッシュルーム",
-      "address": "平居877-1"
+      "address": "平居877-1",
+      "storeid": "aisho-dc6a2c",
+      "shopid": "aisho-dc6a2c-paypay"
     },
     {
       "name": "ぜんごろうさん",
-      "address": "蚊野584"
+      "address": "蚊野584",
+      "storeid": "aisho-c4f7e0",
+      "shopid": "aisho-c4f7e0-paypay"
     },
     {
       "name": "チャイルドヴィーイクルズ・カネナカ",
-      "address": "長野306"
+      "address": "長野306",
+      "storeid": "aisho-0bc06d",
+      "shopid": "aisho-0bc06d-paypay"
     },
     {
       "name": "トータルファッション     モリヤス（ホワイト急便沖店）",
-      "address": "沖222-6"
+      "address": "沖222-6",
+      "storeid": "aisho-b4f26f",
+      "shopid": "aisho-b4f26f-paypay"
     },
     {
       "name": "中島川商事有限会社    豊国ｓｓ",
-      "address": "東円堂2543-1"
+      "address": "東円堂2543-1",
+      "storeid": "aisho-47adb4",
+      "shopid": "aisho-47adb4-paypay"
     },
     {
       "name": "にじいろ工房",
-      "address": "中宿43-1"
+      "address": "中宿43-1",
+      "storeid": "aisho-8c7ef4",
+      "shopid": "aisho-8c7ef4-paypay"
     },
     {
       "name": "にしやま・アトーレ",
-      "address": "沓掛503"
+      "address": "沓掛503",
+      "storeid": "aisho-7aeba1",
+      "shopid": "aisho-7aeba1-paypay"
     },
     {
       "name": "ののすておりがみ屋＆刺繍屋ポイトコセ",
-      "address": "愛知川    1764-1"
+      "address": "愛知川    1764-1",
+      "storeid": "aisho-d15c44",
+      "shopid": "aisho-d15c44-paypay"
     },
     {
       "name": "花いちりん",
-      "address": "市1307-2"
+      "address": "市1307-2",
+      "storeid": "aisho-762460",
+      "shopid": "aisho-762460-paypay"
     },
     {
       "name": "ファッションプラザ     なかた",
-      "address": "東出515-1"
+      "address": "東出515-1",
+      "storeid": "aisho-9113d7",
+      "shopid": "aisho-9113d7-paypay"
     },
     {
       "name": "藤居本家",
-      "address": "長野793"
+      "address": "長野793",
+      "storeid": "aisho-4efffd",
+      "shopid": "aisho-4efffd-paypay"
     },
     {
       "name": "フラワーショップ    花好",
-      "address": "安孫子247-3"
+      "address": "安孫子247-3",
+      "storeid": "aisho-63f3e8",
+      "shopid": "aisho-63f3e8-paypay"
     },
     {
       "name": "古着屋CasaCasa（徳島川明信）",
-      "address": "愛知川    １５８８"
+      "address": "愛知川    １５８８",
+      "storeid": "aisho-2a00a7",
+      "shopid": "aisho-2a00a7-paypay"
     },
     {
       "name": "フルリスト    カシェット",
-      "address": "愛知川    58"
+      "address": "愛知川    58",
+      "storeid": "aisho-134f7c",
+      "shopid": "aisho-134f7c-paypay"
     },
     {
       "name": "フレンズ    愛知川    店",
-      "address": "愛知川    333-1"
+      "address": "愛知川    333-1",
+      "storeid": "aisho-6a812b",
+      "shopid": "aisho-6a812b-paypay"
     },
     {
       "name": "ベルスールタカダ",
-      "address": "愛知川    58"
+      "address": "愛知川    58",
+      "storeid": "aisho-e0b8d3",
+      "shopid": "aisho-e0b8d3-paypay"
     },
     {
       "name": "本家かまどや新愛知川    店",
-      "address": "長野648-6"
+      "address": "長野648-6",
+      "storeid": "aisho-d3fabd",
+      "shopid": "aisho-d3fabd-paypay"
     },
     {
       "name": "マルヨシ雑貨店",
-      "address": "愛知川    1534"
+      "address": "愛知川    1534",
+      "storeid": "aisho-f69d8c",
+      "shopid": "aisho-f69d8c-paypay"
     },
     {
       "name": "ミヤハシ    愛知川    店",
-      "address": "愛知川    58"
+      "address": "愛知川    58",
+      "storeid": "aisho-eebecb",
+      "shopid": "aisho-eebecb-paypay"
     },
     {
       "name": "有限会社    オフィスアズ",
-      "address": "愛知川    774-4"
+      "address": "愛知川    774-4",
+      "storeid": "aisho-31824f",
+      "shopid": "aisho-31824f-paypay"
     },
     {
       "name": "有限会社     野々村金物店",
-      "address": "市44-3"
+      "address": "市44-3",
+      "storeid": "aisho-bfebad",
+      "shopid": "aisho-bfebad-paypay"
     },
     {
       "name": "有限会社高橋プロパン",
-      "address": "安孫子374"
+      "address": "安孫子374",
+      "storeid": "aisho-6cf625",
+      "shopid": "aisho-6cf625-paypay"
     },
     {
       "name": "ルシェ    ハッタ",
-      "address": "安孫子836-23"
+      "address": "安孫子836-23",
+      "storeid": "aisho-d0149f",
+      "shopid": "aisho-d0149f-paypay"
     },
     {
       "name": "レディスファッション シェリー",
-      "address": "愛知川    58"
+      "address": "愛知川    58",
+      "storeid": "aisho-3cfe1c",
+      "shopid": "aisho-3cfe1c-paypay"
     },
     {
       "name": "丸中醤油 株式会社",
-      "address": "東出229"
+      "address": "東出229",
+      "storeid": "aisho-c78657",
+      "shopid": "aisho-c78657-paypay"
     },
     {
       "name": "近江米スター",
-      "address": "愛知川    1632-3"
+      "address": "愛知川    1632-3",
+      "storeid": "aisho-766bbc",
+      "shopid": "aisho-766bbc-paypay"
     },
     {
       "name": "近江上布伝統産業会館",
-      "address": "愛知川    32-2"
+      "address": "愛知川    32-2",
+      "storeid": "aisho-07b609",
+      "shopid": "aisho-07b609-paypay"
     },
     {
       "name": "御幸餅商舗",
-      "address": "愛知川    1523"
+      "address": "愛知川    1523",
+      "storeid": "aisho-1a4b5d",
+      "shopid": "aisho-1a4b5d-paypay"
     },
     {
       "name": "山K'sアグリ",
-      "address": "安孫子615-2"
+      "address": "安孫子615-2",
+      "storeid": "aisho-55deba",
+      "shopid": "aisho-55deba-paypay"
     },
     {
       "name": "山田耕雲堂",
-      "address": "愛知川    1669"
+      "address": "愛知川    1669",
+      "storeid": "aisho-338f54",
+      "shopid": "aisho-338f54-paypay"
     },
     {
       "name": "西村商店（明治牛乳愛荘販売所）",
-      "address": "東出494-1"
+      "address": "東出494-1",
+      "storeid": "aisho-dc269b",
+      "shopid": "aisho-dc269b-paypay"
     },
     {
       "name": "石沼輪業",
-      "address": "東円堂1433"
+      "address": "東円堂1433",
+      "storeid": "aisho-b41758",
+      "shopid": "aisho-b41758-paypay"
     },
     {
       "name": "中居商事 株式会社",
-      "address": "東出177-1"
+      "address": "東出177-1",
+      "storeid": "aisho-b99285",
+      "shopid": "aisho-b99285-paypay"
     },
     {
       "name": "箕川製材所",
-      "address": "市1162-3"
+      "address": "市1162-3",
+      "storeid": "aisho-c98a5f",
+      "shopid": "aisho-c98a5f-paypay"
     }
   ],
   "飲食": [
     {
       "name": "６６cafe",
-      "address": "愛知川    ３８－２"
+      "address": "愛知川    ３８－２",
+      "storeid": "aisho-d58d25",
+      "shopid": "aisho-d58d25-paypay"
     },
     {
       "name": "Ａｎｏｔｈｅｒｓｋｙ",
-      "address": "市917"
+      "address": "市917",
+      "storeid": "aisho-05fa81",
+      "shopid": "aisho-05fa81-paypay"
     },
     {
       "name": "ＧＯＬＦ   ＦＩＲＳＴ",
-      "address": "沓掛380"
+      "address": "沓掛380",
+      "storeid": "aisho-0b2ed1",
+      "shopid": "aisho-0b2ed1-paypay"
     },
     {
       "name": "居酒屋    竹ちゃん家",
-      "address": "中宿156"
+      "address": "中宿156",
+      "storeid": "aisho-2fef5f",
+      "shopid": "aisho-2fef5f-paypay"
     },
     {
       "name": "イタリアンMELA",
-      "address": "長野318-1-3"
+      "address": "長野318-1-3",
+      "storeid": "aisho-60d75e",
+      "shopid": "aisho-60d75e-paypay"
     },
     {
       "name": "うを惣",
-      "address": "長野826-3"
+      "address": "長野826-3",
+      "storeid": "aisho-6b123c",
+      "shopid": "aisho-6b123c-paypay"
     },
     {
       "name": "近江牛焼肉    愛炎",
-      "address": "長野826-7"
+      "address": "長野826-7",
+      "storeid": "aisho-dab6dd",
+      "shopid": "aisho-dab6dd-paypay"
     },
     {
       "name": "かくれ蔵藤居",
-      "address": "長野601"
+      "address": "長野601",
+      "storeid": "aisho-a3a56c",
+      "shopid": "aisho-a3a56c-paypay"
     },
     {
       "name": "カフェ・メープル",
-      "address": "豊満1292-3"
+      "address": "豊満1292-3",
+      "storeid": "aisho-8af25b",
+      "shopid": "aisho-8af25b-paypay"
     },
     {
       "name": "カレーダイニング     Ａｓｉａｎ",
-      "address": "安孫子700-1"
+      "address": "安孫子700-1",
+      "storeid": "aisho-cbca68",
+      "shopid": "aisho-cbca68-paypay"
     },
     {
       "name": "喜待八",
-      "address": "東円堂1823"
+      "address": "東円堂1823",
+      "storeid": "aisho-70de51",
+      "shopid": "aisho-70de51-paypay"
     },
     {
       "name": "牛角    愛知川    店",
-      "address": "長野318-1"
+      "address": "長野318-1",
+      "storeid": "aisho-3c5173",
+      "shopid": "aisho-3c5173-paypay"
     },
     {
       "name": "こがね",
-      "address": "豊満410-1"
+      "address": "豊満410-1",
+      "storeid": "aisho-26986b",
+      "shopid": "aisho-26986b-paypay"
     },
     {
       "name": "讃岐や",
-      "address": "中宿192-1"
+      "address": "中宿192-1",
+      "storeid": "aisho-09f7e5",
+      "shopid": "aisho-09f7e5-paypay"
     },
     {
       "name": "さわ源",
-      "address": "上蚊野12-1"
+      "address": "上蚊野12-1",
+      "storeid": "aisho-f774e3",
+      "shopid": "aisho-f774e3-paypay"
     },
     {
       "name": "スイーツ・ダイニング    香凛舎",
-      "address": "愛知川    40-7"
+      "address": "愛知川    40-7",
+      "storeid": "aisho-46f32a",
+      "shopid": "aisho-46f32a-paypay"
     },
     {
       "name": "ステーキサンヴィラ",
-      "address": "中宿１５４"
+      "address": "中宿１５４",
+      "storeid": "aisho-c3b6a7",
+      "shopid": "aisho-c3b6a7-paypay"
     },
     {
       "name": "大忠",
-      "address": "蚊野1446"
+      "address": "蚊野1446",
+      "storeid": "aisho-ac3ccd",
+      "shopid": "aisho-ac3ccd-paypay"
     },
     {
       "name": "日本晴食堂",
-      "address": "長野216-1"
+      "address": "長野216-1",
+      "storeid": "aisho-7ae628",
+      "shopid": "aisho-7ae628-paypay"
     },
     {
       "name": "日本料理     魚与",
-      "address": "蚊野1705"
+      "address": "蚊野1705",
+      "storeid": "aisho-471d8e",
+      "shopid": "aisho-471d8e-paypay"
     },
     {
       "name": "本と喫茶    Simple",
-      "address": "元持388-1"
+      "address": "元持388-1",
+      "storeid": "aisho-ab66d2",
+      "shopid": "aisho-ab66d2-paypay"
     },
     {
       "name": "藤寿司",
-      "address": "愛知川    1713-4"
+      "address": "愛知川    1713-4",
+      "storeid": "aisho-8434c2",
+      "shopid": "aisho-8434c2-paypay"
     },
     {
       "name": "ベジタブルキッチン    hippo",
-      "address": "島川    294-2    カンパーニュ103"
+      "address": "島川    294-2    カンパーニュ103",
+      "storeid": "aisho-537f99",
+      "shopid": "aisho-537f99-paypay"
     },
     {
       "name": "魔法のパスタ愛知川    店",
-      "address": "愛知川    31-2"
+      "address": "愛知川    31-2",
+      "storeid": "aisho-246b02",
+      "shopid": "aisho-246b02-paypay"
     },
     {
       "name": "まちのキッチン    MACHIKICHI",
-      "address": "豊満381-1"
+      "address": "豊満381-1",
+      "storeid": "aisho-4d99bd",
+      "shopid": "aisho-4d99bd-paypay"
     },
     {
       "name": "麺屋 半蔵",
-      "address": "長野318-２"
+      "address": "長野318-２",
+      "storeid": "aisho-d7a99f",
+      "shopid": "aisho-d7a99f-paypay"
     },
     {
       "name": "有限会社     近江屋",
-      "address": "愛知川    883"
+      "address": "愛知川    883",
+      "storeid": "aisho-aa0e8e",
+      "shopid": "aisho-aa0e8e-paypay"
     },
     {
       "name": "らぁ麺    口福論",
-      "address": "長野207-1"
+      "address": "長野207-1",
+      "storeid": "aisho-d1ea55",
+      "shopid": "aisho-d1ea55-paypay"
     },
     {
       "name": "井上寿司",
-      "address": "愛知川    7-2"
+      "address": "愛知川    7-2",
+      "storeid": "aisho-233c25",
+      "shopid": "aisho-233c25-paypay"
     },
     {
       "name": "近江商人亭 三角屋",
-      "address": "中宿51"
+      "address": "中宿51",
+      "storeid": "aisho-9c8851",
+      "shopid": "aisho-9c8851-paypay"
     },
     {
       "name": "串だいにんぐ     華楽",
-      "address": "愛知川    31-2"
+      "address": "愛知川    31-2",
+      "storeid": "aisho-81cbe6",
+      "shopid": "aisho-81cbe6-paypay"
     },
     {
       "name": "焼肉   福朗",
-      "address": "愛知川    373-3"
+      "address": "愛知川    373-3",
+      "storeid": "aisho-48a142",
+      "shopid": "aisho-48a142-paypay"
     },
     {
       "name": "焼肉ホルモン     肉正",
-      "address": "沓掛380"
+      "address": "沓掛380",
+      "storeid": "aisho-7400e6",
+      "shopid": "aisho-7400e6-paypay"
     },
     {
       "name": "台湾料理     鴻福楼",
-      "address": "愛知川    59-8"
+      "address": "愛知川    59-8",
+      "storeid": "aisho-4a43f7",
+      "shopid": "aisho-4a43f7-paypay"
     },
     {
       "name": "鳥料理     青喜",
-      "address": "市1812−2"
+      "address": "市1812−2",
+      "storeid": "aisho-73a8ec",
+      "shopid": "aisho-73a8ec-paypay"
     },
     {
       "name": "南蛮茶＆サンマルツァーノ",
-      "address": "長野377-1"
+      "address": "長野377-1",
+      "storeid": "aisho-72e9f7",
+      "shopid": "aisho-72e9f7-paypay"
     },
     {
       "name": "日本料理    あびこ家",
-      "address": "安孫子369-4"
+      "address": "安孫子369-4",
+      "storeid": "aisho-114aa4",
+      "shopid": "aisho-114aa4-paypay"
     },
     {
       "name": "日本料理    聖蹟    竹平楼",
-      "address": "愛知川    1608"
+      "address": "愛知川    1608",
+      "storeid": "aisho-d83db7",
+      "shopid": "aisho-d83db7-paypay"
     }
   ]
 }

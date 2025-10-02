@@ -3,939 +3,1402 @@
     {
       "name": "Dummyパン",
       "address": "ダミー町ダミー番地",
-      "shopid": "s001"
+      "shopid": "s001",
+      "storeid": "kitakata-7c6953"
     },
     {
       "name": "きたかた動物病院",
-      "address": "稲荷宮"
+      "address": "稲荷宮",
+      "storeid": "kitakata-2154c3",
+      "shopid": "kitakata-2154c3-paypay"
     },
     {
       "name": "喜多方ドライビングスクール",
-      "address": "大谷地"
+      "address": "大谷地",
+      "storeid": "kitakata-dbb33b",
+      "shopid": "kitakata-dbb33b-paypay"
     },
     {
       "name": "とうえい動物病院",
-      "address": "関柴町上高額家ノ北"
+      "address": "関柴町上高額家ノ北",
+      "storeid": "kitakata-8ed8e4",
+      "shopid": "kitakata-8ed8e4-paypay"
     }
   ],
   "サービス": [
     {
       "name": "会津バス喜多方営業所",
-      "address": "町田"
+      "address": "町田",
+      "storeid": "kitakata-87e551",
+      "shopid": "kitakata-87e551-paypay"
     },
     {
       "name": "あひるの洗たく屋さんリオン・ドール喜多方西店",
-      "address": "押切南"
+      "address": "押切南",
+      "storeid": "kitakata-e03042",
+      "shopid": "kitakata-e03042-paypay"
     },
     {
       "name": "E-WORKS",
-      "address": "清水台"
+      "address": "清水台",
+      "storeid": "kitakata-00fde9",
+      "shopid": "kitakata-00fde9-paypay"
     },
     {
       "name": "S'cosmeマルヤ",
-      "address": "井戸尻"
+      "address": "井戸尻",
+      "storeid": "kitakata-c584e3",
+      "shopid": "kitakata-c584e3-paypay"
     },
     {
       "name": "Amilekitakata",
-      "address": "前田"
+      "address": "前田",
+      "storeid": "kitakata-f751a1",
+      "shopid": "kitakata-f751a1-paypay"
     },
     {
       "name": "emu＿qu（まつ毛）",
-      "address": "豊川町米室"
+      "address": "豊川町米室",
+      "storeid": "kitakata-b6a309",
+      "shopid": "kitakata-b6a309-paypay"
     },
     {
       "name": "扇屋モーター",
-      "address": "下江"
+      "address": "下江",
+      "storeid": "kitakata-cedf59",
+      "shopid": "kitakata-cedf59-paypay"
     },
     {
       "name": "オートセンター",
-      "address": "大谷地田"
+      "address": "大谷地田",
+      "storeid": "kitakata-4b9bad",
+      "shopid": "kitakata-4b9bad-paypay"
     },
     {
       "name": "おそうじ革命福島喜多方店",
-      "address": "押切"
+      "address": "押切",
+      "storeid": "kitakata-91a1d0",
+      "shopid": "kitakata-91a1d0-paypay"
     },
     {
       "name": "カスタムドリーム",
-      "address": "清水台"
+      "address": "清水台",
+      "storeid": "kitakata-995656",
+      "shopid": "kitakata-995656-paypay"
     },
     {
       "name": "ガレージファクトリー",
-      "address": "台"
+      "address": "台",
+      "storeid": "kitakata-947e85",
+      "shopid": "kitakata-947e85-paypay"
     },
     {
       "name": "喜多方卓球ランド",
-      "address": "中町"
+      "address": "中町",
+      "storeid": "kitakata-f0f87c",
+      "shopid": "kitakata-f0f87c-paypay"
     },
     {
       "name": "喜多方ブル自工",
-      "address": "豊川町高堂太橋向"
+      "address": "豊川町高堂太橋向",
+      "storeid": "kitakata-41b8cd",
+      "shopid": "kitakata-41b8cd-paypay"
     },
     {
       "name": "喜多方ブル自工くるまパーク北方館",
-      "address": "豊川町高堂太橋向"
+      "address": "豊川町高堂太橋向",
+      "storeid": "kitakata-242601",
+      "shopid": "kitakata-242601-paypay"
     },
     {
       "name": "グッド整体院",
-      "address": "稲荷宮"
+      "address": "稲荷宮",
+      "storeid": "kitakata-955e31",
+      "shopid": "kitakata-955e31-paypay"
     },
     {
       "name": "クリーニングレイール喜多方店",
-      "address": "東桜ガ丘"
+      "address": "東桜ガ丘",
+      "storeid": "kitakata-c40ebe",
+      "shopid": "kitakata-c40ebe-paypay"
     },
     {
       "name": "GROOVEstudio",
-      "address": "豊川町米室高吉"
+      "address": "豊川町米室高吉",
+      "storeid": "kitakata-004008",
+      "shopid": "kitakata-004008-paypay"
     },
     {
       "name": "Crecer",
-      "address": "慶徳道下"
+      "address": "慶徳道下",
+      "storeid": "kitakata-584426",
+      "shopid": "kitakata-584426-paypay"
     },
     {
       "name": "佐藤石材店",
-      "address": "町田"
+      "address": "町田",
+      "storeid": "kitakata-9c8f7e",
+      "shopid": "kitakata-9c8f7e-paypay"
     },
     {
       "name": "Salonde愛利",
-      "address": "関柴町三津井前田"
+      "address": "関柴町三津井前田",
+      "storeid": "kitakata-bd5065",
+      "shopid": "kitakata-bd5065-paypay"
     },
     {
       "name": "塩原自動車工業しおばらじどうしゃ",
-      "address": "押切南"
+      "address": "押切南",
+      "storeid": "kitakata-d6558c",
+      "shopid": "kitakata-d6558c-paypay"
     },
     {
       "name": "スキルオート",
-      "address": "豊川町高堂太免田"
+      "address": "豊川町高堂太免田",
+      "storeid": "kitakata-7f0fae",
+      "shopid": "kitakata-7f0fae-paypay"
     },
     {
       "name": "洗濯工房えんどう",
-      "address": "諏訪"
+      "address": "諏訪",
+      "storeid": "kitakata-494acc",
+      "shopid": "kitakata-494acc-paypay"
     },
     {
       "name": "ソーイングランドたかはし",
-      "address": "諏訪"
+      "address": "諏訪",
+      "storeid": "kitakata-f20721",
+      "shopid": "kitakata-f20721-paypay"
     },
     {
       "name": "冨田健康院／スクール",
-      "address": "押切南"
+      "address": "押切南",
+      "storeid": "kitakata-d65d8c",
+      "shopid": "kitakata-d65d8c-paypay"
     },
     {
       "name": "中里自動車",
-      "address": "関柴町豊芦橋向"
+      "address": "関柴町豊芦橋向",
+      "storeid": "kitakata-11a73a",
+      "shopid": "kitakata-11a73a-paypay"
     },
     {
       "name": "白清舎クリーニング店",
-      "address": "前田"
+      "address": "前田",
+      "storeid": "kitakata-310554",
+      "shopid": "kitakata-310554-paypay"
     },
     {
       "name": "BuzzHair",
-      "address": "稲荷宮"
+      "address": "稲荷宮",
+      "storeid": "kitakata-0bb5b0",
+      "shopid": "kitakata-0bb5b0-paypay"
     },
     {
       "name": "光ボデー",
-      "address": "豊川町高堂太免田"
+      "address": "豊川町高堂太免田",
+      "storeid": "kitakata-030d64",
+      "shopid": "kitakata-030d64-paypay"
     },
     {
       "name": "美容室ハーモニーHarmony",
-      "address": "舞台田"
+      "address": "舞台田",
+      "storeid": "kitakata-4a5c76",
+      "shopid": "kitakata-4a5c76-paypay"
     },
     {
       "name": "プートゥニック",
-      "address": "西四ツ谷"
+      "address": "西四ツ谷",
+      "storeid": "kitakata-dfabbf",
+      "shopid": "kitakata-dfabbf-paypay"
     },
     {
       "name": "ブローチェ・ココア",
-      "address": "井戸尻"
+      "address": "井戸尻",
+      "storeid": "kitakata-149dce",
+      "shopid": "kitakata-149dce-paypay"
     },
     {
       "name": "ヘアーサロンおぐま",
-      "address": "通船場"
+      "address": "通船場",
+      "storeid": "kitakata-9705af",
+      "shopid": "kitakata-9705af-paypay"
     },
     {
       "name": "ヘアーサロンつきおか",
-      "address": "豊川町米室中田"
+      "address": "豊川町米室中田",
+      "storeid": "kitakata-68efb5",
+      "shopid": "kitakata-68efb5-paypay"
     },
     {
       "name": "HairAtelierMUUQU（ヘア）",
-      "address": "豊川町米室"
+      "address": "豊川町米室",
+      "storeid": "kitakata-2d7d5d",
+      "shopid": "kitakata-2d7d5d-paypay"
     },
     {
       "name": "ヘアエステオオミナト",
-      "address": "町田"
+      "address": "町田",
+      "storeid": "kitakata-29b6d3",
+      "shopid": "kitakata-29b6d3-paypay"
     },
     {
       "name": "HairSalon4u",
-      "address": "諏訪"
+      "address": "諏訪",
+      "storeid": "kitakata-56ddb3",
+      "shopid": "kitakata-56ddb3-paypay"
     },
     {
       "name": "HairSalonSuw",
-      "address": "一本木下"
+      "address": "一本木下",
+      "storeid": "kitakata-1b0003",
+      "shopid": "kitakata-1b0003-paypay"
     },
     {
       "name": "ホワイト急便福島ヨークベニマル喜多方店",
-      "address": "井戸尻"
+      "address": "井戸尻",
+      "storeid": "kitakata-5d9acd",
+      "shopid": "kitakata-5d9acd-paypay"
     },
     {
       "name": "磨研",
-      "address": "屋敷免"
+      "address": "屋敷免",
+      "storeid": "kitakata-ba4af8",
+      "shopid": "kitakata-ba4af8-paypay"
     },
     {
       "name": "maru美容室",
-      "address": "東桜ガ丘"
+      "address": "東桜ガ丘",
+      "storeid": "kitakata-87394e",
+      "shopid": "kitakata-87394e-paypay"
     },
     {
       "name": "みつあみ堂",
-      "address": "関柴町上高額西村"
+      "address": "関柴町上高額西村",
+      "storeid": "kitakata-4e7ce0",
+      "shopid": "kitakata-4e7ce0-paypay"
     },
     {
       "name": "むぎはり灸院",
-      "address": "御清水南"
+      "address": "御清水南",
+      "storeid": "kitakata-ecff91",
+      "shopid": "kitakata-ecff91-paypay"
     },
     {
       "name": "Lilyprivatesalon",
-      "address": "豊川町米室志津"
+      "address": "豊川町米室志津",
+      "storeid": "kitakata-4a0b99",
+      "shopid": "kitakata-4a0b99-paypay"
     },
     {
       "name": "リンクサプライBrochecocoa",
-      "address": "井戸尻"
+      "address": "井戸尻",
+      "storeid": "kitakata-1cf81c",
+      "shopid": "kitakata-1cf81c-paypay"
     },
     {
       "name": "Lunahair",
-      "address": "押切東"
+      "address": "押切東",
+      "storeid": "kitakata-f6a901",
+      "shopid": "kitakata-f6a901-paypay"
     },
     {
       "name": "自動車整備工場オートガレージ",
-      "address": "熱塩加納町山田千苅田甲"
+      "address": "熱塩加納町山田千苅田甲",
+      "storeid": "kitakata-121985",
+      "shopid": "kitakata-121985-paypay"
     },
     {
       "name": "F",
-      "address": "塩川町御殿場"
+      "address": "塩川町御殿場",
+      "storeid": "kitakata-09b2c1",
+      "shopid": "kitakata-09b2c1-paypay"
     },
     {
       "name": "おそうじSTAR",
-      "address": "塩川町小府根蓮沼"
+      "address": "塩川町小府根蓮沼",
+      "storeid": "kitakata-20b66e",
+      "shopid": "kitakata-20b66e-paypay"
     },
     {
       "name": "会北自動車",
-      "address": "塩川町町北"
+      "address": "塩川町町北",
+      "storeid": "kitakata-4673fa",
+      "shopid": "kitakata-4673fa-paypay"
     },
     {
       "name": "クリーニングレイールイオンタウン塩    店",
-      "address": "塩川町小府根曽谷田"
+      "address": "塩川町小府根曽谷田",
+      "storeid": "kitakata-a65022",
+      "shopid": "kitakata-a65022-paypay"
     },
     {
       "name": "しおかわ整骨院",
-      "address": "塩川町舘ノ内"
+      "address": "塩川町舘ノ内",
+      "storeid": "kitakata-f5216f",
+      "shopid": "kitakata-f5216f-paypay"
     },
     {
       "name": "美容室Torant",
-      "address": "塩川町小府根畑ケ田"
+      "address": "塩川町小府根畑ケ田",
+      "storeid": "kitakata-b81259",
+      "shopid": "kitakata-b81259-paypay"
     },
     {
       "name": "FlatOut",
-      "address": "塩川町遠田"
+      "address": "塩川町遠田",
+      "storeid": "kitakata-82d853",
+      "shopid": "kitakata-82d853-paypay"
     },
     {
       "name": "HairsPiece",
-      "address": "塩川町御殿場"
+      "address": "塩川町御殿場",
+      "storeid": "kitakata-a79c10",
+      "shopid": "kitakata-a79c10-paypay"
     },
     {
       "name": "RUFFRUFFドッグラン",
-      "address": "塩川町五合金森"
+      "address": "塩川町五合金森",
+      "storeid": "kitakata-e6a597",
+      "shopid": "kitakata-e6a597-paypay"
     },
     {
       "name": "岩城建具店",
-      "address": "山都町蛇崩"
+      "address": "山都町蛇崩",
+      "storeid": "kitakata-568c58",
+      "shopid": "kitakata-568c58-paypay"
     },
     {
       "name": "BarBerいとう",
-      "address": "山都町広中新田"
+      "address": "山都町広中新田",
+      "storeid": "kitakata-1b67f6",
+      "shopid": "kitakata-1b67f6-paypay"
     },
     {
       "name": "ふれあいランド高郷",
-      "address": "高郷町揚津"
+      "address": "高郷町揚津",
+      "storeid": "kitakata-343e71",
+      "shopid": "kitakata-343e71-paypay"
     }
   ],
   "宿泊": [
     {
       "name": "あづま旅館",
-      "address": "小田付道下"
+      "address": "小田付道下",
+      "storeid": "kitakata-478ecb",
+      "shopid": "kitakata-478ecb-paypay"
     },
     {
       "name": "熱塩温泉山形屋",
-      "address": "熱塩加納町熱塩北平田甲"
+      "address": "熱塩加納町熱塩北平田甲",
+      "storeid": "kitakata-2ed26f",
+      "shopid": "kitakata-2ed26f-paypay"
     },
     {
       "name": "いいでのゆ",
-      "address": "山都町一ノ木越戸"
+      "address": "山都町一ノ木越戸",
+      "storeid": "kitakata-b9c056",
+      "shopid": "kitakata-b9c056-paypay"
     }
   ],
   "小売": [
     {
       "name": "會津ギフト",
-      "address": "花園"
+      "address": "花園",
+      "storeid": "kitakata-a3dcf1",
+      "shopid": "kitakata-a3dcf1-paypay"
     },
     {
       "name": "会津ヤクルト販売喜多方センター",
-      "address": "東桜ガ丘"
+      "address": "東桜ガ丘",
+      "storeid": "kitakata-61bba5",
+      "shopid": "kitakata-61bba5-paypay"
     },
     {
       "name": "アンテーク・セレクト雑貨いろは",
-      "address": "1丁目"
+      "address": "1丁目",
+      "storeid": "kitakata-2f2210",
+      "shopid": "kitakata-2f2210-paypay"
     },
     {
       "name": "いいで薬局鳥見山店",
-      "address": "松山町鳥見山"
+      "address": "松山町鳥見山",
+      "storeid": "kitakata-8a6470",
+      "shopid": "kitakata-8a6470-paypay"
     },
     {
       "name": "いがらし製めん直売所",
-      "address": "押切南"
+      "address": "押切南",
+      "storeid": "kitakata-ee5a5a",
+      "shopid": "kitakata-ee5a5a-paypay"
     },
     {
       "name": "岩田商店喜多方西SS",
-      "address": "押切南"
+      "address": "押切南",
+      "storeid": "kitakata-479ff6",
+      "shopid": "kitakata-479ff6-paypay"
     },
     {
       "name": "岩田商店松山SS",
-      "address": "松山町村松石田"
+      "address": "松山町村松石田",
+      "storeid": "kitakata-c39b6c",
+      "shopid": "kitakata-c39b6c-paypay"
     },
     {
       "name": "鵜    商店",
-      "address": "常盤町"
+      "address": "常盤町",
+      "storeid": "kitakata-9dad51",
+      "shopid": "kitakata-9dad51-paypay"
     },
     {
       "name": "江    米菓店",
-      "address": "岩月町宮津若宮"
+      "address": "岩月町宮津若宮",
+      "storeid": "kitakata-61b4d6",
+      "shopid": "kitakata-61b4d6-paypay"
     },
     {
       "name": "えびす屋 松崎商店",
-      "address": "南町"
+      "address": "南町",
+      "storeid": "kitakata-c21fb6",
+      "shopid": "kitakata-c21fb6-paypay"
     },
     {
       "name": "オカモトセルフ喜多方",
-      "address": "井戸尻"
+      "address": "井戸尻",
+      "storeid": "kitakata-7c04ec",
+      "shopid": "kitakata-7c04ec-paypay"
     },
     {
       "name": "おおつか化粧品店",
-      "address": "大道田"
+      "address": "大道田",
+      "storeid": "kitakata-c92b8f",
+      "shopid": "kitakata-c92b8f-paypay"
     },
     {
       "name": "お菓子の蔵太郎庵喜多方店",
-      "address": "屋敷免"
+      "address": "屋敷免",
+      "storeid": "kitakata-4c47b2",
+      "shopid": "kitakata-4c47b2-paypay"
     },
     {
       "name": "おしゃれの店ツジルシ",
-      "address": "3丁目"
+      "address": "3丁目",
+      "storeid": "kitakata-2493da",
+      "shopid": "kitakata-2493da-paypay"
     },
     {
       "name": "お茶の島慶園",
-      "address": "2丁目"
+      "address": "2丁目",
+      "storeid": "kitakata-e9d1d7",
+      "shopid": "kitakata-e9d1d7-paypay"
     },
     {
       "name": "おのでら",
-      "address": "2丁目"
+      "address": "2丁目",
+      "storeid": "kitakata-ab5ef7",
+      "shopid": "kitakata-ab5ef7-paypay"
     },
     {
       "name": "小原酒造",
-      "address": "南町"
+      "address": "南町",
+      "storeid": "kitakata-2a0b54",
+      "shopid": "kitakata-2a0b54-paypay"
     },
     {
       "name": "折橋商店",
-      "address": "熊倉町熊倉"
+      "address": "熊倉町熊倉",
+      "storeid": "kitakata-f611bf",
+      "shopid": "kitakata-f611bf-paypay"
     },
     {
       "name": "甲斐商店甲斐商店",
-      "address": "町田"
+      "address": "町田",
+      "storeid": "kitakata-f11dcb",
+      "shopid": "kitakata-f11dcb-paypay"
     },
     {
       "name": "GAREGECREW",
-      "address": "関柴町上高額宮越"
+      "address": "関柴町上高額宮越",
+      "storeid": "kitakata-11d645",
+      "shopid": "kitakata-11d645-paypay"
     },
     {
       "name": "喜多方あいあい薬局",
-      "address": "2丁目"
+      "address": "2丁目",
+      "storeid": "kitakata-052647",
+      "shopid": "kitakata-052647-paypay"
     },
     {
       "name": "喜多方キラリファーム23",
-      "address": "熊倉町雄国クク谷地"
+      "address": "熊倉町雄国クク谷地",
+      "storeid": "kitakata-12bbd1",
+      "shopid": "kitakata-12bbd1-paypay"
     },
     {
       "name": "喜多方蔵の里",
-      "address": "押切"
+      "address": "押切",
+      "storeid": "kitakata-6971ce",
+      "shopid": "kitakata-6971ce-paypay"
     },
     {
       "name": "喜多方酒蔵場（しんたに）",
-      "address": "松山町村松石田"
+      "address": "松山町村松石田",
+      "storeid": "kitakata-20b195",
+      "shopid": "kitakata-20b195-paypay"
     },
     {
       "name": "ギフトプラザ喜多方店",
-      "address": "関柴町上高額広面"
+      "address": "関柴町上高額広面",
+      "storeid": "kitakata-b2c1db",
+      "shopid": "kitakata-b2c1db-paypay"
     },
     {
       "name": "靴のコバヤシ",
-      "address": "3丁目"
+      "address": "3丁目",
+      "storeid": "kitakata-3b69f1",
+      "shopid": "kitakata-3b69f1-paypay"
     },
     {
       "name": "クレープ&カフェくるくる",
-      "address": "3丁目"
+      "address": "3丁目",
+      "storeid": "kitakata-b15493",
+      "shopid": "kitakata-b15493-paypay"
     },
     {
       "name": "黒澤桐材店",
-      "address": "一本木上"
+      "address": "一本木上",
+      "storeid": "kitakata-a830f0",
+      "shopid": "kitakata-a830f0-paypay"
     },
     {
       "name": "コープVALUEぷらざ店",
-      "address": "通船場"
+      "address": "通船場",
+      "storeid": "kitakata-8213de",
+      "shopid": "kitakata-8213de-paypay"
     },
     {
       "name": "コープBESTAひがし店",
-      "address": "惣座宮"
+      "address": "惣座宮",
+      "storeid": "kitakata-defb39",
+      "shopid": "kitakata-defb39-paypay"
     },
     {
       "name": "コスモ石油喜多方SS",
-      "address": "関柴町上高額境田"
+      "address": "関柴町上高額境田",
+      "storeid": "kitakata-7970ac",
+      "shopid": "kitakata-7970ac-paypay"
     },
     {
       "name": "さかいや生花店",
-      "address": "1丁目"
+      "address": "1丁目",
+      "storeid": "kitakata-f6628d",
+      "shopid": "kitakata-f6628d-paypay"
     },
     {
       "name": "さがら呉服店",
-      "address": "3丁目"
+      "address": "3丁目",
+      "storeid": "kitakata-7f8ab7",
+      "shopid": "kitakata-7f8ab7-paypay"
     },
     {
       "name": "サトウ電化サービス",
-      "address": "町尻西"
+      "address": "町尻西",
+      "storeid": "kitakata-c664d2",
+      "shopid": "kitakata-c664d2-paypay"
     },
     {
       "name": "三万石喜多方店",
-      "address": "西四ツ谷"
+      "address": "西四ツ谷",
+      "storeid": "kitakata-98f345",
+      "shopid": "kitakata-98f345-paypay"
     },
     {
       "name": "JA会津よつば総合サービス喜多方給油所",
-      "address": "岩月町喜多方渕ノ下"
+      "address": "岩月町喜多方渕ノ下",
+      "storeid": "kitakata-131e09",
+      "shopid": "kitakata-131e09-paypay"
     },
     {
       "name": "JA会津よつば総合サービス豊    給油所",
-      "address": "豊川町米室樋の下"
+      "address": "豊川町米室樋の下",
+      "storeid": "kitakata-33418c",
+      "shopid": "kitakata-33418c-paypay"
     },
     {
       "name": "JA農産物直売所「いいでの四季喜多方店」",
-      "address": "岩月町喜多方渕ノ上"
+      "address": "岩月町喜多方渕ノ上",
+      "storeid": "kitakata-18b3e5",
+      "shopid": "kitakata-18b3e5-paypay"
     },
     {
       "name": "自転車の店ヨシハラ商会",
-      "address": "松山町村松小荒井道西"
+      "address": "松山町村松小荒井道西",
+      "storeid": "kitakata-f2f485",
+      "shopid": "kitakata-f2f485-paypay"
     },
     {
       "name": "清水屋種苗園芸",
-      "address": "2丁目"
+      "address": "2丁目",
+      "storeid": "kitakata-2d8120",
+      "shopid": "kitakata-2d8120-paypay"
     },
     {
       "name": "手芸のみとや喜多方店",
-      "address": "西四ツ谷"
+      "address": "西四ツ谷",
+      "storeid": "kitakata-827865",
+      "shopid": "kitakata-827865-paypay"
     },
     {
       "name": "Shindy",
-      "address": "梅竹"
+      "address": "梅竹",
+      "storeid": "kitakata-e28aae",
+      "shopid": "kitakata-e28aae-paypay"
     },
     {
       "name": "真美商星青果店",
-      "address": "惣座宮"
+      "address": "惣座宮",
+      "storeid": "kitakata-3655d3",
+      "shopid": "kitakata-3655d3-paypay"
     },
     {
       "name": "杉葉",
-      "address": "惣座宮"
+      "address": "惣座宮",
+      "storeid": "kitakata-1934c5",
+      "shopid": "kitakata-1934c5-paypay"
     },
     {
       "name": "関ビジネス喜多方営業所",
-      "address": "関柴町上高額広面"
+      "address": "関柴町上高額広面",
+      "storeid": "kitakata-af9939",
+      "shopid": "kitakata-af9939-paypay"
     },
     {
       "name": "曽我製麺",
-      "address": "関柴町上高額宮越"
+      "address": "関柴町上高額宮越",
+      "storeid": "kitakata-22e1d0",
+      "shopid": "kitakata-22e1d0-paypay"
     },
     {
       "name": "ダイアナ美サイド",
-      "address": "松山町鳥見山街道西"
+      "address": "松山町鳥見山街道西",
+      "storeid": "kitakata-58064a",
+      "shopid": "kitakata-58064a-paypay"
     },
     {
       "name": "竹工房たけや",
-      "address": "南町"
+      "address": "南町",
+      "storeid": "kitakata-5a1ff4",
+      "shopid": "kitakata-5a1ff4-paypay"
     },
     {
       "name": "帝撃ロックサービス",
-      "address": "関柴町上高額東原"
+      "address": "関柴町上高額東原",
+      "storeid": "kitakata-6cda4a",
+      "shopid": "kitakata-6cda4a-paypay"
     },
     {
       "name": "DECOLITY",
-      "address": "屋敷免"
+      "address": "屋敷免",
+      "storeid": "kitakata-b828c3",
+      "shopid": "kitakata-b828c3-paypay"
     },
     {
       "name": "DogSalonLise",
-      "address": "松山町村松寺分"
+      "address": "松山町村松寺分",
+      "storeid": "kitakata-cab6d8",
+      "shopid": "kitakata-cab6d8-paypay"
     },
     {
       "name": "Dogベースパルトネールドッグスペースパルトネー",
-      "address": "押切"
+      "address": "押切",
+      "storeid": "kitakata-976078",
+      "shopid": "kitakata-976078-paypay"
     },
     {
       "name": "中野商店中野商店",
-      "address": "清水台"
+      "address": "清水台",
+      "storeid": "kitakata-c05026",
+      "shopid": "kitakata-c05026-paypay"
     },
     {
       "name": "農産物直売所とんとん野彩蔵",
-      "address": "1丁目"
+      "address": "1丁目",
+      "storeid": "kitakata-997290",
+      "shopid": "kitakata-997290-paypay"
     },
     {
       "name": "HarvestMoonRecords",
-      "address": "行作"
+      "address": "行作",
+      "storeid": "kitakata-3496d2",
+      "shopid": "kitakata-3496d2-paypay"
     },
     {
       "name": "BAIHU",
-      "address": "行作"
+      "address": "行作",
+      "storeid": "kitakata-99f03f",
+      "shopid": "kitakata-99f03f-paypay"
     },
     {
       "name": "パナピアきたかた",
-      "address": "水上"
+      "address": "水上",
+      "storeid": "kitakata-10c66a",
+      "shopid": "kitakata-10c66a-paypay"
     },
     {
       "name": "羽入商店",
-      "address": "熊倉町熊倉熊倉"
+      "address": "熊倉町熊倉熊倉",
+      "storeid": "kitakata-c9aa17",
+      "shopid": "kitakata-c9aa17-paypay"
     },
     {
       "name": "HITACHIおのづかデンキ",
-      "address": "関柴町上高額境田"
+      "address": "関柴町上高額境田",
+      "storeid": "kitakata-4b5aef",
+      "shopid": "kitakata-4b5aef-paypay"
     },
     {
       "name": "ファッションライフまつや",
-      "address": "西四ツ谷"
+      "address": "西四ツ谷",
+      "storeid": "kitakata-78c8c7",
+      "shopid": "kitakata-78c8c7-paypay"
     },
     {
       "name": "ブティックのい",
-      "address": "小田付道上"
+      "address": "小田付道上",
+      "storeid": "kitakata-a6a563",
+      "shopid": "kitakata-a6a563-paypay"
     },
     {
       "name": "古    商店",
-      "address": "1丁目"
+      "address": "1丁目",
+      "storeid": "kitakata-4d9bf2",
+      "shopid": "kitakata-4d9bf2-paypay"
     },
     {
       "name": "古    燃料店",
-      "address": "豊川町米室志津"
+      "address": "豊川町米室志津",
+      "storeid": "kitakata-09389d",
+      "shopid": "kitakata-09389d-paypay"
     },
     {
       "name": "ベリーズソフトクリーム",
-      "address": "西四ツ谷"
+      "address": "西四ツ谷",
+      "storeid": "kitakata-219795",
+      "shopid": "kitakata-219795-paypay"
     },
     {
       "name": "ほっともっと喜多方店",
-      "address": "稲荷宮"
+      "address": "稲荷宮",
+      "storeid": "kitakata-0b9559",
+      "shopid": "kitakata-0b9559-paypay"
     },
     {
       "name": "松本屋",
-      "address": "3丁目"
+      "address": "3丁目",
+      "storeid": "kitakata-8c86ae",
+      "shopid": "kitakata-8c86ae-paypay"
     },
     {
       "name": "マルサ漆器製造所",
-      "address": "天満前"
+      "address": "天満前",
+      "storeid": "kitakata-f7e4fd",
+      "shopid": "kitakata-f7e4fd-paypay"
     },
     {
       "name": "マルヤ玩具店",
-      "address": "2丁目"
+      "address": "2丁目",
+      "storeid": "kitakata-d4b64d",
+      "shopid": "kitakata-d4b64d-paypay"
     },
     {
       "name": "三浦英次商店",
-      "address": "中町"
+      "address": "中町",
+      "storeid": "kitakata-62c9ea",
+      "shopid": "kitakata-62c9ea-paypay"
     },
     {
       "name": "みつい生花店",
-      "address": "3丁目"
+      "address": "3丁目",
+      "storeid": "kitakata-944032",
+      "shopid": "kitakata-944032-paypay"
     },
     {
       "name": "峰の雪酒造場",
-      "address": "桜ガ丘"
+      "address": "桜ガ丘",
+      "storeid": "kitakata-b0a4c3",
+      "shopid": "kitakata-b0a4c3-paypay"
     },
     {
       "name": "宮脇書店喜多方店",
-      "address": "西四ツ谷"
+      "address": "西四ツ谷",
+      "storeid": "kitakata-346181",
+      "shopid": "kitakata-346181-paypay"
     },
     {
       "name": "民藝あくた",
-      "address": "町田"
+      "address": "町田",
+      "storeid": "kitakata-64af3e",
+      "shopid": "kitakata-64af3e-paypay"
     },
     {
       "name": "ヤマトスポーツ店",
-      "address": "寺町"
+      "address": "寺町",
+      "storeid": "kitakata-b744a6",
+      "shopid": "kitakata-b744a6-paypay"
     },
     {
       "name": "ヤマト釣具店",
-      "address": "慶徳道下"
+      "address": "慶徳道下",
+      "storeid": "kitakata-3336c2",
+      "shopid": "kitakata-3336c2-paypay"
     },
     {
       "name": "大和冷蔵喜多方事業所",
-      "address": "清水台"
+      "address": "清水台",
+      "storeid": "kitakata-4667b9",
+      "shopid": "kitakata-4667b9-paypay"
     },
     {
       "name": "山中煎餅本舗",
-      "address": "関柴町上高額北町"
+      "address": "関柴町上高額北町",
+      "storeid": "kitakata-e63a0a",
+      "shopid": "kitakata-e63a0a-paypay"
     },
     {
       "name": "結まーるプラザ喜多方ふれあい通り店",
-      "address": "3丁目"
+      "address": "3丁目",
+      "storeid": "kitakata-84f123",
+      "shopid": "kitakata-84f123-paypay"
     },
     {
       "name": "楽篆工房",
-      "address": "寺町"
+      "address": "寺町",
+      "storeid": "kitakata-ca0d3b",
+      "shopid": "kitakata-ca0d3b-paypay"
     },
     {
       "name": "RECCIDERBEERWORKS",
-      "address": "関柴町上高額樋口"
+      "address": "関柴町上高額樋口",
+      "storeid": "kitakata-8d6adf",
+      "shopid": "kitakata-8d6adf-paypay"
     },
     {
       "name": "RECCIDERBEERWORKS関西",
-      "address": "関柴町上高額樋口"
+      "address": "関柴町上高額樋口",
+      "storeid": "kitakata-fddcb9",
+      "shopid": "kitakata-fddcb9-paypay"
     },
     {
       "name": "和飲蔵",
-      "address": "北町"
+      "address": "北町",
+      "storeid": "kitakata-900a66",
+      "shopid": "kitakata-900a66-paypay"
     },
     {
       "name": "若喜商店",
-      "address": "3丁目"
+      "address": "3丁目",
+      "storeid": "kitakata-e5c5ef",
+      "shopid": "kitakata-e5c5ef-paypay"
     },
     {
       "name": "わくわく工房",
-      "address": "熊倉町熊倉柳原"
+      "address": "熊倉町熊倉柳原",
+      "storeid": "kitakata-808d6e",
+      "shopid": "kitakata-808d6e-paypay"
     },
     {
       "name": "JA会津よつば総合サービス熱塩給油所",
-      "address": "熱塩加納町山田道西"
+      "address": "熱塩加納町山田道西",
+      "storeid": "kitakata-dde16e",
+      "shopid": "kitakata-dde16e-paypay"
     },
     {
       "name": "天然酵母カントリーロード",
-      "address": "熱塩加納町相田大森乙"
+      "address": "熱塩加納町相田大森乙",
+      "storeid": "kitakata-2bcecb",
+      "shopid": "kitakata-2bcecb-paypay"
     },
     {
       "name": "五十嵐文具店",
-      "address": "塩川町岡ノ前"
+      "address": "塩川町岡ノ前",
+      "storeid": "kitakata-cd34e5",
+      "shopid": "kitakata-cd34e5-paypay"
     },
     {
       "name": "オオギヤ",
-      "address": "塩川町東栄町"
+      "address": "塩川町東栄町",
+      "storeid": "kitakata-038acb",
+      "shopid": "kitakata-038acb-paypay"
     },
     {
       "name": "お菓子の蔵太郎庵塩    店",
-      "address": "塩川町東栄町"
+      "address": "塩川町東栄町",
+      "storeid": "kitakata-258e37",
+      "shopid": "kitakata-258e37-paypay"
     },
     {
       "name": "COOPVALUEしおかわ店",
-      "address": "塩川町東栄町"
+      "address": "塩川町東栄町",
+      "storeid": "kitakata-29b390",
+      "shopid": "kitakata-29b390-paypay"
     },
     {
       "name": "COOPBESTA＋とねがわ店",
-      "address": "塩川町小府根曽谷田"
+      "address": "塩川町小府根曽谷田",
+      "storeid": "kitakata-db5f31",
+      "shopid": "kitakata-db5f31-paypay"
     },
     {
       "name": "JA会津よつば総合サービス塩    給油所",
-      "address": "塩川町小府根道下"
+      "address": "塩川町小府根道下",
+      "storeid": "kitakata-a07c2b",
+      "shopid": "kitakata-a07c2b-paypay"
     },
     {
       "name": "JOLIEFLEUR",
-      "address": "塩川町東栄町"
+      "address": "塩川町東栄町",
+      "storeid": "kitakata-1e8034",
+      "shopid": "kitakata-1e8034-paypay"
     },
     {
       "name": "スガデン",
-      "address": "塩川町中町"
+      "address": "塩川町中町",
+      "storeid": "kitakata-4cef36",
+      "shopid": "kitakata-4cef36-paypay"
     },
     {
       "name": "ダイアナフルール",
-      "address": "塩川町御殿場"
+      "address": "塩川町御殿場",
+      "storeid": "kitakata-eceab7",
+      "shopid": "kitakata-eceab7-paypay"
     },
     {
       "name": "辰野ファーム",
-      "address": "塩川町吉沖西村"
+      "address": "塩川町吉沖西村",
+      "storeid": "kitakata-6f4a1d",
+      "shopid": "kitakata-6f4a1d-paypay"
     },
     {
       "name": "山口酒店",
-      "address": "塩川町小府根畑ヶ田"
+      "address": "塩川町小府根畑ヶ田",
+      "storeid": "kitakata-930c3b",
+      "shopid": "kitakata-930c3b-paypay"
     },
     {
       "name": "菓子舗宇多郎",
-      "address": "山都町小山"
+      "address": "山都町小山",
+      "storeid": "kitakata-2bc3ce",
+      "shopid": "kitakata-2bc3ce-paypay"
     },
     {
       "name": "JA会津よつば総合サービス山都給油所",
-      "address": "山都町三津合塚田"
+      "address": "山都町三津合塚田",
+      "storeid": "kitakata-df1edf",
+      "shopid": "kitakata-df1edf-paypay"
     },
     {
       "name": "そば資料館",
-      "address": "山都町沢田"
+      "address": "山都町沢田",
+      "storeid": "kitakata-431856",
+      "shopid": "kitakata-431856-paypay"
     },
     {
       "name": "真部農園アスパラガス直売所",
-      "address": "山都町木幡一ノ戸道下丙"
+      "address": "山都町木幡一ノ戸道下丙",
+      "storeid": "kitakata-620959",
+      "shopid": "kitakata-620959-paypay"
     },
     {
       "name": "山都ショッピングセンター総合食品マルニ",
-      "address": "山都町木曽"
+      "address": "山都町木曽",
+      "storeid": "kitakata-c39beb",
+      "shopid": "kitakata-c39beb-paypay"
     },
     {
       "name": "とうふ屋おはら",
-      "address": "高郷町大田賀地神原"
+      "address": "高郷町大田賀地神原",
+      "storeid": "kitakata-f60738",
+      "shopid": "kitakata-f60738-paypay"
     }
   ],
   "飲食": [
     {
       "name": "会津喜多方ラーメン館本館",
-      "address": "梅竹"
+      "address": "梅竹",
+      "storeid": "kitakata-e56c6b",
+      "shopid": "kitakata-e56c6b-paypay"
     },
     {
       "name": "赤れんが",
-      "address": "岩月町宮津惣社原"
+      "address": "岩月町宮津惣社原",
+      "storeid": "kitakata-b6669f",
+      "shopid": "kitakata-b6669f-paypay"
     },
     {
       "name": "あじ庵食堂",
-      "address": "豊川町米室アカト"
+      "address": "豊川町米室アカト",
+      "storeid": "kitakata-871e94",
+      "shopid": "kitakata-871e94-paypay"
     },
     {
       "name": "アンティウス",
-      "address": "細田"
+      "address": "細田",
+      "storeid": "kitakata-4b006e",
+      "shopid": "kitakata-4b006e-paypay"
     },
     {
       "name": "ウリナム食堂",
-      "address": "前田"
+      "address": "前田",
+      "storeid": "kitakata-0c642e",
+      "shopid": "kitakata-0c642e-paypay"
     },
     {
       "name": "お食事とお酒舟場α",
-      "address": "通船場"
+      "address": "通船場",
+      "storeid": "kitakata-7bd57f",
+      "shopid": "kitakata-7bd57f-paypay"
     },
     {
       "name": "音楽酒場おんつぁげす",
-      "address": "2丁目"
+      "address": "2丁目",
+      "storeid": "kitakata-0502e3",
+      "shopid": "kitakata-0502e3-paypay"
     },
     {
       "name": "割烹寿司おゝ多",
-      "address": "谷地田"
+      "address": "谷地田",
+      "storeid": "kitakata-83fd71",
+      "shopid": "kitakata-83fd71-paypay"
     },
     {
       "name": "可奈女鮨",
-      "address": "谷地田"
+      "address": "谷地田",
+      "storeid": "kitakata-4041fb",
+      "shopid": "kitakata-4041fb-paypay"
     },
     {
       "name": "カフェ蔵誠",
-      "address": "押切"
+      "address": "押切",
+      "storeid": "kitakata-cfe57a",
+      "shopid": "kitakata-cfe57a-paypay"
     },
     {
       "name": "カラオケレストラン・グー喜多方本店",
-      "address": "関柴町上高額境田"
+      "address": "関柴町上高額境田",
+      "storeid": "kitakata-1e6435",
+      "shopid": "kitakata-1e6435-paypay"
     },
     {
       "name": "がんこラーメン葵飯店",
-      "address": "梅竹"
+      "address": "梅竹",
+      "storeid": "kitakata-eaefed",
+      "shopid": "kitakata-eaefed-paypay"
     },
     {
       "name": "菊水",
-      "address": "寺町南"
+      "address": "寺町南",
+      "storeid": "kitakata-6b5e60",
+      "shopid": "kitakata-6b5e60-paypay"
     },
     {
       "name": "喜多方BAL",
-      "address": "2丁目"
+      "address": "2丁目",
+      "storeid": "kitakata-0dd592",
+      "shopid": "kitakata-0dd592-paypay"
     },
     {
       "name": "喜多方ラーメン来夢喜多方本店",
-      "address": "稲荷宮"
+      "address": "稲荷宮",
+      "storeid": "kitakata-d5451a",
+      "shopid": "kitakata-d5451a-paypay"
     },
     {
       "name": "木之本漆器店カフェテラスわさび",
-      "address": "天満前"
+      "address": "天満前",
+      "storeid": "kitakata-286893",
+      "shopid": "kitakata-286893-paypay"
     },
     {
       "name": "CURIOUS",
-      "address": "谷地田"
+      "address": "谷地田",
+      "storeid": "kitakata-e7a23a",
+      "shopid": "kitakata-e7a23a-paypay"
     },
     {
       "name": "くじら雲myfirstkitchen",
-      "address": "小田付道下"
+      "address": "小田付道下",
+      "storeid": "kitakata-ab237b",
+      "shopid": "kitakata-ab237b-paypay"
     },
     {
       "name": "樟山珈琲店",
-      "address": "南町"
+      "address": "南町",
+      "storeid": "kitakata-fc6223",
+      "shopid": "kitakata-fc6223-paypay"
     },
     {
       "name": "クラインガルテン",
-      "address": "豊川町高堂太高里"
+      "address": "豊川町高堂太高里",
+      "storeid": "kitakata-8ee0d3",
+      "shopid": "kitakata-8ee0d3-paypay"
     },
     {
       "name": "喜多方ラーメン神社",
-      "address": "2丁目"
+      "address": "2丁目",
+      "storeid": "kitakata-31d6bb",
+      "shopid": "kitakata-31d6bb-paypay"
     },
     {
       "name": "香福",
-      "address": "桜ガ丘"
+      "address": "桜ガ丘",
+      "storeid": "kitakata-24786a",
+      "shopid": "kitakata-24786a-paypay"
     },
     {
       "name": "Coccotree",
-      "address": "御清水"
+      "address": "御清水",
+      "storeid": "kitakata-393efd",
+      "shopid": "kitakata-393efd-paypay"
     },
     {
       "name": "ごはんや華奈",
-      "address": "水上"
+      "address": "水上",
+      "storeid": "kitakata-fe6d04",
+      "shopid": "kitakata-fe6d04-paypay"
     },
     {
       "name": "酒バーコギク",
-      "address": "小田付道下"
+      "address": "小田付道下",
+      "storeid": "kitakata-10db42",
+      "shopid": "kitakata-10db42-paypay"
     },
     {
       "name": "さくら亭",
-      "address": "押切南"
+      "address": "押切南",
+      "storeid": "kitakata-57a8aa",
+      "shopid": "kitakata-57a8aa-paypay"
     },
     {
       "name": "シーズン",
-      "address": "西四ツ谷"
+      "address": "西四ツ谷",
+      "storeid": "kitakata-d0ab2f",
+      "shopid": "kitakata-d0ab2f-paypay"
     },
     {
       "name": "塩    屋",
-      "address": "1丁目"
+      "address": "1丁目",
+      "storeid": "kitakata-7f1561",
+      "shopid": "kitakata-7f1561-paypay"
     },
     {
       "name": "志ぐれ亭",
-      "address": "上三宮町吉    日照畑"
+      "address": "上三宮町吉    日照畑",
+      "storeid": "kitakata-32062c",
+      "shopid": "kitakata-32062c-paypay"
     },
     {
       "name": "食堂つきとおひさま",
-      "address": "寺町南"
+      "address": "寺町南",
+      "storeid": "kitakata-cd86f2",
+      "shopid": "kitakata-cd86f2-paypay"
     },
     {
       "name": "すし海道喜多方店",
-      "address": "関柴町三津井唐八"
+      "address": "関柴町三津井唐八",
+      "storeid": "kitakata-a2a968",
+      "shopid": "kitakata-a2a968-paypay"
     },
     {
       "name": "スナックさくら",
-      "address": "谷地田"
+      "address": "谷地田",
+      "storeid": "kitakata-baf3c2",
+      "shopid": "kitakata-baf3c2-paypay"
     },
     {
       "name": "炭火串焼賢ken",
-      "address": "2丁目"
+      "address": "2丁目",
+      "storeid": "kitakata-d049ed",
+      "shopid": "kitakata-d049ed-paypay"
     },
     {
       "name": "蕎麦屋高堂太",
-      "address": "豊川町高堂太免田"
+      "address": "豊川町高堂太免田",
+      "storeid": "kitakata-876379",
+      "shopid": "kitakata-876379-paypay"
     },
     {
       "name": "楽気Tanoshige",
-      "address": "谷地田"
+      "address": "谷地田",
+      "storeid": "kitakata-b71da5",
+      "shopid": "kitakata-b71da5-paypay"
     },
     {
       "name": "たんぽぽ亭",
-      "address": "小田付道下"
+      "address": "小田付道下",
+      "storeid": "kitakata-8baeb6",
+      "shopid": "kitakata-8baeb6-paypay"
     },
     {
       "name": "nichinichicoffee",
-      "address": "桜ガ丘"
+      "address": "桜ガ丘",
+      "storeid": "kitakata-476c6e",
+      "shopid": "kitakata-476c6e-paypay"
     },
     {
       "name": "農家のそば屋さくら",
-      "address": "熊倉町雄国上百目貫"
+      "address": "熊倉町雄国上百目貫",
+      "storeid": "kitakata-88b103",
+      "shopid": "kitakata-88b103-paypay"
     },
     {
       "name": "BARCAVE",
-      "address": "細田"
+      "address": "細田",
+      "storeid": "kitakata-cfdf1e",
+      "shopid": "kitakata-cfdf1e-paypay"
     },
     {
       "name": "華会席瑞兆",
-      "address": "3丁目"
+      "address": "3丁目",
+      "storeid": "kitakata-e39173",
+      "shopid": "kitakata-e39173-paypay"
     },
     {
       "name": "晩酌屋喜っせ",
-      "address": "3丁目"
+      "address": "3丁目",
+      "storeid": "kitakata-5f65b9",
+      "shopid": "kitakata-5f65b9-paypay"
     },
     {
       "name": "福島屋",
-      "address": "1丁目"
+      "address": "1丁目",
+      "storeid": "kitakata-062b8f",
+      "shopid": "kitakata-062b8f-paypay"
     },
     {
       "name": "FRYINGPAN",
-      "address": "南町"
+      "address": "南町",
+      "storeid": "kitakata-2b7a50",
+      "shopid": "kitakata-2b7a50-paypay"
     },
     {
       "name": "ふるさと亭レストラン",
-      "address": "松山町鳥見山三町歩"
+      "address": "松山町鳥見山三町歩",
+      "storeid": "kitakata-7f60bf",
+      "shopid": "kitakata-7f60bf-paypay"
     },
     {
       "name": "musicbarLoverSoul",
-      "address": "小田付道下"
+      "address": "小田付道下",
+      "storeid": "kitakata-74864e",
+      "shopid": "kitakata-74864e-paypay"
     },
     {
       "name": "モスバーガー会津喜多方店",
-      "address": "井戸尻"
+      "address": "井戸尻",
+      "storeid": "kitakata-7fa6b7",
+      "shopid": "kitakata-7fa6b7-paypay"
     },
     {
       "name": "焼処サムライ",
-      "address": "大谷地田"
+      "address": "大谷地田",
+      "storeid": "kitakata-60b1b9",
+      "shopid": "kitakata-60b1b9-paypay"
     },
     {
       "name": "ラーメンうめ八",
-      "address": "北町上"
+      "address": "北町上",
+      "storeid": "kitakata-478c5c",
+      "shopid": "kitakata-478c5c-paypay"
     },
     {
       "name": "らーめん酒場ばってん",
-      "address": "小田付道下"
+      "address": "小田付道下",
+      "storeid": "kitakata-589d7e",
+      "shopid": "kitakata-589d7e-paypay"
     },
     {
       "name": "ライブスペーススタジオ結",
-      "address": "細田"
+      "address": "細田",
+      "storeid": "kitakata-e0aeac",
+      "shopid": "kitakata-e0aeac-paypay"
     },
     {
       "name": "レストラン割烹喜多野",
-      "address": "町田"
+      "address": "町田",
+      "storeid": "kitakata-1b7b62",
+      "shopid": "kitakata-1b7b62-paypay"
     },
     {
       "name": "レストラントレビ",
-      "address": "1丁目"
+      "address": "1丁目",
+      "storeid": "kitakata-aaad06",
+      "shopid": "kitakata-aaad06-paypay"
     },
     {
       "name": "ごはんやカフェおぐみ屋",
-      "address": "熱塩加納町山田千苅田甲"
+      "address": "熱塩加納町山田千苅田甲",
+      "storeid": "kitakata-195b58",
+      "shopid": "kitakata-195b58-paypay"
     },
     {
       "name": "空色cafe",
-      "address": "熱塩加納町加納柿木田甲"
+      "address": "熱塩加納町加納柿木田甲",
+      "storeid": "kitakata-be899a",
+      "shopid": "kitakata-be899a-paypay"
     },
     {
       "name": "味浪漫粋旬",
-      "address": "塩川町中町"
+      "address": "塩川町中町",
+      "storeid": "kitakata-fb23ce",
+      "shopid": "kitakata-fb23ce-paypay"
     },
     {
       "name": "アタミ食堂",
-      "address": "塩川町新丁"
+      "address": "塩川町新丁",
+      "storeid": "kitakata-ca734b",
+      "shopid": "kitakata-ca734b-paypay"
     },
     {
       "name": "寿司・割烹新常葉",
-      "address": "塩川町反町"
+      "address": "塩川町反町",
+      "storeid": "kitakata-df0058",
+      "shopid": "kitakata-df0058-paypay"
     },
     {
       "name": "蕎麦や菅井百貨店",
-      "address": "塩川町新丁"
+      "address": "塩川町新丁",
+      "storeid": "kitakata-5b8f74",
+      "shopid": "kitakata-5b8f74-paypay"
     },
     {
       "name": "大衆食堂",
-      "address": "塩川町石橋"
+      "address": "塩川町石橋",
+      "storeid": "kitakata-c3ccf3",
+      "shopid": "kitakata-c3ccf3-paypay"
     },
     {
       "name": "大衆食堂みさお",
-      "address": "塩川町米沢町"
+      "address": "塩川町米沢町",
+      "storeid": "kitakata-ca4045",
+      "shopid": "kitakata-ca4045-paypay"
     },
     {
       "name": "松本屋商店",
-      "address": "塩川町中町"
+      "address": "塩川町中町",
+      "storeid": "kitakata-300537",
+      "shopid": "kitakata-300537-paypay"
     },
     {
       "name": "丸市食堂",
-      "address": "塩川町東栄町"
+      "address": "塩川町東栄町",
+      "storeid": "kitakata-81f095",
+      "shopid": "kitakata-81f095-paypay"
     },
     {
       "name": "山都そば処萬長",
-      "address": "山都町木曽"
+      "address": "山都町木曽",
+      "storeid": "kitakata-098c62",
+      "shopid": "kitakata-098c62-paypay"
     }
   ]
 }

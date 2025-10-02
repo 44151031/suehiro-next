@@ -1,25 +1,101 @@
 {
   "ガソリンスタンド": [
-    { "name": "キグナス石油　セルフブライト　田辺新庄" },
-    { "name": "Gasta 田辺" },
-    { "name": "Gasta白浜" },
-    { "name": "山本石油" },
-    { "name": "牟婁石油　新万SS" },
-    { "name": "ドーメン石油" },
-    { "name": "紀洋石油" },
-    { "name": "牟婁石油　稲成SS" },
-    { "name": "ENEOS　上秋津SS　谷次石油店" },
-    { "name": "エポック　白浜SS" },
-    { "name": "紀洋石油　文里SS" },
-    { "name": "紀洋石油　セルフ田辺SS" },
-    { "name": "チカノ石油" }
+    {
+      "name": "キグナス石油　セルフブライト　田辺新庄",
+      "storeid": "tanabe-246d42",
+      "shopid": "tanabe-246d42-paypay"
+    },
+    {
+      "name": "Gasta 田辺",
+      "storeid": "tanabe-909b90",
+      "shopid": "tanabe-909b90-paypay"
+    },
+    {
+      "name": "Gasta白浜",
+      "storeid": "tanabe-be0925",
+      "shopid": "tanabe-be0925-paypay"
+    },
+    {
+      "name": "山本石油",
+      "storeid": "tanabe-d9fb97",
+      "shopid": "tanabe-d9fb97-paypay"
+    },
+    {
+      "name": "牟婁石油　新万SS",
+      "storeid": "tanabe-c1e50b",
+      "shopid": "tanabe-c1e50b-paypay"
+    },
+    {
+      "name": "ドーメン石油",
+      "storeid": "tanabe-b4053a",
+      "shopid": "tanabe-b4053a-paypay"
+    },
+    {
+      "name": "紀洋石油",
+      "storeid": "tanabe-f4b99e",
+      "shopid": "tanabe-f4b99e-paypay"
+    },
+    {
+      "name": "牟婁石油　稲成SS",
+      "storeid": "tanabe-e2965a",
+      "shopid": "tanabe-e2965a-paypay"
+    },
+    {
+      "name": "ENEOS　上秋津SS　谷次石油店",
+      "storeid": "tanabe-2efeac",
+      "shopid": "tanabe-2efeac-paypay"
+    },
+    {
+      "name": "エポック　白浜SS",
+      "storeid": "tanabe-0ccd46",
+      "shopid": "tanabe-0ccd46-paypay"
+    },
+    {
+      "name": "紀洋石油　文里SS",
+      "storeid": "tanabe-715ef7",
+      "shopid": "tanabe-715ef7-paypay"
+    },
+    {
+      "name": "紀洋石油　セルフ田辺SS",
+      "storeid": "tanabe-2429bc",
+      "shopid": "tanabe-2429bc-paypay"
+    },
+    {
+      "name": "チカノ石油",
+      "storeid": "tanabe-ae09e0",
+      "shopid": "tanabe-ae09e0-paypay"
+    }
   ],
   "スーパー": [
-    { "name": "グルメシティ東陽店" },
-    { "name": "グルメシティ万呂店" },
-    { "name": "ダイエー田辺SC店・イオンフードスタイフ" },
-    { "name": "オークワグループ　プライスカット田辺下万呂店" },
-    { "name": "オークワグループ　オークワ田辺東山店" },
-    { "name": "オークワグループ　オークワパビリオンシティ田辺店" }
+    {
+      "name": "グルメシティ東陽店",
+      "storeid": "tanabe-7f36c7",
+      "shopid": "tanabe-7f36c7-paypay"
+    },
+    {
+      "name": "グルメシティ万呂店",
+      "storeid": "tanabe-bb4685",
+      "shopid": "tanabe-bb4685-paypay"
+    },
+    {
+      "name": "ダイエー田辺SC店・イオンフードスタイフ",
+      "storeid": "tanabe-257c0f",
+      "shopid": "tanabe-257c0f-paypay"
+    },
+    {
+      "name": "オークワグループ　プライスカット田辺下万呂店",
+      "storeid": "tanabe-bb0804",
+      "shopid": "tanabe-bb0804-paypay"
+    },
+    {
+      "name": "オークワグループ　オークワ田辺東山店",
+      "storeid": "tanabe-b5f6ed",
+      "shopid": "tanabe-b5f6ed-paypay"
+    },
+    {
+      "name": "オークワグループ　オークワパビリオンシティ田辺店",
+      "storeid": "tanabe-082df9",
+      "shopid": "tanabe-082df9-paypay"
+    }
   ]
 }

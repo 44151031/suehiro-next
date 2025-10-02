@@ -1,78 +1,388 @@
 {
   "ガソリンスタンド": [
-    { "name": "JA-SS真室川給油所", "address": "真室川地区" }
+    {
+      "name": "JA-SS真室川給油所",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-c5ba53",
+      "shopid": "mamurogawa-c5ba53-paypay"
+    }
   ],
   "理美容・ヘアサロン": [
-    { "name": "アートウェル理容・美容", "address": "真室川地区" },
-    { "name": "ビューティースタジオ&A", "address": "真室川地区" },
-    { "name": "ｈａｉｒ☆ＳＴＡＲＳ", "address": "真室川地区" },
-    { "name": "理容フジ", "address": "真室川地区" },
-    { "name": "Hairroom Yamada", "address": "安楽城・差首鍋地区" }
+    {
+      "name": "アートウェル理容・美容",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-82bbcf",
+      "shopid": "mamurogawa-82bbcf-paypay"
+    },
+    {
+      "name": "ビューティースタジオ&A",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-93dca8",
+      "shopid": "mamurogawa-93dca8-paypay"
+    },
+    {
+      "name": "ｈａｉｒ☆ＳＴＡＲＳ",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-d550da",
+      "shopid": "mamurogawa-d550da-paypay"
+    },
+    {
+      "name": "理容フジ",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-5459e9",
+      "shopid": "mamurogawa-5459e9-paypay"
+    },
+    {
+      "name": "Hairroom Yamada",
+      "address": "安楽城・差首鍋地区",
+      "storeid": "mamurogawa-902a2b",
+      "shopid": "mamurogawa-902a2b-paypay"
+    }
   ],
   "飲食店": [
-    { "name": "一楽", "address": "真室川地区" },
-    { "name": "うどんとごはん処ながの", "address": "真室川地区" },
-    { "name": "梅の里ラーメン大吉", "address": "真室川地区" },
-    { "name": "酒楽家プラム", "address": "真室川地区" },
-    { "name": "庄司製麺工場", "address": "真室川地区" },
-    { "name": "すし海道  真室川店", "address": "真室川地区" },
-    { "name": "すし屋の政紀", "address": "真室川地区" },
-    { "name": "そば屋重次郎", "address": "真室川地区" },
-    { "name": "ニューリンダ・俵", "address": "真室川地区" },
-    { "name": "まむろ川温泉梅里苑", "address": "真室川地区" },
-    { "name": "梅Cafe", "address": "真室川地区" },
-    { "name": "麺屋うめ助", "address": "真室川地区" }
+    {
+      "name": "一楽",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-d20a3b",
+      "shopid": "mamurogawa-d20a3b-paypay"
+    },
+    {
+      "name": "うどんとごはん処ながの",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-959eb8",
+      "shopid": "mamurogawa-959eb8-paypay"
+    },
+    {
+      "name": "梅の里ラーメン大吉",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-31f6be",
+      "shopid": "mamurogawa-31f6be-paypay"
+    },
+    {
+      "name": "酒楽家プラム",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-04690b",
+      "shopid": "mamurogawa-04690b-paypay"
+    },
+    {
+      "name": "庄司製麺工場",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-88f189",
+      "shopid": "mamurogawa-88f189-paypay"
+    },
+    {
+      "name": "すし海道  真室川店",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-1fe0e8",
+      "shopid": "mamurogawa-1fe0e8-paypay"
+    },
+    {
+      "name": "すし屋の政紀",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-1d698b",
+      "shopid": "mamurogawa-1d698b-paypay"
+    },
+    {
+      "name": "そば屋重次郎",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-653aa1",
+      "shopid": "mamurogawa-653aa1-paypay"
+    },
+    {
+      "name": "ニューリンダ・俵",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-8541fc",
+      "shopid": "mamurogawa-8541fc-paypay"
+    },
+    {
+      "name": "まむろ川温泉梅里苑",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-931aef",
+      "shopid": "mamurogawa-931aef-paypay"
+    },
+    {
+      "name": "梅Cafe",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-3a61a1",
+      "shopid": "mamurogawa-3a61a1-paypay"
+    },
+    {
+      "name": "麺屋うめ助",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-1aab3b",
+      "shopid": "mamurogawa-1aab3b-paypay"
+    }
   ],
   "その他": [
-    { "name": "大沢呉服店", "address": "真室川地区" },
-    { "name": "おかしの平和堂", "address": "真室川地区" },
-    { "name": "カーサービスやなせ", "address": "真室川地区" },
-    { "name": "家具のおだ", "address": "真室川地区" },
-    { "name": "カズミデンキ", "address": "真室川地区" },
-    { "name": "カットハウス沓澤", "address": "真室川地区" },
-    { "name": "かとう時計店", "address": "真室川地区" },
-    { "name": "川又クリーニング店", "address": "真室川地区" },
-    { "name": "共栄商事", "address": "真室川地区" },
-    { "name": "古民家カイロ屋さん「スギ」", "address": "真室川地区" },
-    { "name": "新庄タクシー", "address": "真室川地区" },
-    { "name": "髙橋呉服店", "address": "真室川地区" },
-    { "name": "近岡商店", "address": "真室川地区" },
-    { "name": "農家民宿  果菜里庵", "address": "真室川地区" },
-    { "name": "美容室hairSURE", "address": "真室川地区" },
-    { "name": "藤原ガラス店", "address": "真室川地区" },
-    { "name": "プッシュアップ66", "address": "真室川地区" },
-    { "name": "真室川きのこ本舗", "address": "真室川地区" },
-    { "name": "マルコウ環境（自動車整備工場）", "address": "真室川地区" },
-    { "name": "山形六花園", "address": "真室川地区" },
-    { "name": "ヤマト運輸", "address": "真室川地区" },
-    { "name": "雪のおはぎ風花", "address": "真室川地区" },
-    { "name": "洋品呉服のはまや", "address": "真室川地区" },
-    { "name": "在り方としてのヨガ", "address": "安楽城・差首鍋地区" },
-    { "name": "大沼養蜂", "address": "安楽城・差首鍋地区" },
-    { "name": "小野商店サンソ屋", "address": "安楽城・差首鍋地区" },
-    { "name": "佐藤輪店", "address": "安楽城・差首鍋地区" },
-    { "name": "産直あさひ", "address": "安楽城・差首鍋地区" },
-    { "name": "髙橋なか商店", "address": "安楽城・差首鍋地区" },
-    { "name": "高橋自動車（高菊林業）", "address": "安楽城・差首鍋地区" },
-    { "name": "名子坂  小野魚店", "address": "安楽城・差首鍋地区" },
-    { "name": "ひらのや菓子店", "address": "安楽城・差首鍋地区" },
-    { "name": "ママ.クリーニング小野寺よ  大沢コーナー", "address": "安楽城・差首鍋地区" },
-    { "name": "大友商店", "address": "釜渕・及位地区" },
-    { "name": "菓子処亀甲屋", "address": "釜渕・及位地区" },
-    { "name": "佐藤商店", "address": "釜渕・及位地区" },
-    { "name": "田中りんごや", "address": "釜渕・及位地区" },
-    { "name": "まるい商店", "address": "釜渕・及位地区" }
+    {
+      "name": "大沢呉服店",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-40dd61",
+      "shopid": "mamurogawa-40dd61-paypay"
+    },
+    {
+      "name": "おかしの平和堂",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-4e654f",
+      "shopid": "mamurogawa-4e654f-paypay"
+    },
+    {
+      "name": "カーサービスやなせ",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-4b5cea",
+      "shopid": "mamurogawa-4b5cea-paypay"
+    },
+    {
+      "name": "家具のおだ",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-ae5738",
+      "shopid": "mamurogawa-ae5738-paypay"
+    },
+    {
+      "name": "カズミデンキ",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-1878d2",
+      "shopid": "mamurogawa-1878d2-paypay"
+    },
+    {
+      "name": "カットハウス沓澤",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-56954e",
+      "shopid": "mamurogawa-56954e-paypay"
+    },
+    {
+      "name": "かとう時計店",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-7fca99",
+      "shopid": "mamurogawa-7fca99-paypay"
+    },
+    {
+      "name": "川又クリーニング店",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-d644f5",
+      "shopid": "mamurogawa-d644f5-paypay"
+    },
+    {
+      "name": "共栄商事",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-3be743",
+      "shopid": "mamurogawa-3be743-paypay"
+    },
+    {
+      "name": "古民家カイロ屋さん「スギ」",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-c51de1",
+      "shopid": "mamurogawa-c51de1-paypay"
+    },
+    {
+      "name": "新庄タクシー",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-ee2e0c",
+      "shopid": "mamurogawa-ee2e0c-paypay"
+    },
+    {
+      "name": "髙橋呉服店",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-2e7d99",
+      "shopid": "mamurogawa-2e7d99-paypay"
+    },
+    {
+      "name": "近岡商店",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-7072dc",
+      "shopid": "mamurogawa-7072dc-paypay"
+    },
+    {
+      "name": "農家民宿  果菜里庵",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-9e0562",
+      "shopid": "mamurogawa-9e0562-paypay"
+    },
+    {
+      "name": "美容室hairSURE",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-85bd4c",
+      "shopid": "mamurogawa-85bd4c-paypay"
+    },
+    {
+      "name": "藤原ガラス店",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-4f296c",
+      "shopid": "mamurogawa-4f296c-paypay"
+    },
+    {
+      "name": "プッシュアップ66",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-3c19ee",
+      "shopid": "mamurogawa-3c19ee-paypay"
+    },
+    {
+      "name": "真室川きのこ本舗",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-7f0daf",
+      "shopid": "mamurogawa-7f0daf-paypay"
+    },
+    {
+      "name": "マルコウ環境（自動車整備工場）",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-cb2323",
+      "shopid": "mamurogawa-cb2323-paypay"
+    },
+    {
+      "name": "山形六花園",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-2489b1",
+      "shopid": "mamurogawa-2489b1-paypay"
+    },
+    {
+      "name": "ヤマト運輸",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-a1c026",
+      "shopid": "mamurogawa-a1c026-paypay"
+    },
+    {
+      "name": "雪のおはぎ風花",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-8c7624",
+      "shopid": "mamurogawa-8c7624-paypay"
+    },
+    {
+      "name": "洋品呉服のはまや",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-3589dc",
+      "shopid": "mamurogawa-3589dc-paypay"
+    },
+    {
+      "name": "在り方としてのヨガ",
+      "address": "安楽城・差首鍋地区",
+      "storeid": "mamurogawa-80d9e5",
+      "shopid": "mamurogawa-80d9e5-paypay"
+    },
+    {
+      "name": "大沼養蜂",
+      "address": "安楽城・差首鍋地区",
+      "storeid": "mamurogawa-d11028",
+      "shopid": "mamurogawa-d11028-paypay"
+    },
+    {
+      "name": "小野商店サンソ屋",
+      "address": "安楽城・差首鍋地区",
+      "storeid": "mamurogawa-b810d6",
+      "shopid": "mamurogawa-b810d6-paypay"
+    },
+    {
+      "name": "佐藤輪店",
+      "address": "安楽城・差首鍋地区",
+      "storeid": "mamurogawa-22983f",
+      "shopid": "mamurogawa-22983f-paypay"
+    },
+    {
+      "name": "産直あさひ",
+      "address": "安楽城・差首鍋地区",
+      "storeid": "mamurogawa-6d9787",
+      "shopid": "mamurogawa-6d9787-paypay"
+    },
+    {
+      "name": "髙橋なか商店",
+      "address": "安楽城・差首鍋地区",
+      "storeid": "mamurogawa-3feb07",
+      "shopid": "mamurogawa-3feb07-paypay"
+    },
+    {
+      "name": "高橋自動車（高菊林業）",
+      "address": "安楽城・差首鍋地区",
+      "storeid": "mamurogawa-6ba396",
+      "shopid": "mamurogawa-6ba396-paypay"
+    },
+    {
+      "name": "名子坂  小野魚店",
+      "address": "安楽城・差首鍋地区",
+      "storeid": "mamurogawa-d36ef4",
+      "shopid": "mamurogawa-d36ef4-paypay"
+    },
+    {
+      "name": "ひらのや菓子店",
+      "address": "安楽城・差首鍋地区",
+      "storeid": "mamurogawa-38836b",
+      "shopid": "mamurogawa-38836b-paypay"
+    },
+    {
+      "name": "ママ.クリーニング小野寺よ  大沢コーナー",
+      "address": "安楽城・差首鍋地区",
+      "storeid": "mamurogawa-bcf710",
+      "shopid": "mamurogawa-bcf710-paypay"
+    },
+    {
+      "name": "大友商店",
+      "address": "釜渕・及位地区",
+      "storeid": "mamurogawa-ad148e",
+      "shopid": "mamurogawa-ad148e-paypay"
+    },
+    {
+      "name": "菓子処亀甲屋",
+      "address": "釜渕・及位地区",
+      "storeid": "mamurogawa-c24765",
+      "shopid": "mamurogawa-c24765-paypay"
+    },
+    {
+      "name": "佐藤商店",
+      "address": "釜渕・及位地区",
+      "storeid": "mamurogawa-d30871",
+      "shopid": "mamurogawa-d30871-paypay"
+    },
+    {
+      "name": "田中りんごや",
+      "address": "釜渕・及位地区",
+      "storeid": "mamurogawa-daa506",
+      "shopid": "mamurogawa-daa506-paypay"
+    },
+    {
+      "name": "まるい商店",
+      "address": "釜渕・及位地区",
+      "storeid": "mamurogawa-e128de",
+      "shopid": "mamurogawa-e128de-paypay"
+    }
   ],
   "量販店": [
-    { "name": "コメリ", "address": "真室川地区" }
+    {
+      "name": "コメリ",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-8e2304",
+      "shopid": "mamurogawa-8e2304-paypay"
+    }
   ],
   "ドラッグストア": [
-    { "name": "高宮薬局", "address": "真室川地区" },
-    { "name": "ツルハドラッグ真室川店", "address": "真室川地区" },
-    { "name": "ふれあい薬局", "address": "真室川地区" },
-    { "name": "薬王堂山形真室川店", "address": "真室川地区" }
+    {
+      "name": "高宮薬局",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-ebc1c2",
+      "shopid": "mamurogawa-ebc1c2-paypay"
+    },
+    {
+      "name": "ツルハドラッグ真室川店",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-833058",
+      "shopid": "mamurogawa-833058-paypay"
+    },
+    {
+      "name": "ふれあい薬局",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-c2421a",
+      "shopid": "mamurogawa-c2421a-paypay"
+    },
+    {
+      "name": "薬王堂山形真室川店",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-689126",
+      "shopid": "mamurogawa-689126-paypay"
+    }
   ],
   "リカーショップ": [
-    { "name": "松沢酒店", "address": "真室川地区" }
+    {
+      "name": "松沢酒店",
+      "address": "真室川地区",
+      "storeid": "mamurogawa-ed4785",
+      "shopid": "mamurogawa-ed4785-paypay"
+    }
   ]
 }

@@ -2,2493 +2,3705 @@
   "DPE・印刷・コピー": [
     {
       "name": "スタジオマイティ",
-      "address": "朝志ｹ丘1-2-6-101"
+      "address": "朝志ｹ丘1-2-6-101",
+      "storeid": "asaka-5d0454",
+      "shopid": "asaka-5d0454-paypay"
     }
   ],
   "その他": [
     {
       "name": "キャスティング朝霞店",
-      "address": "膝折町2-13-61"
+      "address": "膝折町2-13-61",
+      "storeid": "asaka-943f5f",
+      "shopid": "asaka-943f5f-paypay"
     },
     {
       "name": "SweetLash  朝霞台店",
-      "address": "浜崎1-2-8 ｱｺﾞﾗ20ﾋﾞﾙ2F"
+      "address": "浜崎1-2-8 ｱｺﾞﾗ20ﾋﾞﾙ2F",
+      "storeid": "asaka-577f7a",
+      "shopid": "asaka-577f7a-paypay"
     },
     {
       "name": "ラキアショップ",
-      "address": "本町2-4-26"
+      "address": "本町2-4-26",
+      "storeid": "asaka-3554ce",
+      "shopid": "asaka-3554ce-paypay"
     },
     {
       "name": "仏事の専門店マルサン埼玉営業所",
-      "address": "幸町1−9−22"
+      "address": "幸町1−9−22",
+      "storeid": "asaka-4369c9",
+      "shopid": "asaka-4369c9-paypay"
     },
     {
       "name": "仏事の専門店マルサン朝霞フォーシーズンメモリアル",
-      "address": "上内間木497"
+      "address": "上内間木497",
+      "storeid": "asaka-f92d7b",
+      "shopid": "asaka-f92d7b-paypay"
     },
     {
       "name": "KOUKISIN",
-      "address": "岡1-11-19"
+      "address": "岡1-11-19",
+      "storeid": "asaka-910bb6",
+      "shopid": "asaka-910bb6-paypay"
     },
     {
       "name": "なないろ日和",
-      "address": "根岸台 3-15-2 ﾈｲﾊﾞｰｽﾞｽﾄｱ B-2"
+      "address": "根岸台 3-15-2 ﾈｲﾊﾞｰｽﾞｽﾄｱ B-2",
+      "storeid": "asaka-d65604",
+      "shopid": "asaka-d65604-paypay"
     },
     {
       "name": "金子農園直売所",
-      "address": "膝折町 1-12-23"
+      "address": "膝折町 1-12-23",
+      "storeid": "asaka-f90e0a",
+      "shopid": "asaka-f90e0a-paypay"
     },
     {
       "name": "ぴよこキッチン",
-      "address": "幸町1-1-29"
+      "address": "幸町1-1-29",
+      "storeid": "asaka-a50def",
+      "shopid": "asaka-a50def-paypay"
     },
     {
       "name": "Pâtisserie  Jardin",
-      "address": "西弁財 2-2-24 かつみﾋﾞﾙ1階"
+      "address": "西弁財 2-2-24 かつみﾋﾞﾙ1階",
+      "storeid": "asaka-33a8e8",
+      "shopid": "asaka-33a8e8-paypay"
     },
     {
       "name": "渡辺金物店有限会社",
-      "address": "三原 4丁目1番1号"
+      "address": "三原 4丁目1番1号",
+      "storeid": "asaka-b710b7",
+      "shopid": "asaka-b710b7-paypay"
     },
     {
       "name": "買取帝国  朝霞店",
-      "address": "朝霞市北原 2-15-1"
+      "address": "朝霞市北原 2-15-1",
+      "storeid": "asaka-9e96eb",
+      "shopid": "asaka-9e96eb-paypay"
     },
     {
       "name": "ブルーブルーエ  エキア朝霞店",
-      "address": "本町2丁目13-1 ｴｷｱ朝霞2F"
+      "address": "本町2丁目13-1 ｴｷｱ朝霞2F",
+      "storeid": "asaka-565f86",
+      "shopid": "asaka-565f86-paypay"
     },
     {
       "name": "光雲堂朝霞店",
-      "address": "溝沼2-1-55"
+      "address": "溝沼2-1-55",
+      "storeid": "asaka-2900ba",
+      "shopid": "asaka-2900ba-paypay"
     },
     {
       "name": "RABiX",
-      "address": "西原2-14-5"
+      "address": "西原2-14-5",
+      "storeid": "asaka-9a4a14",
+      "shopid": "asaka-9a4a14-paypay"
     },
     {
       "name": "ハッピーストア  ハピスト",
-      "address": "本町2丁目26番32号 1F"
+      "address": "本町2丁目26番32号 1F",
+      "storeid": "asaka-fe77f2",
+      "shopid": "asaka-fe77f2-paypay"
     },
     {
       "name": "和菓子はしもと",
-      "address": "岡 2丁目4番30-205号"
+      "address": "岡 2丁目4番30-205号",
+      "storeid": "asaka-5ad6bc",
+      "shopid": "asaka-5ad6bc-paypay"
     },
     {
       "name": "ベンリー朝霞店",
-      "address": "膝折町 4-22-65"
+      "address": "膝折町 4-22-65",
+      "storeid": "asaka-03189a",
+      "shopid": "asaka-03189a-paypay"
     },
     {
       "name": "アサカ倉庫販売",
-      "address": "朝霞市三原 1-28-35"
+      "address": "朝霞市三原 1-28-35",
+      "storeid": "asaka-c4ce45",
+      "shopid": "asaka-c4ce45-paypay"
     },
     {
       "name": "株式会社T企画",
-      "address": "栄町 2丁目7番29号"
+      "address": "栄町 2丁目7番29号",
+      "storeid": "asaka-74f2f0",
+      "shopid": "asaka-74f2f0-paypay"
     },
     {
       "name": "ラキアカーサ",
-      "address": "本町2-4-26 ｻｼﾞｪｽﾋﾞﾙ7階"
+      "address": "本町2-4-26 ｻｼﾞｪｽﾋﾞﾙ7階",
+      "storeid": "asaka-02f9e9",
+      "shopid": "asaka-02f9e9-paypay"
     },
     {
       "name": "グリーンスペース株式会社",
-      "address": "溝沼5丁目15-9"
+      "address": "溝沼5丁目15-9",
+      "storeid": "asaka-e2ed04",
+      "shopid": "asaka-e2ed04-paypay"
     },
     {
       "name": "SUSAGYM",
-      "address": "本町1ｰ12ｰ15野本店舗2F"
+      "address": "本町1ｰ12ｰ15野本店舗2F",
+      "storeid": "asaka-7970f7",
+      "shopid": "asaka-7970f7-paypay"
     },
     {
       "name": "ゆうけんどう",
-      "address": "西弁財 1-10-16-202 ﾅｳヴｨﾚｯｼﾞ朝霞台"
+      "address": "西弁財 1-10-16-202 ﾅｳヴｨﾚｯｼﾞ朝霞台",
+      "storeid": "asaka-f75f20",
+      "shopid": "asaka-f75f20-paypay"
     },
     {
       "name": "Chou Chou Lapin",
-      "address": "東弁財2-11-2 ﾌｧｲﾈｽﾄ306"
+      "address": "東弁財2-11-2 ﾌｧｲﾈｽﾄ306",
+      "storeid": "asaka-58c504",
+      "shopid": "asaka-58c504-paypay"
     },
     {
       "name": "コトノハコ",
-      "address": "東弁財3-15-3 ｲｰｽﾄﾐｭｰｽﾞ101"
+      "address": "東弁財3-15-3 ｲｰｽﾄﾐｭｰｽﾞ101",
+      "storeid": "asaka-12a3ee",
+      "shopid": "asaka-12a3ee-paypay"
     },
     {
       "name": "韓国式ピーリング専門サロン 水光ピールスキン",
-      "address": "仲町 1ｰ11ｰ48 蕪木ﾋﾞﾙ202"
+      "address": "仲町 1ｰ11ｰ48 蕪木ﾋﾞﾙ202",
+      "storeid": "asaka-ca877f",
+      "shopid": "asaka-ca877f-paypay"
     },
     {
       "name": "機動洗車隊  K's FIELD",
-      "address": "仲町 2-8-15 ｲﾆｼｱ朝霞402"
+      "address": "仲町 2-8-15 ｲﾆｼｱ朝霞402",
+      "storeid": "asaka-59281a",
+      "shopid": "asaka-59281a-paypay"
     },
     {
       "name": "せんのかおり",
-      "address": "溝沼 2-3-15"
+      "address": "溝沼 2-3-15",
+      "storeid": "asaka-41ffdd",
+      "shopid": "asaka-41ffdd-paypay"
     },
     {
       "name": "hibi－no－awa写真館",
-      "address": "東弁財3-15-3"
+      "address": "東弁財3-15-3",
+      "storeid": "asaka-b845d7",
+      "shopid": "asaka-b845d7-paypay"
     },
     {
       "name": "BellKeyRescue",
-      "address": "膝折町4-8-53 ﾒｿﾞﾝﾎﾟﾗﾘｽ3-202"
+      "address": "膝折町4-8-53 ﾒｿﾞﾝﾎﾟﾗﾘｽ3-202",
+      "storeid": "asaka-fe0171",
+      "shopid": "asaka-fe0171-paypay"
     },
     {
       "name": "Servantさばとら",
-      "address": "根岸台 8丁目7-44 ﾍﾞﾙﾎﾟｰﾄ朝霞317号"
+      "address": "根岸台 8丁目7-44 ﾍﾞﾙﾎﾟｰﾄ朝霞317号",
+      "storeid": "asaka-4ff172",
+      "shopid": "asaka-4ff172-paypay"
     },
     {
       "name": "科学教育研究協議会埼玉支部",
-      "address": "泉水1-3-3-1001"
+      "address": "泉水1-3-3-1001",
+      "storeid": "asaka-dffe40",
+      "shopid": "asaka-dffe40-paypay"
     },
     {
       "name": "ヘアアンドスパsunao",
-      "address": "膝折町1ｰ10ｰ6清久屋102"
+      "address": "膝折町1ｰ10ｰ6清久屋102",
+      "storeid": "asaka-41c7f6",
+      "shopid": "asaka-41c7f6-paypay"
     },
     {
       "name": "ピースリサイクル",
-      "address": "本町 2-21-47"
+      "address": "本町 2-21-47",
+      "storeid": "asaka-575a67",
+      "shopid": "asaka-575a67-paypay"
     },
     {
       "name": "HaLabo",
-      "address": "膝折町 3-7-33-2"
+      "address": "膝折町 3-7-33-2",
+      "storeid": "asaka-b85301",
+      "shopid": "asaka-b85301-paypay"
     },
     {
       "name": "Yomna",
-      "address": "西原 1-3-7 ﾕﾘｴｰﾙ朝霞台1階 CALLING中"
+      "address": "西原 1-3-7 ﾕﾘｴｰﾙ朝霞台1階 CALLING中",
+      "storeid": "asaka-70f05f",
+      "shopid": "asaka-70f05f-paypay"
     },
     {
       "name": "TOKIEL朝霞溝沼店",
-      "address": "溝沼5ｰ17ｰ12 ｼｵﾐﾌﾟﾗｻﾞﾌｧｰｽﾄ108号室"
+      "address": "溝沼5ｰ17ｰ12 ｼｵﾐﾌﾟﾗｻﾞﾌｧｰｽﾄ108号室",
+      "storeid": "asaka-29adb0",
+      "shopid": "asaka-29adb0-paypay"
     },
     {
       "name": "渡辺住研トンボプラザ",
-      "address": "西原2-4-23 ﾄﾝﾎﾞﾌﾟﾗｻﾞ"
+      "address": "西原2-4-23 ﾄﾝﾎﾞﾌﾟﾗｻﾞ",
+      "storeid": "asaka-b79faa",
+      "shopid": "asaka-b79faa-paypay"
     },
     {
       "name": "インドアゴルフ  みんなで練習所",
-      "address": "上内間木44"
+      "address": "上内間木44",
+      "storeid": "asaka-e56363",
+      "shopid": "asaka-e56363-paypay"
     },
     {
       "name": "放課後等デイサービスすくすくすてっぷ朝霞",
-      "address": "本町2-6-19"
+      "address": "本町2-6-19",
+      "storeid": "asaka-dca764",
+      "shopid": "asaka-dca764-paypay"
     },
     {
       "name": "エコロパーク朝霞栄町第１",
-      "address": "栄町5-7"
+      "address": "栄町5-7",
+      "storeid": "asaka-cb210b",
+      "shopid": "asaka-cb210b-paypay"
     },
     {
       "name": "エコロパークリゾン朝霞宮戸No.2",
-      "address": "宮戸4-12"
+      "address": "宮戸4-12",
+      "storeid": "asaka-7f6bda",
+      "shopid": "asaka-7f6bda-paypay"
     },
     {
       "name": "エコロパーク朝霞幸町第2",
-      "address": "幸町2-4"
+      "address": "幸町2-4",
+      "storeid": "asaka-8cefa9",
+      "shopid": "asaka-8cefa9-paypay"
     },
     {
       "name": "エコロパークリゾン朝霞根岸台No.1",
-      "address": "根岸台3-3-11"
+      "address": "根岸台3-3-11",
+      "storeid": "asaka-9bd831",
+      "shopid": "asaka-9bd831-paypay"
     },
     {
       "name": "エコロパーク朝霞三原第2",
-      "address": "三原3-25-14"
+      "address": "三原3-25-14",
+      "storeid": "asaka-155862",
+      "shopid": "asaka-155862-paypay"
     },
     {
       "name": "エコロパークリゾン朝霞三原No.2",
-      "address": "三原3-4-17"
+      "address": "三原3-4-17",
+      "storeid": "asaka-7ab976",
+      "shopid": "asaka-7ab976-paypay"
     },
     {
       "name": "エコロパークリゾン朝霞三原No.3",
-      "address": "三原5-4-1"
+      "address": "三原5-4-1",
+      "storeid": "asaka-4a18b0",
+      "shopid": "asaka-4a18b0-paypay"
     },
     {
       "name": "エコロパークリゾン朝霞西原No.5",
-      "address": "西原1-2-1"
+      "address": "西原1-2-1",
+      "storeid": "asaka-e20cf3",
+      "shopid": "asaka-e20cf3-paypay"
     },
     {
       "name": "エコロパークリゾン朝霞西原NO.3",
-      "address": "西原2-5-22"
+      "address": "西原2-5-22",
+      "storeid": "asaka-0d7665",
+      "shopid": "asaka-0d7665-paypay"
     },
     {
       "name": "エコロパークリゾン朝霞泉水NO.3",
-      "address": "泉水3-3"
+      "address": "泉水3-3",
+      "storeid": "asaka-516da7",
+      "shopid": "asaka-516da7-paypay"
     },
     {
       "name": "エコロパークリゾン朝志ヶ丘No.1",
-      "address": "朝志ｹ丘2-5-37"
+      "address": "朝志ｹ丘2-5-37",
+      "storeid": "asaka-4b19bb",
+      "shopid": "asaka-4b19bb-paypay"
     },
     {
       "name": "エコロパークリゾン朝霞台No.15",
-      "address": "北原1-6-19"
+      "address": "北原1-6-19",
+      "storeid": "asaka-057fd4",
+      "shopid": "asaka-057fd4-paypay"
     },
     {
       "name": "エコロパークリゾン朝霞北原No.1",
-      "address": "北原2-1-21"
+      "address": "北原2-1-21",
+      "storeid": "asaka-675c58",
+      "shopid": "asaka-675c58-paypay"
     },
     {
       "name": "エコロパークリゾン朝霞本町No.8",
-      "address": "本町2-17"
+      "address": "本町2-17",
+      "storeid": "asaka-6e9e26",
+      "shopid": "asaka-6e9e26-paypay"
     },
     {
       "name": "エコロパークリゾン朝霞本町No.9",
-      "address": "本町2-6-41"
+      "address": "本町2-6-41",
+      "storeid": "asaka-a48674",
+      "shopid": "asaka-a48674-paypay"
     },
     {
       "name": "エコロパークリゾン朝霞本町No.1",
-      "address": "本町3-2-63"
+      "address": "本町3-2-63",
+      "storeid": "asaka-ae4644",
+      "shopid": "asaka-ae4644-paypay"
     },
     {
       "name": "エコロパークリゾン朝霞本町No.2",
-      "address": "本町3-3-31"
+      "address": "本町3-3-31",
+      "storeid": "asaka-1fffe4",
+      "shopid": "asaka-1fffe4-paypay"
     },
     {
       "name": "エコロパークリゾン朝霞No.20",
-      "address": "本町3-37-4"
+      "address": "本町3-37-4",
+      "storeid": "asaka-7a65db",
+      "shopid": "asaka-7a65db-paypay"
     },
     {
       "name": "アシスト",
-      "address": "上内間木 407-5"
+      "address": "上内間木 407-5",
+      "storeid": "asaka-6aad6f",
+      "shopid": "asaka-6aad6f-paypay"
     },
     {
       "name": "イツバネット本社",
-      "address": "根岸台 7丁目4番18号"
+      "address": "根岸台 7丁目4番18号",
+      "storeid": "asaka-12d595",
+      "shopid": "asaka-12d595-paypay"
     },
     {
       "name": "45プリントプロ",
-      "address": "朝霞市本町 1-14-26"
+      "address": "朝霞市本町 1-14-26",
+      "storeid": "asaka-15b90d",
+      "shopid": "asaka-15b90d-paypay"
     },
     {
       "name": "ウォータースタンド  朝霞支店",
-      "address": "膝折町 2-21-5"
+      "address": "膝折町 2-21-5",
+      "storeid": "asaka-fad64a",
+      "shopid": "asaka-fad64a-paypay"
     },
     {
       "name": "リサイクルショップ パワーセラー",
-      "address": "幸町 3丁目11番26号"
+      "address": "幸町 3丁目11番26号",
+      "storeid": "asaka-fe84f2",
+      "shopid": "asaka-fe84f2-paypay"
     },
     {
       "name": "なかよしてらす",
-      "address": "朝志ｹ丘 1-2 6-102"
+      "address": "朝志ｹ丘 1-2 6-102",
+      "storeid": "asaka-c982f6",
+      "shopid": "asaka-c982f6-paypay"
     },
     {
       "name": "なかよしかふぇ",
-      "address": "朝志ｹ丘 1丁目2番(6号棟108号室)"
+      "address": "朝志ｹ丘 1丁目2番(6号棟108号室)",
+      "storeid": "asaka-2f02d4",
+      "shopid": "asaka-2f02d4-paypay"
     },
     {
       "name": "AS-SAPCE",
-      "address": "本町 1丁目8番7号 綿谷ﾋﾞﾙ"
+      "address": "本町 1丁目8番7号 綿谷ﾋﾞﾙ",
+      "storeid": "asaka-9650a5",
+      "shopid": "asaka-9650a5-paypay"
     },
     {
       "name": "アトラス",
-      "address": "浜崎3丁目17-30"
+      "address": "浜崎3丁目17-30",
+      "storeid": "asaka-08aec0",
+      "shopid": "asaka-08aec0-paypay"
     },
     {
       "name": "BIGBOX朝霞・朝志ヶ丘店",
-      "address": "朝志ヶ丘4-1170"
+      "address": "朝志ヶ丘4-1170",
+      "storeid": "asaka-cadf91",
+      "shopid": "asaka-cadf91-paypay"
     },
     {
       "name": "アイフォンドック24  朝霞駅前店",
-      "address": "仲町2-2-19 ﾘﾝｸｽﾋﾞﾙ1階"
+      "address": "仲町2-2-19 ﾘﾝｸｽﾋﾞﾙ1階",
+      "storeid": "asaka-cc6552",
+      "shopid": "asaka-cc6552-paypay"
     },
     {
       "name": "昭和交通  朝霞営業所",
-      "address": "本町2-21-38"
+      "address": "本町2-21-38",
+      "storeid": "asaka-c6f0ae",
+      "shopid": "asaka-c6f0ae-paypay"
     },
     {
       "name": "ホワイトニングSHIRO朝霞台店",
-      "address": "東弁財1丁目6ｰ26 ｴｰｽﾋﾞﾙ601"
+      "address": "東弁財1丁目6ｰ26 ｴｰｽﾋﾞﾙ601",
+      "storeid": "asaka-f2fd8c",
+      "shopid": "asaka-f2fd8c-paypay"
     },
     {
       "name": "ゴルフパーク朝霞台",
-      "address": "東弁財1-3-4朝霞台駅前ﾋﾞﾙB1"
+      "address": "東弁財1-3-4朝霞台駅前ﾋﾞﾙB1",
+      "storeid": "asaka-a19201",
+      "shopid": "asaka-a19201-paypay"
     }
   ],
   "エステティックサロン": [
     {
       "name": "メンズ脱毛専門亀仙人",
-      "address": "西弁財 1-10-21 ﾌﾞﾘﾗﾝﾃ朝霞台"
+      "address": "西弁財 1-10-21 ﾌﾞﾘﾗﾝﾃ朝霞台",
+      "storeid": "asaka-96c72f",
+      "shopid": "asaka-96c72f-paypay"
     },
     {
       "name": "Radia",
-      "address": "岡 3-18-35"
+      "address": "岡 3-18-35",
+      "storeid": "asaka-f1d254",
+      "shopid": "asaka-f1d254-paypay"
     },
     {
       "name": "Bijou Nails(ビジューネイルズ)",
-      "address": "浜崎 1-7-5 ﾗｲｼﾞﾝｸﾞｻﾝ朝霞台102"
+      "address": "浜崎 1-7-5 ﾗｲｼﾞﾝｸﾞｻﾝ朝霞台102",
+      "storeid": "asaka-fc4867",
+      "shopid": "asaka-fc4867-paypay"
     },
     {
       "name": "腸活アロマセラピー&ネイルケア Ufufu-うふふ-",
-      "address": "仲町 1-11-48 蕪木ﾋﾞﾙ405"
+      "address": "仲町 1-11-48 蕪木ﾋﾞﾙ405",
+      "storeid": "asaka-042439",
+      "shopid": "asaka-042439-paypay"
     },
     {
       "name": "NailsUnion",
-      "address": "浜崎1-1-31 ｱﾄﾞﾊﾞﾝｽ402"
+      "address": "浜崎1-1-31 ｱﾄﾞﾊﾞﾝｽ402",
+      "storeid": "asaka-097a4b",
+      "shopid": "asaka-097a4b-paypay"
     },
     {
       "name": "CureGrue",
-      "address": "宮戸2-6-9"
+      "address": "宮戸2-6-9",
+      "storeid": "asaka-f5a122",
+      "shopid": "asaka-f5a122-paypay"
     },
     {
       "name": "脱毛サロンLily&Lotus",
-      "address": "東弁財 1-1-10-605"
+      "address": "東弁財 1-1-10-605",
+      "storeid": "asaka-5710da",
+      "shopid": "asaka-5710da-paypay"
     },
     {
       "name": "プライベートネイルサロン プリマ",
-      "address": "泉水3-12-25 803ｽｶｲﾋﾙｽﾞﾒｲﾂ朝霞台"
+      "address": "泉水3-12-25 803ｽｶｲﾋﾙｽﾞﾒｲﾂ朝霞台",
+      "storeid": "asaka-4ef9f0",
+      "shopid": "asaka-4ef9f0-paypay"
     },
     {
       "name": "Kirana",
-      "address": "宮戸 3-7-62"
+      "address": "宮戸 3-7-62",
+      "storeid": "asaka-2a79f3",
+      "shopid": "asaka-2a79f3-paypay"
     },
     {
       "name": "Erika formosa",
-      "address": "浜崎4-8-55"
+      "address": "浜崎4-8-55",
+      "storeid": "asaka-e76639",
+      "shopid": "asaka-e76639-paypay"
     },
     {
       "name": "TotalBeautysalon Beluce",
-      "address": "仲町1-10-6"
+      "address": "仲町1-10-6",
+      "storeid": "asaka-de9082",
+      "shopid": "asaka-de9082-paypay"
     },
     {
       "name": "Beautysalon grace",
-      "address": "膝折町3-7-33-2"
+      "address": "膝折町3-7-33-2",
+      "storeid": "asaka-c82ae6",
+      "shopid": "asaka-c82ae6-paypay"
     },
     {
       "name": "ForeverYoung",
-      "address": "朝霞市幸町 1-7-21"
+      "address": "朝霞市幸町 1-7-21",
+      "storeid": "asaka-8b60df",
+      "shopid": "asaka-8b60df-paypay"
     },
     {
       "name": "カレット朝霞台店",
-      "address": "西弁財1丁目11-1 ﾍﾞﾙﾎﾟｰﾄ朝霞台駅前参番館101"
+      "address": "西弁財1丁目11-1 ﾍﾞﾙﾎﾟｰﾄ朝霞台駅前参番館101",
+      "storeid": "asaka-8b58a1",
+      "shopid": "asaka-8b58a1-paypay"
     },
     {
       "name": "NailSalon Non-Tyell",
-      "address": "根岸台 1丁目1-50 志幸根岸2 103号室"
+      "address": "根岸台 1丁目1-50 志幸根岸2 103号室",
+      "storeid": "asaka-1c97c4",
+      "shopid": "asaka-1c97c4-paypay"
     },
     {
       "name": "エステサロンHOSONO",
-      "address": "本町 2-12-24 o.sELAN501"
+      "address": "本町 2-12-24 o.sELAN501",
+      "storeid": "asaka-367996",
+      "shopid": "asaka-367996-paypay"
     },
     {
       "name": "Nailsalon Locona",
-      "address": "根岸台 5-8-13"
+      "address": "根岸台 5-8-13",
+      "storeid": "asaka-719a0c",
+      "shopid": "asaka-719a0c-paypay"
     },
     {
       "name": "Monail",
-      "address": "西原 2-14-25 東宝ﾋﾞﾙ1階A"
+      "address": "西原 2-14-25 東宝ﾋﾞﾙ1階A",
+      "storeid": "asaka-413f11",
+      "shopid": "asaka-413f11-paypay"
     },
     {
       "name": "Miken Cafe",
-      "address": "西弁財1-13-1 ｻﾆｰｻｲﾄﾞ朝霞台1F"
+      "address": "西弁財1-13-1 ｻﾆｰｻｲﾄﾞ朝霞台1F",
+      "storeid": "asaka-5fdaf4",
+      "shopid": "asaka-5fdaf4-paypay"
     },
     {
       "name": "Ksalon朝霞店",
-      "address": "仲町 1-11-48 蕪木ﾋﾞﾙ403号室"
+      "address": "仲町 1-11-48 蕪木ﾋﾞﾙ403号室",
+      "storeid": "asaka-74b09b",
+      "shopid": "asaka-74b09b-paypay"
     }
   ],
   "スポーツ施設・フィットネスクラブ": [
     {
       "name": "ライブリーサポート",
-      "address": "仲町2-2-44 ﾊﾟｰﾙｳｨﾝｸﾞ5階"
+      "address": "仲町2-2-44 ﾊﾟｰﾙｳｨﾝｸﾞ5階",
+      "storeid": "asaka-eacff0",
+      "shopid": "asaka-eacff0-paypay"
     },
     {
       "name": "BRLab朝霞台店",
-      "address": "東弁財1丁目3−4 朝霞台駅前ﾋﾞﾙ 5F"
+      "address": "東弁財1丁目3−4 朝霞台駅前ﾋﾞﾙ 5F",
+      "storeid": "asaka-71fc73",
+      "shopid": "asaka-71fc73-paypay"
     },
     {
       "name": "studio Wavy",
-      "address": "西原 1-7-13 1F 107"
+      "address": "西原 1-7-13 1F 107",
+      "storeid": "asaka-2042a0",
+      "shopid": "asaka-2042a0-paypay"
     },
     {
       "name": "エニタイムフィットネス朝霞店",
-      "address": "本町2-5-31 ｵｰﾀｶﾋﾞﾙ 2F"
+      "address": "本町2-5-31 ｵｰﾀｶﾋﾞﾙ 2F",
+      "storeid": "asaka-46aa3a",
+      "shopid": "asaka-46aa3a-paypay"
     },
     {
       "name": "エニタイムフィットネスカインズ朝霞",
-      "address": "根岸台3-20-1 ｶｲﾝｽﾞ朝霞2F"
+      "address": "根岸台3-20-1 ｶｲﾝｽﾞ朝霞2F",
+      "storeid": "asaka-36d30c",
+      "shopid": "asaka-36d30c-paypay"
     }
   ],
   "タクシー": [
     {
       "name": "朝霞交通有限会社 本社営業所",
-      "address": "宮戸2-1-10"
+      "address": "宮戸2-1-10",
+      "storeid": "asaka-8cdfc0",
+      "shopid": "asaka-8cdfc0-paypay"
     },
     {
       "name": "昭和交通株式会社 朝霞台営業所",
-      "address": "宮戸4-14-15"
+      "address": "宮戸4-14-15",
+      "storeid": "asaka-a93645",
+      "shopid": "asaka-a93645-paypay"
     },
     {
       "name": "朝日タクシー株式会社 朝日営業所",
-      "address": "北原2-4-16"
+      "address": "北原2-4-16",
+      "storeid": "asaka-0dd3b5",
+      "shopid": "asaka-0dd3b5-paypay"
     },
     {
       "name": "志木合同タクシー",
-      "address": "朝志ｹ丘朝志ｹ丘"
+      "address": "朝志ｹ丘朝志ｹ丘",
+      "storeid": "asaka-242771",
+      "shopid": "asaka-242771-paypay"
     }
   ],
   "テーマパーク・遊園地・水族館・博物館": [
     {
       "name": "サウナ和",
-      "address": "本町 3-1-53"
+      "address": "本町 3-1-53",
+      "storeid": "asaka-127e78",
+      "shopid": "asaka-127e78-paypay"
     }
   ],
   "ハウスクリーニング（衣服洗濯業以外）": [
     {
       "name": "DUSKIN根岸台メリーメイド",
-      "address": "根岸台6丁目 10‐41"
+      "address": "根岸台6丁目 10‐41",
+      "storeid": "asaka-ec96c8",
+      "shopid": "asaka-ec96c8-paypay"
     },
     {
       "name": "あやなり本舗",
-      "address": "東弁財 3-15-3"
+      "address": "東弁財 3-15-3",
+      "storeid": "asaka-7354e0",
+      "shopid": "asaka-7354e0-paypay"
     },
     {
       "name": "洗濯工房はぎわら",
-      "address": "溝沼 5-10-20"
+      "address": "溝沼 5-10-20",
+      "storeid": "asaka-db77be",
+      "shopid": "asaka-db77be-paypay"
     },
     {
       "name": "クリーニングリード  朝霞店",
-      "address": "本町 2丁目 21-37"
+      "address": "本町 2丁目 21-37",
+      "storeid": "asaka-79a3b5",
+      "shopid": "asaka-79a3b5-paypay"
     },
     {
       "name": "おそうじ本舗  朝霞駅前店",
-      "address": "朝霞市溝沼 7-7-8"
+      "address": "朝霞市溝沼 7-7-8",
+      "storeid": "asaka-4503ca",
+      "shopid": "asaka-4503ca-paypay"
     },
     {
       "name": "おそうじ本舗  朝霞膝折店",
-      "address": "朝霞市溝沼 5-15-26-10"
+      "address": "朝霞市溝沼 5-15-26-10",
+      "storeid": "asaka-a91de9",
+      "shopid": "asaka-a91de9-paypay"
     },
     {
       "name": "Clean&Re:Home",
-      "address": "三原 3-29-10-603"
+      "address": "三原 3-29-10-603",
+      "storeid": "asaka-38a296",
+      "shopid": "asaka-38a296-paypay"
     },
     {
       "name": "FUWA HOUSE102",
-      "address": "三原 1丁目2−40 407号"
+      "address": "三原 1丁目2−40 407号",
+      "storeid": "asaka-fd5914",
+      "shopid": "asaka-fd5914-paypay"
     },
     {
       "name": "おそうじ革命  埼玉朝霞店",
-      "address": "朝霞市膝折町 4-9-11-509"
+      "address": "朝霞市膝折町 4-9-11-509",
+      "storeid": "asaka-cf61c7",
+      "shopid": "asaka-cf61c7-paypay"
     },
     {
       "name": "おそうじ本舗  新座南店",
-      "address": "朝霞市泉水 3-5-8"
+      "address": "朝霞市泉水 3-5-8",
+      "storeid": "asaka-49f6e7",
+      "shopid": "asaka-49f6e7-paypay"
     },
     {
       "name": "サンレモン  あさか栄町店",
-      "address": "栄町2ｰ2ｰ3"
+      "address": "栄町2ｰ2ｰ3",
+      "storeid": "asaka-0a918e",
+      "shopid": "asaka-0a918e-paypay"
     },
     {
       "name": "サンレモン  朝霞駅東口店",
-      "address": "仲町 1-1-28"
+      "address": "仲町 1-1-28",
+      "storeid": "asaka-34762b",
+      "shopid": "asaka-34762b-paypay"
     },
     {
       "name": "サンレモン  仲町２丁目店",
-      "address": "仲町 2-1-21ﾌﾞﾘﾗﾝﾃ101"
+      "address": "仲町 2-1-21ﾌﾞﾘﾗﾝﾃ101",
+      "storeid": "asaka-861bd2",
+      "shopid": "asaka-861bd2-paypay"
     },
     {
       "name": "サンレモン  浜崎店",
-      "address": "朝志ヶ丘1-2-6-107"
+      "address": "朝志ヶ丘1-2-6-107",
+      "storeid": "asaka-914de2",
+      "shopid": "asaka-914de2-paypay"
     },
     {
       "name": "サンレモン  あさか台店",
-      "address": "東弁財2-5-16 ﾌﾞﾘﾗﾝﾃ101"
+      "address": "東弁財2-5-16 ﾌﾞﾘﾗﾝﾃ101",
+      "storeid": "asaka-7dde2b",
+      "shopid": "asaka-7dde2b-paypay"
     },
     {
       "name": "サンレモン  あさか駅南口店",
-      "address": "本町 2-4-6"
+      "address": "本町 2-4-6",
+      "storeid": "asaka-fa3e8d",
+      "shopid": "asaka-fa3e8d-paypay"
     },
     {
       "name": "タイムリーハウス",
-      "address": "宮戸 1丁目1番9号-2F"
+      "address": "宮戸 1丁目1番9号-2F",
+      "storeid": "asaka-711d07",
+      "shopid": "asaka-711d07-paypay"
     },
     {
       "name": "タイムリーハウスリサイクルセンター",
-      "address": "上内間木702-1"
+      "address": "上内間木702-1",
+      "storeid": "asaka-a49ee2",
+      "shopid": "asaka-a49ee2-paypay"
     },
     {
       "name": "中田クリーニング本店",
-      "address": "朝志ｹ丘 3丁目2番1号"
+      "address": "朝志ｹ丘 3丁目2番1号",
+      "storeid": "asaka-07e1b1",
+      "shopid": "asaka-07e1b1-paypay"
     },
     {
       "name": "ナイスクリーニング朝霞店",
-      "address": "三原1丁目11−1"
+      "address": "三原1丁目11−1",
+      "storeid": "asaka-6e7d9f",
+      "shopid": "asaka-6e7d9f-paypay"
     },
     {
       "name": "クリーニングたんぽぽ朝霞台店",
-      "address": "三原2-30-1"
+      "address": "三原2-30-1",
+      "storeid": "asaka-58a6a5",
+      "shopid": "asaka-58a6a5-paypay"
     },
     {
       "name": "クリーニングたんぽぽ北朝霞店",
-      "address": "西原1-2-20 1F"
+      "address": "西原1-2-20 1F",
+      "storeid": "asaka-4907b1",
+      "shopid": "asaka-4907b1-paypay"
     },
     {
       "name": "ホワイト急便泉水1丁目店",
-      "address": "泉水 1-8-6"
+      "address": "泉水 1-8-6",
+      "storeid": "asaka-45039a",
+      "shopid": "asaka-45039a-paypay"
     },
     {
       "name": "ホワイト急便朝霞工場前店",
-      "address": "膝折町 4丁目22番70号"
+      "address": "膝折町 4丁目22番70号",
+      "storeid": "asaka-f5b3b1",
+      "shopid": "asaka-f5b3b1-paypay"
     },
     {
       "name": "ホワイト急便本町1丁目店",
-      "address": "本町 1-14-64"
+      "address": "本町 1-14-64",
+      "storeid": "asaka-a455d3",
+      "shopid": "asaka-a455d3-paypay"
     },
     {
       "name": "ホワイト急便本町2丁目店",
-      "address": "本町 2-12-23"
+      "address": "本町 2-12-23",
+      "storeid": "asaka-ddd1bd",
+      "shopid": "asaka-ddd1bd-paypay"
     },
     {
       "name": "ホワイト急便本町3丁目店",
-      "address": "本町 3-5-23"
+      "address": "本町 3-5-23",
+      "storeid": "asaka-b1054f",
+      "shopid": "asaka-b1054f-paypay"
     },
     {
       "name": "ホワイト急便宮戸２丁目店",
-      "address": "朝霞市宮戸 2-18-44"
+      "address": "朝霞市宮戸 2-18-44",
+      "storeid": "asaka-4bf807",
+      "shopid": "asaka-4bf807-paypay"
     },
     {
       "name": "クリーニングたんぽぽ朝霞東口店",
-      "address": "仲町2-3-3 藤川ﾋﾞﾙ"
+      "address": "仲町2-3-3 藤川ﾋﾞﾙ",
+      "storeid": "asaka-a35d41",
+      "shopid": "asaka-a35d41-paypay"
     },
     {
       "name": "ざ!ほわいときんぐ朝霞台店",
-      "address": "東弁財 3-21-18"
+      "address": "東弁財 3-21-18",
+      "storeid": "asaka-696a52",
+      "shopid": "asaka-696a52-paypay"
     },
     {
       "name": "クリーニングシオン朝霞台店",
-      "address": "朝霞市東弁財 1-2-22-102"
+      "address": "朝霞市東弁財 1-2-22-102",
+      "storeid": "asaka-f4f630",
+      "shopid": "asaka-f4f630-paypay"
     }
   ],
   "パソコン教室": [
     {
       "name": "nakanakadesign",
-      "address": "根岸台 3-12-22 あさかヴｨﾚｯｼﾞ333号室"
+      "address": "根岸台 3-12-22 あさかヴｨﾚｯｼﾞ333号室",
+      "storeid": "asaka-a93051",
+      "shopid": "asaka-a93051-paypay"
     }
   ],
   "ビューティ・リラクゼーション / エステティックサロン": [
     {
       "name": "エステサロングラント",
-      "address": "西弁財 1-5-22 ｻﾝﾌﾞﾗｲﾄﾞA102"
+      "address": "西弁財 1-5-22 ｻﾝﾌﾞﾗｲﾄﾞA102",
+      "storeid": "asaka-dc0220",
+      "shopid": "asaka-dc0220-paypay"
     },
     {
       "name": "Dione朝霞台店",
-      "address": "浜崎 1-7-29 ﾌﾟﾚｼﾞﾃﾞﾝﾄ朝霞台1-305"
+      "address": "浜崎 1-7-29 ﾌﾟﾚｼﾞﾃﾞﾝﾄ朝霞台1-305",
+      "storeid": "asaka-d9d91a",
+      "shopid": "asaka-d9d91a-paypay"
     }
   ],
   "ファーストフード": [
     {
       "name": "ピザーラ志木店",
-      "address": "朝霞市三原  4-7-57 ﾊｲﾂ大吉"
+      "address": "朝霞市三原  4-7-57 ﾊｲﾂ大吉",
+      "storeid": "asaka-79da58",
+      "shopid": "asaka-79da58-paypay"
     },
     {
       "name": "丸沼美術サロン",
-      "address": "上内間木789"
+      "address": "上内間木789",
+      "storeid": "asaka-9a25b9",
+      "shopid": "asaka-9a25b9-paypay"
     },
     {
       "name": "ソプンキンパ",
-      "address": "岡3-9-68"
+      "address": "岡3-9-68",
+      "storeid": "asaka-c0428f",
+      "shopid": "asaka-c0428f-paypay"
     },
     {
       "name": "かつや  朝霞台店",
-      "address": "浜崎1-1-31 ｱﾄﾞﾊﾞﾝｽ1F"
+      "address": "浜崎1-1-31 ｱﾄﾞﾊﾞﾝｽ1F",
+      "storeid": "asaka-fe736a",
+      "shopid": "asaka-fe736a-paypay"
     },
     {
       "name": "舎鈴  北朝霞駅前店",
-      "address": "西原1ｰ2ｰ47 ｱﾙﾃ･ﾓｶﾋﾞﾙ1階"
+      "address": "西原1ｰ2ｰ47 ｱﾙﾃ･ﾓｶﾋﾞﾙ1階",
+      "storeid": "asaka-97fb71",
+      "shopid": "asaka-97fb71-paypay"
     },
     {
       "name": "山田うどん食堂  朝霞店",
-      "address": "北原1-12-2"
+      "address": "北原1-12-2",
+      "storeid": "asaka-95f2ab",
+      "shopid": "asaka-95f2ab-paypay"
     },
     {
       "name": "有限会社鳥新",
-      "address": "朝志ｹ丘 4丁目13番6号"
+      "address": "朝志ｹ丘 4丁目13番6号",
+      "storeid": "asaka-bd21f3",
+      "shopid": "asaka-bd21f3-paypay"
     }
   ],
   "ホテル・旅館・レジャー・浴場": [
     {
       "name": "あづま湯",
-      "address": "根岸台6-2-35 ｲｰｽﾄﾊﾟｰｸ朝霞1階"
+      "address": "根岸台6-2-35 ｲｰｽﾄﾊﾟｰｸ朝霞1階",
+      "storeid": "asaka-4078db",
+      "shopid": "asaka-4078db-paypay"
     }
   ],
   "リサイクル・中古品": [
     {
       "name": "ワイズセレクト",
-      "address": "朝霞市上内間木 498-15"
+      "address": "朝霞市上内間木 498-15",
+      "storeid": "asaka-87ab76",
+      "shopid": "asaka-87ab76-paypay"
     },
     {
       "name": "ヤマオート山音自動車販売",
-      "address": "朝霞市膝折町 3-1-60"
+      "address": "朝霞市膝折町 3-1-60",
+      "storeid": "asaka-d2edaa",
+      "shopid": "asaka-d2edaa-paypay"
     },
     {
       "name": "埼玉買取センター",
-      "address": "栄町 4-5-3"
+      "address": "栄町 4-5-3",
+      "storeid": "asaka-d34d19",
+      "shopid": "asaka-d34d19-paypay"
     },
     {
       "name": "モトハウスタカハシ",
-      "address": "朝志ｹ丘 4丁目1番31号"
+      "address": "朝志ｹ丘 4丁目1番31号",
+      "storeid": "asaka-ef9182",
+      "shopid": "asaka-ef9182-paypay"
     },
     {
       "name": "KARWAN  AUTO",
-      "address": "上内間木256-6"
+      "address": "上内間木256-6",
+      "storeid": "asaka-8535f7",
+      "shopid": "asaka-8535f7-paypay"
     },
     {
       "name": "須田自動車商会",
-      "address": "岡3ｰ10ｰ1"
+      "address": "岡3ｰ10ｰ1",
+      "storeid": "asaka-41bc27",
+      "shopid": "asaka-41bc27-paypay"
     },
     {
       "name": "株式会社福田武道具",
-      "address": "本町 2丁目6番43号"
+      "address": "本町 2丁目6番43号",
+      "storeid": "asaka-af652f",
+      "shopid": "asaka-af652f-paypay"
     },
     {
       "name": "ガレージ内藤",
-      "address": "上内間木765"
+      "address": "上内間木765",
+      "storeid": "asaka-b80c3f",
+      "shopid": "asaka-b80c3f-paypay"
     },
     {
       "name": "不用品買取MAX  朝霞宮戸店",
-      "address": "宮戸2-8-4 ｺｽﾓｻﾝｶﾞｰﾃﾞﾝ店舗2"
+      "address": "宮戸2-8-4 ｺｽﾓｻﾝｶﾞｰﾃﾞﾝ店舗2",
+      "storeid": "asaka-6aeaa4",
+      "shopid": "asaka-6aeaa4-paypay"
     },
     {
       "name": "リサイクルケイラック朝霞田島店",
-      "address": "田島1-12-21"
+      "address": "田島1-12-21",
+      "storeid": "asaka-1bda1d",
+      "shopid": "asaka-1bda1d-paypay"
     }
   ],
   "リース・レンタル": [
     {
       "name": "TRC",
-      "address": "上内間木709"
+      "address": "上内間木709",
+      "storeid": "asaka-ac886c",
+      "shopid": "asaka-ac886c-paypay"
     },
     {
       "name": "ガッツレンタカー朝霞台店",
-      "address": "朝霞市西弁財 1-5-11"
+      "address": "朝霞市西弁財 1-5-11",
+      "storeid": "asaka-a2677f",
+      "shopid": "asaka-a2677f-paypay"
     },
     {
       "name": "大蔵自動車株式会社",
-      "address": "本町 1-14-9"
+      "address": "本町 1-14-9",
+      "storeid": "asaka-44c112",
+      "shopid": "asaka-44c112-paypay"
     },
     {
       "name": "ECOパーク朝霞溝沼1",
-      "address": "溝沼2-6"
+      "address": "溝沼2-6",
+      "storeid": "asaka-e14c27",
+      "shopid": "asaka-e14c27-paypay"
     },
     {
       "name": "ECOパーク朝霞4",
-      "address": "根岸台1-7-4"
+      "address": "根岸台1-7-4",
+      "storeid": "asaka-c608a7",
+      "shopid": "asaka-c608a7-paypay"
     },
     {
       "name": "ECOパーク朝霞2",
-      "address": "浜崎1-5-13"
+      "address": "浜崎1-5-13",
+      "storeid": "asaka-df5f49",
+      "shopid": "asaka-df5f49-paypay"
     }
   ],
   "住宅建設・リフォーム": [
     {
       "name": "エムシステム",
-      "address": "仲町2-6-11"
+      "address": "仲町2-6-11",
+      "storeid": "asaka-7c8075",
+      "shopid": "asaka-7c8075-paypay"
     },
     {
       "name": "idea reform",
-      "address": "朝霞市根岸台 1-1-6ｸﾞﾗｼｭｰ1F店舗"
+      "address": "朝霞市根岸台 1-1-6ｸﾞﾗｼｭｰ1F店舗",
+      "storeid": "asaka-183b8c",
+      "shopid": "asaka-183b8c-paypay"
     },
     {
       "name": "常盤畳店",
-      "address": "宮戸2丁目3番15号"
+      "address": "宮戸2丁目3番15号",
+      "storeid": "asaka-1e04c6",
+      "shopid": "asaka-1e04c6-paypay"
     },
     {
       "name": "OSリフォーム",
-      "address": "溝沼4-6-30"
+      "address": "溝沼4-6-30",
+      "storeid": "asaka-92cf54",
+      "shopid": "asaka-92cf54-paypay"
     },
     {
       "name": "井手",
-      "address": "朝霞市上内間木 781-10"
+      "address": "朝霞市上内間木 781-10",
+      "storeid": "asaka-bb9fb6",
+      "shopid": "asaka-bb9fb6-paypay"
     },
     {
       "name": "ヒロキリフォーム",
-      "address": "朝志ｹ丘 2-10-6"
+      "address": "朝志ｹ丘 2-10-6",
+      "storeid": "asaka-fb8ffe",
+      "shopid": "asaka-fb8ffe-paypay"
     },
     {
       "name": "プライムホーム",
-      "address": "溝沼 3丁目1番5号"
+      "address": "溝沼 3丁目1番5号",
+      "storeid": "asaka-e36df4",
+      "shopid": "asaka-e36df4-paypay"
     },
     {
       "name": "ライフプラスプロタイムズ朝霞店",
-      "address": "大字溝沼 1272番地7"
+      "address": "大字溝沼 1272番地7",
+      "storeid": "asaka-27480f",
+      "shopid": "asaka-27480f-paypay"
     },
     {
       "name": "増木朝霞営業所",
-      "address": "本町 2-8-6"
+      "address": "本町 2-8-6",
+      "storeid": "asaka-703daf",
+      "shopid": "asaka-703daf-paypay"
     },
     {
       "name": "良元興業",
-      "address": "本町1-38-46"
+      "address": "本町1-38-46",
+      "storeid": "asaka-4e9669",
+      "shopid": "asaka-4e9669-paypay"
     }
   ],
   "健康食品": [
     {
       "name": "スッポン堂  JR北朝霞駅店",
-      "address": "浜崎1-1-1 武蔵野線北朝霞駅高架下"
+      "address": "浜崎1-1-1 武蔵野線北朝霞駅高架下",
+      "storeid": "asaka-a457fb",
+      "shopid": "asaka-a457fb-paypay"
     }
   ],
   "医療・保険・公共学校法人・学校教育": [
     {
       "name": "対人式スクール",
-      "address": "西原2-15-27"
+      "address": "西原2-15-27",
+      "storeid": "asaka-8fac40",
+      "shopid": "asaka-8fac40-paypay"
     },
     {
       "name": "UME塾",
-      "address": "北原2ｰ10ｰ11"
+      "address": "北原2ｰ10ｰ11",
+      "storeid": "asaka-593a07",
+      "shopid": "asaka-593a07-paypay"
     },
     {
       "name": "いしど式そろばん教室アシタネ朝霞校",
-      "address": "根岸台1-7-13 ｸﾚｲｽｺｰﾄﾋﾙｽﾞ1階店舗A"
+      "address": "根岸台1-7-13 ｸﾚｲｽｺｰﾄﾋﾙｽﾞ1階店舗A",
+      "storeid": "asaka-14cee7",
+      "shopid": "asaka-14cee7-paypay"
     }
   ],
   "医薬品・化粧品・ドラッグストア": [
     {
       "name": "ドクターベルツ",
-      "address": "朝霞市東弁財 1-7-30光陽ﾋﾞﾙ5階"
+      "address": "朝霞市東弁財 1-7-30光陽ﾋﾞﾙ5階",
+      "storeid": "asaka-fd87df",
+      "shopid": "asaka-fd87df-paypay"
     },
     {
       "name": "ピュアクリエイト",
-      "address": "根岸台1-2‐55"
+      "address": "根岸台1-2‐55",
+      "storeid": "asaka-ab102d",
+      "shopid": "asaka-ab102d-paypay"
     },
     {
       "name": "あおやまびじん 朝霞溝沼店",
-      "address": "朝霞市溝沼 2-2-18ﾍﾟｱｰﾊﾟﾚｽ305"
+      "address": "朝霞市溝沼 2-2-18ﾍﾟｱｰﾊﾟﾚｽ305",
+      "storeid": "asaka-e3f2f2",
+      "shopid": "asaka-e3f2f2-paypay"
     },
     {
       "name": "あおやまびじん 朝霞泉水店",
-      "address": "朝霞市泉水 3-3-16-9"
+      "address": "朝霞市泉水 3-3-16-9",
+      "storeid": "asaka-d02373",
+      "shopid": "asaka-d02373-paypay"
     },
     {
       "name": "あおやまびじん 朝霞店",
-      "address": "朝霞市東弁財 2-12-230THｽｸｴｱ202"
+      "address": "朝霞市東弁財 2-12-230THｽｸｴｱ202",
+      "storeid": "asaka-bfc5d0",
+      "shopid": "asaka-bfc5d0-paypay"
     },
     {
       "name": "Shining",
-      "address": "東弁財2-11-2 ﾌｧｲﾈｽﾄ306号"
+      "address": "東弁財2-11-2 ﾌｧｲﾈｽﾄ306号",
+      "storeid": "asaka-e0d8a1",
+      "shopid": "asaka-e0d8a1-paypay"
     }
   ],
   "学習塾": [
     {
       "name": "理創塾朝霞台校",
-      "address": "西弁財 1-10-15 ｵｰｸﾋﾙｽﾞ朝霞台B1"
+      "address": "西弁財 1-10-15 ｵｰｸﾋﾙｽﾞ朝霞台B1",
+      "storeid": "asaka-6b5446",
+      "shopid": "asaka-6b5446-paypay"
     }
   ],
   "学習塾・語学教室・パソコン教室・カルチャースクール": [
     {
       "name": "トーゼミ朝霞台校",
-      "address": "西弁財2-4-20"
+      "address": "西弁財2-4-20",
+      "storeid": "asaka-8f2772",
+      "shopid": "asaka-8f2772-paypay"
     },
     {
       "name": "トーゼミ朝霞本町校",
-      "address": "本町1-12-5"
+      "address": "本町1-12-5",
+      "storeid": "asaka-e4c476",
+      "shopid": "asaka-e4c476-paypay"
     },
     {
       "name": "パセリパソコン教室",
-      "address": "仲町1ｰ11ｰ47"
+      "address": "仲町1ｰ11ｰ47",
+      "storeid": "asaka-e84b28",
+      "shopid": "asaka-e84b28-paypay"
     },
     {
       "name": "Tumboo55  Performing Arts朝霞クラス",
-      "address": "大字浜崎669-1"
+      "address": "大字浜崎669-1",
+      "storeid": "asaka-f84a0a",
+      "shopid": "asaka-f84a0a-paypay"
     },
     {
       "name": "護身術空手道清拳会.朝霞支部",
-      "address": "西弁財2-2-3 弁財市民ｾﾝﾀｰ"
+      "address": "西弁財2-2-3 弁財市民ｾﾝﾀｰ",
+      "storeid": "asaka-44cae1",
+      "shopid": "asaka-44cae1-paypay"
     },
     {
       "name": "バスケットボールの家庭教師",
-      "address": "浜崎 1-7-29 ﾌﾟﾚｼﾞﾃﾞﾝﾄ朝霞台1ｰ202号室"
+      "address": "浜崎 1-7-29 ﾌﾟﾚｼﾞﾃﾞﾝﾄ朝霞台1ｰ202号室",
+      "storeid": "asaka-9743d8",
+      "shopid": "asaka-9743d8-paypay"
     },
     {
       "name": "わたしのゴルフ朝霞台店",
-      "address": "東弁財 1-3-4 朝霞台駅前ﾋﾞﾙ地下1階"
+      "address": "東弁財 1-3-4 朝霞台駅前ﾋﾞﾙ地下1階",
+      "storeid": "asaka-964c95",
+      "shopid": "asaka-964c95-paypay"
     },
     {
       "name": "iCraft．D．S．C",
-      "address": "上内間木639ｰ1"
+      "address": "上内間木639ｰ1",
+      "storeid": "asaka-efc6d0",
+      "shopid": "asaka-efc6d0-paypay"
     },
     {
       "name": "Biyond Vorders",
-      "address": "浜崎 4丁目2番15-2号"
+      "address": "浜崎 4丁目2番15-2号",
+      "storeid": "asaka-92b54c",
+      "shopid": "asaka-92b54c-paypay"
     },
     {
       "name": "アロマテラピースクールわこう",
-      "address": "本町2-7-34 ﾘﾌﾞ朝霞507"
+      "address": "本町2-7-34 ﾘﾌﾞ朝霞507",
+      "storeid": "asaka-6b966c",
+      "shopid": "asaka-6b966c-paypay"
     },
     {
       "name": "テニスゼロ朝霞PCA校",
-      "address": "幸町 1-4-7"
+      "address": "幸町 1-4-7",
+      "storeid": "asaka-55a6bf",
+      "shopid": "asaka-55a6bf-paypay"
     },
     {
       "name": "コペルプラス朝霞台教室",
-      "address": "浜崎1丁目3-19 ｿﾙﾃｨｱ朝霞台1F"
+      "address": "浜崎1丁目3-19 ｿﾙﾃｨｱ朝霞台1F",
+      "storeid": "asaka-abf1b4",
+      "shopid": "asaka-abf1b4-paypay"
     }
   ],
   "宅配便": [
     {
       "name": "引越専門ハコぶん",
-      "address": "大字上内間木44番地1"
+      "address": "大字上内間木44番地1",
+      "storeid": "asaka-2a7b0c",
+      "shopid": "asaka-2a7b0c-paypay"
     }
   ],
   "家電・家具・寝具・キッチン用品": [
     {
       "name": "マイスタープロショップ",
-      "address": "東弁財 3-15-17 1階"
+      "address": "東弁財 3-15-17 1階",
+      "storeid": "asaka-a2cae4",
+      "shopid": "asaka-a2cae4-paypay"
     },
     {
       "name": "大明電機",
-      "address": "三原2丁目13番4号"
+      "address": "三原2丁目13番4号",
+      "storeid": "asaka-a36cbf",
+      "shopid": "asaka-a36cbf-paypay"
     },
     {
       "name": "てるてるランド朝霞店",
-      "address": "朝霞市根岸台 埼玉県 朝霞市根岸台 3-20-1 くみまちﾓｰﾙあさか2階"
+      "address": "朝霞市根岸台 埼玉県 朝霞市根岸台 3-20-1 くみまちﾓｰﾙあさか2階",
+      "storeid": "asaka-13337f",
+      "shopid": "asaka-13337f-paypay"
     },
     {
       "name": "エムザインテリア館",
-      "address": "西弁財2ｰ3ｰ9"
+      "address": "西弁財2ｰ3ｰ9",
+      "storeid": "asaka-159c55",
+      "shopid": "asaka-159c55-paypay"
     },
     {
       "name": "タカチホデンキ朝志ヶ丘",
-      "address": "朝志ｹ丘 4丁目14番31号"
+      "address": "朝志ｹ丘 4丁目14番31号",
+      "storeid": "asaka-b4cb54",
+      "shopid": "asaka-b4cb54-paypay"
     },
     {
       "name": "路地裏のかーてんやさん",
-      "address": "田島 2丁目7番55号"
+      "address": "田島 2丁目7番55号",
+      "storeid": "asaka-3f2f28",
+      "shopid": "asaka-3f2f28-paypay"
     },
     {
       "name": "中央電化  朝霞店",
-      "address": "本町2‐18‐3"
+      "address": "本町2‐18‐3",
+      "storeid": "asaka-3450bf",
+      "shopid": "asaka-3450bf-paypay"
     }
   ],
   "居酒屋・パブ・バー": [
     {
       "name": "炭酒場カミナリ屋 天ぷらとそばと酒ツクシ 朝霞台店",
-      "address": "東弁財1-5-8"
+      "address": "東弁財1-5-8",
+      "storeid": "asaka-15729d",
+      "shopid": "asaka-15729d-paypay"
     },
     {
       "name": "ラキアカフェ",
-      "address": "本町2-4-26 ｻｼﾞｪｽﾋﾞﾙ2階"
+      "address": "本町2-4-26 ｻｼﾞｪｽﾋﾞﾙ2階",
+      "storeid": "asaka-ad1b3f",
+      "shopid": "asaka-ad1b3f-paypay"
     },
     {
       "name": "弥次郎兵衛朝霞店",
-      "address": "仲町1−1-21 1F"
+      "address": "仲町1−1-21 1F",
+      "storeid": "asaka-603db2",
+      "shopid": "asaka-603db2-paypay"
     },
     {
       "name": "弥次郎兵衛朝霞台店",
-      "address": "東弁財 1-8"
+      "address": "東弁財 1-8",
+      "storeid": "asaka-b3c55f",
+      "shopid": "asaka-b3c55f-paypay"
     },
     {
       "name": "焼肉うしがすみ焼肉うしがすみ",
-      "address": "西原1-2-2 ﾘｰヴ北朝霞ﾋﾞﾙ B1"
+      "address": "西原1-2-2 ﾘｰヴ北朝霞ﾋﾞﾙ B1",
+      "storeid": "asaka-1567f2",
+      "shopid": "asaka-1567f2-paypay"
     },
     {
       "name": "居酒屋  中々  朝霞台店",
-      "address": "東弁財1-4-11 1F"
+      "address": "東弁財1-4-11 1F",
+      "storeid": "asaka-b82270",
+      "shopid": "asaka-b82270-paypay"
     },
     {
       "name": "味彩  中々",
-      "address": "本町3丁目1番50号"
+      "address": "本町3丁目1番50号",
+      "storeid": "asaka-df57eb",
+      "shopid": "asaka-df57eb-paypay"
     },
     {
       "name": "スナック愛華 朝霞店",
-      "address": "本町 2-15-6"
+      "address": "本町 2-15-6",
+      "storeid": "asaka-dd586a",
+      "shopid": "asaka-dd586a-paypay"
     },
     {
       "name": "炭火串焼き雨や鳥雨や鳥",
-      "address": "三原 1-19-9 ｺｽﾓ三原102"
+      "address": "三原 1-19-9 ｺｽﾓ三原102",
+      "storeid": "asaka-b2294e",
+      "shopid": "asaka-b2294e-paypay"
     },
     {
       "name": "Darling",
-      "address": "東弁財 1-6-23 B1"
+      "address": "東弁財 1-6-23 B1",
+      "storeid": "asaka-d2553a",
+      "shopid": "asaka-d2553a-paypay"
     },
     {
       "name": "HAKANA",
-      "address": "本町 2-7-21 ﾌﾞﾗﾝｼｰﾙ朝霞 103"
+      "address": "本町 2-7-21 ﾌﾞﾗﾝｼｰﾙ朝霞 103",
+      "storeid": "asaka-798200",
+      "shopid": "asaka-798200-paypay"
     },
     {
       "name": "カラオケのある居酒屋Chimera",
-      "address": "本町2丁目11番16号 B1F"
+      "address": "本町2丁目11番16号 B1F",
+      "storeid": "asaka-b4a100",
+      "shopid": "asaka-b4a100-paypay"
     },
     {
       "name": "ドラム缶朝霞店MARCのお店",
-      "address": "朝霞市本町 2丁目11番16号B1F"
+      "address": "朝霞市本町 2丁目11番16号B1F",
+      "storeid": "asaka-77b1d5",
+      "shopid": "asaka-77b1d5-paypay"
     },
     {
       "name": "からもの",
-      "address": "東弁財 3-15-10"
+      "address": "東弁財 3-15-10",
+      "storeid": "asaka-3cfb5c",
+      "shopid": "asaka-3cfb5c-paypay"
     },
     {
       "name": "炭火焼きとり  うまかと",
-      "address": "仲町2-6-51 ｼｰｻｲﾄﾞ102"
+      "address": "仲町2-6-51 ｼｰｻｲﾄﾞ102",
+      "storeid": "asaka-2cd75f",
+      "shopid": "asaka-2cd75f-paypay"
     },
     {
       "name": "居酒屋 アンポンタン横山店舗",
-      "address": "仲町 1-11-37 横山店舗一階"
+      "address": "仲町 1-11-37 横山店舗一階",
+      "storeid": "asaka-921301",
+      "shopid": "asaka-921301-paypay"
     },
     {
       "name": "BAR DEEP",
-      "address": "西原 1-3-3 須田ﾋﾞﾙ1階"
+      "address": "西原 1-3-3 須田ﾋﾞﾙ1階",
+      "storeid": "asaka-62ea00",
+      "shopid": "asaka-62ea00-paypay"
     },
     {
       "name": "夜喫茶sereno",
-      "address": "朝霞市東弁財 1-4-11萩原ﾋﾞﾙ2F"
+      "address": "朝霞市東弁財 1-4-11萩原ﾋﾞﾙ2F",
+      "storeid": "asaka-87c961",
+      "shopid": "asaka-87c961-paypay"
     },
     {
       "name": "居酒屋  和",
-      "address": "西弁財1-16-19"
+      "address": "西弁財1-16-19",
+      "storeid": "asaka-995946",
+      "shopid": "asaka-995946-paypay"
     },
     {
       "name": "備中屋",
-      "address": "東弁財1-8-1"
+      "address": "東弁財1-8-1",
+      "storeid": "asaka-df24fa",
+      "shopid": "asaka-df24fa-paypay"
     },
     {
       "name": "鈴家本店",
-      "address": "本町 2-15-10"
+      "address": "本町 2-15-10",
+      "storeid": "asaka-110cd1",
+      "shopid": "asaka-110cd1-paypay"
     },
     {
       "name": "酒楽ぼちぼち",
-      "address": "三原 5-13-3"
+      "address": "三原 5-13-3",
+      "storeid": "asaka-214e32",
+      "shopid": "asaka-214e32-paypay"
     },
     {
       "name": "Luxury",
-      "address": "朝霞市本町 2-5-24細田ﾋﾞﾙ4階"
+      "address": "朝霞市本町 2-5-24細田ﾋﾞﾙ4階",
+      "storeid": "asaka-91586a",
+      "shopid": "asaka-91586a-paypay"
     },
     {
       "name": "バーレゴリス  Yaki-Bar",
-      "address": "本町 2-5-27-3F"
+      "address": "本町 2-5-27-3F",
+      "storeid": "asaka-23f0d9",
+      "shopid": "asaka-23f0d9-paypay"
     },
     {
       "name": "E-nNS",
-      "address": "栄町5ｰ3ｰ29 1F"
+      "address": "栄町5ｰ3ｰ29 1F",
+      "storeid": "asaka-4832bf",
+      "shopid": "asaka-4832bf-paypay"
     },
     {
       "name": "呑み家アジト  出張用呑み家アジト  出張用",
-      "address": "三原1-4-14"
+      "address": "三原1-4-14",
+      "storeid": "asaka-004508",
+      "shopid": "asaka-004508-paypay"
     },
     {
       "name": "麺酒房龍安",
-      "address": "東弁財2-12-17"
+      "address": "東弁財2-12-17",
+      "storeid": "asaka-2e75ee",
+      "shopid": "asaka-2e75ee-paypay"
     },
     {
       "name": "スポーツカフェ66",
-      "address": "西弁財 1-10-21 102"
+      "address": "西弁財 1-10-21 102",
+      "storeid": "asaka-a0d7c5",
+      "shopid": "asaka-a0d7c5-paypay"
     },
     {
       "name": "むぅみん",
-      "address": "朝霞市本町 2-19-12朝霞ﾆｭｰﾊｲﾂ103"
+      "address": "朝霞市本町 2-19-12朝霞ﾆｭｰﾊｲﾂ103",
+      "storeid": "asaka-d38c9d",
+      "shopid": "asaka-d38c9d-paypay"
     },
     {
       "name": "食彩屋  はげまる",
-      "address": "三原1-4-15"
+      "address": "三原1-4-15",
+      "storeid": "asaka-f17781",
+      "shopid": "asaka-f17781-paypay"
     },
     {
       "name": "lo gnoccolo",
-      "address": "東弁財1-7-9"
+      "address": "東弁財1-7-9",
+      "storeid": "asaka-18645f",
+      "shopid": "asaka-18645f-paypay"
     },
     {
       "name": "SHOWIN",
-      "address": "本町 3-1-52 橋本ﾋﾞﾙ"
+      "address": "本町 3-1-52 橋本ﾋﾞﾙ",
+      "storeid": "asaka-f1700c",
+      "shopid": "asaka-f1700c-paypay"
     },
     {
       "name": "CHOOCHIN",
-      "address": "本町3-1-52 橋本ﾋﾞﾙ2F"
+      "address": "本町3-1-52 橋本ﾋﾞﾙ2F",
+      "storeid": "asaka-38677c",
+      "shopid": "asaka-38677c-paypay"
     },
     {
       "name": "居酒屋  香寿恵",
-      "address": "溝沼5-18-3 ﾍﾟｱﾊﾟﾚｽ溝沼 1F"
+      "address": "溝沼5-18-3 ﾍﾟｱﾊﾟﾚｽ溝沼 1F",
+      "storeid": "asaka-fef1ec",
+      "shopid": "asaka-fef1ec-paypay"
     },
     {
       "name": "talking book",
-      "address": "溝沼1-4-17"
+      "address": "溝沼1-4-17",
+      "storeid": "asaka-aea680",
+      "shopid": "asaka-aea680-paypay"
     },
     {
       "name": "むうみん",
-      "address": "本町2-19-12 朝霞ﾆｭｰﾊｲﾂ103"
+      "address": "本町2-19-12 朝霞ﾆｭｰﾊｲﾂ103",
+      "storeid": "asaka-42719b",
+      "shopid": "asaka-42719b-paypay"
     },
     {
       "name": "Bar Double Bass",
-      "address": "本町2-2-48 伸和ﾋﾞﾙ2階"
+      "address": "本町2-2-48 伸和ﾋﾞﾙ2階",
+      "storeid": "asaka-63f38a",
+      "shopid": "asaka-63f38a-paypay"
     },
     {
       "name": "東京肉骨茶",
-      "address": "三原1-4-16"
+      "address": "三原1-4-16",
+      "storeid": "asaka-9b6084",
+      "shopid": "asaka-9b6084-paypay"
     },
     {
       "name": "Butterfly Pea",
-      "address": "西原1-2-47 ｱﾙﾃﾓｶﾋﾞﾙ4階"
+      "address": "西原1-2-47 ｱﾙﾃﾓｶﾋﾞﾙ4階",
+      "storeid": "asaka-2f5de2",
+      "shopid": "asaka-2f5de2-paypay"
     },
     {
       "name": "ええ家ん",
-      "address": "本町2ｰ3ｰ11 ｱｰﾊﾞﾝｽﾃｰｼﾞ1F"
+      "address": "本町2ｰ3ｰ11 ｱｰﾊﾞﾝｽﾃｰｼﾞ1F",
+      "storeid": "asaka-6d7f29",
+      "shopid": "asaka-6d7f29-paypay"
     },
     {
       "name": "ぼちぼち",
-      "address": "朝霞市三原 5-13-3"
+      "address": "朝霞市三原 5-13-3",
+      "storeid": "asaka-a311dd",
+      "shopid": "asaka-a311dd-paypay"
     },
     {
       "name": "居酒屋まりちゃん",
-      "address": "朝霞市栄町 4-6-9"
+      "address": "朝霞市栄町 4-6-9",
+      "storeid": "asaka-3334e4",
+      "shopid": "asaka-3334e4-paypay"
     },
     {
       "name": "雀のお勝手",
-      "address": "仲町 2−2−11 ｾｲｺｰｶﾞｰﾃﾞﾝ朝霞203"
+      "address": "仲町 2−2−11 ｾｲｺｰｶﾞｰﾃﾞﾝ朝霞203",
+      "storeid": "asaka-634c30",
+      "shopid": "asaka-634c30-paypay"
     },
     {
       "name": "さかな鉄板  あーちゃんち",
-      "address": "本町2-8-15 第2ﾎﾜｲﾄﾋﾞﾙB 1階101号"
+      "address": "本町2-8-15 第2ﾎﾜｲﾄﾋﾞﾙB 1階101号",
+      "storeid": "asaka-ce1079",
+      "shopid": "asaka-ce1079-paypay"
     },
     {
       "name": "イザカラR",
-      "address": "朝霞市三原 2-34-25斉藤ﾋﾞﾙ地下一階"
+      "address": "朝霞市三原 2-34-25斉藤ﾋﾞﾙ地下一階",
+      "storeid": "asaka-522d96",
+      "shopid": "asaka-522d96-paypay"
     },
     {
       "name": "white horse",
-      "address": "仲町2ｰ2ｰ11"
+      "address": "仲町2ｰ2ｰ11",
+      "storeid": "asaka-e83877",
+      "shopid": "asaka-e83877-paypay"
     },
     {
       "name": "仙人",
-      "address": "本町2-2-48"
+      "address": "本町2-2-48",
+      "storeid": "asaka-520c94",
+      "shopid": "asaka-520c94-paypay"
     },
     {
       "name": "焼き鳥仙人",
-      "address": "本町2-2-48 店舗前ﾃｲｸｱｳﾄ"
+      "address": "本町2-2-48 店舗前ﾃｲｸｱｳﾄ",
+      "storeid": "asaka-a0c0ed",
+      "shopid": "asaka-a0c0ed-paypay"
     },
     {
       "name": "居酒屋BARぎんねこ",
-      "address": "栄町5ｰ4ｰ22多賀ﾋﾞﾙ101"
+      "address": "栄町5ｰ4ｰ22多賀ﾋﾞﾙ101",
+      "storeid": "asaka-ea3e90",
+      "shopid": "asaka-ea3e90-paypay"
     },
     {
       "name": "Chicken heaven",
-      "address": "田島1-9-28"
+      "address": "田島1-9-28",
+      "storeid": "asaka-b0e6c5",
+      "shopid": "asaka-b0e6c5-paypay"
     },
     {
       "name": "花ねずみ",
-      "address": "仲町2ｰ2ｰ17 ｸﾞﾘｰﾝﾌﾟﾗｻﾞﾋﾞﾙ2F"
+      "address": "仲町2ｰ2ｰ17 ｸﾞﾘｰﾝﾌﾟﾗｻﾞﾋﾞﾙ2F",
+      "storeid": "asaka-48413b",
+      "shopid": "asaka-48413b-paypay"
     },
     {
       "name": "酔い処 Zumi",
-      "address": "三原 1-19-9"
+      "address": "三原 1-19-9",
+      "storeid": "asaka-c5833a",
+      "shopid": "asaka-c5833a-paypay"
     },
     {
       "name": "ミュージックバー安庵",
-      "address": "仲町 1-4-36 YSｺｰﾎﾟ101"
+      "address": "仲町 1-4-36 YSｺｰﾎﾟ101",
+      "storeid": "asaka-eb85be",
+      "shopid": "asaka-eb85be-paypay"
     },
     {
       "name": "yodan coffee",
-      "address": "朝志ｹ丘1-2-1 朝霞浜崎団地229号室"
+      "address": "朝志ｹ丘1-2-1 朝霞浜崎団地229号室",
+      "storeid": "asaka-feb2d1",
+      "shopid": "asaka-feb2d1-paypay"
     },
     {
       "name": "居酒屋  桂",
-      "address": "三原 1-29-37"
+      "address": "三原 1-29-37",
+      "storeid": "asaka-61f830",
+      "shopid": "asaka-61f830-paypay"
     },
     {
       "name": "とんかつひびき  朝霞台店",
-      "address": "東弁財3-2-31 1階"
+      "address": "東弁財3-2-31 1階",
+      "storeid": "asaka-58793f",
+      "shopid": "asaka-58793f-paypay"
     },
     {
       "name": "目利きの銀次  北朝霞店",
-      "address": "浜崎1-2-10 ｱｺﾞﾗ21ﾋﾞﾙ 2階"
+      "address": "浜崎1-2-10 ｱｺﾞﾗ21ﾋﾞﾙ 2階",
+      "storeid": "asaka-b31faa",
+      "shopid": "asaka-b31faa-paypay"
     },
     {
       "name": "笑笑  北朝霞駅前店",
-      "address": "浜崎1-3-6"
+      "address": "浜崎1-3-6",
+      "storeid": "asaka-20dbed",
+      "shopid": "asaka-20dbed-paypay"
     },
     {
       "name": "だしとわら焼き北朝霞・朝霞台店",
-      "address": "東弁財 1-4-12 ｴﾙﾊﾞ朝霞台3F"
+      "address": "東弁財 1-4-12 ｴﾙﾊﾞ朝霞台3F",
+      "storeid": "asaka-1062f9",
+      "shopid": "asaka-1062f9-paypay"
     },
     {
       "name": "やわら寿し",
-      "address": "浜崎1-3-18 ﾛｼﾞｴ朝霞台"
+      "address": "浜崎1-3-18 ﾛｼﾞｴ朝霞台",
+      "storeid": "asaka-ff5280",
+      "shopid": "asaka-ff5280-paypay"
     },
     {
       "name": "函館海や朝霞台店",
-      "address": "西原 1-1-28 ｶﾞｳｽﾋﾞﾙB1F"
+      "address": "西原 1-1-28 ｶﾞｳｽﾋﾞﾙB1F",
+      "storeid": "asaka-1d9749",
+      "shopid": "asaka-1d9749-paypay"
     },
     {
       "name": "てけてけ  朝霞台店",
-      "address": "浜崎1-2-10 ｱｺﾞﾗ21ﾋﾞﾙB1F"
+      "address": "浜崎1-2-10 ｱｺﾞﾗ21ﾋﾞﾙB1F",
+      "storeid": "asaka-fe728d",
+      "shopid": "asaka-fe728d-paypay"
     },
     {
       "name": "Link北朝霞店",
-      "address": "西原1-5-5 ｼﾃｨｲﾝ北朝霞2F"
+      "address": "西原1-5-5 ｼﾃｨｲﾝ北朝霞2F",
+      "storeid": "asaka-d31165",
+      "shopid": "asaka-d31165-paypay"
     },
     {
       "name": "居酒屋 おはな",
-      "address": "栄町 4丁目5番9号"
+      "address": "栄町 4丁目5番9号",
+      "storeid": "asaka-9569ed",
+      "shopid": "asaka-9569ed-paypay"
     },
     {
       "name": "風風ラーメン  北朝霞店",
-      "address": "西原1-2-48小寺ﾋﾞﾙ1F"
+      "address": "西原1-2-48小寺ﾋﾞﾙ1F",
+      "storeid": "asaka-a71630",
+      "shopid": "asaka-a71630-paypay"
     },
     {
       "name": "風風ラーメン  朝霞東口店",
-      "address": "仲町1-1-30ｻﾝﾛｰﾄﾞ朝霞1F"
+      "address": "仲町1-1-30ｻﾝﾛｰﾄﾞ朝霞1F",
+      "storeid": "asaka-f4e3d5",
+      "shopid": "asaka-f4e3d5-paypay"
     },
     {
       "name": "ごはんと。朝霞店",
-      "address": "本町2-5-34 南天ﾋﾞﾙ1F"
+      "address": "本町2-5-34 南天ﾋﾞﾙ1F",
+      "storeid": "asaka-e406ba",
+      "shopid": "asaka-e406ba-paypay"
     },
     {
       "name": "風風ラーメン  朝霞南口店",
-      "address": "本町2-5-34南天ﾋﾞﾙ1F"
+      "address": "本町2-5-34南天ﾋﾞﾙ1F",
+      "storeid": "asaka-591464",
+      "shopid": "asaka-591464-paypay"
     },
     {
       "name": "串カツ田中朝霞台店",
-      "address": "浜崎1-3-6"
+      "address": "浜崎1-3-6",
+      "storeid": "asaka-66e839",
+      "shopid": "asaka-66e839-paypay"
     },
     {
       "name": "bar marib",
-      "address": "西原1-2-47 ｱﾙﾃﾓｶﾋﾞﾙ3階"
+      "address": "西原1-2-47 ｱﾙﾃﾓｶﾋﾞﾙ3階",
+      "storeid": "asaka-a424b4",
+      "shopid": "asaka-a424b4-paypay"
     },
     {
       "name": "魚とや",
-      "address": "西原 1丁目5番5号"
+      "address": "西原 1丁目5番5号",
+      "storeid": "asaka-7ecb49",
+      "shopid": "asaka-7ecb49-paypay"
     },
     {
       "name": "くらーれ",
-      "address": "東弁財1-6-23 ｸﾞﾘｰﾝｶﾞｰﾃﾞﾝ朝霞台101"
+      "address": "東弁財1-6-23 ｸﾞﾘｰﾝｶﾞｰﾃﾞﾝ朝霞台101",
+      "storeid": "asaka-fbac81",
+      "shopid": "asaka-fbac81-paypay"
     },
     {
       "name": "エビス朝霞総本店",
-      "address": "仲町 1-11-48"
+      "address": "仲町 1-11-48",
+      "storeid": "asaka-1d8702",
+      "shopid": "asaka-1d8702-paypay"
     },
     {
       "name": "鶏笑 朝霞店",
-      "address": "栄町4-7-30 第2ﾌﾟﾁﾌｧｲﾌﾞ101号"
+      "address": "栄町4-7-30 第2ﾌﾟﾁﾌｧｲﾌﾞ101号",
+      "storeid": "asaka-7a5449",
+      "shopid": "asaka-7a5449-paypay"
     },
     {
       "name": "ジャパニーズダイニング  聖",
-      "address": "本町 2丁目4番10号 kmk1F"
+      "address": "本町 2丁目4番10号 kmk1F",
+      "storeid": "asaka-b7a90a",
+      "shopid": "asaka-b7a90a-paypay"
     },
     {
       "name": "うどんの昌代",
-      "address": "西弁財1ｰ15-13 wjA2ﾋﾞﾙ101"
+      "address": "西弁財1ｰ15-13 wjA2ﾋﾞﾙ101",
+      "storeid": "asaka-0cb0c8",
+      "shopid": "asaka-0cb0c8-paypay"
     },
     {
       "name": "中国料理将ちゃん",
-      "address": "根岸台6-4-10"
+      "address": "根岸台6-4-10",
+      "storeid": "asaka-2caf12",
+      "shopid": "asaka-2caf12-paypay"
     },
     {
       "name": "OIMO BIYORI",
-      "address": "西原1-3-3 須田ﾋﾞﾙ102"
+      "address": "西原1-3-3 須田ﾋﾞﾙ102",
+      "storeid": "asaka-10ad4f",
+      "shopid": "asaka-10ad4f-paypay"
     },
     {
       "name": "姫乃杏仁",
-      "address": "宮戸2-4-10"
+      "address": "宮戸2-4-10",
+      "storeid": "asaka-746fe3",
+      "shopid": "asaka-746fe3-paypay"
     },
     {
       "name": "焼肉  塩梅",
-      "address": "本町2-4-10 KMKﾋﾞﾙ2階"
+      "address": "本町2-4-10 KMKﾋﾞﾙ2階",
+      "storeid": "asaka-beadf2",
+      "shopid": "asaka-beadf2-paypay"
     },
     {
       "name": "大衆酒場 ゲンテン",
-      "address": "浜崎 1-7-27 ﾒｿﾞﾝ朝霞台102"
+      "address": "浜崎 1-7-27 ﾒｿﾞﾝ朝霞台102",
+      "storeid": "asaka-004a03",
+      "shopid": "asaka-004a03-paypay"
     },
     {
       "name": "BAR IORI",
-      "address": "仲町2ｰ2ｰ11 ｾｲｺｰｶﾞｰﾃﾞﾝ朝霞2F"
+      "address": "仲町2ｰ2ｰ11 ｾｲｺｰｶﾞｰﾃﾞﾝ朝霞2F",
+      "storeid": "asaka-11fdfb",
+      "shopid": "asaka-11fdfb-paypay"
     },
     {
       "name": "養老乃瀧北朝霞",
-      "address": "浜崎 1丁目12番1"
+      "address": "浜崎 1丁目12番1",
+      "storeid": "asaka-e68379",
+      "shopid": "asaka-e68379-paypay"
     },
     {
       "name": "イレブン",
-      "address": "浜崎 1丁目4番12号"
+      "address": "浜崎 1丁目4番12号",
+      "storeid": "asaka-f1355c",
+      "shopid": "asaka-f1355c-paypay"
     },
     {
       "name": "味噌屋蔵之介  朝霞田島店",
-      "address": "田島2-4-5"
+      "address": "田島2-4-5",
+      "storeid": "asaka-a4367e",
+      "shopid": "asaka-a4367e-paypay"
     },
     {
       "name": "あさかな",
-      "address": "浜崎1-3-10 AX-1ﾋﾞﾙ2F"
+      "address": "浜崎1-3-10 AX-1ﾋﾞﾙ2F",
+      "storeid": "asaka-df2546",
+      "shopid": "asaka-df2546-paypay"
     },
     {
       "name": "九州いち",
-      "address": "朝霞市西原 1-5-12ｳｲﾝｸﾞ北朝霧2F-B"
+      "address": "朝霞市西原 1-5-12ｳｲﾝｸﾞ北朝霧2F-B",
+      "storeid": "asaka-d968c7",
+      "shopid": "asaka-d968c7-paypay"
     },
     {
       "name": "78cafe",
-      "address": "西弁財 1-15-13 wja2ﾋﾞﾙ"
+      "address": "西弁財 1-15-13 wja2ﾋﾞﾙ",
+      "storeid": "asaka-37da05",
+      "shopid": "asaka-37da05-paypay"
     },
     {
       "name": "牛串煮込・串揚げ  さんちゃん",
-      "address": "西原1-2-48 2階"
+      "address": "西原1-2-48 2階",
+      "storeid": "asaka-16b30a",
+      "shopid": "asaka-16b30a-paypay"
     },
     {
       "name": "ホルモン焼き  さんちゃん",
-      "address": "西原1-2-48 3階"
+      "address": "西原1-2-48 3階",
+      "storeid": "asaka-d7ae57",
+      "shopid": "asaka-d7ae57-paypay"
     },
     {
       "name": "けんび朝霞店",
-      "address": "仲町2-2-38 ｱｳｽﾃﾙ2F"
+      "address": "仲町2-2-38 ｱｳｽﾃﾙ2F",
+      "storeid": "asaka-9c9189",
+      "shopid": "asaka-9c9189-paypay"
     },
     {
       "name": "牧草",
-      "address": "東弁財3ｰ3ｰ14"
+      "address": "東弁財3ｰ3ｰ14",
+      "storeid": "asaka-26d3a1",
+      "shopid": "asaka-26d3a1-paypay"
     },
     {
       "name": "小料理  十人十色1号店",
-      "address": "西原 1-3-3 須田ﾋﾞﾙ3号"
+      "address": "西原 1-3-3 須田ﾋﾞﾙ3号",
+      "storeid": "asaka-62ee06",
+      "shopid": "asaka-62ee06-paypay"
     },
     {
       "name": "STICK OUT",
-      "address": "岡3-10-17 ﾊｲﾌﾞﾘｯｼﾞ朝霞106"
+      "address": "岡3-10-17 ﾊｲﾌﾞﾘｯｼﾞ朝霞106",
+      "storeid": "asaka-bd39cb",
+      "shopid": "asaka-bd39cb-paypay"
     },
     {
       "name": "一休  朝霞台店",
-      "address": "東弁財 1-5-8 KｽﾃｰｼﾞB1"
+      "address": "東弁財 1-5-8 KｽﾃｰｼﾞB1",
+      "storeid": "asaka-6cfb56",
+      "shopid": "asaka-6cfb56-paypay"
     },
     {
       "name": "ミューズ",
-      "address": "朝志ｹ丘 4丁目4番7号"
+      "address": "朝志ｹ丘 4丁目4番7号",
+      "storeid": "asaka-9ae04a",
+      "shopid": "asaka-9ae04a-paypay"
     },
     {
       "name": "居酒屋  霞",
-      "address": "本町1ｰ38ｰ45 ｱｰﾊﾞﾝﾗｲﾌ101"
+      "address": "本町1ｰ38ｰ45 ｱｰﾊﾞﾝﾗｲﾌ101",
+      "storeid": "asaka-e8b472",
+      "shopid": "asaka-e8b472-paypay"
     },
     {
       "name": "Bar  Avan",
-      "address": "本町2-3-15 2Fﾊﾞﾓｽﾋﾞﾙ"
+      "address": "本町2-3-15 2Fﾊﾞﾓｽﾋﾞﾙ",
+      "storeid": "asaka-0fce8d",
+      "shopid": "asaka-0fce8d-paypay"
     }
   ],
   "映画館・劇場・スポーツ観戦施設": [
     {
       "name": "音楽barスマイルLABO",
-      "address": "仲町 1-11-38 音楽barｽﾏｲﾙLABO"
+      "address": "仲町 1-11-38 音楽barｽﾏｲﾙLABO",
+      "storeid": "asaka-a78168",
+      "shopid": "asaka-a78168-paypay"
     },
     {
       "name": "宝島24朝霞店",
-      "address": "栄町5-8-28"
+      "address": "栄町5-8-28",
+      "storeid": "asaka-56666d",
+      "shopid": "asaka-56666d-paypay"
     }
   ],
   "時計・貴金属・メガネ・カメラ": [
     {
       "name": "Atelier  Bijou",
-      "address": "仲町2-4-2-306ｺﾝﾌｫｰﾙ東朝霞"
+      "address": "仲町2-4-2-306ｺﾝﾌｫｰﾙ東朝霞",
+      "storeid": "asaka-2a138f",
+      "shopid": "asaka-2a138f-paypay"
     },
     {
       "name": "和真メガネ  朝霞店",
-      "address": "本町1-12-10 ﾏﾙｴﾂ2F"
+      "address": "本町1-12-10 ﾏﾙｴﾂ2F",
+      "storeid": "asaka-bb015d",
+      "shopid": "asaka-bb015d-paypay"
     },
     {
       "name": "ジュエリードクター",
-      "address": "朝霞市仲町 2-2-19-2階"
+      "address": "朝霞市仲町 2-2-19-2階",
+      "storeid": "asaka-44ba7d",
+      "shopid": "asaka-44ba7d-paypay"
     }
   ],
   "時間貸し駐車場": [
     {
       "name": "PARKMAX北原第2",
-      "address": "北原1-5"
+      "address": "北原1-5",
+      "storeid": "asaka-2e8a72",
+      "shopid": "asaka-2e8a72-paypay"
     }
   ],
   "書籍・文具・楽器・スポーツ・自転車・おもちゃ・CD・DVD": [
     {
       "name": "BOOKOFF 朝霞台駅前店",
-      "address": "浜崎1-3-6 ﾙｸｰﾙ1F"
+      "address": "浜崎1-3-6 ﾙｸｰﾙ1F",
+      "storeid": "asaka-ccd95b",
+      "shopid": "asaka-ccd95b-paypay"
     },
     {
       "name": "カネコイングス",
-      "address": "本町 2ｰ12ｰ16"
+      "address": "本町 2ｰ12ｰ16",
+      "storeid": "asaka-e594f9",
+      "shopid": "asaka-e594f9-paypay"
     },
     {
       "name": "スピカデザイン",
-      "address": "根岸台 2-17-26 工藤ｸﾞﾘｰﾝﾊｲﾂ5"
+      "address": "根岸台 2-17-26 工藤ｸﾞﾘｰﾝﾊｲﾂ5",
+      "storeid": "asaka-2adb07",
+      "shopid": "asaka-2adb07-paypay"
     },
     {
       "name": "アスクスウインズ",
-      "address": "朝霞市宮戸 4-8-25ｻﾝﾌﾞﾚｰﾌﾞ101"
+      "address": "朝霞市宮戸 4-8-25ｻﾝﾌﾞﾚｰﾌﾞ101",
+      "storeid": "asaka-c5e795",
+      "shopid": "asaka-c5e795-paypay"
     },
     {
       "name": "クサカベ",
-      "address": "膝折町3-3-8"
+      "address": "膝折町3-3-8",
+      "storeid": "asaka-13f87a",
+      "shopid": "asaka-13f87a-paypay"
     },
     {
       "name": "あさか卓球",
-      "address": "北原2-13-8 b1"
+      "address": "北原2-13-8 b1",
+      "storeid": "asaka-342700",
+      "shopid": "asaka-342700-paypay"
     },
     {
       "name": "早川グローブ",
-      "address": "栄町2-6-28"
+      "address": "栄町2-6-28",
+      "storeid": "asaka-882b70",
+      "shopid": "asaka-882b70-paypay"
     },
     {
       "name": "文教堂 朝霞マルエツ店",
-      "address": "本町1-12-10 ﾏﾙｴﾂ朝霞店3F"
+      "address": "本町1-12-10 ﾏﾙｴﾂ朝霞店3F",
+      "storeid": "asaka-7d114d",
+      "shopid": "asaka-7d114d-paypay"
     },
     {
       "name": "フタバスポーツ朝霞本店",
-      "address": "幸町3-4-15"
+      "address": "幸町3-4-15",
+      "storeid": "asaka-759251",
+      "shopid": "asaka-759251-paypay"
     },
     {
       "name": "読売センター北朝霞",
-      "address": "朝霞市浜崎 3-9-31"
+      "address": "朝霞市浜崎 3-9-31",
+      "storeid": "asaka-75b8e0",
+      "shopid": "asaka-75b8e0-paypay"
     },
     {
       "name": "CHIENOWA  BASE",
-      "address": "本町2-7-27"
+      "address": "本町2-7-27",
+      "storeid": "asaka-406571",
+      "shopid": "asaka-406571-paypay"
     },
     {
       "name": "宮脇書店 朝霞店",
-      "address": "本町1ｰ38ｰ43"
+      "address": "本町1ｰ38ｰ43",
+      "storeid": "asaka-58c7e2",
+      "shopid": "asaka-58c7e2-paypay"
     },
     {
       "name": "トップスポーツ",
-      "address": "幸町 1-5-15 FLEX1 2F"
+      "address": "幸町 1-5-15 FLEX1 2F",
+      "storeid": "asaka-ec74a3",
+      "shopid": "asaka-ec74a3-paypay"
     },
     {
       "name": "ライクストレーディング",
-      "address": "根岸台7ｰ21ｰ62"
+      "address": "根岸台7ｰ21ｰ62",
+      "storeid": "asaka-55264a",
+      "shopid": "asaka-55264a-paypay"
     },
     {
       "name": "有限会社大日屋",
-      "address": "仲町2-2-43 大日屋ﾋﾞﾙ3F"
+      "address": "仲町2-2-43 大日屋ﾋﾞﾙ3F",
+      "storeid": "asaka-e65958",
+      "shopid": "asaka-e65958-paypay"
     }
   ],
   "美容業": [
     {
       "name": "HAIR  MAKE  sunquest  朝霞店",
-      "address": "本町2-12-17"
+      "address": "本町2-12-17",
+      "storeid": "asaka-4daf7f",
+      "shopid": "asaka-4daf7f-paypay"
     },
     {
       "name": "ラカスタ髪飛行切",
-      "address": "本町1-5-29 j.sﾋﾞﾙ"
+      "address": "本町1-5-29 j.sﾋﾞﾙ",
+      "storeid": "asaka-e049d3",
+      "shopid": "asaka-e049d3-paypay"
     },
     {
       "name": "まつげ専門サロン eclat朝霞店",
-      "address": "本町 2-5-24 細田ﾋﾞﾙ3階"
+      "address": "本町 2-5-24 細田ﾋﾞﾙ3階",
+      "storeid": "asaka-a5acb7",
+      "shopid": "asaka-a5acb7-paypay"
     },
     {
       "name": "NATURE朝霞店",
-      "address": "本町 2-11-28 花月ﾋﾞﾙ2階"
+      "address": "本町 2-11-28 花月ﾋﾞﾙ2階",
+      "storeid": "asaka-3d2b81",
+      "shopid": "asaka-3d2b81-paypay"
     },
     {
       "name": "Bite",
-      "address": "本町3-2-63-201"
+      "address": "本町3-2-63-201",
+      "storeid": "asaka-3546fd",
+      "shopid": "asaka-3546fd-paypay"
     },
     {
       "name": "poco a poco",
-      "address": "東弁財 1丁目5番8号 K･ｽﾃｰｼﾞﾃﾅﾝﾄ2Fｰ2"
+      "address": "東弁財 1丁目5番8号 K･ｽﾃｰｼﾞﾃﾅﾝﾄ2Fｰ2",
+      "storeid": "asaka-40f1ba",
+      "shopid": "asaka-40f1ba-paypay"
     },
     {
       "name": "Cal-",
-      "address": "本町 2-12-20 丸徳ﾋﾞﾙ3階"
+      "address": "本町 2-12-20 丸徳ﾋﾞﾙ3階",
+      "storeid": "asaka-a749f7",
+      "shopid": "asaka-a749f7-paypay"
     },
     {
       "name": "Indah",
-      "address": "西弁財1‐15‐5 ｾﾚｰﾇ朝霞台102"
+      "address": "西弁財1‐15‐5 ｾﾚｰﾇ朝霞台102",
+      "storeid": "asaka-80e03b",
+      "shopid": "asaka-80e03b-paypay"
     },
     {
       "name": "NAIL SALON ManoA",
-      "address": "本町3ｰ4ｰ17"
+      "address": "本町3ｰ4ｰ17",
+      "storeid": "asaka-412fdf",
+      "shopid": "asaka-412fdf-paypay"
     },
     {
       "name": "AKIOS AGE",
-      "address": "西原1-2-11 WAVE21 2F"
+      "address": "西原1-2-11 WAVE21 2F",
+      "storeid": "asaka-691c4a",
+      "shopid": "asaka-691c4a-paypay"
     },
     {
       "name": "美容室RICHE",
-      "address": "本町 1ｰ15-14 T&Kﾋﾞﾙ 1F"
+      "address": "本町 1ｰ15-14 T&Kﾋﾞﾙ 1F",
+      "storeid": "asaka-135471",
+      "shopid": "asaka-135471-paypay"
     },
     {
       "name": "HairdesignGOLD",
-      "address": "朝霞市本町 2-25-32-1F"
+      "address": "朝霞市本町 2-25-32-1F",
+      "storeid": "asaka-9ce310",
+      "shopid": "asaka-9ce310-paypay"
     },
     {
       "name": "ヘアーサロンmomo",
-      "address": "膝折町 5-9-39"
+      "address": "膝折町 5-9-39",
+      "storeid": "asaka-5ce20e",
+      "shopid": "asaka-5ce20e-paypay"
     },
     {
       "name": "LISSEHAIR DRESSING",
-      "address": "本町 2-4-7 曽根田BLD 3F"
+      "address": "本町 2-4-7 曽根田BLD 3F",
+      "storeid": "asaka-44ee68",
+      "shopid": "asaka-44ee68-paypay"
     },
     {
       "name": "LOTUS",
-      "address": "栄町1-7-24"
+      "address": "栄町1-7-24",
+      "storeid": "asaka-49ec19",
+      "shopid": "asaka-49ec19-paypay"
     },
     {
       "name": "Belle By B・C・B・G",
-      "address": "東弁財1-3-9 ｲｰｽﾄｱﾚｲﾋﾞﾙ2F"
+      "address": "東弁財1-3-9 ｲｰｽﾄｱﾚｲﾋﾞﾙ2F",
+      "storeid": "asaka-9fdba1",
+      "shopid": "asaka-9fdba1-paypay"
     },
     {
       "name": "おしゃれハウスShin",
-      "address": "西弁財2-6-27 安部ﾋﾞﾙ"
+      "address": "西弁財2-6-27 安部ﾋﾞﾙ",
+      "storeid": "asaka-1d934b",
+      "shopid": "asaka-1d934b-paypay"
     },
     {
       "name": "Ma cherie",
-      "address": "本町 2-17-26 志幸44ﾓｰﾘｱ404"
+      "address": "本町 2-17-26 志幸44ﾓｰﾘｱ404",
+      "storeid": "asaka-cb0a7e",
+      "shopid": "asaka-cb0a7e-paypay"
     },
     {
       "name": "C.F.S Setter",
-      "address": "本町 1-2-26 wj.A-1ﾋﾞﾙ1F"
+      "address": "本町 1-2-26 wj.A-1ﾋﾞﾙ1F",
+      "storeid": "asaka-09000d",
+      "shopid": "asaka-09000d-paypay"
     },
     {
       "name": "ハッピー&スマイル",
-      "address": "朝志ｹ丘1-2-6 104"
+      "address": "朝志ｹ丘1-2-6 104",
+      "storeid": "asaka-72aa0e",
+      "shopid": "asaka-72aa0e-paypay"
     },
     {
       "name": "カットバック",
-      "address": "朝志ｹ丘 2-4-30"
+      "address": "朝志ｹ丘 2-4-30",
+      "storeid": "asaka-b7fb39",
+      "shopid": "asaka-b7fb39-paypay"
     },
     {
       "name": "LUKELUKE",
-      "address": "本町 2-7-21 ﾌﾞﾗﾝｼｰﾙ朝霞101"
+      "address": "本町 2-7-21 ﾌﾞﾗﾝｼｰﾙ朝霞101",
+      "storeid": "asaka-8ca777",
+      "shopid": "asaka-8ca777-paypay"
     },
     {
       "name": "Whoopee!",
-      "address": "西原 1-8-15 明ﾏﾝｼｮﾝ102"
+      "address": "西原 1-8-15 明ﾏﾝｼｮﾝ102",
+      "storeid": "asaka-2403b9",
+      "shopid": "asaka-2403b9-paypay"
     },
     {
       "name": "ヘアーメイクカサイ",
-      "address": "栄町 4-1-3 ｻﾆｰﾊｲﾂ102"
+      "address": "栄町 4-1-3 ｻﾆｰﾊｲﾂ102",
+      "storeid": "asaka-655e62",
+      "shopid": "asaka-655e62-paypay"
     },
     {
       "name": "ヘアーファクトリーNEMO",
-      "address": "本町 2丁目8−10"
+      "address": "本町 2丁目8−10",
+      "storeid": "asaka-8dbcbe",
+      "shopid": "asaka-8dbcbe-paypay"
     },
     {
       "name": "ヘアーサロンヤマモト",
-      "address": "三原 2ｰ10ｰ34"
+      "address": "三原 2ｰ10ｰ34",
+      "storeid": "asaka-f70fe3",
+      "shopid": "asaka-f70fe3-paypay"
     },
     {
       "name": "salon samudraサロン  サムドラ",
-      "address": "東弁財2-13-23 CityAnnexVox-H3 103号室"
+      "address": "東弁財2-13-23 CityAnnexVox-H3 103号室",
+      "storeid": "asaka-9e0888",
+      "shopid": "asaka-9e0888-paypay"
     },
     {
       "name": "エアー",
-      "address": "朝霞市浜崎 1-2-10-4F"
+      "address": "朝霞市浜崎 1-2-10-4F",
+      "storeid": "asaka-0288fa",
+      "shopid": "asaka-0288fa-paypay"
     },
     {
       "name": "airef（アイリフ）",
-      "address": "本町 2-10-16 103"
+      "address": "本町 2-10-16 103",
+      "storeid": "asaka-682bda",
+      "shopid": "asaka-682bda-paypay"
     },
     {
       "name": "STAND",
-      "address": "栄町本町 ﾚｼﾞﾃﾞﾝｽｶﾅｲ102"
+      "address": "栄町本町 ﾚｼﾞﾃﾞﾝｽｶﾅｲ102",
+      "storeid": "asaka-a85ae5",
+      "shopid": "asaka-a85ae5-paypay"
     },
     {
       "name": "hair  top’s",
-      "address": "仲町2‐2‐38"
+      "address": "仲町2‐2‐38",
+      "storeid": "asaka-a8fb03",
+      "shopid": "asaka-a8fb03-paypay"
     },
     {
       "name": "ame hairandspa",
-      "address": "溝沼796-4 ｸﾙｰﾙD号室"
+      "address": "溝沼796-4 ｸﾙｰﾙD号室",
+      "storeid": "asaka-ff70a9",
+      "shopid": "asaka-ff70a9-paypay"
     },
     {
       "name": "ａｎｄ  ｏｎｅａｎｄ  ｏｎｅ",
-      "address": "本町2-6-32 秋桜ﾏﾝｼｮﾝ 102"
+      "address": "本町2-6-32 秋桜ﾏﾝｼｮﾝ 102",
+      "storeid": "asaka-17e1a3",
+      "shopid": "asaka-17e1a3-paypay"
     },
     {
       "name": "Apaiser",
-      "address": "本町2-3-10 ｻﾝﾌﾟﾗｻﾞ朝霞1F"
+      "address": "本町2-3-10 ｻﾝﾌﾟﾗｻﾞ朝霞1F",
+      "storeid": "asaka-6222f2",
+      "shopid": "asaka-6222f2-paypay"
     },
     {
       "name": "Mau  Loa",
-      "address": "根岸台1丁目7-13 ｸﾚｽﾄｺｰﾄﾋﾙｽﾞ202"
+      "address": "根岸台1丁目7-13 ｸﾚｽﾄｺｰﾄﾋﾙｽﾞ202",
+      "storeid": "asaka-6c4989",
+      "shopid": "asaka-6c4989-paypay"
     },
     {
       "name": "Lumirise",
-      "address": "本町2-4-6 ﾄﾓｴﾚｼﾞﾃﾞﾝｽ101"
+      "address": "本町2-4-6 ﾄﾓｴﾚｼﾞﾃﾞﾝｽ101",
+      "storeid": "asaka-677a3c",
+      "shopid": "asaka-677a3c-paypay"
     },
     {
       "name": "Addictnailstudio",
-      "address": "東弁財1-2-15 ｱﾝｼｬﾝﾃ朝霞台401"
+      "address": "東弁財1-2-15 ｱﾝｼｬﾝﾃ朝霞台401",
+      "storeid": "asaka-843caa",
+      "shopid": "asaka-843caa-paypay"
     },
     {
       "name": "ヘアメイクエステ  アミューズ",
-      "address": "西原1-2-34 ｸﾞﾚｰｽｺｰﾄ朝霞台1F-2"
+      "address": "西原1-2-34 ｸﾞﾚｰｽｺｰﾄ朝霞台1F-2",
+      "storeid": "asaka-8e21d3",
+      "shopid": "asaka-8e21d3-paypay"
     },
     {
       "name": "Aline",
-      "address": "浜崎1-1-31 ｱﾄﾞﾊﾞﾝｽ702号"
+      "address": "浜崎1-1-31 ｱﾄﾞﾊﾞﾝｽ702号",
+      "storeid": "asaka-454f0e",
+      "shopid": "asaka-454f0e-paypay"
     },
     {
       "name": "美容室禅",
-      "address": "岡1-17-61"
+      "address": "岡1-17-61",
+      "storeid": "asaka-31c90e",
+      "shopid": "asaka-31c90e-paypay"
     },
     {
       "name": "Alwon",
-      "address": "西弁財1-13-31 ｺｰﾎﾟMAKI"
+      "address": "西弁財1-13-31 ｺｰﾎﾟMAKI",
+      "storeid": "asaka-e76129",
+      "shopid": "asaka-e76129-paypay"
     },
     {
       "name": "お爪やさん  たぎネイル",
-      "address": "幸町3-2-36 ｿﾚｲﾕ久保310"
+      "address": "幸町3-2-36 ｿﾚｲﾕ久保310",
+      "storeid": "asaka-0f5a4a",
+      "shopid": "asaka-0f5a4a-paypay"
     },
     {
       "name": "one  off",
-      "address": "根岸台2-17-23 ｸﾞﾗﾝﾄﾞｿﾚｲﾕ101号"
+      "address": "根岸台2-17-23 ｸﾞﾗﾝﾄﾞｿﾚｲﾕ101号",
+      "storeid": "asaka-d4f824",
+      "shopid": "asaka-d4f824-paypay"
     },
     {
       "name": "HOMEBOY",
-      "address": "本町2-11-1 栄ﾏﾝｼｮﾝ103"
+      "address": "本町2-11-1 栄ﾏﾝｼｮﾝ103",
+      "storeid": "asaka-8e43a7",
+      "shopid": "asaka-8e43a7-paypay"
     },
     {
       "name": "Sniphairdesignshop",
-      "address": "東弁財3-13-23 ﾄｩｰﾙﾓﾝﾄﾞ102"
+      "address": "東弁財3-13-23 ﾄｩｰﾙﾓﾝﾄﾞ102",
+      "storeid": "asaka-cbf9da",
+      "shopid": "asaka-cbf9da-paypay"
     },
     {
       "name": "Southern Ferio",
-      "address": "本町2-10-16 ｱｰﾊﾞﾝﾋﾙｽﾞｽｽﾞｷ102号室"
+      "address": "本町2-10-16 ｱｰﾊﾞﾝﾋﾙｽﾞｽｽﾞｷ102号室",
+      "storeid": "asaka-d93ad7",
+      "shopid": "asaka-d93ad7-paypay"
     },
     {
       "name": "サロンドティアラ",
-      "address": "根岸台2ｰ17ｰ17"
+      "address": "根岸台2ｰ17ｰ17",
+      "storeid": "asaka-d7e9fe",
+      "shopid": "asaka-d7e9fe-paypay"
     },
     {
       "name": "GLÜCK  hair",
-      "address": "三原 3-29-1"
+      "address": "三原 3-29-1",
+      "storeid": "asaka-8acce6",
+      "shopid": "asaka-8acce6-paypay"
     },
     {
       "name": "あいいろ",
-      "address": "泉水2-1-39"
+      "address": "泉水2-1-39",
+      "storeid": "asaka-a176e9",
+      "shopid": "asaka-a176e9-paypay"
     },
     {
       "name": "Shyuri",
-      "address": "浜崎1-4-12 保第二ﾋﾞﾙ403"
+      "address": "浜崎1-4-12 保第二ﾋﾞﾙ403",
+      "storeid": "asaka-31d046",
+      "shopid": "asaka-31d046-paypay"
     },
     {
       "name": "HAIRSHOP  54",
-      "address": "三原2丁目7-26 ｱｻｶﾊｲﾑ101"
+      "address": "三原2丁目7-26 ｱｻｶﾊｲﾑ101",
+      "storeid": "asaka-0ef0d6",
+      "shopid": "asaka-0ef0d6-paypay"
     },
     {
       "name": "hair＆spa  sunao",
-      "address": "溝沼7-6-35"
+      "address": "溝沼7-6-35",
+      "storeid": "asaka-c63695",
+      "shopid": "asaka-c63695-paypay"
     },
     {
       "name": "スタイリッシュヘアーピカソ",
-      "address": "朝霞市岡 一丁目9番4号"
+      "address": "朝霞市岡 一丁目9番4号",
+      "storeid": "asaka-ab4a94",
+      "shopid": "asaka-ab4a94-paypay"
     },
     {
       "name": "i  nail",
-      "address": "本町2-6-11 DAIKAN15 501"
+      "address": "本町2-6-11 DAIKAN15 501",
+      "storeid": "asaka-022a2e",
+      "shopid": "asaka-022a2e-paypay"
     },
     {
       "name": "adada",
-      "address": "根岸台7丁目2-54 笠原ﾋﾞﾙ1L"
+      "address": "根岸台7丁目2-54 笠原ﾋﾞﾙ1L",
+      "storeid": "asaka-81e6c8",
+      "shopid": "asaka-81e6c8-paypay"
     },
     {
       "name": "MIUunartisteParis",
-      "address": "宮戸 3-6-44"
+      "address": "宮戸 3-6-44",
+      "storeid": "asaka-1586c3",
+      "shopid": "asaka-1586c3-paypay"
     },
     {
       "name": "EYE  LASH  SALON  RANUN",
-      "address": "東弁財2ｰ15ｰ14 志幸56OLIVE201号室"
+      "address": "東弁財2ｰ15ｰ14 志幸56OLIVE201号室",
+      "storeid": "asaka-93533e",
+      "shopid": "asaka-93533e-paypay"
     },
     {
       "name": "NAILSALON  PURR",
-      "address": "東弁財2-12-23 VOX-H3 102"
+      "address": "東弁財2-12-23 VOX-H3 102",
+      "storeid": "asaka-43cb23",
+      "shopid": "asaka-43cb23-paypay"
     },
     {
       "name": "hair  design  irori",
-      "address": "幸町3-6-4"
+      "address": "幸町3-6-4",
+      "storeid": "asaka-5207b2",
+      "shopid": "asaka-5207b2-paypay"
     },
     {
       "name": "no．13＿hair",
-      "address": "本町2-20-8 ﾋﾞﾗｸﾚｰﾙ3-101"
+      "address": "本町2-20-8 ﾋﾞﾗｸﾚｰﾙ3-101",
+      "storeid": "asaka-71a53d",
+      "shopid": "asaka-71a53d-paypay"
     },
     {
       "name": "Reon．",
-      "address": "根岸台6-8-44 ﾍﾞﾙｸﾞﾗﾝﾃﾞ201"
+      "address": "根岸台6-8-44 ﾍﾞﾙｸﾞﾗﾝﾃﾞ201",
+      "storeid": "asaka-dc9067",
+      "shopid": "asaka-dc9067-paypay"
     },
     {
       "name": "Mieux",
-      "address": "溝沼3-1-58"
+      "address": "溝沼3-1-58",
+      "storeid": "asaka-f0f87a",
+      "shopid": "asaka-f0f87a-paypay"
     },
     {
       "name": "美容室Ｂ・Ｃ・Ｂ・Ｇ朝霞店",
-      "address": "本町2‐5‐33 協和ﾋﾞﾙ1F"
+      "address": "本町2‐5‐33 協和ﾋﾞﾙ1F",
+      "storeid": "asaka-42517f",
+      "shopid": "asaka-42517f-paypay"
     },
     {
       "name": "サロンドフルール",
-      "address": "西原1-2-2 ﾘｰヴ北朝霞ﾋﾞﾙ3F"
+      "address": "西原1-2-2 ﾘｰヴ北朝霞ﾋﾞﾙ3F",
+      "storeid": "asaka-821684",
+      "shopid": "asaka-821684-paypay"
     },
     {
       "name": "FELIVA  朝霞台店",
-      "address": "西弁財1-10-16 ﾅｳﾋﾞﾚｯｼﾞ朝霞台地下B"
+      "address": "西弁財1-10-16 ﾅｳﾋﾞﾚｯｼﾞ朝霞台地下B",
+      "storeid": "asaka-e7a51f",
+      "shopid": "asaka-e7a51f-paypay"
     },
     {
       "name": "Kanade",
-      "address": "東弁財1-2-31 ﾍﾞﾙﾎﾟｰﾄ朝霞台駅前店舗1F"
+      "address": "東弁財1-2-31 ﾍﾞﾙﾎﾟｰﾄ朝霞台駅前店舗1F",
+      "storeid": "asaka-a43c6a",
+      "shopid": "asaka-a43c6a-paypay"
     },
     {
       "name": "カットアトリエ",
-      "address": "本町 2-5-27"
+      "address": "本町 2-5-27",
+      "storeid": "asaka-e4d34a",
+      "shopid": "asaka-e4d34a-paypay"
     },
     {
       "name": "NonTーyell",
-      "address": "仲町2-3-1 ﾌﾟﾘﾓｱﾓｰﾚ2F  美容室BLﾌﾞﾛｯｻﾑ内"
+      "address": "仲町2-3-1 ﾌﾟﾘﾓｱﾓｰﾚ2F  美容室BLﾌﾞﾛｯｻﾑ内",
+      "storeid": "asaka-ed70fa",
+      "shopid": "asaka-ed70fa-paypay"
     },
     {
       "name": "Nail at my salonLien by blossom",
-      "address": "浜崎 1-3-10 AX-1ﾋﾞﾙ3F 美容室ﾌﾞﾛｯｻﾑ内"
+      "address": "浜崎 1-3-10 AX-1ﾋﾞﾙ3F 美容室ﾌﾞﾛｯｻﾑ内",
+      "storeid": "asaka-cabb65",
+      "shopid": "asaka-cabb65-paypay"
     },
     {
       "name": "Room北朝霞店",
-      "address": "西原 1-2-2 ﾘｰｳﾞ北朝霞ﾋﾞﾙ2F"
+      "address": "西原 1-2-2 ﾘｰｳﾞ北朝霞ﾋﾞﾙ2F",
+      "storeid": "asaka-a388c3",
+      "shopid": "asaka-a388c3-paypay"
     },
     {
       "name": "Pa－Sha",
-      "address": "朝志ヶ丘2-13-34"
+      "address": "朝志ヶ丘2-13-34",
+      "storeid": "asaka-11f09e",
+      "shopid": "asaka-11f09e-paypay"
     },
     {
       "name": "Organicカインズ朝霞店",
-      "address": "根岸台3ｰ20ｰ1 ｶｲﾝｽﾞ朝霞店2階"
+      "address": "根岸台3ｰ20ｰ1 ｶｲﾝｽﾞ朝霞店2階",
+      "storeid": "asaka-587259",
+      "shopid": "asaka-587259-paypay"
     },
     {
       "name": "Sepiage trois",
-      "address": "仲町2‐2‐44 ﾊﾟｰﾙｳｨﾝｸﾞ3‐B"
+      "address": "仲町2‐2‐44 ﾊﾟｰﾙｳｨﾝｸﾞ3‐B",
+      "storeid": "asaka-55ccbb",
+      "shopid": "asaka-55ccbb-paypay"
     },
     {
       "name": "Sepiage cinq",
-      "address": "本町2-4-11"
+      "address": "本町2-4-11",
+      "storeid": "asaka-aa8ed5",
+      "shopid": "asaka-aa8ed5-paypay"
     },
     {
       "name": "ナチュレーヌ",
-      "address": "朝霞市幸町 1-13-5"
+      "address": "朝霞市幸町 1-13-5",
+      "storeid": "asaka-b256a9",
+      "shopid": "asaka-b256a9-paypay"
     },
     {
       "name": "elnoelno",
-      "address": "仲町 2-2-17 ｸﾞﾘｰﾝﾌﾟﾗｻﾞﾋﾞﾙ502"
+      "address": "仲町 2-2-17 ｸﾞﾘｰﾝﾌﾟﾗｻﾞﾋﾞﾙ502",
+      "storeid": "asaka-2702f8",
+      "shopid": "asaka-2702f8-paypay"
     },
     {
       "name": "M.TANIGUCHI Branche’",
-      "address": "東弁財 1-5-8 Kｽﾃｰｼﾞ3F"
+      "address": "東弁財 1-5-8 Kｽﾃｰｼﾞ3F",
+      "storeid": "asaka-63e14d",
+      "shopid": "asaka-63e14d-paypay"
     },
     {
       "name": "FAHREN  pure  suite",
-      "address": "仲町 1-1-27 ﾛｰﾄﾎﾙﾝ1階"
+      "address": "仲町 1-1-27 ﾛｰﾄﾎﾙﾝ1階",
+      "storeid": "asaka-e8ac27",
+      "shopid": "asaka-e8ac27-paypay"
     },
     {
       "name": "LUCIA",
-      "address": "本町 3-1-43 ﾌﾟﾗｻﾞﾜﾝ1F"
+      "address": "本町 3-1-43 ﾌﾟﾗｻﾞﾜﾝ1F",
+      "storeid": "asaka-a69ac2",
+      "shopid": "asaka-a69ac2-paypay"
     },
     {
       "name": "チル朝霞",
-      "address": "仲町2-2-4 朝霞駅前渡辺ﾋﾞﾙ2階"
+      "address": "仲町2-2-4 朝霞駅前渡辺ﾋﾞﾙ2階",
+      "storeid": "asaka-4c816e",
+      "shopid": "asaka-4c816e-paypay"
     },
     {
       "name": "Tauta．",
-      "address": "仲町2-2-19 ﾘﾝｸｽﾋﾞﾙA棟1F"
+      "address": "仲町2-2-19 ﾘﾝｸｽﾋﾞﾙA棟1F",
+      "storeid": "asaka-c34de7",
+      "shopid": "asaka-c34de7-paypay"
     },
     {
       "name": "Natural朝霞店",
-      "address": "仲町 2-2-19 ﾘﾝｸｽﾋﾞﾙ1階"
+      "address": "仲町 2-2-19 ﾘﾝｸｽﾋﾞﾙ1階",
+      "storeid": "asaka-1e04c7",
+      "shopid": "asaka-1e04c7-paypay"
     },
     {
       "name": "まつげエクステサロンI'sアイズ朝霞店",
-      "address": "東弁財1丁目5−8 K ｽﾃｰｼﾞ 4F-2"
+      "address": "東弁財1丁目5−8 K ｽﾃｰｼﾞ 4F-2",
+      "storeid": "asaka-72a1f5",
+      "shopid": "asaka-72a1f5-paypay"
     },
     {
       "name": "micasa -ミカサ-",
-      "address": "岡 2-1-19 ｱｯﾌﾟﾙﾊｳｽ B号室"
+      "address": "岡 2-1-19 ｱｯﾌﾟﾙﾊｳｽ B号室",
+      "storeid": "asaka-fa3f5a",
+      "shopid": "asaka-fa3f5a-paypay"
     },
     {
       "name": "細野理髪店",
-      "address": "本町2丁目 12番24号"
+      "address": "本町2丁目 12番24号",
+      "storeid": "asaka-5b740c",
+      "shopid": "asaka-5b740c-paypay"
     },
     {
       "name": "Piu  Felice",
-      "address": "東弁財1−4−1ﾌﾟﾗﾊ朝霞台ｽﾃｰｼｮﾝﾋﾞｭｰ1階"
+      "address": "東弁財1−4−1ﾌﾟﾗﾊ朝霞台ｽﾃｰｼｮﾝﾋﾞｭｰ1階",
+      "storeid": "asaka-ab4e70",
+      "shopid": "asaka-ab4e70-paypay"
     }
   ],
   "自動車整備・各種修理": [
     {
       "name": "埼玉自動車本社",
-      "address": "膝折町 4丁目22番52号"
+      "address": "膝折町 4丁目22番52号",
+      "storeid": "asaka-85f06e",
+      "shopid": "asaka-85f06e-paypay"
     },
     {
       "name": "RacingGarageSTR",
-      "address": "朝霞市上内間木 319-1"
+      "address": "朝霞市上内間木 319-1",
+      "storeid": "asaka-068cfc",
+      "shopid": "asaka-068cfc-paypay"
     },
     {
       "name": "カーサービス  アルファ",
-      "address": "岡 1-9-18"
+      "address": "岡 1-9-18",
+      "storeid": "asaka-19ca4d",
+      "shopid": "asaka-19ca4d-paypay"
     },
     {
       "name": "軽トラキャンプ研究所",
-      "address": "栄町2-12-26 ｼｮｯﾌﾟ栄"
+      "address": "栄町2-12-26 ｼｮｯﾌﾟ栄",
+      "storeid": "asaka-0a08a3",
+      "shopid": "asaka-0a08a3-paypay"
     },
     {
       "name": "KES",
-      "address": "膝折町4-11-27"
+      "address": "膝折町4-11-27",
+      "storeid": "asaka-38941b",
+      "shopid": "asaka-38941b-paypay"
     },
     {
       "name": "ジョイロード",
-      "address": "根岸台8-12-22"
+      "address": "根岸台8-12-22",
+      "storeid": "asaka-bb4dfd",
+      "shopid": "asaka-bb4dfd-paypay"
     },
     {
       "name": "ジョイロード  2号店",
-      "address": "上内間木402"
+      "address": "上内間木402",
+      "storeid": "asaka-e6ded6",
+      "shopid": "asaka-e6ded6-paypay"
     },
     {
       "name": "Keitarota  Craft",
-      "address": "朝霞市上内間木 157"
+      "address": "朝霞市上内間木 157",
+      "storeid": "asaka-f09755",
+      "shopid": "asaka-f09755-paypay"
     },
     {
       "name": "デカルコ",
-      "address": "朝霞市上内間木 400-4"
+      "address": "朝霞市上内間木 400-4",
+      "storeid": "asaka-a6710b",
+      "shopid": "asaka-a6710b-paypay"
     },
     {
       "name": "サンライズボディ",
-      "address": "朝霞市上内間木 100-1"
+      "address": "朝霞市上内間木 100-1",
+      "storeid": "asaka-68671c",
+      "shopid": "asaka-68671c-paypay"
     },
     {
       "name": "ライドワーカーズ",
-      "address": "上内間木697-1"
+      "address": "上内間木697-1",
+      "storeid": "asaka-e6177b",
+      "shopid": "asaka-e6177b-paypay"
     },
     {
       "name": "KMTパーツ",
-      "address": "根岸台8 埼玉県和光市南1-26-20"
+      "address": "根岸台8 埼玉県和光市南1-26-20",
+      "storeid": "asaka-10e67f",
+      "shopid": "asaka-10e67f-paypay"
     },
     {
       "name": "昌大興業",
-      "address": "本町 2丁目2番38号"
+      "address": "本町 2丁目2番38号",
+      "storeid": "asaka-a76e9b",
+      "shopid": "asaka-a76e9b-paypay"
     },
     {
       "name": "フラット",
-      "address": "栄町 4-2-16"
+      "address": "栄町 4-2-16",
+      "storeid": "asaka-7856cc",
+      "shopid": "asaka-7856cc-paypay"
     },
     {
       "name": "金子オート",
-      "address": "栄町1-5-10"
+      "address": "栄町1-5-10",
+      "storeid": "asaka-f42f14",
+      "shopid": "asaka-f42f14-paypay"
     },
     {
       "name": "ダイワンテレコム朝霞店",
-      "address": "根岸台3-20 ｶｲﾝｽﾞ朝霞店2F"
+      "address": "根岸台3-20 ｶｲﾝｽﾞ朝霞店2F",
+      "storeid": "asaka-edbea7",
+      "shopid": "asaka-edbea7-paypay"
     },
     {
       "name": "大橋自動車工業",
-      "address": "膝折町4-8-53"
+      "address": "膝折町4-8-53",
+      "storeid": "asaka-f90446",
+      "shopid": "asaka-f90446-paypay"
     },
     {
       "name": "モディファイ",
-      "address": "栄町 5-8-7"
+      "address": "栄町 5-8-7",
+      "storeid": "asaka-0ebc13",
+      "shopid": "asaka-0ebc13-paypay"
     },
     {
       "name": "ムーヴ＊カー",
-      "address": "朝霞市上内間木 692-16"
+      "address": "朝霞市上内間木 692-16",
+      "storeid": "asaka-312c2d",
+      "shopid": "asaka-312c2d-paypay"
     },
     {
       "name": "アイスタ朝霞店",
-      "address": "本町 1-12-5 ﾌｧｰｽﾄｽﾃｰｼﾞ702"
+      "address": "本町 1-12-5 ﾌｧｰｽﾄｽﾃｰｼﾞ702",
+      "storeid": "asaka-d12b67",
+      "shopid": "asaka-d12b67-paypay"
     },
     {
       "name": "ケイアンドエイチ",
-      "address": "朝霞市上内間木 381-2"
+      "address": "朝霞市上内間木 381-2",
+      "storeid": "asaka-023c89",
+      "shopid": "asaka-023c89-paypay"
     },
     {
       "name": "Quick朝霞台店",
-      "address": "東弁財 1-4-11 萩原ﾋﾞﾙ2階 喫茶ﾙﾋﾞｰ内"
+      "address": "東弁財 1-4-11 萩原ﾋﾞﾙ2階 喫茶ﾙﾋﾞｰ内",
+      "storeid": "asaka-c190c4",
+      "shopid": "asaka-c190c4-paypay"
     },
     {
       "name": "Quick朝霞店",
-      "address": "本町 3‐1-51 角田ﾋﾞﾙ1F ﾊﾝｺ卸売ｾﾝﾀｰ 朝霞駅前店 店内受付"
+      "address": "本町 3‐1-51 角田ﾋﾞﾙ1F ﾊﾝｺ卸売ｾﾝﾀｰ 朝霞駅前店 店内受付",
+      "storeid": "asaka-0e6e26",
+      "shopid": "asaka-0e6e26-paypay"
     },
     {
       "name": "タイヤ取付どっとこむ埼玉朝霞店",
-      "address": "上内間木752-12"
+      "address": "上内間木752-12",
+      "storeid": "asaka-4507d0",
+      "shopid": "asaka-4507d0-paypay"
     },
     {
       "name": "タイヤセンター大光朝霞店",
-      "address": "大字上内間木 700番地7"
+      "address": "大字上内間木 700番地7",
+      "storeid": "asaka-350334",
+      "shopid": "asaka-350334-paypay"
     },
     {
       "name": "タイヤセンター大光田島店",
-      "address": "田島1丁目9番地3号"
+      "address": "田島1丁目9番地3号",
+      "storeid": "asaka-e75d9e",
+      "shopid": "asaka-e75d9e-paypay"
     },
     {
       "name": "SSG  Car  Service",
-      "address": "朝志ｹ丘1-5-13"
+      "address": "朝志ｹ丘1-5-13",
+      "storeid": "asaka-77cfd8",
+      "shopid": "asaka-77cfd8-paypay"
     },
     {
       "name": "パソコミュ広場あさか・サポート",
-      "address": "本町2-8-10 SKﾋﾞﾙ1F"
+      "address": "本町2-8-10 SKﾋﾞﾙ1F",
+      "storeid": "asaka-daf7ff",
+      "shopid": "asaka-daf7ff-paypay"
     },
     {
       "name": "縫い処  ぴえーる・ぼーて",
-      "address": "朝霞市溝沼 2−12−20"
+      "address": "朝霞市溝沼 2−12−20",
+      "storeid": "asaka-e99873",
+      "shopid": "asaka-e99873-paypay"
     }
   ],
   "花・植木・農耕具・ペット": [
     {
       "name": "花キューピットうちで花園",
-      "address": "本町2-2-4"
+      "address": "本町2-2-4",
+      "storeid": "asaka-ecc9fa",
+      "shopid": "asaka-ecc9fa-paypay"
     },
     {
       "name": "花キューピットうちで花園 朝霞駅前店",
-      "address": "本町3-1-48"
+      "address": "本町3-1-48",
+      "storeid": "asaka-4f90ea",
+      "shopid": "asaka-4f90ea-paypay"
     },
     {
       "name": "花よし",
-      "address": "東弁財 1-4-12 ｴﾙﾊﾞ朝霞台"
+      "address": "東弁財 1-4-12 ｴﾙﾊﾞ朝霞台",
+      "storeid": "asaka-aa7063",
+      "shopid": "asaka-aa7063-paypay"
     },
     {
       "name": "さかい動物病院",
-      "address": "本町 2-18-7"
+      "address": "本町 2-18-7",
+      "storeid": "asaka-a3f0c3",
+      "shopid": "asaka-a3f0c3-paypay"
     },
     {
       "name": "花屋まるよし",
-      "address": "仲町 1-11-48 1F"
+      "address": "仲町 1-11-48 1F",
+      "storeid": "asaka-ee6d45",
+      "shopid": "asaka-ee6d45-paypay"
     },
     {
       "name": "細野洋ラン園",
-      "address": "田島410"
+      "address": "田島410",
+      "storeid": "asaka-d9d121",
+      "shopid": "asaka-d9d121-paypay"
     },
     {
       "name": "アクション・ドッグ朝霞",
-      "address": "宮戸 4-9-1"
+      "address": "宮戸 4-9-1",
+      "storeid": "asaka-59291c",
+      "shopid": "asaka-59291c-paypay"
     },
     {
       "name": "シーズ動物病院",
-      "address": "根岸台3-20-1 ｶｲﾝｽﾞﾎｰﾑ内1階"
+      "address": "根岸台3-20-1 ｶｲﾝｽﾞﾎｰﾑ内1階",
+      "storeid": "asaka-397558",
+      "shopid": "asaka-397558-paypay"
     },
     {
       "name": "あさか台動物病院",
-      "address": "朝霞市東弁財 3ｰ16ｰ13"
+      "address": "朝霞市東弁財 3ｰ16ｰ13",
+      "storeid": "asaka-db1db6",
+      "shopid": "asaka-db1db6-paypay"
     },
     {
       "name": "Dogsalon COCORO",
-      "address": "北原 1丁目1番25号 田辺ﾋﾞﾙ101"
+      "address": "北原 1丁目1番25号 田辺ﾋﾞﾙ101",
+      "storeid": "asaka-d0766e",
+      "shopid": "asaka-d0766e-paypay"
     },
     {
       "name": "エヴァ",
-      "address": "朝霞市根岸台 1-2-41"
+      "address": "朝霞市根岸台 1-2-41",
+      "storeid": "asaka-96e92d",
+      "shopid": "asaka-96e92d-paypay"
     },
     {
       "name": "青山フラワーマーケットエキア朝霞店",
-      "address": "本町2-13-52 ｴｷｱ朝霞2F"
+      "address": "本町2-13-52 ｴｷｱ朝霞2F",
+      "storeid": "asaka-b38df0",
+      "shopid": "asaka-b38df0-paypay"
     }
   ],
   "衣服・靴・服飾品・カバン・バッグ": [
     {
       "name": "ブディック Mi",
-      "address": "本町 2-6-35"
+      "address": "本町 2-6-35",
+      "storeid": "asaka-19c314",
+      "shopid": "asaka-19c314-paypay"
     },
     {
       "name": "丸与製作所",
-      "address": "三原5-13-17 ﾌﾘｰﾋﾞﾚｯｼﾞ201"
+      "address": "三原5-13-17 ﾌﾘｰﾋﾞﾚｯｼﾞ201",
+      "storeid": "asaka-7f0df4",
+      "shopid": "asaka-7f0df4-paypay"
     },
     {
       "name": "鶯-uguisu boutique-朝霞店",
-      "address": "幸町1-1-33"
+      "address": "幸町1-1-33",
+      "storeid": "asaka-07816e",
+      "shopid": "asaka-07816e-paypay"
     },
     {
       "name": "ぱれっと革工房",
-      "address": "溝沼6-15-20"
+      "address": "溝沼6-15-20",
+      "storeid": "asaka-9a19c0",
+      "shopid": "asaka-9a19c0-paypay"
     },
     {
       "name": "アンドエス",
-      "address": "本町2-2"
+      "address": "本町2-2",
+      "storeid": "asaka-a3195c",
+      "shopid": "asaka-a3195c-paypay"
     },
     {
       "name": "ミニチュアフードえのもと食料品店",
-      "address": "根岸台3-3-2"
+      "address": "根岸台3-3-2",
+      "storeid": "asaka-2702db",
+      "shopid": "asaka-2702db-paypay"
     },
     {
       "name": "summerstep",
-      "address": "三原3丁目33-40"
+      "address": "三原3丁目33-40",
+      "storeid": "asaka-780ac7",
+      "shopid": "asaka-780ac7-paypay"
     },
     {
       "name": "トラベルクス",
-      "address": "北原2ｰ5ｰ5"
+      "address": "北原2ｰ5ｰ5",
+      "storeid": "asaka-f676ff",
+      "shopid": "asaka-f676ff-paypay"
     },
     {
       "name": "洋服のタカハシ朝霞三原店",
-      "address": "三原2-14-1-2F -"
+      "address": "三原2-14-1-2F -",
+      "storeid": "asaka-bfee97",
+      "shopid": "asaka-bfee97-paypay"
     },
     {
       "name": "シナノヤ本店",
-      "address": "幸町 3丁目4番24号"
+      "address": "幸町 3丁目4番24号",
+      "storeid": "asaka-9c546a",
+      "shopid": "asaka-9c546a-paypay"
     },
     {
       "name": "本田美奈子．記念館",
-      "address": "膝折町4丁目12ｰ37"
+      "address": "膝折町4丁目12ｰ37",
+      "storeid": "asaka-4730d9",
+      "shopid": "asaka-4730d9-paypay"
     },
     {
       "name": "学校制服スクールベン朝霞本店",
-      "address": "北原 1丁目5番6号"
+      "address": "北原 1丁目5番6号",
+      "storeid": "asaka-49b7b2",
+      "shopid": "asaka-49b7b2-paypay"
     }
   ],
   "製剤薬局": [
     {
       "name": "ドラッグエース  岡店",
-      "address": "朝霞市岡 1-21-15"
+      "address": "朝霞市岡 1-21-15",
+      "storeid": "asaka-c32e74",
+      "shopid": "asaka-c32e74-paypay"
     },
     {
       "name": "ドラッグエース  朝霞宮戸店",
-      "address": "朝霞市宮戸 2-18-39"
+      "address": "朝霞市宮戸 2-18-39",
+      "storeid": "asaka-d8ab08",
+      "shopid": "asaka-d8ab08-paypay"
     },
     {
       "name": "ドラッグエース  朝志ヶ丘店",
-      "address": "朝霞市朝志ｹ丘 2-1-32"
+      "address": "朝霞市朝志ｹ丘 2-1-32",
+      "storeid": "asaka-0cbdfc",
+      "shopid": "asaka-0cbdfc-paypay"
     },
     {
       "name": "ドラッグエース  本町店",
-      "address": "朝霞市本町 1-18-28"
+      "address": "朝霞市本町 1-18-28",
+      "storeid": "asaka-37e49f",
+      "shopid": "asaka-37e49f-paypay"
     }
   ],
   "酒類・リカーショップ": [
     {
       "name": "松永酒店",
-      "address": "泉水 3-6-3"
+      "address": "泉水 3-6-3",
+      "storeid": "asaka-9112fe",
+      "shopid": "asaka-9112fe-paypay"
     },
     {
       "name": "酒のTOP朝霞店",
-      "address": "岡 1-16-7"
+      "address": "岡 1-16-7",
+      "storeid": "asaka-7289e2",
+      "shopid": "asaka-7289e2-paypay"
     },
     {
       "name": "あい升",
-      "address": "本町2-6-22"
+      "address": "本町2-6-22",
+      "storeid": "asaka-bec3b5",
+      "shopid": "asaka-bec3b5-paypay"
     },
     {
       "name": "リキュールショップ ワタナベ",
-      "address": "仲町 2丁目2番4号"
+      "address": "仲町 2丁目2番4号",
+      "storeid": "asaka-283271",
+      "shopid": "asaka-283271-paypay"
     }
   ],
   "食品販売店": [
     {
       "name": "ちよだ鮨 マルエツ朝霞店",
-      "address": "本町1-12-10"
+      "address": "本町1-12-10",
+      "storeid": "asaka-daedea",
+      "shopid": "asaka-daedea-paypay"
     },
     {
       "name": "ちよだ鮨 ＥＱＵＩＡ朝霞店",
-      "address": "朝霞市本町 2-13-52 EQUIA朝霞2F"
+      "address": "朝霞市本町 2-13-52 EQUIA朝霞2F",
+      "storeid": "asaka-432b83",
+      "shopid": "asaka-432b83-paypay"
     },
     {
       "name": "こころ菓子ほそや北朝霞店",
-      "address": "西原 2-4-23 ﾄﾝﾎﾞﾌﾟﾗｻﾞ1階"
+      "address": "西原 2-4-23 ﾄﾝﾎﾞﾌﾟﾗｻﾞ1階",
+      "storeid": "asaka-b72b2a",
+      "shopid": "asaka-b72b2a-paypay"
     },
     {
       "name": "こころ菓子ほそや膝折店",
-      "address": "膝折町 1-1-59"
+      "address": "膝折町 1-1-59",
+      "storeid": "asaka-2aea44",
+      "shopid": "asaka-2aea44-paypay"
     },
     {
       "name": "こころ菓子ほそや本町店",
-      "address": "本町 1-7-24 ｱｰｸｸﾞﾚｲｽ1階"
+      "address": "本町 1-7-24 ｱｰｸｸﾞﾚｲｽ1階",
+      "storeid": "asaka-9533d3",
+      "shopid": "asaka-9533d3-paypay"
     },
     {
       "name": "武蔵野うどん蔵内  朝霞店",
-      "address": "仲町 1−1-21 1F"
+      "address": "仲町 1−1-21 1F",
+      "storeid": "asaka-6ac66e",
+      "shopid": "asaka-6ac66e-paypay"
     },
     {
       "name": "おとうさんのぱんや",
-      "address": "本町 3-1-52 EH207"
+      "address": "本町 3-1-52 EH207",
+      "storeid": "asaka-acebbd",
+      "shopid": "asaka-acebbd-paypay"
     },
     {
       "name": "MAGUBAKERY",
-      "address": "栄町 4-1-5"
+      "address": "栄町 4-1-5",
+      "storeid": "asaka-8adeea",
+      "shopid": "asaka-8adeea-paypay"
     },
     {
       "name": "スイーツアトリエソレイユ",
-      "address": "膝折町1-12-3-101"
+      "address": "膝折町1-12-3-101",
+      "storeid": "asaka-c01360",
+      "shopid": "asaka-c01360-paypay"
     },
     {
       "name": "ちゅーりん家",
-      "address": "本町 2-15-10"
+      "address": "本町 2-15-10",
+      "storeid": "asaka-38cb25",
+      "shopid": "asaka-38cb25-paypay"
     },
     {
       "name": "ブーランジェリーアーブル",
-      "address": "根岸台 1-1-73 sk根岸台101"
+      "address": "根岸台 1-1-73 sk根岸台101",
+      "storeid": "asaka-704fe3",
+      "shopid": "asaka-704fe3-paypay"
     },
     {
       "name": "音季菓子処 青柳",
-      "address": "仲町 2-3-27"
+      "address": "仲町 2-3-27",
+      "storeid": "asaka-a69002",
+      "shopid": "asaka-a69002-paypay"
     },
     {
       "name": "Le  velo",
-      "address": "本町2-19-12 朝霞ﾆｭｰﾊｲﾂ101"
+      "address": "本町2-19-12 朝霞ﾆｭｰﾊｲﾂ101",
+      "storeid": "asaka-63f9ef",
+      "shopid": "asaka-63f9ef-paypay"
     },
     {
       "name": "Patisserie MON TRESORS",
-      "address": "朝志ｹ丘 2-10-3 中村ﾋﾞﾙ 1F"
+      "address": "朝志ｹ丘 2-10-3 中村ﾋﾞﾙ 1F",
+      "storeid": "asaka-77cf09",
+      "shopid": "asaka-77cf09-paypay"
     },
     {
       "name": "A-Kitchen まちのごはんやさん",
-      "address": "本町 2-6-15"
+      "address": "本町 2-6-15",
+      "storeid": "asaka-b76b27",
+      "shopid": "asaka-b76b27-paypay"
     },
     {
       "name": "高耕農園",
-      "address": "三原 1-1-22"
+      "address": "三原 1-1-22",
+      "storeid": "asaka-c918f2",
+      "shopid": "asaka-c918f2-paypay"
     },
     {
       "name": "フォスター",
-      "address": "東弁財1-7-30 光陽ﾋﾞﾙ3階"
+      "address": "東弁財1-7-30 光陽ﾋﾞﾙ3階",
+      "storeid": "asaka-e34fd5",
+      "shopid": "asaka-e34fd5-paypay"
     },
     {
       "name": "FLO PRESTIGE朝霞店",
-      "address": "本町2-13-52 EQUIA朝霞"
+      "address": "本町2-13-52 EQUIA朝霞",
+      "storeid": "asaka-a200bd",
+      "shopid": "asaka-a200bd-paypay"
     },
     {
       "name": "朝霞台中華物産",
-      "address": "西弁財 1丁目13-40"
+      "address": "西弁財 1丁目13-40",
+      "storeid": "asaka-138699",
+      "shopid": "asaka-138699-paypay"
     },
     {
       "name": "くらづくり本舗 朝霞浜崎団地店",
-      "address": "朝志ｹ丘 1-2-6 103朝霞浜崎団地"
+      "address": "朝志ｹ丘 1-2-6 103朝霞浜崎団地",
+      "storeid": "asaka-0e4ef8",
+      "shopid": "asaka-0e4ef8-paypay"
     },
     {
       "name": "文明堂 朝霞直売店",
-      "address": "上内間木790-6"
+      "address": "上内間木790-6",
+      "storeid": "asaka-8327c6",
+      "shopid": "asaka-8327c6-paypay"
     },
     {
       "name": "文明堂 朝霞台店",
-      "address": "東弁財1-4-17 朝霞台駅構内"
+      "address": "東弁財1-4-17 朝霞台駅構内",
+      "storeid": "asaka-5a3935",
+      "shopid": "asaka-5a3935-paypay"
     },
     {
       "name": "ブランシュネージュ 朝霞店",
-      "address": "本町3丁目3番地70号 ｱｲｴｽﾃｰﾄ102"
+      "address": "本町3丁目3番地70号 ｱｲｴｽﾃｰﾄ102",
+      "storeid": "asaka-90f94a",
+      "shopid": "asaka-90f94a-paypay"
     },
     {
       "name": "古丹 朝霞店",
-      "address": "本町1-13-2"
+      "address": "本町1-13-2",
+      "storeid": "asaka-30769a",
+      "shopid": "asaka-30769a-paypay"
     },
     {
       "name": "富久屋",
-      "address": "本町2-13-52"
+      "address": "本町2-13-52",
+      "storeid": "asaka-163d7a",
+      "shopid": "asaka-163d7a-paypay"
     },
     {
       "name": "パティスリーロアレギューム",
-      "address": "三原3-32-10"
+      "address": "三原3-32-10",
+      "storeid": "asaka-2d105e",
+      "shopid": "asaka-2d105e-paypay"
     },
     {
       "name": "グリーンスーパー橋本",
-      "address": "朝霞市本町 2-9-35"
+      "address": "朝霞市本町 2-9-35",
+      "storeid": "asaka-df51e5",
+      "shopid": "asaka-df51e5-paypay"
     },
     {
       "name": "こんがりパンの店  フレア",
-      "address": "上内間木493-9"
+      "address": "上内間木493-9",
+      "storeid": "asaka-0d5582",
+      "shopid": "asaka-0d5582-paypay"
     }
   ],
   "飲食店・喫茶店": [
     {
       "name": "やきとり にしだ家朝霞台店",
-      "address": "東弁財1-14-17"
+      "address": "東弁財1-14-17",
+      "storeid": "asaka-4ecc05",
+      "shopid": "asaka-4ecc05-paypay"
     },
     {
       "name": "炭酒場カミナリ屋朝霞台店",
-      "address": "浜崎1-4-12 保第2ﾋﾞﾙ 1階"
+      "address": "浜崎1-4-12 保第2ﾋﾞﾙ 1階",
+      "storeid": "asaka-25003c",
+      "shopid": "asaka-25003c-paypay"
     },
     {
       "name": "バルーチョ朝霞台店",
-      "address": "浜崎1-4-14"
+      "address": "浜崎1-4-14",
+      "storeid": "asaka-fd6614",
+      "shopid": "asaka-fd6614-paypay"
     },
     {
       "name": "BILLY THE KID朝霞店",
-      "address": "本町1-14-30"
+      "address": "本町1-14-30",
+      "storeid": "asaka-ef4964",
+      "shopid": "asaka-ef4964-paypay"
     },
     {
       "name": "串焼  一献串焼  一献  朝霞店",
-      "address": "浜崎1-8-9"
+      "address": "浜崎1-8-9",
+      "storeid": "asaka-fb4670",
+      "shopid": "asaka-fb4670-paypay"
     },
     {
       "name": "スナック離",
-      "address": "東弁財 1-6-23 ｸﾞﾘｰﾝｶﾞｰﾃﾞﾝ朝霞台201号"
+      "address": "東弁財 1-6-23 ｸﾞﾘｰﾝｶﾞｰﾃﾞﾝ朝霞台201号",
+      "storeid": "asaka-c85d41",
+      "shopid": "asaka-c85d41-paypay"
     },
     {
       "name": "スナック離Sports&beerbar OZ",
-      "address": "東弁財1丁目6−23 ｸﾞﾘｰﾝｶﾞｰﾃﾞﾝ朝霞台502"
+      "address": "東弁財1丁目6−23 ｸﾞﾘｰﾝｶﾞｰﾃﾞﾝ朝霞台502",
+      "storeid": "asaka-97d2f7",
+      "shopid": "asaka-97d2f7-paypay"
     },
     {
       "name": "チャンドニー",
-      "address": "岡3丁目1番5号"
+      "address": "岡3丁目1番5号",
+      "storeid": "asaka-79cd87",
+      "shopid": "asaka-79cd87-paypay"
     },
     {
       "name": "肉バル塊肉とワイン朝霞台店",
-      "address": "浜崎 1-8-10"
+      "address": "浜崎 1-8-10",
+      "storeid": "asaka-2bf556",
+      "shopid": "asaka-2bf556-paypay"
     },
     {
       "name": "須藤酒店",
-      "address": "根岸台1丁目1番46号"
+      "address": "根岸台1丁目1番46号",
+      "storeid": "asaka-efece6",
+      "shopid": "asaka-efece6-paypay"
     },
     {
       "name": "ROMANIA KITCHEN by M&Y",
-      "address": "本町 2-6-11 102"
+      "address": "本町 2-6-11 102",
+      "storeid": "asaka-ba3d2a",
+      "shopid": "asaka-ba3d2a-paypay"
     },
     {
       "name": "割烹炭火焼  花いろ",
-      "address": "本町 2-12-24"
+      "address": "本町 2-12-24",
+      "storeid": "asaka-05ee0f",
+      "shopid": "asaka-05ee0f-paypay"
     },
     {
       "name": "良し鮨",
-      "address": "本町 2-3-15 ﾊﾞﾓｽII"
+      "address": "本町 2-3-15 ﾊﾞﾓｽII",
+      "storeid": "asaka-0f4965",
+      "shopid": "asaka-0f4965-paypay"
     },
     {
       "name": "フレンチレストラン  Fleur",
-      "address": "本町 2-3-15 ﾊﾞﾓｽII 2F"
+      "address": "本町 2-3-15 ﾊﾞﾓｽII 2F",
+      "storeid": "asaka-a791c5",
+      "shopid": "asaka-a791c5-paypay"
     },
     {
       "name": "自家焙煎 幸音珈琲",
-      "address": "本町 1-10-30"
+      "address": "本町 1-10-30",
+      "storeid": "asaka-8feaa6",
+      "shopid": "asaka-8feaa6-paypay"
     },
     {
       "name": "JAMES",
-      "address": "西弁財 1-5-13 岳尾ﾋﾞﾙ103"
+      "address": "西弁財 1-5-13 岳尾ﾋﾞﾙ103",
+      "storeid": "asaka-389c92",
+      "shopid": "asaka-389c92-paypay"
     },
     {
       "name": "居酒屋 にんじん朝霞店",
-      "address": "本町 3ｰ1ｰ51"
+      "address": "本町 3ｰ1ｰ51",
+      "storeid": "asaka-2a30e9",
+      "shopid": "asaka-2a30e9-paypay"
     },
     {
       "name": "エスジーファクトリー",
-      "address": "本町 3-3-83 ｴｱﾌｫﾙｸ朝霞601"
+      "address": "本町 3-3-83 ｴｱﾌｫﾙｸ朝霞601",
+      "storeid": "asaka-850ea4",
+      "shopid": "asaka-850ea4-paypay"
     },
     {
       "name": "信州内藤流 松月庵",
-      "address": "本町 2-5-32"
+      "address": "本町 2-5-32",
+      "storeid": "asaka-5c29eb",
+      "shopid": "asaka-5c29eb-paypay"
     },
     {
       "name": "Pizzeria Sciosciammocca",
-      "address": "本町 2-19-12 朝霞ﾆｭｰﾊｲﾂ102"
+      "address": "本町 2-19-12 朝霞ﾆｭｰﾊｲﾂ102",
+      "storeid": "asaka-c382b3",
+      "shopid": "asaka-c382b3-paypay"
     },
     {
       "name": "きりむぎ",
-      "address": "本町 1-6-21"
+      "address": "本町 1-6-21",
+      "storeid": "asaka-4a23bb",
+      "shopid": "asaka-4a23bb-paypay"
     },
     {
       "name": "Trattoria SPERANZA",
-      "address": "本町2-5-38"
+      "address": "本町2-5-38",
+      "storeid": "asaka-c0c7d9",
+      "shopid": "asaka-c0c7d9-paypay"
     },
     {
       "name": "八十館",
-      "address": "西原 1-2-46"
+      "address": "西原 1-2-46",
+      "storeid": "asaka-4da515",
+      "shopid": "asaka-4da515-paypay"
     },
     {
       "name": "トモソダチCafe コージー",
-      "address": "浜崎 669-1"
+      "address": "浜崎 669-1",
+      "storeid": "asaka-adf5ea",
+      "shopid": "asaka-adf5ea-paypay"
     },
     {
       "name": "喫茶ルビー",
-      "address": "朝霞市東弁財 1-4-11萩原ﾋﾞﾙ2F"
+      "address": "朝霞市東弁財 1-4-11萩原ﾋﾞﾙ2F",
+      "storeid": "asaka-39ff33",
+      "shopid": "asaka-39ff33-paypay"
     },
     {
       "name": "ミソラ食堂",
-      "address": "仲町 1-3-37"
+      "address": "仲町 1-3-37",
+      "storeid": "asaka-448b5d",
+      "shopid": "asaka-448b5d-paypay"
     },
     {
       "name": "あら井寿司",
-      "address": "田島 1-18-6"
+      "address": "田島 1-18-6",
+      "storeid": "asaka-4fd050",
+      "shopid": "asaka-4fd050-paypay"
     },
     {
       "name": "食堂一歩",
-      "address": "朝志ｹ丘 4-14-29"
+      "address": "朝志ｹ丘 4-14-29",
+      "storeid": "asaka-e29a2c",
+      "shopid": "asaka-e29a2c-paypay"
     },
     {
       "name": "CoffeeMOAT",
-      "address": "朝霞市仲町 1-11-37宮下横山ｱﾊﾟ-ﾄ101号"
+      "address": "朝霞市仲町 1-11-37宮下横山ｱﾊﾟ-ﾄ101号",
+      "storeid": "asaka-b1893b",
+      "shopid": "asaka-b1893b-paypay"
     },
     {
       "name": "cafe uraraka",
-      "address": "溝沼493-1 金山ﾋﾞﾙ102号"
+      "address": "溝沼493-1 金山ﾋﾞﾙ102号",
+      "storeid": "asaka-1ab6b0",
+      "shopid": "asaka-1ab6b0-paypay"
     },
     {
       "name": "お好み焼き 花月",
-      "address": "本町 2-11-28"
+      "address": "本町 2-11-28",
+      "storeid": "asaka-f5f422",
+      "shopid": "asaka-f5f422-paypay"
     },
     {
       "name": "食珈茶菓酒  すわん",
-      "address": "本町 3-3-70 ｱｲｴｽﾃｰﾄ 1階"
+      "address": "本町 3-3-70 ｱｲｴｽﾃｰﾄ 1階",
+      "storeid": "asaka-7b3c6a",
+      "shopid": "asaka-7b3c6a-paypay"
     },
     {
       "name": "順風源",
-      "address": "仲町 2-2-17 ｸﾞﾘｰﾝﾌﾟﾗｻﾞﾋﾞﾙ1F"
+      "address": "仲町 2-2-17 ｸﾞﾘｰﾝﾌﾟﾗｻﾞﾋﾞﾙ1F",
+      "storeid": "asaka-2b80ce",
+      "shopid": "asaka-2b80ce-paypay"
     },
     {
       "name": "大楽亭朝霞台南口店",
-      "address": "東弁財 1-3-9"
+      "address": "東弁財 1-3-9",
+      "storeid": "asaka-f69bcb",
+      "shopid": "asaka-f69bcb-paypay"
     },
     {
       "name": "炭火焼じんじん",
-      "address": "朝霞市三原 3-1-28"
+      "address": "朝霞市三原 3-1-28",
+      "storeid": "asaka-b8caf6",
+      "shopid": "asaka-b8caf6-paypay"
     },
     {
       "name": "仁八手打ち蕎麦仁八",
-      "address": "泉水 1−1−1"
+      "address": "泉水 1−1−1",
+      "storeid": "asaka-e8e8e6",
+      "shopid": "asaka-e8e8e6-paypay"
     },
     {
       "name": "CUOKKA",
-      "address": "本町 2-2-13"
+      "address": "本町 2-2-13",
+      "storeid": "asaka-c74654",
+      "shopid": "asaka-c74654-paypay"
     },
     {
       "name": "Chopi Rich〜ちょっぴリッチ〜1号店",
-      "address": "浜崎 4-6-81 千代田ﾏﾝｼｮﾝ302"
+      "address": "浜崎 4-6-81 千代田ﾏﾝｼｮﾝ302",
+      "storeid": "asaka-e16314",
+      "shopid": "asaka-e16314-paypay"
     },
     {
       "name": "百歩ラーメン朝霞店",
-      "address": "本町 2-6-35"
+      "address": "本町 2-6-35",
+      "storeid": "asaka-36c577",
+      "shopid": "asaka-36c577-paypay"
     },
     {
       "name": "Diner  ray",
-      "address": "三原1ｰ4ｰ3 KRｺﾝﾌｫｰﾄ1階"
+      "address": "三原1ｰ4ｰ3 KRｺﾝﾌｫｰﾄ1階",
+      "storeid": "asaka-956853",
+      "shopid": "asaka-956853-paypay"
     },
     {
       "name": "はっこうちゃん",
-      "address": "本町2-10-43 羽佐間店舗"
+      "address": "本町2-10-43 羽佐間店舗",
+      "storeid": "asaka-ee559b",
+      "shopid": "asaka-ee559b-paypay"
     },
     {
       "name": "gate camp burger",
-      "address": "三原3-33-41 ｸﾞﾘｰﾝｱﾙﾌｧﾋﾞﾙ1F"
+      "address": "三原3-33-41 ｸﾞﾘｰﾝｱﾙﾌｧﾋﾞﾙ1F",
+      "storeid": "asaka-df87e2",
+      "shopid": "asaka-df87e2-paypay"
     },
     {
       "name": "イタリア料理ボンパスト",
-      "address": "仲町 1-11-48 蕪木ﾋﾞﾙ1階"
+      "address": "仲町 1-11-48 蕪木ﾋﾞﾙ1階",
+      "storeid": "asaka-c9b4a8",
+      "shopid": "asaka-c9b4a8-paypay"
     },
     {
       "name": "喫茶うずまき",
-      "address": "浜崎1-6-21 3F"
+      "address": "浜崎1-6-21 3F",
+      "storeid": "asaka-56973a",
+      "shopid": "asaka-56973a-paypay"
     },
     {
       "name": "イタリアン食堂アルカティ",
-      "address": "仲町2-2-44 ﾊﾟｰﾙｳｨﾝｸﾞ6F"
+      "address": "仲町2-2-44 ﾊﾟｰﾙｳｨﾝｸﾞ6F",
+      "storeid": "asaka-bfd44d",
+      "shopid": "asaka-bfd44d-paypay"
     },
     {
       "name": "焼肉バル  牛山ひがし",
-      "address": "西弁財 1-10-25 保第一ﾋﾞﾙ108"
+      "address": "西弁財 1-10-25 保第一ﾋﾞﾙ108",
+      "storeid": "asaka-3737e3",
+      "shopid": "asaka-3737e3-paypay"
     },
     {
       "name": "玄徳寿司",
-      "address": "朝霞市本町 2-12-21ｲｰｽﾄ朝霞1F"
+      "address": "朝霞市本町 2-12-21ｲｰｽﾄ朝霞1F",
+      "storeid": "asaka-090b23",
+      "shopid": "asaka-090b23-paypay"
     },
     {
       "name": "豚恋食堂",
-      "address": "栄町5-4-23 多賀ﾋﾞﾙ栄102"
+      "address": "栄町5-4-23 多賀ﾋﾞﾙ栄102",
+      "storeid": "asaka-6b9c48",
+      "shopid": "asaka-6b9c48-paypay"
     },
     {
       "name": "居酒屋弁天",
-      "address": "三原 2丁目 28-35"
+      "address": "三原 2丁目 28-35",
+      "storeid": "asaka-8d37b1",
+      "shopid": "asaka-8d37b1-paypay"
     },
     {
       "name": "こみゅにてぃめしや",
-      "address": "溝沼 5-18-2"
+      "address": "溝沼 5-18-2",
+      "storeid": "asaka-250332",
+      "shopid": "asaka-250332-paypay"
     },
     {
       "name": "あづま家",
-      "address": "朝霞市仲町 1-8-1"
+      "address": "朝霞市仲町 1-8-1",
+      "storeid": "asaka-88078f",
+      "shopid": "asaka-88078f-paypay"
     },
     {
       "name": "さかな食堂",
-      "address": "朝霞市栄町 2-12-26"
+      "address": "朝霞市栄町 2-12-26",
+      "storeid": "asaka-d3829e",
+      "shopid": "asaka-d3829e-paypay"
     },
     {
       "name": "Ayanecoffee＆craft",
-      "address": "三原2-16-1-209"
+      "address": "三原2-16-1-209",
+      "storeid": "asaka-9b8729",
+      "shopid": "asaka-9b8729-paypay"
     },
     {
       "name": "アサカナキッチン  ルーブルー",
-      "address": "本町 2-8-15 第2ﾎﾜｲﾄﾋﾞﾙB 101"
+      "address": "本町 2-8-15 第2ﾎﾜｲﾄﾋﾞﾙB 101",
+      "storeid": "asaka-24e895",
+      "shopid": "asaka-24e895-paypay"
     },
     {
       "name": "タイム",
-      "address": "朝霞市泉水 3-8-2"
+      "address": "朝霞市泉水 3-8-2",
+      "storeid": "asaka-6993ab",
+      "shopid": "asaka-6993ab-paypay"
     },
     {
       "name": "想い出",
-      "address": "栄町5ｰ4ｰ23 多賀ﾋﾞﾙ栄103"
+      "address": "栄町5ｰ4ｰ23 多賀ﾋﾞﾙ栄103",
+      "storeid": "asaka-80826a",
+      "shopid": "asaka-80826a-paypay"
     },
     {
       "name": "パティスリーパスティーユ",
-      "address": "本町1-12-15"
+      "address": "本町1-12-15",
+      "storeid": "asaka-997c37",
+      "shopid": "asaka-997c37-paypay"
     },
     {
       "name": "停車場",
-      "address": "東弁財 1-4-11 萩原ﾋﾞﾙ2階"
+      "address": "東弁財 1-4-11 萩原ﾋﾞﾙ2階",
+      "storeid": "asaka-171e47",
+      "shopid": "asaka-171e47-paypay"
     },
     {
       "name": "韓国食品ソダム",
-      "address": "膝折町 1-10-6"
+      "address": "膝折町 1-10-6",
+      "storeid": "asaka-3d47ff",
+      "shopid": "asaka-3d47ff-paypay"
     },
     {
       "name": "Black  Spoon",
-      "address": "溝沼6-24-3 Mizonuma Haitsu 102"
+      "address": "溝沼6-24-3 Mizonuma Haitsu 102",
+      "storeid": "asaka-781be8",
+      "shopid": "asaka-781be8-paypay"
     },
     {
       "name": "美虎寿司",
-      "address": "本町 2-16-8"
+      "address": "本町 2-16-8",
+      "storeid": "asaka-18d151",
+      "shopid": "asaka-18d151-paypay"
     },
     {
       "name": "KABABGHOR",
-      "address": "三原 2-12-1"
+      "address": "三原 2-12-1",
+      "storeid": "asaka-7fb482",
+      "shopid": "asaka-7fb482-paypay"
     },
     {
       "name": "Jukocafe",
-      "address": "本町 1-19-51 小倉ﾋﾞﾙ"
+      "address": "本町 1-19-51 小倉ﾋﾞﾙ",
+      "storeid": "asaka-baf653",
+      "shopid": "asaka-baf653-paypay"
     },
     {
       "name": "飯やのはまちゃん",
-      "address": "岡 一丁目20-20 ｸｲｰﾝﾊｲﾂ101"
+      "address": "岡 一丁目20-20 ｸｲｰﾝﾊｲﾂ101",
+      "storeid": "asaka-a3f477",
+      "shopid": "asaka-a3f477-paypay"
     },
     {
       "name": "Cafesel",
-      "address": "溝沼3-2-32"
+      "address": "溝沼3-2-32",
+      "storeid": "asaka-c55044",
+      "shopid": "asaka-c55044-paypay"
     },
     {
       "name": "Umart！東洋大学朝霞店",
-      "address": "岡48-1 東洋大学"
+      "address": "岡48-1 東洋大学",
+      "storeid": "asaka-e8c0ef",
+      "shopid": "asaka-e8c0ef-paypay"
     },
     {
       "name": "株式会社ジンクル朝霞店",
-      "address": "仲町2−3−3"
+      "address": "仲町2−3−3",
+      "storeid": "asaka-f38211",
+      "shopid": "asaka-f38211-paypay"
     },
     {
       "name": "La paix",
-      "address": "溝沼2-1-12"
+      "address": "溝沼2-1-12",
+      "storeid": "asaka-431578",
+      "shopid": "asaka-431578-paypay"
     },
     {
       "name": "Link北朝霞店",
-      "address": "西原 1-5-5 ｼﾃｨｲﾝ北朝霞2F"
+      "address": "西原 1-5-5 ｼﾃｨｲﾝ北朝霞2F",
+      "storeid": "asaka-ee7054",
+      "shopid": "asaka-ee7054-paypay"
     },
     {
       "name": "インド料理チャンドニー",
-      "address": "岡 3−1−5"
+      "address": "岡 3−1−5",
+      "storeid": "asaka-81e5c9",
+      "shopid": "asaka-81e5c9-paypay"
     },
     {
       "name": "Italian Kitchen VANSAN朝霞店",
-      "address": "泉水1丁目 7‐9"
+      "address": "泉水1丁目 7‐9",
+      "storeid": "asaka-1a7037",
+      "shopid": "asaka-1a7037-paypay"
     },
     {
       "name": "サイノ朝霞店",
-      "address": "仲町2丁目3番30号"
+      "address": "仲町2丁目3番30号",
+      "storeid": "asaka-c79dcd",
+      "shopid": "asaka-c79dcd-paypay"
     },
     {
       "name": "東京だし茶漬け  こめから",
-      "address": "膝折町五丁目6番11号"
+      "address": "膝折町五丁目6番11号",
+      "storeid": "asaka-9dd278",
+      "shopid": "asaka-9dd278-paypay"
     },
     {
       "name": "てんぐ大ホール朝霞台駅前店",
-      "address": "浜崎1-2-8 ｱｺﾞﾗ20ﾋﾞﾙ2F"
+      "address": "浜崎1-2-8 ｱｺﾞﾗ20ﾋﾞﾙ2F",
+      "storeid": "asaka-997e01",
+      "shopid": "asaka-997e01-paypay"
     },
     {
       "name": "DARSAN",
-      "address": "膝折町 1丁目10-8"
+      "address": "膝折町 1丁目10-8",
+      "storeid": "asaka-fcf25a",
+      "shopid": "asaka-fcf25a-paypay"
     },
     {
       "name": "らあめん花月嵐  朝霞駅前店",
-      "address": "本町2ｰ13ｰ1"
+      "address": "本町2ｰ13ｰ1",
+      "storeid": "asaka-38cc8a",
+      "shopid": "asaka-38cc8a-paypay"
     },
     {
       "name": "Bull Puluくみまちモールあさか",
-      "address": "根岸台3-20-1 くみまちﾓｰﾙあさか2階 221"
+      "address": "根岸台3-20-1 くみまちﾓｰﾙあさか2階 221",
+      "storeid": "asaka-4736d8",
+      "shopid": "asaka-4736d8-paypay"
     },
     {
       "name": "碧い夢  朝霞店",
-      "address": "朝霞市東弁財 1-8-38"
+      "address": "朝霞市東弁財 1-8-38",
+      "storeid": "asaka-bec358",
+      "shopid": "asaka-bec358-paypay"
     },
     {
       "name": "Sok Sok Kebabウイグルキッチン",
-      "address": "朝霞市上内間木 256-6 前店舗"
+      "address": "朝霞市上内間木 256-6 前店舗",
+      "storeid": "asaka-535765",
+      "shopid": "asaka-535765-paypay"
     },
     {
       "name": "ジェラテリア・リモーネ",
-      "address": "朝志ｹ丘1ｰ7ｰ17 ﾒｿﾞﾝ島田102号"
+      "address": "朝志ｹ丘1ｰ7ｰ17 ﾒｿﾞﾝ島田102号",
+      "storeid": "asaka-f3dfd4",
+      "shopid": "asaka-f3dfd4-paypay"
     },
     {
       "name": "中華そば  幻六",
-      "address": "東弁財 1-3-10"
+      "address": "東弁財 1-3-10",
+      "storeid": "asaka-86d4e1",
+      "shopid": "asaka-86d4e1-paypay"
     },
     {
       "name": "インドネパール料理  ハヴェリ朝霞店",
-      "address": "三原 5-13-2"
+      "address": "三原 5-13-2",
+      "storeid": "asaka-673a0d",
+      "shopid": "asaka-673a0d-paypay"
     },
     {
       "name": "Tasty  garden",
-      "address": "浜崎1-8-38"
+      "address": "浜崎1-8-38",
+      "storeid": "asaka-0dd192",
+      "shopid": "asaka-0dd192-paypay"
     },
     {
       "name": "うどん処おはな  朝霞台店",
-      "address": "西弁財1-10-25 第一保ﾋﾞﾙ107号室"
+      "address": "西弁財1-10-25 第一保ﾋﾞﾙ107号室",
+      "storeid": "asaka-788aaf",
+      "shopid": "asaka-788aaf-paypay"
     },
     {
       "name": "チキラボplus 朝霞店",
-      "address": "栄町 4-7-30 第2ﾌﾟﾁﾌｧｲﾌﾞ101号"
+      "address": "栄町 4-7-30 第2ﾌﾟﾁﾌｧｲﾌﾞ101号",
+      "storeid": "asaka-7e945b",
+      "shopid": "asaka-7e945b-paypay"
     },
     {
       "name": "囍鵲亭",
-      "address": "西原1-5-12 ｳｲﾝｸﾞ北朝霞2F"
+      "address": "西原1-5-12 ｳｲﾝｸﾞ北朝霞2F",
+      "storeid": "asaka-5c44ae",
+      "shopid": "asaka-5c44ae-paypay"
     },
     {
       "name": "焼肉酒家 李苑 朝霞台店",
-      "address": "東弁財 3-17-16 ﾛｲﾔﾙｺｰﾎﾟ渡辺101"
+      "address": "東弁財 3-17-16 ﾛｲﾔﾙｺｰﾎﾟ渡辺101",
+      "storeid": "asaka-180943",
+      "shopid": "asaka-180943-paypay"
     },
     {
       "name": "塚田農場  朝霞",
-      "address": "本町2-4-18ﾊﾞﾓｽﾋﾞﾙ 4階"
+      "address": "本町2-4-18ﾊﾞﾓｽﾋﾞﾙ 4階",
+      "storeid": "asaka-b1d02c",
+      "shopid": "asaka-b1d02c-paypay"
     },
     {
       "name": "ガズル朝霞店",
-      "address": "青葉台 1-3-5 一階"
+      "address": "青葉台 1-3-5 一階",
+      "storeid": "asaka-d249fc",
+      "shopid": "asaka-d249fc-paypay"
     },
     {
       "name": "成城苑",
-      "address": "朝志ｹ丘 4-6-25"
+      "address": "朝志ｹ丘 4-6-25",
+      "storeid": "asaka-5bf4f2",
+      "shopid": "asaka-5bf4f2-paypay"
     },
     {
       "name": "おそば 田なか",
-      "address": "栄町 4-1-2"
+      "address": "栄町 4-1-2",
+      "storeid": "asaka-b05d6f",
+      "shopid": "asaka-b05d6f-paypay"
     },
     {
       "name": "福寅",
-      "address": "栄町 5丁目5番地41号"
+      "address": "栄町 5丁目5番地41号",
+      "storeid": "asaka-53b92c",
+      "shopid": "asaka-53b92c-paypay"
     },
     {
       "name": "ラグーナ  ロトンダ",
-      "address": "上内間木 790-2"
+      "address": "上内間木 790-2",
+      "storeid": "asaka-fda1d8",
+      "shopid": "asaka-fda1d8-paypay"
     },
     {
       "name": "お肉屋さんが『君に、焼いて揚げる。』",
-      "address": "溝沼 2-1-45"
+      "address": "溝沼 2-1-45",
+      "storeid": "asaka-53293b",
+      "shopid": "asaka-53293b-paypay"
     },
     {
       "name": "ナマステ朝霞",
-      "address": "本町 2丁目6番11号"
+      "address": "本町 2丁目6番11号",
+      "storeid": "asaka-c407f0",
+      "shopid": "asaka-c407f0-paypay"
     },
     {
       "name": "メンとカジモト",
-      "address": "栄町 5-4-22 多賀ﾋﾞﾙ"
+      "address": "栄町 5-4-22 多賀ﾋﾞﾙ",
+      "storeid": "asaka-213b20",
+      "shopid": "asaka-213b20-paypay"
     },
     {
       "name": "居酒屋一番",
-      "address": "仲町2ｰ2ｰ18 野本ﾏﾝｼｮﾝ1F"
+      "address": "仲町2ｰ2ｰ18 野本ﾏﾝｼｮﾝ1F",
+      "storeid": "asaka-59b4dc",
+      "shopid": "asaka-59b4dc-paypay"
     },
     {
       "name": "ジャンクガレッジ  カインズ朝霞店",
-      "address": "根岸台3ｰ20 くまみちﾓｰﾙ朝霞"
+      "address": "根岸台3ｰ20 くまみちﾓｰﾙ朝霞",
+      "storeid": "asaka-bc9785",
+      "shopid": "asaka-bc9785-paypay"
     },
     {
       "name": "蔵出し味噌 門左衛門朝霞台店",
-      "address": "東弁財 1-4-11"
+      "address": "東弁財 1-4-11",
+      "storeid": "asaka-8cd6bf",
+      "shopid": "asaka-8cd6bf-paypay"
     },
     {
       "name": "唐揚げ専門からり商店北朝霞店",
-      "address": "浜崎1ｰ1ｰ1"
+      "address": "浜崎1ｰ1ｰ1",
+      "storeid": "asaka-680fa4",
+      "shopid": "asaka-680fa4-paypay"
     },
     {
       "name": "食右衛門  北朝霞・朝霞台店",
-      "address": "朝霞市西原 1-5-12ｳｲﾝｸﾞ北朝霞2F"
+      "address": "朝霞市西原 1-5-12ｳｲﾝｸﾞ北朝霞2F",
+      "storeid": "asaka-d8c8b1",
+      "shopid": "asaka-d8c8b1-paypay"
     },
     {
       "name": "菜食健美",
-      "address": "三原 5丁目13番1"
+      "address": "三原 5丁目13番1",
+      "storeid": "asaka-fa8bdc",
+      "shopid": "asaka-fa8bdc-paypay"
     },
     {
       "name": "つきじ海賓朝霞店",
-      "address": "幸町 2-14-18"
+      "address": "幸町 2-14-18",
+      "storeid": "asaka-f581bf",
+      "shopid": "asaka-f581bf-paypay"
     },
     {
       "name": "タピマロ",
-      "address": "朝霞市東弁財 1-6-23-701"
+      "address": "朝霞市東弁財 1-6-23-701",
+      "storeid": "asaka-c55090",
+      "shopid": "asaka-c55090-paypay"
     },
     {
       "name": "七左食堂  朝霞店",
-      "address": "朝霞市膝折町 4-21-24"
+      "address": "朝霞市膝折町 4-21-24",
+      "storeid": "asaka-0a9108",
+      "shopid": "asaka-0a9108-paypay"
     },
     {
       "name": "セガフレードザネッティエスプレッソ北朝霞店",
-      "address": "西原1-2-2"
+      "address": "西原1-2-2",
+      "storeid": "asaka-3b8d99",
+      "shopid": "asaka-3b8d99-paypay"
     },
     {
       "name": "江戸政寿司",
-      "address": "朝霞市幸町 1-8-38"
+      "address": "朝霞市幸町 1-8-38",
+      "storeid": "asaka-4dfd1d",
+      "shopid": "asaka-4dfd1d-paypay"
     },
     {
       "name": "有限会社たから亭",
-      "address": "西原 1丁目2番11号"
+      "address": "西原 1丁目2番11号",
+      "storeid": "asaka-e5caef",
+      "shopid": "asaka-e5caef-paypay"
     },
     {
       "name": "中華そば・つけ麵  タナカ90",
-      "address": "本町 2丁目11番28号 花月ﾋﾞﾙ1階"
+      "address": "本町 2丁目11番28号 花月ﾋﾞﾙ1階",
+      "storeid": "asaka-2ec283",
+      "shopid": "asaka-2ec283-paypay"
     }
   ]
 }

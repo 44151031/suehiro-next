@@ -2,1227 +2,1813 @@
   "くらし": [
     {
       "name": "いんべクリーニング　アクロスプラザ紫波店",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-27f890",
+      "shopid": "shiwa-27f890-paypay"
     },
     {
       "name": "Olive By PearlDry オリーブ紫波中央店",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-4b5f85",
+      "shopid": "shiwa-4b5f85-paypay"
     },
     {
       "name": "株式会社ヒノヤタクシー　日詰営業所",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-30784e",
+      "shopid": "shiwa-30784e-paypay"
     },
     {
       "name": "HIROBO",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-9d8c4c",
+      "shopid": "shiwa-9d8c4c-paypay"
     },
     {
       "name": "ひづめゆ",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-78eaab",
+      "shopid": "shiwa-78eaab-paypay"
     },
     {
       "name": "齋藤クリーニング店",
-      "address": "日詰西"
+      "address": "日詰西",
+      "storeid": "shiwa-c844f1",
+      "shopid": "shiwa-c844f1-paypay"
     },
     {
       "name": "クリーンデザイン",
-      "address": "日詰西"
+      "address": "日詰西",
+      "storeid": "shiwa-c99b43",
+      "shopid": "shiwa-c99b43-paypay"
     },
     {
       "name": "掃除屋ラビットクリーン",
-      "address": "犬渕"
+      "address": "犬渕",
+      "storeid": "shiwa-2d7fb8",
+      "shopid": "shiwa-2d7fb8-paypay"
     },
     {
       "name": "Olive By PearlDry ナックス店",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-9975b9",
+      "shopid": "shiwa-9975b9-paypay"
     },
     {
       "name": "Olive By PearlDry マックスバリュ紫波店",
-      "address": "北日詰"
+      "address": "北日詰",
+      "storeid": "shiwa-554607",
+      "shopid": "shiwa-554607-paypay"
     },
     {
       "name": "ミシンスーパー",
-      "address": "北日詰"
+      "address": "北日詰",
+      "storeid": "shiwa-203f5c",
+      "shopid": "shiwa-203f5c-paypay"
     },
     {
       "name": "ホワイト急便　イオンSC紫波古舘店",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-16a054",
+      "shopid": "shiwa-16a054-paypay"
     },
     {
       "name": "クリーニング博扇堂",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-fc4f8b",
+      "shopid": "shiwa-fc4f8b-paypay"
     },
     {
       "name": "ホワイト急便　二日町店",
-      "address": "二日町"
+      "address": "二日町",
+      "storeid": "shiwa-5daa77",
+      "shopid": "shiwa-5daa77-paypay"
     },
     {
       "name": "介護タクシーケアまる",
-      "address": "片寄"
+      "address": "片寄",
+      "storeid": "shiwa-f5ee65",
+      "shopid": "shiwa-f5ee65-paypay"
     },
     {
       "name": "ホワイト急便　紫波店長岡店",
-      "address": "東長岡"
+      "address": "東長岡",
+      "storeid": "shiwa-397131",
+      "shopid": "shiwa-397131-paypay"
     }
   ],
   "その他": [
     {
       "name": "ジェイパット",
-      "address": "紫波中央駅前"
+      "address": "紫波中央駅前",
+      "storeid": "shiwa-542856",
+      "shopid": "shiwa-542856-paypay"
     },
     {
       "name": "菱川光",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-98a6e4",
+      "shopid": "shiwa-98a6e4-paypay"
     },
     {
       "name": "HATARAKU～畑多楽～",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-4e6b43",
+      "shopid": "shiwa-4e6b43-paypay"
     },
     {
       "name": "佐々幸商店",
-      "address": "日詰西"
+      "address": "日詰西",
+      "storeid": "shiwa-a98c30",
+      "shopid": "shiwa-a98c30-paypay"
     },
     {
       "name": "ゴルディア",
-      "address": "日詰西"
+      "address": "日詰西",
+      "storeid": "shiwa-27d778",
+      "shopid": "shiwa-27d778-paypay"
     },
     {
       "name": "有限会社　藤田",
-      "address": "日詰西"
+      "address": "日詰西",
+      "storeid": "shiwa-40da2d",
+      "shopid": "shiwa-40da2d-paypay"
     },
     {
       "name": "中谷地写真館　紫波店",
-      "address": "日詰西"
+      "address": "日詰西",
+      "storeid": "shiwa-60873b",
+      "shopid": "shiwa-60873b-paypay"
     },
     {
       "name": "大昭運輸",
-      "address": "犬渕"
+      "address": "犬渕",
+      "storeid": "shiwa-fe91a2",
+      "shopid": "shiwa-fe91a2-paypay"
     },
     {
       "name": "切り絵作家りゅーや",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-f98ec1",
+      "shopid": "shiwa-f98ec1-paypay"
     },
     {
       "name": "紅",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-79da9d",
+      "shopid": "shiwa-79da9d-paypay"
     },
     {
       "name": "北竃",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-cf06a2",
+      "shopid": "shiwa-cf06a2-paypay"
     },
     {
       "name": "竹花電気",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-bdb878",
+      "shopid": "shiwa-bdb878-paypay"
     },
     {
       "name": "有限会社山下タイル工業",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-b97ea6",
+      "shopid": "shiwa-b97ea6-paypay"
     },
     {
       "name": "JAいわて中央",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-8021a0",
+      "shopid": "shiwa-8021a0-paypay"
     },
     {
       "name": "畠山写真館",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-b4b048",
+      "shopid": "shiwa-b4b048-paypay"
     },
     {
       "name": "紫波タクシー",
-      "address": "日詰駅前"
+      "address": "日詰駅前",
+      "storeid": "shiwa-3425de",
+      "shopid": "shiwa-3425de-paypay"
     },
     {
       "name": "マルシン",
-      "address": "平沢"
+      "address": "平沢",
+      "storeid": "shiwa-f6e159",
+      "shopid": "shiwa-f6e159-paypay"
     },
     {
       "name": "こぐま保育園",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-bdfd7b",
+      "shopid": "shiwa-bdfd7b-paypay"
     },
     {
       "name": "加藤水道工業所",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-1198a4",
+      "shopid": "shiwa-1198a4-paypay"
     },
     {
       "name": "紫波中央自動車学校",
-      "address": "二日町"
+      "address": "二日町",
+      "storeid": "shiwa-121088",
+      "shopid": "shiwa-121088-paypay"
     },
     {
       "name": "Soleil陽だまり",
-      "address": "下松本"
+      "address": "下松本",
+      "storeid": "shiwa-feea12",
+      "shopid": "shiwa-feea12-paypay"
     },
     {
       "name": "青栄",
-      "address": "吉水"
+      "address": "吉水",
+      "storeid": "shiwa-43e2ac",
+      "shopid": "shiwa-43e2ac-paypay"
     },
     {
       "name": "dokkoBASE",
-      "address": "小屋敷"
+      "address": "小屋敷",
+      "storeid": "shiwa-b63e23",
+      "shopid": "shiwa-b63e23-paypay"
     },
     {
       "name": "LafleuR",
-      "address": "上平沢"
+      "address": "上平沢",
+      "storeid": "shiwa-d3516f",
+      "shopid": "shiwa-d3516f-paypay"
     },
     {
       "name": "どうぐやショップシュガー",
-      "address": "南伝法寺"
+      "address": "南伝法寺",
+      "storeid": "shiwa-a889e3",
+      "shopid": "shiwa-a889e3-paypay"
     },
     {
       "name": "ひまわり塗装",
-      "address": "山屋"
+      "address": "山屋",
+      "storeid": "shiwa-dbb56b",
+      "shopid": "shiwa-dbb56b-paypay"
     },
     {
       "name": "ピッコンコシェアハウス",
-      "address": "東長岡"
+      "address": "東長岡",
+      "storeid": "shiwa-def487",
+      "shopid": "shiwa-def487-paypay"
     },
     {
       "name": "常光寺書道会　冬星社",
-      "address": "東長岡"
+      "address": "東長岡",
+      "storeid": "shiwa-03827e",
+      "shopid": "shiwa-03827e-paypay"
     },
     {
       "name": "チェリー＆ベリーガーデン",
-      "address": "北沢"
+      "address": "北沢",
+      "storeid": "shiwa-edef10",
+      "shopid": "shiwa-edef10-paypay"
     },
     {
       "name": "農園砥ノ上",
-      "address": "北田"
+      "address": "北田",
+      "storeid": "shiwa-ecc4e8",
+      "shopid": "shiwa-ecc4e8-paypay"
     },
     {
       "name": "知未",
-      "address": "赤沢"
+      "address": "赤沢",
+      "storeid": "shiwa-eec53b",
+      "shopid": "shiwa-eec53b-paypay"
     }
   ],
   "のりもの": [
     {
       "name": "日詰自動車",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-17dc4c",
+      "shopid": "shiwa-17dc4c-paypay"
     },
     {
       "name": "フルダテ輪店",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-c18df2",
+      "shopid": "shiwa-c18df2-paypay"
     },
     {
       "name": "アクティブロード",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-14fe77",
+      "shopid": "shiwa-14fe77-paypay"
     },
     {
       "name": "戸塚自動車工業所",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-a2d37a",
+      "shopid": "shiwa-a2d37a-paypay"
     },
     {
       "name": "Cycle take",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-eca1d2",
+      "shopid": "shiwa-eca1d2-paypay"
     },
     {
       "name": "King Auto 4号紫波店",
-      "address": "犬渕"
+      "address": "犬渕",
+      "storeid": "shiwa-7e218a",
+      "shopid": "shiwa-7e218a-paypay"
     },
     {
       "name": "crossroad",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-8c5eb1",
+      "shopid": "shiwa-8c5eb1-paypay"
     },
     {
       "name": "日詰バッテリー",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-8ee79c",
+      "shopid": "shiwa-8ee79c-paypay"
     },
     {
       "name": "岩手ダイハツ販売　紫波店",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-0225d3",
+      "shopid": "shiwa-0225d3-paypay"
     },
     {
       "name": "グランドスラムパル",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-f51e54",
+      "shopid": "shiwa-f51e54-paypay"
     },
     {
       "name": "日新スズキ販売",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-8e320d",
+      "shopid": "shiwa-8e320d-paypay"
     },
     {
       "name": "ヒノヤ商事株式会社",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-38ed3f",
+      "shopid": "shiwa-38ed3f-paypay"
     },
     {
       "name": "CO・VO",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-94d550",
+      "shopid": "shiwa-94d550-paypay"
     },
     {
       "name": "盛岡自動車部品　紫波営業所",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-985bca",
+      "shopid": "shiwa-985bca-paypay"
     },
     {
       "name": "Cargle",
-      "address": "南日詰"
+      "address": "南日詰",
+      "storeid": "shiwa-ff253a",
+      "shopid": "shiwa-ff253a-paypay"
     },
     {
       "name": "オート芭蕉インターナショナル",
-      "address": "南日詰"
+      "address": "南日詰",
+      "storeid": "shiwa-e3ed48",
+      "shopid": "shiwa-e3ed48-paypay"
     },
     {
       "name": "ハーレーダビットソン岩手",
-      "address": "南日詰"
+      "address": "南日詰",
+      "storeid": "shiwa-897448",
+      "shopid": "shiwa-897448-paypay"
     },
     {
       "name": "有限会社桜モータース",
-      "address": "日詰駅前"
+      "address": "日詰駅前",
+      "storeid": "shiwa-68a7e0",
+      "shopid": "shiwa-68a7e0-paypay"
     },
     {
       "name": "深澤自動車",
-      "address": "北日詰"
+      "address": "北日詰",
+      "storeid": "shiwa-be5c81",
+      "shopid": "shiwa-be5c81-paypay"
     },
     {
       "name": "K’ｓ　Dream　紫波店",
-      "address": "北日詰"
+      "address": "北日詰",
+      "storeid": "shiwa-97c9f3",
+      "shopid": "shiwa-97c9f3-paypay"
     },
     {
       "name": "king auto feet",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-0c0507",
+      "shopid": "shiwa-0c0507-paypay"
     },
     {
       "name": "カーショップ佐々木",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-3d2461",
+      "shopid": "shiwa-3d2461-paypay"
     },
     {
       "name": "FALCON",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-b65da6",
+      "shopid": "shiwa-b65da6-paypay"
     },
     {
       "name": "嶋田自動車整備工場",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-76998a",
+      "shopid": "shiwa-76998a-paypay"
     },
     {
       "name": "WILD STYLE",
-      "address": "二日町"
+      "address": "二日町",
+      "storeid": "shiwa-b44432",
+      "shopid": "shiwa-b44432-paypay"
     },
     {
       "name": "ミスタータイヤマンマルショウ紫波",
-      "address": "二日町"
+      "address": "二日町",
+      "storeid": "shiwa-ec6ede",
+      "shopid": "shiwa-ec6ede-paypay"
     },
     {
       "name": "藤原輪店",
-      "address": "下松本"
+      "address": "下松本",
+      "storeid": "shiwa-c08d42",
+      "shopid": "shiwa-c08d42-paypay"
     },
     {
       "name": "OneStyleFactory",
-      "address": "宮手"
+      "address": "宮手",
+      "storeid": "shiwa-a8a12e",
+      "shopid": "shiwa-a8a12e-paypay"
     },
     {
       "name": "中央商事　Car shop",
-      "address": "上平沢"
+      "address": "上平沢",
+      "storeid": "shiwa-8577ac",
+      "shopid": "shiwa-8577ac-paypay"
     },
     {
       "name": "スティルガレージノムラ",
-      "address": "上平沢"
+      "address": "上平沢",
+      "storeid": "shiwa-515949",
+      "shopid": "shiwa-515949-paypay"
     },
     {
       "name": "ゴートラック紫波工場",
-      "address": "南伝法寺"
+      "address": "南伝法寺",
+      "storeid": "shiwa-d6c3de",
+      "shopid": "shiwa-d6c3de-paypay"
     },
     {
       "name": "カーショップ紫波",
-      "address": "片寄"
+      "address": "片寄",
+      "storeid": "shiwa-a452a0",
+      "shopid": "shiwa-a452a0-paypay"
     },
     {
       "name": "岩手オートサービス",
-      "address": "江柄"
+      "address": "江柄",
+      "storeid": "shiwa-0a3d1c",
+      "shopid": "shiwa-0a3d1c-paypay"
     },
     {
       "name": "新和自動車整備工場",
-      "address": "星山"
+      "address": "星山",
+      "storeid": "shiwa-b9bebc",
+      "shopid": "shiwa-b9bebc-paypay"
     }
   ],
   "カルチャー・ホビー": [
     {
       "name": "萬屋　紫波店",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-116657",
+      "shopid": "shiwa-116657-paypay"
     },
     {
       "name": "RC CIRCUIT HOBBYWORKS",
-      "address": "小屋敷"
+      "address": "小屋敷",
+      "storeid": "shiwa-c193fc",
+      "shopid": "shiwa-c193fc-paypay"
     },
     {
       "name": "Campanella",
-      "address": "上平沢"
+      "address": "上平沢",
+      "storeid": "shiwa-c27f32",
+      "shopid": "shiwa-c27f32-paypay"
     },
     {
       "name": "FAGUS",
-      "address": "左比内"
+      "address": "左比内",
+      "storeid": "shiwa-d9faff",
+      "shopid": "shiwa-d9faff-paypay"
     }
   ],
   "コスメ・美容・健康": [
     {
       "name": "sitoa",
-      "address": "紫波中央駅前"
+      "address": "紫波中央駅前",
+      "storeid": "shiwa-a129f1",
+      "shopid": "shiwa-a129f1-paypay"
     },
     {
       "name": "Welina pilates studio",
-      "address": "紫波中央駅前"
+      "address": "紫波中央駅前",
+      "storeid": "shiwa-455b8f",
+      "shopid": "shiwa-455b8f-paypay"
     },
     {
       "name": "ノエビア化粧品　紫波町中央代理店",
-      "address": "北日詰"
+      "address": "北日詰",
+      "storeid": "shiwa-10bbc7",
+      "shopid": "shiwa-10bbc7-paypay"
     },
     {
       "name": "リップス城山",
-      "address": "二日町"
+      "address": "二日町",
+      "storeid": "shiwa-ef1ed3",
+      "shopid": "shiwa-ef1ed3-paypay"
     },
     {
       "name": "リラクゼーションハウスSmile drop",
-      "address": "二日町"
+      "address": "二日町",
+      "storeid": "shiwa-66476a",
+      "shopid": "shiwa-66476a-paypay"
     },
     {
       "name": "Nail salon　空",
-      "address": "南伝法寺"
+      "address": "南伝法寺",
+      "storeid": "shiwa-85fc2e",
+      "shopid": "shiwa-85fc2e-paypay"
     },
     {
       "name": "CEサロン　リップス星山",
-      "address": "犬吠森"
+      "address": "犬吠森",
+      "storeid": "shiwa-70ead7",
+      "shopid": "shiwa-70ead7-paypay"
     }
   ],
   "スポーツ・ジム・レジャー": [
     {
       "name": "Knotty",
-      "address": "紫波中央駅前"
+      "address": "紫波中央駅前",
+      "storeid": "shiwa-b4c934",
+      "shopid": "shiwa-b4c934-paypay"
     },
     {
       "name": "GRAVITY 足うらBASE",
-      "address": "日詰西"
+      "address": "日詰西",
+      "storeid": "shiwa-cb2c2a",
+      "shopid": "shiwa-cb2c2a-paypay"
     },
     {
       "name": "タムラスポーツ",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-2ba31e",
+      "shopid": "shiwa-2ba31e-paypay"
     },
     {
       "name": "紫波町　スポーツ交流施設",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-61efe6",
+      "shopid": "shiwa-61efe6-paypay"
     }
   ],
   "スポーツ・ジム・レジャー・": [
     {
       "name": "原スポーツ",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-59df0b",
+      "shopid": "shiwa-59df0b-paypay"
     }
   ],
   "スーパー・コンビニ": [
     {
       "name": "紫波マルシェ",
-      "address": "紫波中央駅前"
+      "address": "紫波中央駅前",
+      "storeid": "shiwa-513130",
+      "shopid": "shiwa-513130-paypay"
     },
     {
       "name": "フレッシュたもり",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-af3fba",
+      "shopid": "shiwa-af3fba-paypay"
     },
     {
       "name": "紫波ふる里センター",
-      "address": "左比内"
+      "address": "左比内",
+      "storeid": "shiwa-28445f",
+      "shopid": "shiwa-28445f-paypay"
     },
     {
       "name": "Yショップ渡辺商店",
-      "address": "栃内"
+      "address": "栃内",
+      "storeid": "shiwa-c7f65f",
+      "shopid": "shiwa-c7f65f-paypay"
     }
   ],
   "ファッション": [
     {
       "name": "AREA-20",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-fca562",
+      "shopid": "shiwa-fca562-paypay"
     },
     {
       "name": "グランマファーム",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-e19b76",
+      "shopid": "shiwa-e19b76-paypay"
     },
     {
       "name": "てるい手芸店",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-35caeb",
+      "shopid": "shiwa-35caeb-paypay"
     },
     {
       "name": "洋品の店　なかむら",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-b4bc71",
+      "shopid": "shiwa-b4bc71-paypay"
     },
     {
       "name": "沖縄島ぞうり屋",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-47a441",
+      "shopid": "shiwa-47a441-paypay"
     },
     {
       "name": "ウインズ（WINDS）",
-      "address": "日詰西"
+      "address": "日詰西",
+      "storeid": "shiwa-d19ec5",
+      "shopid": "shiwa-d19ec5-paypay"
     },
     {
       "name": "エプロンハウスあきこ",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-509c9d",
+      "shopid": "shiwa-509c9d-paypay"
     },
     {
       "name": "浅草千　あじろ",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-61f94d",
+      "shopid": "shiwa-61f94d-paypay"
     },
     {
       "name": "lemmikki",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-fb58e2",
+      "shopid": "shiwa-fb58e2-paypay"
     },
     {
       "name": "布ナプキンのループラス",
-      "address": "北日詰"
+      "address": "北日詰",
+      "storeid": "shiwa-2db10d",
+      "shopid": "shiwa-2db10d-paypay"
     },
     {
       "name": "加藤呉服店",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-e3d2c4",
+      "shopid": "shiwa-e3d2c4-paypay"
     },
     {
       "name": "ねこの染物屋",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-030a93",
+      "shopid": "shiwa-030a93-paypay"
     },
     {
       "name": "Andante",
-      "address": "二日町"
+      "address": "二日町",
+      "storeid": "shiwa-87f1ca",
+      "shopid": "shiwa-87f1ca-paypay"
     }
   ],
   "ペット": [
     {
       "name": "けやき並木動物病院",
-      "address": "日詰西"
+      "address": "日詰西",
+      "storeid": "shiwa-bbbf36",
+      "shopid": "shiwa-bbbf36-paypay"
     },
     {
       "name": "熊谷ペット",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-a6c474",
+      "shopid": "shiwa-a6c474-paypay"
     },
     {
       "name": "愛犬シャロン",
-      "address": "下松本"
+      "address": "下松本",
+      "storeid": "shiwa-224cf0",
+      "shopid": "shiwa-224cf0-paypay"
     },
     {
       "name": "cherish apartment",
-      "address": "下松本"
+      "address": "下松本",
+      "storeid": "shiwa-e1ff60",
+      "shopid": "shiwa-e1ff60-paypay"
     }
   ],
   "メガネ・コンタクト・時計": [
     {
       "name": "眼鏡屋目明かし堂",
-      "address": "紫波中央駅前"
+      "address": "紫波中央駅前",
+      "storeid": "shiwa-9013f7",
+      "shopid": "shiwa-9013f7-paypay"
     },
     {
       "name": "眼鏡屋　目明し堂",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-812e77",
+      "shopid": "shiwa-812e77-paypay"
     },
     {
       "name": "Petite Fleur",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-274e24",
+      "shopid": "shiwa-274e24-paypay"
     },
     {
       "name": "メガネのおおくま　紫波ナックス店",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-2b458b",
+      "shopid": "shiwa-2b458b-paypay"
     }
   ],
   "医療・鍼灸。療術": [
     {
       "name": "リボン整体サロン",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-cb7145",
+      "shopid": "shiwa-cb7145-paypay"
     }
   ],
   "医療・鍼灸・療術": [
     {
       "name": "一休さん",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-bc7dae",
+      "shopid": "shiwa-bc7dae-paypay"
     },
     {
       "name": "Karakahl Chiropractic",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-600922",
+      "shopid": "shiwa-600922-paypay"
     },
     {
       "name": "みお訪問マッサージ",
-      "address": "南伝法寺"
+      "address": "南伝法寺",
+      "storeid": "shiwa-1eaf31",
+      "shopid": "shiwa-1eaf31-paypay"
     },
     {
       "name": "もみ処とんとん",
-      "address": "彦部"
+      "address": "彦部",
+      "storeid": "shiwa-f201ad",
+      "shopid": "shiwa-f201ad-paypay"
     }
   ],
   "家具・家電": [
     {
       "name": "鈴敬電器商会",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-922568",
+      "shopid": "shiwa-922568-paypay"
     },
     {
       "name": "ソニックセブン",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-dcc1a9",
+      "shopid": "shiwa-dcc1a9-paypay"
     },
     {
       "name": "髙幸",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-ee2aeb",
+      "shopid": "shiwa-ee2aeb-paypay"
     },
     {
       "name": "八重樫建具店",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-c4c570",
+      "shopid": "shiwa-c4c570-paypay"
     },
     {
       "name": "電化ライフヨシダ古舘店",
-      "address": "中島"
+      "address": "中島",
+      "storeid": "shiwa-7b5be1",
+      "shopid": "shiwa-7b5be1-paypay"
     },
     {
       "name": "KOU plus design",
-      "address": "二日町"
+      "address": "二日町",
+      "storeid": "shiwa-8a3981",
+      "shopid": "shiwa-8a3981-paypay"
     },
     {
       "name": "箪笥工房はこや(物販)",
-      "address": "山屋"
+      "address": "山屋",
+      "storeid": "shiwa-8e1f39",
+      "shopid": "shiwa-8e1f39-paypay"
     },
     {
       "name": "阿部たたみ店",
-      "address": "大巻"
+      "address": "大巻",
+      "storeid": "shiwa-0b080c",
+      "shopid": "shiwa-0b080c-paypay"
     }
   ],
   "書籍・文具・印刷": [
     {
       "name": "有限会社菅原書店　日詰店",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-49a581",
+      "shopid": "shiwa-49a581-paypay"
     },
     {
       "name": "中村松和堂",
-      "address": "日詰西"
+      "address": "日詰西",
+      "storeid": "shiwa-87ae5e",
+      "shopid": "shiwa-87ae5e-paypay"
     },
     {
       "name": "メガトン書店　紫波店",
-      "address": "犬渕"
+      "address": "犬渕",
+      "storeid": "shiwa-8f2cac",
+      "shopid": "shiwa-8f2cac-paypay"
     },
     {
       "name": "本と文具のすがわら",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-9d5e4b",
+      "shopid": "shiwa-9d5e4b-paypay"
     },
     {
       "name": "OAランド",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-6b1741",
+      "shopid": "shiwa-6b1741-paypay"
     },
     {
       "name": "紫波印刷",
-      "address": "星山"
+      "address": "星山",
+      "storeid": "shiwa-be6a1d",
+      "shopid": "shiwa-be6a1d-paypay"
     }
   ],
   "生活洋品・燃料": [
     {
       "name": "盛岡ガス燃料　日詰営業所",
-      "address": "南日詰"
+      "address": "南日詰",
+      "storeid": "shiwa-7fc7b1",
+      "shopid": "shiwa-7fc7b1-paypay"
     }
   ],
   "生活用品・燃料": [
     {
       "name": "村上石油店　紫波店",
-      "address": "犬渕"
+      "address": "犬渕",
+      "storeid": "shiwa-42b1b2",
+      "shopid": "shiwa-42b1b2-paypay"
     },
     {
       "name": "キヨーワ　紫波SS",
-      "address": "北日詰"
+      "address": "北日詰",
+      "storeid": "shiwa-9303b6",
+      "shopid": "shiwa-9303b6-paypay"
     },
     {
       "name": "昭和シェル石油",
-      "address": "吉水"
+      "address": "吉水",
+      "storeid": "shiwa-d6a558",
+      "shopid": "shiwa-d6a558-paypay"
     }
   ],
   "百貨店": [
     {
       "name": "ショッピングセンターNACS",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-5ad30f",
+      "shopid": "shiwa-5ad30f-paypay"
     }
   ],
   "美容室・理容室": [
     {
       "name": "chou-chou hair",
-      "address": "紫波中央駅前"
+      "address": "紫波中央駅前",
+      "storeid": "shiwa-adbc2a",
+      "shopid": "shiwa-adbc2a-paypay"
     },
     {
       "name": "華つづり",
-      "address": "紫波中央駅前"
+      "address": "紫波中央駅前",
+      "storeid": "shiwa-73bb59",
+      "shopid": "shiwa-73bb59-paypay"
     },
     {
       "name": "Conditioning Center HOUSE",
-      "address": "紫波中央駅前"
+      "address": "紫波中央駅前",
+      "storeid": "shiwa-ae9979",
+      "shopid": "shiwa-ae9979-paypay"
     },
     {
       "name": "sosogu by Lunon",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-e30863",
+      "shopid": "shiwa-e30863-paypay"
     },
     {
       "name": "VALTAN BARBERS",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-890593",
+      "shopid": "shiwa-890593-paypay"
     },
     {
       "name": "ヘアーサロン川村",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-b7263c",
+      "shopid": "shiwa-b7263c-paypay"
     },
     {
       "name": "Agu hair",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-901bb5",
+      "shopid": "shiwa-901bb5-paypay"
     },
     {
       "name": "ヘアーサロンFUJINUMA",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-ae6b8f",
+      "shopid": "shiwa-ae6b8f-paypay"
     },
     {
       "name": "美容室GARDEN",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-2598ed",
+      "shopid": "shiwa-2598ed-paypay"
     },
     {
       "name": "理容たかのはし",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-24660f",
+      "shopid": "shiwa-24660f-paypay"
     },
     {
       "name": "Ideal hair",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-78e9b1",
+      "shopid": "shiwa-78e9b1-paypay"
     },
     {
       "name": "美容室ロコモコカウイ",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-40c461",
+      "shopid": "shiwa-40c461-paypay"
     },
     {
       "name": "hair salon otto",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-af7f16",
+      "shopid": "shiwa-af7f16-paypay"
     },
     {
       "name": "anne 美容室",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-67b580",
+      "shopid": "shiwa-67b580-paypay"
     },
     {
       "name": "リカ美容室",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-036d38",
+      "shopid": "shiwa-036d38-paypay"
     },
     {
       "name": "グレイスルーム・ベーネ",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-4e7e79",
+      "shopid": "shiwa-4e7e79-paypay"
     },
     {
       "name": "hair&spa micro.",
-      "address": "南日詰"
+      "address": "南日詰",
+      "storeid": "shiwa-9e2054",
+      "shopid": "shiwa-9e2054-paypay"
     },
     {
       "name": "ビューティーサロン　エトワール",
-      "address": "南日詰"
+      "address": "南日詰",
+      "storeid": "shiwa-dc5c2f",
+      "shopid": "shiwa-dc5c2f-paypay"
     },
     {
       "name": "Hair-Project か美や",
-      "address": "北日詰"
+      "address": "北日詰",
+      "storeid": "shiwa-0f8c6f",
+      "shopid": "shiwa-0f8c6f-paypay"
     },
     {
       "name": "L.a.m",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-91e7d0",
+      "shopid": "shiwa-91e7d0-paypay"
     },
     {
       "name": "タカノ美容室",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-fb4158",
+      "shopid": "shiwa-fb4158-paypay"
     },
     {
       "name": "相心館ゆう美容室",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-cb2182",
+      "shopid": "shiwa-cb2182-paypay"
     },
     {
       "name": "ヘアースペースカーム",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-2f162c",
+      "shopid": "shiwa-2f162c-paypay"
     },
     {
       "name": "hair&eye glow",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-8f9c4f",
+      "shopid": "shiwa-8f9c4f-paypay"
     },
     {
       "name": "AR　STUDIO",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-8826a2",
+      "shopid": "shiwa-8826a2-paypay"
     },
     {
       "name": "カットハウス　カスミ",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-4ecf9c",
+      "shopid": "shiwa-4ecf9c-paypay"
     },
     {
       "name": "me.me",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-14028a",
+      "shopid": "shiwa-14028a-paypay"
     },
     {
       "name": "美容室ワン・ウィーク紫波店",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-99000f",
+      "shopid": "shiwa-99000f-paypay"
     },
     {
       "name": "美容室エス",
-      "address": "中島"
+      "address": "中島",
+      "storeid": "shiwa-254a44",
+      "shopid": "shiwa-254a44-paypay"
     },
     {
       "name": "RANDOM",
-      "address": "二日町"
+      "address": "二日町",
+      "storeid": "shiwa-d8baad",
+      "shopid": "shiwa-d8baad-paypay"
     },
     {
       "name": "Bon Courage",
-      "address": "二日町"
+      "address": "二日町",
+      "storeid": "shiwa-92056b",
+      "shopid": "shiwa-92056b-paypay"
     },
     {
       "name": "高橋理容店",
-      "address": "土館"
+      "address": "土館",
+      "storeid": "shiwa-1cf826",
+      "shopid": "shiwa-1cf826-paypay"
     }
   ],
   "美容院・理容室": [
     {
       "name": "美容室Riri",
-      "address": "日詰西"
+      "address": "日詰西",
+      "storeid": "shiwa-331d69",
+      "shopid": "shiwa-331d69-paypay"
     },
     {
       "name": "理容ながい",
-      "address": "日詰西"
+      "address": "日詰西",
+      "storeid": "shiwa-9b0fab",
+      "shopid": "shiwa-9b0fab-paypay"
     },
     {
       "name": "salon.do.Passe",
-      "address": "日詰西"
+      "address": "日詰西",
+      "storeid": "shiwa-9ea13c",
+      "shopid": "shiwa-9ea13c-paypay"
     }
   ],
   "花・植木・農機具": [
     {
       "name": "とわか",
-      "address": "紫波中央駅前"
+      "address": "紫波中央駅前",
+      "storeid": "shiwa-eadd02",
+      "shopid": "shiwa-eadd02-paypay"
     },
     {
       "name": "伊藤政行種苗",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-462826",
+      "shopid": "shiwa-462826-paypay"
     },
     {
       "name": "花兵衛本店　紫波店",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-44c17d",
+      "shopid": "shiwa-44c17d-paypay"
     },
     {
       "name": "熊谷種苗店",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-96fa67",
+      "shopid": "shiwa-96fa67-paypay"
     },
     {
       "name": "共同園芸",
-      "address": "二日町"
+      "address": "二日町",
+      "storeid": "shiwa-5b50b2",
+      "shopid": "shiwa-5b50b2-paypay"
     },
     {
       "name": "花の館　紫波佐比内店",
-      "address": "左比内"
+      "address": "左比内",
+      "storeid": "shiwa-af76bc",
+      "shopid": "shiwa-af76bc-paypay"
     }
   ],
   "観光・宿泊": [
     {
       "name": "オガールイン",
-      "address": "紫波中央駅前"
+      "address": "紫波中央駅前",
+      "storeid": "shiwa-b450bc",
+      "shopid": "shiwa-b450bc-paypay"
     },
     {
       "name": "本野旅館",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-97d1e6",
+      "shopid": "shiwa-97d1e6-paypay"
     },
     {
       "name": "ラ・フランス温泉",
-      "address": "小屋敷"
+      "address": "小屋敷",
+      "storeid": "shiwa-928378",
+      "shopid": "shiwa-928378-paypay"
     },
     {
       "name": "たまくさ",
-      "address": "上平沢"
+      "address": "上平沢",
+      "storeid": "shiwa-cf3ff6",
+      "shopid": "shiwa-cf3ff6-paypay"
     },
     {
       "name": "箪笥工房はこや(宿泊)",
-      "address": "山屋"
+      "address": "山屋",
+      "storeid": "shiwa-5781d6",
+      "shopid": "shiwa-5781d6-paypay"
     }
   ],
   "酒類・リカーショップ": [
     {
       "name": "日詰平井邸",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-d85a5c",
+      "shopid": "shiwa-d85a5c-paypay"
     },
     {
       "name": "Green Neighbors Hard Cider",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-b9f304",
+      "shopid": "shiwa-b9f304-paypay"
     },
     {
       "name": "白銀商店",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-ccf31e",
+      "shopid": "shiwa-ccf31e-paypay"
     },
     {
       "name": "月の輪醸造元販売店わかさや",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-e88d0d",
+      "shopid": "shiwa-e88d0d-paypay"
     },
     {
       "name": "はじまりの酒店",
-      "address": "吉水"
+      "address": "吉水",
+      "storeid": "shiwa-fe7786",
+      "shopid": "shiwa-fe7786-paypay"
     },
     {
       "name": "紫波酒造店",
-      "address": "宮手"
+      "address": "宮手",
+      "storeid": "shiwa-9bb2e7",
+      "shopid": "shiwa-9bb2e7-paypay"
     },
     {
       "name": "紫波サイダリー",
-      "address": "升沢"
+      "address": "升沢",
+      "storeid": "shiwa-488067",
+      "shopid": "shiwa-488067-paypay"
     },
     {
       "name": "我妻嶺酒造店",
-      "address": "土館"
+      "address": "土館",
+      "storeid": "shiwa-e44f1e",
+      "shopid": "shiwa-e44f1e-paypay"
     },
     {
       "name": "紫波フルーツパーク",
-      "address": "遠山"
+      "address": "遠山",
+      "storeid": "shiwa-614919",
+      "shopid": "shiwa-614919-paypay"
     },
     {
       "name": "紫波町物産館",
-      "address": "遠山"
+      "address": "遠山",
+      "storeid": "shiwa-7a1cd1",
+      "shopid": "shiwa-7a1cd1-paypay"
     }
   ],
   "雑貨・陶器": [
     {
       "name": "COCOLON",
-      "address": "紫波中央駅前"
+      "address": "紫波中央駅前",
+      "storeid": "shiwa-c72cd3",
+      "shopid": "shiwa-c72cd3-paypay"
     },
     {
       "name": "はしもと商店",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-53b367",
+      "shopid": "shiwa-53b367-paypay"
     },
     {
       "name": "フリマ探偵団くまがい",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-a206f0",
+      "shopid": "shiwa-a206f0-paypay"
     },
     {
       "name": "鈴敬百貨店",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-e00881",
+      "shopid": "shiwa-e00881-paypay"
     },
     {
       "name": "寝装ふじわら",
-      "address": "日詰西"
+      "address": "日詰西",
+      "storeid": "shiwa-9556b0",
+      "shopid": "shiwa-9556b0-paypay"
     },
     {
       "name": "和風雑貨もがな",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-810203",
+      "shopid": "shiwa-810203-paypay"
     },
     {
       "name": "久慈タイル",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-e1fe75",
+      "shopid": "shiwa-e1fe75-paypay"
     },
     {
       "name": "ハンドメイド雑貨　Still",
-      "address": "稲藤"
+      "address": "稲藤",
+      "storeid": "shiwa-0f8024",
+      "shopid": "shiwa-0f8024-paypay"
     },
     {
       "name": "陶房金沢",
-      "address": "上松本"
+      "address": "上松本",
+      "storeid": "shiwa-91ced4",
+      "shopid": "shiwa-91ced4-paypay"
     },
     {
       "name": "saasa工房",
-      "address": "土館"
+      "address": "土館",
+      "storeid": "shiwa-c79e68",
+      "shopid": "shiwa-c79e68-paypay"
     },
     {
       "name": "りん工房",
-      "address": "遠山"
+      "address": "遠山",
+      "storeid": "shiwa-a9096f",
+      "shopid": "shiwa-a9096f-paypay"
     },
     {
       "name": "とんぼ玉　八五郎",
-      "address": "犬吠森"
+      "address": "犬吠森",
+      "storeid": "shiwa-f63706",
+      "shopid": "shiwa-f63706-paypay"
     },
     {
       "name": "ギャラリーエガラ",
-      "address": "江柄"
+      "address": "江柄",
+      "storeid": "shiwa-93a5b1",
+      "shopid": "shiwa-93a5b1-paypay"
     }
   ],
   "食料品": [
     {
       "name": "のむら米穀店",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-a7ca18",
+      "shopid": "shiwa-a7ca18-paypay"
     },
     {
       "name": "タゴマル",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-ec4995",
+      "shopid": "shiwa-ec4995-paypay"
     },
     {
       "name": "松本精肉店",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-8bfc93",
+      "shopid": "shiwa-8bfc93-paypay"
     },
     {
       "name": "鈴徳商店",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-709123",
+      "shopid": "shiwa-709123-paypay"
     },
     {
       "name": "なんバザホール",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-29184c",
+      "shopid": "shiwa-29184c-paypay"
     },
     {
       "name": "株式会社よんりん舎",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-10714d",
+      "shopid": "shiwa-10714d-paypay"
     },
     {
       "name": "ほっかほっか亭",
-      "address": "日詰西"
+      "address": "日詰西",
+      "storeid": "shiwa-c98840",
+      "shopid": "shiwa-c98840-paypay"
     },
     {
       "name": "一恩",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-30c884",
+      "shopid": "shiwa-30c884-paypay"
     },
     {
       "name": "ナックス銘産品コーナー",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-e54784",
+      "shopid": "shiwa-e54784-paypay"
     },
     {
       "name": "米工房かとう",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-21bed0",
+      "shopid": "shiwa-21bed0-paypay"
     },
     {
       "name": "米澤商店",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-174448",
+      "shopid": "shiwa-174448-paypay"
     },
     {
       "name": "肉の匠　中むら屋",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-023280",
+      "shopid": "shiwa-023280-paypay"
     },
     {
       "name": "向山商店",
-      "address": "二日町"
+      "address": "二日町",
+      "storeid": "shiwa-b55850",
+      "shopid": "shiwa-b55850-paypay"
     },
     {
       "name": "キッチンカー　fu-go",
-      "address": "二日町"
+      "address": "二日町",
+      "storeid": "shiwa-910eff",
+      "shopid": "shiwa-910eff-paypay"
     },
     {
       "name": "菅川商店",
-      "address": "吉水"
+      "address": "吉水",
+      "storeid": "shiwa-e194f1",
+      "shopid": "shiwa-e194f1-paypay"
     },
     {
       "name": "芽吹き屋　志和店",
-      "address": "上平沢"
+      "address": "上平沢",
+      "storeid": "shiwa-86c3ee",
+      "shopid": "shiwa-86c3ee-paypay"
     },
     {
       "name": "Shiwa GREEN Farm",
-      "address": "南伝法寺"
+      "address": "南伝法寺",
+      "storeid": "shiwa-4c19e3",
+      "shopid": "shiwa-4c19e3-paypay"
     },
     {
       "name": "ねね八農園　紫波店",
-      "address": "犬吠森"
+      "address": "犬吠森",
+      "storeid": "shiwa-6523cd",
+      "shopid": "shiwa-6523cd-paypay"
     },
     {
       "name": "Punk Sake Farmer",
-      "address": "左比内"
+      "address": "左比内",
+      "storeid": "shiwa-c506b9",
+      "shopid": "shiwa-c506b9-paypay"
     },
     {
       "name": "半田商店",
-      "address": "東長岡"
+      "address": "東長岡",
+      "storeid": "shiwa-abc759",
+      "shopid": "shiwa-abc759-paypay"
     },
     {
       "name": "ノギマート",
-      "address": "東長岡"
+      "address": "東長岡",
+      "storeid": "shiwa-e0735e",
+      "shopid": "shiwa-e0735e-paypay"
     }
   ],
   "飲料店": [
     {
       "name": "いちもん",
-      "address": "平沢"
+      "address": "平沢",
+      "storeid": "shiwa-662989",
+      "shopid": "shiwa-662989-paypay"
     },
     {
       "name": "内山商店",
-      "address": "平沢"
+      "address": "平沢",
+      "storeid": "shiwa-1c3269",
+      "shopid": "shiwa-1c3269-paypay"
     }
   ],
   "飲食店": [
     {
       "name": "ご馳走DEがんす　紫波オガール",
-      "address": "紫波中央駅前"
+      "address": "紫波中央駅前",
+      "storeid": "shiwa-56369e",
+      "shopid": "shiwa-56369e-paypay"
     },
     {
       "name": "焼肉食堂おがわや",
-      "address": "紫波中央駅前"
+      "address": "紫波中央駅前",
+      "storeid": "shiwa-294d5c",
+      "shopid": "shiwa-294d5c-paypay"
     },
     {
       "name": "じゃじゃめん八番",
-      "address": "紫波中央駅前"
+      "address": "紫波中央駅前",
+      "storeid": "shiwa-8744cf",
+      "shopid": "shiwa-8744cf-paypay"
     },
     {
       "name": "4832 The SUGAR",
-      "address": "紫波中央駅前"
+      "address": "紫波中央駅前",
+      "storeid": "shiwa-47845c",
+      "shopid": "shiwa-47845c-paypay"
     },
     {
       "name": "potato deli Mameta",
-      "address": "紫波中央駅前"
+      "address": "紫波中央駅前",
+      "storeid": "shiwa-b2d318",
+      "shopid": "shiwa-b2d318-paypay"
     },
     {
       "name": "炭焼炉端　二代目真魚板",
-      "address": "紫波中央駅前"
+      "address": "紫波中央駅前",
+      "storeid": "shiwa-d16b85",
+      "shopid": "shiwa-d16b85-paypay"
     },
     {
       "name": "貝だしおでんと酒とアテ　じらふ",
-      "address": "紫波中央駅前"
+      "address": "紫波中央駅前",
+      "storeid": "shiwa-7c5bfe",
+      "shopid": "shiwa-7c5bfe-paypay"
     },
     {
       "name": "鮨清次郎　紫波店",
-      "address": "紫波中央駅前"
+      "address": "紫波中央駅前",
+      "storeid": "shiwa-91acf4",
+      "shopid": "shiwa-91acf4-paypay"
     },
     {
       "name": "café alpha",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-8aa44f",
+      "shopid": "shiwa-8aa44f-paypay"
     },
     {
       "name": "中華食堂彩々華",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-4b6b9f",
+      "shopid": "shiwa-4b6b9f-paypay"
     },
     {
       "name": "ななしや",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-aca341",
+      "shopid": "shiwa-aca341-paypay"
     },
     {
       "name": "café style bar VIVID",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-480ee9",
+      "shopid": "shiwa-480ee9-paypay"
     },
     {
       "name": "スナックルパン",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-f60ced",
+      "shopid": "shiwa-f60ced-paypay"
     },
     {
       "name": "紫波deエール",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-3c2ef8",
+      "shopid": "shiwa-3c2ef8-paypay"
     },
     {
       "name": "22GARAGE",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-f98336",
+      "shopid": "shiwa-f98336-paypay"
     },
     {
       "name": "まんがめし喫茶ひよこ堂",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-48a03d",
+      "shopid": "shiwa-48a03d-paypay"
     },
     {
       "name": "スナックわくわく",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-a1b246",
+      "shopid": "shiwa-a1b246-paypay"
     },
     {
       "name": "Dining café あーしゃんず",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-338614",
+      "shopid": "shiwa-338614-paypay"
     },
     {
       "name": "純米ニトロ",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-10f846",
+      "shopid": "shiwa-10f846-paypay"
     },
     {
       "name": "レストラン＆カフェ　ルッシュ",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-acf3e3",
+      "shopid": "shiwa-acf3e3-paypay"
     },
     {
       "name": "食堂かわむら",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-bd5a74",
+      "shopid": "shiwa-bd5a74-paypay"
     },
     {
       "name": "福龍",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-1f5462",
+      "shopid": "shiwa-1f5462-paypay"
     },
     {
       "name": "焼肉よかろ",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-87e634",
+      "shopid": "shiwa-87e634-paypay"
     },
     {
       "name": "スナックほたる",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-ac2fcc",
+      "shopid": "shiwa-ac2fcc-paypay"
     },
     {
       "name": "ミルクホールマイカ",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-71a8f7",
+      "shopid": "shiwa-71a8f7-paypay"
     },
     {
       "name": "あづまある",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-a0a1e6",
+      "shopid": "shiwa-a0a1e6-paypay"
     },
     {
       "name": "藤屋食堂",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-a14647",
+      "shopid": "shiwa-a14647-paypay"
     },
     {
       "name": "ピアック大盛軒",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-38ae2e",
+      "shopid": "shiwa-38ae2e-paypay"
     },
     {
       "name": "山人　YAMANDO",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-513fd9",
+      "shopid": "shiwa-513fd9-paypay"
     },
     {
       "name": "YOKOSAWA CAMPUS",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-9efa16",
+      "shopid": "shiwa-9efa16-paypay"
     },
     {
       "name": "喫茶アリス",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-d16b47",
+      "shopid": "shiwa-d16b47-paypay"
     },
     {
       "name": "居酒屋はち",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-59f4bc",
+      "shopid": "shiwa-59f4bc-paypay"
     },
     {
       "name": "CAFÉ Laube 紫波店",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-33afc2",
+      "shopid": "shiwa-33afc2-paypay"
     },
     {
       "name": "天狗寿司",
-      "address": "日詰"
+      "address": "日詰",
+      "storeid": "shiwa-7956aa",
+      "shopid": "shiwa-7956aa-paypay"
     },
     {
       "name": "立飲処 Sunset",
-      "address": "日詰西"
+      "address": "日詰西",
+      "storeid": "shiwa-a93927",
+      "shopid": "shiwa-a93927-paypay"
     },
     {
       "name": "森の中の直売所　ジョバンニ",
-      "address": "犬渕"
+      "address": "犬渕",
+      "storeid": "shiwa-d3fc3b",
+      "shopid": "shiwa-d3fc3b-paypay"
     },
     {
       "name": "鳥屋",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-5a787b",
+      "shopid": "shiwa-5a787b-paypay"
     },
     {
       "name": "VILLA KANAI COFFEE",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-85e644",
+      "shopid": "shiwa-85e644-paypay"
     },
     {
       "name": "中国料理　jiu",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-216c8d",
+      "shopid": "shiwa-216c8d-paypay"
     },
     {
       "name": "麵や椿",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-699cc9",
+      "shopid": "shiwa-699cc9-paypay"
     },
     {
       "name": "やまなか家　紫波店",
-      "address": "桜町"
+      "address": "桜町",
+      "storeid": "shiwa-d8d678",
+      "shopid": "shiwa-d8d678-paypay"
     },
     {
       "name": "おひさま食堂　ひなた家",
-      "address": "平沢"
+      "address": "平沢",
+      "storeid": "shiwa-967188",
+      "shopid": "shiwa-967188-paypay"
     },
     {
       "name": "Gelateria Tiara",
-      "address": "北日詰"
+      "address": "北日詰",
+      "storeid": "shiwa-b89054",
+      "shopid": "shiwa-b89054-paypay"
     },
     {
       "name": "寿し政",
-      "address": "北日詰"
+      "address": "北日詰",
+      "storeid": "shiwa-459ede",
+      "shopid": "shiwa-459ede-paypay"
     },
     {
       "name": "紫波ポケット　ふれんどり",
-      "address": "高水寺"
+      "address": "高水寺",
+      "storeid": "shiwa-63ec35",
+      "shopid": "shiwa-63ec35-paypay"
     },
     {
       "name": "花café",
-      "address": "二日町"
+      "address": "二日町",
+      "storeid": "shiwa-6bc5de",
+      "shopid": "shiwa-6bc5de-paypay"
     },
     {
       "name": "AZUMANESOKO",
-      "address": "下松本"
+      "address": "下松本",
+      "storeid": "shiwa-d0b36c",
+      "shopid": "shiwa-d0b36c-paypay"
     },
     {
       "name": "すずらんの森Café",
-      "address": "下松本"
+      "address": "下松本",
+      "storeid": "shiwa-ae8c39",
+      "shopid": "shiwa-ae8c39-paypay"
     },
     {
       "name": "いたちゃん食堂",
-      "address": "小屋敷"
+      "address": "小屋敷",
+      "storeid": "shiwa-e8c38d",
+      "shopid": "shiwa-e8c38d-paypay"
     },
     {
       "name": "ViewGarden",
-      "address": "小屋敷"
+      "address": "小屋敷",
+      "storeid": "shiwa-89bf49",
+      "shopid": "shiwa-89bf49-paypay"
     },
     {
       "name": "ラーメンショップ吾妻屋",
-      "address": "上平沢"
+      "address": "上平沢",
+      "storeid": "shiwa-73f59d",
+      "shopid": "shiwa-73f59d-paypay"
     },
     {
       "name": "後庵",
-      "address": "上平沢"
+      "address": "上平沢",
+      "storeid": "shiwa-f73a2f",
+      "shopid": "shiwa-f73a2f-paypay"
     },
     {
       "name": "江釣子屋　志和稲荷店",
-      "address": "上平沢"
+      "address": "上平沢",
+      "storeid": "shiwa-7c97df",
+      "shopid": "shiwa-7c97df-paypay"
     },
     {
       "name": "石窯PIZZA  DALA",
-      "address": "土館"
+      "address": "土館",
+      "storeid": "shiwa-70a9a0",
+      "shopid": "shiwa-70a9a0-paypay"
     },
     {
       "name": "和純",
-      "address": "栃内"
+      "address": "栃内",
+      "storeid": "shiwa-b2ed3d",
+      "shopid": "shiwa-b2ed3d-paypay"
     }
   ]
 }

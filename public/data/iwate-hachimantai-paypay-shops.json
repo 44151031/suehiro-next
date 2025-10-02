@@ -2,523 +2,773 @@
   "大更地区": [
     {
       "name": "300Paint",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-f7f65a",
+      "shopid": "hachimantai-f7f65a-paypay"
     },
     {
       "name": "ENEOS大更SS",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-9fd889",
+      "shopid": "hachimantai-9fd889-paypay"
     },
     {
       "name": "obuke   base",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-92360b",
+      "shopid": "hachimantai-92360b-paypay"
     },
     {
       "name": "伊東自動車整備工場",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-05055e",
+      "shopid": "hachimantai-05055e-paypay"
     },
     {
       "name": "イワサキ屋",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-b55959",
+      "shopid": "hachimantai-b55959-paypay"
     },
     {
       "name": "遠忠石油   大更店",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-b3b993",
+      "shopid": "hachimantai-b3b993-paypay"
     },
     {
       "name": "おおみや呉服店",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-daf5cc",
+      "shopid": "hachimantai-daf5cc-paypay"
     },
     {
       "name": "小山田商店   岩手山SS",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-96f721",
+      "shopid": "hachimantai-96f721-paypay"
     },
     {
       "name": "カーエステ西根",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-b3929e",
+      "shopid": "hachimantai-b3929e-paypay"
     },
     {
       "name": "カシワヤ",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-ec16bf",
+      "shopid": "hachimantai-ec16bf-paypay"
     },
     {
       "name": "カフェ &スナック   Fika",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-367413",
+      "shopid": "hachimantai-367413-paypay"
     },
     {
       "name": "業務スーパー大更店",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-18519a",
+      "shopid": "hachimantai-18519a-paypay"
     },
     {
       "name": "久保田モータース",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-210b26",
+      "shopid": "hachimantai-210b26-paypay"
     },
     {
       "name": "久保田モータース\nDAIHATSU店 ショールーム展示場",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-35d8d8",
+      "shopid": "hachimantai-35d8d8-paypay"
     },
     {
       "name": "彩花園",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-b2fcd7",
+      "shopid": "hachimantai-b2fcd7-paypay"
     },
     {
       "name": "スナック   ルシフェル",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-d3e8a3",
+      "shopid": "hachimantai-d3e8a3-paypay"
     },
     {
       "name": "澤口酒店",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-62a27b",
+      "shopid": "hachimantai-62a27b-paypay"
     },
     {
       "name": "シャデイ サラダ館",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-399f10",
+      "shopid": "hachimantai-399f10-paypay"
     },
     {
       "name": "寿司・お食事処 きよせ",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-6ed58f",
+      "shopid": "hachimantai-6ed58f-paypay"
     },
     {
       "name": "ステイ自動車整備センター",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-229f2f",
+      "shopid": "hachimantai-229f2f-paypay"
     },
     {
       "name": "肉の横沢",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-458597",
+      "shopid": "hachimantai-458597-paypay"
     },
     {
       "name": "西根観光タクシー",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-b32304",
+      "shopid": "hachimantai-b32304-paypay"
     },
     {
       "name": "樋口せんべい店",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-ceb15d",
+      "shopid": "hachimantai-ceb15d-paypay"
     },
     {
       "name": "ビジネスホテル西根",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-9e95d0",
+      "shopid": "hachimantai-9e95d0-paypay"
     },
     {
       "name": "美容室オリーブ",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-f62077",
+      "shopid": "hachimantai-f62077-paypay"
     },
     {
       "name": "風月堂（ベルフ八幡平内）",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-252363",
+      "shopid": "hachimantai-252363-paypay"
     },
     {
       "name": "フォトスタジオ・パル",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-68bd71",
+      "shopid": "hachimantai-68bd71-paypay"
     },
     {
       "name": "プライベートサロン音色",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-21446d",
+      "shopid": "hachimantai-21446d-paypay"
     },
     {
       "name": "ホームセンターかんぶん八幡平店",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-57d0d2",
+      "shopid": "hachimantai-57d0d2-paypay"
     },
     {
       "name": "まつもり呉服店",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-c57d12",
+      "shopid": "hachimantai-c57d12-paypay"
     },
     {
       "name": "道の駅にしね生産物直売所",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-e504db",
+      "shopid": "hachimantai-e504db-paypay"
     },
     {
       "name": "むら重",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-2156d4",
+      "shopid": "hachimantai-2156d4-paypay"
     },
     {
       "name": "レオス",
-      "address": "大更地区"
+      "address": "大更地区",
+      "storeid": "hachimantai-874e3a",
+      "shopid": "hachimantai-874e3a-paypay"
     }
   ],
   "田頭地区": [
     {
       "name": "泉澤商店",
-      "address": "田頭地区"
+      "address": "田頭地区",
+      "storeid": "hachimantai-fd0b80",
+      "shopid": "hachimantai-fd0b80-paypay"
     },
     {
       "name": "古民家食堂   なつかしの家",
-      "address": "田頭地区"
+      "address": "田頭地区",
+      "storeid": "hachimantai-c2b1b7",
+      "shopid": "hachimantai-c2b1b7-paypay"
     },
     {
       "name": "ササキ時計店",
-      "address": "田頭地区"
+      "address": "田頭地区",
+      "storeid": "hachimantai-4c42b2",
+      "shopid": "hachimantai-4c42b2-paypay"
     },
     {
       "name": "丹内菓子店",
-      "address": "田頭地区"
+      "address": "田頭地区",
+      "storeid": "hachimantai-4c481a",
+      "shopid": "hachimantai-4c481a-paypay"
     },
     {
       "name": "トライ薬局（調剤薬品を除く）",
-      "address": "田頭地区"
+      "address": "田頭地区",
+      "storeid": "hachimantai-f3586d",
+      "shopid": "hachimantai-f3586d-paypay"
     },
     {
       "name": "ナイス",
-      "address": "田頭地区"
+      "address": "田頭地区",
+      "storeid": "hachimantai-f0dfbc",
+      "shopid": "hachimantai-f0dfbc-paypay"
     }
   ],
   "平笠地区": [
     {
       "name": "3S VILLAGE八幡平",
-      "address": "平笠地区"
+      "address": "平笠地区",
+      "storeid": "hachimantai-2bf6c5",
+      "shopid": "hachimantai-2bf6c5-paypay"
     },
     {
       "name": "tokinohana",
-      "address": "平笠地区"
+      "address": "平笠地区",
+      "storeid": "hachimantai-340908",
+      "shopid": "hachimantai-340908-paypay"
     },
     {
       "name": "いこいの村岩手",
-      "address": "平笠地区"
+      "address": "平笠地区",
+      "storeid": "hachimantai-1b0ded",
+      "shopid": "hachimantai-1b0ded-paypay"
     },
     {
       "name": "佐々木長生整体院（いこいの村岩手内）",
-      "address": "平笠地区"
+      "address": "平笠地区",
+      "storeid": "hachimantai-c849d1",
+      "shopid": "hachimantai-c849d1-paypay"
     }
   ],
   "平舘地区": [
     {
       "name": "4358aging&anti-aging",
-      "address": "平舘地区"
+      "address": "平舘地区",
+      "storeid": "hachimantai-4a4a73",
+      "shopid": "hachimantai-4a4a73-paypay"
     },
     {
       "name": "ENEOS八幡平",
-      "address": "平舘地区"
+      "address": "平舘地区",
+      "storeid": "hachimantai-c0c87c",
+      "shopid": "hachimantai-c0c87c-paypay"
     },
     {
       "name": "nollegretto（ノレグレット）",
-      "address": "平舘地区"
+      "address": "平舘地区",
+      "storeid": "hachimantai-ebbd29",
+      "shopid": "hachimantai-ebbd29-paypay"
     },
     {
       "name": "Olive By PearlDry\n（マックスバリュ西根店）",
-      "address": "平舘地区"
+      "address": "平舘地区",
+      "storeid": "hachimantai-f6af7a",
+      "shopid": "hachimantai-f6af7a-paypay"
     },
     {
       "name": "tamari窯",
-      "address": "平舘地区"
+      "address": "平舘地区",
+      "storeid": "hachimantai-bbe97a",
+      "shopid": "hachimantai-bbe97a-paypay"
     },
     {
       "name": "zakka&cafe nii-ni",
-      "address": "平舘地区"
+      "address": "平舘地区",
+      "storeid": "hachimantai-89c7c8",
+      "shopid": "hachimantai-89c7c8-paypay"
     },
     {
       "name": "大更ホルモン",
-      "address": "平舘地区"
+      "address": "平舘地区",
+      "storeid": "hachimantai-1019f9",
+      "shopid": "hachimantai-1019f9-paypay"
     },
     {
       "name": "映光カメラ店",
-      "address": "平舘地区"
+      "address": "平舘地区",
+      "storeid": "hachimantai-1c818a",
+      "shopid": "hachimantai-1c818a-paypay"
     },
     {
       "name": "雑貨屋Ｈａｒｅｎｏｈｉ",
-      "address": "平舘地区"
+      "address": "平舘地区",
+      "storeid": "hachimantai-8b6c32",
+      "shopid": "hachimantai-8b6c32-paypay"
     },
     {
       "name": "平舘化粧品店",
-      "address": "平舘地区"
+      "address": "平舘地区",
+      "storeid": "hachimantai-661eb6",
+      "shopid": "hachimantai-661eb6-paypay"
     },
     {
       "name": "平舘タクシー",
-      "address": "平舘地区"
+      "address": "平舘地区",
+      "storeid": "hachimantai-417c2f",
+      "shopid": "hachimantai-417c2f-paypay"
     },
     {
       "name": "高民商店",
-      "address": "平舘地区"
+      "address": "平舘地区",
+      "storeid": "hachimantai-0c74ff",
+      "shopid": "hachimantai-0c74ff-paypay"
     },
     {
       "name": "たかはし食堂",
-      "address": "平舘地区"
+      "address": "平舘地区",
+      "storeid": "hachimantai-9bb7f0",
+      "shopid": "hachimantai-9bb7f0-paypay"
     },
     {
       "name": "田中電気商会",
-      "address": "平舘地区"
+      "address": "平舘地区",
+      "storeid": "hachimantai-e12d42",
+      "shopid": "hachimantai-e12d42-paypay"
     },
     {
       "name": "肉のささき",
-      "address": "平舘地区"
+      "address": "平舘地区",
+      "storeid": "hachimantai-e72b19",
+      "shopid": "hachimantai-e72b19-paypay"
     },
     {
       "name": "ハッピー石油   平舘店",
-      "address": "平舘地区"
+      "address": "平舘地区",
+      "storeid": "hachimantai-b327b9",
+      "shopid": "hachimantai-b327b9-paypay"
     },
     {
       "name": "ぼず",
-      "address": "平舘地区"
+      "address": "平舘地区",
+      "storeid": "hachimantai-3b905d",
+      "shopid": "hachimantai-3b905d-paypay"
     },
     {
       "name": "みやのガス屋",
-      "address": "平舘地区"
+      "address": "平舘地区",
+      "storeid": "hachimantai-660c84",
+      "shopid": "hachimantai-660c84-paypay"
     },
     {
       "name": "みやの",
-      "address": "平舘地区"
+      "address": "平舘地区",
+      "storeid": "hachimantai-273291",
+      "shopid": "hachimantai-273291-paypay"
     }
   ],
   "寺田地区": [
     {
       "name": "たむらストア",
-      "address": "寺田地区"
+      "address": "寺田地区",
+      "storeid": "hachimantai-9b2f7d",
+      "shopid": "hachimantai-9b2f7d-paypay"
     }
   ],
   "野駄松尾地区": [
     {
       "name": "ＢＬＴオートサービス",
-      "address": "野駄松尾地区"
+      "address": "野駄松尾地区",
+      "storeid": "hachimantai-6611aa",
+      "shopid": "hachimantai-6611aa-paypay"
     },
     {
       "name": "小田島商店",
-      "address": "野駄松尾地区"
+      "address": "野駄松尾地区",
+      "storeid": "hachimantai-04dbe5",
+      "shopid": "hachimantai-04dbe5-paypay"
     },
     {
       "name": "立万商店",
-      "address": "野駄松尾地区"
+      "address": "野駄松尾地区",
+      "storeid": "hachimantai-d98df2",
+      "shopid": "hachimantai-d98df2-paypay"
     }
   ],
   "松尾寄木地区": [
     {
       "name": "CLUBMAN",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-e8fe7e",
+      "shopid": "hachimantai-e8fe7e-paypay"
     },
     {
       "name": "Life8",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-84a333",
+      "shopid": "hachimantai-84a333-paypay"
     },
     {
       "name": "アルペンローゼ",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-98d877",
+      "shopid": "hachimantai-98d877-paypay"
     },
     {
       "name": "漆弓具工房",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-88e0a1",
+      "shopid": "hachimantai-88e0a1-paypay"
     },
     {
       "name": "温泉ゲストハウス やすもり",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-359130",
+      "shopid": "hachimantai-359130-paypay"
     },
     {
       "name": "カークリニックタカハシ",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-911e1a",
+      "shopid": "hachimantai-911e1a-paypay"
     },
     {
       "name": "喫茶店   ki+shine",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-e0848b",
+      "shopid": "hachimantai-e0848b-paypay"
     },
     {
       "name": "キャンパスの森",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-a503fc",
+      "shopid": "hachimantai-a503fc-paypay"
     },
     {
       "name": "なかやま荘",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-2f803b",
+      "shopid": "hachimantai-2f803b-paypay"
     },
     {
       "name": "八幡平マウンテンホテル",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-9e51e6",
+      "shopid": "hachimantai-9e51e6-paypay"
     },
     {
       "name": "八幡平ハイツ",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-b952a0",
+      "shopid": "hachimantai-b952a0-paypay"
     },
     {
       "name": "八幡平秘密基地WAN",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-f5c44e",
+      "shopid": "hachimantai-f5c44e-paypay"
     },
     {
       "name": "ハッピー石油   関口店",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-0907d6",
+      "shopid": "hachimantai-0907d6-paypay"
     },
     {
       "name": "ペンションあんとる・ど・めえる",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-e4ff39",
+      "shopid": "hachimantai-e4ff39-paypay"
     },
     {
       "name": "ペンション日の出",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-329ba1",
+      "shopid": "hachimantai-329ba1-paypay"
     },
     {
       "name": "ペンション ムース",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-2edd45",
+      "shopid": "hachimantai-2edd45-paypay"
     },
     {
       "name": "松川荘",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-c6adc5",
+      "shopid": "hachimantai-c6adc5-paypay"
     },
     {
       "name": "森乃湯",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-a47f91",
+      "shopid": "hachimantai-a47f91-paypay"
     },
     {
       "name": "森のイタリアンLa mia mamma",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-79cd1c",
+      "shopid": "hachimantai-79cd1c-paypay"
     },
     {
       "name": "焼肉FABIO",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-b0185e",
+      "shopid": "hachimantai-b0185e-paypay"
     },
     {
       "name": "珈琲舎ハイジ",
-      "address": "松尾寄木地区"
+      "address": "松尾寄木地区",
+      "storeid": "hachimantai-2f8d35",
+      "shopid": "hachimantai-2f8d35-paypay"
     }
   ],
   "台地区": [
     {
       "name": "高橋酒店",
-      "address": "台地区"
+      "address": "台地区",
+      "storeid": "hachimantai-bedc06",
+      "shopid": "hachimantai-bedc06-paypay"
     },
     {
       "name": "ふじとくストア",
-      "address": "台地区"
+      "address": "台地区",
+      "storeid": "hachimantai-04df22",
+      "shopid": "hachimantai-04df22-paypay"
     },
     {
       "name": "松尾八幡平物産館アスピーテ",
-      "address": "台地区"
+      "address": "台地区",
+      "storeid": "hachimantai-e36078",
+      "shopid": "hachimantai-e36078-paypay"
     },
     {
       "name": "レストランLAMP",
-      "address": "台地区"
+      "address": "台地区",
+      "storeid": "hachimantai-7c994a",
+      "shopid": "hachimantai-7c994a-paypay"
     }
   ],
   "安比高原地区": [
     {
       "name": "19Brew",
-      "address": "安比高原地区"
+      "address": "安比高原地区",
+      "storeid": "hachimantai-ca3538",
+      "shopid": "hachimantai-ca3538-paypay"
     },
     {
       "name": "APPI ROCKY INN",
-      "address": "安比高原地区"
+      "address": "安比高原地区",
+      "storeid": "hachimantai-cd3184",
+      "shopid": "hachimantai-cd3184-paypay"
     },
     {
       "name": "WHITE ROSE INN",
-      "address": "安比高原地区"
+      "address": "安比高原地区",
+      "storeid": "hachimantai-31774c",
+      "shopid": "hachimantai-31774c-paypay"
     },
     {
       "name": "アネックス   アルカス",
-      "address": "安比高原地区"
+      "address": "安比高原地区",
+      "storeid": "hachimantai-9cf211",
+      "shopid": "hachimantai-9cf211-paypay"
     },
     {
       "name": "小山田商店   安比SS",
-      "address": "安比高原地区"
+      "address": "安比高原地区",
+      "storeid": "hachimantai-623c40",
+      "shopid": "hachimantai-623c40-paypay"
     },
     {
       "name": "高原の珈琲工房ＮＥＬＣＡＦＥ",
-      "address": "安比高原地区"
+      "address": "安比高原地区",
+      "storeid": "hachimantai-d9bbda",
+      "shopid": "hachimantai-d9bbda-paypay"
     },
     {
       "name": "ペンション   アサンギ",
-      "address": "安比高原地区"
+      "address": "安比高原地区",
+      "storeid": "hachimantai-d07d37",
+      "shopid": "hachimantai-d07d37-paypay"
     },
     {
       "name": "ペンション   アーラ・ワッカ",
-      "address": "安比高原地区"
+      "address": "安比高原地区",
+      "storeid": "hachimantai-4ead6f",
+      "shopid": "hachimantai-4ead6f-paypay"
     },
     {
       "name": "ペンション   あるぺじお",
-      "address": "安比高原地区"
+      "address": "安比高原地区",
+      "storeid": "hachimantai-ce58cc",
+      "shopid": "hachimantai-ce58cc-paypay"
     },
     {
       "name": "ペンション グラシアスエスタバ",
-      "address": "安比高原地区"
+      "address": "安比高原地区",
+      "storeid": "hachimantai-81d075",
+      "shopid": "hachimantai-81d075-paypay"
     },
     {
       "name": "ペンション   STEP",
-      "address": "安比高原地区"
+      "address": "安比高原地区",
+      "storeid": "hachimantai-d3e28a",
+      "shopid": "hachimantai-d3e28a-paypay"
     },
     {
       "name": "森のなかまたち",
-      "address": "安比高原地区"
+      "address": "安比高原地区",
+      "storeid": "hachimantai-1d2bf7",
+      "shopid": "hachimantai-1d2bf7-paypay"
     }
   ],
   "細野畑地区": [
     {
       "name": "ENEOS安比SS",
-      "address": "細野畑地区"
+      "address": "細野畑地区",
+      "storeid": "hachimantai-67d416",
+      "shopid": "hachimantai-67d416-paypay"
     },
     {
       "name": "あっぴ亭",
-      "address": "細野畑地区"
+      "address": "細野畑地区",
+      "storeid": "hachimantai-c2f6fe",
+      "shopid": "hachimantai-c2f6fe-paypay"
     },
     {
       "name": "四季館 彩冬",
-      "address": "細野畑地区"
+      "address": "細野畑地区",
+      "storeid": "hachimantai-56e305",
+      "shopid": "hachimantai-56e305-paypay"
     },
     {
       "name": "ぱぱなっしゅ",
-      "address": "細野畑地区"
+      "address": "細野畑地区",
+      "storeid": "hachimantai-690b12",
+      "shopid": "hachimantai-690b12-paypay"
     },
     {
       "name": "ふうせつ花",
-      "address": "細野畑地区"
+      "address": "細野畑地区",
+      "storeid": "hachimantai-2bdf57",
+      "shopid": "hachimantai-2bdf57-paypay"
     },
     {
       "name": "民宿かすみ荘",
-      "address": "細野畑地区"
+      "address": "細野畑地区",
+      "storeid": "hachimantai-9b7a73",
+      "shopid": "hachimantai-9b7a73-paypay"
     },
     {
       "name": "綿帽子温泉館 あずみの湯",
-      "address": "細野畑地区"
+      "address": "細野畑地区",
+      "storeid": "hachimantai-4f1270",
+      "shopid": "hachimantai-4f1270-paypay"
     }
   ],
   "安代地区": [
     {
       "name": "柴内商店  COSMO石油安代ICSS",
-      "address": "安代地区"
+      "address": "安代地区",
+      "storeid": "hachimantai-5d7ad3",
+      "shopid": "hachimantai-5d7ad3-paypay"
     },
     {
       "name": "SHIMONO 528",
-      "address": "安代地区"
+      "address": "安代地区",
+      "storeid": "hachimantai-6ea970",
+      "shopid": "hachimantai-6ea970-paypay"
     },
     {
       "name": "安比塗漆器工房",
-      "address": "安代地区"
+      "address": "安代地区",
+      "storeid": "hachimantai-7e40cf",
+      "shopid": "hachimantai-7e40cf-paypay"
     },
     {
       "name": "安比まいたけ",
-      "address": "安代地区"
+      "address": "安代地区",
+      "storeid": "hachimantai-4c8816",
+      "shopid": "hachimantai-4c8816-paypay"
     },
     {
       "name": "小山田商店   安代SS",
-      "address": "安代地区"
+      "address": "安代地区",
+      "storeid": "hachimantai-5f875c",
+      "shopid": "hachimantai-5f875c-paypay"
     },
     {
       "name": "椿月",
-      "address": "安代地区"
+      "address": "安代地区",
+      "storeid": "hachimantai-30f336",
+      "shopid": "hachimantai-30f336-paypay"
     },
     {
       "name": "勝田屋",
-      "address": "安代地区"
+      "address": "安代地区",
+      "storeid": "hachimantai-ab5525",
+      "shopid": "hachimantai-ab5525-paypay"
     },
     {
       "name": "さいとう薬局（調剤薬品を除く）",
-      "address": "安代地区"
+      "address": "安代地区",
+      "storeid": "hachimantai-3c31d0",
+      "shopid": "hachimantai-3c31d0-paypay"
     },
     {
       "name": "新安比温泉 静流閣",
-      "address": "安代地区"
+      "address": "安代地区",
+      "storeid": "hachimantai-ed38d1",
+      "shopid": "hachimantai-ed38d1-paypay"
     },
     {
       "name": "羽沢耕悦商店",
-      "address": "安代地区"
+      "address": "安代地区",
+      "storeid": "hachimantai-0ee566",
+      "shopid": "hachimantai-0ee566-paypay"
     },
     {
       "name": "羽沢製菓",
-      "address": "安代地区"
+      "address": "安代地区",
+      "storeid": "hachimantai-88761e",
+      "shopid": "hachimantai-88761e-paypay"
     },
     {
       "name": "八光スタジオ",
-      "address": "安代地区"
+      "address": "安代地区",
+      "storeid": "hachimantai-4e5747",
+      "shopid": "hachimantai-4e5747-paypay"
     },
     {
       "name": "星降る山荘   七時雨山荘",
-      "address": "安代地区"
+      "address": "安代地区",
+      "storeid": "hachimantai-033200",
+      "shopid": "hachimantai-033200-paypay"
     },
     {
       "name": "みどり美容室",
-      "address": "安代地区"
+      "address": "安代地区",
+      "storeid": "hachimantai-168843",
+      "shopid": "hachimantai-168843-paypay"
     },
     {
       "name": "村上旅館",
-      "address": "安代地区"
+      "address": "安代地区",
+      "storeid": "hachimantai-9b6d2a",
+      "shopid": "hachimantai-9b6d2a-paypay"
     }
   ]
 }

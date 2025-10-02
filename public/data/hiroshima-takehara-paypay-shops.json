@@ -2,905 +2,1339 @@
   "下野町": [
     {
       "name": "浅井モータース",
-      "address": "下野町"
+      "address": "下野町",
+      "storeid": "takehara-47d7d5",
+      "shopid": "takehara-47d7d5-paypay"
     },
     {
       "name": "お好みハウスＢｏｎ－ｂｏｎ",
-      "address": "下野町"
+      "address": "下野町",
+      "storeid": "takehara-bd15db",
+      "shopid": "takehara-bd15db-paypay"
     },
     {
       "name": "髪処C's",
-      "address": "下野町"
+      "address": "下野町",
+      "storeid": "takehara-5b5aad",
+      "shopid": "takehara-5b5aad-paypay"
     },
     {
       "name": "竹の駅",
-      "address": "下野町"
+      "address": "下野町",
+      "storeid": "takehara-1aa4d1",
+      "shopid": "takehara-1aa4d1-paypay"
     },
     {
       "name": "竹原オート",
-      "address": "下野町"
+      "address": "下野町",
+      "storeid": "takehara-4409b8",
+      "shopid": "takehara-4409b8-paypay"
     },
     {
       "name": "竹原自動車",
-      "address": "下野町"
+      "address": "下野町",
+      "storeid": "takehara-52753e",
+      "shopid": "takehara-52753e-paypay"
     },
     {
       "name": "つぼみ助産院",
-      "address": "下野町"
+      "address": "下野町",
+      "storeid": "takehara-53fca4",
+      "shopid": "takehara-53fca4-paypay"
     },
     {
       "name": "手打ちさぬきうどん 長太",
-      "address": "下野町"
+      "address": "下野町",
+      "storeid": "takehara-43b76d",
+      "shopid": "takehara-43b76d-paypay"
     },
     {
       "name": "トータルサロンAnge",
-      "address": "下野町"
+      "address": "下野町",
+      "storeid": "takehara-e8fed4",
+      "shopid": "takehara-e8fed4-paypay"
     },
     {
       "name": "花工房  おだ",
-      "address": "下野町"
+      "address": "下野町",
+      "storeid": "takehara-a37962",
+      "shopid": "takehara-a37962-paypay"
     },
     {
       "name": "Bistro Shin",
-      "address": "下野町"
+      "address": "下野町",
+      "storeid": "takehara-df50f6",
+      "shopid": "takehara-df50f6-paypay"
     },
     {
       "name": "広島自動車販売株式会社（竹原サニー）",
-      "address": "下野町"
+      "address": "下野町",
+      "storeid": "takehara-addaef",
+      "shopid": "takehara-addaef-paypay"
     },
     {
       "name": "台湾料理  福吉順  竹原店",
-      "address": "下野町"
+      "address": "下野町",
+      "storeid": "takehara-93e5f1",
+      "shopid": "takehara-93e5f1-paypay"
     },
     {
       "name": "ブルーム",
-      "address": "下野町"
+      "address": "下野町",
+      "storeid": "takehara-55aab0",
+      "shopid": "takehara-55aab0-paypay"
     },
     {
       "name": "ぽれぽれ工房",
-      "address": "下野町"
+      "address": "下野町",
+      "storeid": "takehara-99323e",
+      "shopid": "takehara-99323e-paypay"
     },
     {
       "name": "マツダオートザム竹原",
-      "address": "下野町"
+      "address": "下野町",
+      "storeid": "takehara-04e6d6",
+      "shopid": "takehara-04e6d6-paypay"
     },
     {
       "name": "丸菱自動車株式会社",
-      "address": "下野町"
+      "address": "下野町",
+      "storeid": "takehara-49b3b0",
+      "shopid": "takehara-49b3b0-paypay"
     },
     {
       "name": "むぎたこ",
-      "address": "下野町"
+      "address": "下野町",
+      "storeid": "takehara-e88389",
+      "shopid": "takehara-e88389-paypay"
     }
   ],
   "中央": [
     {
       "name": "Aivy",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-e52f7d",
+      "shopid": "takehara-e52f7d-paypay"
     },
     {
       "name": "赤坂屋クリーニング  藤三店",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-0aa668",
+      "shopid": "takehara-0aa668-paypay"
     },
     {
       "name": "Hanashu",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-762386",
+      "shopid": "takehara-762386-paypay"
     },
     {
       "name": "阿波村商店",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-65494b",
+      "shopid": "takehara-65494b-paypay"
     },
     {
       "name": "あんこ路地",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-29e55b",
+      "shopid": "takehara-29e55b-paypay"
     },
     {
       "name": "磯っ子",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-bb826a",
+      "shopid": "takehara-bb826a-paypay"
     },
     {
       "name": "いなばオートサイクル",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-48e7b1",
+      "shopid": "takehara-48e7b1-paypay"
     },
     {
       "name": "April",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-8e45fd",
+      "shopid": "takehara-8e45fd-paypay"
     },
     {
       "name": "M",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-828c07",
+      "shopid": "takehara-828c07-paypay"
     },
     {
       "name": "尾野精肉店",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-fa9f62",
+      "shopid": "takehara-fa9f62-paypay"
     },
     {
       "name": "オバラデンキ",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-8938e9",
+      "shopid": "takehara-8938e9-paypay"
     },
     {
       "name": "おもちゃの城きり屋",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-b1cbd4",
+      "shopid": "takehara-b1cbd4-paypay"
     },
     {
       "name": "オリオン",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-d87342",
+      "shopid": "takehara-d87342-paypay"
     },
     {
       "name": "菓子工房モンシェリ",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-085857",
+      "shopid": "takehara-085857-paypay"
     },
     {
       "name": "片山寝装",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-3f5aae",
+      "shopid": "takehara-3f5aae-paypay"
     },
     {
       "name": "がんこ寿司",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-487a2d",
+      "shopid": "takehara-487a2d-paypay"
     },
     {
       "name": "漢香堂",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-a3b827",
+      "shopid": "takehara-a3b827-paypay"
     },
     {
       "name": "神田薬局",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-7bf697",
+      "shopid": "takehara-7bf697-paypay"
     },
     {
       "name": "キッチン＆カフェ GUU",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-a5ce77",
+      "shopid": "takehara-a5ce77-paypay"
     },
     {
       "name": "空ＯＫＯＮＯＭＩＹＡＫＩ",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-f1fec1",
+      "shopid": "takehara-f1fec1-paypay"
     },
     {
       "name": "klaus",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-5f221e",
+      "shopid": "takehara-5f221e-paypay"
     },
     {
       "name": "グリーンスカイホテル竹原",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-e53092",
+      "shopid": "takehara-e53092-paypay"
     },
     {
       "name": "珈琲専門店 巴里",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-16f53b",
+      "shopid": "takehara-16f53b-paypay"
     },
     {
       "name": "コガワ商店",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-eb1f20",
+      "shopid": "takehara-eb1f20-paypay"
     },
     {
       "name": "cosmetic Laran",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-eea642",
+      "shopid": "takehara-eea642-paypay"
     },
     {
       "name": "CycleShop T-BOX",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-23675c",
+      "shopid": "takehara-23675c-paypay"
     },
     {
       "name": "サラダ館  竹原中央店",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-cd954c",
+      "shopid": "takehara-cd954c-paypay"
     },
     {
       "name": "出張整体YUNO",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-0255c2",
+      "shopid": "takehara-0255c2-paypay"
     },
     {
       "name": "将軍",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-46205b",
+      "shopid": "takehara-46205b-paypay"
     },
     {
       "name": "御菓子処  末広堂",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-a34af2",
+      "shopid": "takehara-a34af2-paypay"
     },
     {
       "name": "スタンディングSAKEバー  Climat",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-9c7647",
+      "shopid": "takehara-9c7647-paypay"
     },
     {
       "name": "スナックシルク",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-b32121",
+      "shopid": "takehara-b32121-paypay"
     },
     {
       "name": "スナック  凛",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-8b08b5",
+      "shopid": "takehara-8b08b5-paypay"
     },
     {
       "name": "SOLFIL",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-8fc10d",
+      "shopid": "takehara-8fc10d-paypay"
     },
     {
       "name": "台湾ダイニングカフェ行天",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-596dba",
+      "shopid": "takehara-596dba-paypay"
     },
     {
       "name": "タケシタ理容",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-ad84d8",
+      "shopid": "takehara-ad84d8-paypay"
     },
     {
       "name": "竹原駅前商店街振興組合",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-724229",
+      "shopid": "takehara-724229-paypay"
     },
     {
       "name": "竹原シティホテル",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-c896d2",
+      "shopid": "takehara-c896d2-paypay"
     },
     {
       "name": "竹原自動車学校",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-de094e",
+      "shopid": "takehara-de094e-paypay"
     },
     {
       "name": "竹原生協",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-133120",
+      "shopid": "takehara-133120-paypay"
     },
     {
       "name": "畳屋もりした",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-f796d7",
+      "shopid": "takehara-f796d7-paypay"
     },
     {
       "name": "兆治",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-e7d3d2",
+      "shopid": "takehara-e7d3d2-paypay"
     },
     {
       "name": "てっぱんやき  千代",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-1496e5",
+      "shopid": "takehara-1496e5-paypay"
     },
     {
       "name": "てんじんやま",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-ca440d",
+      "shopid": "takehara-ca440d-paypay"
     },
     {
       "name": "Trattoria M",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-5d6a56",
+      "shopid": "takehara-5d6a56-paypay"
     },
     {
       "name": "なかの洋装店",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-e317ce",
+      "shopid": "takehara-e317ce-paypay"
     },
     {
       "name": "Na-chan",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-58a105",
+      "shopid": "takehara-58a105-paypay"
     },
     {
       "name": 753,
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-330726",
+      "shopid": "takehara-330726-paypay"
     },
     {
       "name": "NatsumiKawasaki",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-05ac90",
+      "shopid": "takehara-05ac90-paypay"
     },
     {
       "name": "NOEVIR Suino Rosa",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-0045bf",
+      "shopid": "takehara-0045bf-paypay"
     },
     {
       "name": "呑食処竹とり家",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-c3008b",
+      "shopid": "takehara-c3008b-paypay"
     },
     {
       "name": "パソコンドック24  竹原店",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-8034f5",
+      "shopid": "takehara-8034f5-paypay"
     },
     {
       "name": "はちこう",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-2dca77",
+      "shopid": "takehara-2dca77-paypay"
     },
     {
       "name": "ハッピー",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-282c8c",
+      "shopid": "takehara-282c8c-paypay"
     },
     {
       "name": "樋口かばん店",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-2713f3",
+      "shopid": "takehara-2713f3-paypay"
     },
     {
       "name": "日の丸カメラサービスセンター",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-a01eda",
+      "shopid": "takehara-a01eda-paypay"
     },
     {
       "name": "卑弥呼",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-2edd72",
+      "shopid": "takehara-2edd72-paypay"
     },
     {
       "name": "BEAUTY BASE Sano",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-c0450c",
+      "shopid": "takehara-c0450c-paypay"
     },
     {
       "name": "ファルコン",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-74db04",
+      "shopid": "takehara-74db04-paypay"
     },
     {
       "name": "藤川理容室",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-44ae64",
+      "shopid": "takehara-44ae64-paypay"
     },
     {
       "name": "小料理  伏見",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-90b773",
+      "shopid": "takehara-90b773-paypay"
     },
     {
       "name": "ブックメイトかめお",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-05cd39",
+      "shopid": "takehara-05cd39-paypay"
     },
     {
       "name": "ペットサロン  ベル",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-e9c04e",
+      "shopid": "takehara-e9c04e-paypay"
     },
     {
       "name": "前川酒店",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-1f7e7e",
+      "shopid": "takehara-1f7e7e-paypay"
     },
     {
       "name": "誠家",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-c217eb",
+      "shopid": "takehara-c217eb-paypay"
     },
     {
       "name": "マスコット写真館",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-22b1ba",
+      "shopid": "takehara-22b1ba-paypay"
     },
     {
       "name": "焼肉  みっちゃん",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-e5c50e",
+      "shopid": "takehara-e5c50e-paypay"
     },
     {
       "name": "洋菓子工房フレシュール",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-86ed3b",
+      "shopid": "takehara-86ed3b-paypay"
     },
     {
       "name": "吉井理容室",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-430e6f",
+      "shopid": "takehara-430e6f-paypay"
     },
     {
       "name": "吉本ガス産業",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-41d499",
+      "shopid": "takehara-41d499-paypay"
     },
     {
       "name": "ワインバー Ｌａ ｐａｓｓｉｏｎ",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-c0a05d",
+      "shopid": "takehara-c0a05d-paypay"
     },
     {
       "name": "リヴィングフェア川口",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-1c8d21",
+      "shopid": "takehara-1c8d21-paypay"
     },
     {
       "name": "LUCO美容室",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-17354c",
+      "shopid": "takehara-17354c-paypay"
     },
     {
       "name": "ローズカメラ店",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-268c32",
+      "shopid": "takehara-268c32-paypay"
     },
     {
       "name": "Xin Chao Quan",
-      "address": "中央"
+      "address": "中央",
+      "storeid": "takehara-7ed229",
+      "shopid": "takehara-7ed229-paypay"
     }
   ],
   "仁賀町": [
     {
       "name": "スペース  アンソロジー",
-      "address": "仁賀町"
+      "address": "仁賀町",
+      "storeid": "takehara-749b5a",
+      "shopid": "takehara-749b5a-paypay"
     }
   ],
   "吉名町": [
     {
       "name": "いちかわ菓子舗  本店",
-      "address": "吉名町"
+      "address": "吉名町",
+      "storeid": "takehara-03ce4c",
+      "shopid": "takehara-03ce4c-paypay"
     },
     {
       "name": "いもしん志×しんし珈琲焙煎所",
-      "address": "吉名町"
+      "address": "吉名町",
+      "storeid": "takehara-03a4f0",
+      "shopid": "takehara-03a4f0-paypay"
     },
     {
       "name": "CAPRI Coffee  Beans",
-      "address": "吉名町"
+      "address": "吉名町",
+      "storeid": "takehara-cfc42d",
+      "shopid": "takehara-cfc42d-paypay"
     },
     {
       "name": "くるま屋ＪＳ",
-      "address": "吉名町"
+      "address": "吉名町",
+      "storeid": "takehara-8b11cc",
+      "shopid": "takehara-8b11cc-paypay"
     },
     {
       "name": "翔愛めだか 竹原店",
-      "address": "吉名町"
+      "address": "吉名町",
+      "storeid": "takehara-198a75",
+      "shopid": "takehara-198a75-paypay"
     },
     {
       "name": "ちゃっか",
-      "address": "吉名町"
+      "address": "吉名町",
+      "storeid": "takehara-2278da",
+      "shopid": "takehara-2278da-paypay"
     },
     {
       "name": "ナントー自動車",
-      "address": "吉名町"
+      "address": "吉名町",
+      "storeid": "takehara-624859",
+      "shopid": "takehara-624859-paypay"
     },
     {
       "name": "西村薬品",
-      "address": "吉名町"
+      "address": "吉名町",
+      "storeid": "takehara-c81f67",
+      "shopid": "takehara-c81f67-paypay"
     },
     {
       "name": "農家レストラン西野",
-      "address": "吉名町"
+      "address": "吉名町",
+      "storeid": "takehara-5803d5",
+      "shopid": "takehara-5803d5-paypay"
     },
     {
       "name": "バーベキューハウス宗越",
-      "address": "吉名町"
+      "address": "吉名町",
+      "storeid": "takehara-a276e0",
+      "shopid": "takehara-a276e0-paypay"
     },
     {
       "name": "Hamburger&tacorice o2",
-      "address": "吉名町"
+      "address": "吉名町",
+      "storeid": "takehara-e9b2c4",
+      "shopid": "takehara-e9b2c4-paypay"
     },
     {
       "name": "PIZZA EN",
-      "address": "吉名町"
+      "address": "吉名町",
+      "storeid": "takehara-797298",
+      "shopid": "takehara-797298-paypay"
     },
     {
       "name": "益吉呉服店",
-      "address": "吉名町"
+      "address": "吉名町",
+      "storeid": "takehara-ede54c",
+      "shopid": "takehara-ede54c-paypay"
     },
     {
       "name": "眞鍋モータース",
-      "address": "吉名町"
+      "address": "吉名町",
+      "storeid": "takehara-3bfa2f",
+      "shopid": "takehara-3bfa2f-paypay"
     },
     {
       "name": "吉田商店",
-      "address": "吉名町"
+      "address": "吉名町",
+      "storeid": "takehara-f6a1c6",
+      "shopid": "takehara-f6a1c6-paypay"
     },
     {
       "name": "吉名交通",
-      "address": "吉名町"
+      "address": "吉名町",
+      "storeid": "takehara-05a1e6",
+      "shopid": "takehara-05a1e6-paypay"
     }
   ],
   "塩町": [
     {
       "name": "竹原生協  構内店",
-      "address": "塩町"
+      "address": "塩町",
+      "storeid": "takehara-d3253b",
+      "shopid": "takehara-d3253b-paypay"
     }
   ],
   "小梨町": [
     {
       "name": "ペットメモリー虹の橋",
-      "address": "小梨町"
+      "address": "小梨町",
+      "storeid": "takehara-0eeb19",
+      "shopid": "takehara-0eeb19-paypay"
     }
   ],
   "忠海中町": [
     {
       "name": "アヲハタジャムデッキ",
-      "address": "忠海中町"
+      "address": "忠海中町",
+      "storeid": "takehara-e5a3f8",
+      "shopid": "takehara-e5a3f8-paypay"
     },
     {
       "name": "朝比奈屋",
-      "address": "忠海中町"
+      "address": "忠海中町",
+      "storeid": "takehara-984c27",
+      "shopid": "takehara-984c27-paypay"
     },
     {
       "name": "味処日之出",
-      "address": "忠海中町"
+      "address": "忠海中町",
+      "storeid": "takehara-376094",
+      "shopid": "takehara-376094-paypay"
     },
     {
       "name": "今市玉吉商事",
-      "address": "忠海中町"
+      "address": "忠海中町",
+      "storeid": "takehara-46b432",
+      "shopid": "takehara-46b432-paypay"
     },
     {
       "name": "生田電器",
-      "address": "忠海中町"
+      "address": "忠海中町",
+      "storeid": "takehara-5f9f89",
+      "shopid": "takehara-5f9f89-paypay"
     },
     {
       "name": "カフェ&雑貨ル＊ラパン",
-      "address": "忠海中町"
+      "address": "忠海中町",
+      "storeid": "takehara-c36b57",
+      "shopid": "takehara-c36b57-paypay"
     },
     {
       "name": "kitchenあかり",
-      "address": "忠海中町"
+      "address": "忠海中町",
+      "storeid": "takehara-8d4ae4",
+      "shopid": "takehara-8d4ae4-paypay"
     },
     {
       "name": "城本理容院",
-      "address": "忠海中町"
+      "address": "忠海中町",
+      "storeid": "takehara-c0c2e7",
+      "shopid": "takehara-c0c2e7-paypay"
     },
     {
       "name": "スーパーマミー",
-      "address": "忠海中町"
+      "address": "忠海中町",
+      "storeid": "takehara-4ef12b",
+      "shopid": "takehara-4ef12b-paypay"
     },
     {
       "name": "田原商店",
-      "address": "忠海中町"
+      "address": "忠海中町",
+      "storeid": "takehara-4d2974",
+      "shopid": "takehara-4d2974-paypay"
     },
     {
       "name": "樋口電機",
-      "address": "忠海中町"
+      "address": "忠海中町",
+      "storeid": "takehara-d27c7e",
+      "shopid": "takehara-d27c7e-paypay"
     },
     {
       "name": "ファミリーひらた",
-      "address": "忠海中町"
+      "address": "忠海中町",
+      "storeid": "takehara-c3de54",
+      "shopid": "takehara-c3de54-paypay"
     },
     {
       "name": "恵みパン工房RyuRyu",
-      "address": "忠海中町"
+      "address": "忠海中町",
+      "storeid": "takehara-cd473e",
+      "shopid": "takehara-cd473e-paypay"
     },
     {
       "name": "夜船モータース",
-      "address": "忠海中町"
+      "address": "忠海中町",
+      "storeid": "takehara-2e3da4",
+      "shopid": "takehara-2e3da4-paypay"
     },
     {
       "name": "脇本食料品店",
-      "address": "忠海中町"
+      "address": "忠海中町",
+      "storeid": "takehara-7d4498",
+      "shopid": "takehara-7d4498-paypay"
     }
   ],
   "忠海長浜": [
     {
       "name": "R185／aicafe",
-      "address": "忠海長浜"
+      "address": "忠海長浜",
+      "storeid": "takehara-aa0d30",
+      "shopid": "takehara-aa0d30-paypay"
     },
     {
       "name": "お好み喫茶  エデン",
-      "address": "忠海長浜"
+      "address": "忠海長浜",
+      "storeid": "takehara-3e98d5",
+      "shopid": "takehara-3e98d5-paypay"
     },
     {
       "name": "CAFE HOXTON",
-      "address": "忠海長浜"
+      "address": "忠海長浜",
+      "storeid": "takehara-ce30dd",
+      "shopid": "takehara-ce30dd-paypay"
     },
     {
       "name": "川端旅館",
-      "address": "忠海長浜"
+      "address": "忠海長浜",
+      "storeid": "takehara-336bd9",
+      "shopid": "takehara-336bd9-paypay"
     },
     {
       "name": "Tabist",
-      "address": "忠海長浜"
+      "address": "忠海長浜",
+      "storeid": "takehara-6f8c88",
+      "shopid": "takehara-6f8c88-paypay"
     },
     {
       "name": "ビューティーカーアラキ",
-      "address": "忠海長浜"
+      "address": "忠海長浜",
+      "storeid": "takehara-08d425",
+      "shopid": "takehara-08d425-paypay"
     }
   ],
   "新庄町": [
     {
       "name": "Creative Base e-f forest",
-      "address": "新庄町"
+      "address": "新庄町",
+      "storeid": "takehara-f14414",
+      "shopid": "takehara-f14414-paypay"
     },
     {
       "name": "おおはら",
-      "address": "新庄町"
+      "address": "新庄町",
+      "storeid": "takehara-2859ff",
+      "shopid": "takehara-2859ff-paypay"
     },
     {
       "name": "永岡理容院",
-      "address": "新庄町"
+      "address": "新庄町",
+      "storeid": "takehara-910d2a",
+      "shopid": "takehara-910d2a-paypay"
     }
   ],
   "本町": [
     {
       "name": "赤坂屋クリーニング  本店",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-1b1a9e",
+      "shopid": "takehara-1b1a9e-paypay"
     },
     {
       "name": "AKKANBE-origamifactory",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-c7b8a2",
+      "shopid": "takehara-c7b8a2-paypay"
     },
     {
       "name": "いちかわ菓子舗  掛町店",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-926583",
+      "shopid": "takehara-926583-paypay"
     },
     {
       "name": "江戸そば遊山",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-84798b",
+      "shopid": "takehara-84798b-paypay"
     },
     {
       "name": "お好み焼きほり川",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-93c358",
+      "shopid": "takehara-93c358-paypay"
     },
     {
       "name": "オジゾークリエイト",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-0fba8f",
+      "shopid": "takehara-0fba8f-paypay"
     },
     {
       "name": "cafe 青",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-f8e2af",
+      "shopid": "takehara-f8e2af-paypay"
     },
     {
       "name": "cafe 根古屋",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-368563",
+      "shopid": "takehara-368563-paypay"
     },
     {
       "name": "Cafe Like a trip",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-d71fb8",
+      "shopid": "takehara-d71fb8-paypay"
     },
     {
       "name": "ぎゃらりい梅谷",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-f2cbdc",
+      "shopid": "takehara-f2cbdc-paypay"
     },
     {
       "name": "喜楽軒",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-f16de8",
+      "shopid": "takehara-f16de8-paypay"
     },
     {
       "name": "酒蔵そば処たにざき",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-297ddd",
+      "shopid": "takehara-297ddd-paypay"
     },
     {
       "name": "sumicco",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-70df51",
+      "shopid": "takehara-70df51-paypay"
     },
     {
       "name": "竹すずめ",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-7b8855",
+      "shopid": "takehara-7b8855-paypay"
     },
     {
       "name": "竹鶴酒造",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-c6fd5f",
+      "shopid": "takehara-c6fd5f-paypay"
     },
     {
       "name": "竹の茶屋いっぷく",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-fe957e",
+      "shopid": "takehara-fe957e-paypay"
     },
     {
       "name": "TAKENOWA風",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-bb52f7",
+      "shopid": "takehara-bb52f7-paypay"
     },
     {
       "name": "竹原園芸店",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-c5ef6e",
+      "shopid": "takehara-c5ef6e-paypay"
     },
     {
       "name": "たけはら 凪町商店",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-bb790c",
+      "shopid": "takehara-bb790c-paypay"
     },
     {
       "name": "竹原まちなみ竹工房",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-bf6ffe",
+      "shopid": "takehara-bf6ffe-paypay"
     },
     {
       "name": "竹楽",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-a307f5",
+      "shopid": "takehara-a307f5-paypay"
     },
     {
       "name": "陶工房 風土",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-47d430",
+      "shopid": "takehara-47d430-paypay"
     },
     {
       "name": "花みづき",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-e89f81",
+      "shopid": "takehara-e89f81-paypay"
     },
     {
       "name": "pilates studio schulung",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-761bed",
+      "shopid": "takehara-761bed-paypay"
     },
     {
       "name": "藤井酒造",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-07cd51",
+      "shopid": "takehara-07cd51-paypay"
     },
     {
       "name": "ヘアーサロン ニシヤマ",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-79587f",
+      "shopid": "takehara-79587f-paypay"
     },
     {
       "name": "道の駅たけはら",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-5d2de4",
+      "shopid": "takehara-5d2de4-paypay"
     },
     {
       "name": "村上ベーカリー",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-db39ba",
+      "shopid": "takehara-db39ba-paypay"
     },
     {
       "name": "吉野酒店",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-618b08",
+      "shopid": "takehara-618b08-paypay"
     },
     {
       "name": "レストランアップルミント",
-      "address": "本町"
+      "address": "本町",
+      "storeid": "takehara-5c0491",
+      "shopid": "takehara-5c0491-paypay"
     }
   ],
   "東野町": [
     {
       "name": "カンティーヌ  パリジェンヌ",
-      "address": "東野町"
+      "address": "東野町",
+      "storeid": "takehara-c1c7f7",
+      "shopid": "takehara-c1c7f7-paypay"
     }
   ],
   "港町": [
     {
       "name": "安芸灘急行電鉄",
-      "address": "港町"
+      "address": "港町",
+      "storeid": "takehara-c6a8bd",
+      "shopid": "takehara-c6a8bd-paypay"
     },
     {
       "name": "朝比奈屋玄米倉庫",
-      "address": "港町"
+      "address": "港町",
+      "storeid": "takehara-e28758",
+      "shopid": "takehara-e28758-paypay"
     },
     {
       "name": "CAFE-BY-THE-SEA",
-      "address": "港町"
+      "address": "港町",
+      "storeid": "takehara-a23d0a",
+      "shopid": "takehara-a23d0a-paypay"
     },
     {
       "name": "伸和自動車",
-      "address": "港町"
+      "address": "港町",
+      "storeid": "takehara-d1b663",
+      "shopid": "takehara-d1b663-paypay"
     },
     {
       "name": "峠下畜産流通センター",
-      "address": "港町"
+      "address": "港町",
+      "storeid": "takehara-4c1c76",
+      "shopid": "takehara-4c1c76-paypay"
     },
     {
       "name": "たけはら海の駅",
-      "address": "港町"
+      "address": "港町",
+      "storeid": "takehara-172e3b",
+      "shopid": "takehara-172e3b-paypay"
     },
     {
       "name": "丹下魚店",
-      "address": "港町"
+      "address": "港町",
+      "storeid": "takehara-f9dc74",
+      "shopid": "takehara-f9dc74-paypay"
     },
     {
       "name": "美食酒家とん吉",
-      "address": "港町"
+      "address": "港町",
+      "storeid": "takehara-062db5",
+      "shopid": "takehara-062db5-paypay"
     },
     {
       "name": "日向釣具センター",
-      "address": "港町"
+      "address": "港町",
+      "storeid": "takehara-3f6da5",
+      "shopid": "takehara-3f6da5-paypay"
     },
     {
       "name": "beauty salon さくら",
-      "address": "港町"
+      "address": "港町",
+      "storeid": "takehara-250eb0",
+      "shopid": "takehara-250eb0-paypay"
     }
   ],
   "田ノ浦": [
     {
       "name": "竹原ボディーショップ",
-      "address": "田ノ浦"
+      "address": "田ノ浦",
+      "storeid": "takehara-a4529f",
+      "shopid": "takehara-a4529f-paypay"
     },
     {
       "name": "ドッグサロン プティべべ",
-      "address": "田ノ浦"
+      "address": "田ノ浦",
+      "storeid": "takehara-96fe08",
+      "shopid": "takehara-96fe08-paypay"
     },
     {
       "name": "ハマダ理容室",
-      "address": "田ノ浦"
+      "address": "田ノ浦",
+      "storeid": "takehara-d468ef",
+      "shopid": "takehara-d468ef-paypay"
     },
     {
       "name": "Lemon Cake",
-      "address": "田ノ浦"
+      "address": "田ノ浦",
+      "storeid": "takehara-e3646a",
+      "shopid": "takehara-e3646a-paypay"
     }
   ],
   "田万里町": [
     {
       "name": "TAMARIYA RICE DONUT ＆ FARM STAY",
-      "address": "田万里町"
+      "address": "田万里町",
+      "storeid": "takehara-5c315b",
+      "shopid": "takehara-5c315b-paypay"
     },
     {
       "name": "田万里家",
-      "address": "田万里町"
+      "address": "田万里町",
+      "storeid": "takehara-7b35a8",
+      "shopid": "takehara-7b35a8-paypay"
     }
   ],
   "福田町": [
     {
       "name": "一誠園",
-      "address": "福田町"
+      "address": "福田町",
+      "storeid": "takehara-cb2ab9",
+      "shopid": "takehara-cb2ab9-paypay"
     },
     {
       "name": "部谷岡モータース",
-      "address": "福田町"
+      "address": "福田町",
+      "storeid": "takehara-905077",
+      "shopid": "takehara-905077-paypay"
     }
   ],
   "竹原町": [
     {
       "name": "沖本気功整体院",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-b97e1a",
+      "shopid": "takehara-b97e1a-paypay"
     },
     {
       "name": "金沢タイヤ商会",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-b58336",
+      "shopid": "takehara-b58336-paypay"
     },
     {
       "name": "神田精果園",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-11ad6a",
+      "shopid": "takehara-11ad6a-paypay"
     },
     {
       "name": "きまぐれ",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-c0a5b3",
+      "shopid": "takehara-c0a5b3-paypay"
     },
     {
       "name": "隠れ堂本舗",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-8cc012",
+      "shopid": "takehara-8cc012-paypay"
     },
     {
       "name": "珈琲館  かぶ",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-e6748a",
+      "shopid": "takehara-e6748a-paypay"
     },
     {
       "name": "貞森ぶどう光園",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-91d3f8",
+      "shopid": "takehara-91d3f8-paypay"
     },
     {
       "name": "シュリークスHAIR",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-5bfe90",
+      "shopid": "takehara-5bfe90-paypay"
     },
     {
       "name": "セイワ",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-67145c",
+      "shopid": "takehara-67145c-paypay"
     },
     {
       "name": "ダイニングカフェbranch",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-a4e2f1",
+      "shopid": "takehara-a4e2f1-paypay"
     },
     {
       "name": "竹原スバル自動車",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-b3b131",
+      "shopid": "takehara-b3b131-paypay"
     },
     {
       "name": "たけはらパドルスポーツ協会",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-87057a",
+      "shopid": "takehara-87057a-paypay"
     },
     {
       "name": "竹原メディカル整体院",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-7fd7b0",
+      "shopid": "takehara-7fd7b0-paypay"
     },
     {
       "name": "total beauty salon e-f",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-b05bbc",
+      "shopid": "takehara-b05bbc-paypay"
     },
     {
       "name": "Babaco.fruits",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-ad8976",
+      "shopid": "takehara-ad8976-paypay"
     },
     {
       "name": "バンブーツアー",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-ca1747",
+      "shopid": "takehara-ca1747-paypay"
     },
     {
       "name": "フロービス",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-8d6b89",
+      "shopid": "takehara-8d6b89-paypay"
     },
     {
       "name": "ヘアーサロンタカハシ",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-83c8d8",
+      "shopid": "takehara-83c8d8-paypay"
     },
     {
       "name": "ホテル大広苑",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-3e342d",
+      "shopid": "takehara-3e342d-paypay"
     },
     {
       "name": "Honda cars竹原",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-1b174c",
+      "shopid": "takehara-1b174c-paypay"
     },
     {
       "name": "morinomi salon",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-3198c8",
+      "shopid": "takehara-3198c8-paypay"
     },
     {
       "name": "ユニセックスサロン・メリー",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-0dc8ec",
+      "shopid": "takehara-0dc8ec-paypay"
     },
     {
       "name": "ラシェーナ  竹原店",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-47330a",
+      "shopid": "takehara-47330a-paypay"
     },
     {
       "name": "吉本ガス産業",
-      "address": "竹原町"
+      "address": "竹原町",
+      "storeid": "takehara-f8c233",
+      "shopid": "takehara-f8c233-paypay"
     }
   ],
   "西野町": [
     {
       "name": "キャッチオートライフ",
-      "address": "西野町"
+      "address": "西野町",
+      "storeid": "takehara-05bd65",
+      "shopid": "takehara-05bd65-paypay"
     },
     {
       "name": "ニュープロダクト",
-      "address": "西野町"
+      "address": "西野町",
+      "storeid": "takehara-2e2c7e",
+      "shopid": "takehara-2e2c7e-paypay"
     }
   ],
   "高崎町": [
     {
       "name": "ぱくぱく",
-      "address": "高崎町"
+      "address": "高崎町",
+      "storeid": "takehara-d370a2",
+      "shopid": "takehara-d370a2-paypay"
     },
     {
       "name": "バンブー総合公園  キッチンカー",
-      "address": "高崎町"
+      "address": "高崎町",
+      "storeid": "takehara-948af3",
+      "shopid": "takehara-948af3-paypay"
     },
     {
       "name": "堀越自動車",
-      "address": "高崎町"
+      "address": "高崎町",
+      "storeid": "takehara-1e8beb",
+      "shopid": "takehara-1e8beb-paypay"
     },
     {
       "name": "民宿ぱくぱく",
-      "address": "高崎町"
+      "address": "高崎町",
+      "storeid": "takehara-4c6013",
+      "shopid": "takehara-4c6013-paypay"
     },
     {
       "name": "もとくぼ自動車工房",
-      "address": "高崎町"
+      "address": "高崎町",
+      "storeid": "takehara-aceae4",
+      "shopid": "takehara-aceae4-paypay"
     },
     {
       "name": "MOMOKICHI  庵",
-      "address": "高崎町"
+      "address": "高崎町",
+      "storeid": "takehara-b55146",
+      "shopid": "takehara-b55146-paypay"
     }
   ]
 }

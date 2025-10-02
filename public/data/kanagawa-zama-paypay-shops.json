@@ -2,1697 +2,2541 @@
   "その他": [
     {
       "name": "読売センターさがみ野",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-523489",
+      "shopid": "zama-523489-paypay"
     },
     {
       "name": "リカーランドトップ 座間店",
-      "address": "ひばりが丘1丁目"
+      "address": "ひばりが丘1丁目",
+      "storeid": "zama-74cf18",
+      "shopid": "zama-74cf18-paypay"
     },
     {
       "name": "studioCoRe ハンドメイド",
-      "address": "ひばりが丘2丁目"
+      "address": "ひばりが丘2丁目",
+      "storeid": "zama-0e9cb6",
+      "shopid": "zama-0e9cb6-paypay"
     },
     {
       "name": "NAKAHARA映像舎",
-      "address": "ひばりが丘3丁目"
+      "address": "ひばりが丘3丁目",
+      "storeid": "zama-8e074f",
+      "shopid": "zama-8e074f-paypay"
     },
     {
       "name": "エステ・スクエアさがみ野団地管理組合",
-      "address": "ひばりが丘3丁目"
+      "address": "ひばりが丘3丁目",
+      "storeid": "zama-6c2bb5",
+      "shopid": "zama-6c2bb5-paypay"
     },
     {
       "name": "澤動物病院",
-      "address": "栗原中央1丁目"
+      "address": "栗原中央1丁目",
+      "storeid": "zama-fd1156",
+      "shopid": "zama-fd1156-paypay"
     },
     {
       "name": "archive",
-      "address": "広野台1丁目"
+      "address": "広野台1丁目",
+      "storeid": "zama-c2b5c6",
+      "shopid": "zama-c2b5c6-paypay"
     },
     {
       "name": "R-FIX 座間店",
-      "address": "広野台1丁目"
+      "address": "広野台1丁目",
+      "storeid": "zama-48a252",
+      "shopid": "zama-48a252-paypay"
     },
     {
       "name": "野天湯元 湯快爽快 ざま",
-      "address": "広野台1丁目"
+      "address": "広野台1丁目",
+      "storeid": "zama-a9c8da",
+      "shopid": "zama-a9c8da-paypay"
     },
     {
       "name": "タイタッチ座間店",
-      "address": "座間1丁目"
+      "address": "座間1丁目",
+      "storeid": "zama-dfe445",
+      "shopid": "zama-dfe445-paypay"
     },
     {
       "name": "アシスト24 神奈川座間店",
-      "address": "座間1丁目"
+      "address": "座間1丁目",
+      "storeid": "zama-fa0d7f",
+      "shopid": "zama-fa0d7f-paypay"
     },
     {
       "name": "ナチュラ動物病院",
-      "address": "座間2丁目"
+      "address": "座間2丁目",
+      "storeid": "zama-438ec2",
+      "shopid": "zama-438ec2-paypay"
     },
     {
       "name": "リウィンクス",
-      "address": "座間2丁目"
+      "address": "座間2丁目",
+      "storeid": "zama-7ebe18",
+      "shopid": "zama-7ebe18-paypay"
     },
     {
       "name": "カーエキスパート",
-      "address": "四ツ谷"
+      "address": "四ツ谷",
+      "storeid": "zama-33055a",
+      "shopid": "zama-33055a-paypay"
     },
     {
       "name": "TOTALREPAIR TAKEM",
-      "address": "四ツ谷"
+      "address": "四ツ谷",
+      "storeid": "zama-b8c1a1",
+      "shopid": "zama-b8c1a1-paypay"
     },
     {
       "name": "NPOさがみ 座間小松原荘",
-      "address": "小松原2丁目"
+      "address": "小松原2丁目",
+      "storeid": "zama-a0c5bb",
+      "shopid": "zama-a0c5bb-paypay"
     },
     {
       "name": "アーナンダ",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-3c934b",
+      "shopid": "zama-3c934b-paypay"
     },
     {
       "name": "アクアサービス 武村アクアサービス",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-063e87",
+      "shopid": "zama-063e87-paypay"
     },
     {
       "name": "正山工業",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-f14656",
+      "shopid": "zama-f14656-paypay"
     },
     {
       "name": "ガスペック 神奈川支店",
-      "address": "相武台2丁目"
+      "address": "相武台2丁目",
+      "storeid": "zama-2bb332",
+      "shopid": "zama-2bb332-paypay"
     },
     {
       "name": "かえるの棲",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-9e3e8b",
+      "shopid": "zama-9e3e8b-paypay"
     },
     {
       "name": "エコライフ館",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-30046d",
+      "shopid": "zama-30046d-paypay"
     },
     {
       "name": "Resolve",
-      "address": "相模が丘3丁目"
+      "address": "相模が丘3丁目",
+      "storeid": "zama-c91622",
+      "shopid": "zama-c91622-paypay"
     },
     {
       "name": "しずの湯 相模原",
-      "address": "相模が丘3丁目"
+      "address": "相模が丘3丁目",
+      "storeid": "zama-7bb29f",
+      "shopid": "zama-7bb29f-paypay"
     },
     {
       "name": "Tmile Gym",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-e06d3f",
+      "shopid": "zama-e06d3f-paypay"
     },
     {
       "name": "介護タクシー心",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-fb67f4",
+      "shopid": "zama-fb67f4-paypay"
     },
     {
       "name": "塗王.com",
-      "address": "東原1丁目"
+      "address": "東原1丁目",
+      "storeid": "zama-1683a1",
+      "shopid": "zama-1683a1-paypay"
     },
     {
       "name": "フジシン",
-      "address": "東原3丁目"
+      "address": "東原3丁目",
+      "storeid": "zama-7ee8f9",
+      "shopid": "zama-7ee8f9-paypay"
     },
     {
       "name": "モドーリー座間店",
-      "address": "東原4丁目"
+      "address": "東原4丁目",
+      "storeid": "zama-2bc2c2",
+      "shopid": "zama-2bc2c2-paypay"
     },
     {
       "name": "すずき動物病院",
-      "address": "南栗原4丁目"
+      "address": "南栗原4丁目",
+      "storeid": "zama-b69745",
+      "shopid": "zama-b69745-paypay"
     },
     {
       "name": "嵐の湯座間店",
-      "address": "入谷西2丁目"
+      "address": "入谷西2丁目",
+      "storeid": "zama-531bfb",
+      "shopid": "zama-531bfb-paypay"
     },
     {
       "name": "さとう動物病院",
-      "address": "入谷西4丁目"
+      "address": "入谷西4丁目",
+      "storeid": "zama-1af6f9",
+      "shopid": "zama-1af6f9-paypay"
     },
     {
       "name": "レンタルスペースいばしょ/カオカオれすきゅー",
-      "address": "入谷東3丁目"
+      "address": "入谷東3丁目",
+      "storeid": "zama-6d7a3f",
+      "shopid": "zama-6d7a3f-paypay"
     },
     {
       "name": "藤代工房 梅座敷",
-      "address": "入谷東4丁目"
+      "address": "入谷東4丁目",
+      "storeid": "zama-f266e3",
+      "shopid": "zama-f266e3-paypay"
     },
     {
       "name": "レンタルスペースいばしょ/カオカオれすきゅー",
-      "address": "入谷東4丁目"
+      "address": "入谷東4丁目",
+      "storeid": "zama-97ba3c",
+      "shopid": "zama-97ba3c-paypay"
     },
     {
       "name": "三寶天壽企画",
-      "address": "緑ケ丘2丁目"
+      "address": "緑ケ丘2丁目",
+      "storeid": "zama-94454c",
+      "shopid": "zama-94454c-paypay"
     }
   ],
   "サービス": [
     {
       "name": "ヘアーサロン ハマ",
-      "address": "さがみ野1丁目"
+      "address": "さがみ野1丁目",
+      "storeid": "zama-a680eb",
+      "shopid": "zama-a680eb-paypay"
     },
     {
       "name": "nicolii",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-196347",
+      "shopid": "zama-196347-paypay"
     },
     {
       "name": "揉みの樹",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-6e3289",
+      "shopid": "zama-6e3289-paypay"
     },
     {
       "name": "ビューティーライフさがみ野店",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-4e0fc0",
+      "shopid": "zama-4e0fc0-paypay"
     },
     {
       "name": "Hair&Spa ANZRIUM",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-705459",
+      "shopid": "zama-705459-paypay"
     },
     {
       "name": "フォトヤマザキ",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-040c23",
+      "shopid": "zama-040c23-paypay"
     },
     {
       "name": "リラクゼーションエステo2",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-aef36f",
+      "shopid": "zama-aef36f-paypay"
     },
     {
       "name": "みんなの整骨院",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-df185f",
+      "shopid": "zama-df185f-paypay"
     },
     {
       "name": "ペネロープ",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-765aef",
+      "shopid": "zama-765aef-paypay"
     },
     {
       "name": "ami e",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-8e159a",
+      "shopid": "zama-8e159a-paypay"
     },
     {
       "name": "美容室 cancan",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-8bbb16",
+      "shopid": "zama-8bbb16-paypay"
     },
     {
       "name": "Ashさがみ野店",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-489e1f",
+      "shopid": "zama-489e1f-paypay"
     },
     {
       "name": "K's BARBER SHOP",
-      "address": "ひばりが丘1丁目"
+      "address": "ひばりが丘1丁目",
+      "storeid": "zama-ae9321",
+      "shopid": "zama-ae9321-paypay"
     },
     {
       "name": "タイセイサービス",
-      "address": "ひばりが丘1丁目"
+      "address": "ひばりが丘1丁目",
+      "storeid": "zama-f29aef",
+      "shopid": "zama-f29aef-paypay"
     },
     {
       "name": "head healing 森のおと",
-      "address": "ひばりが丘1丁目"
+      "address": "ひばりが丘1丁目",
+      "storeid": "zama-3437ed",
+      "shopid": "zama-3437ed-paypay"
     },
     {
       "name": "フォトクリエーション コトノハ",
-      "address": "ひばりが丘1丁目"
+      "address": "ひばりが丘1丁目",
+      "storeid": "zama-5a5ab9",
+      "shopid": "zama-5a5ab9-paypay"
     },
     {
       "name": "花美〜HANABI〜",
-      "address": "ひばりが丘1丁目"
+      "address": "ひばりが丘1丁目",
+      "storeid": "zama-a68026",
+      "shopid": "zama-a68026-paypay"
     },
     {
       "name": "ワイ・テイ・ビイ カリスマ倶楽部 神奈川 YTB統轄サロン菊池",
-      "address": "ひばりが丘2丁目"
+      "address": "ひばりが丘2丁目",
+      "storeid": "zama-6b2568",
+      "shopid": "zama-6b2568-paypay"
     },
     {
       "name": "1&2",
-      "address": "ひばりが丘3丁目"
+      "address": "ひばりが丘3丁目",
+      "storeid": "zama-805a82",
+      "shopid": "zama-805a82-paypay"
     },
     {
       "name": "エージーパフォーミングアーツ",
-      "address": "ひばりが丘3丁目"
+      "address": "ひばりが丘3丁目",
+      "storeid": "zama-922db4",
+      "shopid": "zama-922db4-paypay"
     },
     {
       "name": "hair&beauty SOU",
-      "address": "ひばりが丘5丁目"
+      "address": "ひばりが丘5丁目",
+      "storeid": "zama-b1e245",
+      "shopid": "zama-b1e245-paypay"
     },
     {
       "name": "プロが教える津軽三味線教室",
-      "address": "ひばりが丘5丁目"
+      "address": "ひばりが丘5丁目",
+      "storeid": "zama-f0f193",
+      "shopid": "zama-f0f193-paypay"
     },
     {
       "name": "座間ゴルフ練習場",
-      "address": "栗原"
+      "address": "栗原",
+      "storeid": "zama-2bb47b",
+      "shopid": "zama-2bb47b-paypay"
     },
     {
       "name": "ヘアーサロンボン",
-      "address": "栗原中央2丁目"
+      "address": "栗原中央2丁目",
+      "storeid": "zama-10dcef",
+      "shopid": "zama-10dcef-paypay"
     },
     {
       "name": "トリミングサロンKONA",
-      "address": "栗原中央4丁目"
+      "address": "栗原中央4丁目",
+      "storeid": "zama-6bfeba",
+      "shopid": "zama-6bfeba-paypay"
     },
     {
       "name": "いんぺりある",
-      "address": "広野台1丁目"
+      "address": "広野台1丁目",
+      "storeid": "zama-28994a",
+      "shopid": "zama-28994a-paypay"
     },
     {
       "name": "CREA イオンモール座間店",
-      "address": "広野台2丁目"
+      "address": "広野台2丁目",
+      "storeid": "zama-5320ab",
+      "shopid": "zama-5320ab-paypay"
     },
     {
       "name": "ding-dongリトミック教室",
-      "address": "広野台2丁目"
+      "address": "広野台2丁目",
+      "storeid": "zama-a46b77",
+      "shopid": "zama-a46b77-paypay"
     },
     {
       "name": "nail cube イオンスタイル座間",
-      "address": "広野台2丁目"
+      "address": "広野台2丁目",
+      "storeid": "zama-7bd862",
+      "shopid": "zama-7bd862-paypay"
     },
     {
       "name": "WILD BEACH 座間",
-      "address": "広野台2丁目"
+      "address": "広野台2丁目",
+      "storeid": "zama-1b3a39",
+      "shopid": "zama-1b3a39-paypay"
     },
     {
       "name": "石見タクシー",
-      "address": "四ツ谷"
+      "address": "四ツ谷",
+      "storeid": "zama-382b92",
+      "shopid": "zama-382b92-paypay"
     },
     {
       "name": "秀和塗料",
-      "address": "小松原2丁目"
+      "address": "小松原2丁目",
+      "storeid": "zama-686849",
+      "shopid": "zama-686849-paypay"
     },
     {
       "name": "渡辺タクシー",
-      "address": "小松原2丁目"
+      "address": "小松原2丁目",
+      "storeid": "zama-420361",
+      "shopid": "zama-420361-paypay"
     },
     {
       "name": "プライベートサロンLOKAHI",
-      "address": "小松原2丁目"
+      "address": "小松原2丁目",
+      "storeid": "zama-2ef4de",
+      "shopid": "zama-2ef4de-paypay"
     },
     {
       "name": "eyelash salon TEE...",
-      "address": "新田宿"
+      "address": "新田宿",
+      "storeid": "zama-39b019",
+      "shopid": "zama-39b019-paypay"
     },
     {
       "name": "侑大",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-1eb882",
+      "shopid": "zama-1eb882-paypay"
     },
     {
       "name": "スタジオ フォト・デニーロ",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-deb79b",
+      "shopid": "zama-deb79b-paypay"
     },
     {
       "name": "ModePop 相武台店",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-190d84",
+      "shopid": "zama-190d84-paypay"
     },
     {
       "name": "CREA相武台前",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-7280a4",
+      "shopid": "zama-7280a4-paypay"
     },
     {
       "name": "Veena nails",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-fe33cb",
+      "shopid": "zama-fe33cb-paypay"
     },
     {
       "name": "ひろさわ",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-b622cd",
+      "shopid": "zama-b622cd-paypay"
     },
     {
       "name": "Amabile",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-cb1e90",
+      "shopid": "zama-cb1e90-paypay"
     },
     {
       "name": "落合写真館",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-77a688",
+      "shopid": "zama-77a688-paypay"
     },
     {
       "name": "ヘアリゾート a.soleil",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-50ea96",
+      "shopid": "zama-50ea96-paypay"
     },
     {
       "name": "アニスはりきゅう治療院",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-a7a5e9",
+      "shopid": "zama-a7a5e9-paypay"
     },
     {
       "name": "HAIR DESIGN ame",
-      "address": "相武台2丁目"
+      "address": "相武台2丁目",
+      "storeid": "zama-7623c0",
+      "shopid": "zama-7623c0-paypay"
     },
     {
       "name": "kie and spa hair",
-      "address": "相武台2丁目"
+      "address": "相武台2丁目",
+      "storeid": "zama-d9fe23",
+      "shopid": "zama-d9fe23-paypay"
     },
     {
       "name": "PeachNailsmanami",
-      "address": "相武台2丁目"
+      "address": "相武台2丁目",
+      "storeid": "zama-edb7ff",
+      "shopid": "zama-edb7ff-paypay"
     },
     {
       "name": "BEE'S KNEES",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-813e78",
+      "shopid": "zama-813e78-paypay"
     },
     {
       "name": "アメリカンタウン・米軍基地の英会話教室",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-5c4139",
+      "shopid": "zama-5c4139-paypay"
     },
     {
       "name": "ulu",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-1e4bd2",
+      "shopid": "zama-1e4bd2-paypay"
     },
     {
       "name": "SUN",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-b70211",
+      "shopid": "zama-b70211-paypay"
     },
     {
       "name": "Choki Peta 相武台店",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-045c38",
+      "shopid": "zama-045c38-paypay"
     },
     {
       "name": "Hair Salon PURAFURA",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-0a5361",
+      "shopid": "zama-0a5361-paypay"
     },
     {
       "name": "emi&u",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-11228c",
+      "shopid": "zama-11228c-paypay"
     },
     {
       "name": "リラクア 相武台サロン",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-c17ec3",
+      "shopid": "zama-c17ec3-paypay"
     },
     {
       "name": "griffin",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-5790e5",
+      "shopid": "zama-5790e5-paypay"
     },
     {
       "name": "LA COUPE",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-c38030",
+      "shopid": "zama-c38030-paypay"
     },
     {
       "name": "ヘアーサロン フォーユー",
-      "address": "相武台4丁目"
+      "address": "相武台4丁目",
+      "storeid": "zama-2ed6f1",
+      "shopid": "zama-2ed6f1-paypay"
     },
     {
       "name": "Link 相武台店",
-      "address": "相武台4丁目"
+      "address": "相武台4丁目",
+      "storeid": "zama-c701ed",
+      "shopid": "zama-c701ed-paypay"
     },
     {
       "name": "Keeepa",
-      "address": "相武台4丁目"
+      "address": "相武台4丁目",
+      "storeid": "zama-39f647",
+      "shopid": "zama-39f647-paypay"
     },
     {
       "name": "ビューティーライフ 相武台店",
-      "address": "相武台4丁目"
+      "address": "相武台4丁目",
+      "storeid": "zama-29eecc",
+      "shopid": "zama-29eecc-paypay"
     },
     {
       "name": "シエステ相武台前",
-      "address": "相武台4丁目"
+      "address": "相武台4丁目",
+      "storeid": "zama-9ce4a8",
+      "shopid": "zama-9ce4a8-paypay"
     },
     {
       "name": "Piccolino by Produce    小田急相模原店",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-697930",
+      "shopid": "zama-697930-paypay"
     },
     {
       "name": "ステラネイル",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-0eb1fc",
+      "shopid": "zama-0eb1fc-paypay"
     },
     {
       "name": "チェンライ",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-7a218a",
+      "shopid": "zama-7a218a-paypay"
     },
     {
       "name": "ファーストゴルフスクール",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-368f0e",
+      "shopid": "zama-368f0e-paypay"
     },
     {
       "name": "GOEN",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-e804ab",
+      "shopid": "zama-e804ab-paypay"
     },
     {
       "name": "FANTASY DANCE SCHOOL 町田",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-9ca5b6",
+      "shopid": "zama-9ca5b6-paypay"
     },
     {
       "name": "なごみ整骨院",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-ce3aea",
+      "shopid": "zama-ce3aea-paypay"
     },
     {
       "name": "小顔矯正&ロミロミ ラハイナ",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-9949dc",
+      "shopid": "zama-9949dc-paypay"
     },
     {
       "name": "KomFactory",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-3f0e0c",
+      "shopid": "zama-3f0e0c-paypay"
     },
     {
       "name": "はあとねいる 座間相模が丘店",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-075cc9",
+      "shopid": "zama-075cc9-paypay"
     },
     {
       "name": "Etupirika",
-      "address": "相模が丘2丁目"
+      "address": "相模が丘2丁目",
+      "storeid": "zama-30af9d",
+      "shopid": "zama-30af9d-paypay"
     },
     {
       "name": "ほぐし処 癒and… 小田急相模原店",
-      "address": "相模が丘2丁目"
+      "address": "相模が丘2丁目",
+      "storeid": "zama-f84b57",
+      "shopid": "zama-f84b57-paypay"
     },
     {
       "name": "海ぼうず Healing Room",
-      "address": "相模が丘2丁目"
+      "address": "相模が丘2丁目",
+      "storeid": "zama-e93583",
+      "shopid": "zama-e93583-paypay"
     },
     {
       "name": "Lakka.",
-      "address": "相模が丘2丁目"
+      "address": "相模が丘2丁目",
+      "storeid": "zama-e00d8c",
+      "shopid": "zama-e00d8c-paypay"
     },
     {
       "name": "ショートスタイルサロンワルツ",
-      "address": "相模が丘2丁目"
+      "address": "相模が丘2丁目",
+      "storeid": "zama-1c67c8",
+      "shopid": "zama-1c67c8-paypay"
     },
     {
       "name": "atto アット",
-      "address": "相模が丘3丁目"
+      "address": "相模が丘3丁目",
+      "storeid": "zama-b424af",
+      "shopid": "zama-b424af-paypay"
     },
     {
       "name": "MAXクリーニング 座間店",
-      "address": "相模が丘3丁目"
+      "address": "相模が丘3丁目",
+      "storeid": "zama-452a7f",
+      "shopid": "zama-452a7f-paypay"
     },
     {
       "name": "ballet school ダンスール",
-      "address": "相模が丘3丁目"
+      "address": "相模が丘3丁目",
+      "storeid": "zama-09e663",
+      "shopid": "zama-09e663-paypay"
     },
     {
       "name": "アラバンカ柔術アカデミー",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-7b4a00",
+      "shopid": "zama-7b4a00-paypay"
     },
     {
       "name": "Probe",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-7e08b4",
+      "shopid": "zama-7e08b4-paypay"
     },
     {
       "name": "asian relaxation villa 小田急相模原店",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-606a4b",
+      "shopid": "zama-606a4b-paypay"
     },
     {
       "name": "LOHAS by KENJE",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-f12b89",
+      "shopid": "zama-f12b89-paypay"
     },
     {
       "name": "美容室ユニティ 小田急相模原店",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-fe40c1",
+      "shopid": "zama-fe40c1-paypay"
     },
     {
       "name": "痩身とほぐしのRELAX-LABO",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-c8943b",
+      "shopid": "zama-c8943b-paypay"
     },
     {
       "name": "men'sbeauty threw",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-af222f",
+      "shopid": "zama-af222f-paypay"
     },
     {
       "name": "siga-siga シガシガ",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-f6cd18",
+      "shopid": "zama-f6cd18-paypay"
     },
     {
       "name": "ネイルサロンHANA",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-d91959",
+      "shopid": "zama-d91959-paypay"
     },
     {
       "name": "ポワルポ",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-76e15e",
+      "shopid": "zama-76e15e-paypay"
     },
     {
       "name": "瑞-鍼灸院",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-77536a",
+      "shopid": "zama-77536a-paypay"
     },
     {
       "name": "美顔製作所 Re:im",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-65e33f",
+      "shopid": "zama-65e33f-paypay"
     },
     {
       "name": "Hair&Makeおともだち",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-5eb02a",
+      "shopid": "zama-5eb02a-paypay"
     },
     {
       "name": "Re:Mind",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-b5c464",
+      "shopid": "zama-b5c464-paypay"
     },
     {
       "name": "AS整体&コンディショニング",
-      "address": "相模が丘6丁目"
+      "address": "相模が丘6丁目",
+      "storeid": "zama-35053d",
+      "shopid": "zama-35053d-paypay"
     },
     {
       "name": "クリーニングショップフラット 相模が丘店",
-      "address": "相模が丘6丁目"
+      "address": "相模が丘6丁目",
+      "storeid": "zama-3b93ee",
+      "shopid": "zama-3b93ee-paypay"
     },
     {
       "name": "MRK home nail",
-      "address": "相模が丘6丁目"
+      "address": "相模が丘6丁目",
+      "storeid": "zama-60b9a0",
+      "shopid": "zama-60b9a0-paypay"
     },
     {
       "name": "スタジオM&E",
-      "address": "東原3丁目"
+      "address": "東原3丁目",
+      "storeid": "zama-bb4463",
+      "shopid": "zama-bb4463-paypay"
     },
     {
       "name": "Nail salon Purem",
-      "address": "南栗原4丁目"
+      "address": "南栗原4丁目",
+      "storeid": "zama-a8358b",
+      "shopid": "zama-a8358b-paypay"
     },
     {
       "name": "HelC hair care",
-      "address": "南栗原4丁目"
+      "address": "南栗原4丁目",
+      "storeid": "zama-c13692",
+      "shopid": "zama-c13692-paypay"
     },
     {
       "name": "HAIR HOUSE plumeria",
-      "address": "南栗原4丁目"
+      "address": "南栗原4丁目",
+      "storeid": "zama-ad91cf",
+      "shopid": "zama-ad91cf-paypay"
     },
     {
       "name": "小澤タクシー",
-      "address": "南栗原6丁目"
+      "address": "南栗原6丁目",
+      "storeid": "zama-64ae0d",
+      "shopid": "zama-64ae0d-paypay"
     },
     {
       "name": "美洗館 鈴鹿神社前店",
-      "address": "入谷西1丁目"
+      "address": "入谷西1丁目",
+      "storeid": "zama-d106f9",
+      "shopid": "zama-d106f9-paypay"
     },
     {
       "name": "ネイルサロン Mint.",
-      "address": "入谷西2丁目"
+      "address": "入谷西2丁目",
+      "storeid": "zama-b3f83b",
+      "shopid": "zama-b3f83b-paypay"
     },
     {
       "name": "ドライヘッドスパ settleplace",
-      "address": "入谷西2丁目"
+      "address": "入谷西2丁目",
+      "storeid": "zama-73a5b6",
+      "shopid": "zama-73a5b6-paypay"
     },
     {
       "name": "かなん鍼灸院",
-      "address": "入谷西3丁目"
+      "address": "入谷西3丁目",
+      "storeid": "zama-123360",
+      "shopid": "zama-123360-paypay"
     },
     {
       "name": "クロロフイル 座間美顔教室",
-      "address": "入谷西3丁目"
+      "address": "入谷西3丁目",
+      "storeid": "zama-d035de",
+      "shopid": "zama-d035de-paypay"
     },
     {
       "name": "knot",
-      "address": "入谷西4丁目"
+      "address": "入谷西4丁目",
+      "storeid": "zama-cdda71",
+      "shopid": "zama-cdda71-paypay"
     },
     {
       "name": "ガッツレンタカー 座間駅前店",
-      "address": "入谷西4丁目"
+      "address": "入谷西4丁目",
+      "storeid": "zama-0fb5cc",
+      "shopid": "zama-0fb5cc-paypay"
     },
     {
       "name": "もみかる座間店",
-      "address": "入谷西4丁目"
+      "address": "入谷西4丁目",
+      "storeid": "zama-7d6525",
+      "shopid": "zama-7d6525-paypay"
     },
     {
       "name": "ファミールクリーニング 座間店",
-      "address": "入谷西5丁目"
+      "address": "入谷西5丁目",
+      "storeid": "zama-28711b",
+      "shopid": "zama-28711b-paypay"
     },
     {
       "name": "パソコンスクールZAMa",
-      "address": "入谷西5丁目"
+      "address": "入谷西5丁目",
+      "storeid": "zama-bc68b6",
+      "shopid": "zama-bc68b6-paypay"
     },
     {
       "name": "花岡博士のヴァイオリンスクール",
-      "address": "入谷東2丁目"
+      "address": "入谷東2丁目",
+      "storeid": "zama-38977f",
+      "shopid": "zama-38977f-paypay"
     },
     {
       "name": "おしゃれ倶楽部 座間入谷店",
-      "address": "入谷東3丁目"
+      "address": "入谷東3丁目",
+      "storeid": "zama-4aefce",
+      "shopid": "zama-4aefce-paypay"
     },
     {
       "name": "あいる整骨院",
-      "address": "入谷東3丁目"
+      "address": "入谷東3丁目",
+      "storeid": "zama-7097c1",
+      "shopid": "zama-7097c1-paypay"
     },
     {
       "name": "美容室 Noa-Noa",
-      "address": "入谷東3丁目"
+      "address": "入谷東3丁目",
+      "storeid": "zama-d59d63",
+      "shopid": "zama-d59d63-paypay"
     },
     {
       "name": "ドッグサロン森のくまさん 座間駅前",
-      "address": "入谷東3丁目"
+      "address": "入谷東3丁目",
+      "storeid": "zama-6c37f7",
+      "shopid": "zama-6c37f7-paypay"
     },
     {
       "name": "Pilates Studio SUNNY",
-      "address": "入谷東4丁目"
+      "address": "入谷東4丁目",
+      "storeid": "zama-383d9a",
+      "shopid": "zama-383d9a-paypay"
     },
     {
       "name": "All Kinematics整骨院",
-      "address": "入谷東4丁目"
+      "address": "入谷東4丁目",
+      "storeid": "zama-5bea5b",
+      "shopid": "zama-5bea5b-paypay"
     },
     {
       "name": "香川ピアノ教室",
-      "address": "入谷東4丁目"
+      "address": "入谷東4丁目",
+      "storeid": "zama-73409d",
+      "shopid": "zama-73409d-paypay"
     },
     {
       "name": "vivy nail",
-      "address": "入谷東4丁目"
+      "address": "入谷東4丁目",
+      "storeid": "zama-5fc749",
+      "shopid": "zama-5fc749-paypay"
     },
     {
       "name": "Lady 座間店",
-      "address": "立野台2丁目"
+      "address": "立野台2丁目",
+      "storeid": "zama-4372c2",
+      "shopid": "zama-4372c2-paypay"
     },
     {
       "name": "KaMi-Sha",
-      "address": "立野台3丁目"
+      "address": "立野台3丁目",
+      "storeid": "zama-8fda0d",
+      "shopid": "zama-8fda0d-paypay"
     },
     {
       "name": "座間動物病院 トリミング・ペットホテル",
-      "address": "立野台3丁目"
+      "address": "立野台3丁目",
+      "storeid": "zama-b9f45d",
+      "shopid": "zama-b9f45d-paypay"
     },
     {
       "name": "ドッグビューティーサロン ベネカァネ 座間本店",
-      "address": "緑ケ丘1丁目"
+      "address": "緑ケ丘1丁目",
+      "storeid": "zama-3ad5c6",
+      "shopid": "zama-3ad5c6-paypay"
     },
     {
       "name": "Cozy Bar",
-      "address": "緑ケ丘1丁目"
+      "address": "緑ケ丘1丁目",
+      "storeid": "zama-38e171",
+      "shopid": "zama-38e171-paypay"
     },
     {
       "name": "Rosmarin",
-      "address": "緑ケ丘1丁目"
+      "address": "緑ケ丘1丁目",
+      "storeid": "zama-7481d7",
+      "shopid": "zama-7481d7-paypay"
     },
     {
       "name": "美容室フィーノ",
-      "address": "緑ケ丘2丁目"
+      "address": "緑ケ丘2丁目",
+      "storeid": "zama-5d2af4",
+      "shopid": "zama-5d2af4-paypay"
     },
     {
       "name": "鈴木タクシー",
-      "address": "緑ケ丘2丁目"
+      "address": "緑ケ丘2丁目",
+      "storeid": "zama-0340f4",
+      "shopid": "zama-0340f4-paypay"
     },
     {
       "name": "リンパサロン緑櫻-Ryokuha",
-      "address": "緑ケ丘4丁目"
+      "address": "緑ケ丘4丁目",
+      "storeid": "zama-57fac1",
+      "shopid": "zama-57fac1-paypay"
     },
     {
       "name": "yogaspacek",
-      "address": "緑ケ丘5丁目"
+      "address": "緑ケ丘5丁目",
+      "storeid": "zama-bb01b8",
+      "shopid": "zama-bb01b8-paypay"
     },
     {
       "name": "To/onハウスクリーニング",
-      "address": "緑ケ丘5丁目"
+      "address": "緑ケ丘5丁目",
+      "storeid": "zama-17bef5",
+      "shopid": "zama-17bef5-paypay"
     },
     {
       "name": "Monabu",
-      "address": "緑ケ丘5丁目"
+      "address": "緑ケ丘5丁目",
+      "storeid": "zama-b25c72",
+      "shopid": "zama-b25c72-paypay"
     },
     {
       "name": "HAIR MAKE DESART",
-      "address": "緑ケ丘6丁目"
+      "address": "緑ケ丘6丁目",
+      "storeid": "zama-caafe4",
+      "shopid": "zama-caafe4-paypay"
     }
   ],
   "小売": [
     {
       "name": "boho lover 本店",
-      "address": "さがみ野1丁目"
+      "address": "さがみ野1丁目",
+      "storeid": "zama-392f30",
+      "shopid": "zama-392f30-paypay"
     },
     {
       "name": "Dog Salon ONE`S",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-91f65c",
+      "shopid": "zama-91f65c-paypay"
     },
     {
       "name": "皆川商会",
-      "address": "さがみ野3丁目"
+      "address": "さがみ野3丁目",
+      "storeid": "zama-b996ec",
+      "shopid": "zama-b996ec-paypay"
     },
     {
       "name": "RAD",
-      "address": "ひばりが丘1丁目"
+      "address": "ひばりが丘1丁目",
+      "storeid": "zama-1a73f0",
+      "shopid": "zama-1a73f0-paypay"
     },
     {
       "name": "電気&パソコンショップ カブサポ",
-      "address": "ひばりが丘2丁目"
+      "address": "ひばりが丘2丁目",
+      "storeid": "zama-aebfdd",
+      "shopid": "zama-aebfdd-paypay"
     },
     {
       "name": "中島青果店",
-      "address": "ひばりが丘3丁目"
+      "address": "ひばりが丘3丁目",
+      "storeid": "zama-9946de",
+      "shopid": "zama-9946de-paypay"
     },
     {
       "name": "SUNRICH LEMON",
-      "address": "ひばりが丘3丁目"
+      "address": "ひばりが丘3丁目",
+      "storeid": "zama-b2dfd9",
+      "shopid": "zama-b2dfd9-paypay"
     },
     {
       "name": "おかし工房 ひばりカフェ",
-      "address": "ひばりが丘3丁目"
+      "address": "ひばりが丘3丁目",
+      "storeid": "zama-8192ed",
+      "shopid": "zama-8192ed-paypay"
     },
     {
       "name": "ビッグヨーサン 座間ひばりが丘店",
-      "address": "ひばりが丘4丁目"
+      "address": "ひばりが丘4丁目",
+      "storeid": "zama-2014bf",
+      "shopid": "zama-2014bf-paypay"
     },
     {
       "name": "スポーツカムイ 座間店",
-      "address": "ひばりが丘4丁目"
+      "address": "ひばりが丘4丁目",
+      "storeid": "zama-1aacdd",
+      "shopid": "zama-1aacdd-paypay"
     },
     {
       "name": "トイプラザ ビット1",
-      "address": "ひばりが丘4丁目"
+      "address": "ひばりが丘4丁目",
+      "storeid": "zama-2f03cf",
+      "shopid": "zama-2f03cf-paypay"
     },
     {
       "name": "ファイテン@元気UPプラザ",
-      "address": "ひばりが丘4丁目"
+      "address": "ひばりが丘4丁目",
+      "storeid": "zama-7c63e1",
+      "shopid": "zama-7c63e1-paypay"
     },
     {
       "name": "リクラマショールーム",
-      "address": "ひばりが丘4丁目"
+      "address": "ひばりが丘4丁目",
+      "storeid": "zama-ab588f",
+      "shopid": "zama-ab588f-paypay"
     },
     {
       "name": "タイヤガーデン 座間",
-      "address": "ひばりが丘5丁目"
+      "address": "ひばりが丘5丁目",
+      "storeid": "zama-93be2a",
+      "shopid": "zama-93be2a-paypay"
     },
     {
       "name": "OJIKI工房",
-      "address": "ひばりが丘5丁目"
+      "address": "ひばりが丘5丁目",
+      "storeid": "zama-695c11",
+      "shopid": "zama-695c11-paypay"
     },
     {
       "name": "KAERUファクトリー",
-      "address": "ひばりが丘5丁目"
+      "address": "ひばりが丘5丁目",
+      "storeid": "zama-c1db8a",
+      "shopid": "zama-c1db8a-paypay"
     },
     {
       "name": "ケープランド",
-      "address": "栗原"
+      "address": "栗原",
+      "storeid": "zama-324da3",
+      "shopid": "zama-324da3-paypay"
     },
     {
       "name": "M.O.F",
-      "address": "栗原"
+      "address": "栗原",
+      "storeid": "zama-60c762",
+      "shopid": "zama-60c762-paypay"
     },
     {
       "name": "garden baum 風の谷のハーブ畑",
-      "address": "栗原"
+      "address": "栗原",
+      "storeid": "zama-8db0a6",
+      "shopid": "zama-8db0a6-paypay"
     },
     {
       "name": "座間洋らんセンター",
-      "address": "栗原"
+      "address": "栗原",
+      "storeid": "zama-fb5bce",
+      "shopid": "zama-fb5bce-paypay"
     },
     {
       "name": "PreciousWAN",
-      "address": "栗原中央1丁目"
+      "address": "栗原中央1丁目",
+      "storeid": "zama-4a9267",
+      "shopid": "zama-4a9267-paypay"
     },
     {
       "name": "ざまくりめだか 座間栗原メダカファーム",
-      "address": "栗原中央3丁目"
+      "address": "栗原中央3丁目",
+      "storeid": "zama-e009c2",
+      "shopid": "zama-e009c2-paypay"
     },
     {
       "name": "Car Shop Liebe",
-      "address": "栗原中央4丁目"
+      "address": "栗原中央4丁目",
+      "storeid": "zama-a06b1b",
+      "shopid": "zama-a06b1b-paypay"
     },
     {
       "name": "フランボワーズ",
-      "address": "栗原中央6丁目"
+      "address": "栗原中央6丁目",
+      "storeid": "zama-aa3584",
+      "shopid": "zama-aa3584-paypay"
     },
     {
       "name": "マリーン&ビンテージカー cotton garadge",
-      "address": "広野台1丁目"
+      "address": "広野台1丁目",
+      "storeid": "zama-aebcf6",
+      "shopid": "zama-aebcf6-paypay"
     },
     {
       "name": "リサイクルショップOne",
-      "address": "広野台1丁目"
+      "address": "広野台1丁目",
+      "storeid": "zama-e0fc37",
+      "shopid": "zama-e0fc37-paypay"
     },
     {
       "name": "Hello赤ちゃん 座間店",
-      "address": "広野台2丁目"
+      "address": "広野台2丁目",
+      "storeid": "zama-644357",
+      "shopid": "zama-644357-paypay"
     },
     {
       "name": "Luck Rack イオンモール座間店",
-      "address": "広野台2丁目"
+      "address": "広野台2丁目",
+      "storeid": "zama-77ab8b",
+      "shopid": "zama-77ab8b-paypay"
     },
     {
       "name": "アエナ イオンモール座間店",
-      "address": "広野台2丁目"
+      "address": "広野台2丁目",
+      "storeid": "zama-a1ed8a",
+      "shopid": "zama-a1ed8a-paypay"
     },
     {
       "name": "コロッケ屋のころっ家 イオンモール座間店",
-      "address": "広野台2丁目"
+      "address": "広野台2丁目",
+      "storeid": "zama-69118b",
+      "shopid": "zama-69118b-paypay"
     },
     {
       "name": "ハッシュパピー イオンモール座間店",
-      "address": "広野台2丁目"
+      "address": "広野台2丁目",
+      "storeid": "zama-ebb5fe",
+      "shopid": "zama-ebb5fe-paypay"
     },
     {
       "name": "ベビードール イオンモール座間店",
-      "address": "広野台2丁目"
+      "address": "広野台2丁目",
+      "storeid": "zama-f687e9",
+      "shopid": "zama-f687e9-paypay"
     },
     {
       "name": "リーフ イオンモール座間店",
-      "address": "広野台2丁目"
+      "address": "広野台2丁目",
+      "storeid": "zama-fb21bf",
+      "shopid": "zama-fb21bf-paypay"
     },
     {
       "name": "ルームパステル 座間店",
-      "address": "広野台2丁目"
+      "address": "広野台2丁目",
+      "storeid": "zama-de5c1b",
+      "shopid": "zama-de5c1b-paypay"
     },
     {
       "name": "韓国スーパー リトルソウル イオンモール座間店",
-      "address": "広野台2丁目"
+      "address": "広野台2丁目",
+      "storeid": "zama-de0f7b",
+      "shopid": "zama-de0f7b-paypay"
     },
     {
       "name": "紀伊國屋書店 イオンモール座間店",
-      "address": "広野台2丁目"
+      "address": "広野台2丁目",
+      "storeid": "zama-20cedc",
+      "shopid": "zama-20cedc-paypay"
     },
     {
       "name": "手芸の丸十 イオンモール座間店",
-      "address": "広野台2丁目"
+      "address": "広野台2丁目",
+      "storeid": "zama-322db4",
+      "shopid": "zama-322db4-paypay"
     },
     {
       "name": "東京と月とお酒(MOON LIQUOR'S TOKYO)",
-      "address": "座間1丁目"
+      "address": "座間1丁目",
+      "storeid": "zama-00911f",
+      "shopid": "zama-00911f-paypay"
     },
     {
       "name": "オート紅菱",
-      "address": "座間1丁目"
+      "address": "座間1丁目",
+      "storeid": "zama-0345f7",
+      "shopid": "zama-0345f7-paypay"
     },
     {
       "name": "オクツ機械",
-      "address": "座間1丁目"
+      "address": "座間1丁目",
+      "storeid": "zama-2c9a5f",
+      "shopid": "zama-2c9a5f-paypay"
     },
     {
       "name": "フルモト 座間カタノ店",
-      "address": "座間1丁目"
+      "address": "座間1丁目",
+      "storeid": "zama-fed1a9",
+      "shopid": "zama-fed1a9-paypay"
     },
     {
       "name": "ワイン・フード若林酒店",
-      "address": "座間1丁目"
+      "address": "座間1丁目",
+      "storeid": "zama-c11724",
+      "shopid": "zama-c11724-paypay"
     },
     {
       "name": "プレスト",
-      "address": "座間1丁目"
+      "address": "座間1丁目",
+      "storeid": "zama-f76804",
+      "shopid": "zama-f76804-paypay"
     },
     {
       "name": "大矢製畳",
-      "address": "座間1丁目"
+      "address": "座間1丁目",
+      "storeid": "zama-ecd72c",
+      "shopid": "zama-ecd72c-paypay"
     },
     {
       "name": "TOPOL",
-      "address": "四ツ谷"
+      "address": "四ツ谷",
+      "storeid": "zama-0b7ec8",
+      "shopid": "zama-0b7ec8-paypay"
     },
     {
       "name": "酒のウエキ",
-      "address": "小松原2丁目"
+      "address": "小松原2丁目",
+      "storeid": "zama-4da947",
+      "shopid": "zama-4da947-paypay"
     },
     {
       "name": "ケイズフードシステム 座間営業所",
-      "address": "小松原2丁目"
+      "address": "小松原2丁目",
+      "storeid": "zama-2ee92a",
+      "shopid": "zama-2ee92a-paypay"
     },
     {
       "name": "Smile ハート 座間店",
-      "address": "新田宿"
+      "address": "新田宿",
+      "storeid": "zama-852917",
+      "shopid": "zama-852917-paypay"
     },
     {
       "name": "freemam2020",
-      "address": "新田宿"
+      "address": "新田宿",
+      "storeid": "zama-fb4892",
+      "shopid": "zama-fb4892-paypay"
     },
     {
       "name": "dogsalon sucre",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-9191be",
+      "shopid": "zama-9191be-paypay"
     },
     {
       "name": "大東繊維相武台店",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-9cfe44",
+      "shopid": "zama-9cfe44-paypay"
     },
     {
       "name": "ラーメン屋が作る手作りチャーシュー屋",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-f1fb24",
+      "shopid": "zama-f1fb24-paypay"
     },
     {
       "name": "座間ゆたか農園",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-51e4a3",
+      "shopid": "zama-51e4a3-paypay"
     },
     {
       "name": "有山商店",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-9f4842",
+      "shopid": "zama-9f4842-paypay"
     },
     {
       "name": "BAGEL&BAGEL 小田急相武台前駅",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-a7fdd5",
+      "shopid": "zama-a7fdd5-paypay"
     },
     {
       "name": "Odakyu OX 相武台店",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-2ee323",
+      "shopid": "zama-2ee323-paypay"
     },
     {
       "name": "ランドフローラ ヒビヤカダンスタイル 相武台店",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-aa97b7",
+      "shopid": "zama-aa97b7-paypay"
     },
     {
       "name": "おにぎり 惣菜のしょうわ",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-d85e42",
+      "shopid": "zama-d85e42-paypay"
     },
     {
       "name": "CYCLE SHOP D",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-250fda",
+      "shopid": "zama-250fda-paypay"
     },
     {
       "name": "DOG FREAKS 座間店",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-6f0721",
+      "shopid": "zama-6f0721-paypay"
     },
     {
       "name": "KLIPOK",
-      "address": "相武台2丁目"
+      "address": "相武台2丁目",
+      "storeid": "zama-c0241c",
+      "shopid": "zama-c0241c-paypay"
     },
     {
       "name": "ブティック優美 座間店",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-2917de",
+      "shopid": "zama-2917de-paypay"
     },
     {
       "name": "パン工房ふくふく 座間店",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-8cd5ca",
+      "shopid": "zama-8cd5ca-paypay"
     },
     {
       "name": "ミートショップニッパイ",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-e7579d",
+      "shopid": "zama-e7579d-paypay"
     },
     {
       "name": "ストーンレプタイル",
-      "address": "相武台4丁目"
+      "address": "相武台4丁目",
+      "storeid": "zama-4dc276",
+      "shopid": "zama-4dc276-paypay"
     },
     {
       "name": "ますや酒店",
-      "address": "相武台4丁目"
+      "address": "相武台4丁目",
+      "storeid": "zama-82aa00",
+      "shopid": "zama-82aa00-paypay"
     },
     {
       "name": "天然石 癒しの石",
-      "address": "相武台4丁目"
+      "address": "相武台4丁目",
+      "storeid": "zama-743bd5",
+      "shopid": "zama-743bd5-paypay"
     },
     {
       "name": "桜ん坊のパン工房",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-a2c055",
+      "shopid": "zama-a2c055-paypay"
     },
     {
       "name": "K's project",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-db918b",
+      "shopid": "zama-db918b-paypay"
     },
     {
       "name": "CROWNBID Recycle Shop",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-dcb29a",
+      "shopid": "zama-dcb29a-paypay"
     },
     {
       "name": "スタジオテラス",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-0f3def",
+      "shopid": "zama-0f3def-paypay"
     },
     {
       "name": "Deu-Reptiles",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-3342af",
+      "shopid": "zama-3342af-paypay"
     },
     {
       "name": "肉屋の肉ヤ 神奈川座間店",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-f91006",
+      "shopid": "zama-f91006-paypay"
     },
     {
       "name": "サイクル松村",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-643c0f",
+      "shopid": "zama-643c0f-paypay"
     },
     {
       "name": "さくら・くれーる",
-      "address": "相模が丘2丁目"
+      "address": "相模が丘2丁目",
+      "storeid": "zama-158de4",
+      "shopid": "zama-158de4-paypay"
     },
     {
       "name": "World Charm",
-      "address": "相模が丘3丁目"
+      "address": "相模が丘3丁目",
+      "storeid": "zama-5b4032",
+      "shopid": "zama-5b4032-paypay"
     },
     {
       "name": "ほのめ堂",
-      "address": "相模が丘3丁目"
+      "address": "相模が丘3丁目",
+      "storeid": "zama-9a092f",
+      "shopid": "zama-9a092f-paypay"
     },
     {
       "name": "パンの家あいあい",
-      "address": "相模が丘3丁目"
+      "address": "相模が丘3丁目",
+      "storeid": "zama-1aa20f",
+      "shopid": "zama-1aa20f-paypay"
     },
     {
       "name": "光鶴園",
-      "address": "相模が丘3丁目"
+      "address": "相模が丘3丁目",
+      "storeid": "zama-426c54",
+      "shopid": "zama-426c54-paypay"
     },
     {
       "name": "サイクルショップ ムラオカ",
-      "address": "相模が丘4丁目"
+      "address": "相模が丘4丁目",
+      "storeid": "zama-b5e59e",
+      "shopid": "zama-b5e59e-paypay"
     },
     {
       "name": "お菓子司 とよだや",
-      "address": "相模が丘4丁目"
+      "address": "相模が丘4丁目",
+      "storeid": "zama-d492f3",
+      "shopid": "zama-d492f3-paypay"
     },
     {
       "name": "ヒダ塗料店",
-      "address": "相模が丘4丁目"
+      "address": "相模が丘4丁目",
+      "storeid": "zama-7345c9",
+      "shopid": "zama-7345c9-paypay"
     },
     {
       "name": "全国の味噌まさきや",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-883534",
+      "shopid": "zama-883534-paypay"
     },
     {
       "name": "ガンバワーク 相模原店",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-61a153",
+      "shopid": "zama-61a153-paypay"
     },
     {
       "name": "kitchenトリトリ",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-2cce7f",
+      "shopid": "zama-2cce7f-paypay"
     },
     {
       "name": "office imakara",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-a798ae",
+      "shopid": "zama-a798ae-paypay"
     },
     {
       "name": "HOT SPICE HALAL FOOD",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-545dd9",
+      "shopid": "zama-545dd9-paypay"
     },
     {
       "name": "PIRKACUP",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-993a24",
+      "shopid": "zama-993a24-paypay"
     },
     {
       "name": "ipf japan",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-0cc370",
+      "shopid": "zama-0cc370-paypay"
     },
     {
       "name": "Spice Home 相模原店",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-6827f8",
+      "shopid": "zama-6827f8-paypay"
     },
     {
       "name": "アライメガネ",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-0bea89",
+      "shopid": "zama-0bea89-paypay"
     },
     {
       "name": "相模原メガネ",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-0b739b",
+      "shopid": "zama-0b739b-paypay"
     },
     {
       "name": "フレスト",
-      "address": "相模が丘6丁目"
+      "address": "相模が丘6丁目",
+      "storeid": "zama-8ac8e6",
+      "shopid": "zama-8ac8e6-paypay"
     },
     {
       "name": "M&M' motorcycle",
-      "address": "相模が丘6丁目"
+      "address": "相模が丘6丁目",
+      "storeid": "zama-c6763b",
+      "shopid": "zama-c6763b-paypay"
     },
     {
       "name": "setaria",
-      "address": "東原2丁目"
+      "address": "東原2丁目",
+      "storeid": "zama-41a7f2",
+      "shopid": "zama-41a7f2-paypay"
     },
     {
       "name": "かねた屋",
-      "address": "東原2丁目"
+      "address": "東原2丁目",
+      "storeid": "zama-965b5f",
+      "shopid": "zama-965b5f-paypay"
     },
     {
       "name": "UF Auto",
-      "address": "東原2丁目"
+      "address": "東原2丁目",
+      "storeid": "zama-1af29b",
+      "shopid": "zama-1af29b-paypay"
     },
     {
       "name": "2りんかん",
-      "address": "東原3丁目"
+      "address": "東原3丁目",
+      "storeid": "zama-8015d2",
+      "shopid": "zama-8015d2-paypay"
     },
     {
       "name": "ツールオフ 座間店",
-      "address": "南栗原1丁目"
+      "address": "南栗原1丁目",
+      "storeid": "zama-f54fec",
+      "shopid": "zama-f54fec-paypay"
     },
     {
       "name": "PGT",
-      "address": "南栗原3丁目"
+      "address": "南栗原3丁目",
+      "storeid": "zama-4bec30",
+      "shopid": "zama-4bec30-paypay"
     },
     {
       "name": "メガネストアー さがみ野店",
-      "address": "南栗原4丁目"
+      "address": "南栗原4丁目",
+      "storeid": "zama-5220fb",
+      "shopid": "zama-5220fb-paypay"
     },
     {
       "name": "アップガレージ ライダースナップス座間店",
-      "address": "南栗原6丁目"
+      "address": "南栗原6丁目",
+      "storeid": "zama-cf4d20",
+      "shopid": "zama-cf4d20-paypay"
     },
     {
       "name": "ワークトップ",
-      "address": "入谷西3丁目"
+      "address": "入谷西3丁目",
+      "storeid": "zama-782e8c",
+      "shopid": "zama-782e8c-paypay"
     },
     {
       "name": "Goldic",
-      "address": "入谷西5丁目"
+      "address": "入谷西5丁目",
+      "storeid": "zama-b0e7d7",
+      "shopid": "zama-b0e7d7-paypay"
     },
     {
       "name": "新鮮市場なかや 座間入谷店",
-      "address": "入谷西5丁目"
+      "address": "入谷西5丁目",
+      "storeid": "zama-7ded11",
+      "shopid": "zama-7ded11-paypay"
     },
     {
       "name": "AB MOTORS",
-      "address": "入谷西5丁目"
+      "address": "入谷西5丁目",
+      "storeid": "zama-937ef5",
+      "shopid": "zama-937ef5-paypay"
     },
     {
       "name": "澤田屋ランドセル",
-      "address": "入谷東3丁目"
+      "address": "入谷東3丁目",
+      "storeid": "zama-0eee10",
+      "shopid": "zama-0eee10-paypay"
     },
     {
       "name": "ユアシセイドウ マツムラ",
-      "address": "入谷東3丁目"
+      "address": "入谷東3丁目",
+      "storeid": "zama-2d4081",
+      "shopid": "zama-2d4081-paypay"
     },
     {
       "name": "Odakyu OX 座間店",
-      "address": "入谷東3丁目"
+      "address": "入谷東3丁目",
+      "storeid": "zama-0f589c",
+      "shopid": "zama-0f589c-paypay"
     },
     {
       "name": "sparkjoy",
-      "address": "入谷東4丁目"
+      "address": "入谷東4丁目",
+      "storeid": "zama-b67ce5",
+      "shopid": "zama-b67ce5-paypay"
     },
     {
       "name": "外狩豆腐店",
-      "address": "入谷東4丁目"
+      "address": "入谷東4丁目",
+      "storeid": "zama-378de7",
+      "shopid": "zama-378de7-paypay"
     },
     {
       "name": "花メッセージ",
-      "address": "入谷東4丁目"
+      "address": "入谷東4丁目",
+      "storeid": "zama-908188",
+      "shopid": "zama-908188-paypay"
     },
     {
       "name": "コーヒーノート",
-      "address": "入谷東4丁目"
+      "address": "入谷東4丁目",
+      "storeid": "zama-412bd8",
+      "shopid": "zama-412bd8-paypay"
     },
     {
       "name": "ミートプラザ肉の石川",
-      "address": "入谷東4丁目"
+      "address": "入谷東4丁目",
+      "storeid": "zama-8098aa",
+      "shopid": "zama-8098aa-paypay"
     },
     {
       "name": "フローリスト花恵",
-      "address": "入谷東4丁目"
+      "address": "入谷東4丁目",
+      "storeid": "zama-ee01ad",
+      "shopid": "zama-ee01ad-paypay"
     },
     {
       "name": "パン香房つちや立野台店",
-      "address": "立野台2丁目"
+      "address": "立野台2丁目",
+      "storeid": "zama-591b63",
+      "shopid": "zama-591b63-paypay"
     },
     {
       "name": "＊maplewarehouse＊",
-      "address": "立野台3丁目"
+      "address": "立野台3丁目",
+      "storeid": "zama-9898dc",
+      "shopid": "zama-9898dc-paypay"
     },
     {
       "name": "ほほえみショップ",
-      "address": "緑ケ丘1丁目"
+      "address": "緑ケ丘1丁目",
+      "storeid": "zama-186549",
+      "shopid": "zama-186549-paypay"
     },
     {
       "name": "タカハシデンキ",
-      "address": "緑ケ丘4丁目"
+      "address": "緑ケ丘4丁目",
+      "storeid": "zama-6998ff",
+      "shopid": "zama-6998ff-paypay"
     },
     {
       "name": "グランクール",
-      "address": "緑ケ丘5丁目"
+      "address": "緑ケ丘5丁目",
+      "storeid": "zama-579c3f",
+      "shopid": "zama-579c3f-paypay"
     },
     {
       "name": "BIG BEAR",
-      "address": "緑ケ丘6丁目"
+      "address": "緑ケ丘6丁目",
+      "storeid": "zama-0927ab",
+      "shopid": "zama-0927ab-paypay"
     },
     {
       "name": "中沢商店",
-      "address": "緑ケ丘6丁目"
+      "address": "緑ケ丘6丁目",
+      "storeid": "zama-f52024",
+      "shopid": "zama-f52024-paypay"
     },
     {
       "name": "ホークスビーク",
-      "address": "緑ケ丘6丁目"
+      "address": "緑ケ丘6丁目",
+      "storeid": "zama-6e05b5",
+      "shopid": "zama-6e05b5-paypay"
     }
   ],
   "飲食": [
     {
       "name": "花鮨",
-      "address": "さがみ野1丁目"
+      "address": "さがみ野1丁目",
+      "storeid": "zama-bc7305",
+      "shopid": "zama-bc7305-paypay"
     },
     {
       "name": "伝丸さがみ野",
-      "address": "さがみ野1丁目"
+      "address": "さがみ野1丁目",
+      "storeid": "zama-689361",
+      "shopid": "zama-689361-paypay"
     },
     {
       "name": "REDPOISON COFFEE",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-4c1be5",
+      "shopid": "zama-4c1be5-paypay"
     },
     {
       "name": "やきとり工房 さがみ野店",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-1aea94",
+      "shopid": "zama-1aea94-paypay"
     },
     {
       "name": "えんびより",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-0cfd51",
+      "shopid": "zama-0cfd51-paypay"
     },
     {
       "name": "あくび",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-5abfa2",
+      "shopid": "zama-5abfa2-paypay"
     },
     {
       "name": "和ダイニング なな穂",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-b64e1b",
+      "shopid": "zama-b64e1b-paypay"
     },
     {
       "name": "星心卓球Bar",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-e8b1ed",
+      "shopid": "zama-e8b1ed-paypay"
     },
     {
       "name": "かずねぇ",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-26d862",
+      "shopid": "zama-26d862-paypay"
     },
     {
       "name": "スナック25歳",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-4d8c07",
+      "shopid": "zama-4d8c07-paypay"
     },
     {
       "name": "呑屋鈴之助",
-      "address": "さがみ野2丁目"
+      "address": "さがみ野2丁目",
+      "storeid": "zama-21b5ff",
+      "shopid": "zama-21b5ff-paypay"
     },
     {
       "name": "炭焼酒房 青とうがらし 南林間店",
-      "address": "ひばりが丘2丁目"
+      "address": "ひばりが丘2丁目",
+      "storeid": "zama-971a26",
+      "shopid": "zama-971a26-paypay"
     },
     {
       "name": "くれよん ひばりが丘営業所",
-      "address": "ひばりが丘2丁目"
+      "address": "ひばりが丘2丁目",
+      "storeid": "zama-e1e220",
+      "shopid": "zama-e1e220-paypay"
     },
     {
       "name": "kissa inner peace",
-      "address": "ひばりが丘2丁目"
+      "address": "ひばりが丘2丁目",
+      "storeid": "zama-91328f",
+      "shopid": "zama-91328f-paypay"
     },
     {
       "name": "ひばりの森",
-      "address": "ひばりが丘2丁目"
+      "address": "ひばりが丘2丁目",
+      "storeid": "zama-5f137b",
+      "shopid": "zama-5f137b-paypay"
     },
     {
       "name": "入船",
-      "address": "ひばりが丘2丁目"
+      "address": "ひばりが丘2丁目",
+      "storeid": "zama-79f7fd",
+      "shopid": "zama-79f7fd-paypay"
     },
     {
       "name": "anza",
-      "address": "ひばりが丘2丁目"
+      "address": "ひばりが丘2丁目",
+      "storeid": "zama-002d94",
+      "shopid": "zama-002d94-paypay"
     },
     {
       "name": "はこねの森",
-      "address": "ひばりが丘2丁目"
+      "address": "ひばりが丘2丁目",
+      "storeid": "zama-b0a939",
+      "shopid": "zama-b0a939-paypay"
     },
     {
       "name": "ピザーラ ひばりが丘店",
-      "address": "ひばりが丘2丁目"
+      "address": "ひばりが丘2丁目",
+      "storeid": "zama-950358",
+      "shopid": "zama-950358-paypay"
     },
     {
       "name": "ひばり茶寮",
-      "address": "ひばりが丘3丁目"
+      "address": "ひばりが丘3丁目",
+      "storeid": "zama-a5acae",
+      "shopid": "zama-a5acae-paypay"
     },
     {
       "name": "Kimmy's Deli",
-      "address": "ひばりが丘3丁目"
+      "address": "ひばりが丘3丁目",
+      "storeid": "zama-fa9d95",
+      "shopid": "zama-fa9d95-paypay"
     },
     {
       "name": "横濱家 座間店",
-      "address": "ひばりが丘5丁目"
+      "address": "ひばりが丘5丁目",
+      "storeid": "zama-ff79ec",
+      "shopid": "zama-ff79ec-paypay"
     },
     {
       "name": "HAKONIWA",
-      "address": "栗原"
+      "address": "栗原",
+      "storeid": "zama-11be41",
+      "shopid": "zama-11be41-paypay"
     },
     {
       "name": "肉喰らう's",
-      "address": "栗原中央3丁目"
+      "address": "栗原中央3丁目",
+      "storeid": "zama-308f85",
+      "shopid": "zama-308f85-paypay"
     },
     {
       "name": "海月 座間店",
-      "address": "栗原中央4丁目"
+      "address": "栗原中央4丁目",
+      "storeid": "zama-9a7ef0",
+      "shopid": "zama-9a7ef0-paypay"
     },
     {
       "name": "Lahori zaiqa",
-      "address": "広野台1丁目"
+      "address": "広野台1丁目",
+      "storeid": "zama-4df4ed",
+      "shopid": "zama-4df4ed-paypay"
     },
     {
       "name": "きんかどう 座間本店",
-      "address": "広野台1丁目"
+      "address": "広野台1丁目",
+      "storeid": "zama-9f4cf1",
+      "shopid": "zama-9f4cf1-paypay"
     },
     {
       "name": "中国酒家 十年 座間店",
-      "address": "広野台1丁目"
+      "address": "広野台1丁目",
+      "storeid": "zama-40453a",
+      "shopid": "zama-40453a-paypay"
     },
     {
       "name": "インド料理フルバリ座間店",
-      "address": "広野台2丁目"
+      "address": "広野台2丁目",
+      "storeid": "zama-e6ad46",
+      "shopid": "zama-e6ad46-paypay"
     },
     {
       "name": "かつ泉 イオンモール座間店1F",
-      "address": "広野台2丁目"
+      "address": "広野台2丁目",
+      "storeid": "zama-a56485",
+      "shopid": "zama-a56485-paypay"
     },
     {
       "name": "かつ泉 イオンモール座間店2F",
-      "address": "広野台2丁目"
+      "address": "広野台2丁目",
+      "storeid": "zama-8f7498",
+      "shopid": "zama-8f7498-paypay"
     },
     {
       "name": "麺場 田所商店 イオンモール座間店",
-      "address": "広野台2丁目"
+      "address": "広野台2丁目",
+      "storeid": "zama-a7e387",
+      "shopid": "zama-a7e387-paypay"
     },
     {
       "name": "つぼ焼きいもや芋の音",
-      "address": "座間1丁目"
+      "address": "座間1丁目",
+      "storeid": "zama-f808e3",
+      "shopid": "zama-f808e3-paypay"
     },
     {
       "name": "Cafeと雑貨の店 ごろにゃん",
-      "address": "座間1丁目"
+      "address": "座間1丁目",
+      "storeid": "zama-72556d",
+      "shopid": "zama-72556d-paypay"
     },
     {
       "name": "せいげつ",
-      "address": "座間1丁目"
+      "address": "座間1丁目",
+      "storeid": "zama-2b73da",
+      "shopid": "zama-2b73da-paypay"
     },
     {
       "name": "尾張屋",
-      "address": "座間1丁目"
+      "address": "座間1丁目",
+      "storeid": "zama-2c513a",
+      "shopid": "zama-2c513a-paypay"
     },
     {
       "name": "焼肉はとや",
-      "address": "小松原1丁目"
+      "address": "小松原1丁目",
+      "storeid": "zama-e20806",
+      "shopid": "zama-e20806-paypay"
     },
     {
       "name": "おそば朝日屋",
-      "address": "小松原2丁目"
+      "address": "小松原2丁目",
+      "storeid": "zama-360cbc",
+      "shopid": "zama-360cbc-paypay"
     },
     {
       "name": "Riders Base Riberty",
-      "address": "西栗原2丁目"
+      "address": "西栗原2丁目",
+      "storeid": "zama-1f6117",
+      "shopid": "zama-1f6117-paypay"
     },
     {
       "name": "デジ家",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-367eb9",
+      "shopid": "zama-367eb9-paypay"
     },
     {
       "name": "食堂ぽーくん",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-aace68",
+      "shopid": "zama-aace68-paypay"
     },
     {
       "name": "M",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-0d15c3",
+      "shopid": "zama-0d15c3-paypay"
     },
     {
       "name": "京城 アギヤ",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-10856d",
+      "shopid": "zama-10856d-paypay"
     },
     {
       "name": "焼肉相模",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-08f9be",
+      "shopid": "zama-08f9be-paypay"
     },
     {
       "name": "焼鳥はつらいよ 相武台店",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-4c4851",
+      "shopid": "zama-4c4851-paypay"
     },
     {
       "name": "Ping Pong Bar 伽羅",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-9e823a",
+      "shopid": "zama-9e823a-paypay"
     },
     {
       "name": "cafebar GAJAH",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-9969df",
+      "shopid": "zama-9969df-paypay"
     },
     {
       "name": "FAMILIA",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-b5b4d5",
+      "shopid": "zama-b5b4d5-paypay"
     },
     {
       "name": "居酒屋 くろ",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-8fa98b",
+      "shopid": "zama-8fa98b-paypay"
     },
     {
       "name": "福園",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-5ac3be",
+      "shopid": "zama-5ac3be-paypay"
     },
     {
       "name": "ラ・リチェッタ",
-      "address": "相武台1丁目"
+      "address": "相武台1丁目",
+      "storeid": "zama-d98c58",
+      "shopid": "zama-d98c58-paypay"
     },
     {
       "name": "COMMU-CAFE LINKS",
-      "address": "相武台2丁目"
+      "address": "相武台2丁目",
+      "storeid": "zama-5fdcb1",
+      "shopid": "zama-5fdcb1-paypay"
     },
     {
       "name": "焼き菓子&cafeあいむ",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-9c1672",
+      "shopid": "zama-9c1672-paypay"
     },
     {
       "name": "DOLCECASALINGO",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-62f148",
+      "shopid": "zama-62f148-paypay"
     },
     {
       "name": "居酒屋やま",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-954220",
+      "shopid": "zama-954220-paypay"
     },
     {
       "name": "結musubi",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-87eeba",
+      "shopid": "zama-87eeba-paypay"
     },
     {
       "name": "CATANDUANES",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-5f3841",
+      "shopid": "zama-5f3841-paypay"
     },
     {
       "name": "Osteria GiGi",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-8bd47c",
+      "shopid": "zama-8bd47c-paypay"
     },
     {
       "name": "相武台駅前弁当 ポカラ",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-c27a81",
+      "shopid": "zama-c27a81-paypay"
     },
     {
       "name": "dining kitchen GREEN TABLE",
-      "address": "相武台3丁目"
+      "address": "相武台3丁目",
+      "storeid": "zama-bad24a",
+      "shopid": "zama-bad24a-paypay"
     },
     {
       "name": "ぬぅ酒場",
-      "address": "相武台4丁目"
+      "address": "相武台4丁目",
+      "storeid": "zama-84a938",
+      "shopid": "zama-84a938-paypay"
     },
     {
       "name": "BAR aboab＿o",
-      "address": "相武台4丁目"
+      "address": "相武台4丁目",
+      "storeid": "zama-815b26",
+      "shopid": "zama-815b26-paypay"
     },
     {
       "name": "SUSHI 51",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-a76429",
+      "shopid": "zama-a76429-paypay"
     },
     {
       "name": "中華料理 味來",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-d3b513",
+      "shopid": "zama-d3b513-paypay"
     },
     {
       "name": "やきとり二代目うる虎",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-a4522d",
+      "shopid": "zama-a4522d-paypay"
     },
     {
       "name": "鶏均",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-3026f5",
+      "shopid": "zama-3026f5-paypay"
     },
     {
       "name": "小澤商店 小田急相模原店",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-fa31c9",
+      "shopid": "zama-fa31c9-paypay"
     },
     {
       "name": "らぁ麺 秀登",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-9fa8e4",
+      "shopid": "zama-9fa8e4-paypay"
     },
     {
       "name": "タージハラルフードレストラン",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-37ee30",
+      "shopid": "zama-37ee30-paypay"
     },
     {
       "name": "フォルクス 座間店",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-faa298",
+      "shopid": "zama-faa298-paypay"
     },
     {
       "name": "タージビリヤニハウス",
-      "address": "相模が丘1丁目"
+      "address": "相模が丘1丁目",
+      "storeid": "zama-b23a8d",
+      "shopid": "zama-b23a8d-paypay"
     },
     {
       "name": "居酒屋 かんちゃん",
-      "address": "相模が丘2丁目"
+      "address": "相模が丘2丁目",
+      "storeid": "zama-cc8891",
+      "shopid": "zama-cc8891-paypay"
     },
     {
       "name": "台湾料理興福順 座間店",
-      "address": "相模が丘2丁目"
+      "address": "相模が丘2丁目",
+      "storeid": "zama-e87b89",
+      "shopid": "zama-e87b89-paypay"
     },
     {
       "name": "スタミナ3",
-      "address": "相模が丘2丁目"
+      "address": "相模が丘2丁目",
+      "storeid": "zama-2dbb17",
+      "shopid": "zama-2dbb17-paypay"
     },
     {
       "name": "アニメバー アップデート",
-      "address": "相模が丘2丁目"
+      "address": "相模が丘2丁目",
+      "storeid": "zama-28517b",
+      "shopid": "zama-28517b-paypay"
     },
     {
       "name": "NIGHT MARKET",
-      "address": "相模が丘2丁目"
+      "address": "相模が丘2丁目",
+      "storeid": "zama-df52d0",
+      "shopid": "zama-df52d0-paypay"
     },
     {
       "name": "U-nest cafe",
-      "address": "相模が丘2丁目"
+      "address": "相模が丘2丁目",
+      "storeid": "zama-64301a",
+      "shopid": "zama-64301a-paypay"
     },
     {
       "name": "串こころ 愛川本店",
-      "address": "相模が丘3丁目"
+      "address": "相模が丘3丁目",
+      "storeid": "zama-b167bf",
+      "shopid": "zama-b167bf-paypay"
     },
     {
       "name": "信濃",
-      "address": "相模が丘3丁目"
+      "address": "相模が丘3丁目",
+      "storeid": "zama-7de1c1",
+      "shopid": "zama-7de1c1-paypay"
     },
     {
       "name": "福綴",
-      "address": "相模が丘4丁目"
+      "address": "相模が丘4丁目",
+      "storeid": "zama-02beb5",
+      "shopid": "zama-02beb5-paypay"
     },
     {
       "name": "お家Cafe&Bar Don🌻My",
-      "address": "相模が丘4丁目"
+      "address": "相模が丘4丁目",
+      "storeid": "zama-b55c5e",
+      "shopid": "zama-b55c5e-paypay"
     },
     {
       "name": "Cafe WANPAL",
-      "address": "相模が丘4丁目"
+      "address": "相模が丘4丁目",
+      "storeid": "zama-a01327",
+      "shopid": "zama-a01327-paypay"
     },
     {
       "name": "炭火やきとり 昔ばなし",
-      "address": "相模が丘4丁目"
+      "address": "相模が丘4丁目",
+      "storeid": "zama-ead653",
+      "shopid": "zama-ead653-paypay"
     },
     {
       "name": "AcousticBar Rim",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-007ca5",
+      "shopid": "zama-007ca5-paypay"
     },
     {
       "name": "すし処 たか",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-290900",
+      "shopid": "zama-290900-paypay"
     },
     {
       "name": "PUB MISTY",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-d6f6a5",
+      "shopid": "zama-d6f6a5-paypay"
     },
     {
       "name": "bar へぶん",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-8771e7",
+      "shopid": "zama-8771e7-paypay"
     },
     {
       "name": "BIRTH DAYS",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-3a90ef",
+      "shopid": "zama-3a90ef-paypay"
     },
     {
       "name": "ごはんや のり‘sキッチン",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-2aae44",
+      "shopid": "zama-2aae44-paypay"
     },
     {
       "name": "LOGUE CAFE&BAR",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-7e1dbc",
+      "shopid": "zama-7e1dbc-paypay"
     },
     {
       "name": "ちゅーとはんぴ",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-718855",
+      "shopid": "zama-718855-paypay"
     },
     {
       "name": "とのそば",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-be3212",
+      "shopid": "zama-be3212-paypay"
     },
     {
       "name": "@ほーむ",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-13cde7",
+      "shopid": "zama-13cde7-paypay"
     },
     {
       "name": "MABUHAY",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-60e61c",
+      "shopid": "zama-60e61c-paypay"
     },
     {
       "name": "MUSIC BAR 六弦",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-cd9467",
+      "shopid": "zama-cd9467-paypay"
     },
     {
       "name": "スポット",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-1f948f",
+      "shopid": "zama-1f948f-paypay"
     },
     {
       "name": "ツノ生える",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-cc975a",
+      "shopid": "zama-cc975a-paypay"
     },
     {
       "name": "居酒屋 スナックはるみ",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-0fcb12",
+      "shopid": "zama-0fcb12-paypay"
     },
     {
       "name": "cochi cafe",
-      "address": "相模が丘5丁目"
+      "address": "相模が丘5丁目",
+      "storeid": "zama-6792d7",
+      "shopid": "zama-6792d7-paypay"
     },
     {
       "name": "あじわい八 相模が丘店",
-      "address": "相模が丘6丁目"
+      "address": "相模が丘6丁目",
+      "storeid": "zama-8cc802",
+      "shopid": "zama-8cc802-paypay"
     },
     {
       "name": "Cafe Garden",
-      "address": "南栗原6丁目"
+      "address": "南栗原6丁目",
+      "storeid": "zama-4937a6",
+      "shopid": "zama-4937a6-paypay"
     },
     {
       "name": "焼肉スエヒロ館 座間店",
-      "address": "入谷西2丁目"
+      "address": "入谷西2丁目",
+      "storeid": "zama-2dfce7",
+      "shopid": "zama-2dfce7-paypay"
     },
     {
       "name": "おはな食堂",
-      "address": "入谷西3丁目"
+      "address": "入谷西3丁目",
+      "storeid": "zama-4f2c1a",
+      "shopid": "zama-4f2c1a-paypay"
     },
     {
       "name": "居酒屋 リストア",
-      "address": "入谷西4丁目"
+      "address": "入谷西4丁目",
+      "storeid": "zama-a8766d",
+      "shopid": "zama-a8766d-paypay"
     },
     {
       "name": "大勢寿し",
-      "address": "入谷西4丁目"
+      "address": "入谷西4丁目",
+      "storeid": "zama-7f3149",
+      "shopid": "zama-7f3149-paypay"
     },
     {
       "name": "独楽寿司 座間店",
-      "address": "入谷西5丁目"
+      "address": "入谷西5丁目",
+      "storeid": "zama-842070",
+      "shopid": "zama-842070-paypay"
     },
     {
       "name": "ラーメン魁力屋 座間店",
-      "address": "入谷西5丁目"
+      "address": "入谷西5丁目",
+      "storeid": "zama-90ad29",
+      "shopid": "zama-90ad29-paypay"
     },
     {
       "name": "カリガリ神奈川",
-      "address": "入谷西5丁目"
+      "address": "入谷西5丁目",
+      "storeid": "zama-7baa17",
+      "shopid": "zama-7baa17-paypay"
     },
     {
       "name": "焼肉牧場ぼくんち",
-      "address": "入谷東2丁目"
+      "address": "入谷東2丁目",
+      "storeid": "zama-7dbee3",
+      "shopid": "zama-7dbee3-paypay"
     },
     {
       "name": "とり道楽 相武台前駅北口店",
-      "address": "入谷東3丁目"
+      "address": "入谷東3丁目",
+      "storeid": "zama-cd7ae5",
+      "shopid": "zama-cd7ae5-paypay"
     },
     {
       "name": "こやま珈琲",
-      "address": "入谷東3丁目"
+      "address": "入谷東3丁目",
+      "storeid": "zama-eef845",
+      "shopid": "zama-eef845-paypay"
     },
     {
       "name": "Bar Stretta di mano",
-      "address": "入谷東3丁目"
+      "address": "入谷東3丁目",
+      "storeid": "zama-666d54",
+      "shopid": "zama-666d54-paypay"
     },
     {
       "name": "やきとり寿一",
-      "address": "入谷東3丁目"
+      "address": "入谷東3丁目",
+      "storeid": "zama-325d70",
+      "shopid": "zama-325d70-paypay"
     },
     {
       "name": "ループ",
-      "address": "入谷東3丁目"
+      "address": "入谷東3丁目",
+      "storeid": "zama-648864",
+      "shopid": "zama-648864-paypay"
     },
     {
       "name": "唐揚げ工房いいから",
-      "address": "入谷東3丁目"
+      "address": "入谷東3丁目",
+      "storeid": "zama-179264",
+      "shopid": "zama-179264-paypay"
     },
     {
       "name": "喫茶ランドリー(ホシノタニ団地)",
-      "address": "入谷東3丁目"
+      "address": "入谷東3丁目",
+      "storeid": "zama-06ad23",
+      "shopid": "zama-06ad23-paypay"
     },
     {
       "name": "CAFE IMPRESSION",
-      "address": "入谷東3丁目"
+      "address": "入谷東3丁目",
+      "storeid": "zama-e969ef",
+      "shopid": "zama-e969ef-paypay"
     },
     {
       "name": "ポエム 座間駅前本店",
-      "address": "入谷東3丁目"
+      "address": "入谷東3丁目",
+      "storeid": "zama-4e3e59",
+      "shopid": "zama-4e3e59-paypay"
     },
     {
       "name": "Dining bal PEACE",
-      "address": "入谷東3丁目"
+      "address": "入谷東3丁目",
+      "storeid": "zama-58da5f",
+      "shopid": "zama-58da5f-paypay"
     },
     {
       "name": "神龍飯店",
-      "address": "入谷東4丁目"
+      "address": "入谷東4丁目",
+      "storeid": "zama-b1d91b",
+      "shopid": "zama-b1d91b-paypay"
     },
     {
       "name": "さか本そば店",
-      "address": "入谷東4丁目"
+      "address": "入谷東4丁目",
+      "storeid": "zama-6c6e34",
+      "shopid": "zama-6c6e34-paypay"
     },
     {
       "name": "座間丸十製パン",
-      "address": "入谷東4丁目"
+      "address": "入谷東4丁目",
+      "storeid": "zama-fd749a",
+      "shopid": "zama-fd749a-paypay"
     },
     {
       "name": "BooZe BoNd",
-      "address": "入谷東4丁目"
+      "address": "入谷東4丁目",
+      "storeid": "zama-05e458",
+      "shopid": "zama-05e458-paypay"
     },
     {
       "name": "焼肉ホルモンばんげ 座間駅前店",
-      "address": "入谷東4丁目"
+      "address": "入谷東4丁目",
+      "storeid": "zama-4d2ba7",
+      "shopid": "zama-4d2ba7-paypay"
     },
     {
       "name": "みんなのやまちゃん",
-      "address": "緑ケ丘1丁目"
+      "address": "緑ケ丘1丁目",
+      "storeid": "zama-03b114",
+      "shopid": "zama-03b114-paypay"
     },
     {
       "name": "EL BIGOTE(メキシカン エルビゴーテ)",
-      "address": "緑ケ丘3丁目"
+      "address": "緑ケ丘3丁目",
+      "storeid": "zama-60c7b4",
+      "shopid": "zama-60c7b4-paypay"
     },
     {
       "name": "本家かまどや 座間緑ヶ丘店",
-      "address": "緑ケ丘4丁目"
+      "address": "緑ケ丘4丁目",
+      "storeid": "zama-63bfa0",
+      "shopid": "zama-63bfa0-paypay"
     },
     {
       "name": "北京料理 双龍",
-      "address": "緑ケ丘6丁目"
+      "address": "緑ケ丘6丁目",
+      "storeid": "zama-248f3b",
+      "shopid": "zama-248f3b-paypay"
     }
   ]
 }
