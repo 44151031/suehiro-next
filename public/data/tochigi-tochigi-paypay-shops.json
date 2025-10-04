@@ -1,0 +1,408 @@
+{
+  "ガソリンスタンド": [
+    {
+      "name": "栃木大宮SS",
+      "storeid": "tochigi-308747",
+      "shopid": "tochigi-308747-paypay"
+    },
+    {
+      "name": "ENEOSS 赤麻SS",
+      "storeid": "tochigi-c01618",
+      "shopid": "tochigi-c01618-paypay"
+    },
+    {
+      "name": "COSMO　栃木バイパスSS",
+      "storeid": "tochigi-4711ce",
+      "shopid": "tochigi-4711ce-paypay"
+    },
+    {
+      "name": "キグナス石油　セルフ栃木東",
+      "storeid": "tochigi-467dd0",
+      "shopid": "tochigi-467dd0-paypay"
+    },
+    {
+      "name": "ニュー栃木SS",
+      "storeid": "tochigi-8fe2db",
+      "shopid": "tochigi-8fe2db-paypay"
+    },
+    {
+      "name": "COSMOグリーンプラザ栃木SS",
+      "storeid": "tochigi-862b58",
+      "shopid": "tochigi-862b58-paypay"
+    },
+    {
+      "name": "栃木吹上SS",
+      "storeid": "tochigi-41ec36",
+      "shopid": "tochigi-41ec36-paypay"
+    },
+    {
+      "name": "コスモ石油　真名子SS",
+      "storeid": "tochigi-521a59",
+      "shopid": "tochigi-521a59-paypay"
+    },
+    {
+      "name": "有限会社青木石油",
+      "storeid": "tochigi-b5b292",
+      "shopid": "tochigi-b5b292-paypay"
+    },
+    {
+      "name": "コスモ石油　栃木インター",
+      "storeid": "tochigi-fe7b25",
+      "shopid": "tochigi-fe7b25-paypay"
+    },
+    {
+      "name": "ENEOSS 佐藤商事　金崎SS",
+      "storeid": "tochigi-a59f74",
+      "shopid": "tochigi-a59f74-paypay"
+    },
+    {
+      "name": "ENEOS 塚原由店　巴波SS",
+      "storeid": "tochigi-39db13",
+      "shopid": "tochigi-39db13-paypay"
+    },
+    {
+      "name": "有限会社岸オイル栃木インターSS店",
+      "storeid": "tochigi-c27f07",
+      "shopid": "tochigi-c27f07-paypay"
+    },
+    {
+      "name": "有限会社金子油店木野地SS",
+      "storeid": "tochigi-ea9d76",
+      "shopid": "tochigi-ea9d76-paypay"
+    },
+    {
+      "name": "コスモ石油尻内",
+      "storeid": "tochigi-d2b7c3",
+      "shopid": "tochigi-d2b7c3-paypay"
+    }
+  ],
+  "スーパーマーケット": [
+    {
+      "name": "フジマート　岩舟店",
+      "storeid": "tochigi-774ef7",
+      "shopid": "tochigi-774ef7-paypay"
+    },
+    {
+      "name": "アバンセ　都賀店",
+      "storeid": "tochigi-ee7484",
+      "shopid": "tochigi-ee7484-paypay"
+    },
+    {
+      "name": "ヤオリン金崎店",
+      "storeid": "tochigi-90c194",
+      "shopid": "tochigi-90c194-paypay"
+    }
+  ],
+  "ショッピング": [
+    {
+      "name": "シャトレーザ　栃木店",
+      "storeid": "tochigi-bac30c",
+      "shopid": "tochigi-bac30c-paypay"
+    },
+    {
+      "name": "武平作",
+      "storeid": "tochigi-0e35b9",
+      "shopid": "tochigi-0e35b9-paypay"
+    },
+    {
+      "name": "やまや",
+      "storeid": "tochigi-b2ee26",
+      "shopid": "tochigi-b2ee26-paypay"
+    },
+    {
+      "name": "お魚専門店　魚種",
+      "storeid": "tochigi-824ae3",
+      "shopid": "tochigi-824ae3-paypay"
+    },
+    {
+      "name": "ヤオキ",
+      "storeid": "tochigi-334cf1",
+      "shopid": "tochigi-334cf1-paypay"
+    },
+    {
+      "name": "ワッツ",
+      "storeid": "tochigi-969afa",
+      "shopid": "tochigi-969afa-paypay"
+    },
+    {
+      "name": "マツモトキヨシ",
+      "storeid": "tochigi-74bcf1",
+      "shopid": "tochigi-74bcf1-paypay"
+    },
+    {
+      "name": "マナベインテリアハーツ",
+      "storeid": "tochigi-203c38",
+      "shopid": "tochigi-203c38-paypay"
+    },
+    {
+      "name": "永井百貨店",
+      "storeid": "tochigi-5d00ed",
+      "shopid": "tochigi-5d00ed-paypay"
+    },
+    {
+      "name": "lapanxa",
+      "storeid": "tochigi-7f6a24",
+      "shopid": "tochigi-7f6a24-paypay"
+    },
+    {
+      "name": "源吉商店",
+      "storeid": "tochigi-667c33",
+      "shopid": "tochigi-667c33-paypay"
+    },
+    {
+      "name": "味噌まんじゅう新井屋",
+      "storeid": "tochigi-988445",
+      "shopid": "tochigi-988445-paypay"
+    },
+    {
+      "name": "中沢製麺",
+      "storeid": "tochigi-2661a8",
+      "shopid": "tochigi-2661a8-paypay"
+    }
+  ],
+  "酒屋・リカーショップ": [
+    {
+      "name": "きくや酒店",
+      "storeid": "tochigi-deceb9",
+      "shopid": "tochigi-deceb9-paypay"
+    },
+    {
+      "name": "おおわだ酒店",
+      "storeid": "tochigi-3a3dd9",
+      "shopid": "tochigi-3a3dd9-paypay"
+    },
+    {
+      "name": "藤沼酒店",
+      "storeid": "tochigi-8bf5e2",
+      "shopid": "tochigi-8bf5e2-paypay"
+    }
+  ],
+  "本屋さん": [
+    {
+      "name": "富士書店",
+      "storeid": "tochigi-aa5f8d",
+      "shopid": "tochigi-aa5f8d-paypay"
+    },
+    {
+      "name": "出井書店",
+      "storeid": "tochigi-66ba47",
+      "shopid": "tochigi-66ba47-paypay"
+    },
+    {
+      "name": "貴船堂書店",
+      "storeid": "tochigi-6e8d7b",
+      "shopid": "tochigi-6e8d7b-paypay"
+    },
+    {
+      "name": "未来屋書店",
+      "storeid": "tochigi-99de29",
+      "shopid": "tochigi-99de29-paypay"
+    }
+  ],
+  "飲食店": [
+    {
+      "name": "かつはな亭",
+      "storeid": "tochigi-653e2c",
+      "shopid": "tochigi-653e2c-paypay"
+    },
+    {
+      "name": "かくだや",
+      "storeid": "tochigi-42306e",
+      "shopid": "tochigi-42306e-paypay"
+    },
+    {
+      "name": "みそや源兵衛",
+      "storeid": "tochigi-4d8886",
+      "shopid": "tochigi-4d8886-paypay"
+    },
+    {
+      "name": "元祖から揚げ本舗　まんまる",
+      "storeid": "tochigi-1dd682",
+      "shopid": "tochigi-1dd682-paypay"
+    },
+    {
+      "name": "元祖手打ちそば　いづるや",
+      "storeid": "tochigi-8b3a18",
+      "shopid": "tochigi-8b3a18-paypay"
+    },
+    {
+      "name": "やまだ屋",
+      "storeid": "tochigi-672381",
+      "shopid": "tochigi-672381-paypay"
+    },
+    {
+      "name": "梨昌苑",
+      "storeid": "tochigi-311b88",
+      "shopid": "tochigi-311b88-paypay"
+    },
+    {
+      "name": "永花",
+      "storeid": "tochigi-d51c37",
+      "shopid": "tochigi-d51c37-paypay"
+    },
+    {
+      "name": "から揚げ　かずちゃんち",
+      "storeid": "tochigi-c9bfad",
+      "shopid": "tochigi-c9bfad-paypay"
+    },
+    {
+      "name": "Pasta＆Dessert Café APPLE",
+      "storeid": "tochigi-216bba",
+      "shopid": "tochigi-216bba-paypay"
+    },
+    {
+      "name": "麺蔵あつお",
+      "storeid": "tochigi-327b27",
+      "shopid": "tochigi-327b27-paypay"
+    },
+    {
+      "name": "ゲストハウス蔵の街キッチン YADOMEN",
+      "storeid": "tochigi-2f288a",
+      "shopid": "tochigi-2f288a-paypay"
+    },
+    {
+      "name": "麵屋　三井",
+      "storeid": "tochigi-714cac",
+      "shopid": "tochigi-714cac-paypay"
+    },
+    {
+      "name": "海鮮どんさん亭",
+      "storeid": "tochigi-fd6a2e",
+      "shopid": "tochigi-fd6a2e-paypay"
+    },
+    {
+      "name": "中国料理　光琳",
+      "storeid": "tochigi-b2ccda",
+      "shopid": "tochigi-b2ccda-paypay"
+    },
+    {
+      "name": "HOULE coffee&icecream",
+      "storeid": "tochigi-3c6431",
+      "shopid": "tochigi-3c6431-paypay"
+    },
+    {
+      "name": "フランゾ",
+      "storeid": "tochigi-f4b569",
+      "shopid": "tochigi-f4b569-paypay"
+    },
+    {
+      "name": "華華",
+      "storeid": "tochigi-86c52d",
+      "shopid": "tochigi-86c52d-paypay"
+    },
+    {
+      "name": "よし屋",
+      "storeid": "tochigi-5b99a2",
+      "shopid": "tochigi-5b99a2-paypay"
+    },
+    {
+      "name": "牛たんけやき仙台　炭焼き牛たん欅",
+      "storeid": "tochigi-81b40f",
+      "shopid": "tochigi-81b40f-paypay"
+    },
+    {
+      "name": "こまどり棲",
+      "storeid": "tochigi-22f6b5",
+      "shopid": "tochigi-22f6b5-paypay"
+    },
+    {
+      "name": "PLUM kitchen&café",
+      "storeid": "tochigi-37fd58",
+      "shopid": "tochigi-37fd58-paypay"
+    },
+    {
+      "name": "出流そば　福寿屋",
+      "storeid": "tochigi-2642d3",
+      "shopid": "tochigi-2642d3-paypay"
+    },
+    {
+      "name": "いろり庵洗心",
+      "storeid": "tochigi-66a2de",
+      "shopid": "tochigi-66a2de-paypay"
+    },
+    {
+      "name": "とんかつ楽樹",
+      "storeid": "tochigi-f54c3f",
+      "shopid": "tochigi-f54c3f-paypay"
+    },
+    {
+      "name": "炭火焼肉串まつり",
+      "storeid": "tochigi-94671b",
+      "shopid": "tochigi-94671b-paypay"
+    }
+  ],
+  "ホテル・旅館": [
+    {
+      "name": "栃木天然温泉いきいき夢ロマン",
+      "storeid": "tochigi-a53b56",
+      "shopid": "tochigi-a53b56-paypay"
+    },
+    {
+      "name": "栃木温泉　湯楽の里",
+      "storeid": "tochigi-2c537a",
+      "shopid": "tochigi-2c537a-paypay"
+    },
+    {
+      "name": "栃木JIMINIE倶楽部自然の家",
+      "storeid": "tochigi-2eb8f8",
+      "shopid": "tochigi-2eb8f8-paypay"
+    },
+    {
+      "name": "ホテルサンルート栃木",
+      "storeid": "tochigi-bcf259",
+      "shopid": "tochigi-bcf259-paypay"
+    },
+    {
+      "name": "かな半旅館　お食事処かな半",
+      "storeid": "tochigi-5bcd14",
+      "shopid": "tochigi-5bcd14-paypay"
+    },
+    {
+      "name": "柏倉温泉太子館",
+      "storeid": "tochigi-6f2c66",
+      "shopid": "tochigi-6f2c66-paypay"
+    },
+    {
+      "name": "藤や旅館",
+      "storeid": "tochigi-16b6b3",
+      "shopid": "tochigi-16b6b3-paypay"
+    },
+    {
+      "name": "栃木の森キャンプ場",
+      "storeid": "tochigi-a0cbd5",
+      "shopid": "tochigi-a0cbd5-paypay"
+    },
+    {
+      "name": "ビジネスホテル柳泉",
+      "storeid": "tochigi-dab1d8",
+      "shopid": "tochigi-dab1d8-paypay"
+    }
+  ],
+  "ドラッグストア": [
+    {
+      "name": "MENARDいわふね",
+      "storeid": "tochigi-9c2f4e",
+      "shopid": "tochigi-9c2f4e-paypay"
+    },
+    {
+      "name": "ウシク薬局　室町店",
+      "storeid": "tochigi-0966eb",
+      "shopid": "tochigi-0966eb-paypay"
+    },
+    {
+      "name": "福地茂商店",
+      "storeid": "tochigi-f29803",
+      "shopid": "tochigi-f29803-paypay"
+    },
+    {
+      "name": "エビサワ化粧品",
+      "storeid": "tochigi-23f8d3",
+      "shopid": "tochigi-23f8d3-paypay"
+    },
+    {
+      "name": "イシカワ化粧品店",
+      "storeid": "tochigi-9816c4",
+      "shopid": "tochigi-9816c4-paypay"
+    }
+  ]
+}
