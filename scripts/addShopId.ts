@@ -57,12 +57,16 @@ function processFile(filePath: string) {
   const raw = fs.readFileSync(filePath, "utf-8");
   const data = JSON.parse(raw);
 
+  let changed = false; // 更新フラグ
+
   for (const genre of Object.keys(data)) {
     let shops = data[genre];
     if (!Array.isArray(shops)) continue;
 
     // ✅ 重複削除
-    shops = deduplicateShops(shops, fileName);
+    const deduped = deduplicateShops(shops, fileName);
+    if (deduped.length !== shops.length) changed = true;
+    shops = deduped;
 
     data[genre] = shops.map((shop: any) => {
       // 既存があれば維持
@@ -74,6 +78,8 @@ function processFile(filePath: string) {
       // shopid の生成（storeid + paytype）
       const shopid = shop.shopid ?? generateShopId(fileName, shop, storeid);
 
+      if (!shop.shopid || !shop.storeid) changed = true;
+
       return {
         ...shop,
         storeid,
@@ -82,8 +88,14 @@ function processFile(filePath: string) {
     });
   }
 
-  fs.writeFileSync(filePath, JSON.stringify(data, null, 2), "utf-8");
-  console.log(`✅ Updated: ${fileName}`);
+  const newJson = JSON.stringify(data, null, 2);
+
+  if (changed) {
+    fs.writeFileSync(filePath, newJson, "utf-8");
+    console.log(`✅ Updated: ${fileName}`);
+  } else {
+    console.log(`ℹ️ 更新無し: ${fileName}`);
+  }
 }
 
 function main() {
