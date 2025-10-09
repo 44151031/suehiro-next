@@ -1,0 +1,200 @@
+{
+  "飲食": [
+    {
+      "name": "さくら亭",
+      "address": "旭町",
+      "storeid": "kaminoyama-1d65ee",
+      "shopid": "kaminoyama-1d65ee-aupay"
+    },
+    {
+      "name": "つるをcafe",
+      "address": "旭町",
+      "storeid": "kaminoyama-a81d68",
+      "shopid": "kaminoyama-a81d68-aupay"
+    },
+    {
+      "name": "金ちゃんラーメン上山店",
+      "address": "旭町",
+      "storeid": "kaminoyama-e7e5d2",
+      "shopid": "kaminoyama-e7e5d2-aupay"
+    },
+    {
+      "name": "Cafe&Bar JAM",
+      "address": "栄町",
+      "storeid": "kaminoyama-2a72e7",
+      "shopid": "kaminoyama-2a72e7-aupay"
+    },
+    {
+      "name": "Gokotta Coffee",
+      "address": "栄町",
+      "storeid": "kaminoyama-e6aeb1",
+      "shopid": "kaminoyama-e6aeb1-aupay"
+    },
+    {
+      "name": "やまぶきCafe",
+      "address": "下生居新山吹",
+      "storeid": "kaminoyama-925193",
+      "shopid": "kaminoyama-925193-aupay"
+    },
+    {
+      "name": "鮨 扇",
+      "address": "金生",
+      "storeid": "kaminoyama-b51c23",
+      "shopid": "kaminoyama-b51c23-aupay"
+    },
+    {
+      "name": "手打そば たから亭",
+      "address": "金生東",
+      "storeid": "kaminoyama-c81f2c",
+      "shopid": "kaminoyama-c81f2c-aupay"
+    },
+    {
+      "name": "味処松乃屋",
+      "address": "金生東",
+      "storeid": "kaminoyama-d36242",
+      "shopid": "kaminoyama-d36242-aupay"
+    },
+    {
+      "name": "魚料理 大漁",
+      "address": "石崎",
+      "storeid": "kaminoyama-e84d39",
+      "shopid": "kaminoyama-e84d39-aupay"
+    },
+    {
+      "name": "焼肉 暁 AKATSUKI",
+      "address": "南町",
+      "storeid": "kaminoyama-f35ed6",
+      "shopid": "kaminoyama-f35ed6-aupay"
+    },
+    {
+      "name": "宴庭はやと",
+      "address": "二日町",
+      "storeid": "kaminoyama-0de753",
+      "shopid": "kaminoyama-0de753-aupay"
+    },
+    {
+      "name": "居酒屋 紀saku",
+      "address": "二日町",
+      "storeid": "kaminoyama-558098",
+      "shopid": "kaminoyama-558098-aupay"
+    },
+    {
+      "name": "BEARS caffe",
+      "address": "矢来",
+      "storeid": "kaminoyama-75a3bb",
+      "shopid": "kaminoyama-75a3bb-aupay"
+    }
+  ],
+  "小売": [
+    {
+      "name": "ふとんの森谷",
+      "address": "旭町",
+      "storeid": "kaminoyama-e9d4d6",
+      "shopid": "kaminoyama-e9d4d6-aupay"
+    },
+    {
+      "name": "山形オートセンター株式会社",
+      "address": "旭町",
+      "storeid": "kaminoyama-813f2a",
+      "shopid": "kaminoyama-813f2a-aupay"
+    },
+    {
+      "name": "ミスタータイヤマン上山",
+      "address": "河崎",
+      "storeid": "kaminoyama-a3c1f3",
+      "shopid": "kaminoyama-a3c1f3-aupay"
+    },
+    {
+      "name": "わくわくコマレオ上山店",
+      "address": "河崎",
+      "storeid": "kaminoyama-3665a3",
+      "shopid": "kaminoyama-3665a3-aupay"
+    },
+    {
+      "name": "くだものうつわ",
+      "address": "金瓶水上",
+      "storeid": "kaminoyama-bccc8b",
+      "shopid": "kaminoyama-bccc8b-aupay"
+    },
+    {
+      "name": "ファーマーズマーケット トマト 上山店",
+      "address": "金瓶山ノ上",
+      "storeid": "kaminoyama-1b0b96",
+      "shopid": "kaminoyama-1b0b96-aupay"
+    },
+    {
+      "name": "ウッディファーム＆ワイナリー",
+      "address": "原口",
+      "storeid": "kaminoyama-eab721",
+      "shopid": "kaminoyama-eab721-aupay"
+    },
+    {
+      "name": "鏡餅屋",
+      "address": "朝日台",
+      "storeid": "kaminoyama-b41efd",
+      "shopid": "kaminoyama-b41efd-aupay"
+    },
+    {
+      "name": "つきほし果樹",
+      "address": "長清水",
+      "storeid": "kaminoyama-6c022f",
+      "shopid": "kaminoyama-6c022f-aupay"
+    },
+    {
+      "name": "笹長食品",
+      "address": "長清水",
+      "storeid": "kaminoyama-43e230",
+      "shopid": "kaminoyama-43e230-aupay"
+    },
+    {
+      "name": "おかげさま文房具店",
+      "address": "鶴脛町",
+      "storeid": "kaminoyama-5991f0",
+      "shopid": "kaminoyama-5991f0-aupay"
+    },
+    {
+      "name": "山形屋酒店",
+      "address": "矢来",
+      "storeid": "kaminoyama-6f8702",
+      "shopid": "kaminoyama-6f8702-aupay"
+    },
+    {
+      "name": "上山市観光物産協会、山形ワインカーヴ",
+      "address": "矢来",
+      "storeid": "kaminoyama-5c9d70",
+      "shopid": "kaminoyama-5c9d70-aupay"
+    },
+    {
+      "name": "東家菓",
+      "address": "矢来",
+      "storeid": "kaminoyama-053038",
+      "shopid": "kaminoyama-053038-aupay"
+    }
+  ],
+  "サービス": [
+    {
+      "name": "Hair Salon Mint",
+      "address": "旭町",
+      "storeid": "kaminoyama-0269bf",
+      "shopid": "kaminoyama-0269bf-aupay"
+    },
+    {
+      "name": "たく治療院鍼灸マッサージ",
+      "address": "旭町",
+      "storeid": "kaminoyama-c24705",
+      "shopid": "kaminoyama-c24705-aupay"
+    },
+    {
+      "name": "ビューティーサロンどりーむ",
+      "address": "皆沢",
+      "storeid": "kaminoyama-e5a92e",
+      "shopid": "kaminoyama-e5a92e-aupay"
+    },
+    {
+      "name": "観光タクシー株式会社",
+      "address": "河崎",
+      "storeid": "kaminoyama-1cd135",
+      "shopid": "kaminoyama-1cd135-aupay"
+    }
+  ]
+}
