@@ -1,0 +1,3180 @@
+{
+  "サービス": [
+    {
+      "name": "うさちゃんクリーニングベイシア那須塩原",
+      "address": "西那須野",
+      "storeid": "nasushiobara-f07fb6",
+      "shopid": "nasushiobara-f07fb6-aupay"
+    },
+    {
+      "name": "うさちゃんクリーニングヨークベニマル西富山店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-f07b84",
+      "shopid": "nasushiobara-f07b84-aupay"
+    },
+    {
+      "name": "うさちゃんクリーニングヨークベニマル西那須野店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-1eea72",
+      "shopid": "nasushiobara-1eea72-aupay"
+    },
+    {
+      "name": "うさちゃんクリーニング那須塩原店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-7b9ef3",
+      "shopid": "nasushiobara-7b9ef3-aupay"
+    },
+    {
+      "name": "おそうじ本舗　西那須野店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-4ad5b7",
+      "shopid": "nasushiobara-4ad5b7-aupay"
+    },
+    {
+      "name": "おそうじ本舗那須町店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-aef591",
+      "shopid": "nasushiobara-aef591-aupay"
+    },
+    {
+      "name": "おまかせオート石川",
+      "address": "黒磯",
+      "storeid": "nasushiobara-229435",
+      "shopid": "nasushiobara-229435-aupay"
+    },
+    {
+      "name": "へあ～さろんはぁと",
+      "address": "西那須野",
+      "storeid": "nasushiobara-dcc25e",
+      "shopid": "nasushiobara-dcc25e-aupay"
+    },
+    {
+      "name": "もみかる那須塩原上厚崎店",
+      "address": "塩原",
+      "storeid": "nasushiobara-2e2907",
+      "shopid": "nasushiobara-2e2907-aupay"
+    },
+    {
+      "name": "もみかる那須塩原下永田店",
+      "address": "塩原",
+      "storeid": "nasushiobara-487bc0",
+      "shopid": "nasushiobara-487bc0-aupay"
+    },
+    {
+      "name": "アリスヨークベニマル那須塩原店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-f3f874",
+      "shopid": "nasushiobara-f3f874-aupay"
+    },
+    {
+      "name": "インプルーヴ那須合同会社",
+      "address": "黒磯",
+      "storeid": "nasushiobara-bbf57b",
+      "shopid": "nasushiobara-bbf57b-aupay"
+    },
+    {
+      "name": "イン東京那須塩原",
+      "address": "西那須野",
+      "storeid": "nasushiobara-592b0a",
+      "shopid": "nasushiobara-592b0a-aupay"
+    },
+    {
+      "name": "イーサービス",
+      "address": "黒磯",
+      "storeid": "nasushiobara-cdca52",
+      "shopid": "nasushiobara-cdca52-aupay"
+    },
+    {
+      "name": "エイショウテクニカ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-887cee",
+      "shopid": "nasushiobara-887cee-aupay"
+    },
+    {
+      "name": "エステサロンパール",
+      "address": "西那須野",
+      "storeid": "nasushiobara-56e94c",
+      "shopid": "nasushiobara-56e94c-aupay"
+    },
+    {
+      "name": "オレンジハートランドリー",
+      "address": "西那須野",
+      "storeid": "nasushiobara-e3a8a0",
+      "shopid": "nasushiobara-e3a8a0-aupay"
+    },
+    {
+      "name": "オートワーカーガレージ　ゴトウ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-2ded21",
+      "shopid": "nasushiobara-2ded21-aupay"
+    },
+    {
+      "name": "カイロプラクティック井上",
+      "address": "西那須野",
+      "storeid": "nasushiobara-f49815",
+      "shopid": "nasushiobara-f49815-aupay"
+    },
+    {
+      "name": "カイロ整体　リリース",
+      "address": "黒磯",
+      "storeid": "nasushiobara-5daa49",
+      "shopid": "nasushiobara-5daa49-aupay"
+    },
+    {
+      "name": "カインズホーム黒磯店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-172139",
+      "shopid": "nasushiobara-172139-aupay"
+    },
+    {
+      "name": "カットインエイシ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-d187bc",
+      "shopid": "nasushiobara-d187bc-aupay"
+    },
+    {
+      "name": "カットハウス　ウイング",
+      "address": "黒磯",
+      "storeid": "nasushiobara-97ed33",
+      "shopid": "nasushiobara-97ed33-aupay"
+    },
+    {
+      "name": "キッズクラブＦｅｎｉｘ託児所",
+      "address": "西那須野",
+      "storeid": "nasushiobara-e4f738",
+      "shopid": "nasushiobara-e4f738-aupay"
+    },
+    {
+      "name": "クリーニング専科東三島店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-c1b8fe",
+      "shopid": "nasushiobara-c1b8fe-aupay"
+    },
+    {
+      "name": "シャロン",
+      "address": "西那須野",
+      "storeid": "nasushiobara-ad77c8",
+      "shopid": "nasushiobara-ad77c8-aupay"
+    },
+    {
+      "name": "ドッグサロン　ブラックフィールドキッズ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-3b38a8",
+      "shopid": "nasushiobara-3b38a8-aupay"
+    },
+    {
+      "name": "ネイルサロン　Ｊｅｗｄｙ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-55cd2f",
+      "shopid": "nasushiobara-55cd2f-aupay"
+    },
+    {
+      "name": "ファッションケアサロン花車",
+      "address": "黒磯",
+      "storeid": "nasushiobara-cb11ee",
+      "shopid": "nasushiobara-cb11ee-aupay"
+    },
+    {
+      "name": "ファミリー・ヘアケア　ＡＩ　スマイル",
+      "address": "黒磯",
+      "storeid": "nasushiobara-faeb9e",
+      "shopid": "nasushiobara-faeb9e-aupay"
+    },
+    {
+      "name": "フィットネス　パーソナルジム小宇宙",
+      "address": "西那須野",
+      "storeid": "nasushiobara-d74f2b",
+      "shopid": "nasushiobara-d74f2b-aupay"
+    },
+    {
+      "name": "ブルースカイランドリー　ダイユー東那須店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-860166",
+      "shopid": "nasushiobara-860166-aupay"
+    },
+    {
+      "name": "プメハナ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-a8504c",
+      "shopid": "nasushiobara-a8504c-aupay"
+    },
+    {
+      "name": "プライベートエステサロン　プメハナ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-5c25f4",
+      "shopid": "nasushiobara-5c25f4-aupay"
+    },
+    {
+      "name": "プライベートサロンラクシュミー",
+      "address": "西那須野",
+      "storeid": "nasushiobara-014045",
+      "shopid": "nasushiobara-014045-aupay"
+    },
+    {
+      "name": "プライベートサロンｅｌｌｅ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-7db83a",
+      "shopid": "nasushiobara-7db83a-aupay"
+    },
+    {
+      "name": "プロタイムズ那須塩原店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-d72403",
+      "shopid": "nasushiobara-d72403-aupay"
+    },
+    {
+      "name": "ヘア　スペース　ハーティー",
+      "address": "西那須野",
+      "storeid": "nasushiobara-6e19e0",
+      "shopid": "nasushiobara-6e19e0-aupay"
+    },
+    {
+      "name": "ヘアコンシェルジュ　ＫａｚｕＫｏ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-f9ba55",
+      "shopid": "nasushiobara-f9ba55-aupay"
+    },
+    {
+      "name": "ヘアサロンルルド",
+      "address": "黒磯",
+      "storeid": "nasushiobara-1c88d9",
+      "shopid": "nasushiobara-1c88d9-aupay"
+    },
+    {
+      "name": "ヘアサロンＧＰＳ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-2c9b0c",
+      "shopid": "nasushiobara-2c9b0c-aupay"
+    },
+    {
+      "name": "ベスト・カット　黒磯店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-1e631b",
+      "shopid": "nasushiobara-1e631b-aupay"
+    },
+    {
+      "name": "ベルエール北関東2号店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-7d05d0",
+      "shopid": "nasushiobara-7d05d0-aupay"
+    },
+    {
+      "name": "ホワイトニングサロンルナ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-8b13ce",
+      "shopid": "nasushiobara-8b13ce-aupay"
+    },
+    {
+      "name": "マルサンレンタルスペース",
+      "address": "西那須野",
+      "storeid": "nasushiobara-a02f28",
+      "shopid": "nasushiobara-a02f28-aupay"
+    },
+    {
+      "name": "メンズ専門脱毛サロンＤＡＭＥＲＩＮＯ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-5743da",
+      "shopid": "nasushiobara-5743da-aupay"
+    },
+    {
+      "name": "ユタカ土建",
+      "address": "黒磯",
+      "storeid": "nasushiobara-d5c8f9",
+      "shopid": "nasushiobara-d5c8f9-aupay"
+    },
+    {
+      "name": "ラナイ美容室",
+      "address": "塩原",
+      "storeid": "nasushiobara-21425c",
+      "shopid": "nasushiobara-21425c-aupay"
+    },
+    {
+      "name": "ヴィヴィパソコンサポート",
+      "address": "西那須野",
+      "storeid": "nasushiobara-a15293",
+      "shopid": "nasushiobara-a15293-aupay"
+    },
+    {
+      "name": "九峰工業",
+      "address": "黒磯",
+      "storeid": "nasushiobara-4a9179",
+      "shopid": "nasushiobara-4a9179-aupay"
+    },
+    {
+      "name": "前田電設株式会社",
+      "address": "黒磯",
+      "storeid": "nasushiobara-5f4eed",
+      "shopid": "nasushiobara-5f4eed-aupay"
+    },
+    {
+      "name": "協栄自動車　フロンティア",
+      "address": "黒磯",
+      "storeid": "nasushiobara-c0539e",
+      "shopid": "nasushiobara-c0539e-aupay"
+    },
+    {
+      "name": "嬉嬉龍",
+      "address": "西那須野",
+      "storeid": "nasushiobara-148c1a",
+      "shopid": "nasushiobara-148c1a-aupay"
+    },
+    {
+      "name": "宗形自動車整備工場",
+      "address": "黒磯",
+      "storeid": "nasushiobara-b34125",
+      "shopid": "nasushiobara-b34125-aupay"
+    },
+    {
+      "name": "小川自動車",
+      "address": "西那須野",
+      "storeid": "nasushiobara-9650bf",
+      "shopid": "nasushiobara-9650bf-aupay"
+    },
+    {
+      "name": "市川自動車商会",
+      "address": "黒磯",
+      "storeid": "nasushiobara-59244d",
+      "shopid": "nasushiobara-59244d-aupay"
+    },
+    {
+      "name": "戸川商会",
+      "address": "西那須野",
+      "storeid": "nasushiobara-9ac0e7",
+      "shopid": "nasushiobara-9ac0e7-aupay"
+    },
+    {
+      "name": "整体院　山本",
+      "address": "黒磯",
+      "storeid": "nasushiobara-ecc4e2",
+      "shopid": "nasushiobara-ecc4e2-aupay"
+    },
+    {
+      "name": "有限会社プリズム",
+      "address": "黒磯",
+      "storeid": "nasushiobara-e81f97",
+      "shopid": "nasushiobara-e81f97-aupay"
+    },
+    {
+      "name": "有限会社三光ドライ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-fc3436",
+      "shopid": "nasushiobara-fc3436-aupay"
+    },
+    {
+      "name": "有限会社京浜サービス",
+      "address": "黒磯",
+      "storeid": "nasushiobara-3a43d1",
+      "shopid": "nasushiobara-3a43d1-aupay"
+    },
+    {
+      "name": "有限会社立場佐藤商店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-72670c",
+      "shopid": "nasushiobara-72670c-aupay"
+    },
+    {
+      "name": "木のおもちゃスペースｈａｍｉ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-7c81e0",
+      "shopid": "nasushiobara-7c81e0-aupay"
+    },
+    {
+      "name": "木村",
+      "address": "西那須野",
+      "storeid": "nasushiobara-fbb403",
+      "shopid": "nasushiobara-fbb403-aupay"
+    },
+    {
+      "name": "東邦モータース",
+      "address": "黒磯",
+      "storeid": "nasushiobara-9a7faf",
+      "shopid": "nasushiobara-9a7faf-aupay"
+    },
+    {
+      "name": "株式会社メビウスオート販売",
+      "address": "西那須野",
+      "storeid": "nasushiobara-5bdcbe",
+      "shopid": "nasushiobara-5bdcbe-aupay"
+    },
+    {
+      "name": "株式会社真田ジャパン",
+      "address": "西那須野",
+      "storeid": "nasushiobara-ab8215",
+      "shopid": "nasushiobara-ab8215-aupay"
+    },
+    {
+      "name": "江連電機",
+      "address": "西那須野",
+      "storeid": "nasushiobara-c6b5c8",
+      "shopid": "nasushiobara-c6b5c8-aupay"
+    },
+    {
+      "name": "理容サトウ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-e58bd6",
+      "shopid": "nasushiobara-e58bd6-aupay"
+    },
+    {
+      "name": "理容フジタ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-ee27d5",
+      "shopid": "nasushiobara-ee27d5-aupay"
+    },
+    {
+      "name": "理容室　心",
+      "address": "西那須野",
+      "storeid": "nasushiobara-8cb7fc",
+      "shopid": "nasushiobara-8cb7fc-aupay"
+    },
+    {
+      "name": "田中自動車ガラス店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-55b03d",
+      "shopid": "nasushiobara-55b03d-aupay"
+    },
+    {
+      "name": "発酵おうちごはんハレ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-a18b63",
+      "shopid": "nasushiobara-a18b63-aupay"
+    },
+    {
+      "name": "白洗舎本店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-3b78bf",
+      "shopid": "nasushiobara-3b78bf-aupay"
+    },
+    {
+      "name": "益子印刻所",
+      "address": "西那須野",
+      "storeid": "nasushiobara-7c0ce3",
+      "shopid": "nasushiobara-7c0ce3-aupay"
+    },
+    {
+      "name": "福山自動車興業",
+      "address": "黒磯",
+      "storeid": "nasushiobara-c68f94",
+      "shopid": "nasushiobara-c68f94-aupay"
+    },
+    {
+      "name": "福田電工",
+      "address": "黒磯",
+      "storeid": "nasushiobara-078fd8",
+      "shopid": "nasushiobara-078fd8-aupay"
+    },
+    {
+      "name": "維鴻",
+      "address": "塩原",
+      "storeid": "nasushiobara-6bf954",
+      "shopid": "nasushiobara-6bf954-aupay"
+    },
+    {
+      "name": "緑の休日",
+      "address": "西那須野",
+      "storeid": "nasushiobara-ef3bbe",
+      "shopid": "nasushiobara-ef3bbe-aupay"
+    },
+    {
+      "name": "美容室　ＫＥＹＭＡＮ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-8086a2",
+      "shopid": "nasushiobara-8086a2-aupay"
+    },
+    {
+      "name": "美容室　ｔｏｂｉｒａ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-b1363d",
+      "shopid": "nasushiobara-b1363d-aupay"
+    },
+    {
+      "name": "美容室ブランシュ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-c23c84",
+      "shopid": "nasushiobara-c23c84-aupay"
+    },
+    {
+      "name": "美容室ブルーム",
+      "address": "黒磯",
+      "storeid": "nasushiobara-08492e",
+      "shopid": "nasushiobara-08492e-aupay"
+    },
+    {
+      "name": "美容室ＷＯＯＤＹ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-950070",
+      "shopid": "nasushiobara-950070-aupay"
+    },
+    {
+      "name": "脱毛専門サロン　カナエル",
+      "address": "西那須野",
+      "storeid": "nasushiobara-21e656",
+      "shopid": "nasushiobara-21e656-aupay"
+    },
+    {
+      "name": "荒井鈑金塗装工業",
+      "address": "黒磯",
+      "storeid": "nasushiobara-c588d3",
+      "shopid": "nasushiobara-c588d3-aupay"
+    },
+    {
+      "name": "遊人",
+      "address": "黒磯",
+      "storeid": "nasushiobara-e2792d",
+      "shopid": "nasushiobara-e2792d-aupay"
+    },
+    {
+      "name": "那須ライフ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-cce28b",
+      "shopid": "nasushiobara-cce28b-aupay"
+    },
+    {
+      "name": "那須鈑金株式会社",
+      "address": "西那須野",
+      "storeid": "nasushiobara-423280",
+      "shopid": "nasushiobara-423280-aupay"
+    },
+    {
+      "name": "金沢屋　那須町店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-c8d7c7",
+      "shopid": "nasushiobara-c8d7c7-aupay"
+    },
+    {
+      "name": "陽だまり",
+      "address": "黒磯",
+      "storeid": "nasushiobara-dec194",
+      "shopid": "nasushiobara-dec194-aupay"
+    },
+    {
+      "name": "青空プロジェクト　ＴＨＥ　ＤＡＹ",
+      "address": "塩原",
+      "storeid": "nasushiobara-4e9f49",
+      "shopid": "nasushiobara-4e9f49-aupay"
+    },
+    {
+      "name": "ｂｌｕｍｅ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-4fdc0c",
+      "shopid": "nasushiobara-4fdc0c-aupay"
+    },
+    {
+      "name": "Ｃｈｅｅｒｆｕｌ　Ｈｅａｒｔ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-7f5366",
+      "shopid": "nasushiobara-7f5366-aupay"
+    },
+    {
+      "name": "ＣＨＥＳＴＥＲ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-074c2c",
+      "shopid": "nasushiobara-074c2c-aupay"
+    },
+    {
+      "name": "ＣＲＹＳＴＡＬ　ＨＥＡＲＴ　ＨＡＩＲ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-d70e90",
+      "shopid": "nasushiobara-d70e90-aupay"
+    },
+    {
+      "name": "ｃｕｔ　ｉｎ　ＳｕＺｕＫｉ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-0fbb29",
+      "shopid": "nasushiobara-0fbb29-aupay"
+    },
+    {
+      "name": "Ｄｅｔｏｘ＆Ｂｅａｕｔｙ　ＲＥＳＥＴ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-9b4e11",
+      "shopid": "nasushiobara-9b4e11-aupay"
+    },
+    {
+      "name": "ｄｉｘ　ｔｒｏｉｓ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-252e29",
+      "shopid": "nasushiobara-252e29-aupay"
+    },
+    {
+      "name": "Ｄｏｇ　Ｓａｌｏｎ　Ｃｕｏｒｅ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-f2e509",
+      "shopid": "nasushiobara-f2e509-aupay"
+    },
+    {
+      "name": "ＥｓｔｈｅｓａｌｏｎＣｉｅｌ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-1fe90c",
+      "shopid": "nasushiobara-1fe90c-aupay"
+    },
+    {
+      "name": "Ｅｓｔｈｅｔｉｃ　Ｓａｌｏｎ　Ｃ．",
+      "address": "黒磯",
+      "storeid": "nasushiobara-58a84e",
+      "shopid": "nasushiobara-58a84e-aupay"
+    },
+    {
+      "name": "ＦＬＯＷ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-3cb4f5",
+      "shopid": "nasushiobara-3cb4f5-aupay"
+    },
+    {
+      "name": "ＦＯＬＫ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-191aea",
+      "shopid": "nasushiobara-191aea-aupay"
+    },
+    {
+      "name": "Ｈａｉｒ　Ｓａｌｏｎ　ＣＯＣＯ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-3eb147",
+      "shopid": "nasushiobara-3eb147-aupay"
+    },
+    {
+      "name": "ｈａｉｒ　ｓａｌｏｎ　ＨＡＫｕ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-b3c4f3",
+      "shopid": "nasushiobara-b3c4f3-aupay"
+    },
+    {
+      "name": "ｈａｉｒ　ｓｈｏｐ　ＢＯＳＥ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-4c9143",
+      "shopid": "nasushiobara-4c9143-aupay"
+    },
+    {
+      "name": "Ｈａｉｒ＆Ｎａｉｌ　Ｒａｓｓｕｒｅｒ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-3da13c",
+      "shopid": "nasushiobara-3da13c-aupay"
+    },
+    {
+      "name": "ＨＡＩＲＤＥＳＩＧＮ粋",
+      "address": "黒磯",
+      "storeid": "nasushiobara-4db999",
+      "shopid": "nasushiobara-4db999-aupay"
+    },
+    {
+      "name": "ＨｏｎｏＨｏｎｏ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-382866",
+      "shopid": "nasushiobara-382866-aupay"
+    },
+    {
+      "name": "Ｈｏｕｎ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-591bf0",
+      "shopid": "nasushiobara-591bf0-aupay"
+    },
+    {
+      "name": "ＪＵＮＩＰＥＲ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-bbbaec",
+      "shopid": "nasushiobara-bbbaec-aupay"
+    },
+    {
+      "name": "ＫＥＹＭＡＮ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-285dec",
+      "shopid": "nasushiobara-285dec-aupay"
+    },
+    {
+      "name": "ｋｉｌｉｎａｈｅ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-6773a9",
+      "shopid": "nasushiobara-6773a9-aupay"
+    },
+    {
+      "name": "Ｋｉｒｅｉ西那須野店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-c56126",
+      "shopid": "nasushiobara-c56126-aupay"
+    },
+    {
+      "name": "Ｋｏｋｏｐｅｌｌｉ　整体院",
+      "address": "西那須野",
+      "storeid": "nasushiobara-a994ba",
+      "shopid": "nasushiobara-a994ba-aupay"
+    },
+    {
+      "name": "ｋｏｓ．",
+      "address": "黒磯",
+      "storeid": "nasushiobara-68b22e",
+      "shopid": "nasushiobara-68b22e-aupay"
+    },
+    {
+      "name": "ＬａＢｒｉｌｌｅｒ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-828b83",
+      "shopid": "nasushiobara-828b83-aupay"
+    },
+    {
+      "name": "Ｌｕｃｉａ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-234111",
+      "shopid": "nasushiobara-234111-aupay"
+    },
+    {
+      "name": "Ｌｙｃｏｒｉｓーリコリスー",
+      "address": "塩原",
+      "storeid": "nasushiobara-a9b020",
+      "shopid": "nasushiobara-a9b020-aupay"
+    },
+    {
+      "name": "ＭＡＱＵＩＡ　那須塩原店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-d122ce",
+      "shopid": "nasushiobara-d122ce-aupay"
+    },
+    {
+      "name": "ｍｉｚｕｄｏｒｉ",
+      "address": "塩原",
+      "storeid": "nasushiobara-8d2b0a",
+      "shopid": "nasushiobara-8d2b0a-aupay"
+    },
+    {
+      "name": "ＭｏｄｅｌｓｔｕｄｉｏＬｕｃｅ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-a43cbe",
+      "shopid": "nasushiobara-a43cbe-aupay"
+    },
+    {
+      "name": "ｎａ　ｃｏｍｐａｎｙ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-fb50a0",
+      "shopid": "nasushiobara-fb50a0-aupay"
+    },
+    {
+      "name": "Ｎａｔｕｒａｌｂｏｄｙ＿ｍｕｕ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-c56d8f",
+      "shopid": "nasushiobara-c56d8f-aupay"
+    },
+    {
+      "name": "ＰＥＡＣＥＢＵＬＬ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-6c210a",
+      "shopid": "nasushiobara-6c210a-aupay"
+    },
+    {
+      "name": "ＰｈｏｔｏＭｏｔｔｏ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-f0b021",
+      "shopid": "nasushiobara-f0b021-aupay"
+    },
+    {
+      "name": "ＰＯＰＯＨＡＵ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-3fc429",
+      "shopid": "nasushiobara-3fc429-aupay"
+    },
+    {
+      "name": "ＰＯＷ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-bd43a2",
+      "shopid": "nasushiobara-bd43a2-aupay"
+    },
+    {
+      "name": "Ｒｅ．ｆｌｅｕｒ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-7e3997",
+      "shopid": "nasushiobara-7e3997-aupay"
+    },
+    {
+      "name": "ＲＥ：ＰＯＳＴ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-812339",
+      "shopid": "nasushiobara-812339-aupay"
+    },
+    {
+      "name": "ｒｅｔｏｕｒ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-8c281a",
+      "shopid": "nasushiobara-8c281a-aupay"
+    },
+    {
+      "name": "ｒｉｄｄｌｅ−ｈａｉｒ　黒磯店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-eac56f",
+      "shopid": "nasushiobara-eac56f-aupay"
+    },
+    {
+      "name": "ＲＭ＆ＡＭ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-4455dd",
+      "shopid": "nasushiobara-4455dd-aupay"
+    },
+    {
+      "name": "ＲＯＳＥＴＴＹ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-f7f613",
+      "shopid": "nasushiobara-f7f613-aupay"
+    },
+    {
+      "name": "ｓａｌｏｎｐｒｉｖｅｕｆｕ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-8afb65",
+      "shopid": "nasushiobara-8afb65-aupay"
+    },
+    {
+      "name": "ｓｉｉｑａ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-0af165",
+      "shopid": "nasushiobara-0af165-aupay"
+    },
+    {
+      "name": "ＳＵＮＮＹ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-b3bf40",
+      "shopid": "nasushiobara-b3bf40-aupay"
+    },
+    {
+      "name": "ＶＴＧｅｙｅｌａｓｈ那須塩原店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-62678d",
+      "shopid": "nasushiobara-62678d-aupay"
+    }
+  ],
+  "小売": [
+    {
+      "name": "おいしい肉屋さん西那須野店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-c03bed",
+      "shopid": "nasushiobara-c03bed-aupay"
+    },
+    {
+      "name": "おもちゃのマンネンヤ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-c86efb",
+      "shopid": "nasushiobara-c86efb-aupay"
+    },
+    {
+      "name": "かのん",
+      "address": "黒磯",
+      "storeid": "nasushiobara-683336",
+      "shopid": "nasushiobara-683336-aupay"
+    },
+    {
+      "name": "こだき洋品店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-126b28",
+      "shopid": "nasushiobara-126b28-aupay"
+    },
+    {
+      "name": "ちいさな写真屋さん＊",
+      "address": "西那須野",
+      "storeid": "nasushiobara-db2754",
+      "shopid": "nasushiobara-db2754-aupay"
+    },
+    {
+      "name": "ちょこＪａｃｋ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-a92e47",
+      "shopid": "nasushiobara-a92e47-aupay"
+    },
+    {
+      "name": "つゆごもり",
+      "address": "黒磯",
+      "storeid": "nasushiobara-7f0632",
+      "shopid": "nasushiobara-7f0632-aupay"
+    },
+    {
+      "name": "ときわゴルフ練習場",
+      "address": "黒磯",
+      "storeid": "nasushiobara-06cc83",
+      "shopid": "nasushiobara-06cc83-aupay"
+    },
+    {
+      "name": "とりせん上厚崎店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-12852d",
+      "shopid": "nasushiobara-12852d-aupay"
+    },
+    {
+      "name": "とりせん黒磯店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-863795",
+      "shopid": "nasushiobara-863795-aupay"
+    },
+    {
+      "name": "ねだや模型",
+      "address": "西那須野",
+      "storeid": "nasushiobara-71ed6d",
+      "shopid": "nasushiobara-71ed6d-aupay"
+    },
+    {
+      "name": "はまや生花店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-34c243",
+      "shopid": "nasushiobara-34c243-aupay"
+    },
+    {
+      "name": "ひととき＊お菓子＆雑貨＊",
+      "address": "黒磯",
+      "storeid": "nasushiobara-c1ff8f",
+      "shopid": "nasushiobara-c1ff8f-aupay"
+    },
+    {
+      "name": "やまや西那須野店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-215caa",
+      "shopid": "nasushiobara-215caa-aupay"
+    },
+    {
+      "name": "やまや黒磯店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-861007",
+      "shopid": "nasushiobara-861007-aupay"
+    },
+    {
+      "name": "ゆうぷら西那須野店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-141b9e",
+      "shopid": "nasushiobara-141b9e-aupay"
+    },
+    {
+      "name": "アストロプロダクツ　那須塩原店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-14732b",
+      "shopid": "nasushiobara-14732b-aupay"
+    },
+    {
+      "name": "アンカースケートショップ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-f6192f",
+      "shopid": "nasushiobara-f6192f-aupay"
+    },
+    {
+      "name": "インド料理スビマハル",
+      "address": "西那須野",
+      "storeid": "nasushiobara-b6bfd1",
+      "shopid": "nasushiobara-b6bfd1-aupay"
+    },
+    {
+      "name": "オートピットハウス",
+      "address": "黒磯",
+      "storeid": "nasushiobara-24a0c8",
+      "shopid": "nasushiobara-24a0c8-aupay"
+    },
+    {
+      "name": "カインズホーム西那須野店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-109d6f",
+      "shopid": "nasushiobara-109d6f-aupay"
+    },
+    {
+      "name": "カーベル那須塩原",
+      "address": "黒磯",
+      "storeid": "nasushiobara-0cf3df",
+      "shopid": "nasushiobara-0cf3df-aupay"
+    },
+    {
+      "name": "カーライフサポートアールズラボ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-beb132",
+      "shopid": "nasushiobara-beb132-aupay"
+    },
+    {
+      "name": "ガリバー那須塩原店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-f78f8f",
+      "shopid": "nasushiobara-f78f8f-aupay"
+    },
+    {
+      "name": "キャプテンハウスいせや",
+      "address": "黒磯",
+      "storeid": "nasushiobara-73a269",
+      "shopid": "nasushiobara-73a269-aupay"
+    },
+    {
+      "name": "クロス　ライド",
+      "address": "黒磯",
+      "storeid": "nasushiobara-cce398",
+      "shopid": "nasushiobara-cce398-aupay"
+    },
+    {
+      "name": "ケーズデンキ西那須野店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-6640ac",
+      "shopid": "nasushiobara-6640ac-aupay"
+    },
+    {
+      "name": "ケーズデンキ那須塩原店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-b968af",
+      "shopid": "nasushiobara-b968af-aupay"
+    },
+    {
+      "name": "コジマ×ビックカメラ黒磯店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-010320",
+      "shopid": "nasushiobara-010320-aupay"
+    },
+    {
+      "name": "サンジュエリ　きくち",
+      "address": "西那須野",
+      "storeid": "nasushiobara-9bccfe",
+      "shopid": "nasushiobara-9bccfe-aupay"
+    },
+    {
+      "name": "サンノハチ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-8c0b42",
+      "shopid": "nasushiobara-8c0b42-aupay"
+    },
+    {
+      "name": "スタジオかれん那須塩原乃木参道",
+      "address": "西那須野",
+      "storeid": "nasushiobara-e24f9f",
+      "shopid": "nasushiobara-e24f9f-aupay"
+    },
+    {
+      "name": "ストリートメイキング",
+      "address": "黒磯",
+      "storeid": "nasushiobara-92ba23",
+      "shopid": "nasushiobara-92ba23-aupay"
+    },
+    {
+      "name": "スポーツプラザ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-54d020",
+      "shopid": "nasushiobara-54d020-aupay"
+    },
+    {
+      "name": "タイヤショプトチギ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-c866be",
+      "shopid": "nasushiobara-c866be-aupay"
+    },
+    {
+      "name": "タカダ西那須野本店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-d0f198",
+      "shopid": "nasushiobara-d0f198-aupay"
+    },
+    {
+      "name": "ダイユー中央店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-6241a4",
+      "shopid": "nasushiobara-6241a4-aupay"
+    },
+    {
+      "name": "ダイユー東那須店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-ae93b7",
+      "shopid": "nasushiobara-ae93b7-aupay"
+    },
+    {
+      "name": "ダイユー若松店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-4b8a08",
+      "shopid": "nasushiobara-4b8a08-aupay"
+    },
+    {
+      "name": "ダイユー鍋掛店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-39d1a6",
+      "shopid": "nasushiobara-39d1a6-aupay"
+    },
+    {
+      "name": "ダイリン",
+      "address": "西那須野",
+      "storeid": "nasushiobara-683602",
+      "shopid": "nasushiobara-683602-aupay"
+    },
+    {
+      "name": "ツキイデンキ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-5443dc",
+      "shopid": "nasushiobara-5443dc-aupay"
+    },
+    {
+      "name": "トヨタカローラ栃木中古車　にしなすの",
+      "address": "西那須野",
+      "storeid": "nasushiobara-b499de",
+      "shopid": "nasushiobara-b499de-aupay"
+    },
+    {
+      "name": "トヨタカローラ栃木西那須野店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-b71a75",
+      "shopid": "nasushiobara-b71a75-aupay"
+    },
+    {
+      "name": "トヨタカローラ栃木黒磯店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-1663f2",
+      "shopid": "nasushiobara-1663f2-aupay"
+    },
+    {
+      "name": "トータルカーサービス　街のタイヤ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-8cd9de",
+      "shopid": "nasushiobara-8cd9de-aupay"
+    },
+    {
+      "name": "トータルファッションあかばね",
+      "address": "西那須野",
+      "storeid": "nasushiobara-750fe4",
+      "shopid": "nasushiobara-750fe4-aupay"
+    },
+    {
+      "name": "トーホー　北関東　那須支店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-13fe94",
+      "shopid": "nasushiobara-13fe94-aupay"
+    },
+    {
+      "name": "ドルフィン",
+      "address": "黒磯",
+      "storeid": "nasushiobara-3ab0cc",
+      "shopid": "nasushiobara-3ab0cc-aupay"
+    },
+    {
+      "name": "ナガセビュ−ティケァ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-45e8c7",
+      "shopid": "nasushiobara-45e8c7-aupay"
+    },
+    {
+      "name": "ニトリ那須塩原店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-bb8dca",
+      "shopid": "nasushiobara-bb8dca-aupay"
+    },
+    {
+      "name": "ネッツトヨタ栃木西那須野店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-ba8b99",
+      "shopid": "nasushiobara-ba8b99-aupay"
+    },
+    {
+      "name": "ノワール・コンタクト",
+      "address": "黒磯",
+      "storeid": "nasushiobara-135ec2",
+      "shopid": "nasushiobara-135ec2-aupay"
+    },
+    {
+      "name": "ハクジュプラザ那須塩原店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-4c538b",
+      "shopid": "nasushiobara-4c538b-aupay"
+    },
+    {
+      "name": "ハッピーベル　タカヤマ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-2db8bf",
+      "shopid": "nasushiobara-2db8bf-aupay"
+    },
+    {
+      "name": "パスカ黒磯店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-7feb9d",
+      "shopid": "nasushiobara-7feb9d-aupay"
+    },
+    {
+      "name": "パンツショップ　アベニュー",
+      "address": "西那須野",
+      "storeid": "nasushiobara-1726cd",
+      "shopid": "nasushiobara-1726cd-aupay"
+    },
+    {
+      "name": "フローリスト花子",
+      "address": "黒磯",
+      "storeid": "nasushiobara-9bb4e1",
+      "shopid": "nasushiobara-9bb4e1-aupay"
+    },
+    {
+      "name": "フードオアシスオータニ　永田店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-6fd889",
+      "shopid": "nasushiobara-6fd889-aupay"
+    },
+    {
+      "name": "フードマーケットオータニ　西那須野店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-cfe2a1",
+      "shopid": "nasushiobara-cfe2a1-aupay"
+    },
+    {
+      "name": "フードマーケットオータニ　黒磯店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-1acbed",
+      "shopid": "nasushiobara-1acbed-aupay"
+    },
+    {
+      "name": "ブリティッシュライフ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-42be50",
+      "shopid": "nasushiobara-42be50-aupay"
+    },
+    {
+      "name": "ベイシア那須塩原店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-f8880a",
+      "shopid": "nasushiobara-f8880a-aupay"
+    },
+    {
+      "name": "ホシノオートサービス",
+      "address": "黒磯",
+      "storeid": "nasushiobara-e6f093",
+      "shopid": "nasushiobara-e6f093-aupay"
+    },
+    {
+      "name": "ミスタータイヤマン東那須店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-932847",
+      "shopid": "nasushiobara-932847-aupay"
+    },
+    {
+      "name": "ミスタータイヤマン西那須野店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-e4c044",
+      "shopid": "nasushiobara-e4c044-aupay"
+    },
+    {
+      "name": "ミスタータイヤマン那須店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-196555",
+      "shopid": "nasushiobara-196555-aupay"
+    },
+    {
+      "name": "ミスタータイヤマン黒磯店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-037da6",
+      "shopid": "nasushiobara-037da6-aupay"
+    },
+    {
+      "name": "ミュージックプラザ　ミモリ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-673ed8",
+      "shopid": "nasushiobara-673ed8-aupay"
+    },
+    {
+      "name": "モトハウスマツモト",
+      "address": "黒磯",
+      "storeid": "nasushiobara-303fdb",
+      "shopid": "nasushiobara-303fdb-aupay"
+    },
+    {
+      "name": "ヤマダデンキテックランド那須塩原店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-28d0c3",
+      "shopid": "nasushiobara-28d0c3-aupay"
+    },
+    {
+      "name": "ヨークベニマル上厚崎店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-278582",
+      "shopid": "nasushiobara-278582-aupay"
+    },
+    {
+      "name": "ヨークベニマル西富山店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-f43faf",
+      "shopid": "nasushiobara-f43faf-aupay"
+    },
+    {
+      "name": "ヨークベニマル西那須野店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-7146b5",
+      "shopid": "nasushiobara-7146b5-aupay"
+    },
+    {
+      "name": "ヨークベニマル黒磯店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-e17a36",
+      "shopid": "nasushiobara-e17a36-aupay"
+    },
+    {
+      "name": "ランジェリー＆みゆき",
+      "address": "黒磯",
+      "storeid": "nasushiobara-31bdcf",
+      "shopid": "nasushiobara-31bdcf-aupay"
+    },
+    {
+      "name": "ルビアン",
+      "address": "黒磯",
+      "storeid": "nasushiobara-94350b",
+      "shopid": "nasushiobara-94350b-aupay"
+    },
+    {
+      "name": "ルヴィ正規取扱店サロンＴｉａｒａ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-2979d8",
+      "shopid": "nasushiobara-2979d8-aupay"
+    },
+    {
+      "name": "レディースＭＡＲＩ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-769832",
+      "shopid": "nasushiobara-769832-aupay"
+    },
+    {
+      "name": "ロードストーム",
+      "address": "西那須野",
+      "storeid": "nasushiobara-e89cb0",
+      "shopid": "nasushiobara-e89cb0-aupay"
+    },
+    {
+      "name": "ワイズ・ヴィンヤーズ",
+      "address": "塩原",
+      "storeid": "nasushiobara-7a038b",
+      "shopid": "nasushiobara-7a038b-aupay"
+    },
+    {
+      "name": "三春那須",
+      "address": "西那須野",
+      "storeid": "nasushiobara-4a894c",
+      "shopid": "nasushiobara-4a894c-aupay"
+    },
+    {
+      "name": "三鈴堂　黒磯店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-673e0e",
+      "shopid": "nasushiobara-673e0e-aupay"
+    },
+    {
+      "name": "中江文具店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-528e3e",
+      "shopid": "nasushiobara-528e3e-aupay"
+    },
+    {
+      "name": "中野農園",
+      "address": "西那須野",
+      "storeid": "nasushiobara-e77d0c",
+      "shopid": "nasushiobara-e77d0c-aupay"
+    },
+    {
+      "name": "久",
+      "address": "西那須野",
+      "storeid": "nasushiobara-1e40a8",
+      "shopid": "nasushiobara-1e40a8-aupay"
+    },
+    {
+      "name": "亀屋本舗",
+      "address": "塩原",
+      "storeid": "nasushiobara-5f5e29",
+      "shopid": "nasushiobara-5f5e29-aupay"
+    },
+    {
+      "name": "人形の宝山",
+      "address": "西那須野",
+      "storeid": "nasushiobara-23f364",
+      "shopid": "nasushiobara-23f364-aupay"
+    },
+    {
+      "name": "今井屋製菓",
+      "address": "塩原",
+      "storeid": "nasushiobara-4b1588",
+      "shopid": "nasushiobara-4b1588-aupay"
+    },
+    {
+      "name": "全日食チェ－ン　たしろ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-2a2ea2",
+      "shopid": "nasushiobara-2a2ea2-aupay"
+    },
+    {
+      "name": "吉田テレビ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-260734",
+      "shopid": "nasushiobara-260734-aupay"
+    },
+    {
+      "name": "吉田屋商店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-f0fa88",
+      "shopid": "nasushiobara-f0fa88-aupay"
+    },
+    {
+      "name": "吉野屋",
+      "address": "黒磯",
+      "storeid": "nasushiobara-cee4af",
+      "shopid": "nasushiobara-cee4af-aupay"
+    },
+    {
+      "name": "君島生花店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-9ff92c",
+      "shopid": "nasushiobara-9ff92c-aupay"
+    },
+    {
+      "name": "和光メガネ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-8f239d",
+      "shopid": "nasushiobara-8f239d-aupay"
+    },
+    {
+      "name": "和光メガネ　黒磯本店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-902abb",
+      "shopid": "nasushiobara-902abb-aupay"
+    },
+    {
+      "name": "和光メガネ　ＭＥＧＡドン・キホーテ黒磯",
+      "address": "黒磯",
+      "storeid": "nasushiobara-1ce6f6",
+      "shopid": "nasushiobara-1ce6f6-aupay"
+    },
+    {
+      "name": "和光メガネ西那須野店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-aabba5",
+      "shopid": "nasushiobara-aabba5-aupay"
+    },
+    {
+      "name": "塩那殖産株式会社",
+      "address": "西那須野",
+      "storeid": "nasushiobara-188733",
+      "shopid": "nasushiobara-188733-aupay"
+    },
+    {
+      "name": "大島自販　西那須野店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-7d9b43",
+      "shopid": "nasushiobara-7d9b43-aupay"
+    },
+    {
+      "name": "大島自販　ＢＰセンター",
+      "address": "黒磯",
+      "storeid": "nasushiobara-1b4a9e",
+      "shopid": "nasushiobara-1b4a9e-aupay"
+    },
+    {
+      "name": "大島自販（ＯＪ黒磯店）",
+      "address": "黒磯",
+      "storeid": "nasushiobara-921fab",
+      "shopid": "nasushiobara-921fab-aupay"
+    },
+    {
+      "name": "大野フトン店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-c57d0d",
+      "shopid": "nasushiobara-c57d0d-aupay"
+    },
+    {
+      "name": "大野屋呉服店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-7d5c32",
+      "shopid": "nasushiobara-7d5c32-aupay"
+    },
+    {
+      "name": "大野茶店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-c9040f",
+      "shopid": "nasushiobara-c9040f-aupay"
+    },
+    {
+      "name": "大陸書房",
+      "address": "西那須野",
+      "storeid": "nasushiobara-15148b",
+      "shopid": "nasushiobara-15148b-aupay"
+    },
+    {
+      "name": "如月",
+      "address": "西那須野",
+      "storeid": "nasushiobara-041149",
+      "shopid": "nasushiobara-041149-aupay"
+    },
+    {
+      "name": "小室商店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-ab853c",
+      "shopid": "nasushiobara-ab853c-aupay"
+    },
+    {
+      "name": "小河原電気商会",
+      "address": "黒磯",
+      "storeid": "nasushiobara-eced15",
+      "shopid": "nasushiobara-eced15-aupay"
+    },
+    {
+      "name": "小滝輪業",
+      "address": "西那須野",
+      "storeid": "nasushiobara-7530f0",
+      "shopid": "nasushiobara-7530f0-aupay"
+    },
+    {
+      "name": "小麦工房パリジェンヌ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-71b72d",
+      "shopid": "nasushiobara-71b72d-aupay"
+    },
+    {
+      "name": "山光堂",
+      "address": "西那須野",
+      "storeid": "nasushiobara-e92f64",
+      "shopid": "nasushiobara-e92f64-aupay"
+    },
+    {
+      "name": "川上タイヤ商会",
+      "address": "黒磯",
+      "storeid": "nasushiobara-729ad0",
+      "shopid": "nasushiobara-729ad0-aupay"
+    },
+    {
+      "name": "工房ＲＥＮ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-4f47dd",
+      "shopid": "nasushiobara-4f47dd-aupay"
+    },
+    {
+      "name": "成田商店",
+      "address": "塩原",
+      "storeid": "nasushiobara-94ed30",
+      "shopid": "nasushiobara-94ed30-aupay"
+    },
+    {
+      "name": "敷島ファーム",
+      "address": "黒磯",
+      "storeid": "nasushiobara-470539",
+      "shopid": "nasushiobara-470539-aupay"
+    },
+    {
+      "name": "新菜農作物直売所",
+      "address": "黒磯",
+      "storeid": "nasushiobara-3a8ada",
+      "shopid": "nasushiobara-3a8ada-aupay"
+    },
+    {
+      "name": "日興エンジニアリング株式会社",
+      "address": "黒磯",
+      "storeid": "nasushiobara-e0f7c4",
+      "shopid": "nasushiobara-e0f7c4-aupay"
+    },
+    {
+      "name": "旭書店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-b1ab3b",
+      "shopid": "nasushiobara-b1ab3b-aupay"
+    },
+    {
+      "name": "有限会社インテリアソーマ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-e20b54",
+      "shopid": "nasushiobara-e20b54-aupay"
+    },
+    {
+      "name": "有限会社オガワ電器",
+      "address": "西那須野",
+      "storeid": "nasushiobara-eeb237",
+      "shopid": "nasushiobara-eeb237-aupay"
+    },
+    {
+      "name": "有限会社共同ガス",
+      "address": "西那須野",
+      "storeid": "nasushiobara-3d535b",
+      "shopid": "nasushiobara-3d535b-aupay"
+    },
+    {
+      "name": "有限会社室越電材",
+      "address": "黒磯",
+      "storeid": "nasushiobara-950626",
+      "shopid": "nasushiobara-950626-aupay"
+    },
+    {
+      "name": "有限会社小島屋呉服店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-6af9fa",
+      "shopid": "nasushiobara-6af9fa-aupay"
+    },
+    {
+      "name": "有限会社田崎自動車",
+      "address": "西那須野",
+      "storeid": "nasushiobara-1fa480",
+      "shopid": "nasushiobara-1fa480-aupay"
+    },
+    {
+      "name": "有限会社県北自動車整備工場",
+      "address": "黒磯",
+      "storeid": "nasushiobara-ca513d",
+      "shopid": "nasushiobara-ca513d-aupay"
+    },
+    {
+      "name": "有限会社藤田金物店",
+      "address": "塩原",
+      "storeid": "nasushiobara-4c6f7e",
+      "shopid": "nasushiobara-4c6f7e-aupay"
+    },
+    {
+      "name": "木村酒店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-268ae9",
+      "shopid": "nasushiobara-268ae9-aupay"
+    },
+    {
+      "name": "村上スポーツ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-66fa71",
+      "shopid": "nasushiobara-66fa71-aupay"
+    },
+    {
+      "name": "株式会社カワデン",
+      "address": "西那須野",
+      "storeid": "nasushiobara-ae8d96",
+      "shopid": "nasushiobara-ae8d96-aupay"
+    },
+    {
+      "name": "株式会社ユアサ　黒磯営業所",
+      "address": "黒磯",
+      "storeid": "nasushiobara-3359f7",
+      "shopid": "nasushiobara-3359f7-aupay"
+    },
+    {
+      "name": "株式会社佐川商店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-a6d3db",
+      "shopid": "nasushiobara-a6d3db-aupay"
+    },
+    {
+      "name": "株式会社室井モータース",
+      "address": "黒磯",
+      "storeid": "nasushiobara-082973",
+      "shopid": "nasushiobara-082973-aupay"
+    },
+    {
+      "name": "株式会社ＳＨＵＥＩ自動車",
+      "address": "黒磯",
+      "storeid": "nasushiobara-3689f0",
+      "shopid": "nasushiobara-3689f0-aupay"
+    },
+    {
+      "name": "根田屋商店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-b4c68b",
+      "shopid": "nasushiobara-b4c68b-aupay"
+    },
+    {
+      "name": "森林の駅",
+      "address": "塩原",
+      "storeid": "nasushiobara-cc307f",
+      "shopid": "nasushiobara-cc307f-aupay"
+    },
+    {
+      "name": "榮太楼",
+      "address": "塩原",
+      "storeid": "nasushiobara-c5d0e5",
+      "shopid": "nasushiobara-c5d0e5-aupay"
+    },
+    {
+      "name": "渋井ラジオ店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-e5da4f",
+      "shopid": "nasushiobara-e5da4f-aupay"
+    },
+    {
+      "name": "熊屋",
+      "address": "黒磯",
+      "storeid": "nasushiobara-9e4abc",
+      "shopid": "nasushiobara-9e4abc-aupay"
+    },
+    {
+      "name": "相馬サイクルモータース",
+      "address": "黒磯",
+      "storeid": "nasushiobara-d5cde6",
+      "shopid": "nasushiobara-d5cde6-aupay"
+    },
+    {
+      "name": "石川ストアー",
+      "address": "西那須野",
+      "storeid": "nasushiobara-56b0f2",
+      "shopid": "nasushiobara-56b0f2-aupay"
+    },
+    {
+      "name": "石川商店",
+      "address": "塩原",
+      "storeid": "nasushiobara-dcd5b4",
+      "shopid": "nasushiobara-dcd5b4-aupay"
+    },
+    {
+      "name": "笠間屋　カサマヤ　ＫＡＳＡＭＡＹＡ",
+      "address": "塩原",
+      "storeid": "nasushiobara-71ca26",
+      "shopid": "nasushiobara-71ca26-aupay"
+    },
+    {
+      "name": "紳士のごようきき",
+      "address": "黒磯",
+      "storeid": "nasushiobara-8b5e75",
+      "shopid": "nasushiobara-8b5e75-aupay"
+    },
+    {
+      "name": "絆",
+      "address": "西那須野",
+      "storeid": "nasushiobara-5db8dc",
+      "shopid": "nasushiobara-5db8dc-aupay"
+    },
+    {
+      "name": "花塚商事株式会社",
+      "address": "黒磯",
+      "storeid": "nasushiobara-cf8b73",
+      "shopid": "nasushiobara-cf8b73-aupay"
+    },
+    {
+      "name": "菊地鈑金工業",
+      "address": "黒磯",
+      "storeid": "nasushiobara-fcf1d5",
+      "shopid": "nasushiobara-fcf1d5-aupay"
+    },
+    {
+      "name": "薬草専門店ＷＥＥＤＳ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-20a0a1",
+      "shopid": "nasushiobara-20a0a1-aupay"
+    },
+    {
+      "name": "藤田家電",
+      "address": "黒磯",
+      "storeid": "nasushiobara-7deb8d",
+      "shopid": "nasushiobara-7deb8d-aupay"
+    },
+    {
+      "name": "蜂須賀石材店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-1cefd9",
+      "shopid": "nasushiobara-1cefd9-aupay"
+    },
+    {
+      "name": "道の駅明治の森　黒磯マーケット",
+      "address": "黒磯",
+      "storeid": "nasushiobara-ef019e",
+      "shopid": "nasushiobara-ef019e-aupay"
+    },
+    {
+      "name": "那須ヒロガーデン",
+      "address": "黒磯",
+      "storeid": "nasushiobara-e49910",
+      "shopid": "nasushiobara-e49910-aupay"
+    },
+    {
+      "name": "那須高原ハニー牧場",
+      "address": "塩原",
+      "storeid": "nasushiobara-1c03f1",
+      "shopid": "nasushiobara-1c03f1-aupay"
+    },
+    {
+      "name": "鈴木屋物産店",
+      "address": "塩原",
+      "storeid": "nasushiobara-8d0413",
+      "shopid": "nasushiobara-8d0413-aupay"
+    },
+    {
+      "name": "陽北電器商会",
+      "address": "黒磯",
+      "storeid": "nasushiobara-050219",
+      "shopid": "nasushiobara-050219-aupay"
+    },
+    {
+      "name": "食宅弁当ふくちゃん",
+      "address": "黒磯",
+      "storeid": "nasushiobara-33ed29",
+      "shopid": "nasushiobara-33ed29-aupay"
+    },
+    {
+      "name": "高久自動車整備工場",
+      "address": "黒磯",
+      "storeid": "nasushiobara-f6387e",
+      "shopid": "nasushiobara-f6387e-aupay"
+    },
+    {
+      "name": "鹿野石材店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-9130c9",
+      "shopid": "nasushiobara-9130c9-aupay"
+    },
+    {
+      "name": "黒磯カメラ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-74c1c8",
+      "shopid": "nasushiobara-74c1c8-aupay"
+    },
+    {
+      "name": "黒磯農機センター",
+      "address": "黒磯",
+      "storeid": "nasushiobara-9e9c9c",
+      "shopid": "nasushiobara-9e9c9c-aupay"
+    },
+    {
+      "name": "（有）平山釣具店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-4ed520",
+      "shopid": "nasushiobara-4ed520-aupay"
+    },
+    {
+      "name": "ＢＡＲＡＮＧＡＩ　ＦＩＥＳＴＡ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-566590",
+      "shopid": "nasushiobara-566590-aupay"
+    },
+    {
+      "name": "ＢＥＥＲ　ＶＯＬＴＡ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-4ac6a7",
+      "shopid": "nasushiobara-4ac6a7-aupay"
+    },
+    {
+      "name": "ＢＲＡＮＤＢＯＸ那須塩原店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-1b4560",
+      "shopid": "nasushiobara-1b4560-aupay"
+    },
+    {
+      "name": "Ｃａｒ　Ｍｅｄｉａ　ＴＡＮＡＫＡ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-337ffd",
+      "shopid": "nasushiobara-337ffd-aupay"
+    },
+    {
+      "name": "ＣＡＲーＰＩＴーＨＡＳＥＢＥ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-892894",
+      "shopid": "nasushiobara-892894-aupay"
+    },
+    {
+      "name": "ＣａｔＶａｃａｔｉｏｎ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-b0ad5f",
+      "shopid": "nasushiobara-b0ad5f-aupay"
+    },
+    {
+      "name": "ＣＬＯＶＥＲ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-365549",
+      "shopid": "nasushiobara-365549-aupay"
+    },
+    {
+      "name": "ＣＯＣＯ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-73bd27",
+      "shopid": "nasushiobara-73bd27-aupay"
+    },
+    {
+      "name": "ＣＯＣＯ　ＣＡＲ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-f94372",
+      "shopid": "nasushiobara-f94372-aupay"
+    },
+    {
+      "name": "ｅｍ．",
+      "address": "黒磯",
+      "storeid": "nasushiobara-6872b4",
+      "shopid": "nasushiobara-6872b4-aupay"
+    },
+    {
+      "name": "Ｆａｃｔｏｒｙ　Ｓｅｒｖｉｃｅ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-92c001",
+      "shopid": "nasushiobara-92c001-aupay"
+    },
+    {
+      "name": "ｇｌｅａｍ＆Ｌｉｆｅｓｔｏｒｅ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-bc6df8",
+      "shopid": "nasushiobara-bc6df8-aupay"
+    },
+    {
+      "name": "ＧＯＵＥＭＥＴ　ＨＡＲＡＤＡ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-cfe8e7",
+      "shopid": "nasushiobara-cfe8e7-aupay"
+    },
+    {
+      "name": "Ｇｒｏｗｉｎｇ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-f0a2df",
+      "shopid": "nasushiobara-f0a2df-aupay"
+    },
+    {
+      "name": "Ｇｒｏｗｉｎｇ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-d8f5fa",
+      "shopid": "nasushiobara-d8f5fa-aupay"
+    },
+    {
+      "name": "ｈａｎｄｍａｄｅｓｈｏｐｔａｎ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-859069",
+      "shopid": "nasushiobara-859069-aupay"
+    },
+    {
+      "name": "ＩＮＦＩＮＩＴＹ　ＢＡＳＥ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-e1e501",
+      "shopid": "nasushiobara-e1e501-aupay"
+    },
+    {
+      "name": "ＬＩＴＨＯＳ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-deb182",
+      "shopid": "nasushiobara-deb182-aupay"
+    },
+    {
+      "name": "ｍｏｇｍｏｇ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-38317f",
+      "shopid": "nasushiobara-38317f-aupay"
+    },
+    {
+      "name": "ＭｏｏｎＳｉｌｋＫｉｍｏｎｏＧａｌｌｅ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-a360b7",
+      "shopid": "nasushiobara-a360b7-aupay"
+    },
+    {
+      "name": "ＮＡＯＺＯ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-7eedbf",
+      "shopid": "nasushiobara-7eedbf-aupay"
+    },
+    {
+      "name": "ＮＡＳＵのラスク屋さん　那須塩原駅前店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-907dda",
+      "shopid": "nasushiobara-907dda-aupay"
+    },
+    {
+      "name": "ｎａｔｕ－ｌａ　ＢＡＳＥ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-fb17cc",
+      "shopid": "nasushiobara-fb17cc-aupay"
+    },
+    {
+      "name": "ＮＯＲＤＦＥＬＤ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-1bc8f7",
+      "shopid": "nasushiobara-1bc8f7-aupay"
+    },
+    {
+      "name": "ＰＡＳＳＴＩＭＥＲＥＣＯＲＤＳ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-a9dbe4",
+      "shopid": "nasushiobara-a9dbe4-aupay"
+    },
+    {
+      "name": "ｐｒｉｅｒｅ　ｄｅ　Ｈ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-3c9e0a",
+      "shopid": "nasushiobara-3c9e0a-aupay"
+    },
+    {
+      "name": "ＲＦＣ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-f18221",
+      "shopid": "nasushiobara-f18221-aupay"
+    },
+    {
+      "name": "ＲＯＯＭＳ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-3a67dd",
+      "shopid": "nasushiobara-3a67dd-aupay"
+    },
+    {
+      "name": "ＲＴＳＥＬＥＣＴＳＫＩ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-22729c",
+      "shopid": "nasushiobara-22729c-aupay"
+    },
+    {
+      "name": "ＳＨＯＺＯ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-ebc955",
+      "shopid": "nasushiobara-ebc955-aupay"
+    },
+    {
+      "name": "ｓｌｅｅ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-5ff0ca",
+      "shopid": "nasushiobara-5ff0ca-aupay"
+    },
+    {
+      "name": "ＳＯＭＡ　ＪＡＰＯＮ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-6cb090",
+      "shopid": "nasushiobara-6cb090-aupay"
+    },
+    {
+      "name": "ＳＴＲＩＤＥＬＡＢ　那須",
+      "address": "黒磯",
+      "storeid": "nasushiobara-52690c",
+      "shopid": "nasushiobara-52690c-aupay"
+    },
+    {
+      "name": "ｔａｍｉｓｅｒ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-d4eec4",
+      "shopid": "nasushiobara-d4eec4-aupay"
+    },
+    {
+      "name": "ＴＨＥ　ＯＶＥＮ",
+      "address": "塩原",
+      "storeid": "nasushiobara-97cbf0",
+      "shopid": "nasushiobara-97cbf0-aupay"
+    },
+    {
+      "name": "Ｘ－ＳＴＹＬＥ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-cae02c",
+      "shopid": "nasushiobara-cae02c-aupay"
+    },
+    {
+      "name": "ＹＴＳ　ａｕｔｏｃｕｓｔｏｍ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-e51fe3",
+      "shopid": "nasushiobara-e51fe3-aupay"
+    },
+    {
+      "name": "ＺＥＵＳ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-69949f",
+      "shopid": "nasushiobara-69949f-aupay"
+    },
+    {
+      "name": "カーレント西那須野店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-4f2ce1",
+      "shopid": "nasushiobara-4f2ce1-aupay"
+    }
+  ],
+  "飲食": [
+    {
+      "name": "おうちＤｉｎｉｎｇしま",
+      "address": "黒磯",
+      "storeid": "nasushiobara-9ccb9f",
+      "shopid": "nasushiobara-9ccb9f-aupay"
+    },
+    {
+      "name": "おかしげ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-96c113",
+      "shopid": "nasushiobara-96c113-aupay"
+    },
+    {
+      "name": "お食事処　信吉",
+      "address": "塩原",
+      "storeid": "nasushiobara-ee43ee",
+      "shopid": "nasushiobara-ee43ee-aupay"
+    },
+    {
+      "name": "かにや麺匠",
+      "address": "黒磯",
+      "storeid": "nasushiobara-db5b2b",
+      "shopid": "nasushiobara-db5b2b-aupay"
+    },
+    {
+      "name": "くだものやカフェ　藤屋",
+      "address": "塩原",
+      "storeid": "nasushiobara-0bf2c9",
+      "shopid": "nasushiobara-0bf2c9-aupay"
+    },
+    {
+      "name": "けんび亭",
+      "address": "西那須野",
+      "storeid": "nasushiobara-b5ce4a",
+      "shopid": "nasushiobara-b5ce4a-aupay"
+    },
+    {
+      "name": "しきの",
+      "address": "黒磯",
+      "storeid": "nasushiobara-2c9e8a",
+      "shopid": "nasushiobara-2c9e8a-aupay"
+    },
+    {
+      "name": "しゃぶしゃぶ藁焼きダイニングｅｂａｓｓ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-9f3ff4",
+      "shopid": "nasushiobara-9f3ff4-aupay"
+    },
+    {
+      "name": "そば処　遊蕎",
+      "address": "塩原",
+      "storeid": "nasushiobara-486c5a",
+      "shopid": "nasushiobara-486c5a-aupay"
+    },
+    {
+      "name": "たまたま",
+      "address": "西那須野",
+      "storeid": "nasushiobara-c0dfcf",
+      "shopid": "nasushiobara-c0dfcf-aupay"
+    },
+    {
+      "name": "だいぜん西那須野",
+      "address": "西那須野",
+      "storeid": "nasushiobara-b280f6",
+      "shopid": "nasushiobara-b280f6-aupay"
+    },
+    {
+      "name": "ぴっこらるーじゅ　西那須野店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-de8a22",
+      "shopid": "nasushiobara-de8a22-aupay"
+    },
+    {
+      "name": "ふうふう亭",
+      "address": "黒磯",
+      "storeid": "nasushiobara-8122b3",
+      "shopid": "nasushiobara-8122b3-aupay"
+    },
+    {
+      "name": "ほるもん家パチパチ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-ead04f",
+      "shopid": "nasushiobara-ead04f-aupay"
+    },
+    {
+      "name": "まとえや",
+      "address": "黒磯",
+      "storeid": "nasushiobara-09d655",
+      "shopid": "nasushiobara-09d655-aupay"
+    },
+    {
+      "name": "みやび",
+      "address": "黒磯",
+      "storeid": "nasushiobara-3cdae1",
+      "shopid": "nasushiobara-3cdae1-aupay"
+    },
+    {
+      "name": "もつたじ西那須野店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-ff52a1",
+      "shopid": "nasushiobara-ff52a1-aupay"
+    },
+    {
+      "name": "アジアン食堂ナーナ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-d30f6c",
+      "shopid": "nasushiobara-d30f6c-aupay"
+    },
+    {
+      "name": "イル・ヴェント",
+      "address": "西那須野",
+      "storeid": "nasushiobara-ca8932",
+      "shopid": "nasushiobara-ca8932-aupay"
+    },
+    {
+      "name": "グレンビウレ　とんかつ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-105c17",
+      "shopid": "nasushiobara-105c17-aupay"
+    },
+    {
+      "name": "ケースタイル",
+      "address": "黒磯",
+      "storeid": "nasushiobara-8ce37f",
+      "shopid": "nasushiobara-8ce37f-aupay"
+    },
+    {
+      "name": "サンライズ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-52af7b",
+      "shopid": "nasushiobara-52af7b-aupay"
+    },
+    {
+      "name": "ザトラックイン",
+      "address": "西那須野",
+      "storeid": "nasushiobara-14e14a",
+      "shopid": "nasushiobara-14e14a-aupay"
+    },
+    {
+      "name": "シェレンバウム西那須野店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-3d4eaa",
+      "shopid": "nasushiobara-3d4eaa-aupay"
+    },
+    {
+      "name": "シェレンバウム黒磯店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-2a992c",
+      "shopid": "nasushiobara-2a992c-aupay"
+    },
+    {
+      "name": "ショットバーコロニー",
+      "address": "黒磯",
+      "storeid": "nasushiobara-2722ed",
+      "shopid": "nasushiobara-2722ed-aupay"
+    },
+    {
+      "name": "ステーキ＆グリル　万葉",
+      "address": "西那須野",
+      "storeid": "nasushiobara-8f63c6",
+      "shopid": "nasushiobara-8f63c6-aupay"
+    },
+    {
+      "name": "スナック粋",
+      "address": "黒磯",
+      "storeid": "nasushiobara-52c9f9",
+      "shopid": "nasushiobara-52c9f9-aupay"
+    },
+    {
+      "name": "スビマハル那須塩原店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-f61472",
+      "shopid": "nasushiobara-f61472-aupay"
+    },
+    {
+      "name": "タイ居酒屋かな",
+      "address": "黒磯",
+      "storeid": "nasushiobara-b55101",
+      "shopid": "nasushiobara-b55101-aupay"
+    },
+    {
+      "name": "タコスアゴーゴー",
+      "address": "西那須野",
+      "storeid": "nasushiobara-48ffad",
+      "shopid": "nasushiobara-48ffad-aupay"
+    },
+    {
+      "name": "ダイニング　ゑ　会想来",
+      "address": "黒磯",
+      "storeid": "nasushiobara-07c971",
+      "shopid": "nasushiobara-07c971-aupay"
+    },
+    {
+      "name": "ドリームロード道夢",
+      "address": "西那須野",
+      "storeid": "nasushiobara-7209e6",
+      "shopid": "nasushiobara-7209e6-aupay"
+    },
+    {
+      "name": "ナスタジオＰｅｋｏリッチ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-f49ad9",
+      "shopid": "nasushiobara-f49ad9-aupay"
+    },
+    {
+      "name": "ハモロ　レストラン＆バー",
+      "address": "西那須野",
+      "storeid": "nasushiobara-d019ee",
+      "shopid": "nasushiobara-d019ee-aupay"
+    },
+    {
+      "name": "パブラスティ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-4dddbb",
+      "shopid": "nasushiobara-4dddbb-aupay"
+    },
+    {
+      "name": "パン工房Ｏｌｉｖｅ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-ce3ff0",
+      "shopid": "nasushiobara-ce3ff0-aupay"
+    },
+    {
+      "name": "フライングガーデン　西那須野店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-db5d25",
+      "shopid": "nasushiobara-db5d25-aupay"
+    },
+    {
+      "name": "ラコルト",
+      "address": "西那須野",
+      "storeid": "nasushiobara-7a7f84",
+      "shopid": "nasushiobara-7a7f84-aupay"
+    },
+    {
+      "name": "ラーメン屋壱番亭　黒磯店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-c5da4b",
+      "shopid": "nasushiobara-c5da4b-aupay"
+    },
+    {
+      "name": "レコード喫茶ＭＯＲＩＹＡ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-7b07dd",
+      "shopid": "nasushiobara-7b07dd-aupay"
+    },
+    {
+      "name": "レストランチッチ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-760c57",
+      "shopid": "nasushiobara-760c57-aupay"
+    },
+    {
+      "name": "レストラン西欧",
+      "address": "黒磯",
+      "storeid": "nasushiobara-4f2e70",
+      "shopid": "nasushiobara-4f2e70-aupay"
+    },
+    {
+      "name": "ロイヤルインドレストラン那須塩原店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-bcb080",
+      "shopid": "nasushiobara-bcb080-aupay"
+    },
+    {
+      "name": "中国料理　楼蘭",
+      "address": "黒磯",
+      "storeid": "nasushiobara-4adc08",
+      "shopid": "nasushiobara-4adc08-aupay"
+    },
+    {
+      "name": "中華そば手打Ｋｉｍａｍａ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-55f1d3",
+      "shopid": "nasushiobara-55f1d3-aupay"
+    },
+    {
+      "name": "中華屋昌華苑",
+      "address": "黒磯",
+      "storeid": "nasushiobara-d13d58",
+      "shopid": "nasushiobara-d13d58-aupay"
+    },
+    {
+      "name": "中華百華園",
+      "address": "黒磯",
+      "storeid": "nasushiobara-27a86e",
+      "shopid": "nasushiobara-27a86e-aupay"
+    },
+    {
+      "name": "創作ダイニングＡＺＵＲ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-64f69b",
+      "shopid": "nasushiobara-64f69b-aupay"
+    },
+    {
+      "name": "台湾スナック花",
+      "address": "西那須野",
+      "storeid": "nasushiobara-2cd601",
+      "shopid": "nasushiobara-2cd601-aupay"
+    },
+    {
+      "name": "台湾料理　天香一　那須塩原店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-d5c97e",
+      "shopid": "nasushiobara-d5c97e-aupay"
+    },
+    {
+      "name": "和厨房　遊膳",
+      "address": "塩原",
+      "storeid": "nasushiobara-dba679",
+      "shopid": "nasushiobara-dba679-aupay"
+    },
+    {
+      "name": "和彩蔵",
+      "address": "黒磯",
+      "storeid": "nasushiobara-879c73",
+      "shopid": "nasushiobara-879c73-aupay"
+    },
+    {
+      "name": "和風パブ咲響",
+      "address": "黒磯",
+      "storeid": "nasushiobara-26a2e3",
+      "shopid": "nasushiobara-26a2e3-aupay"
+    },
+    {
+      "name": "和食屋なす野",
+      "address": "黒磯",
+      "storeid": "nasushiobara-961fc9",
+      "shopid": "nasushiobara-961fc9-aupay"
+    },
+    {
+      "name": "喫茶　花苑",
+      "address": "西那須野",
+      "storeid": "nasushiobara-9f89ce",
+      "shopid": "nasushiobara-9f89ce-aupay"
+    },
+    {
+      "name": "喫茶店ホリデ−",
+      "address": "黒磯",
+      "storeid": "nasushiobara-d91306",
+      "shopid": "nasushiobara-d91306-aupay"
+    },
+    {
+      "name": "塩原珈琲",
+      "address": "塩原",
+      "storeid": "nasushiobara-e6f5a5",
+      "shopid": "nasushiobara-e6f5a5-aupay"
+    },
+    {
+      "name": "大関寿司",
+      "address": "黒磯",
+      "storeid": "nasushiobara-60fe11",
+      "shopid": "nasushiobara-60fe11-aupay"
+    },
+    {
+      "name": "天ぷら割烹　天甚",
+      "address": "西那須野",
+      "storeid": "nasushiobara-3d1200",
+      "shopid": "nasushiobara-3d1200-aupay"
+    },
+    {
+      "name": "宇都宮餃子館　西那須野店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-8bfe9f",
+      "shopid": "nasushiobara-8bfe9f-aupay"
+    },
+    {
+      "name": "寿し処ひまわり",
+      "address": "西那須野",
+      "storeid": "nasushiobara-c9fdf3",
+      "shopid": "nasushiobara-c9fdf3-aupay"
+    },
+    {
+      "name": "小料理　ふくのすけ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-9b3578",
+      "shopid": "nasushiobara-9b3578-aupay"
+    },
+    {
+      "name": "小料理さら",
+      "address": "西那須野",
+      "storeid": "nasushiobara-b2ba15",
+      "shopid": "nasushiobara-b2ba15-aupay"
+    },
+    {
+      "name": "居酒屋みこし",
+      "address": "黒磯",
+      "storeid": "nasushiobara-242167",
+      "shopid": "nasushiobara-242167-aupay"
+    },
+    {
+      "name": "日乃屋カレー栃木黒磯店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-930ab6",
+      "shopid": "nasushiobara-930ab6-aupay"
+    },
+    {
+      "name": "旬味酒彩れん",
+      "address": "黒磯",
+      "storeid": "nasushiobara-5b89b2",
+      "shopid": "nasushiobara-5b89b2-aupay"
+    },
+    {
+      "name": "春香伝",
+      "address": "塩原",
+      "storeid": "nasushiobara-092e2b",
+      "shopid": "nasushiobara-092e2b-aupay"
+    },
+    {
+      "name": "森商店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-8fa6bd",
+      "shopid": "nasushiobara-8fa6bd-aupay"
+    },
+    {
+      "name": "榊原会館",
+      "address": "黒磯",
+      "storeid": "nasushiobara-badb36",
+      "shopid": "nasushiobara-badb36-aupay"
+    },
+    {
+      "name": "池寿し",
+      "address": "黒磯",
+      "storeid": "nasushiobara-9e7bf1",
+      "shopid": "nasushiobara-9e7bf1-aupay"
+    },
+    {
+      "name": "洋風食堂ｃａｓａｄｉｍｏｃｏ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-bcc025",
+      "shopid": "nasushiobara-bcc025-aupay"
+    },
+    {
+      "name": "炉暖",
+      "address": "黒磯",
+      "storeid": "nasushiobara-000745",
+      "shopid": "nasushiobara-000745-aupay"
+    },
+    {
+      "name": "焼き物乙",
+      "address": "黒磯",
+      "storeid": "nasushiobara-0c3386",
+      "shopid": "nasushiobara-0c3386-aupay"
+    },
+    {
+      "name": "焼肉だんらん",
+      "address": "黒磯",
+      "storeid": "nasushiobara-6633e4",
+      "shopid": "nasushiobara-6633e4-aupay"
+    },
+    {
+      "name": "焼肉ダイニング",
+      "address": "黒磯",
+      "storeid": "nasushiobara-eeb469",
+      "shopid": "nasushiobara-eeb469-aupay"
+    },
+    {
+      "name": "焼肉後藤牛",
+      "address": "黒磯",
+      "storeid": "nasushiobara-af1cb4",
+      "shopid": "nasushiobara-af1cb4-aupay"
+    },
+    {
+      "name": "焼肉牛兵衛",
+      "address": "黒磯",
+      "storeid": "nasushiobara-bc3511",
+      "shopid": "nasushiobara-bc3511-aupay"
+    },
+    {
+      "name": "燻製工房りんどう",
+      "address": "黒磯",
+      "storeid": "nasushiobara-3fdab2",
+      "shopid": "nasushiobara-3fdab2-aupay"
+    },
+    {
+      "name": "秀寿司",
+      "address": "黒磯",
+      "storeid": "nasushiobara-f1a89b",
+      "shopid": "nasushiobara-f1a89b-aupay"
+    },
+    {
+      "name": "竹清食堂",
+      "address": "西那須野",
+      "storeid": "nasushiobara-336bbc",
+      "shopid": "nasushiobara-336bbc-aupay"
+    },
+    {
+      "name": "美食工房　ラトリエ・ムッシュー",
+      "address": "黒磯",
+      "storeid": "nasushiobara-e9cf7c",
+      "shopid": "nasushiobara-e9cf7c-aupay"
+    },
+    {
+      "name": "茶房花苑",
+      "address": "黒磯",
+      "storeid": "nasushiobara-465efc",
+      "shopid": "nasushiobara-465efc-aupay"
+    },
+    {
+      "name": "菓子工房シュクレ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-a1aca7",
+      "shopid": "nasushiobara-a1aca7-aupay"
+    },
+    {
+      "name": "通りの茶屋藤屋",
+      "address": "塩原",
+      "storeid": "nasushiobara-f381d6",
+      "shopid": "nasushiobara-f381d6-aupay"
+    },
+    {
+      "name": "道の駅明治の森　黒磯ダイニング",
+      "address": "黒磯",
+      "storeid": "nasushiobara-d96047",
+      "shopid": "nasushiobara-d96047-aupay"
+    },
+    {
+      "name": "那須蕎麦　山月",
+      "address": "黒磯",
+      "storeid": "nasushiobara-dc122a",
+      "shopid": "nasushiobara-dc122a-aupay"
+    },
+    {
+      "name": "那須高原黒毛和牛　敷島",
+      "address": "黒磯",
+      "storeid": "nasushiobara-367839",
+      "shopid": "nasushiobara-367839-aupay"
+    },
+    {
+      "name": "酒と肴　あくび",
+      "address": "黒磯",
+      "storeid": "nasushiobara-79c1a7",
+      "shopid": "nasushiobara-79c1a7-aupay"
+    },
+    {
+      "name": "酒肴飯　豊　駅前店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-3b4c9e",
+      "shopid": "nasushiobara-3b4c9e-aupay"
+    },
+    {
+      "name": "釜山家",
+      "address": "黒磯",
+      "storeid": "nasushiobara-f993bb",
+      "shopid": "nasushiobara-f993bb-aupay"
+    },
+    {
+      "name": "鈴の音",
+      "address": "西那須野",
+      "storeid": "nasushiobara-99be71",
+      "shopid": "nasushiobara-99be71-aupay"
+    },
+    {
+      "name": "銚子屋",
+      "address": "塩原",
+      "storeid": "nasushiobara-74a699",
+      "shopid": "nasushiobara-74a699-aupay"
+    },
+    {
+      "name": "長崎屋",
+      "address": "西那須野",
+      "storeid": "nasushiobara-a4717e",
+      "shopid": "nasushiobara-a4717e-aupay"
+    },
+    {
+      "name": "関谷もみじの郷",
+      "address": "塩原",
+      "storeid": "nasushiobara-48a27a",
+      "shopid": "nasushiobara-48a27a-aupay"
+    },
+    {
+      "name": "食べごろ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-08fc21",
+      "shopid": "nasushiobara-08fc21-aupay"
+    },
+    {
+      "name": "食彩うえのうち",
+      "address": "西那須野",
+      "storeid": "nasushiobara-acb0b6",
+      "shopid": "nasushiobara-acb0b6-aupay"
+    },
+    {
+      "name": "８餃子東小屋店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-2d47c0",
+      "shopid": "nasushiobara-2d47c0-aupay"
+    },
+    {
+      "name": "ＡＮ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-5e56ef",
+      "shopid": "nasushiobara-5e56ef-aupay"
+    },
+    {
+      "name": "ＡＮＴＢＥＡＮＴ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-92c33b",
+      "shopid": "nasushiobara-92c33b-aupay"
+    },
+    {
+      "name": "Ｂａｎｄｉｔｏ　ｅＰｉｒａｔａ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-6e9bf4",
+      "shopid": "nasushiobara-6e9bf4-aupay"
+    },
+    {
+      "name": "ＢＡＲ　ＧＯＡＴ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-4d63ad",
+      "shopid": "nasushiobara-4d63ad-aupay"
+    },
+    {
+      "name": "Ｂａｒ　Ｊｅｔ　ｄ’ａｍｏｕｒ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-fc2994",
+      "shopid": "nasushiobara-fc2994-aupay"
+    },
+    {
+      "name": "ＢＡＲ　ＳＩＳＴＥＲ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-3b894c",
+      "shopid": "nasushiobara-3b894c-aupay"
+    },
+    {
+      "name": "ＢＡＲ　ＴＥＮＢＯＳＣＨ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-fba3a1",
+      "shopid": "nasushiobara-fba3a1-aupay"
+    },
+    {
+      "name": "ＢＡＲＮＡＴＵＲＡＬ９",
+      "address": "黒磯",
+      "storeid": "nasushiobara-465620",
+      "shopid": "nasushiobara-465620-aupay"
+    },
+    {
+      "name": "ＢＥＬＶＥＤＥＲＥ３２",
+      "address": "黒磯",
+      "storeid": "nasushiobara-e4b5d3",
+      "shopid": "nasushiobara-e4b5d3-aupay"
+    },
+    {
+      "name": "Ｃａｆｅ　Ｓａｌｏｎ　Ｋｉｒａｎ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-90f5ea",
+      "shopid": "nasushiobara-90f5ea-aupay"
+    },
+    {
+      "name": "Ｃａｆｅ＆Ｂａｒ４７",
+      "address": "西那須野",
+      "storeid": "nasushiobara-8be6e4",
+      "shopid": "nasushiobara-8be6e4-aupay"
+    },
+    {
+      "name": "ｃｏｌｏｒ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-50bf72",
+      "shopid": "nasushiobara-50bf72-aupay"
+    },
+    {
+      "name": "ＦＥＥＫＡ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-2b9d03",
+      "shopid": "nasushiobara-2b9d03-aupay"
+    },
+    {
+      "name": "Ｆｏｕｒ　Ｓｅａｓｏｎｓ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-fa41e7",
+      "shopid": "nasushiobara-fa41e7-aupay"
+    },
+    {
+      "name": "ＨＩＫＡＲＩＳＨＯＫＵＤＯ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-aa4ac3",
+      "shopid": "nasushiobara-aa4ac3-aupay"
+    },
+    {
+      "name": "Ｉｒｉｓｂｒｅａｄａｎｄｃｏｆｆｅｅ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-2ce8b0",
+      "shopid": "nasushiobara-2ce8b0-aupay"
+    },
+    {
+      "name": "Ｊａｄｅ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-1b0b8c",
+      "shopid": "nasushiobara-1b0b8c-aupay"
+    },
+    {
+      "name": "Ｎｏ．６−",
+      "address": "西那須野",
+      "storeid": "nasushiobara-365378",
+      "shopid": "nasushiobara-365378-aupay"
+    },
+    {
+      "name": "ＰＵＢ月",
+      "address": "黒磯",
+      "storeid": "nasushiobara-df6897",
+      "shopid": "nasushiobara-df6897-aupay"
+    },
+    {
+      "name": "Ｒ−３０",
+      "address": "黒磯",
+      "storeid": "nasushiobara-0453f2",
+      "shopid": "nasushiobara-0453f2-aupay"
+    },
+    {
+      "name": "ＳＩＸ−６−",
+      "address": "西那須野",
+      "storeid": "nasushiobara-1400b9",
+      "shopid": "nasushiobara-1400b9-aupay"
+    },
+    {
+      "name": "ＴＡＳＴＥ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-10b857",
+      "shopid": "nasushiobara-10b857-aupay"
+    },
+    {
+      "name": "Ｔｉ　ａｍｏ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-7d2709",
+      "shopid": "nasushiobara-7d2709-aupay"
+    },
+    {
+      "name": "ＵＮＯＹＡ　　ＫＩＴＣＨＥＮ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-69ce84",
+      "shopid": "nasushiobara-69ce84-aupay"
+    }
+  ],
+  "宿泊": [
+    {
+      "name": "せせらぎの湯宿　満寿家",
+      "address": "塩原",
+      "storeid": "nasushiobara-294b53",
+      "shopid": "nasushiobara-294b53-aupay"
+    },
+    {
+      "name": "まじま荘",
+      "address": "塩原",
+      "storeid": "nasushiobara-954495",
+      "shopid": "nasushiobara-954495-aupay"
+    },
+    {
+      "name": "ますだや",
+      "address": "塩原",
+      "storeid": "nasushiobara-3886cb",
+      "shopid": "nasushiobara-3886cb-aupay"
+    },
+    {
+      "name": "やまの宿　下藤屋",
+      "address": "塩原",
+      "storeid": "nasushiobara-36361d",
+      "shopid": "nasushiobara-36361d-aupay"
+    },
+    {
+      "name": "ゆとりろ那須塩原",
+      "address": "塩原",
+      "storeid": "nasushiobara-da6356",
+      "shopid": "nasushiobara-da6356-aupay"
+    },
+    {
+      "name": "ガストホフ　夢木香",
+      "address": "塩原",
+      "storeid": "nasushiobara-b5205a",
+      "shopid": "nasushiobara-b5205a-aupay"
+    },
+    {
+      "name": "コテージ四季",
+      "address": "黒磯",
+      "storeid": "nasushiobara-bc4504",
+      "shopid": "nasushiobara-bc4504-aupay"
+    },
+    {
+      "name": "ビーステージ那須塩原キャンプ場",
+      "address": "塩原",
+      "storeid": "nasushiobara-1ce1eb",
+      "shopid": "nasushiobara-1ce1eb-aupay"
+    },
+    {
+      "name": "フォレストベースキャンプ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-e6c2bc",
+      "shopid": "nasushiobara-e6c2bc-aupay"
+    },
+    {
+      "name": "ペットコテージＷａｎｓｅｍｂｌｅ",
+      "address": "塩原",
+      "storeid": "nasushiobara-1b9dd5",
+      "shopid": "nasushiobara-1b9dd5-aupay"
+    },
+    {
+      "name": "ホテルトップス",
+      "address": "黒磯",
+      "storeid": "nasushiobara-a24c57",
+      "shopid": "nasushiobara-a24c57-aupay"
+    },
+    {
+      "name": "ホテルニューもみぢ",
+      "address": "塩原",
+      "storeid": "nasushiobara-1309a4",
+      "shopid": "nasushiobara-1309a4-aupay"
+    },
+    {
+      "name": "上会津屋",
+      "address": "塩原",
+      "storeid": "nasushiobara-9f94d7",
+      "shopid": "nasushiobara-9f94d7-aupay"
+    },
+    {
+      "name": "伊東園ホテル　塩原",
+      "address": "塩原",
+      "storeid": "nasushiobara-6b2f5f",
+      "shopid": "nasushiobara-6b2f5f-aupay"
+    },
+    {
+      "name": "光雲荘",
+      "address": "塩原",
+      "storeid": "nasushiobara-6b91bd",
+      "shopid": "nasushiobara-6b91bd-aupay"
+    },
+    {
+      "name": "割烹旅館　湯の花荘",
+      "address": "塩原",
+      "storeid": "nasushiobara-60d8df",
+      "shopid": "nasushiobara-60d8df-aupay"
+    },
+    {
+      "name": "加登屋旅館",
+      "address": "黒磯",
+      "storeid": "nasushiobara-48bb8e",
+      "shopid": "nasushiobara-48bb8e-aupay"
+    },
+    {
+      "name": "奥塩原高原ホテル",
+      "address": "塩原",
+      "storeid": "nasushiobara-1cd827",
+      "shopid": "nasushiobara-1cd827-aupay"
+    },
+    {
+      "name": "旅館恵山荘",
+      "address": "塩原",
+      "storeid": "nasushiobara-d9a1df",
+      "shopid": "nasushiobara-d9a1df-aupay"
+    },
+    {
+      "name": "日光ガーデンホテル",
+      "address": "塩原",
+      "storeid": "nasushiobara-d688ee",
+      "shopid": "nasushiobara-d688ee-aupay"
+    },
+    {
+      "name": "有限会社源泉の湯東や",
+      "address": "塩原",
+      "storeid": "nasushiobara-0a42c2",
+      "shopid": "nasushiobara-0a42c2-aupay"
+    },
+    {
+      "name": "本陣",
+      "address": "塩原",
+      "storeid": "nasushiobara-28c8c8",
+      "shopid": "nasushiobara-28c8c8-aupay"
+    },
+    {
+      "name": "板室別邸　リトリート　ＳＰＡ　和薬草",
+      "address": "黒磯",
+      "storeid": "nasushiobara-3316c6",
+      "shopid": "nasushiobara-3316c6-aupay"
+    },
+    {
+      "name": "板室温泉　勝風館",
+      "address": "黒磯",
+      "storeid": "nasushiobara-afd084",
+      "shopid": "nasushiobara-afd084-aupay"
+    },
+    {
+      "name": "柏屋旅館",
+      "address": "塩原",
+      "storeid": "nasushiobara-a966ed",
+      "shopid": "nasushiobara-a966ed-aupay"
+    },
+    {
+      "name": "渓雲閣",
+      "address": "塩原",
+      "storeid": "nasushiobara-a9298a",
+      "shopid": "nasushiobara-a9298a-aupay"
+    },
+    {
+      "name": "湧花庵",
+      "address": "塩原",
+      "storeid": "nasushiobara-36c10d",
+      "shopid": "nasushiobara-36c10d-aupay"
+    },
+    {
+      "name": "湯ったりの宿　松楓楼　松屋",
+      "address": "塩原",
+      "storeid": "nasushiobara-a6b7ad",
+      "shopid": "nasushiobara-a6b7ad-aupay"
+    },
+    {
+      "name": "湯宿　きくや",
+      "address": "黒磯",
+      "storeid": "nasushiobara-0c08b3",
+      "shopid": "nasushiobara-0c08b3-aupay"
+    },
+    {
+      "name": "源美の宿　会津屋",
+      "address": "塩原",
+      "storeid": "nasushiobara-e7f47e",
+      "shopid": "nasushiobara-e7f47e-aupay"
+    },
+    {
+      "name": "秘湯の宿　元泉館",
+      "address": "塩原",
+      "storeid": "nasushiobara-08e579",
+      "shopid": "nasushiobara-08e579-aupay"
+    },
+    {
+      "name": "那珂川温泉ホテルアライ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-d6e49e",
+      "shopid": "nasushiobara-d6e49e-aupay"
+    },
+    {
+      "name": "那須塩原ニワトコＲＶパーク",
+      "address": "塩原",
+      "storeid": "nasushiobara-ae642f",
+      "shopid": "nasushiobara-ae642f-aupay"
+    },
+    {
+      "name": "那須板室ファミリーオートキャン",
+      "address": "黒磯",
+      "storeid": "nasushiobara-756d73",
+      "shopid": "nasushiobara-756d73-aupay"
+    }
+  ],
+  "交通": [
+    {
+      "name": "ガッツレンタカー那須塩原店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-d449d3",
+      "shopid": "nasushiobara-d449d3-aupay"
+    },
+    {
+      "name": "クリア代行　那須塩原店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-adda44",
+      "shopid": "nasushiobara-adda44-aupay"
+    },
+    {
+      "name": "ワンズレンタカー那須塩原駅前店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-1e1bbd",
+      "shopid": "nasushiobara-1e1bbd-aupay"
+    },
+    {
+      "name": "京橋タクシー",
+      "address": "黒磯",
+      "storeid": "nasushiobara-1dc122",
+      "shopid": "nasushiobara-1dc122-aupay"
+    },
+    {
+      "name": "塩原自動車株式会社",
+      "address": "西那須野",
+      "storeid": "nasushiobara-15c166",
+      "shopid": "nasushiobara-15c166-aupay"
+    },
+    {
+      "name": "有限会社京橋",
+      "address": "黒磯",
+      "storeid": "nasushiobara-c18fa7",
+      "shopid": "nasushiobara-c18fa7-aupay"
+    },
+    {
+      "name": "有限会社桃太郎",
+      "address": "黒磯",
+      "storeid": "nasushiobara-26466e",
+      "shopid": "nasushiobara-26466e-aupay"
+    },
+    {
+      "name": "福祉タクシーミッション",
+      "address": "西那須野",
+      "storeid": "nasushiobara-97fe44",
+      "shopid": "nasushiobara-97fe44-aupay"
+    },
+    {
+      "name": "秋葉商事株式会社",
+      "address": "黒磯",
+      "storeid": "nasushiobara-c41963",
+      "shopid": "nasushiobara-c41963-aupay"
+    },
+    {
+      "name": "黒磯観光タクシー",
+      "address": "黒磯",
+      "storeid": "nasushiobara-c56476",
+      "shopid": "nasushiobara-c56476-aupay"
+    },
+    {
+      "name": "Ｒｅ　ＣＡＳＴ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-c78ae4",
+      "shopid": "nasushiobara-c78ae4-aupay"
+    }
+  ],
+  "娯楽": [
+    {
+      "name": "ドライビングパレット那須",
+      "address": "黒磯",
+      "storeid": "nasushiobara-eedbc5",
+      "shopid": "nasushiobara-eedbc5-aupay"
+    },
+    {
+      "name": "ネイチャープラネット　那須塩原営業所",
+      "address": "黒磯",
+      "storeid": "nasushiobara-79e802",
+      "shopid": "nasushiobara-79e802-aupay"
+    },
+    {
+      "name": "ハイディア",
+      "address": "黒磯",
+      "storeid": "nasushiobara-42ba72",
+      "shopid": "nasushiobara-42ba72-aupay"
+    },
+    {
+      "name": "ハニーラルヴァＫＵＲＯＩＳＯ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-c07ecf",
+      "shopid": "nasushiobara-c07ecf-aupay"
+    },
+    {
+      "name": "ボルダリングジムゾーン",
+      "address": "黒磯",
+      "storeid": "nasushiobara-a033a6",
+      "shopid": "nasushiobara-a033a6-aupay"
+    },
+    {
+      "name": "ポイント西那須野",
+      "address": "西那須野",
+      "storeid": "nasushiobara-1b4482",
+      "shopid": "nasushiobara-1b4482-aupay"
+    },
+    {
+      "name": "塩原あかつきの湯",
+      "address": "塩原",
+      "storeid": "nasushiobara-582681",
+      "shopid": "nasushiobara-582681-aupay"
+    },
+    {
+      "name": "那須スポーツセンター",
+      "address": "黒磯",
+      "storeid": "nasushiobara-b41b22",
+      "shopid": "nasushiobara-b41b22-aupay"
+    },
+    {
+      "name": "那須フィッシュランド",
+      "address": "黒磯",
+      "storeid": "nasushiobara-cc0f21",
+      "shopid": "nasushiobara-cc0f21-aupay"
+    },
+    {
+      "name": "那須野ヶ原フットボールクラブ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-d52837",
+      "shopid": "nasushiobara-d52837-aupay"
+    },
+    {
+      "name": "ＡＴＣフィットネス",
+      "address": "黒磯",
+      "storeid": "nasushiobara-bc1a89",
+      "shopid": "nasushiobara-bc1a89-aupay"
+    },
+    {
+      "name": "ＫＡＲＡＯＫＢＯＸＫ－ＳＴＹＬＥ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-452666",
+      "shopid": "nasushiobara-452666-aupay"
+    },
+    {
+      "name": "ＫＰＳ那須高原パラグライダース",
+      "address": "黒磯",
+      "storeid": "nasushiobara-97724c",
+      "shopid": "nasushiobara-97724c-aupay"
+    },
+    {
+      "name": "ＮＥＸＴ　ＯＢＵ　ＳＴＡＧＥ",
+      "address": "西那須野",
+      "storeid": "nasushiobara-3134a8",
+      "shopid": "nasushiobara-3134a8-aupay"
+    },
+    {
+      "name": "ｐｅｒｓｏｎａｌｇｙｍＲＡＩＤＳ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-d07296",
+      "shopid": "nasushiobara-d07296-aupay"
+    }
+  ],
+  "情報": [
+    {
+      "name": "一せんや新聞店",
+      "address": "塩原",
+      "storeid": "nasushiobara-cbdaaf",
+      "shopid": "nasushiobara-cbdaaf-aupay"
+    },
+    {
+      "name": "小藤田新聞店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-40eea2",
+      "shopid": "nasushiobara-40eea2-aupay"
+    },
+    {
+      "name": "有限会社　竹井新聞店",
+      "address": "黒磯",
+      "storeid": "nasushiobara-12d1a6",
+      "shopid": "nasushiobara-12d1a6-aupay"
+    },
+    {
+      "name": "株式会社　有賀",
+      "address": "黒磯",
+      "storeid": "nasushiobara-0a8d0b",
+      "shopid": "nasushiobara-0a8d0b-aupay"
+    },
+    {
+      "name": "石井新聞販売店",
+      "address": "西那須野",
+      "storeid": "nasushiobara-2c6486",
+      "shopid": "nasushiobara-2c6486-aupay"
+    }
+  ],
+  "その他": [
+    {
+      "name": "ａｔｅｌｉｅｒｅｃｌａｔ",
+      "address": "黒磯",
+      "storeid": "nasushiobara-b5353d",
+      "shopid": "nasushiobara-b5353d-aupay"
+    }
+  ]
+}
