@@ -1,863 +1,629 @@
 {
-  "(有）笠道モータース": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "Atelier yuone": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "Blue　Drop": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "CUORE": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "Dogsalon シャルーイ": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "Eight Plus": [
-    {
-      "name": "家電",
-      "storeid": "kitahiroshima-e4baaf",
-      "shopid": "kitahiroshima-e4baaf-paypay"
-    }
-  ],
-  "Enishiハウオリ": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "Etcetera": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "FERMELL": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "HAIR MAKES JANK": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "JA-SS千代田": [
-    {
-      "name": "ガソリンスタンド",
-      "storeid": "kitahiroshima-1054e1",
-      "shopid": "kitahiroshima-1054e1-paypay"
-    }
-  ],
-  "JA-SS大朝インター": [
-    {
-      "name": "ガソリンスタンド",
-      "storeid": "kitahiroshima-1054e1",
-      "shopid": "kitahiroshima-1054e1-paypay"
-    }
-  ],
-  "JB北広島乗馬クラブ": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "K'shair": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "K2レンタルスキー": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "LOOSE　CAR 　STYLE": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "Lily Garden": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "Lupinus": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "Mitis": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "SABONERS CAFÉ": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "SEAGULL": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "SH　CUBE": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "Suzuki Pal Kita": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "Yショップ千代田": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "Yショップ浜田屋": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "appreciate": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "marni HAIR": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "mint・ism": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "toubou hina": [
-    {
-      "name": "家電",
-      "storeid": "kitahiroshima-e4baaf",
-      "shopid": "kitahiroshima-e4baaf-paypay"
-    }
-  ],
-  "あさねこロッジ": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "あるぺん屋": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "おふぃす隅野屋": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "お好み焼三八": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "かけや酒店": [
-    {
-      "name": "酒屋・リカーショップ",
-      "storeid": "kitahiroshima-54df21",
-      "shopid": "kitahiroshima-54df21-paypay"
-    }
-  ],
-  "さをり工房みわ": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "たびーと": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "どんぐり壮": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "へんぽこ茶屋": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "もりもと本店": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "りゅうずの森": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "アザレア": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "エグレッタショールーム": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "エネオス千代田": [
-    {
-      "name": "ガソリンスタンド",
-      "storeid": "kitahiroshima-1054e1",
-      "shopid": "kitahiroshima-1054e1-paypay"
-    }
-  ],
-  "カットハウスひかり": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "カラーフォーム健康ショップ": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "カントリーインふーすけ": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "ゲストイン": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "コスモ石油吉坂": [
-    {
-      "name": "ガソリンスタンド",
-      "storeid": "kitahiroshima-1054e1",
-      "shopid": "kitahiroshima-1054e1-paypay"
-    }
-  ],
-  "コスモ石油琴谷": [
-    {
-      "name": "ガソリンスタンド",
-      "storeid": "kitahiroshima-1054e1",
-      "shopid": "kitahiroshima-1054e1-paypay"
-    }
-  ],
-  "コスモ石油細見": [
-    {
-      "name": "ガソリンスタンド",
-      "storeid": "kitahiroshima-1054e1",
-      "shopid": "kitahiroshima-1054e1-paypay"
-    }
-  ],
-  "サステック": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "スズキパルキタ": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "スミヨシ写真館": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "タイヤランド": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "タニグチ": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "チューンナップ　フォレスト": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "バルコムオートバイ神社": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "ヒタル石橋邸": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "ファッションハウス　ルックルック": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "ペンションそよ風": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "ホームライフみやけ": [
-    {
-      "name": "ホームセンター・ショッピングセンター",
-      "storeid": "kitahiroshima-0cf405",
-      "shopid": "kitahiroshima-0cf405-paypay"
-    }
-  ],
-  "ボディショップエム": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "メイト　移動販売": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "メガネセンターアイ": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "メガネ・時計・宝石のタニグチ": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "メダカ通販め組。": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "ヤスダ畳内装": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "三隅整体治療院": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "京屋旅館": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "八剣伝": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "北広島自動車（株）": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "千代田レンタリース": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "千代田電機サービスセンター": [
-    {
-      "name": "家電",
-      "storeid": "kitahiroshima-e4baaf",
-      "shopid": "kitahiroshima-e4baaf-paypay"
-    }
-  ],
-  "味の店清水屋": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "土肥動物病院": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "増田石油店": [
-    {
-      "name": "ガソリンスタンド",
-      "storeid": "kitahiroshima-1054e1",
-      "shopid": "kitahiroshima-1054e1-paypay"
-    }
-  ],
-  "大朝グラウンド売店": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "大朝駅": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "大阪屋": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "天意の里": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "小野酒造株式会社": [
-    {
-      "name": "酒屋・リカーショップ",
-      "storeid": "kitahiroshima-54df21",
-      "shopid": "kitahiroshima-54df21-paypay"
-    }
-  ],
-  "山下電機": [
-    {
-      "name": "家電",
-      "storeid": "kitahiroshima-e4baaf",
-      "shopid": "kitahiroshima-e4baaf-paypay"
-    }
-  ],
-  "山口印刷所": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "峠の美容室わらふ": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "広島整備センター": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "広森電機": [
-    {
-      "name": "家電",
-      "storeid": "kitahiroshima-e4baaf",
-      "shopid": "kitahiroshima-e4baaf-paypay"
-    }
-  ],
-  "旬の台所いわた": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "有限会社かわすみ": [
-    {
-      "name": "スーパーマーケット",
-      "storeid": "kitahiroshima-b46422",
-      "shopid": "kitahiroshima-b46422-paypay"
-    }
-  ],
-  "有限会社マッハ": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "有限会社大蔵商会": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "有限会社橋本": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "株式会社エムジー・カーズ千代田": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "株式会社ジール": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "株式会社ニッショウ": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "株式会社広浜モータース本社": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "株式会社斉藤商会": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "株式会社郷田石油店": [
-    {
-      "name": "ガソリンスタンド",
-      "storeid": "kitahiroshima-1054e1",
-      "shopid": "kitahiroshima-1054e1-paypay"
-    }
-  ],
-  "桑本建材株式会社": [
-    {
-      "name": "ホームセンター・ショッピングセンター",
-      "storeid": "kitahiroshima-0cf405",
-      "shopid": "kitahiroshima-0cf405-paypay"
-    }
-  ],
-  "民宿かみおか": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "清流の里気紛れ庵": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "温水プールSuiSui": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "濱田屋酒店": [
-    {
-      "name": "酒屋・リカーショップ",
-      "storeid": "kitahiroshima-54df21",
-      "shopid": "kitahiroshima-54df21-paypay"
-    }
-  ],
-  "福光酒造（株）": [
-    {
-      "name": "酒屋・リカーショップ",
-      "storeid": "kitahiroshima-54df21",
-      "shopid": "kitahiroshima-54df21-paypay"
-    }
-  ],
-  "童詩布": [
-    {
-      "name": "家電",
-      "storeid": "kitahiroshima-e4baaf",
-      "shopid": "kitahiroshima-e4baaf-paypay"
-    }
-  ],
-  "竹村石油（株）吉坂SS": [
-    {
-      "name": "ガソリンスタンド",
-      "storeid": "kitahiroshima-1054e1",
-      "shopid": "kitahiroshima-1054e1-paypay"
-    }
-  ],
-  "竹村石油（株）琴谷SS": [
-    {
-      "name": "ガソリンスタンド",
-      "storeid": "kitahiroshima-1054e1",
-      "shopid": "kitahiroshima-1054e1-paypay"
-    }
-  ],
-  "米田自動車": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "美容室mint": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "美容室さとう": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "脇本モータース": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "芸北ぞうさんカフェ＆ぞうさん出版": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "芸北オークガーデン": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "芸北プロパン不二屋": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "芸北道場": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "芸北高原大佐スキー場": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "藤原オートサービス": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "藤本理容院": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "行政書士大谷利幸事務所": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "豊平どんぐり農園": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "豊平総合運動公園": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
-    }
-  ],
-  "豊平葬祭": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
+  "ガソリンスタンド": [
+    {
+      "name": "コスモ石油細見",
+      "storeid": "kitahiroshima-a3898f",
+      "shopid": "kitahiroshima-a3898f-paypay"
+    },
+    {
+      "name": "コスモ石油吉坂",
+      "storeid": "kitahiroshima-3ad5c7",
+      "shopid": "kitahiroshima-3ad5c7-paypay"
+    },
+    {
+      "name": "コスモ石油琴谷",
+      "storeid": "kitahiroshima-62184d",
+      "shopid": "kitahiroshima-62184d-paypay"
+    },
+    {
+      "name": "JA-SS千代田",
+      "storeid": "kitahiroshima-741292",
+      "shopid": "kitahiroshima-741292-paypay"
+    },
+    {
+      "name": "JA-SS大朝インター",
+      "storeid": "kitahiroshima-db2904",
+      "shopid": "kitahiroshima-db2904-paypay"
+    },
+    {
+      "name": "竹村石油（株）吉坂SS",
+      "storeid": "kitahiroshima-dd5898",
+      "shopid": "kitahiroshima-dd5898-paypay"
+    },
+    {
+      "name": "竹村石油（株）琴谷SS",
+      "storeid": "kitahiroshima-aab3af",
+      "shopid": "kitahiroshima-aab3af-paypay"
+    },
+    {
+      "name": "株式会社郷田石油店",
+      "storeid": "kitahiroshima-d1e630",
+      "shopid": "kitahiroshima-d1e630-paypay"
+    },
+    {
+      "name": "エネオス千代田",
+      "storeid": "kitahiroshima-d36a8f",
+      "shopid": "kitahiroshima-d36a8f-paypay"
+    },
+    {
+      "name": "増田石油店",
+      "storeid": "kitahiroshima-a4d221",
+      "shopid": "kitahiroshima-a4d221-paypay"
     }
   ],
-  "酔膳亭みちづれ": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
+  "酒屋・リカーショップ": [
+    {
+      "name": "かけや酒店",
+      "storeid": "kitahiroshima-023a04",
+      "shopid": "kitahiroshima-023a04-paypay"
+    },
+    {
+      "name": "小野酒造株式会社",
+      "storeid": "kitahiroshima-1f7432",
+      "shopid": "kitahiroshima-1f7432-paypay"
+    },
+    {
+      "name": "濱田屋酒店",
+      "storeid": "kitahiroshima-12babd",
+      "shopid": "kitahiroshima-12babd-paypay"
+    },
+    {
+      "name": "福光酒造（株）",
+      "storeid": "kitahiroshima-509b8a",
+      "shopid": "kitahiroshima-509b8a-paypay"
     }
-  ],
-  "雄鹿原ジビエ工房": [
-    {
-      "name": "その他",
-      "storeid": "kitahiroshima-02e915",
-      "shopid": "kitahiroshima-02e915-paypay"
+  ],
+  "スーパーマーケット": [
+    {
+      "name": "有限会社かわすみ",
+      "storeid": "kitahiroshima-690ea6",
+      "shopid": "kitahiroshima-690ea6-paypay"
+    }
+  ],
+  "ホームセンター・ショッピングセンター": [
+    {
+      "name": "ホームライフみやけ",
+      "storeid": "kitahiroshima-976fa0",
+      "shopid": "kitahiroshima-976fa0-paypay"
+    },
+    {
+      "name": "桑本建材株式会社",
+      "storeid": "kitahiroshima-b69a9d",
+      "shopid": "kitahiroshima-b69a9d-paypay"
+    }
+  ],
+  "家電": [
+    {
+      "name": "toubou hina",
+      "storeid": "kitahiroshima-f7acc0",
+      "shopid": "kitahiroshima-f7acc0-paypay"
+    },
+    {
+      "name": "Eight Plus",
+      "storeid": "kitahiroshima-11944c",
+      "shopid": "kitahiroshima-11944c-paypay"
+    },
+    {
+      "name": "広森電機",
+      "storeid": "kitahiroshima-daf75f",
+      "shopid": "kitahiroshima-daf75f-paypay"
+    },
+    {
+      "name": "山下電機",
+      "storeid": "kitahiroshima-c08f2d",
+      "shopid": "kitahiroshima-c08f2d-paypay"
+    },
+    {
+      "name": "千代田電機サービスセンター",
+      "storeid": "kitahiroshima-19ef5f",
+      "shopid": "kitahiroshima-19ef5f-paypay"
+    },
+    {
+      "name": "童詩布",
+      "storeid": "kitahiroshima-48ff6a",
+      "shopid": "kitahiroshima-48ff6a-paypay"
+    }
+  ],
+  "その他": [
+    {
+      "name": "土肥動物病院",
+      "storeid": "kitahiroshima-c00c2f",
+      "shopid": "kitahiroshima-c00c2f-paypay"
+    },
+    {
+      "name": "メイト　移動販売",
+      "storeid": "kitahiroshima-e38b2e",
+      "shopid": "kitahiroshima-e38b2e-paypay"
+    },
+    {
+      "name": "温水プールSuiSui",
+      "storeid": "kitahiroshima-7edc9d",
+      "shopid": "kitahiroshima-7edc9d-paypay"
+    },
+    {
+      "name": "おふぃす隅野屋",
+      "storeid": "kitahiroshima-122ea9",
+      "shopid": "kitahiroshima-122ea9-paypay"
+    },
+    {
+      "name": "Etcetera",
+      "storeid": "kitahiroshima-2b3363",
+      "shopid": "kitahiroshima-2b3363-paypay"
+    },
+    {
+      "name": "株式会社広浜モータース本社",
+      "storeid": "kitahiroshima-8e4200",
+      "shopid": "kitahiroshima-8e4200-paypay"
+    },
+    {
+      "name": "有限会社大蔵商会",
+      "storeid": "kitahiroshima-ced445",
+      "shopid": "kitahiroshima-ced445-paypay"
+    },
+    {
+      "name": "有限会社橋本",
+      "storeid": "kitahiroshima-5300d1",
+      "shopid": "kitahiroshima-5300d1-paypay"
+    },
+    {
+      "name": "芸北道場",
+      "storeid": "kitahiroshima-238161",
+      "shopid": "kitahiroshima-238161-paypay"
+    },
+    {
+      "name": "Yショップ千代田",
+      "storeid": "kitahiroshima-891a1d",
+      "shopid": "kitahiroshima-891a1d-paypay"
+    },
+    {
+      "name": "ボディショップエム",
+      "storeid": "kitahiroshima-eefdf3",
+      "shopid": "kitahiroshima-eefdf3-paypay"
+    },
+    {
+      "name": "脇本モータース",
+      "storeid": "kitahiroshima-505b1e",
+      "shopid": "kitahiroshima-505b1e-paypay"
+    },
+    {
+      "name": "米田自動車",
+      "storeid": "kitahiroshima-fc2602",
+      "shopid": "kitahiroshima-fc2602-paypay"
+    },
+    {
+      "name": "スミヨシ写真館",
+      "storeid": "kitahiroshima-27d95d",
+      "shopid": "kitahiroshima-27d95d-paypay"
+    },
+    {
+      "name": "チューンナップ　フォレスト",
+      "storeid": "kitahiroshima-397c7b",
+      "shopid": "kitahiroshima-397c7b-paypay"
+    },
+    {
+      "name": "株式会社エムジー・カーズ千代田",
+      "storeid": "kitahiroshima-24362a",
+      "shopid": "kitahiroshima-24362a-paypay"
+    },
+    {
+      "name": "たびーと",
+      "storeid": "kitahiroshima-891b78",
+      "shopid": "kitahiroshima-891b78-paypay"
+    },
+    {
+      "name": "カラーフォーム健康ショップ",
+      "storeid": "kitahiroshima-d636c2",
+      "shopid": "kitahiroshima-d636c2-paypay"
+    },
+    {
+      "name": "株式会社斉藤商会",
+      "storeid": "kitahiroshima-55f719",
+      "shopid": "kitahiroshima-55f719-paypay"
+    },
+    {
+      "name": "北広島自動車（株）",
+      "storeid": "kitahiroshima-4e20b9",
+      "shopid": "kitahiroshima-4e20b9-paypay"
+    },
+    {
+      "name": "株式会社ニッショウ",
+      "storeid": "kitahiroshima-8242d9",
+      "shopid": "kitahiroshima-8242d9-paypay"
+    },
+    {
+      "name": "美容室さとう",
+      "storeid": "kitahiroshima-dc6fb6",
+      "shopid": "kitahiroshima-dc6fb6-paypay"
+    },
+    {
+      "name": "藤原オートサービス",
+      "storeid": "kitahiroshima-4f8979",
+      "shopid": "kitahiroshima-4f8979-paypay"
+    },
+    {
+      "name": "タイヤランド",
+      "storeid": "kitahiroshima-ecc6df",
+      "shopid": "kitahiroshima-ecc6df-paypay"
+    },
+    {
+      "name": "大朝駅",
+      "storeid": "kitahiroshima-58df38",
+      "shopid": "kitahiroshima-58df38-paypay"
+    },
+    {
+      "name": "芸北プロパン不二屋",
+      "storeid": "kitahiroshima-7664aa",
+      "shopid": "kitahiroshima-7664aa-paypay"
+    },
+    {
+      "name": "Lupinus",
+      "storeid": "kitahiroshima-ee0f69",
+      "shopid": "kitahiroshima-ee0f69-paypay"
+    },
+    {
+      "name": "LOOSE　CAR 　STYLE",
+      "storeid": "kitahiroshima-aca8e9",
+      "shopid": "kitahiroshima-aca8e9-paypay"
+    },
+    {
+      "name": "株式会社ジール",
+      "storeid": "kitahiroshima-99e7d4",
+      "shopid": "kitahiroshima-99e7d4-paypay"
+    },
+    {
+      "name": "山口印刷所",
+      "storeid": "kitahiroshima-22e02d",
+      "shopid": "kitahiroshima-22e02d-paypay"
+    },
+    {
+      "name": "三隅整体治療院",
+      "storeid": "kitahiroshima-42b5e0",
+      "shopid": "kitahiroshima-42b5e0-paypay"
+    },
+    {
+      "name": "Mitis",
+      "storeid": "kitahiroshima-da77c4",
+      "shopid": "kitahiroshima-da77c4-paypay"
+    },
+    {
+      "name": "Suzuki Pal Kita",
+      "storeid": "kitahiroshima-609a15",
+      "shopid": "kitahiroshima-609a15-paypay"
+    },
+    {
+      "name": "芸北高原大佐スキー場",
+      "storeid": "kitahiroshima-0e7104",
+      "shopid": "kitahiroshima-0e7104-paypay"
+    },
+    {
+      "name": "JB北広島乗馬クラブ",
+      "storeid": "kitahiroshima-7531f9",
+      "shopid": "kitahiroshima-7531f9-paypay"
+    },
+    {
+      "name": "有限会社マッハ",
+      "storeid": "kitahiroshima-308b5e",
+      "shopid": "kitahiroshima-308b5e-paypay"
+    },
+    {
+      "name": "SH　CUBE",
+      "storeid": "kitahiroshima-2e08f5",
+      "shopid": "kitahiroshima-2e08f5-paypay"
+    },
+    {
+      "name": "K2レンタルスキー",
+      "storeid": "kitahiroshima-3afca5",
+      "shopid": "kitahiroshima-3afca5-paypay"
+    },
+    {
+      "name": "メダカ通販め組。",
+      "storeid": "kitahiroshima-b0207b",
+      "shopid": "kitahiroshima-b0207b-paypay"
+    },
+    {
+      "name": "広島整備センター",
+      "storeid": "kitahiroshima-fa2ee0",
+      "shopid": "kitahiroshima-fa2ee0-paypay"
+    },
+    {
+      "name": "エグレッタショールーム",
+      "storeid": "kitahiroshima-8a0c35",
+      "shopid": "kitahiroshima-8a0c35-paypay"
+    },
+    {
+      "name": "サステック",
+      "storeid": "kitahiroshima-8d14e9",
+      "shopid": "kitahiroshima-8d14e9-paypay"
+    },
+    {
+      "name": "行政書士大谷利幸事務所",
+      "storeid": "kitahiroshima-b3ec01",
+      "shopid": "kitahiroshima-b3ec01-paypay"
+    },
+    {
+      "name": "千代田レンタリース",
+      "storeid": "kitahiroshima-2a77fe",
+      "shopid": "kitahiroshima-2a77fe-paypay"
+    },
+    {
+      "name": "もりもと本店",
+      "storeid": "kitahiroshima-e6eeaa",
+      "shopid": "kitahiroshima-e6eeaa-paypay"
+    },
+    {
+      "name": "(有）笠道モータース",
+      "storeid": "kitahiroshima-6b8fa2",
+      "shopid": "kitahiroshima-6b8fa2-paypay"
+    },
+    {
+      "name": "豊平葬祭",
+      "storeid": "kitahiroshima-e6a6fb",
+      "shopid": "kitahiroshima-e6a6fb-paypay"
+    },
+    {
+      "name": "Dogsalon シャルーイ",
+      "storeid": "kitahiroshima-f991e3",
+      "shopid": "kitahiroshima-f991e3-paypay"
+    },
+    {
+      "name": "雄鹿原ジビエ工房",
+      "storeid": "kitahiroshima-5da8a2",
+      "shopid": "kitahiroshima-5da8a2-paypay"
+    },
+    {
+      "name": "ヤスダ畳内装",
+      "storeid": "kitahiroshima-05637e",
+      "shopid": "kitahiroshima-05637e-paypay"
+    },
+    {
+      "name": "どんぐり壮",
+      "storeid": "kitahiroshima-5a86bd",
+      "shopid": "kitahiroshima-5a86bd-paypay"
+    },
+    {
+      "name": "アザレア",
+      "storeid": "kitahiroshima-3a9c42",
+      "shopid": "kitahiroshima-3a9c42-paypay"
+    },
+    {
+      "name": "ゲストイン",
+      "storeid": "kitahiroshima-007884",
+      "shopid": "kitahiroshima-007884-paypay"
+    },
+    {
+      "name": "京屋旅館",
+      "storeid": "kitahiroshima-692778",
+      "shopid": "kitahiroshima-692778-paypay"
+    },
+    {
+      "name": "バルコムオートバイ神社",
+      "storeid": "kitahiroshima-ac9713",
+      "shopid": "kitahiroshima-ac9713-paypay"
+    },
+    {
+      "name": "民宿かみおか",
+      "storeid": "kitahiroshima-ea80ad",
+      "shopid": "kitahiroshima-ea80ad-paypay"
+    },
+    {
+      "name": "FERMELL",
+      "storeid": "kitahiroshima-d5f651",
+      "shopid": "kitahiroshima-d5f651-paypay"
+    },
+    {
+      "name": "芸北オークガーデン",
+      "storeid": "kitahiroshima-179e5a",
+      "shopid": "kitahiroshima-179e5a-paypay"
+    },
+    {
+      "name": "ヒタル石橋邸",
+      "storeid": "kitahiroshima-aa8386",
+      "shopid": "kitahiroshima-aa8386-paypay"
+    },
+    {
+      "name": "あさねこロッジ",
+      "storeid": "kitahiroshima-16b86b",
+      "shopid": "kitahiroshima-16b86b-paypay"
+    },
+    {
+      "name": "りゅうずの森",
+      "storeid": "kitahiroshima-a77625",
+      "shopid": "kitahiroshima-a77625-paypay"
+    },
+    {
+      "name": "カントリーインふーすけ",
+      "storeid": "kitahiroshima-e91d28",
+      "shopid": "kitahiroshima-e91d28-paypay"
+    },
+    {
+      "name": "ペンションそよ風",
+      "storeid": "kitahiroshima-26ed6b",
+      "shopid": "kitahiroshima-26ed6b-paypay"
+    },
+    {
+      "name": "あるぺん屋",
+      "storeid": "kitahiroshima-c5d835",
+      "shopid": "kitahiroshima-c5d835-paypay"
+    },
+    {
+      "name": "Lily Garden",
+      "storeid": "kitahiroshima-47a25e",
+      "shopid": "kitahiroshima-47a25e-paypay"
+    },
+    {
+      "name": "SEAGULL",
+      "storeid": "kitahiroshima-e79124",
+      "shopid": "kitahiroshima-e79124-paypay"
+    },
+    {
+      "name": "峠の美容室わらふ",
+      "storeid": "kitahiroshima-0d2521",
+      "shopid": "kitahiroshima-0d2521-paypay"
+    },
+    {
+      "name": "mint・ism",
+      "storeid": "kitahiroshima-5ecc98",
+      "shopid": "kitahiroshima-5ecc98-paypay"
+    },
+    {
+      "name": "HAIR MAKES JANK",
+      "storeid": "kitahiroshima-9b9e3a",
+      "shopid": "kitahiroshima-9b9e3a-paypay"
+    },
+    {
+      "name": "美容室mint",
+      "storeid": "kitahiroshima-b7838e",
+      "shopid": "kitahiroshima-b7838e-paypay"
+    },
+    {
+      "name": "marni HAIR",
+      "storeid": "kitahiroshima-c2b5cb",
+      "shopid": "kitahiroshima-c2b5cb-paypay"
+    },
+    {
+      "name": "appreciate",
+      "storeid": "kitahiroshima-3ca089",
+      "shopid": "kitahiroshima-3ca089-paypay"
+    },
+    {
+      "name": "カットハウスひかり",
+      "storeid": "kitahiroshima-56513b",
+      "shopid": "kitahiroshima-56513b-paypay"
+    },
+    {
+      "name": "CUORE",
+      "storeid": "kitahiroshima-a5311d",
+      "shopid": "kitahiroshima-a5311d-paypay"
+    },
+    {
+      "name": "Enishiハウオリ",
+      "storeid": "kitahiroshima-fec769",
+      "shopid": "kitahiroshima-fec769-paypay"
+    },
+    {
+      "name": "K'shair",
+      "storeid": "kitahiroshima-f0c427",
+      "shopid": "kitahiroshima-f0c427-paypay"
+    },
+    {
+      "name": "Blue　Drop",
+      "storeid": "kitahiroshima-ee84c1",
+      "shopid": "kitahiroshima-ee84c1-paypay"
+    },
+    {
+      "name": "藤本理容院",
+      "storeid": "kitahiroshima-0fc340",
+      "shopid": "kitahiroshima-0fc340-paypay"
+    },
+    {
+      "name": "豊平総合運動公園",
+      "storeid": "kitahiroshima-49ec79",
+      "shopid": "kitahiroshima-49ec79-paypay"
+    },
+    {
+      "name": "豊平どんぐり農園",
+      "storeid": "kitahiroshima-51f43a",
+      "shopid": "kitahiroshima-51f43a-paypay"
+    },
+    {
+      "name": "Atelier yuone",
+      "storeid": "kitahiroshima-d5edab",
+      "shopid": "kitahiroshima-d5edab-paypay"
+    },
+    {
+      "name": "大阪屋",
+      "storeid": "kitahiroshima-e2146e",
+      "shopid": "kitahiroshima-e2146e-paypay"
+    },
+    {
+      "name": "ファッションハウス　ルックルック",
+      "storeid": "kitahiroshima-cfa298",
+      "shopid": "kitahiroshima-cfa298-paypay"
+    },
+    {
+      "name": "メガネセンターアイ",
+      "storeid": "kitahiroshima-e6b5ef",
+      "shopid": "kitahiroshima-e6b5ef-paypay"
+    },
+    {
+      "name": "SABONERS CAFÉ",
+      "storeid": "kitahiroshima-4064ec",
+      "shopid": "kitahiroshima-4064ec-paypay"
+    },
+    {
+      "name": "タニグチ",
+      "storeid": "kitahiroshima-8bca0b",
+      "shopid": "kitahiroshima-8bca0b-paypay"
+    },
+    {
+      "name": "さをり工房みわ",
+      "storeid": "kitahiroshima-10abb6",
+      "shopid": "kitahiroshima-10abb6-paypay"
+    },
+    {
+      "name": "メガネ・時計・宝石のタニグチ",
+      "storeid": "kitahiroshima-7ca6d5",
+      "shopid": "kitahiroshima-7ca6d5-paypay"
+    },
+    {
+      "name": "Yショップ浜田屋",
+      "storeid": "kitahiroshima-20ad15",
+      "shopid": "kitahiroshima-20ad15-paypay"
+    },
+    {
+      "name": "大朝グラウンド売店",
+      "storeid": "kitahiroshima-8c2e4f",
+      "shopid": "kitahiroshima-8c2e4f-paypay"
+    },
+    {
+      "name": "お好み焼三八",
+      "storeid": "kitahiroshima-d1284b",
+      "shopid": "kitahiroshima-d1284b-paypay"
+    },
+    {
+      "name": "へんぽこ茶屋",
+      "storeid": "kitahiroshima-45a719",
+      "shopid": "kitahiroshima-45a719-paypay"
+    },
+    {
+      "name": "酔膳亭みちづれ",
+      "storeid": "kitahiroshima-2823c5",
+      "shopid": "kitahiroshima-2823c5-paypay"
+    },
+    {
+      "name": "旬の台所いわた",
+      "storeid": "kitahiroshima-3c936f",
+      "shopid": "kitahiroshima-3c936f-paypay"
+    },
+    {
+      "name": "芸北ぞうさんカフェ＆ぞうさん出版",
+      "storeid": "kitahiroshima-fc7848",
+      "shopid": "kitahiroshima-fc7848-paypay"
+    },
+    {
+      "name": "八剣伝",
+      "storeid": "kitahiroshima-ff9b5c",
+      "shopid": "kitahiroshima-ff9b5c-paypay"
+    },
+    {
+      "name": "天意の里",
+      "storeid": "kitahiroshima-7b741c",
+      "shopid": "kitahiroshima-7b741c-paypay"
+    },
+    {
+      "name": "味の店清水屋",
+      "storeid": "kitahiroshima-a7847d",
+      "shopid": "kitahiroshima-a7847d-paypay"
+    },
+    {
+      "name": "清流の里気紛れ庵",
+      "storeid": "kitahiroshima-b9ac4d",
+      "shopid": "kitahiroshima-b9ac4d-paypay"
+    },
+    {
+      "name": "スズキパルキタ",
+      "storeid": "kitahiroshima-d63085",
+      "shopid": "kitahiroshima-d63085-paypay"
     }
   ]
 }
