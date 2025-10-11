@@ -50,7 +50,7 @@ export default function ClientShopLists({ shopListByGenre, detailsJsonPath }: Pr
     const cache = localStorage.getItem("shop_ranking_cache");
 
     // 🧪 テスト中はキャッシュを無効化（即最新ランキングを取得）
-    const forceRefresh = true; // ← true にすると毎回 Supabase にアクセス（確認用）
+    const forceRefresh = false; // ← true にすると毎回 Supabase にアクセス（確認用）
 
     if (cache && !forceRefresh) {
       const parsed = JSON.parse(cache);
