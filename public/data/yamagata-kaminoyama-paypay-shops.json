@@ -31,22 +31,52 @@
       "shopid": "kaminoyama-e6aeb1-paypay"
     },
     {
+      "name": "スナック    グランデ",
+      "address": "栄町",
+      "storeid": "kaminoyama-ec2b3d",
+      "shopid": "kaminoyama-ec2b3d-paypay"
+    },
+    {
       "name": "やまぶきCafe",
       "address": "下生居新山吹",
       "storeid": "kaminoyama-925193",
       "shopid": "kaminoyama-925193-paypay"
     },
     {
-      "name": "鮨 扇",
-      "address": "金生",
-      "storeid": "kaminoyama-b51c23",
-      "shopid": "kaminoyama-b51c23-paypay"
+      "name": "㈲松茶庵",
+      "address": "河崎",
+      "storeid": "kaminoyama-3ce5a0",
+      "shopid": "kaminoyama-3ce5a0-paypay"
     },
     {
-      "name": "手打そば たから亭",
+      "name": "丹野こんにゃく    こんにゃく番所",
+      "address": "皆沢諏訪前",
+      "storeid": "kaminoyama-59e7a0",
+      "shopid": "kaminoyama-59e7a0-paypay"
+    },
+    {
+      "name": "鮨    扇",
+      "address": "金生",
+      "storeid": "kaminoyama-c6d8fe",
+      "shopid": "kaminoyama-c6d8fe-paypay"
+    },
+    {
+      "name": "Cafe koi koi",
       "address": "金生東",
-      "storeid": "kaminoyama-c81f2c",
-      "shopid": "kaminoyama-c81f2c-paypay"
+      "storeid": "kaminoyama-334d90",
+      "shopid": "kaminoyama-334d90-paypay"
+    },
+    {
+      "name": "手打そば    たから亭",
+      "address": "金生東",
+      "storeid": "kaminoyama-0bfba1",
+      "shopid": "kaminoyama-0bfba1-paypay"
+    },
+    {
+      "name": "熱烈中華maru武",
+      "address": "金生東",
+      "storeid": "kaminoyama-d1c354",
+      "shopid": "kaminoyama-d1c354-paypay"
     },
     {
       "name": "味処松乃屋",
@@ -55,16 +85,274 @@
       "shopid": "kaminoyama-d36242-paypay"
     },
     {
+      "name": "拉麺    さとう",
+      "address": "金瓶水上",
+      "storeid": "kaminoyama-ff39af",
+      "shopid": "kaminoyama-ff39af-paypay"
+    },
+    {
+      "name": "御食事処    じんや",
+      "address": "軽井沢",
+      "storeid": "kaminoyama-00e4de",
+      "shopid": "kaminoyama-00e4de-paypay"
+    },
+    {
+      "name": "サニープレイスコーヒー",
+      "address": "権現堂",
+      "storeid": "kaminoyama-c33533",
+      "shopid": "kaminoyama-c33533-paypay"
+    },
+    {
+      "name": "原口そばや",
+      "address": "原口",
+      "storeid": "kaminoyama-f584ee",
+      "shopid": "kaminoyama-f584ee-paypay"
+    },
+    {
+      "name": "蔵王山麓あずきや",
+      "address": "高野高野原",
+      "storeid": "kaminoyama-f27f82",
+      "shopid": "kaminoyama-f27f82-paypay"
+    },
+    {
+      "name": "そばと山野草料理    木こり",
+      "address": "高野薄沢",
+      "storeid": "kaminoyama-0c7f9d",
+      "shopid": "kaminoyama-0c7f9d-paypay"
+    },
+    {
+      "name": "農園カフェまってる",
+      "address": "三上",
+      "storeid": "kaminoyama-2aebba",
+      "shopid": "kaminoyama-2aebba-paypay"
+    },
+    {
+      "name": "ランチ家    ありんくりん",
+      "address": "四ツ谷",
+      "storeid": "kaminoyama-3b5e87",
+      "shopid": "kaminoyama-3b5e87-paypay"
+    },
+    {
+      "name": "そば処    さかえや",
+      "address": "十日町",
+      "storeid": "kaminoyama-0a1d30",
+      "shopid": "kaminoyama-0a1d30-paypay"
+    },
+    {
+      "name": "リリー鮨",
+      "address": "十日町",
+      "storeid": "kaminoyama-57c049",
+      "shopid": "kaminoyama-57c049-paypay"
+    },
+    {
+      "name": "十五屋本店",
+      "address": "十日町",
+      "storeid": "kaminoyama-333828",
+      "shopid": "kaminoyama-333828-paypay"
+    },
+    {
+      "name": "鮮魚かねに",
+      "address": "十日町",
+      "storeid": "kaminoyama-9b8d95",
+      "shopid": "kaminoyama-9b8d95-paypay"
+    },
+    {
+      "name": "清来軒",
+      "address": "新丁",
+      "storeid": "kaminoyama-4b862c",
+      "shopid": "kaminoyama-4b862c-paypay"
+    },
+    {
+      "name": "NORMA",
+      "address": "新湯",
+      "storeid": "kaminoyama-ad57cd",
+      "shopid": "kaminoyama-ad57cd-paypay"
+    },
+    {
+      "name": "シルフィード",
+      "address": "新湯",
+      "storeid": "kaminoyama-10a4ba",
+      "shopid": "kaminoyama-10a4ba-paypay"
+    },
+    {
+      "name": "ふうふぅ",
+      "address": "新湯",
+      "storeid": "kaminoyama-b97d4d",
+      "shopid": "kaminoyama-b97d4d-paypay"
+    },
+    {
+      "name": "季節料理    豊奈味",
+      "address": "新湯",
+      "storeid": "kaminoyama-99e2fa",
+      "shopid": "kaminoyama-99e2fa-paypay"
+    },
+    {
+      "name": "笑福",
+      "address": "新湯",
+      "storeid": "kaminoyama-0276c7",
+      "shopid": "kaminoyama-0276c7-paypay"
+    },
+    {
+      "name": "食事処    花ふぶき",
+      "address": "新湯",
+      "storeid": "kaminoyama-0d7997",
+      "shopid": "kaminoyama-0d7997-paypay"
+    },
+    {
+      "name": "湯蕎庵    味津肥盧",
+      "address": "新湯",
+      "storeid": "kaminoyama-7c4e43",
+      "shopid": "kaminoyama-7c4e43-paypay"
+    },
+    {
+      "name": "さぶちゃんラーメン",
+      "address": "石崎",
+      "storeid": "kaminoyama-d7ce3e",
+      "shopid": "kaminoyama-d7ce3e-paypay"
+    },
+    {
+      "name": "みそのそばや",
+      "address": "石崎",
+      "storeid": "kaminoyama-e91d4e",
+      "shopid": "kaminoyama-e91d4e-paypay"
+    },
+    {
       "name": "魚料理 大漁",
       "address": "石崎",
       "storeid": "kaminoyama-e84d39",
       "shopid": "kaminoyama-e84d39-paypay"
     },
     {
-      "name": "焼肉 暁 AKATSUKI",
+      "name": "中華料理    信",
+      "address": "石崎",
+      "storeid": "kaminoyama-2ff3f5",
+      "shopid": "kaminoyama-2ff3f5-paypay"
+    },
+    {
+      "name": "居酒屋    かかし",
+      "address": "石堂",
+      "storeid": "kaminoyama-a8e22f",
+      "shopid": "kaminoyama-a8e22f-paypay"
+    },
+    {
+      "name": "手打ちそば    あららぎ",
+      "address": "川口下河原",
+      "storeid": "kaminoyama-a33a7e",
+      "shopid": "kaminoyama-a33a7e-paypay"
+    },
+    {
+      "name": "きたや",
+      "address": "相生",
+      "storeid": "kaminoyama-f11938",
+      "shopid": "kaminoyama-f11938-paypay"
+    },
+    {
+      "name": "蔵王ライザワールド",
+      "address": "蔵王坊平高原",
+      "storeid": "kaminoyama-271a15",
+      "shopid": "kaminoyama-271a15-paypay"
+    },
+    {
+      "name": "DROP",
+      "address": "沢丁",
+      "storeid": "kaminoyama-9c6890",
+      "shopid": "kaminoyama-9c6890-paypay"
+    },
+    {
+      "name": "notorious    stand",
+      "address": "沢丁",
+      "storeid": "kaminoyama-e6b323",
+      "shopid": "kaminoyama-e6b323-paypay"
+    },
+    {
+      "name": "ジローズピザ",
+      "address": "沢丁",
+      "storeid": "kaminoyama-f7c87e",
+      "shopid": "kaminoyama-f7c87e-paypay"
+    },
+    {
+      "name": "すてーき食堂シンバル",
+      "address": "沢丁",
+      "storeid": "kaminoyama-8b55e4",
+      "shopid": "kaminoyama-8b55e4-paypay"
+    },
+    {
+      "name": "スナックチャングム",
+      "address": "沢丁",
+      "storeid": "kaminoyama-68e6c6",
+      "shopid": "kaminoyama-68e6c6-paypay"
+    },
+    {
+      "name": "ブリック",
+      "address": "沢丁",
+      "storeid": "kaminoyama-1e053b",
+      "shopid": "kaminoyama-1e053b-paypay"
+    },
+    {
+      "name": "まなvivaかえる家",
+      "address": "沢丁",
+      "storeid": "kaminoyama-c2213a",
+      "shopid": "kaminoyama-c2213a-paypay"
+    },
+    {
+      "name": "居酒屋    高太郎",
+      "address": "沢丁",
+      "storeid": "kaminoyama-9d3dae",
+      "shopid": "kaminoyama-9d3dae-paypay"
+    },
+    {
+      "name": "遊行庵",
+      "address": "狸森",
+      "storeid": "kaminoyama-b485ad",
+      "shopid": "kaminoyama-b485ad-paypay"
+    },
+    {
+      "name": "Hütte&MossGarden ヒュッテアンドモスガーデン",
+      "address": "狸森腰王山",
+      "storeid": "kaminoyama-5710ce",
+      "shopid": "kaminoyama-5710ce-paypay"
+    },
+    {
+      "name": "蕎麦処    みやび",
+      "address": "中生居",
+      "storeid": "kaminoyama-1bf93f",
+      "shopid": "kaminoyama-1bf93f-paypay"
+    },
+    {
+      "name": "アカリトリノマド",
+      "address": "鶴脛町",
+      "storeid": "kaminoyama-760963",
+      "shopid": "kaminoyama-760963-paypay"
+    },
+    {
+      "name": "蕎麦処一休",
+      "address": "鶴脛町",
+      "storeid": "kaminoyama-a68210",
+      "shopid": "kaminoyama-a68210-paypay"
+    },
+    {
+      "name": "名人の湯",
+      "address": "湯町",
+      "storeid": "kaminoyama-246583",
+      "shopid": "kaminoyama-246583-paypay"
+    },
+    {
+      "name": "焼肉    暁    AKATSUKI",
       "address": "南町",
-      "storeid": "kaminoyama-f35ed6",
-      "shopid": "kaminoyama-f35ed6-paypay"
+      "storeid": "kaminoyama-c30335",
+      "shopid": "kaminoyama-c30335-paypay"
+    },
+    {
+      "name": "凛音cafe",
+      "address": "南町",
+      "storeid": "kaminoyama-248d79",
+      "shopid": "kaminoyama-248d79-paypay"
+    },
+    {
+      "name": "ラウンジ    波",
+      "address": "二日町",
+      "storeid": "kaminoyama-06c246",
+      "shopid": "kaminoyama-06c246-paypay"
     },
     {
       "name": "宴庭はやと",
@@ -73,19 +361,103 @@
       "shopid": "kaminoyama-0de753-paypay"
     },
     {
-      "name": "居酒屋 紀saku",
+      "name": "居酒屋    紀saku",
       "address": "二日町",
-      "storeid": "kaminoyama-558098",
-      "shopid": "kaminoyama-558098-paypay"
+      "storeid": "kaminoyama-7ee0ac",
+      "shopid": "kaminoyama-7ee0ac-paypay"
     },
     {
-      "name": "BEARS caffe",
+      "name": "中華料理 新華楼",
+      "address": "二日町",
+      "storeid": "kaminoyama-b0d383",
+      "shopid": "kaminoyama-b0d383-paypay"
+    },
+    {
+      "name": "八千代食堂",
+      "address": "二日町",
+      "storeid": "kaminoyama-2f4ff5",
+      "shopid": "kaminoyama-2f4ff5-paypay"
+    },
+    {
+      "name": "まちライブラリー    けやきの家",
+      "address": "八日町",
+      "storeid": "kaminoyama-23c8d4",
+      "shopid": "kaminoyama-23c8d4-paypay"
+    },
+    {
+      "name": "すし海道    上山店",
+      "address": "美咲町",
+      "storeid": "kaminoyama-50a554",
+      "shopid": "kaminoyama-50a554-paypay"
+    },
+    {
+      "name": "長好亭    みさき",
+      "address": "美咲町",
+      "storeid": "kaminoyama-7a0ad2",
+      "shopid": "kaminoyama-7a0ad2-paypay"
+    },
+    {
+      "name": "BEARS    caffe",
       "address": "矢来",
-      "storeid": "kaminoyama-75a3bb",
-      "shopid": "kaminoyama-75a3bb-paypay"
+      "storeid": "kaminoyama-b48e20",
+      "shopid": "kaminoyama-b48e20-paypay"
+    },
+    {
+      "name": "harappa    soba",
+      "address": "矢来",
+      "storeid": "kaminoyama-66a37a",
+      "shopid": "kaminoyama-66a37a-paypay"
+    },
+    {
+      "name": "tempo",
+      "address": "矢来",
+      "storeid": "kaminoyama-788b50",
+      "shopid": "kaminoyama-788b50-paypay"
+    },
+    {
+      "name": "ライトスタッフcoffee",
+      "address": "矢来",
+      "storeid": "kaminoyama-aece95",
+      "shopid": "kaminoyama-aece95-paypay"
+    },
+    {
+      "name": "五十番食堂",
+      "address": "矢来",
+      "storeid": "kaminoyama-8df428",
+      "shopid": "kaminoyama-8df428-paypay"
+    },
+    {
+      "name": "Cafe and Gallery 月と星",
+      "address": "葉山",
+      "storeid": "kaminoyama-141aaf",
+      "shopid": "kaminoyama-141aaf-paypay"
     }
   ],
   "小売": [
+    {
+      "name": "黒龍工房 本店",
+      "address": "みはらしの丘",
+      "storeid": "kaminoyama-9454f4",
+      "shopid": "kaminoyama-9454f4-paypay"
+    },
+    {
+      "name": "秋葉農園(ん〜まい農園)",
+      "address": "阿弥陀地",
+      "storeid": "kaminoyama-07e774",
+      "shopid": "kaminoyama-07e774-paypay"
+    },
+    {
+      "name": "HATAKE STYLE 本店",
+      "address": "阿弥陀地塩崎前",
+      "storeid": "kaminoyama-3e3108",
+      "shopid": "kaminoyama-3e3108-paypay"
+    },
+    {
+      "name": "もぎたてファーム",
+      "address": "阿弥陀地中畑",
+      "storeid": "kaminoyama-630b28",
+      "shopid": "kaminoyama-630b28-paypay"
+    },
     {
       "name": "ふとんの森谷",
       "address": "旭町",
@@ -97,6 +469,36 @@
       "address": "旭町",
       "storeid": "kaminoyama-813f2a",
       "shopid": "kaminoyama-813f2a-paypay"
+    },
+    {
+      "name": "㈲関食品上山旭町店",
+      "address": "旭町",
+      "storeid": "kaminoyama-d42400",
+      "shopid": "kaminoyama-d42400-paypay"
+    },
+    {
+      "name": "おさかなの重三郎",
+      "address": "栄町",
+      "storeid": "kaminoyama-ff1688",
+      "shopid": "kaminoyama-ff1688-paypay"
+    },
+    {
+      "name": "チェビオット",
+      "address": "永野蔵王山",
+      "storeid": "kaminoyama-a6463e",
+      "shopid": "kaminoyama-a6463e-paypay"
+    },
+    {
+      "name": "アバ    インターナショナル    オートモービル",
+      "address": "河崎",
+      "storeid": "kaminoyama-da2140",
+      "shopid": "kaminoyama-da2140-paypay"
+    },
+    {
+      "name": "フォーカス21",
+      "address": "河崎",
+      "storeid": "kaminoyama-943fb7",
+      "shopid": "kaminoyama-943fb7-paypay"
     },
     {
       "name": "ミスタータイヤマン上山",
@@ -111,10 +513,112 @@
       "shopid": "kaminoyama-3665a3-paypay"
     },
     {
-      "name": "くだものうつわ",
-      "address": "金瓶水上",
-      "storeid": "kaminoyama-bccc8b",
-      "shopid": "kaminoyama-bccc8b-paypay"
+      "name": "駒沢寝具店",
+      "address": "河崎",
+      "storeid": "kaminoyama-2f93d1",
+      "shopid": "kaminoyama-2f93d1-paypay"
+    },
+    {
+      "name": "ひまわり農園",
+      "address": "皆沢",
+      "storeid": "kaminoyama-b2c3dd",
+      "shopid": "kaminoyama-b2c3dd-paypay"
+    },
+    {
+      "name": "川口観光果樹園",
+      "address": "皆沢",
+      "storeid": "kaminoyama-0ccd9f",
+      "shopid": "kaminoyama-0ccd9f-paypay"
+    },
+    {
+      "name": "木村観光果樹園",
+      "address": "皆沢",
+      "storeid": "kaminoyama-16a480",
+      "shopid": "kaminoyama-16a480-paypay"
+    },
+    {
+      "name": "株式会社オートメイクK",
+      "address": "関根",
+      "storeid": "kaminoyama-0da405",
+      "shopid": "kaminoyama-0da405-paypay"
+    },
+    {
+      "name": "おらほぶんど",
+      "address": "久保手",
+      "storeid": "kaminoyama-825084",
+      "shopid": "kaminoyama-825084-paypay"
+    },
+    {
+      "name": "ベルウッドヴィンヤード",
+      "address": "久保手久保手",
+      "storeid": "kaminoyama-e57db4",
+      "shopid": "kaminoyama-e57db4-paypay"
+    },
+    {
+      "name": "木村製材所",
+      "address": "久保川",
+      "storeid": "kaminoyama-99bae8",
+      "shopid": "kaminoyama-99bae8-paypay"
+    },
+    {
+      "name": "蘭花園",
+      "address": "金生",
+      "storeid": "kaminoyama-6f5586",
+      "shopid": "kaminoyama-6f5586-paypay"
+    },
+    {
+      "name": "スナップオン大沢",
+      "address": "金生西",
+      "storeid": "kaminoyama-a6af17",
+      "shopid": "kaminoyama-a6af17-paypay"
+    },
+    {
+      "name": "つかさ花店",
+      "address": "金生西",
+      "storeid": "kaminoyama-69e1c0",
+      "shopid": "kaminoyama-69e1c0-paypay"
+    },
+    {
+      "name": "上山惣菜",
+      "address": "金谷トウチョウメン",
+      "storeid": "kaminoyama-de3a68",
+      "shopid": "kaminoyama-de3a68-paypay"
+    },
+    {
+      "name": "あらい工房",
+      "address": "金谷下河原",
+      "storeid": "kaminoyama-07656e",
+      "shopid": "kaminoyama-07656e-paypay"
+    },
+    {
+      "name": "こまくさの里",
+      "address": "金谷金谷神",
+      "storeid": "kaminoyama-63afd4",
+      "shopid": "kaminoyama-63afd4-paypay"
+    },
+    {
+      "name": "カー・フォワード",
+      "address": "金谷八反田",
+      "storeid": "kaminoyama-e1c11d",
+      "shopid": "kaminoyama-e1c11d-paypay"
+    },
+    {
+      "name": "丸和興業",
+      "address": "金瓶",
+      "storeid": "kaminoyama-ee9bf4",
+      "shopid": "kaminoyama-ee9bf4-paypay"
+    },
+    {
+      "name": "古頭果樹園",
+      "address": "金瓶高谷山",
+      "storeid": "kaminoyama-00844e",
+      "shopid": "kaminoyama-00844e-paypay"
+    },
+    {
+      "name": "HATAKE STYLE 上山トマト店",
+      "address": "金瓶山ノ上",
+      "storeid": "kaminoyama-d22299",
+      "shopid": "kaminoyama-d22299-paypay"
     },
     {
       "name": "ファーマーズマーケット トマト 上山店",
@@ -123,10 +627,322 @@
       "shopid": "kaminoyama-1b0b96-paypay"
     },
     {
+      "name": "農家の店    トマト上山店",
+      "address": "金瓶山ノ上",
+      "storeid": "kaminoyama-3b5863",
+      "shopid": "kaminoyama-3b5863-paypay"
+    },
+    {
+      "name": "くだものうつわ",
+      "address": "金瓶水上",
+      "storeid": "kaminoyama-bccc8b",
+      "shopid": "kaminoyama-bccc8b-paypay"
+    },
+    {
+      "name": "サウスロード",
+      "address": "金瓶水上",
+      "storeid": "kaminoyama-8eab91",
+      "shopid": "kaminoyama-8eab91-paypay"
+    },
+    {
+      "name": "(有)ウエスト",
+      "address": "金瓶石田",
+      "storeid": "kaminoyama-8ff9b4",
+      "shopid": "kaminoyama-8ff9b4-paypay"
+    },
+    {
+      "name": "荒井石材店",
+      "address": "金瓶谷広地",
+      "storeid": "kaminoyama-fff1d9",
+      "shopid": "kaminoyama-fff1d9-paypay"
+    },
+    {
+      "name": "（株）スリーエー自動車販売",
+      "address": "軽井沢",
+      "storeid": "kaminoyama-2d37e2",
+      "shopid": "kaminoyama-2d37e2-paypay"
+    },
+    {
+      "name": "公益財団法人上山城郷土資料館    上山城かかし茶屋",
+      "address": "元城内",
+      "storeid": "kaminoyama-cf5c20",
+      "shopid": "kaminoyama-cf5c20-paypay"
+    },
+    {
       "name": "ウッディファーム＆ワイナリー",
       "address": "原口",
       "storeid": "kaminoyama-eab721",
       "shopid": "kaminoyama-eab721-paypay"
+    },
+    {
+      "name": "Yuragi Candle",
+      "address": "御井戸丁",
+      "storeid": "kaminoyama-33ef99",
+      "shopid": "kaminoyama-33ef99-paypay"
+    },
+    {
+      "name": "手づくり雑貨atelier nature",
+      "address": "御井戸丁",
+      "storeid": "kaminoyama-9d312a",
+      "shopid": "kaminoyama-9d312a-paypay"
+    },
+    {
+      "name": "森鶏肉店",
+      "address": "御井戸丁",
+      "storeid": "kaminoyama-369ee4",
+      "shopid": "kaminoyama-369ee4-paypay"
+    },
+    {
+      "name": "電化プラン    スギハラ",
+      "address": "御井戸丁",
+      "storeid": "kaminoyama-94d8db",
+      "shopid": "kaminoyama-94d8db-paypay"
+    },
+    {
+      "name": "(有)佐藤畳店    高松工場",
+      "address": "高松南谷地",
+      "storeid": "kaminoyama-23b2f5",
+      "shopid": "kaminoyama-23b2f5-paypay"
+    },
+    {
+      "name": "城戸口畳店 高松工場",
+      "address": "高松南谷地",
+      "storeid": "kaminoyama-1cd429",
+      "shopid": "kaminoyama-1cd429-paypay"
+    },
+    {
+      "name": "(株)ジェイエイあぐりんやまがた    あぐりんランドなかがわSS",
+      "address": "高野高野原",
+      "storeid": "kaminoyama-22357c",
+      "shopid": "kaminoyama-22357c-paypay"
+    },
+    {
+      "name": "長沢自動車整備工場/セーフティオートプラザ",
+      "address": "高野高野原",
+      "storeid": "kaminoyama-3ef034",
+      "shopid": "kaminoyama-3ef034-paypay"
+    },
+    {
+      "name": "斎藤観光果樹園",
+      "address": "三上",
+      "storeid": "kaminoyama-7e8b8f",
+      "shopid": "kaminoyama-7e8b8f-paypay"
+    },
+    {
+      "name": "Voyage de YUUAI",
+      "address": "三本松",
+      "storeid": "kaminoyama-4ebb08",
+      "shopid": "kaminoyama-4ebb08-paypay"
+    },
+    {
+      "name": "橋本ふとん店",
+      "address": "三本松",
+      "storeid": "kaminoyama-8206da",
+      "shopid": "kaminoyama-8206da-paypay"
+    },
+    {
+      "name": "タケダワイナリー",
+      "address": "四ツ谷",
+      "storeid": "kaminoyama-8d58d1",
+      "shopid": "kaminoyama-8d58d1-paypay"
+    },
+    {
+      "name": "(株)清水屋",
+      "address": "十日町",
+      "storeid": "kaminoyama-802d17",
+      "shopid": "kaminoyama-802d17-paypay"
+    },
+    {
+      "name": "(株)石井商店",
+      "address": "十日町",
+      "storeid": "kaminoyama-b5b4f8",
+      "shopid": "kaminoyama-b5b4f8-paypay"
+    },
+    {
+      "name": "(有)黒田薬局",
+      "address": "十日町",
+      "storeid": "kaminoyama-6db111",
+      "shopid": "kaminoyama-6db111-paypay"
+    },
+    {
+      "name": "エスト昭栄上山",
+      "address": "十日町",
+      "storeid": "kaminoyama-1d54a2",
+      "shopid": "kaminoyama-1d54a2-paypay"
+    },
+    {
+      "name": "ふぁーすとすてっぷ",
+      "address": "十日町",
+      "storeid": "kaminoyama-af288e",
+      "shopid": "kaminoyama-af288e-paypay"
+    },
+    {
+      "name": "マルソウたかはし",
+      "address": "十日町",
+      "storeid": "kaminoyama-36a1a3",
+      "shopid": "kaminoyama-36a1a3-paypay"
+    },
+    {
+      "name": "山小酒店",
+      "address": "十日町",
+      "storeid": "kaminoyama-e822f2",
+      "shopid": "kaminoyama-e822f2-paypay"
+    },
+    {
+      "name": "山川電機",
+      "address": "十日町",
+      "storeid": "kaminoyama-943473",
+      "shopid": "kaminoyama-943473-paypay"
+    },
+    {
+      "name": "大和屋",
+      "address": "十日町",
+      "storeid": "kaminoyama-8aafd5",
+      "shopid": "kaminoyama-8aafd5-paypay"
+    },
+    {
+      "name": "朝日屋茶舗",
+      "address": "十日町",
+      "storeid": "kaminoyama-56b297",
+      "shopid": "kaminoyama-56b297-paypay"
+    },
+    {
+      "name": "本と文具    鍋屋",
+      "address": "十日町",
+      "storeid": "kaminoyama-2885be",
+      "shopid": "kaminoyama-2885be-paypay"
+    },
+    {
+      "name": "株式会社    加藤物産",
+      "address": "新金谷",
+      "storeid": "kaminoyama-f92d21",
+      "shopid": "kaminoyama-f92d21-paypay"
+    },
+    {
+      "name": "(有)篠原精肉店",
+      "address": "新丁",
+      "storeid": "kaminoyama-35fecb",
+      "shopid": "kaminoyama-35fecb-paypay"
+    },
+    {
+      "name": "TikiTida(ティキティダ)",
+      "address": "新丁",
+      "storeid": "kaminoyama-d5b283",
+      "shopid": "kaminoyama-d5b283-paypay"
+    },
+    {
+      "name": "ベーカリー ゆあん",
+      "address": "新丁",
+      "storeid": "kaminoyama-c11711",
+      "shopid": "kaminoyama-c11711-paypay"
+    },
+    {
+      "name": "吉田燃料店",
+      "address": "新丁",
+      "storeid": "kaminoyama-acef51",
+      "shopid": "kaminoyama-acef51-paypay"
+    },
+    {
+      "name": "鏡政治商店",
+      "address": "新丁",
+      "storeid": "kaminoyama-15985e",
+      "shopid": "kaminoyama-15985e-paypay"
+    },
+    {
+      "name": "石岡屋",
+      "address": "新丁",
+      "storeid": "kaminoyama-73d2de",
+      "shopid": "kaminoyama-73d2de-paypay"
+    },
+    {
+      "name": "利久堂    菓子舗",
+      "address": "新丁",
+      "storeid": "kaminoyama-d7df19",
+      "shopid": "kaminoyama-d7df19-paypay"
+    },
+    {
+      "name": "松本薬局",
+      "address": "新湯",
+      "storeid": "kaminoyama-7d417f",
+      "shopid": "kaminoyama-7d417f-paypay"
+    },
+    {
+      "name": "(有)パンとケーキの店    モントレーふくや",
+      "address": "石崎",
+      "storeid": "kaminoyama-e3a9f1",
+      "shopid": "kaminoyama-e3a9f1-paypay"
+    },
+    {
+      "name": "(有)佐藤畳店",
+      "address": "石崎",
+      "storeid": "kaminoyama-3247b3",
+      "shopid": "kaminoyama-3247b3-paypay"
+    },
+    {
+      "name": "金子屋まんじゅう店",
+      "address": "石崎",
+      "storeid": "kaminoyama-d85f9c",
+      "shopid": "kaminoyama-d85f9c-paypay"
+    },
+    {
+      "name": "谷江時計店",
+      "address": "石崎",
+      "storeid": "kaminoyama-51cc25",
+      "shopid": "kaminoyama-51cc25-paypay"
+    },
+    {
+      "name": "タイヤショップキムラ",
+      "address": "石曽根上河原",
+      "storeid": "kaminoyama-32ebef",
+      "shopid": "kaminoyama-32ebef-paypay"
+    },
+    {
+      "name": "茶囲夢",
+      "address": "石堂",
+      "storeid": "kaminoyama-d859f1",
+      "shopid": "kaminoyama-d859f1-paypay"
+    },
+    {
+      "name": "松田農園",
+      "address": "川口",
+      "storeid": "kaminoyama-e7cc70",
+      "shopid": "kaminoyama-e7cc70-paypay"
+    },
+    {
+      "name": "まるコロ",
+      "address": "川口下河原",
+      "storeid": "kaminoyama-6fb980",
+      "shopid": "kaminoyama-6fb980-paypay"
+    },
+    {
+      "name": "かねこ農園",
+      "address": "相生",
+      "storeid": "kaminoyama-370997",
+      "shopid": "kaminoyama-370997-paypay"
+    },
+    {
+      "name": "グリーンやまがた南部",
+      "address": "相生下御前殿",
+      "storeid": "kaminoyama-1ba630",
+      "shopid": "kaminoyama-1ba630-paypay"
+    },
+    {
+      "name": "Dogsalon    M-Heart",
+      "address": "沢丁",
+      "storeid": "kaminoyama-4cf86f",
+      "shopid": "kaminoyama-4cf86f-paypay"
+    },
+    {
+      "name": "花忠",
+      "address": "沢丁",
+      "storeid": "kaminoyama-b52632",
+      "shopid": "kaminoyama-b52632-paypay"
+    },
+    {
+      "name": "株式会社中條屋    中條饅頭",
+      "address": "沢丁",
+      "storeid": "kaminoyama-3e71fd",
+      "shopid": "kaminoyama-3e71fd-paypay"
     },
     {
       "name": "鏡餅屋",
@@ -141,6 +957,12 @@
       "shopid": "kaminoyama-6c022f-paypay"
     },
     {
+      "name": "ベーカリーオーバル",
+      "address": "長清水",
+      "storeid": "kaminoyama-446c5d",
+      "shopid": "kaminoyama-446c5d-paypay"
+    },
+    {
       "name": "笹長食品",
       "address": "長清水",
       "storeid": "kaminoyama-43e230",
@@ -151,6 +973,216 @@
       "address": "鶴脛町",
       "storeid": "kaminoyama-5991f0",
       "shopid": "kaminoyama-5991f0-paypay"
+    },
+    {
+      "name": "鈴木秀峰園",
+      "address": "鶴脛町",
+      "storeid": "kaminoyama-9074fe",
+      "shopid": "kaminoyama-9074fe-paypay"
+    },
+    {
+      "name": "こんにゃく番所    日々蒟蒻",
+      "address": "楢下",
+      "storeid": "kaminoyama-7c4ab5",
+      "shopid": "kaminoyama-7c4ab5-paypay"
+    },
+    {
+      "name": "粟野豆腐店",
+      "address": "楢下",
+      "storeid": "kaminoyama-621eab",
+      "shopid": "kaminoyama-621eab-paypay"
+    },
+    {
+      "name": "有限会社    丹野醬油店",
+      "address": "楢下",
+      "storeid": "kaminoyama-e361f2",
+      "shopid": "kaminoyama-e361f2-paypay"
+    },
+    {
+      "name": "(有)タカハシ金物",
+      "address": "南町",
+      "storeid": "kaminoyama-de4f89",
+      "shopid": "kaminoyama-de4f89-paypay"
+    },
+    {
+      "name": "ソフィア",
+      "address": "南町",
+      "storeid": "kaminoyama-c8689a",
+      "shopid": "kaminoyama-c8689a-paypay"
+    },
+    {
+      "name": "株式会社ユタカ石油",
+      "address": "南町",
+      "storeid": "kaminoyama-615ced",
+      "shopid": "kaminoyama-615ced-paypay"
+    },
+    {
+      "name": "十一屋    上山店",
+      "address": "南町",
+      "storeid": "kaminoyama-7e5cd2",
+      "shopid": "kaminoyama-7e5cd2-paypay"
+    },
+    {
+      "name": "前田無線",
+      "address": "南町",
+      "storeid": "kaminoyama-0ea2a1",
+      "shopid": "kaminoyama-0ea2a1-paypay"
+    },
+    {
+      "name": "肉のあべ",
+      "address": "南町",
+      "storeid": "kaminoyama-497606",
+      "shopid": "kaminoyama-497606-paypay"
+    },
+    {
+      "name": "洋服リフォーム フルール",
+      "address": "南町",
+      "storeid": "kaminoyama-8e5468",
+      "shopid": "kaminoyama-8e5468-paypay"
+    },
+    {
+      "name": "エフパルク佐藤",
+      "address": "二日町",
+      "storeid": "kaminoyama-ff5758",
+      "shopid": "kaminoyama-ff5758-paypay"
+    },
+    {
+      "name": "コスメハウス    みかどや",
+      "address": "二日町",
+      "storeid": "kaminoyama-51582b",
+      "shopid": "kaminoyama-51582b-paypay"
+    },
+    {
+      "name": "メガネのエース    上山店",
+      "address": "二日町",
+      "storeid": "kaminoyama-aeb9ed",
+      "shopid": "kaminoyama-aeb9ed-paypay"
+    },
+    {
+      "name": "株式会社    奥村油店",
+      "address": "二日町",
+      "storeid": "kaminoyama-712d39",
+      "shopid": "kaminoyama-712d39-paypay"
+    },
+    {
+      "name": "郷土銘菓処    大🖃屋",
+      "address": "二日町",
+      "storeid": "kaminoyama-083115",
+      "shopid": "kaminoyama-083115-paypay"
+    },
+    {
+      "name": "城戸口畳店",
+      "address": "二日町",
+      "storeid": "kaminoyama-310d4b",
+      "shopid": "kaminoyama-310d4b-paypay"
+    },
+    {
+      "name": "吉田工業株式会社",
+      "address": "八日町",
+      "storeid": "kaminoyama-9c80d9",
+      "shopid": "kaminoyama-9c80d9-paypay"
+    },
+    {
+      "name": "aibe    アイベ",
+      "address": "美咲町",
+      "storeid": "kaminoyama-812df3",
+      "shopid": "kaminoyama-812df3-paypay"
+    },
+    {
+      "name": "(株)    中昭",
+      "address": "弁天",
+      "storeid": "kaminoyama-af486f",
+      "shopid": "kaminoyama-af486f-paypay"
+    },
+    {
+      "name": "カーズプラス",
+      "address": "弁天",
+      "storeid": "kaminoyama-5a072a",
+      "shopid": "kaminoyama-5a072a-paypay"
+    },
+    {
+      "name": "杵屋本店    上山工場    ※事前予約が必要",
+      "address": "弁天",
+      "storeid": "kaminoyama-f5e7a5",
+      "shopid": "kaminoyama-f5e7a5-paypay"
+    },
+    {
+      "name": "有限会社    蔵王弁当",
+      "address": "弁天",
+      "storeid": "kaminoyama-e3ade7",
+      "shopid": "kaminoyama-e3ade7-paypay"
+    },
+    {
+      "name": "岡崎果樹園",
+      "address": "北町三千刈",
+      "storeid": "kaminoyama-14d052",
+      "shopid": "kaminoyama-14d052-paypay"
+    },
+    {
+      "name": "(有)タイヤプロショップ中川",
+      "address": "矢来",
+      "storeid": "kaminoyama-611528",
+      "shopid": "kaminoyama-611528-paypay"
+    },
+    {
+      "name": "Ora da cacao&chou",
+      "address": "矢来",
+      "storeid": "kaminoyama-017e5c",
+      "shopid": "kaminoyama-017e5c-paypay"
+    },
+    {
+      "name": "いなげ花店    ヤマザワ上山店",
+      "address": "矢来",
+      "storeid": "kaminoyama-f654d4",
+      "shopid": "kaminoyama-f654d4-paypay"
+    },
+    {
+      "name": "いなげ花店    本店",
+      "address": "矢来",
+      "storeid": "kaminoyama-975d28",
+      "shopid": "kaminoyama-975d28-paypay"
+    },
+    {
+      "name": "カガミサイクル",
+      "address": "矢来",
+      "storeid": "kaminoyama-fa032f",
+      "shopid": "kaminoyama-fa032f-paypay"
+    },
+    {
+      "name": "ガソリン灯油おかめ商店",
+      "address": "矢来",
+      "storeid": "kaminoyama-c8d65e",
+      "shopid": "kaminoyama-c8d65e-paypay"
+    },
+    {
+      "name": "井上いとや",
+      "address": "矢来",
+      "storeid": "kaminoyama-3407b3",
+      "shopid": "kaminoyama-3407b3-paypay"
+    },
+    {
+      "name": "花淵商店",
+      "address": "矢来",
+      "storeid": "kaminoyama-7285e4",
+      "shopid": "kaminoyama-7285e4-paypay"
+    },
+    {
+      "name": "丸内牛肉店",
+      "address": "矢来",
+      "storeid": "kaminoyama-238ea9",
+      "shopid": "kaminoyama-238ea9-paypay"
+    },
+    {
+      "name": "荒木洋服店",
+      "address": "矢来",
+      "storeid": "kaminoyama-c61a3c",
+      "shopid": "kaminoyama-c61a3c-paypay"
+    },
+    {
+      "name": "桜井糸ボタン店",
+      "address": "矢来",
+      "storeid": "kaminoyama-dd923e",
+      "shopid": "kaminoyama-dd923e-paypay"
     },
     {
       "name": "山形屋酒店",
@@ -169,14 +1201,32 @@
       "address": "矢来",
       "storeid": "kaminoyama-053038",
       "shopid": "kaminoyama-053038-paypay"
+    },
+    {
+      "name": "弐萬圓堂    上山店",
+      "address": "矢来",
+      "storeid": "kaminoyama-ac4477",
+      "shopid": "kaminoyama-ac4477-paypay"
+    },
+    {
+      "name": "浜田薬局",
+      "address": "矢来",
+      "storeid": "kaminoyama-a0c71c",
+      "shopid": "kaminoyama-a0c71c-paypay"
+    },
+    {
+      "name": "山形プリン",
+      "address": "葉山",
+      "storeid": "kaminoyama-14eb83",
+      "shopid": "kaminoyama-14eb83-paypay"
     }
   ],
   "サービス": [
     {
-      "name": "Hair Salon Mint",
+      "name": "Hair Salon    Mint",
       "address": "旭町",
-      "storeid": "kaminoyama-0269bf",
-      "shopid": "kaminoyama-0269bf-paypay"
+      "storeid": "kaminoyama-ba01f1",
+      "shopid": "kaminoyama-ba01f1-paypay"
     },
     {
       "name": "たく治療院鍼灸マッサージ",
@@ -185,16 +1235,626 @@
       "shopid": "kaminoyama-c24705-paypay"
     },
     {
-      "name": "ビューティーサロンどりーむ",
-      "address": "皆沢",
-      "storeid": "kaminoyama-e5a92e",
-      "shopid": "kaminoyama-e5a92e-paypay"
+      "name": "PorteBEAUTE",
+      "address": "河崎",
+      "storeid": "kaminoyama-e10864",
+      "shopid": "kaminoyama-e10864-paypay"
     },
     {
       "name": "観光タクシー株式会社",
       "address": "河崎",
       "storeid": "kaminoyama-1cd135",
       "shopid": "kaminoyama-1cd135-paypay"
+    },
+    {
+      "name": "ビューティーサロンどりーむ",
+      "address": "皆沢",
+      "storeid": "kaminoyama-e5a92e",
+      "shopid": "kaminoyama-e5a92e-paypay"
+    },
+    {
+      "name": "みつわ美容室",
+      "address": "関根",
+      "storeid": "kaminoyama-5207c4",
+      "shopid": "kaminoyama-5207c4-paypay"
+    },
+    {
+      "name": "(株)エタニティー・タイシン",
+      "address": "久保手",
+      "storeid": "kaminoyama-6edeec",
+      "shopid": "kaminoyama-6edeec-paypay"
+    },
+    {
+      "name": "(有)ドリーム・アート",
+      "address": "久保手",
+      "storeid": "kaminoyama-01583c",
+      "shopid": "kaminoyama-01583c-paypay"
+    },
+    {
+      "name": "くら美容室",
+      "address": "金生",
+      "storeid": "kaminoyama-0f1626",
+      "shopid": "kaminoyama-0f1626-paypay"
+    },
+    {
+      "name": "Be-Style",
+      "address": "金生西",
+      "storeid": "kaminoyama-c8f29c",
+      "shopid": "kaminoyama-c8f29c-paypay"
+    },
+    {
+      "name": "エステサロンBrilliant",
+      "address": "金生西",
+      "storeid": "kaminoyama-a290a9",
+      "shopid": "kaminoyama-a290a9-paypay"
+    },
+    {
+      "name": "Hair Salon    茉莉花",
+      "address": "金生東",
+      "storeid": "kaminoyama-56920e",
+      "shopid": "kaminoyama-56920e-paypay"
+    },
+    {
+      "name": "カタチハウス",
+      "address": "金生東",
+      "storeid": "kaminoyama-d2d661",
+      "shopid": "kaminoyama-d2d661-paypay"
+    },
+    {
+      "name": "ビューティーサロン    サカイ",
+      "address": "金生東",
+      "storeid": "kaminoyama-bec24e",
+      "shopid": "kaminoyama-bec24e-paypay"
+    },
+    {
+      "name": "ヘアーデコスガハラ（理美容室）",
+      "address": "金生東",
+      "storeid": "kaminoyama-184382",
+      "shopid": "kaminoyama-184382-paypay"
+    },
+    {
+      "name": "美容室ＡＲＩＥ",
+      "address": "金生東",
+      "storeid": "kaminoyama-359a11",
+      "shopid": "kaminoyama-359a11-paypay"
+    },
+    {
+      "name": "ウィッグ専門店    アンソレイユ    ensoleille",
+      "address": "金谷八反田",
+      "storeid": "kaminoyama-3d969d",
+      "shopid": "kaminoyama-3d969d-paypay"
+    },
+    {
+      "name": "木村自動車",
+      "address": "金谷八反田",
+      "storeid": "kaminoyama-1e92d6",
+      "shopid": "kaminoyama-1e92d6-paypay"
+    },
+    {
+      "name": "フラッシュジム",
+      "address": "金瓶林ノ蔭",
+      "storeid": "kaminoyama-76b27a",
+      "shopid": "kaminoyama-76b27a-paypay"
+    },
+    {
+      "name": "株式会社    上山オート",
+      "address": "高松北谷地",
+      "storeid": "kaminoyama-5b11e0",
+      "shopid": "kaminoyama-5b11e0-paypay"
+    },
+    {
+      "name": "株式会社ミツワ企業",
+      "address": "高野",
+      "storeid": "kaminoyama-9af0ee",
+      "shopid": "kaminoyama-9af0ee-paypay"
+    },
+    {
+      "name": "カー・アシスト・コーヤ",
+      "address": "高野高野原",
+      "storeid": "kaminoyama-9cf93e",
+      "shopid": "kaminoyama-9cf93e-paypay"
+    },
+    {
+      "name": "小山理容所",
+      "address": "三本松",
+      "storeid": "kaminoyama-5b3bc6",
+      "shopid": "kaminoyama-5b3bc6-paypay"
+    },
+    {
+      "name": "(有)東洋企画印刷",
+      "address": "四ツ谷",
+      "storeid": "kaminoyama-2284a5",
+      "shopid": "kaminoyama-2284a5-paypay"
+    },
+    {
+      "name": "まつ毛エクステ専門店    デザイニングアイ",
+      "address": "四ツ谷",
+      "storeid": "kaminoyama-8d4523",
+      "shopid": "kaminoyama-8d4523-paypay"
+    },
+    {
+      "name": "シオノ美容室",
+      "address": "十日町",
+      "storeid": "kaminoyama-0c73f7",
+      "shopid": "kaminoyama-0c73f7-paypay"
+    },
+    {
+      "name": "伊藤理美容院    カットインハウスいとう",
+      "address": "十日町",
+      "storeid": "kaminoyama-1a6571",
+      "shopid": "kaminoyama-1a6571-paypay"
+    },
+    {
+      "name": "高橋写真館",
+      "address": "十日町",
+      "storeid": "kaminoyama-9998eb",
+      "shopid": "kaminoyama-9998eb-paypay"
+    },
+    {
+      "name": "美容室 the HAIR shop",
+      "address": "十日町",
+      "storeid": "kaminoyama-0ecaff",
+      "shopid": "kaminoyama-0ecaff-paypay"
+    },
+    {
+      "name": "理容春富軒",
+      "address": "十日町",
+      "storeid": "kaminoyama-0e94cd",
+      "shopid": "kaminoyama-0e94cd-paypay"
+    },
+    {
+      "name": "若草美容院",
+      "address": "新丁",
+      "storeid": "kaminoyama-071c69",
+      "shopid": "kaminoyama-071c69-paypay"
+    },
+    {
+      "name": "澤のゆ",
+      "address": "新湯",
+      "storeid": "kaminoyama-5ce6be",
+      "shopid": "kaminoyama-5ce6be-paypay"
+    },
+    {
+      "name": "大泉写真館",
+      "address": "石崎",
+      "storeid": "kaminoyama-2be2b3",
+      "shopid": "kaminoyama-2be2b3-paypay"
+    },
+    {
+      "name": "尾形建築",
+      "address": "石崎",
+      "storeid": "kaminoyama-5b3e17",
+      "shopid": "kaminoyama-5b3e17-paypay"
+    },
+    {
+      "name": "理容ミウラ",
+      "address": "石崎",
+      "storeid": "kaminoyama-2cb0f9",
+      "shopid": "kaminoyama-2cb0f9-paypay"
+    },
+    {
+      "name": "シャイニングオート",
+      "address": "石曽根村頭",
+      "storeid": "kaminoyama-860f61",
+      "shopid": "kaminoyama-860f61-paypay"
+    },
+    {
+      "name": "Finale Bello 上山店",
+      "address": "仙石元糸目",
+      "storeid": "kaminoyama-c499df",
+      "shopid": "kaminoyama-c499df-paypay"
+    },
+    {
+      "name": "うさちゃんクリーニングヨークベニマル上山店",
+      "address": "仙石元糸目",
+      "storeid": "kaminoyama-ec2cf0",
+      "shopid": "kaminoyama-ec2cf0-paypay"
+    },
+    {
+      "name": "テイエム高橋木工",
+      "address": "川口下河原",
+      "storeid": "kaminoyama-31440c",
+      "shopid": "kaminoyama-31440c-paypay"
+    },
+    {
+      "name": "有限会社    新田自動車整備工場",
+      "address": "川口堂ノ前",
+      "storeid": "kaminoyama-560973",
+      "shopid": "kaminoyama-560973-paypay"
+    },
+    {
+      "name": "新山形オートサービス",
+      "address": "相生",
+      "storeid": "kaminoyama-f5dba3",
+      "shopid": "kaminoyama-f5dba3-paypay"
+    },
+    {
+      "name": "蔵王ライザワールド    スキー場",
+      "address": "蔵王坊平高原",
+      "storeid": "kaminoyama-dbb3a0",
+      "shopid": "kaminoyama-dbb3a0-paypay"
+    },
+    {
+      "name": "坊平リカバリー温泉    高源ゆ",
+      "address": "蔵王坊平国有林",
+      "storeid": "kaminoyama-4de122",
+      "shopid": "kaminoyama-4de122-paypay"
+    },
+    {
+      "name": "美容室ビート",
+      "address": "朝日台",
+      "storeid": "kaminoyama-e6f6ed",
+      "shopid": "kaminoyama-e6f6ed-paypay"
+    },
+    {
+      "name": "Atelier Moi",
+      "address": "長清水",
+      "storeid": "kaminoyama-3dabc4",
+      "shopid": "kaminoyama-3dabc4-paypay"
+    },
+    {
+      "name": "フラッシュラボ",
+      "address": "長清水",
+      "storeid": "kaminoyama-616121",
+      "shopid": "kaminoyama-616121-paypay"
+    },
+    {
+      "name": "散髪処    さくらだ",
+      "address": "湯町",
+      "storeid": "kaminoyama-081546",
+      "shopid": "kaminoyama-081546-paypay"
+    },
+    {
+      "name": "ヘアーサロン    マツウラ",
+      "address": "藤吾",
+      "storeid": "kaminoyama-edaf38",
+      "shopid": "kaminoyama-edaf38-paypay"
+    },
+    {
+      "name": "尾形建築 藤吾作業場",
+      "address": "藤吾久保",
+      "storeid": "kaminoyama-9f2155",
+      "shopid": "kaminoyama-9f2155-paypay"
+    },
+    {
+      "name": "ゆうき総業株式会社",
+      "address": "藤吾三辻",
+      "storeid": "kaminoyama-fc281b",
+      "shopid": "kaminoyama-fc281b-paypay"
+    },
+    {
+      "name": "エスカットショップ上山店",
+      "address": "南町",
+      "storeid": "kaminoyama-2d880e",
+      "shopid": "kaminoyama-2d880e-paypay"
+    },
+    {
+      "name": "株式会社    武田自動車工場",
+      "address": "南町",
+      "storeid": "kaminoyama-65bfe5",
+      "shopid": "kaminoyama-65bfe5-paypay"
+    },
+    {
+      "name": "株式会社佐藤塗装所",
+      "address": "南町",
+      "storeid": "kaminoyama-6927eb",
+      "shopid": "kaminoyama-6927eb-paypay"
+    },
+    {
+      "name": "カット倶楽部カワグチ",
+      "address": "二日町",
+      "storeid": "kaminoyama-a66eef",
+      "shopid": "kaminoyama-a66eef-paypay"
+    },
+    {
+      "name": "HAIR MOVE KIMURA",
+      "address": "美咲町",
+      "storeid": "kaminoyama-1ddf6c",
+      "shopid": "kaminoyama-1ddf6c-paypay"
+    },
+    {
+      "name": "シナリーふわり",
+      "address": "美咲町",
+      "storeid": "kaminoyama-2a533f",
+      "shopid": "kaminoyama-2a533f-paypay"
+    },
+    {
+      "name": "フランク理容院",
+      "address": "美咲町",
+      "storeid": "kaminoyama-a20739",
+      "shopid": "kaminoyama-a20739-paypay"
+    },
+    {
+      "name": "ブルースカイランドリー おーばん上山店",
+      "address": "美咲町",
+      "storeid": "kaminoyama-8b4d29",
+      "shopid": "kaminoyama-8b4d29-paypay"
+    },
+    {
+      "name": "ヘアカラー専門店プロカラおーばん上山店",
+      "address": "美咲町",
+      "storeid": "kaminoyama-6f80f2",
+      "shopid": "kaminoyama-6f80f2-paypay"
+    },
+    {
+      "name": "ヘアステージ    エル",
+      "address": "美咲町",
+      "storeid": "kaminoyama-77172a",
+      "shopid": "kaminoyama-77172a-paypay"
+    },
+    {
+      "name": "YOURS",
+      "address": "弁天",
+      "storeid": "kaminoyama-88a07b",
+      "shopid": "kaminoyama-88a07b-paypay"
+    },
+    {
+      "name": "うさちゃんクリーニング上山店",
+      "address": "弁天",
+      "storeid": "kaminoyama-9533f9",
+      "shopid": "kaminoyama-9533f9-paypay"
+    },
+    {
+      "name": "うさちゃんクリーニングヤマザワ上山店",
+      "address": "矢来",
+      "storeid": "kaminoyama-6f1e11",
+      "shopid": "kaminoyama-6f1e11-paypay"
+    },
+    {
+      "name": "うめか美容室",
+      "address": "矢来",
+      "storeid": "kaminoyama-a36a7a",
+      "shopid": "kaminoyama-a36a7a-paypay"
+    },
+    {
+      "name": "カット&カラー    G-CUT",
+      "address": "矢来",
+      "storeid": "kaminoyama-06d8a1",
+      "shopid": "kaminoyama-06d8a1-paypay"
+    },
+    {
+      "name": "カットクラブアンビシャス",
+      "address": "矢来",
+      "storeid": "kaminoyama-93d266",
+      "shopid": "kaminoyama-93d266-paypay"
+    },
+    {
+      "name": "クリーニングWAKO    上山店",
+      "address": "矢来",
+      "storeid": "kaminoyama-7fba8f",
+      "shopid": "kaminoyama-7fba8f-paypay"
+    },
+    {
+      "name": "ビューティ    クリア",
+      "address": "矢来",
+      "storeid": "kaminoyama-190c0f",
+      "shopid": "kaminoyama-190c0f-paypay"
+    },
+    {
+      "name": "上山印刷",
+      "address": "矢来",
+      "storeid": "kaminoyama-c67337",
+      "shopid": "kaminoyama-c67337-paypay"
+    },
+    {
+      "name": "美容室シュシュ",
+      "address": "矢来",
+      "storeid": "kaminoyama-488423",
+      "shopid": "kaminoyama-488423-paypay"
+    }
+  ],
+  "宿泊": [
+    {
+      "name": "野口ペンション",
+      "address": "永野",
+      "storeid": "kaminoyama-03b48a",
+      "shopid": "kaminoyama-03b48a-paypay"
+    },
+    {
+      "name": "ナリサワペンション",
+      "address": "永野蔵王山国有林",
+      "storeid": "kaminoyama-92ba2e",
+      "shopid": "kaminoyama-92ba2e-paypay"
+    },
+    {
+      "name": "別館ふじや旅館",
+      "address": "河崎",
+      "storeid": "kaminoyama-8c9d5f",
+      "shopid": "kaminoyama-8c9d5f-paypay"
+    },
+    {
+      "name": "おやど    森の音",
+      "address": "河崎反田",
+      "storeid": "kaminoyama-618ba8",
+      "shopid": "kaminoyama-618ba8-paypay"
+    },
+    {
+      "name": "三木屋 参蒼来",
+      "address": "高松",
+      "storeid": "kaminoyama-32ec1b",
+      "shopid": "kaminoyama-32ec1b-paypay"
+    },
+    {
+      "name": "おしごとマウンテン ZAOキャンプ場",
+      "address": "小倉",
+      "storeid": "kaminoyama-7d69f7",
+      "shopid": "kaminoyama-7d69f7-paypay"
+    },
+    {
+      "name": "ペンション    あっぷる",
+      "address": "小倉大森",
+      "storeid": "kaminoyama-4af176",
+      "shopid": "kaminoyama-4af176-paypay"
+    },
+    {
+      "name": "ペンション    ステラ",
+      "address": "小倉大森",
+      "storeid": "kaminoyama-ac71d0",
+      "shopid": "kaminoyama-ac71d0-paypay"
+    },
+    {
+      "name": "ペンション    木いちご",
+      "address": "小倉大森",
+      "storeid": "kaminoyama-aa4b6d",
+      "shopid": "kaminoyama-aa4b6d-paypay"
+    },
+    {
+      "name": "ペンションエプロンステージ",
+      "address": "小倉大森",
+      "storeid": "kaminoyama-9c09e2",
+      "shopid": "kaminoyama-9c09e2-paypay"
+    },
+    {
+      "name": "ステイインホテル    材木栄屋",
+      "address": "新湯",
+      "storeid": "kaminoyama-923bb1",
+      "shopid": "kaminoyama-923bb1-paypay"
+    },
+    {
+      "name": "はたや旅館",
+      "address": "新湯",
+      "storeid": "kaminoyama-35c69a",
+      "shopid": "kaminoyama-35c69a-paypay"
+    },
+    {
+      "name": "ホテル菊屋",
+      "address": "新湯",
+      "storeid": "kaminoyama-1fa3ee",
+      "shopid": "kaminoyama-1fa3ee-paypay"
+    },
+    {
+      "name": "果実の山    あづま屋",
+      "address": "新湯",
+      "storeid": "kaminoyama-937edd",
+      "shopid": "kaminoyama-937edd-paypay"
+    },
+    {
+      "name": "仙渓園    月岡ホテル",
+      "address": "新湯",
+      "storeid": "kaminoyama-3d359c",
+      "shopid": "kaminoyama-3d359c-paypay"
+    },
+    {
+      "name": "有馬館",
+      "address": "新湯",
+      "storeid": "kaminoyama-d391a8",
+      "shopid": "kaminoyama-d391a8-paypay"
+    },
+    {
+      "name": "ヒュッテハイジ",
+      "address": "蔵王坊平高原",
+      "storeid": "kaminoyama-060d39",
+      "shopid": "kaminoyama-060d39-paypay"
+    },
+    {
+      "name": "ペンション    ノエル",
+      "address": "蔵王坊平高原",
+      "storeid": "kaminoyama-819966",
+      "shopid": "kaminoyama-819966-paypay"
+    },
+    {
+      "name": "原ペンション",
+      "address": "蔵王坊平高原",
+      "storeid": "kaminoyama-507ecb",
+      "shopid": "kaminoyama-507ecb-paypay"
+    },
+    {
+      "name": "蔵王ライザウッディロッジ",
+      "address": "蔵王坊平高原",
+      "storeid": "kaminoyama-5ea8c8",
+      "shopid": "kaminoyama-5ea8c8-paypay"
+    },
+    {
+      "name": "蔵王坊平高原ペンションtooCotton",
+      "address": "蔵王坊平高原お清水の森",
+      "storeid": "kaminoyama-140de7",
+      "shopid": "kaminoyama-140de7-paypay"
+    },
+    {
+      "name": "いせや",
+      "address": "湯町",
+      "storeid": "kaminoyama-07cc79",
+      "shopid": "kaminoyama-07cc79-paypay"
+    },
+    {
+      "name": "花明りの宿 月の池",
+      "address": "湯町",
+      "storeid": "kaminoyama-b252a4",
+      "shopid": "kaminoyama-b252a4-paypay"
+    },
+    {
+      "name": "はたごの心    橋本屋",
+      "address": "葉山",
+      "storeid": "kaminoyama-d0268e",
+      "shopid": "kaminoyama-d0268e-paypay"
+    },
+    {
+      "name": "寒河江屋旅館",
+      "address": "葉山",
+      "storeid": "kaminoyama-802b1a",
+      "shopid": "kaminoyama-802b1a-paypay"
+    },
+    {
+      "name": "彩花亭時代屋",
+      "address": "葉山",
+      "storeid": "kaminoyama-9dfdef",
+      "shopid": "kaminoyama-9dfdef-paypay"
+    },
+    {
+      "name": "日本の宿 古窯",
+      "address": "葉山",
+      "storeid": "kaminoyama-8b5f32",
+      "shopid": "kaminoyama-8b5f32-paypay"
+    },
+    {
+      "name": "名月荘",
+      "address": "葉山",
+      "storeid": "kaminoyama-510a16",
+      "shopid": "kaminoyama-510a16-paypay"
+    },
+    {
+      "name": "葉山館",
+      "address": "葉山",
+      "storeid": "kaminoyama-47702c",
+      "shopid": "kaminoyama-47702c-paypay"
+    }
+  ],
+  "その他": [
+    {
+      "name": "(株)マルシン葬祭社",
+      "address": "久保手",
+      "storeid": "kaminoyama-7d1ab5",
+      "shopid": "kaminoyama-7d1ab5-paypay"
+    },
+    {
+      "name": "有限会社    上山ゴルフガーデン",
+      "address": "金生山神上",
+      "storeid": "kaminoyama-c51519",
+      "shopid": "kaminoyama-c51519-paypay"
+    },
+    {
+      "name": "リナワールド",
+      "address": "金瓶水上",
+      "storeid": "kaminoyama-ad9704",
+      "shopid": "kaminoyama-ad9704-paypay"
+    },
+    {
+      "name": "蔵王猿倉レストハウス",
+      "address": "蔵王字蔵王山",
+      "storeid": "kaminoyama-43ebcd",
+      "shopid": "kaminoyama-43ebcd-paypay"
+    },
+    {
+      "name": "蔵王ライザスキースクール",
+      "address": "蔵王坊平高原",
+      "storeid": "kaminoyama-86fa7a",
+      "shopid": "kaminoyama-86fa7a-paypay"
+    },
+    {
+      "name": "斎藤茂吉記念館",
+      "address": "北町弁天",
+      "storeid": "kaminoyama-b7f01a",
+      "shopid": "kaminoyama-b7f01a-paypay"
     }
   ]
 }

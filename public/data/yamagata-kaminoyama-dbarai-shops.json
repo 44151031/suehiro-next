@@ -37,16 +37,22 @@
       "shopid": "kaminoyama-925193-dbarai"
     },
     {
-      "name": "鮨 扇",
+      "name": "鮨    扇",
       "address": "金生",
-      "storeid": "kaminoyama-b51c23",
-      "shopid": "kaminoyama-b51c23-dbarai"
+      "storeid": "kaminoyama-c6d8fe",
+      "shopid": "kaminoyama-c6d8fe-dbarai"
     },
     {
-      "name": "手打そば たから亭",
+      "name": "手打そば    たから亭",
       "address": "金生東",
-      "storeid": "kaminoyama-c81f2c",
-      "shopid": "kaminoyama-c81f2c-dbarai"
+      "storeid": "kaminoyama-0bfba1",
+      "shopid": "kaminoyama-0bfba1-dbarai"
+    },
+    {
+      "name": "熱烈中華maru武",
+      "address": "金生東",
+      "storeid": "kaminoyama-d1c354",
+      "shopid": "kaminoyama-d1c354-dbarai"
     },
     {
       "name": "味処松乃屋",
@@ -55,16 +61,136 @@
       "shopid": "kaminoyama-d36242-dbarai"
     },
     {
+      "name": "サニープレイスコーヒー",
+      "address": "権現堂",
+      "storeid": "kaminoyama-c33533",
+      "shopid": "kaminoyama-c33533-dbarai"
+    },
+    {
+      "name": "蔵王山麓あずきや",
+      "address": "高野高野原",
+      "storeid": "kaminoyama-f27f82",
+      "shopid": "kaminoyama-f27f82-dbarai"
+    },
+    {
+      "name": "そばと山野草料理    木こり",
+      "address": "高野薄沢",
+      "storeid": "kaminoyama-0c7f9d",
+      "shopid": "kaminoyama-0c7f9d-dbarai"
+    },
+    {
+      "name": "農園カフェまってる",
+      "address": "三上",
+      "storeid": "kaminoyama-2aebba",
+      "shopid": "kaminoyama-2aebba-dbarai"
+    },
+    {
+      "name": "十五屋本店",
+      "address": "十日町",
+      "storeid": "kaminoyama-333828",
+      "shopid": "kaminoyama-333828-dbarai"
+    },
+    {
+      "name": "鮮魚かねに",
+      "address": "十日町",
+      "storeid": "kaminoyama-9b8d95",
+      "shopid": "kaminoyama-9b8d95-dbarai"
+    },
+    {
+      "name": "シルフィード",
+      "address": "新湯",
+      "storeid": "kaminoyama-10a4ba",
+      "shopid": "kaminoyama-10a4ba-dbarai"
+    },
+    {
+      "name": "ふうふぅ",
+      "address": "新湯",
+      "storeid": "kaminoyama-b97d4d",
+      "shopid": "kaminoyama-b97d4d-dbarai"
+    },
+    {
+      "name": "食事処    花ふぶき",
+      "address": "新湯",
+      "storeid": "kaminoyama-0d7997",
+      "shopid": "kaminoyama-0d7997-dbarai"
+    },
+    {
+      "name": "みそのそばや",
+      "address": "石崎",
+      "storeid": "kaminoyama-e91d4e",
+      "shopid": "kaminoyama-e91d4e-dbarai"
+    },
+    {
       "name": "魚料理 大漁",
       "address": "石崎",
       "storeid": "kaminoyama-e84d39",
       "shopid": "kaminoyama-e84d39-dbarai"
     },
     {
-      "name": "焼肉 暁 AKATSUKI",
+      "name": "中華料理    信",
+      "address": "石崎",
+      "storeid": "kaminoyama-2ff3f5",
+      "shopid": "kaminoyama-2ff3f5-dbarai"
+    },
+    {
+      "name": "きたや",
+      "address": "相生",
+      "storeid": "kaminoyama-f11938",
+      "shopid": "kaminoyama-f11938-dbarai"
+    },
+    {
+      "name": "蔵王ライザワールド",
+      "address": "蔵王坊平高原",
+      "storeid": "kaminoyama-271a15",
+      "shopid": "kaminoyama-271a15-dbarai"
+    },
+    {
+      "name": "ジローズピザ",
+      "address": "沢丁",
+      "storeid": "kaminoyama-f7c87e",
+      "shopid": "kaminoyama-f7c87e-dbarai"
+    },
+    {
+      "name": "すてーき食堂シンバル",
+      "address": "沢丁",
+      "storeid": "kaminoyama-8b55e4",
+      "shopid": "kaminoyama-8b55e4-dbarai"
+    },
+    {
+      "name": "居酒屋    高太郎",
+      "address": "沢丁",
+      "storeid": "kaminoyama-9d3dae",
+      "shopid": "kaminoyama-9d3dae-dbarai"
+    },
+    {
+      "name": "Hütte&MossGarden ヒュッテアンドモスガーデン",
+      "address": "狸森腰王山",
+      "storeid": "kaminoyama-5710ce",
+      "shopid": "kaminoyama-5710ce-dbarai"
+    },
+    {
+      "name": "蕎麦処    みやび",
+      "address": "中生居",
+      "storeid": "kaminoyama-1bf93f",
+      "shopid": "kaminoyama-1bf93f-dbarai"
+    },
+    {
+      "name": "蕎麦処一休",
+      "address": "鶴脛町",
+      "storeid": "kaminoyama-a68210",
+      "shopid": "kaminoyama-a68210-dbarai"
+    },
+    {
+      "name": "名人の湯",
+      "address": "湯町",
+      "storeid": "kaminoyama-246583",
+      "shopid": "kaminoyama-246583-dbarai"
+    },
+    {
+      "name": "焼肉    暁    AKATSUKI",
       "address": "南町",
-      "storeid": "kaminoyama-f35ed6",
-      "shopid": "kaminoyama-f35ed6-dbarai"
+      "storeid": "kaminoyama-c30335",
+      "shopid": "kaminoyama-c30335-dbarai"
     },
     {
       "name": "宴庭はやと",
@@ -73,19 +199,67 @@
       "shopid": "kaminoyama-0de753-dbarai"
     },
     {
-      "name": "居酒屋 紀saku",
+      "name": "居酒屋    紀saku",
       "address": "二日町",
-      "storeid": "kaminoyama-558098",
-      "shopid": "kaminoyama-558098-dbarai"
+      "storeid": "kaminoyama-7ee0ac",
+      "shopid": "kaminoyama-7ee0ac-dbarai"
     },
     {
-      "name": "BEARS caffe",
+      "name": "八千代食堂",
+      "address": "二日町",
+      "storeid": "kaminoyama-2f4ff5",
+      "shopid": "kaminoyama-2f4ff5-dbarai"
+    },
+    {
+      "name": "まちライブラリー    けやきの家",
+      "address": "八日町",
+      "storeid": "kaminoyama-23c8d4",
+      "shopid": "kaminoyama-23c8d4-dbarai"
+    },
+    {
+      "name": "長好亭    みさき",
+      "address": "美咲町",
+      "storeid": "kaminoyama-7a0ad2",
+      "shopid": "kaminoyama-7a0ad2-dbarai"
+    },
+    {
+      "name": "BEARS    caffe",
       "address": "矢来",
-      "storeid": "kaminoyama-75a3bb",
-      "shopid": "kaminoyama-75a3bb-dbarai"
+      "storeid": "kaminoyama-b48e20",
+      "shopid": "kaminoyama-b48e20-dbarai"
+    },
+    {
+      "name": "harappa    soba",
+      "address": "矢来",
+      "storeid": "kaminoyama-66a37a",
+      "shopid": "kaminoyama-66a37a-dbarai"
+    },
+    {
+      "name": "tempo",
+      "address": "矢来",
+      "storeid": "kaminoyama-788b50",
+      "shopid": "kaminoyama-788b50-dbarai"
+    },
+    {
+      "name": "ライトスタッフcoffee",
+      "address": "矢来",
+      "storeid": "kaminoyama-aece95",
+      "shopid": "kaminoyama-aece95-dbarai"
+    },
+    {
+      "name": "五十番食堂",
+      "address": "矢来",
+      "storeid": "kaminoyama-8df428",
+      "shopid": "kaminoyama-8df428-dbarai"
     }
   ],
   "小売": [
+    {
+      "name": "HATAKE STYLE 本店",
+      "address": "阿弥陀地塩崎前",
+      "storeid": "kaminoyama-3e3108",
+      "shopid": "kaminoyama-3e3108-dbarai"
+    },
     {
       "name": "ふとんの森谷",
       "address": "旭町",
@@ -97,6 +271,18 @@
       "address": "旭町",
       "storeid": "kaminoyama-813f2a",
       "shopid": "kaminoyama-813f2a-dbarai"
+    },
+    {
+      "name": "チェビオット",
+      "address": "永野蔵王山",
+      "storeid": "kaminoyama-a6463e",
+      "shopid": "kaminoyama-a6463e-dbarai"
+    },
+    {
+      "name": "フォーカス21",
+      "address": "河崎",
+      "storeid": "kaminoyama-943fb7",
+      "shopid": "kaminoyama-943fb7-dbarai"
     },
     {
       "name": "ミスタータイヤマン上山",
@@ -111,10 +297,58 @@
       "shopid": "kaminoyama-3665a3-dbarai"
     },
     {
-      "name": "くだものうつわ",
-      "address": "金瓶水上",
-      "storeid": "kaminoyama-bccc8b",
-      "shopid": "kaminoyama-bccc8b-dbarai"
+      "name": "駒沢寝具店",
+      "address": "河崎",
+      "storeid": "kaminoyama-2f93d1",
+      "shopid": "kaminoyama-2f93d1-dbarai"
+    },
+    {
+      "name": "株式会社オートメイクK",
+      "address": "関根",
+      "storeid": "kaminoyama-0da405",
+      "shopid": "kaminoyama-0da405-dbarai"
+    },
+    {
+      "name": "おらほぶんど",
+      "address": "久保手",
+      "storeid": "kaminoyama-825084",
+      "shopid": "kaminoyama-825084-dbarai"
+    },
+    {
+      "name": "ベルウッドヴィンヤード",
+      "address": "久保手久保手",
+      "storeid": "kaminoyama-e57db4",
+      "shopid": "kaminoyama-e57db4-dbarai"
+    },
+    {
+      "name": "つかさ花店",
+      "address": "金生西",
+      "storeid": "kaminoyama-69e1c0",
+      "shopid": "kaminoyama-69e1c0-dbarai"
+    },
+    {
+      "name": "上山惣菜",
+      "address": "金谷トウチョウメン",
+      "storeid": "kaminoyama-de3a68",
+      "shopid": "kaminoyama-de3a68-dbarai"
+    },
+    {
+      "name": "あらい工房",
+      "address": "金谷下河原",
+      "storeid": "kaminoyama-07656e",
+      "shopid": "kaminoyama-07656e-dbarai"
+    },
+    {
+      "name": "丸和興業",
+      "address": "金瓶",
+      "storeid": "kaminoyama-ee9bf4",
+      "shopid": "kaminoyama-ee9bf4-dbarai"
+    },
+    {
+      "name": "古頭果樹園",
+      "address": "金瓶高谷山",
+      "storeid": "kaminoyama-00844e",
+      "shopid": "kaminoyama-00844e-dbarai"
     },
     {
       "name": "ファーマーズマーケット トマト 上山店",
@@ -123,10 +357,202 @@
       "shopid": "kaminoyama-1b0b96-dbarai"
     },
     {
+      "name": "農家の店    トマト上山店",
+      "address": "金瓶山ノ上",
+      "storeid": "kaminoyama-3b5863",
+      "shopid": "kaminoyama-3b5863-dbarai"
+    },
+    {
+      "name": "くだものうつわ",
+      "address": "金瓶水上",
+      "storeid": "kaminoyama-bccc8b",
+      "shopid": "kaminoyama-bccc8b-dbarai"
+    },
+    {
+      "name": "サウスロード",
+      "address": "金瓶水上",
+      "storeid": "kaminoyama-8eab91",
+      "shopid": "kaminoyama-8eab91-dbarai"
+    },
+    {
+      "name": "公益財団法人上山城郷土資料館    上山城かかし茶屋",
+      "address": "元城内",
+      "storeid": "kaminoyama-cf5c20",
+      "shopid": "kaminoyama-cf5c20-dbarai"
+    },
+    {
       "name": "ウッディファーム＆ワイナリー",
       "address": "原口",
       "storeid": "kaminoyama-eab721",
       "shopid": "kaminoyama-eab721-dbarai"
+    },
+    {
+      "name": "Yuragi Candle",
+      "address": "御井戸丁",
+      "storeid": "kaminoyama-33ef99",
+      "shopid": "kaminoyama-33ef99-dbarai"
+    },
+    {
+      "name": "手づくり雑貨atelier nature",
+      "address": "御井戸丁",
+      "storeid": "kaminoyama-9d312a",
+      "shopid": "kaminoyama-9d312a-dbarai"
+    },
+    {
+      "name": "(株)ジェイエイあぐりんやまがた    あぐりんランドなかがわSS",
+      "address": "高野高野原",
+      "storeid": "kaminoyama-22357c",
+      "shopid": "kaminoyama-22357c-dbarai"
+    },
+    {
+      "name": "長沢自動車整備工場/セーフティオートプラザ",
+      "address": "高野高野原",
+      "storeid": "kaminoyama-3ef034",
+      "shopid": "kaminoyama-3ef034-dbarai"
+    },
+    {
+      "name": "Voyage de YUUAI",
+      "address": "三本松",
+      "storeid": "kaminoyama-4ebb08",
+      "shopid": "kaminoyama-4ebb08-dbarai"
+    },
+    {
+      "name": "タケダワイナリー",
+      "address": "四ツ谷",
+      "storeid": "kaminoyama-8d58d1",
+      "shopid": "kaminoyama-8d58d1-dbarai"
+    },
+    {
+      "name": "(株)清水屋",
+      "address": "十日町",
+      "storeid": "kaminoyama-802d17",
+      "shopid": "kaminoyama-802d17-dbarai"
+    },
+    {
+      "name": "(有)黒田薬局",
+      "address": "十日町",
+      "storeid": "kaminoyama-6db111",
+      "shopid": "kaminoyama-6db111-dbarai"
+    },
+    {
+      "name": "マルソウたかはし",
+      "address": "十日町",
+      "storeid": "kaminoyama-36a1a3",
+      "shopid": "kaminoyama-36a1a3-dbarai"
+    },
+    {
+      "name": "山小酒店",
+      "address": "十日町",
+      "storeid": "kaminoyama-e822f2",
+      "shopid": "kaminoyama-e822f2-dbarai"
+    },
+    {
+      "name": "山川電機",
+      "address": "十日町",
+      "storeid": "kaminoyama-943473",
+      "shopid": "kaminoyama-943473-dbarai"
+    },
+    {
+      "name": "朝日屋茶舗",
+      "address": "十日町",
+      "storeid": "kaminoyama-56b297",
+      "shopid": "kaminoyama-56b297-dbarai"
+    },
+    {
+      "name": "本と文具    鍋屋",
+      "address": "十日町",
+      "storeid": "kaminoyama-2885be",
+      "shopid": "kaminoyama-2885be-dbarai"
+    },
+    {
+      "name": "(有)篠原精肉店",
+      "address": "新丁",
+      "storeid": "kaminoyama-35fecb",
+      "shopid": "kaminoyama-35fecb-dbarai"
+    },
+    {
+      "name": "ベーカリー ゆあん",
+      "address": "新丁",
+      "storeid": "kaminoyama-c11711",
+      "shopid": "kaminoyama-c11711-dbarai"
+    },
+    {
+      "name": "鏡政治商店",
+      "address": "新丁",
+      "storeid": "kaminoyama-15985e",
+      "shopid": "kaminoyama-15985e-dbarai"
+    },
+    {
+      "name": "ZB MOTORS",
+      "address": "新町",
+      "storeid": "kaminoyama-17ca08",
+      "shopid": "kaminoyama-17ca08-dbarai"
+    },
+    {
+      "name": "松本薬局",
+      "address": "新湯",
+      "storeid": "kaminoyama-7d417f",
+      "shopid": "kaminoyama-7d417f-dbarai"
+    },
+    {
+      "name": "(有)パンとケーキの店    モントレーふくや",
+      "address": "石崎",
+      "storeid": "kaminoyama-e3a9f1",
+      "shopid": "kaminoyama-e3a9f1-dbarai"
+    },
+    {
+      "name": "(有)佐藤畳店",
+      "address": "石崎",
+      "storeid": "kaminoyama-3247b3",
+      "shopid": "kaminoyama-3247b3-dbarai"
+    },
+    {
+      "name": "金子屋まんじゅう店",
+      "address": "石崎",
+      "storeid": "kaminoyama-d85f9c",
+      "shopid": "kaminoyama-d85f9c-dbarai"
+    },
+    {
+      "name": "茶囲夢",
+      "address": "石堂",
+      "storeid": "kaminoyama-d859f1",
+      "shopid": "kaminoyama-d859f1-dbarai"
+    },
+    {
+      "name": "松田農園",
+      "address": "川口",
+      "storeid": "kaminoyama-e7cc70",
+      "shopid": "kaminoyama-e7cc70-dbarai"
+    },
+    {
+      "name": "鈴木鉄工所",
+      "address": "川口下河原",
+      "storeid": "kaminoyama-824828",
+      "shopid": "kaminoyama-824828-dbarai"
+    },
+    {
+      "name": "グリーンやまがた南部",
+      "address": "相生下御前殿",
+      "storeid": "kaminoyama-1ba630",
+      "shopid": "kaminoyama-1ba630-dbarai"
+    },
+    {
+      "name": "Dogsalon    M-Heart",
+      "address": "沢丁",
+      "storeid": "kaminoyama-4cf86f",
+      "shopid": "kaminoyama-4cf86f-dbarai"
+    },
+    {
+      "name": "花忠",
+      "address": "沢丁",
+      "storeid": "kaminoyama-b52632",
+      "shopid": "kaminoyama-b52632-dbarai"
+    },
+    {
+      "name": "株式会社中條屋    中條饅頭",
+      "address": "沢丁",
+      "storeid": "kaminoyama-3e71fd",
+      "shopid": "kaminoyama-3e71fd-dbarai"
     },
     {
       "name": "鏡餅屋",
@@ -153,6 +579,144 @@
       "shopid": "kaminoyama-5991f0-dbarai"
     },
     {
+      "name": "粟野豆腐店",
+      "address": "楢下",
+      "storeid": "kaminoyama-621eab",
+      "shopid": "kaminoyama-621eab-dbarai"
+    },
+    {
+      "name": "有限会社    丹野醬油店",
+      "address": "楢下",
+      "storeid": "kaminoyama-e361f2",
+      "shopid": "kaminoyama-e361f2-dbarai"
+    },
+    {
+      "name": "ソフィア",
+      "address": "南町",
+      "storeid": "kaminoyama-c8689a",
+      "shopid": "kaminoyama-c8689a-dbarai"
+    },
+    {
+      "name": "株式会社ユタカ石油",
+      "address": "南町",
+      "storeid": "kaminoyama-615ced",
+      "shopid": "kaminoyama-615ced-dbarai"
+    },
+    {
+      "name": "十一屋    上山店",
+      "address": "南町",
+      "storeid": "kaminoyama-7e5cd2",
+      "shopid": "kaminoyama-7e5cd2-dbarai"
+    },
+    {
+      "name": "前田無線",
+      "address": "南町",
+      "storeid": "kaminoyama-0ea2a1",
+      "shopid": "kaminoyama-0ea2a1-dbarai"
+    },
+    {
+      "name": "肉のあべ",
+      "address": "南町",
+      "storeid": "kaminoyama-497606",
+      "shopid": "kaminoyama-497606-dbarai"
+    },
+    {
+      "name": "洋服リフォーム フルール",
+      "address": "南町",
+      "storeid": "kaminoyama-8e5468",
+      "shopid": "kaminoyama-8e5468-dbarai"
+    },
+    {
+      "name": "エフパルク佐藤",
+      "address": "二日町",
+      "storeid": "kaminoyama-ff5758",
+      "shopid": "kaminoyama-ff5758-dbarai"
+    },
+    {
+      "name": "メガネのエース    上山店",
+      "address": "二日町",
+      "storeid": "kaminoyama-aeb9ed",
+      "shopid": "kaminoyama-aeb9ed-dbarai"
+    },
+    {
+      "name": "株式会社    奥村油店",
+      "address": "二日町",
+      "storeid": "kaminoyama-712d39",
+      "shopid": "kaminoyama-712d39-dbarai"
+    },
+    {
+      "name": "郷土銘菓処    大🖃屋",
+      "address": "二日町",
+      "storeid": "kaminoyama-083115",
+      "shopid": "kaminoyama-083115-dbarai"
+    },
+    {
+      "name": "城戸口畳店",
+      "address": "二日町",
+      "storeid": "kaminoyama-310d4b",
+      "shopid": "kaminoyama-310d4b-dbarai"
+    },
+    {
+      "name": "カーズプラス",
+      "address": "弁天",
+      "storeid": "kaminoyama-5a072a",
+      "shopid": "kaminoyama-5a072a-dbarai"
+    },
+    {
+      "name": "杵屋本店    上山工場    ※事前予約が必要",
+      "address": "弁天",
+      "storeid": "kaminoyama-f5e7a5",
+      "shopid": "kaminoyama-f5e7a5-dbarai"
+    },
+    {
+      "name": "有限会社    蔵王弁当",
+      "address": "弁天",
+      "storeid": "kaminoyama-e3ade7",
+      "shopid": "kaminoyama-e3ade7-dbarai"
+    },
+    {
+      "name": "(有)タイヤプロショップ中川",
+      "address": "矢来",
+      "storeid": "kaminoyama-611528",
+      "shopid": "kaminoyama-611528-dbarai"
+    },
+    {
+      "name": "Ora da cacao&chou",
+      "address": "矢来",
+      "storeid": "kaminoyama-017e5c",
+      "shopid": "kaminoyama-017e5c-dbarai"
+    },
+    {
+      "name": "カガミサイクル",
+      "address": "矢来",
+      "storeid": "kaminoyama-fa032f",
+      "shopid": "kaminoyama-fa032f-dbarai"
+    },
+    {
+      "name": "ガソリン灯油おかめ商店",
+      "address": "矢来",
+      "storeid": "kaminoyama-c8d65e",
+      "shopid": "kaminoyama-c8d65e-dbarai"
+    },
+    {
+      "name": "井上いとや",
+      "address": "矢来",
+      "storeid": "kaminoyama-3407b3",
+      "shopid": "kaminoyama-3407b3-dbarai"
+    },
+    {
+      "name": "花淵商店",
+      "address": "矢来",
+      "storeid": "kaminoyama-7285e4",
+      "shopid": "kaminoyama-7285e4-dbarai"
+    },
+    {
+      "name": "荒木洋服店",
+      "address": "矢来",
+      "storeid": "kaminoyama-c61a3c",
+      "shopid": "kaminoyama-c61a3c-dbarai"
+    },
+    {
       "name": "山形屋酒店",
       "address": "矢来",
       "storeid": "kaminoyama-6f8702",
@@ -169,15 +733,27 @@
       "address": "矢来",
       "storeid": "kaminoyama-053038",
       "shopid": "kaminoyama-053038-dbarai"
+    },
+    {
+      "name": "弐萬圓堂    上山店",
+      "address": "矢来",
+      "storeid": "kaminoyama-ac4477",
+      "shopid": "kaminoyama-ac4477-dbarai"
+    },
+    {
+      "name": "浜田薬局",
+      "address": "矢来",
+      "storeid": "kaminoyama-a0c71c",
+      "shopid": "kaminoyama-a0c71c-dbarai"
+    },
+    {
+      "name": "山形プリン",
+      "address": "葉山",
+      "storeid": "kaminoyama-14eb83",
+      "shopid": "kaminoyama-14eb83-dbarai"
     }
   ],
   "サービス": [
-    {
-      "name": "Hair Salon Mint",
-      "address": "旭町",
-      "storeid": "kaminoyama-0269bf",
-      "shopid": "kaminoyama-0269bf-dbarai"
-    },
     {
       "name": "たく治療院鍼灸マッサージ",
       "address": "旭町",
@@ -191,10 +767,374 @@
       "shopid": "kaminoyama-e5a92e-dbarai"
     },
     {
-      "name": "観光タクシー株式会社",
+      "name": "みつわ美容室",
+      "address": "関根",
+      "storeid": "kaminoyama-5207c4",
+      "shopid": "kaminoyama-5207c4-dbarai"
+    },
+    {
+      "name": "吉田ボデー",
+      "address": "宮脇",
+      "storeid": "kaminoyama-3d31be",
+      "shopid": "kaminoyama-3d31be-dbarai"
+    },
+    {
+      "name": "Be-Style",
+      "address": "金生西",
+      "storeid": "kaminoyama-c8f29c",
+      "shopid": "kaminoyama-c8f29c-dbarai"
+    },
+    {
+      "name": "Marry Lukka",
+      "address": "金生西",
+      "storeid": "kaminoyama-aaf3b2",
+      "shopid": "kaminoyama-aaf3b2-dbarai"
+    },
+    {
+      "name": "エステサロンBrilliant",
+      "address": "金生西",
+      "storeid": "kaminoyama-a290a9",
+      "shopid": "kaminoyama-a290a9-dbarai"
+    },
+    {
+      "name": "Hair Salon    茉莉花",
+      "address": "金生東",
+      "storeid": "kaminoyama-56920e",
+      "shopid": "kaminoyama-56920e-dbarai"
+    },
+    {
+      "name": "ビューティーサロン    サカイ",
+      "address": "金生東",
+      "storeid": "kaminoyama-bec24e",
+      "shopid": "kaminoyama-bec24e-dbarai"
+    },
+    {
+      "name": "美容室ＡＲＩＥ",
+      "address": "金生東",
+      "storeid": "kaminoyama-359a11",
+      "shopid": "kaminoyama-359a11-dbarai"
+    },
+    {
+      "name": "Elegance Factory",
+      "address": "金谷追堀",
+      "storeid": "kaminoyama-301de0",
+      "shopid": "kaminoyama-301de0-dbarai"
+    },
+    {
+      "name": "ウィッグ専門店    アンソレイユ    ensoleille",
+      "address": "金谷八反田",
+      "storeid": "kaminoyama-3d969d",
+      "shopid": "kaminoyama-3d969d-dbarai"
+    },
+    {
+      "name": "ササマル自動車",
+      "address": "金瓶",
+      "storeid": "kaminoyama-85b36a",
+      "shopid": "kaminoyama-85b36a-dbarai"
+    },
+    {
+      "name": "フラッシュジム",
+      "address": "金瓶林ノ蔭",
+      "storeid": "kaminoyama-76b27a",
+      "shopid": "kaminoyama-76b27a-dbarai"
+    },
+    {
+      "name": "小山理容所",
+      "address": "三本松",
+      "storeid": "kaminoyama-5b3bc6",
+      "shopid": "kaminoyama-5b3bc6-dbarai"
+    },
+    {
+      "name": "まつ毛エクステ専門店    デザイニングアイ",
+      "address": "四ツ谷",
+      "storeid": "kaminoyama-8d4523",
+      "shopid": "kaminoyama-8d4523-dbarai"
+    },
+    {
+      "name": "工藤設備",
+      "address": "四ツ谷",
+      "storeid": "kaminoyama-abc2cb",
+      "shopid": "kaminoyama-abc2cb-dbarai"
+    },
+    {
+      "name": "高橋写真館",
+      "address": "十日町",
+      "storeid": "kaminoyama-9998eb",
+      "shopid": "kaminoyama-9998eb-dbarai"
+    },
+    {
+      "name": "美容室 the HAIR shop",
+      "address": "十日町",
+      "storeid": "kaminoyama-0ecaff",
+      "shopid": "kaminoyama-0ecaff-dbarai"
+    },
+    {
+      "name": "大泉写真館",
+      "address": "石崎",
+      "storeid": "kaminoyama-2be2b3",
+      "shopid": "kaminoyama-2be2b3-dbarai"
+    },
+    {
+      "name": "理容ミウラ",
+      "address": "石崎",
+      "storeid": "kaminoyama-2cb0f9",
+      "shopid": "kaminoyama-2cb0f9-dbarai"
+    },
+    {
+      "name": "シャイニングオート",
+      "address": "石曽根村頭",
+      "storeid": "kaminoyama-860f61",
+      "shopid": "kaminoyama-860f61-dbarai"
+    },
+    {
+      "name": "Finale Bello 上山店",
+      "address": "仙石元糸目",
+      "storeid": "kaminoyama-c499df",
+      "shopid": "kaminoyama-c499df-dbarai"
+    },
+    {
+      "name": "うさちゃんクリーニングヨークベニマル上山店",
+      "address": "仙石元糸目",
+      "storeid": "kaminoyama-ec2cf0",
+      "shopid": "kaminoyama-ec2cf0-dbarai"
+    },
+    {
+      "name": "有限会社    新田自動車整備工場",
+      "address": "川口堂ノ前",
+      "storeid": "kaminoyama-560973",
+      "shopid": "kaminoyama-560973-dbarai"
+    },
+    {
+      "name": "蔵王ライザワールド    スキー場",
+      "address": "蔵王坊平高原",
+      "storeid": "kaminoyama-dbb3a0",
+      "shopid": "kaminoyama-dbb3a0-dbarai"
+    },
+    {
+      "name": "坊平リカバリー温泉    高源ゆ",
+      "address": "蔵王坊平国有林",
+      "storeid": "kaminoyama-4de122",
+      "shopid": "kaminoyama-4de122-dbarai"
+    },
+    {
+      "name": "美容室ビート",
+      "address": "朝日台",
+      "storeid": "kaminoyama-e6f6ed",
+      "shopid": "kaminoyama-e6f6ed-dbarai"
+    },
+    {
+      "name": "Atelier Moi",
+      "address": "長清水",
+      "storeid": "kaminoyama-3dabc4",
+      "shopid": "kaminoyama-3dabc4-dbarai"
+    },
+    {
+      "name": "フラッシュラボ",
+      "address": "長清水",
+      "storeid": "kaminoyama-616121",
+      "shopid": "kaminoyama-616121-dbarai"
+    },
+    {
+      "name": "仏将クリーン堂",
+      "address": "長清水",
+      "storeid": "kaminoyama-374fa5",
+      "shopid": "kaminoyama-374fa5-dbarai"
+    },
+    {
+      "name": "ヘアーサロン    マツウラ",
+      "address": "藤吾",
+      "storeid": "kaminoyama-edaf38",
+      "shopid": "kaminoyama-edaf38-dbarai"
+    },
+    {
+      "name": "シナリーふわり",
+      "address": "美咲町",
+      "storeid": "kaminoyama-2a533f",
+      "shopid": "kaminoyama-2a533f-dbarai"
+    },
+    {
+      "name": "フランク理容院",
+      "address": "美咲町",
+      "storeid": "kaminoyama-a20739",
+      "shopid": "kaminoyama-a20739-dbarai"
+    },
+    {
+      "name": "ブルースカイランドリー おーばん上山店",
+      "address": "美咲町",
+      "storeid": "kaminoyama-8b4d29",
+      "shopid": "kaminoyama-8b4d29-dbarai"
+    },
+    {
+      "name": "YOURS",
+      "address": "弁天",
+      "storeid": "kaminoyama-88a07b",
+      "shopid": "kaminoyama-88a07b-dbarai"
+    },
+    {
+      "name": "うさちゃんクリーニング上山店",
+      "address": "弁天",
+      "storeid": "kaminoyama-9533f9",
+      "shopid": "kaminoyama-9533f9-dbarai"
+    },
+    {
+      "name": "うさちゃんクリーニングヤマザワ上山店",
+      "address": "矢来",
+      "storeid": "kaminoyama-6f1e11",
+      "shopid": "kaminoyama-6f1e11-dbarai"
+    },
+    {
+      "name": "カット&カラー    G-CUT",
+      "address": "矢来",
+      "storeid": "kaminoyama-06d8a1",
+      "shopid": "kaminoyama-06d8a1-dbarai"
+    },
+    {
+      "name": "カットクラブアンビシャス",
+      "address": "矢来",
+      "storeid": "kaminoyama-93d266",
+      "shopid": "kaminoyama-93d266-dbarai"
+    },
+    {
+      "name": "ビューティ    クリア",
+      "address": "矢来",
+      "storeid": "kaminoyama-190c0f",
+      "shopid": "kaminoyama-190c0f-dbarai"
+    },
+    {
+      "name": "上山印刷",
+      "address": "矢来",
+      "storeid": "kaminoyama-c67337",
+      "shopid": "kaminoyama-c67337-dbarai"
+    },
+    {
+      "name": "美容室シュシュ",
+      "address": "矢来",
+      "storeid": "kaminoyama-488423",
+      "shopid": "kaminoyama-488423-dbarai"
+    }
+  ],
+  "宿泊": [
+    {
+      "name": "別館ふじや旅館",
       "address": "河崎",
-      "storeid": "kaminoyama-1cd135",
-      "shopid": "kaminoyama-1cd135-dbarai"
+      "storeid": "kaminoyama-8c9d5f",
+      "shopid": "kaminoyama-8c9d5f-dbarai"
+    },
+    {
+      "name": "おやど    森の音",
+      "address": "河崎反田",
+      "storeid": "kaminoyama-618ba8",
+      "shopid": "kaminoyama-618ba8-dbarai"
+    },
+    {
+      "name": "三木屋 参蒼来",
+      "address": "高松",
+      "storeid": "kaminoyama-32ec1b",
+      "shopid": "kaminoyama-32ec1b-dbarai"
+    },
+    {
+      "name": "ホテル菊屋",
+      "address": "新湯",
+      "storeid": "kaminoyama-1fa3ee",
+      "shopid": "kaminoyama-1fa3ee-dbarai"
+    },
+    {
+      "name": "果実の山    あづま屋",
+      "address": "新湯",
+      "storeid": "kaminoyama-937edd",
+      "shopid": "kaminoyama-937edd-dbarai"
+    },
+    {
+      "name": "仙渓園    月岡ホテル",
+      "address": "新湯",
+      "storeid": "kaminoyama-3d359c",
+      "shopid": "kaminoyama-3d359c-dbarai"
+    },
+    {
+      "name": "有馬館",
+      "address": "新湯",
+      "storeid": "kaminoyama-d391a8",
+      "shopid": "kaminoyama-d391a8-dbarai"
+    },
+    {
+      "name": "ヒュッテハイジ",
+      "address": "蔵王坊平高原",
+      "storeid": "kaminoyama-060d39",
+      "shopid": "kaminoyama-060d39-dbarai"
+    },
+    {
+      "name": "ペンション    ノエル",
+      "address": "蔵王坊平高原",
+      "storeid": "kaminoyama-819966",
+      "shopid": "kaminoyama-819966-dbarai"
+    },
+    {
+      "name": "原ペンション",
+      "address": "蔵王坊平高原",
+      "storeid": "kaminoyama-507ecb",
+      "shopid": "kaminoyama-507ecb-dbarai"
+    },
+    {
+      "name": "石井ペンション",
+      "address": "蔵王坊平高原",
+      "storeid": "kaminoyama-be5924",
+      "shopid": "kaminoyama-be5924-dbarai"
+    },
+    {
+      "name": "蔵王ライザウッディロッジ",
+      "address": "蔵王坊平高原",
+      "storeid": "kaminoyama-5ea8c8",
+      "shopid": "kaminoyama-5ea8c8-dbarai"
+    },
+    {
+      "name": "花明りの宿 月の池",
+      "address": "湯町",
+      "storeid": "kaminoyama-b252a4",
+      "shopid": "kaminoyama-b252a4-dbarai"
+    },
+    {
+      "name": "はたごの心    橋本屋",
+      "address": "葉山",
+      "storeid": "kaminoyama-d0268e",
+      "shopid": "kaminoyama-d0268e-dbarai"
+    },
+    {
+      "name": "寒河江屋旅館",
+      "address": "葉山",
+      "storeid": "kaminoyama-802b1a",
+      "shopid": "kaminoyama-802b1a-dbarai"
+    },
+    {
+      "name": "彩花亭時代屋",
+      "address": "葉山",
+      "storeid": "kaminoyama-9dfdef",
+      "shopid": "kaminoyama-9dfdef-dbarai"
+    },
+    {
+      "name": "日本の宿 古窯",
+      "address": "葉山",
+      "storeid": "kaminoyama-8b5f32",
+      "shopid": "kaminoyama-8b5f32-dbarai"
+    },
+    {
+      "name": "葉山館",
+      "address": "葉山",
+      "storeid": "kaminoyama-47702c",
+      "shopid": "kaminoyama-47702c-dbarai"
+    }
+  ],
+  "その他": [
+    {
+      "name": "リナワールド",
+      "address": "金瓶水上",
+      "storeid": "kaminoyama-ad9704",
+      "shopid": "kaminoyama-ad9704-dbarai"
+    },
+    {
+      "name": "蔵王猿倉レストハウス",
+      "address": "蔵王字蔵王山",
+      "storeid": "kaminoyama-43ebcd",
+      "shopid": "kaminoyama-43ebcd-dbarai"
     }
   ]
 }
