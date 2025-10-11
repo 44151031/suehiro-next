@@ -1,0 +1,199 @@
+{
+  "宿泊": [
+    {
+      "name": "本と木もれ陽の宿 うたたねびより",
+      "storeid": "kimino-5a4f8a",
+      "shopid": "kimino-5a4f8a-paypay"
+    },
+    {
+      "name": "風の古民家 うえみなみ",
+      "storeid": "kimino-8c641e",
+      "shopid": "kimino-8c641e-paypay"
+    },
+    {
+      "name": "Cafe & GuestHouse きみの さいか亭",
+      "storeid": "kimino-ea4076",
+      "shopid": "kimino-ea4076-paypay"
+    },
+    {
+      "name": "毛原オートキャンプ場",
+      "storeid": "kimino-6179e4",
+      "shopid": "kimino-6179e4-paypay"
+    },
+    {
+      "name": "四季の宿 きみの",
+      "storeid": "kimino-acba55",
+      "shopid": "kimino-acba55-paypay"
+    },
+    {
+      "name": "OUTDOOR LIFE たまゆらの里",
+      "storeid": "kimino-73e9de",
+      "shopid": "kimino-73e9de-paypay"
+    },
+    {
+      "name": "ふるいちオートキャンプ場",
+      "storeid": "kimino-018627",
+      "shopid": "kimino-018627-paypay"
+    },
+    {
+      "name": "美里の湯 かじか荘",
+      "storeid": "kimino-8a62a8",
+      "shopid": "kimino-8a62a8-paypay"
+    }
+  ],
+  "飲食": [
+    {
+      "name": "あんのん",
+      "storeid": "kimino-b73017",
+      "shopid": "kimino-b73017-paypay"
+    },
+    {
+      "name": "MC.CAFE.MICHIEY's",
+      "storeid": "kimino-2a624c",
+      "shopid": "kimino-2a624c-paypay"
+    },
+    {
+      "name": "きこりのピザ屋 SOMAUD",
+      "storeid": "kimino-bc44ff",
+      "shopid": "kimino-bc44ff-paypay"
+    },
+    {
+      "name": "喫茶Coa",
+      "storeid": "kimino-2e771d",
+      "shopid": "kimino-2e771d-paypay"
+    },
+    {
+      "name": "喫茶 まどか",
+      "storeid": "kimino-f8dde0",
+      "shopid": "kimino-f8dde0-paypay"
+    },
+    {
+      "name": "カフェきたの",
+      "storeid": "kimino-c479f9",
+      "shopid": "kimino-c479f9-paypay"
+    },
+    {
+      "name": "キッチンこもれび",
+      "storeid": "kimino-f06cf6",
+      "shopid": "kimino-f06cf6-paypay"
+    },
+    {
+      "name": "kiminoka",
+      "storeid": "kimino-2b8e0d",
+      "shopid": "kimino-2b8e0d-paypay"
+    },
+    {
+      "name": "Cafe & GuestHouse きみの さいか亭",
+      "storeid": "kimino-ea4076",
+      "shopid": "kimino-ea4076-paypay"
+    },
+    {
+      "name": "Trattoria Stellato",
+      "storeid": "kimino-b7cdde",
+      "shopid": "kimino-b7cdde-paypay"
+    },
+    {
+      "name": "ミートショップはしもと",
+      "storeid": "kimino-885ee5",
+      "shopid": "kimino-885ee5-paypay"
+    },
+    {
+      "name": "もみのき食堂",
+      "storeid": "kimino-731d6a",
+      "shopid": "kimino-731d6a-paypay"
+    },
+    {
+      "name": "ヤドリギ",
+      "storeid": "kimino-5d1db0",
+      "shopid": "kimino-5d1db0-paypay"
+    },
+    {
+      "name": "Leaves of grass kimino",
+      "storeid": "kimino-b36d3d",
+      "shopid": "kimino-b36d3d-paypay"
+    },
+    {
+      "name": "レストランかぐや／美里の湯 かじか荘",
+      "storeid": "kimino-24eae5",
+      "shopid": "kimino-24eae5-paypay"
+    },
+    {
+      "name": "369miroku",
+      "storeid": "kimino-834caa",
+      "shopid": "kimino-834caa-paypay"
+    },
+    {
+      "name": "やまももの木",
+      "storeid": "kimino-bef9f2",
+      "shopid": "kimino-bef9f2-paypay"
+    }
+  ],
+  "ショッピング": [
+    {
+      "name": "紀州 マルイチ農園",
+      "storeid": "kimino-1a7b94",
+      "shopid": "kimino-1a7b94-paypay"
+    },
+    {
+      "name": "手漉き和紙工房 あせりな",
+      "storeid": "kimino-3d94ca",
+      "shopid": "kimino-3d94ca-paypay"
+    },
+    {
+      "name": "nicorire",
+      "storeid": "kimino-aeba36",
+      "shopid": "kimino-aeba36-paypay"
+    },
+    {
+      "name": "は～ぶ工房もくもく",
+      "storeid": "kimino-946d12",
+      "shopid": "kimino-946d12-paypay"
+    },
+    {
+      "name": "ポンテルーチェ",
+      "storeid": "kimino-45fde9",
+      "shopid": "kimino-45fde9-paypay"
+    }
+  ],
+  "体験": [
+    {
+      "name": "きみの自然体験館／アンフィ合同会社",
+      "storeid": "kimino-c92c18",
+      "shopid": "kimino-c92c18-paypay"
+    },
+    {
+      "name": "きみの幸工房陶芸倶楽部",
+      "storeid": "kimino-296de2",
+      "shopid": "kimino-296de2-paypay"
+    },
+    {
+      "name": "手漉き和紙工房 あせりな",
+      "storeid": "kimino-3d94ca",
+      "shopid": "kimino-3d94ca-paypay"
+    },
+    {
+      "name": "は～ぶ工房もくもく",
+      "storeid": "kimino-946d12",
+      "shopid": "kimino-946d12-paypay"
+    }
+  ],
+  "エステ": [
+    {
+      "name": "ASANA.T Kimino",
+      "storeid": "kimino-0ea8f6",
+      "shopid": "kimino-0ea8f6-paypay"
+    }
+  ],
+  "交通": [
+    {
+      "name": "大十バス株式会社",
+      "storeid": "kimino-9a6aa2",
+      "shopid": "kimino-9a6aa2-paypay"
+    },
+    {
+      "name": "有限会社こおのタクシー",
+      "storeid": "kimino-8444fa",
+      "shopid": "kimino-8444fa-paypay"
+    }
+  ]
+}
