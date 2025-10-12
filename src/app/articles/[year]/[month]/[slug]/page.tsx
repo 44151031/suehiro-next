@@ -130,12 +130,18 @@ export default async function ArticlePage({ params }: { params: Params }) {
           </div>
         )}
 
-        <header className="mb-8">
-          <h1 className="text-4xl font-bold leading-tight">{a.title}</h1>
+        <header className="mb-10 border-b border-gray-100 pb-6">
+          <h1 className="text-2xl md:text-3xl font-bold leading-tight tracking-tight text-gray-900">
+            {a.title}
+          </h1>
+
           {a.dek && (
-            <p className="mt-3 text-xl text-gray-700 leading-relaxed">{a.dek}</p>
+            <p className="mt-4 text-base text-gray-700 leading-relaxed">
+              {a.dek}
+            </p>
           )}
-          <p className="mt-3 text-sm text-gray-500">
+
+          <p className="mt-4 text-sm text-gray-500">
             公開日：{new Date(a.published_at).toLocaleDateString("ja-JP")}
             {a.updated_at && (
               <>（最終更新：{new Date(a.updated_at).toLocaleDateString("ja-JP")}）</>
@@ -144,18 +150,7 @@ export default async function ArticlePage({ params }: { params: Params }) {
         </header>
 
         {/* 本文 */}
-        <section
-          className="
-            prose prose-xl max-w-none leading-loose
-            prose-p:my-6 prose-li:my-2
-            prose-headings:font-bold
-            prose-h2:!text-2xl prose-h2:!mt-12 prose-h2:!mb-6
-            prose-h3:!text-xl prose-h3:!mt-8 prose-h3:!mb-4
-            prose-h4:!text-lg prose-h4:!mt-6 prose-h4:!mb-3 prose-h4:!text-gray-700
-            prose-a:text-blue-600 hover:prose-a:underline
-            prose-ul:pl-6 prose-ol:pl-6
-          "
-        >
+        <section>
           <Markdown source={a.body_md ?? ""} />
         </section>
 
