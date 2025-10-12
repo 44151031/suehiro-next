@@ -79,7 +79,7 @@ export default function SupportButton({ shopid }: Props) {
         setLiked(false);
         setLikes((prev) => Math.max(0, prev - 1));
       } else if (result.status === "daily_limit") {
-        toast.error("応援は1日3回までです。また明日お願いします。");
+        toast.error("応援は1日3回までです。明日になれば、同じお店も応援できます！");
       } else if (result.status === "shop_limit") {
         toast.error("この店舗は応援上限に達しました。");
       }
