@@ -1,0 +1,2576 @@
+{
+  "サービス": [
+    {
+      "name": "有限会社金谷オートサービス",
+      "address": "埼玉県新座市あたご1-1-40",
+      "storeid": "niiza-eead2e",
+      "shopid": "niiza-eead2e-rakutenpay"
+    },
+    {
+      "name": "アールエフワークス",
+      "address": "埼玉県新座市あたご3-8-13テラスあたご2．1F",
+      "storeid": "niiza-ec83e5",
+      "shopid": "niiza-ec83e5-rakutenpay"
+    },
+    {
+      "name": "小糸興業",
+      "address": "埼玉県新座市新堀1-5-9",
+      "storeid": "niiza-69dadd",
+      "shopid": "niiza-69dadd-rakutenpay"
+    },
+    {
+      "name": "公文式新堀教室",
+      "address": "埼玉県新座市新堀2-14-50コーポシンボリ101号室",
+      "storeid": "niiza-1943fe",
+      "shopid": "niiza-1943fe-rakutenpay"
+    },
+    {
+      "name": "BOXINGSTUDIO1020",
+      "address": "埼玉県新座市東北2-30-1パルスビル1階101号室",
+      "storeid": "niiza-c278a8",
+      "shopid": "niiza-c278a8-rakutenpay"
+    },
+    {
+      "name": "tbm＆paradibole",
+      "address": "埼玉県新座市あたご3-8-13 テラスあたご102",
+      "storeid": "niiza-8e00cd",
+      "shopid": "niiza-8e00cd-rakutenpay"
+    },
+    {
+      "name": "LAVA志木店",
+      "address": "埼玉県新座市東北2-39-13柴崎第8ビル4F",
+      "storeid": "niiza-39dfed",
+      "shopid": "niiza-39dfed-rakutenpay"
+    },
+    {
+      "name": "ホワイト急便　スギドラック新座店",
+      "address": "埼玉県新座市畑中2-4-35",
+      "storeid": "niiza-fcee91",
+      "shopid": "niiza-fcee91-rakutenpay"
+    },
+    {
+      "name": "CareserviceMine",
+      "address": "埼玉県新座市野火止4-5-3",
+      "storeid": "niiza-7bfe6b",
+      "shopid": "niiza-7bfe6b-rakutenpay"
+    },
+    {
+      "name": "おそうじ本舗　新座中央店",
+      "address": "埼玉県新座市あたご2-3-28",
+      "storeid": "niiza-77ccb5",
+      "shopid": "niiza-77ccb5-rakutenpay"
+    },
+    {
+      "name": "おそうじ革命　新座栄店",
+      "address": "埼玉県新座市栄4-6-19",
+      "storeid": "niiza-71c7bd",
+      "shopid": "niiza-71c7bd-rakutenpay"
+    },
+    {
+      "name": "新座メモリアル",
+      "address": "埼玉県新座市大和田2-1-31",
+      "storeid": "niiza-3205f3",
+      "shopid": "niiza-3205f3-rakutenpay"
+    },
+    {
+      "name": "太田動物病院",
+      "address": "埼玉県新座市栄5-10-31",
+      "storeid": "niiza-bbe9dd",
+      "shopid": "niiza-bbe9dd-rakutenpay"
+    },
+    {
+      "name": "テニスラウンジ新座",
+      "address": "埼玉県新座市大和田2-4-33 テニスラウンジ新座",
+      "storeid": "niiza-12e2ed",
+      "shopid": "niiza-12e2ed-rakutenpay"
+    },
+    {
+      "name": "PRCリファインひばりが丘",
+      "address": "埼玉県新座市栗原5-13-13",
+      "storeid": "niiza-eba47b",
+      "shopid": "niiza-eba47b-rakutenpay"
+    },
+    {
+      "name": "クリーンジョイ　サポート",
+      "address": "埼玉県新座市栗原5-4-6-204",
+      "storeid": "niiza-d26630",
+      "shopid": "niiza-d26630-rakutenpay"
+    },
+    {
+      "name": "りらくる新座店",
+      "address": "埼玉県新座市大和田2-5-30",
+      "storeid": "niiza-18e290",
+      "shopid": "niiza-18e290-rakutenpay"
+    },
+    {
+      "name": "常岡自動車",
+      "address": "埼玉県新座市栗原6-3-6",
+      "storeid": "niiza-e626a7",
+      "shopid": "niiza-e626a7-rakutenpay"
+    },
+    {
+      "name": "株式会社真栄コーポレーション",
+      "address": "埼玉県新座市新堀2-16-17",
+      "storeid": "niiza-53b546",
+      "shopid": "niiza-53b546-rakutenpay"
+    },
+    {
+      "name": "マイ暮らす　清瀬店",
+      "address": "埼玉県新座市新堀3-11-47",
+      "storeid": "niiza-1b5f1c",
+      "shopid": "niiza-1b5f1c-rakutenpay"
+    },
+    {
+      "name": "YandMclean",
+      "address": "埼玉県新座市石神4-2-17-14",
+      "storeid": "niiza-300c76",
+      "shopid": "niiza-300c76-rakutenpay"
+    },
+    {
+      "name": "いちかわみゆき",
+      "address": "埼玉県新座市大和田1-21-18",
+      "storeid": "niiza-fb1e8d",
+      "shopid": "niiza-fb1e8d-rakutenpay"
+    },
+    {
+      "name": "ゼロゼロクリーン",
+      "address": "埼玉県新座市大和田5-9-8ステラB201",
+      "storeid": "niiza-c1b49f",
+      "shopid": "niiza-c1b49f-rakutenpay"
+    },
+    {
+      "name": "おそうじ本舗　練馬光が丘店",
+      "address": "埼玉県新座市池田2-3-1",
+      "storeid": "niiza-2a7ee5",
+      "shopid": "niiza-2a7ee5-rakutenpay"
+    },
+    {
+      "name": "インフォームド・コンセント",
+      "address": "埼玉県新座市池田3-3-21・しんやハイツ・1階",
+      "storeid": "niiza-c6c127",
+      "shopid": "niiza-c6c127-rakutenpay"
+    },
+    {
+      "name": "有限会社イースト電機サービス",
+      "address": "埼玉県新座市池田3-5-3",
+      "storeid": "niiza-c0518a",
+      "shopid": "niiza-c0518a-rakutenpay"
+    },
+    {
+      "name": "カスタムメイキングOMG",
+      "address": "埼玉県新座市池田4-8-30No6",
+      "storeid": "niiza-194282",
+      "shopid": "niiza-194282-rakutenpay"
+    },
+    {
+      "name": "ロハス倶楽部",
+      "address": "埼玉県新座市中野1-16-3",
+      "storeid": "niiza-af5e44",
+      "shopid": "niiza-af5e44-rakutenpay"
+    },
+    {
+      "name": "足もみしま専科",
+      "address": "埼玉県新座市東北1-14-1",
+      "storeid": "niiza-1a231a",
+      "shopid": "niiza-1a231a-rakutenpay"
+    },
+    {
+      "name": "司法書士法人ヤマザキ",
+      "address": "埼玉県新座市東北2-14-8",
+      "storeid": "niiza-6f9b31",
+      "shopid": "niiza-6f9b31-rakutenpay"
+    },
+    {
+      "name": "株式会社 長瀬",
+      "address": "埼玉県新座市大和田3-4-16",
+      "storeid": "niiza-e1ea2f",
+      "shopid": "niiza-e1ea2f-rakutenpay"
+    },
+    {
+      "name": "ワイモバイル　志木",
+      "address": "埼玉県新座市東北2-39-7 生光商事ビル11号室",
+      "storeid": "niiza-cb2d4e",
+      "shopid": "niiza-cb2d4e-rakutenpay"
+    },
+    {
+      "name": "マッサージサロン　オプロミ",
+      "address": "埼玉県新座市道場1-4-14",
+      "storeid": "niiza-9346aa",
+      "shopid": "niiza-9346aa-rakutenpay"
+    },
+    {
+      "name": "K’sホームケア",
+      "address": "埼玉県新座市馬場2-11-26エステート新座202号",
+      "storeid": "niiza-c18085",
+      "shopid": "niiza-c18085-rakutenpay"
+    },
+    {
+      "name": "株式会社プログレス",
+      "address": "埼玉県新座市馬場2-6-18",
+      "storeid": "niiza-5ced39",
+      "shopid": "niiza-5ced39-rakutenpay"
+    },
+    {
+      "name": "株式会社　TSP　埼玉工事課",
+      "address": "埼玉県新座市畑中1-23-17",
+      "storeid": "niiza-85afc2",
+      "shopid": "niiza-85afc2-rakutenpay"
+    },
+    {
+      "name": "リフレ",
+      "address": "埼玉県新座市片山3-18-10",
+      "storeid": "niiza-119995",
+      "shopid": "niiza-119995-rakutenpay"
+    },
+    {
+      "name": "進伸ゼミナール",
+      "address": "埼玉県新座市北野1-1-23",
+      "storeid": "niiza-fe7ca2",
+      "shopid": "niiza-fe7ca2-rakutenpay"
+    },
+    {
+      "name": "スーパーピッカーズ　新座店",
+      "address": "埼玉県新座市堀ノ内3-8-31",
+      "storeid": "niiza-2ce34b",
+      "shopid": "niiza-2ce34b-rakutenpay"
+    },
+    {
+      "name": "有限会社フリークラフト",
+      "address": "埼玉県新座市本多1-9-47",
+      "storeid": "niiza-148928",
+      "shopid": "niiza-148928-rakutenpay"
+    },
+    {
+      "name": "タウンズ・パートナー",
+      "address": "埼玉県新座市野火止4-1-15-208",
+      "storeid": "niiza-8cbcb8",
+      "shopid": "niiza-8cbcb8-rakutenpay"
+    },
+    {
+      "name": "タイルショップespace",
+      "address": "埼玉県新座市野火止5-1-40-1F",
+      "storeid": "niiza-81d68d",
+      "shopid": "niiza-81d68d-rakutenpay"
+    },
+    {
+      "name": "株式会社Tspace",
+      "address": "埼玉県新座市野火止5-1-40-1F",
+      "storeid": "niiza-4ed36d",
+      "shopid": "niiza-4ed36d-rakutenpay"
+    },
+    {
+      "name": "有限会社船田自動車",
+      "address": "埼玉県新座市野火止6-2-19",
+      "storeid": "niiza-9d60c0",
+      "shopid": "niiza-9d60c0-rakutenpay"
+    },
+    {
+      "name": "washman新座店",
+      "address": "埼玉県新座市野寺2-1",
+      "storeid": "niiza-3957c7",
+      "shopid": "niiza-3957c7-rakutenpay"
+    },
+    {
+      "name": "10pigeons",
+      "address": "埼玉県新座市野寺4-4-10",
+      "storeid": "niiza-93abbe",
+      "shopid": "niiza-93abbe-rakutenpay"
+    },
+    {
+      "name": "松本工務店",
+      "address": "埼玉県新座市野寺5-5-34",
+      "storeid": "niiza-f71cae",
+      "shopid": "niiza-f71cae-rakutenpay"
+    },
+    {
+      "name": "巻き爪ケア新座店",
+      "address": "埼玉県新座市池田2-5-6",
+      "storeid": "niiza-ff54aa",
+      "shopid": "niiza-ff54aa-rakutenpay"
+    },
+    {
+      "name": "新座電工",
+      "address": "埼玉県新座市池田3-4-12",
+      "storeid": "niiza-8b07e8",
+      "shopid": "niiza-8b07e8-rakutenpay"
+    },
+    {
+      "name": "Nine　Skate　Park",
+      "address": "埼玉県新座市中野1-16-15",
+      "storeid": "niiza-0858a8",
+      "shopid": "niiza-0858a8-rakutenpay"
+    },
+    {
+      "name": "クリ－ニングノア　新座店",
+      "address": "埼玉県新座市東3-8-8",
+      "storeid": "niiza-365bdd",
+      "shopid": "niiza-365bdd-rakutenpay"
+    },
+    {
+      "name": "ベンリー埼玉福祉会新座大泉店",
+      "address": "埼玉県新座市栄4-2-17",
+      "storeid": "niiza-f04cc7",
+      "shopid": "niiza-f04cc7-rakutenpay"
+    },
+    {
+      "name": "株式会社　原",
+      "address": "埼玉県新座市東3-6-17",
+      "storeid": "niiza-f08f45",
+      "shopid": "niiza-f08f45-rakutenpay"
+    },
+    {
+      "name": "MobileRepair　志木店",
+      "address": "埼玉県新座市東北1-14-1志幸30SEASON503",
+      "storeid": "niiza-a2326e",
+      "shopid": "niiza-a2326e-rakutenpay"
+    },
+    {
+      "name": "せいこう堂整体院",
+      "address": "埼玉県新座市東北1-14-1 志幸30SEASON 211号室",
+      "storeid": "niiza-89b60c",
+      "shopid": "niiza-89b60c-rakutenpay"
+    },
+    {
+      "name": "クリ－ニングノア　野火止店",
+      "address": "埼玉県新座市野火止7-7-38",
+      "storeid": "niiza-139b9b",
+      "shopid": "niiza-139b9b-rakutenpay"
+    },
+    {
+      "name": "整体サロン　てぃ～だ　志木店",
+      "address": "埼玉県新座市東北1-14-1志幸30 シーズン204号室",
+      "storeid": "niiza-c0dd7c",
+      "shopid": "niiza-c0dd7c-rakutenpay"
+    },
+    {
+      "name": "からだメンテナンスfuan",
+      "address": "埼玉県新座市東北1-14-4 セゾンけやき102",
+      "storeid": "niiza-90e0a5",
+      "shopid": "niiza-90e0a5-rakutenpay"
+    },
+    {
+      "name": "クリーニング工房ライフ",
+      "address": "埼玉県新座市東北1-3-5",
+      "storeid": "niiza-e5672b",
+      "shopid": "niiza-e5672b-rakutenpay"
+    },
+    {
+      "name": "ひまわり保育園",
+      "address": "埼玉県新座市東北1-72",
+      "storeid": "niiza-91f5cd",
+      "shopid": "niiza-91f5cd-rakutenpay"
+    },
+    {
+      "name": "マリッジ・サロン　Lagom　Gift",
+      "address": "埼玉県新座市東北1-8-3",
+      "storeid": "niiza-815eb1",
+      "shopid": "niiza-815eb1-rakutenpay"
+    },
+    {
+      "name": "トリミングサロンOLIOLI",
+      "address": "埼玉県新座市東北2-11-23",
+      "storeid": "niiza-1d6074",
+      "shopid": "niiza-1d6074-rakutenpay"
+    },
+    {
+      "name": "同仁堂整体",
+      "address": "埼玉県新座市東北2-26-10 大竹ハイツ202",
+      "storeid": "niiza-ed4761",
+      "shopid": "niiza-ed4761-rakutenpay"
+    },
+    {
+      "name": "文化系コワーキングラウンジ t.t.¬es",
+      "address": "埼玉県新座市東北2-26-3安部ビル 403号室",
+      "storeid": "niiza-a381a1",
+      "shopid": "niiza-a381a1-rakutenpay"
+    },
+    {
+      "name": "ボディメイクサロンRiri",
+      "address": "埼玉県新座市東北2-29-26松栄ビル502",
+      "storeid": "niiza-0811c2",
+      "shopid": "niiza-0811c2-rakutenpay"
+    },
+    {
+      "name": "整体サロン　希（のぞみ）",
+      "address": "埼玉県新座市東北2-30-11 第十みずほ館603",
+      "storeid": "niiza-e1984e",
+      "shopid": "niiza-e1984e-rakutenpay"
+    },
+    {
+      "name": "歌広場　志木駅南口店",
+      "address": "埼玉県新座市東北2-30-18 尾崎ビル3階",
+      "storeid": "niiza-316e4a",
+      "shopid": "niiza-316e4a-rakutenpay"
+    },
+    {
+      "name": "イーキャット　サービス工場",
+      "address": "埼玉県新座市あたご2-3-43",
+      "storeid": "niiza-7e351e",
+      "shopid": "niiza-7e351e-rakutenpay"
+    },
+    {
+      "name": "クリーニングの和光　栄店",
+      "address": "埼玉県新座市栄4-6-5",
+      "storeid": "niiza-5ce5a6",
+      "shopid": "niiza-5ce5a6-rakutenpay"
+    },
+    {
+      "name": "クリーニングショップあっぷる",
+      "address": "埼玉県新座市石神1-7-18",
+      "storeid": "niiza-f18ca0",
+      "shopid": "niiza-f18ca0-rakutenpay"
+    },
+    {
+      "name": "トリミングサロン&Rium",
+      "address": "埼玉県新座市馬場2-1-19",
+      "storeid": "niiza-9bd21e",
+      "shopid": "niiza-9bd21e-rakutenpay"
+    },
+    {
+      "name": "Bell　Wood",
+      "address": "埼玉県新座市栄5-1-36",
+      "storeid": "niiza-3f524a",
+      "shopid": "niiza-3f524a-rakutenpay"
+    },
+    {
+      "name": "たかみね獣医科",
+      "address": "埼玉県新座市栄5-3-6",
+      "storeid": "niiza-7e357b",
+      "shopid": "niiza-7e357b-rakutenpay"
+    },
+    {
+      "name": "パワーハウスジム志木埼玉ジャパン",
+      "address": "埼玉県新座市東北2-36-11 EH第4ビル地下1階",
+      "storeid": "niiza-30f8e3",
+      "shopid": "niiza-30f8e3-rakutenpay"
+    },
+    {
+      "name": "おそうじ本舗　保谷店",
+      "address": "埼玉県新座市新堀1-12-18サンブリ－ゼ305号室",
+      "storeid": "niiza-c9271c",
+      "shopid": "niiza-c9271c-rakutenpay"
+    },
+    {
+      "name": "くらしメンテ",
+      "address": "埼玉県新座市中野1-10-24",
+      "storeid": "niiza-aa2ef3",
+      "shopid": "niiza-aa2ef3-rakutenpay"
+    },
+    {
+      "name": "Ｎｅｘｔｇｅｎ",
+      "address": "埼玉県新座市野火止3-13-35",
+      "storeid": "niiza-88f537",
+      "shopid": "niiza-88f537-rakutenpay"
+    },
+    {
+      "name": "スーパークラフト",
+      "address": "埼玉県新座市大和田3-11-6",
+      "storeid": "niiza-006d41",
+      "shopid": "niiza-006d41-rakutenpay"
+    },
+    {
+      "name": "パーソナルジムＨｏｍｅＦｉｔ新座",
+      "address": "埼玉県新座市本多1-1-16",
+      "storeid": "niiza-83ea20",
+      "shopid": "niiza-83ea20-rakutenpay"
+    },
+    {
+      "name": "for　you　fitness",
+      "address": "埼玉県新座市東北2-29-26松栄ビル502",
+      "storeid": "niiza-48a520",
+      "shopid": "niiza-48a520-rakutenpay"
+    },
+    {
+      "name": "カラオケBanBan志木駅前店",
+      "address": "埼玉県新座市東北2-39-13 EH第8ビル 3階",
+      "storeid": "niiza-132d9a",
+      "shopid": "niiza-132d9a-rakutenpay"
+    },
+    {
+      "name": "ケアタクシーすまいる",
+      "address": "埼玉県新座市野寺4-4-43",
+      "storeid": "niiza-812327",
+      "shopid": "niiza-812327-rakutenpay"
+    },
+    {
+      "name": "ＲｉｎｇａＹｏｇａ",
+      "address": "埼玉県新座市片山2-11-24 2階",
+      "storeid": "niiza-4394a7",
+      "shopid": "niiza-4394a7-rakutenpay"
+    },
+    {
+      "name": "Ｒｉｇｅｌ",
+      "address": "埼玉県新座市新堀1-11-16",
+      "storeid": "niiza-7a602a",
+      "shopid": "niiza-7a602a-rakutenpay"
+    },
+    {
+      "name": "ＹｏｇａｓｐａｃｅＰｈａｌａ",
+      "address": "埼玉県新座市栗原5-1-17",
+      "storeid": "niiza-96aabf",
+      "shopid": "niiza-96aabf-rakutenpay"
+    },
+    {
+      "name": "ＣａｒＤｅｔａｉｌｉｎｇＵＴ",
+      "address": "埼玉県新座市東1-7-33",
+      "storeid": "niiza-8fff15",
+      "shopid": "niiza-8fff15-rakutenpay"
+    },
+    {
+      "name": "介護福祉タクシーエスケーサポート",
+      "address": "埼玉県新座市片山3-3-14",
+      "storeid": "niiza-a497ee",
+      "shopid": "niiza-a497ee-rakutenpay"
+    },
+    {
+      "name": "整体院ケンケン",
+      "address": "埼玉県新座市東北2-37-10高野ビル5階2号室",
+      "storeid": "niiza-5175f6",
+      "shopid": "niiza-5175f6-rakutenpay"
+    },
+    {
+      "name": "プリント館cocoro",
+      "address": "埼玉県新座市栗原2-1-1 大光ハイツ101号",
+      "storeid": "niiza-a8d545",
+      "shopid": "niiza-a8d545-rakutenpay"
+    },
+    {
+      "name": "希起温もり鍼灸院",
+      "address": "埼玉県新座市野火止8-12-30 1006",
+      "storeid": "niiza-fc8c76",
+      "shopid": "niiza-fc8c76-rakutenpay"
+    },
+    {
+      "name": "壱30式",
+      "address": "埼玉県新座市東北2-30-11第十みずほ館604",
+      "storeid": "niiza-5cadb4",
+      "shopid": "niiza-5cadb4-rakutenpay"
+    },
+    {
+      "name": "ボデーショップ佐野",
+      "address": "埼玉県新座市道場2-9-7",
+      "storeid": "niiza-16b218",
+      "shopid": "niiza-16b218-rakutenpay"
+    },
+    {
+      "name": "治療院スマイルLABO",
+      "address": "埼玉県新座市馬場1-4-9",
+      "storeid": "niiza-dff8a9",
+      "shopid": "niiza-dff8a9-rakutenpay"
+    },
+    {
+      "name": "メモリアル　ヨーコー",
+      "address": "埼玉県新座市栗原3-5-15",
+      "storeid": "niiza-84821b",
+      "shopid": "niiza-84821b-rakutenpay"
+    },
+    {
+      "name": "HAPPYTAIL",
+      "address": "埼玉県新座市馬場1-8-11",
+      "storeid": "niiza-8edfe7",
+      "shopid": "niiza-8edfe7-rakutenpay"
+    },
+    {
+      "name": "ケアタクシーひばり",
+      "address": "埼玉県新座市栗原3-5-16",
+      "storeid": "niiza-559e3e",
+      "shopid": "niiza-559e3e-rakutenpay"
+    },
+    {
+      "name": "新座さくら浄苑",
+      "address": "埼玉県新座市馬場4-12-27",
+      "storeid": "niiza-5b82cb",
+      "shopid": "niiza-5b82cb-rakutenpay"
+    },
+    {
+      "name": "白山自動車",
+      "address": "埼玉県新座市馬場4-3-49",
+      "storeid": "niiza-bb098c",
+      "shopid": "niiza-bb098c-rakutenpay"
+    },
+    {
+      "name": "サイクルオペレーション株式会社",
+      "address": "埼玉県新座市畑中1-12-8",
+      "storeid": "niiza-dc8acc",
+      "shopid": "niiza-dc8acc-rakutenpay"
+    },
+    {
+      "name": "なごみの丘霊園",
+      "address": "埼玉県新座市畑中1-16-28",
+      "storeid": "niiza-7316fc",
+      "shopid": "niiza-7316fc-rakutenpay"
+    },
+    {
+      "name": "株式会社タイラ",
+      "address": "埼玉県新座市畑中1-16-43-201",
+      "storeid": "niiza-6460a0",
+      "shopid": "niiza-6460a0-rakutenpay"
+    },
+    {
+      "name": "Garege　MR",
+      "address": "埼玉県新座市畑中2-1-10-C",
+      "storeid": "niiza-e5578b",
+      "shopid": "niiza-e5578b-rakutenpay"
+    },
+    {
+      "name": "ファブリケーター",
+      "address": "埼玉県新座市畑中2-16-43",
+      "storeid": "niiza-d7effb",
+      "shopid": "niiza-d7effb-rakutenpay"
+    },
+    {
+      "name": "シーサー動物病院",
+      "address": "埼玉県新座市畑中2-5-2",
+      "storeid": "niiza-e7252e",
+      "shopid": "niiza-e7252e-rakutenpay"
+    },
+    {
+      "name": "株式会社青木自動車",
+      "address": "埼玉県新座市あたご3-15-11",
+      "storeid": "niiza-c37750",
+      "shopid": "niiza-c37750-rakutenpay"
+    },
+    {
+      "name": "こばやし整体院",
+      "address": "埼玉県新座市栗原5-12-3",
+      "storeid": "niiza-d78d4e",
+      "shopid": "niiza-d78d4e-rakutenpay"
+    },
+    {
+      "name": "ワンモア",
+      "address": "埼玉県新座市栗原5-15-6",
+      "storeid": "niiza-904212",
+      "shopid": "niiza-904212-rakutenpay"
+    },
+    {
+      "name": "にいざ桜並木整体院",
+      "address": "埼玉県新座市本多2-4-1",
+      "storeid": "niiza-763bde",
+      "shopid": "niiza-763bde-rakutenpay"
+    },
+    {
+      "name": "株式会社中村電気",
+      "address": "埼玉県新座市野火止1-14-5",
+      "storeid": "niiza-3f9282",
+      "shopid": "niiza-3f9282-rakutenpay"
+    },
+    {
+      "name": "トランポランド　saitama",
+      "address": "埼玉県新座市野火止3-13-35",
+      "storeid": "niiza-9dc96b",
+      "shopid": "niiza-9dc96b-rakutenpay"
+    },
+    {
+      "name": "route　f　ボルダリングジム",
+      "address": "埼玉県新座市野火止3-5-17",
+      "storeid": "niiza-ab61ea",
+      "shopid": "niiza-ab61ea-rakutenpay"
+    },
+    {
+      "name": "金子自動車工業",
+      "address": "埼玉県新座市野火止6-3-15",
+      "storeid": "niiza-a44fa2",
+      "shopid": "niiza-a44fa2-rakutenpay"
+    },
+    {
+      "name": "Factory　Kondo",
+      "address": "埼玉県新座市野火止6-8-14",
+      "storeid": "niiza-0b238e",
+      "shopid": "niiza-0b238e-rakutenpay"
+    },
+    {
+      "name": "新座市ネイルサロン―merci",
+      "address": "埼玉県新座市野火止7-16-11ベルググランデ志木南205",
+      "storeid": "niiza-456996",
+      "shopid": "niiza-456996-rakutenpay"
+    },
+    {
+      "name": "モトショップ　ドゥーテック",
+      "address": "埼玉県新座市野寺2-8-44",
+      "storeid": "niiza-f85482",
+      "shopid": "niiza-f85482-rakutenpay"
+    },
+    {
+      "name": "介護タクシーMAY　SUPPORTCAB",
+      "address": "埼玉県新座市野寺3-3-9",
+      "storeid": "niiza-6673cd",
+      "shopid": "niiza-6673cd-rakutenpay"
+    },
+    {
+      "name": "ペットサロンハニー新座店",
+      "address": "埼玉県新座市野寺4-11-17",
+      "storeid": "niiza-a19613",
+      "shopid": "niiza-a19613-rakutenpay"
+    },
+    {
+      "name": "ペットフレンドアーサー",
+      "address": "埼玉県新座市新座2-17-7",
+      "storeid": "niiza-10fa94",
+      "shopid": "niiza-10fa94-rakutenpay"
+    }
+  ],
+  "食品小売": [
+    {
+      "name": "まごころ弁当　朝霞店",
+      "address": "埼玉県新座市新座2-2-7",
+      "storeid": "niiza-f57aa3",
+      "shopid": "niiza-f57aa3-rakutenpay"
+    },
+    {
+      "name": "鳥七精肉店",
+      "address": "埼玉県新座市新座3-3-20-104",
+      "storeid": "niiza-d611db",
+      "shopid": "niiza-d611db-rakutenpay"
+    },
+    {
+      "name": "Bon　kitchen",
+      "address": "埼玉県新座市石神2-4-8 鈴木ビル200号",
+      "storeid": "niiza-0ccd67",
+      "shopid": "niiza-0ccd67-rakutenpay"
+    },
+    {
+      "name": "いちごのパラム",
+      "address": "埼玉県新座市菅沢1-13",
+      "storeid": "niiza-77a811",
+      "shopid": "niiza-77a811-rakutenpay"
+    },
+    {
+      "name": "有限会社マルコー食品",
+      "address": "埼玉県新座市菅沢1-8-56",
+      "storeid": "niiza-2773ae",
+      "shopid": "niiza-2773ae-rakutenpay"
+    },
+    {
+      "name": "フジショップ",
+      "address": "埼玉県新座市菅沢2-1-28 学生ホール",
+      "storeid": "niiza-8ee5da",
+      "shopid": "niiza-8ee5da-rakutenpay"
+    },
+    {
+      "name": "Vitamin　quehuong",
+      "address": "埼玉県新座市大和田1-18-1",
+      "storeid": "niiza-bb97a0",
+      "shopid": "niiza-bb97a0-rakutenpay"
+    },
+    {
+      "name": "新座クラフト",
+      "address": "埼玉県新座市大和田3-4-50",
+      "storeid": "niiza-a38b10",
+      "shopid": "niiza-a38b10-rakutenpay"
+    },
+    {
+      "name": "新座餃子製作所　ごち魂",
+      "address": "埼玉県新座市馬場4-8-41クレセントヒルズ1F",
+      "storeid": "niiza-da246b",
+      "shopid": "niiza-da246b-rakutenpay"
+    },
+    {
+      "name": "村上朝日製麺所",
+      "address": "埼玉県新座市池田3-3-20",
+      "storeid": "niiza-5365de",
+      "shopid": "niiza-5365de-rakutenpay"
+    },
+    {
+      "name": "銘茶問屋　内田園",
+      "address": "埼玉県新座市東北1-3-28",
+      "storeid": "niiza-d96f65",
+      "shopid": "niiza-d96f65-rakutenpay"
+    },
+    {
+      "name": "まきた精肉店",
+      "address": "埼玉県新座市栄4-6-41",
+      "storeid": "niiza-217a1b",
+      "shopid": "niiza-217a1b-rakutenpay"
+    },
+    {
+      "name": "コピティアム珈琲店",
+      "address": "埼玉県新座市片山2-9-8",
+      "storeid": "niiza-cd813e",
+      "shopid": "niiza-cd813e-rakutenpay"
+    },
+    {
+      "name": "ブーランジェリー　ク・ブランシュ",
+      "address": "埼玉県新座市東北2-34-19",
+      "storeid": "niiza-37ff19",
+      "shopid": "niiza-37ff19-rakutenpay"
+    },
+    {
+      "name": "虎鷺羅（ときーら）",
+      "address": "埼玉県新座市石神3-17-19中村ビル",
+      "storeid": "niiza-c757f6",
+      "shopid": "niiza-c757f6-rakutenpay"
+    },
+    {
+      "name": "スーパートヨダ　０２",
+      "address": "埼玉県新座市石神3-10-34",
+      "storeid": "niiza-e6a4fd",
+      "shopid": "niiza-e6a4fd-rakutenpay"
+    },
+    {
+      "name": "浅草菓子まつり",
+      "address": "埼玉県新座市馬場4-5-5",
+      "storeid": "niiza-b75559",
+      "shopid": "niiza-b75559-rakutenpay"
+    },
+    {
+      "name": "今日はおむすびの日",
+      "address": "埼玉県新座市東北1-1-3リスブランド志木102",
+      "storeid": "niiza-12fe28",
+      "shopid": "niiza-12fe28-rakutenpay"
+    },
+    {
+      "name": "SAIGON　FOOD",
+      "address": "埼玉県新座市東北2-40-5 小原澤ビル1階",
+      "storeid": "niiza-2bbe95",
+      "shopid": "niiza-2bbe95-rakutenpay"
+    },
+    {
+      "name": "まどのパン",
+      "address": "埼玉県新座市馬場1-8-11",
+      "storeid": "niiza-6cebd7",
+      "shopid": "niiza-6cebd7-rakutenpay"
+    },
+    {
+      "name": "お菓子屋さん　　はる",
+      "address": "埼玉県新座市畑中1-16-45",
+      "storeid": "niiza-fdb606",
+      "shopid": "niiza-fdb606-rakutenpay"
+    },
+    {
+      "name": "弁天堂",
+      "address": "埼玉県新座市片山1-1-30",
+      "storeid": "niiza-15cf4d",
+      "shopid": "niiza-15cf4d-rakutenpay"
+    },
+    {
+      "name": "BACH　ANH　MART",
+      "address": "埼玉県新座市片山1-9-17グレイスコーポ片山101",
+      "storeid": "niiza-70877a",
+      "shopid": "niiza-70877a-rakutenpay"
+    },
+    {
+      "name": "カタニデベーカリー",
+      "address": "埼玉県新座市片山2-11-24",
+      "storeid": "niiza-1773e2",
+      "shopid": "niiza-1773e2-rakutenpay"
+    },
+    {
+      "name": "お弁当わかば",
+      "address": "埼玉県新座市北野3-3-3",
+      "storeid": "niiza-8b1750",
+      "shopid": "niiza-8b1750-rakutenpay"
+    },
+    {
+      "name": "咲楽",
+      "address": "埼玉県新座市本多1-16-1-401",
+      "storeid": "niiza-f6fd61",
+      "shopid": "niiza-f6fd61-rakutenpay"
+    },
+    {
+      "name": "チキチキメンチ",
+      "address": "埼玉県新座市野火止1-14-10",
+      "storeid": "niiza-218df0",
+      "shopid": "niiza-218df0-rakutenpay"
+    },
+    {
+      "name": "こむぴさんりわか",
+      "address": "埼玉県新座市野火止3-7-23",
+      "storeid": "niiza-a96fc1",
+      "shopid": "niiza-a96fc1-rakutenpay"
+    },
+    {
+      "name": "ナチュラルポークリンク",
+      "address": "埼玉県新座市野火止4-13-11",
+      "storeid": "niiza-2f7872",
+      "shopid": "niiza-2f7872-rakutenpay"
+    },
+    {
+      "name": "ベビーカステラ専門店　コロコロ",
+      "address": "埼玉県新座市野火止5-2-10 CKスクエア新座6階",
+      "storeid": "niiza-ffa9e9",
+      "shopid": "niiza-ffa9e9-rakutenpay"
+    },
+    {
+      "name": "JAあさか野　新座農産物直売センター",
+      "address": "埼玉県新座市野火止6-1-48 ふるさと新座館 1階",
+      "storeid": "niiza-4a18f6",
+      "shopid": "niiza-4a18f6-rakutenpay"
+    },
+    {
+      "name": "団子屋おざわ",
+      "address": "埼玉県新座市野火止6-24-20",
+      "storeid": "niiza-be92ee",
+      "shopid": "niiza-be92ee-rakutenpay"
+    },
+    {
+      "name": "LIQUOR　Yoshida",
+      "address": "埼玉県新座市野火止7-4-32",
+      "storeid": "niiza-dc3cc9",
+      "shopid": "niiza-dc3cc9-rakutenpay"
+    },
+    {
+      "name": "野澤精肉店",
+      "address": "埼玉県新座市野寺1-6-151戸建て",
+      "storeid": "niiza-cf9158",
+      "shopid": "niiza-cf9158-rakutenpay"
+    },
+    {
+      "name": "PATISSERIEHarikot",
+      "address": "埼玉県新座市野寺3-9-17",
+      "storeid": "niiza-fa8055",
+      "shopid": "niiza-fa8055-rakutenpay"
+    }
+  ],
+  "その他小売": [
+    {
+      "name": "サイクルステーションさんぺい",
+      "address": "埼玉県新座市栄4-5-38",
+      "storeid": "niiza-ddf24a",
+      "shopid": "niiza-ddf24a-rakutenpay"
+    },
+    {
+      "name": "ファンシー",
+      "address": "埼玉県新座市栗原2-4-34ハイムK2 1階",
+      "storeid": "niiza-d66c0e",
+      "shopid": "niiza-d66c0e-rakutenpay"
+    },
+    {
+      "name": "リサイクルブティックこんね",
+      "address": "埼玉県新座市栗原5-10-14",
+      "storeid": "niiza-5cfe9d",
+      "shopid": "niiza-5cfe9d-rakutenpay"
+    },
+    {
+      "name": "gallery＆interiorPorte",
+      "address": "埼玉県新座市新座2-3-10-101",
+      "storeid": "niiza-247d5e",
+      "shopid": "niiza-247d5e-rakutenpay"
+    },
+    {
+      "name": "ハリゾウ310",
+      "address": "埼玉県新座市新堀1-7-39",
+      "storeid": "niiza-620a94",
+      "shopid": "niiza-620a94-rakutenpay"
+    },
+    {
+      "name": "ガラス工房　ドラゴンパイプ",
+      "address": "埼玉県新座市新堀2-14-38",
+      "storeid": "niiza-396de0",
+      "shopid": "niiza-396de0-rakutenpay"
+    },
+    {
+      "name": "山口モーターサイクル",
+      "address": "埼玉県新座市西堀2-9-21",
+      "storeid": "niiza-efbc7f",
+      "shopid": "niiza-efbc7f-rakutenpay"
+    },
+    {
+      "name": "横山自動車販売（株）販売センター",
+      "address": "埼玉県新座市新堀3-7-12",
+      "storeid": "niiza-cd6da6",
+      "shopid": "niiza-cd6da6-rakutenpay"
+    },
+    {
+      "name": "Pilot　Bird",
+      "address": "埼玉県新座市東北2-19-11",
+      "storeid": "niiza-a14311",
+      "shopid": "niiza-a14311-rakutenpay"
+    },
+    {
+      "name": "TYLER",
+      "address": "埼玉県新座市菅沢1-8-56",
+      "storeid": "niiza-d6becb",
+      "shopid": "niiza-d6becb-rakutenpay"
+    },
+    {
+      "name": "GRAND　GARAGE",
+      "address": "埼玉県新座市菅沢2-5-1",
+      "storeid": "niiza-2981a2",
+      "shopid": "niiza-2981a2-rakutenpay"
+    },
+    {
+      "name": "パティオ新座店",
+      "address": "埼玉県新座市西堀3-2-21",
+      "storeid": "niiza-06ae78",
+      "shopid": "niiza-06ae78-rakutenpay"
+    },
+    {
+      "name": "キングファミリー新座店",
+      "address": "埼玉県新座市馬場3-1-40",
+      "storeid": "niiza-7088c4",
+      "shopid": "niiza-7088c4-rakutenpay"
+    },
+    {
+      "name": "リサイクルメディア館 新座店",
+      "address": "埼玉県新座市畑中1-13-1畑中ビル1階",
+      "storeid": "niiza-5b3323",
+      "shopid": "niiza-5b3323-rakutenpay"
+    },
+    {
+      "name": "シザーズプライム",
+      "address": "埼玉県新座市石神2-10-37",
+      "storeid": "niiza-bddd93",
+      "shopid": "niiza-bddd93-rakutenpay"
+    },
+    {
+      "name": "UNCOMMON　LOUNGE",
+      "address": "埼玉県新座市北野3-13-10-101",
+      "storeid": "niiza-511e07",
+      "shopid": "niiza-511e07-rakutenpay"
+    },
+    {
+      "name": "株式会社メンズアメリカン",
+      "address": "埼玉県新座市石神3-17-19",
+      "storeid": "niiza-c67c92",
+      "shopid": "niiza-c67c92-rakutenpay"
+    },
+    {
+      "name": "文教堂新座駅店",
+      "address": "埼玉県新座市野火止5-3-11",
+      "storeid": "niiza-4a4f4c",
+      "shopid": "niiza-4a4f4c-rakutenpay"
+    },
+    {
+      "name": "taapshop（イベント）",
+      "address": "埼玉県新座市栄4-6-19",
+      "storeid": "niiza-221d44",
+      "shopid": "niiza-221d44-rakutenpay"
+    },
+    {
+      "name": "化粧品の店マーガレット",
+      "address": "埼玉県新座市栗原5-6-26",
+      "storeid": "niiza-6008af",
+      "shopid": "niiza-6008af-rakutenpay"
+    },
+    {
+      "name": "HondaCars新座中古車センター",
+      "address": "埼玉県新座市大和田2-5-4",
+      "storeid": "niiza-55b9b3",
+      "shopid": "niiza-55b9b3-rakutenpay"
+    },
+    {
+      "name": "Peta＊Story",
+      "address": "埼玉県新座市片山3-5-5",
+      "storeid": "niiza-eb9475",
+      "shopid": "niiza-eb9475-rakutenpay"
+    },
+    {
+      "name": "Panasonic shop　北原電化センター",
+      "address": "埼玉県新座市大和田5-10-1",
+      "storeid": "niiza-80b9d5",
+      "shopid": "niiza-80b9d5-rakutenpay"
+    },
+    {
+      "name": "ひとモノショップ",
+      "address": "埼玉県新座市堀ノ内3-7-31",
+      "storeid": "niiza-700fa3",
+      "shopid": "niiza-700fa3-rakutenpay"
+    },
+    {
+      "name": "カーライフ事業部",
+      "address": "埼玉県新座市堀ノ内3-8-31",
+      "storeid": "niiza-942f08",
+      "shopid": "niiza-942f08-rakutenpay"
+    },
+    {
+      "name": "有限会社保崎タイヤ商会 VIVO",
+      "address": "埼玉県新座市野火止8-5-15",
+      "storeid": "niiza-e9077d",
+      "shopid": "niiza-e9077d-rakutenpay"
+    },
+    {
+      "name": "オートプランニング",
+      "address": "埼玉県新座市野寺2-19-22",
+      "storeid": "niiza-8c5e90",
+      "shopid": "niiza-8c5e90-rakutenpay"
+    },
+    {
+      "name": "セブン・スリー",
+      "address": "埼玉県新座市池田2-4-21",
+      "storeid": "niiza-626722",
+      "shopid": "niiza-626722-rakutenpay"
+    },
+    {
+      "name": "株式会社 リプロ",
+      "address": "埼玉県新座市中野1-16-3",
+      "storeid": "niiza-354d50",
+      "shopid": "niiza-354d50-rakutenpay"
+    },
+    {
+      "name": "GOODCAR’S",
+      "address": "埼玉県新座市中野1-2834-1",
+      "storeid": "niiza-64c40b",
+      "shopid": "niiza-64c40b-rakutenpay"
+    },
+    {
+      "name": "花匠　大泉学園店",
+      "address": "埼玉県新座市栄4-1-26いなげや大泉学園店内",
+      "storeid": "niiza-2f7876",
+      "shopid": "niiza-2f7876-rakutenpay"
+    },
+    {
+      "name": "フラワーショップLuce",
+      "address": "埼玉県新座市東3-1-1",
+      "storeid": "niiza-1fcd10",
+      "shopid": "niiza-1fcd10-rakutenpay"
+    },
+    {
+      "name": "プラスワン・コバヤシ",
+      "address": "埼玉県新座市東3-19-14",
+      "storeid": "niiza-9740d9",
+      "shopid": "niiza-9740d9-rakutenpay"
+    },
+    {
+      "name": "E-CAT",
+      "address": "埼玉県新座市あたご2-2-6",
+      "storeid": "niiza-b253dd",
+      "shopid": "niiza-b253dd-rakutenpay"
+    },
+    {
+      "name": "社会福祉法人　埼玉福祉会",
+      "address": "埼玉県新座市堀ノ内3-7-31",
+      "storeid": "niiza-4578ee",
+      "shopid": "niiza-4578ee-rakutenpay"
+    },
+    {
+      "name": "パシフィックベビー",
+      "address": "埼玉県新座市栄4-2-24",
+      "storeid": "niiza-ca0e15",
+      "shopid": "niiza-ca0e15-rakutenpay"
+    },
+    {
+      "name": "星野衣料店",
+      "address": "埼玉県新座市東北1-9-2",
+      "storeid": "niiza-ffc20c",
+      "shopid": "niiza-ffc20c-rakutenpay"
+    },
+    {
+      "name": "セオサイクル　志木店",
+      "address": "埼玉県新座市東北2-27-18",
+      "storeid": "niiza-f0d644",
+      "shopid": "niiza-f0d644-rakutenpay"
+    },
+    {
+      "name": "ココ志木店",
+      "address": "埼玉県新座市東北2-29-6",
+      "storeid": "niiza-91bf94",
+      "shopid": "niiza-91bf94-rakutenpay"
+    },
+    {
+      "name": "シナノヤ栄店",
+      "address": "埼玉県新座市栄4-7-1",
+      "storeid": "niiza-e15c22",
+      "shopid": "niiza-e15c22-rakutenpay"
+    },
+    {
+      "name": "フローラル仲花苑",
+      "address": "埼玉県新座市栄4-7-3",
+      "storeid": "niiza-04e9e9",
+      "shopid": "niiza-04e9e9-rakutenpay"
+    },
+    {
+      "name": "フローリスト石原マリアージュ店",
+      "address": "埼玉県新座市東北2-26-10 埼玉県新座市東北2-26-10大竹ハイツ104号室",
+      "storeid": "niiza-29398a",
+      "shopid": "niiza-29398a-rakutenpay"
+    },
+    {
+      "name": "自家焙煎吉本",
+      "address": "埼玉県新座市石神4-7-15",
+      "storeid": "niiza-2549ce",
+      "shopid": "niiza-2549ce-rakutenpay"
+    },
+    {
+      "name": "アキタフローリスト",
+      "address": "埼玉県新座市東北2-39-24",
+      "storeid": "niiza-b31048",
+      "shopid": "niiza-b31048-rakutenpay"
+    },
+    {
+      "name": "スープと煮込みで幸せに",
+      "address": "埼玉県新座市東北2-14-7-102 秋桜39",
+      "storeid": "niiza-b01ff2",
+      "shopid": "niiza-b01ff2-rakutenpay"
+    },
+    {
+      "name": "テッツオート",
+      "address": "埼玉県新座市あたご3-13-19",
+      "storeid": "niiza-02caeb",
+      "shopid": "niiza-02caeb-rakutenpay"
+    },
+    {
+      "name": "榎本洋蘭園",
+      "address": "埼玉県新座市馬場3-9-5",
+      "storeid": "niiza-45a9f3",
+      "shopid": "niiza-45a9f3-rakutenpay"
+    },
+    {
+      "name": "FUNNY",
+      "address": "埼玉県新座市馬場4-11-44",
+      "storeid": "niiza-6debaa",
+      "shopid": "niiza-6debaa-rakutenpay"
+    },
+    {
+      "name": "フィッシングショップレインボー",
+      "address": "埼玉県新座市馬場4-7-29",
+      "storeid": "niiza-5a9f4a",
+      "shopid": "niiza-5a9f4a-rakutenpay"
+    },
+    {
+      "name": "株式会社正木自販",
+      "address": "埼玉県新座市畑中1-14-1",
+      "storeid": "niiza-ad17df",
+      "shopid": "niiza-ad17df-rakutenpay"
+    },
+    {
+      "name": "meiku",
+      "address": "埼玉県新座市畑中1-15-55",
+      "storeid": "niiza-d236ba",
+      "shopid": "niiza-d236ba-rakutenpay"
+    },
+    {
+      "name": "結びの里",
+      "address": "埼玉県新座市畑中2-14-8",
+      "storeid": "niiza-39d0b4",
+      "shopid": "niiza-39d0b4-rakutenpay"
+    },
+    {
+      "name": "旭塗販株式会社",
+      "address": "埼玉県新座市畑中2-6-28",
+      "storeid": "niiza-cc11bc",
+      "shopid": "niiza-cc11bc-rakutenpay"
+    },
+    {
+      "name": "ドリームシェアアトリエリカー",
+      "address": "埼玉県新座市片山1-12-17",
+      "storeid": "niiza-4f3602",
+      "shopid": "niiza-4f3602-rakutenpay"
+    },
+    {
+      "name": "ぬくい",
+      "address": "埼玉県新座市片山1-9-5",
+      "storeid": "niiza-0da126",
+      "shopid": "niiza-0da126-rakutenpay"
+    },
+    {
+      "name": "エコー電化サービス",
+      "address": "埼玉県新座市野火止1-13-47",
+      "storeid": "niiza-4fc2cc",
+      "shopid": "niiza-4fc2cc-rakutenpay"
+    },
+    {
+      "name": "シナノヤ野火止店",
+      "address": "埼玉県新座市野火止1-14-11",
+      "storeid": "niiza-177a83",
+      "shopid": "niiza-177a83-rakutenpay"
+    },
+    {
+      "name": "アトリエメイデン",
+      "address": "埼玉県新座市野火止3-12-44",
+      "storeid": "niiza-de9b88",
+      "shopid": "niiza-de9b88-rakutenpay"
+    },
+    {
+      "name": "野火止ベース",
+      "address": "埼玉県新座市野火止3-2-7",
+      "storeid": "niiza-4ea850",
+      "shopid": "niiza-4ea850-rakutenpay"
+    },
+    {
+      "name": "神蔵ーKAGURAー",
+      "address": "埼玉県新座市野火止3-9-5",
+      "storeid": "niiza-cf4108",
+      "shopid": "niiza-cf4108-rakutenpay"
+    },
+    {
+      "name": "HondaCars坂戸　U―select志木",
+      "address": "埼玉県新座市野火止5-6-8",
+      "storeid": "niiza-04c90f",
+      "shopid": "niiza-04c90f-rakutenpay"
+    },
+    {
+      "name": "スーパークラフト",
+      "address": "埼玉県新座市野火止6-15-32",
+      "storeid": "niiza-9f5c0f",
+      "shopid": "niiza-9f5c0f-rakutenpay"
+    },
+    {
+      "name": "ひまわり画材",
+      "address": "埼玉県新座市野火止6-2-19",
+      "storeid": "niiza-4c35be",
+      "shopid": "niiza-4c35be-rakutenpay"
+    },
+    {
+      "name": "お花屋さんFLOWER　SHOP　EDDY",
+      "address": "埼玉県新座市野火止7-10-61",
+      "storeid": "niiza-9377fc",
+      "shopid": "niiza-9377fc-rakutenpay"
+    },
+    {
+      "name": "石山自動車",
+      "address": "埼玉県新座市野火止7-10-66",
+      "storeid": "niiza-66d49f",
+      "shopid": "niiza-66d49f-rakutenpay"
+    },
+    {
+      "name": "HondaCars坂戸　新座店",
+      "address": "埼玉県新座市野火止7-4-6",
+      "storeid": "niiza-632459",
+      "shopid": "niiza-632459-rakutenpay"
+    },
+    {
+      "name": "エムオートサービス",
+      "address": "埼玉県新座市野火止7-4-8",
+      "storeid": "niiza-b24e32",
+      "shopid": "niiza-b24e32-rakutenpay"
+    },
+    {
+      "name": "ガレージ裕",
+      "address": "埼玉県新座市栗原6-3-1",
+      "storeid": "niiza-0de34a",
+      "shopid": "niiza-0de34a-rakutenpay"
+    },
+    {
+      "name": "あさかわカンパニー",
+      "address": "埼玉県新座市野火止8-16-11",
+      "storeid": "niiza-e5baf6",
+      "shopid": "niiza-e5baf6-rakutenpay"
+    },
+    {
+      "name": "タイヤガーデンRITMO",
+      "address": "埼玉県新座市野寺1-5-12",
+      "storeid": "niiza-1f361f",
+      "shopid": "niiza-1f361f-rakutenpay"
+    },
+    {
+      "name": "cycleshop　NRC",
+      "address": "埼玉県新座市野寺4-8-30",
+      "storeid": "niiza-78bc6d",
+      "shopid": "niiza-78bc6d-rakutenpay"
+    }
+  ],
+  "飲食店": [
+    {
+      "name": "MASSA　CARNE",
+      "address": "埼玉県新座市栄5-12-1MASSACARNE",
+      "storeid": "niiza-2feed9",
+      "shopid": "niiza-2feed9-rakutenpay"
+    },
+    {
+      "name": "焼肉　金松",
+      "address": "埼玉県新座市あたご3-7-19",
+      "storeid": "niiza-7c5f39",
+      "shopid": "niiza-7c5f39-rakutenpay"
+    },
+    {
+      "name": "江川亭 新座店",
+      "address": "埼玉県新座市西堀3-3-22",
+      "storeid": "niiza-9c9f2d",
+      "shopid": "niiza-9c9f2d-rakutenpay"
+    },
+    {
+      "name": "新座 玉寿司",
+      "address": "埼玉県新座市あたご3-7-3",
+      "storeid": "niiza-4998ac",
+      "shopid": "niiza-4998ac-rakutenpay"
+    },
+    {
+      "name": "KIMAMA　Bar",
+      "address": "埼玉県新座市大和田5-5-26",
+      "storeid": "niiza-ce7bbb",
+      "shopid": "niiza-ce7bbb-rakutenpay"
+    },
+    {
+      "name": "NAベトナム料理店",
+      "address": "埼玉県新座市新堀3-2-2 松下マンション1階",
+      "storeid": "niiza-bc053c",
+      "shopid": "niiza-bc053c-rakutenpay"
+    },
+    {
+      "name": "居酒屋nobu",
+      "address": "埼玉県新座市東北2-14-22 第二グリーンコーポ地下1階",
+      "storeid": "niiza-71c490",
+      "shopid": "niiza-71c490-rakutenpay"
+    },
+    {
+      "name": "BarJugem",
+      "address": "埼玉県新座市東北2-17-5",
+      "storeid": "niiza-d0eb26",
+      "shopid": "niiza-d0eb26-rakutenpay"
+    },
+    {
+      "name": "カフェアンドバル　スケッチー",
+      "address": "埼玉県新座市東北2-30-25パル8街3階",
+      "storeid": "niiza-dd8a39",
+      "shopid": "niiza-dd8a39-rakutenpay"
+    },
+    {
+      "name": "台湾料理　味来",
+      "address": "埼玉県新座市東北2-31-3ロイヤルハナノ101",
+      "storeid": "niiza-7646cf",
+      "shopid": "niiza-7646cf-rakutenpay"
+    },
+    {
+      "name": "おうげん　志木店",
+      "address": "埼玉県新座市東北2-39-24サンモール桐1F",
+      "storeid": "niiza-4571e7",
+      "shopid": "niiza-4571e7-rakutenpay"
+    },
+    {
+      "name": "ちゅり",
+      "address": "埼玉県新座市北野3-2-12 101",
+      "storeid": "niiza-ef19f5",
+      "shopid": "niiza-ef19f5-rakutenpay"
+    },
+    {
+      "name": "釜めし くさま",
+      "address": "埼玉県新座市石神3-7-5",
+      "storeid": "niiza-874a1b",
+      "shopid": "niiza-874a1b-rakutenpay"
+    },
+    {
+      "name": "Chez　miya",
+      "address": "埼玉県新座市栄3-1-26",
+      "storeid": "niiza-62a707",
+      "shopid": "niiza-62a707-rakutenpay"
+    },
+    {
+      "name": "カフェブリッコ新座店",
+      "address": "埼玉県新座市大和田2-6-32",
+      "storeid": "niiza-5e62bd",
+      "shopid": "niiza-5e62bd-rakutenpay"
+    },
+    {
+      "name": "けむり家六九番",
+      "address": "埼玉県新座市あたご2-2-16",
+      "storeid": "niiza-3dab68",
+      "shopid": "niiza-3dab68-rakutenpay"
+    },
+    {
+      "name": "うどんや藤",
+      "address": "埼玉県新座市道場1-12-20",
+      "storeid": "niiza-e7d393",
+      "shopid": "niiza-e7d393-rakutenpay"
+    },
+    {
+      "name": "和風スナック純",
+      "address": "埼玉県新座市東北2-24-24ツブラヤビル101",
+      "storeid": "niiza-b204fe",
+      "shopid": "niiza-b204fe-rakutenpay"
+    },
+    {
+      "name": "鮨diningあいざわ",
+      "address": "埼玉県新座市東北2-26-11かきの木マンション101",
+      "storeid": "niiza-9c1bc7",
+      "shopid": "niiza-9c1bc7-rakutenpay"
+    },
+    {
+      "name": "Lapis・lazuli",
+      "address": "埼玉県新座市東北2-30-11第十みずほ館B1",
+      "storeid": "niiza-a185bb",
+      "shopid": "niiza-a185bb-rakutenpay"
+    },
+    {
+      "name": "スナックほのぼの",
+      "address": "埼玉県新座市東北2-30-7プルミエ－ル志木4階",
+      "storeid": "niiza-ee9549",
+      "shopid": "niiza-ee9549-rakutenpay"
+    },
+    {
+      "name": "旬鮮酒場　Dank",
+      "address": "埼玉県新座市東北2-31-10ベルフレール駅前ビルB1",
+      "storeid": "niiza-d3cea6",
+      "shopid": "niiza-d3cea6-rakutenpay"
+    },
+    {
+      "name": "焼きとりつるや志木店",
+      "address": "埼玉県新座市東北2-31-12",
+      "storeid": "niiza-069c26",
+      "shopid": "niiza-069c26-rakutenpay"
+    },
+    {
+      "name": "米と葡萄　gusto",
+      "address": "埼玉県新座市東北2-31-3ロイヤル花野B1",
+      "storeid": "niiza-b42209",
+      "shopid": "niiza-b42209-rakutenpay"
+    },
+    {
+      "name": "肉居酒屋　どらごんぼーる",
+      "address": "埼玉県新座市東北2-31-7000鶴ビル1F",
+      "storeid": "niiza-9f29c9",
+      "shopid": "niiza-9f29c9-rakutenpay"
+    },
+    {
+      "name": "Cafe　＆　Bar　ALES",
+      "address": "埼玉県新座市東北2-31-7000鶴ビルB1F",
+      "storeid": "niiza-741987",
+      "shopid": "niiza-741987-rakutenpay"
+    },
+    {
+      "name": "PartyGirl",
+      "address": "埼玉県新座市東北2-35-5中島ビル1F",
+      "storeid": "niiza-568682",
+      "shopid": "niiza-568682-rakutenpay"
+    },
+    {
+      "name": "BAR　Eden",
+      "address": "埼玉県新座市東北2-37-17 アーバンポイント志木601",
+      "storeid": "niiza-eef12e",
+      "shopid": "niiza-eef12e-rakutenpay"
+    },
+    {
+      "name": "6月のロータス",
+      "address": "埼玉県新座市中野1-16-3",
+      "storeid": "niiza-272144",
+      "shopid": "niiza-272144-rakutenpay"
+    },
+    {
+      "name": "そば処柿屋",
+      "address": "埼玉県新座市中野2-10-19",
+      "storeid": "niiza-32245c",
+      "shopid": "niiza-32245c-rakutenpay"
+    },
+    {
+      "name": "王朝飯店",
+      "address": "埼玉県新座市中野2-4-48",
+      "storeid": "niiza-787042",
+      "shopid": "niiza-787042-rakutenpay"
+    },
+    {
+      "name": "やきとん葵新座店",
+      "address": "埼玉県新座市野火止5-2-13新座かけはしビル1F",
+      "storeid": "niiza-45e057",
+      "shopid": "niiza-45e057-rakutenpay"
+    },
+    {
+      "name": "ME　LINH　QUAN",
+      "address": "埼玉県新座市東北2-39-7 生光商事ビル201B",
+      "storeid": "niiza-c7bb6e",
+      "shopid": "niiza-c7bb6e-rakutenpay"
+    },
+    {
+      "name": "BAR　30　sanmaru",
+      "address": "埼玉県新座市東北1-11-2",
+      "storeid": "niiza-63c875",
+      "shopid": "niiza-63c875-rakutenpay"
+    },
+    {
+      "name": "BUGSY",
+      "address": "埼玉県新座市東北1-14-1志幸ホーム30SEASON104",
+      "storeid": "niiza-39a7d1",
+      "shopid": "niiza-39a7d1-rakutenpay"
+    },
+    {
+      "name": "居酒屋JINYA",
+      "address": "埼玉県新座市東北2-31-7",
+      "storeid": "niiza-5eb2a5",
+      "shopid": "niiza-5eb2a5-rakutenpay"
+    },
+    {
+      "name": "炉端ト酒 舌心",
+      "address": "埼玉県新座市東北1-14-1",
+      "storeid": "niiza-764006",
+      "shopid": "niiza-764006-rakutenpay"
+    },
+    {
+      "name": "橋もと",
+      "address": "埼玉県新座市東北1-6-39",
+      "storeid": "niiza-ac4c83",
+      "shopid": "niiza-ac4c83-rakutenpay"
+    },
+    {
+      "name": "旬彩と酒　則季屋",
+      "address": "埼玉県新座市東北1-8-17 T．ファーストコモンズ 103",
+      "storeid": "niiza-44fced",
+      "shopid": "niiza-44fced-rakutenpay"
+    },
+    {
+      "name": "チャングム",
+      "address": "埼玉県新座市東北2-12-7 プルミエ102",
+      "storeid": "niiza-c75951",
+      "shopid": "niiza-c75951-rakutenpay"
+    },
+    {
+      "name": "参寸胴",
+      "address": "埼玉県新座市東北2-13-24 1F",
+      "storeid": "niiza-be0ba2",
+      "shopid": "niiza-be0ba2-rakutenpay"
+    },
+    {
+      "name": "和食のお店せきね",
+      "address": "埼玉県新座市東北2-1-4",
+      "storeid": "niiza-0f7c48",
+      "shopid": "niiza-0f7c48-rakutenpay"
+    },
+    {
+      "name": "marmite",
+      "address": "埼玉県新座市東北2-14-17",
+      "storeid": "niiza-018ccb",
+      "shopid": "niiza-018ccb-rakutenpay"
+    },
+    {
+      "name": "酒彩めしや",
+      "address": "埼玉県新座市東北2-17-5",
+      "storeid": "niiza-2c5ba0",
+      "shopid": "niiza-2c5ba0-rakutenpay"
+    },
+    {
+      "name": "cafebarMoose",
+      "address": "埼玉県新座市東北2-19-11若林ビル 202",
+      "storeid": "niiza-50f143",
+      "shopid": "niiza-50f143-rakutenpay"
+    },
+    {
+      "name": "中国酒家　蘭亭",
+      "address": "埼玉県新座市栄4-5-1",
+      "storeid": "niiza-d84fc4",
+      "shopid": "niiza-d84fc4-rakutenpay"
+    },
+    {
+      "name": "村さ来　志木店",
+      "address": "埼玉県新座市東北2-24-20",
+      "storeid": "niiza-9437b3",
+      "shopid": "niiza-9437b3-rakutenpay"
+    },
+    {
+      "name": "小料理　いち岡",
+      "address": "埼玉県新座市栄4-5-33",
+      "storeid": "niiza-1f07e9",
+      "shopid": "niiza-1f07e9-rakutenpay"
+    },
+    {
+      "name": "谷島屋",
+      "address": "埼玉県新座市東北2-29-22 103",
+      "storeid": "niiza-5b9f1a",
+      "shopid": "niiza-5b9f1a-rakutenpay"
+    },
+    {
+      "name": "炭火焼みっちゃん",
+      "address": "埼玉県新座市東北2-29-22",
+      "storeid": "niiza-d64b94",
+      "shopid": "niiza-d64b94-rakutenpay"
+    },
+    {
+      "name": "イツキ　ザ　ホルモン",
+      "address": "埼玉県新座市東北2-29-6",
+      "storeid": "niiza-21f653",
+      "shopid": "niiza-21f653-rakutenpay"
+    },
+    {
+      "name": "牛繁　志木店",
+      "address": "埼玉県新座市東北2-30-21 TAIRAYA志木2F",
+      "storeid": "niiza-311095",
+      "shopid": "niiza-311095-rakutenpay"
+    },
+    {
+      "name": "9XQUAN",
+      "address": "埼玉県新座市東北2-30-25北野尾崎共同ビル（バル8街）RC 店舗 4階-5号室",
+      "storeid": "niiza-f5c415",
+      "shopid": "niiza-f5c415-rakutenpay"
+    },
+    {
+      "name": "BarFamily",
+      "address": "埼玉県新座市東北2-17-5 2階埼玉県 新座市 東北 2-17-5 2階",
+      "storeid": "niiza-2e220a",
+      "shopid": "niiza-2e220a-rakutenpay"
+    },
+    {
+      "name": "ヒマラヤレストラン酒場",
+      "address": "埼玉県新座市東北2-30-25 花野・尾崎共同ビル（パル8街）B1F",
+      "storeid": "niiza-278506",
+      "shopid": "niiza-278506-rakutenpay"
+    },
+    {
+      "name": "風風ラーメン志木南口店",
+      "address": "埼玉県新座市東北2-30-26 三上ビル10A号",
+      "storeid": "niiza-dcc3a7",
+      "shopid": "niiza-dcc3a7-rakutenpay"
+    },
+    {
+      "name": "宇宙飯店",
+      "address": "埼玉県新座市東北2-311",
+      "storeid": "niiza-8e7ad7",
+      "shopid": "niiza-8e7ad7-rakutenpay"
+    },
+    {
+      "name": "ブンボーフエ・ジャ・チュエン",
+      "address": "埼玉県新座市東北2-31-12 高やビル 3FーA",
+      "storeid": "niiza-f11329",
+      "shopid": "niiza-f11329-rakutenpay"
+    },
+    {
+      "name": "炭火焼鳥　しき",
+      "address": "埼玉県新座市東北2-31-3 ロイヤル花野 1F3号",
+      "storeid": "niiza-2fbd97",
+      "shopid": "niiza-2fbd97-rakutenpay"
+    },
+    {
+      "name": "CHU　THAT　QUAN",
+      "address": "埼玉県新座市東北2-31-5",
+      "storeid": "niiza-bad207",
+      "shopid": "niiza-bad207-rakutenpay"
+    },
+    {
+      "name": "極上炭火焼肉　縁",
+      "address": "埼玉県新座市東北2-31-6",
+      "storeid": "niiza-81a281",
+      "shopid": "niiza-81a281-rakutenpay"
+    },
+    {
+      "name": "居酒屋運送屋",
+      "address": "埼玉県新座市東北2-31-8 第六フジビル2F",
+      "storeid": "niiza-e16b92",
+      "shopid": "niiza-e16b92-rakutenpay"
+    },
+    {
+      "name": "沖縄料理　島想い",
+      "address": "埼玉県新座市東北2-32-3コープ野村志木101",
+      "storeid": "niiza-8ac3de",
+      "shopid": "niiza-8ac3de-rakutenpay"
+    },
+    {
+      "name": "長屋門 志木店",
+      "address": "埼玉県新座市東北2-37-11",
+      "storeid": "niiza-7888c5",
+      "shopid": "niiza-7888c5-rakutenpay"
+    },
+    {
+      "name": "スナック恵",
+      "address": "埼玉県新座市東北2-37-17アーバンポイント志木402",
+      "storeid": "niiza-83c710",
+      "shopid": "niiza-83c710-rakutenpay"
+    },
+    {
+      "name": "一颯",
+      "address": "埼玉県新座市東北2-37-17-602",
+      "storeid": "niiza-715466",
+      "shopid": "niiza-715466-rakutenpay"
+    },
+    {
+      "name": "スナック　ＭＯＮＳＴＥＲ",
+      "address": "埼玉県新座市片山2-6-14",
+      "storeid": "niiza-a6057d",
+      "shopid": "niiza-a6057d-rakutenpay"
+    },
+    {
+      "name": "ＢＲＯＷＮＳＴＯＲＥＭＥＡＴＰＩＥＳ",
+      "address": "埼玉県新座市野火止5-6-4",
+      "storeid": "niiza-6d1181",
+      "shopid": "niiza-6d1181-rakutenpay"
+    },
+    {
+      "name": "ＢＡＲ　ＡＬＥＳ",
+      "address": "埼玉県新座市東北2-30-25パル8街2F 奥",
+      "storeid": "niiza-d5a6cd",
+      "shopid": "niiza-d5a6cd-rakutenpay"
+    },
+    {
+      "name": "うなぎのじまや",
+      "address": "埼玉県新座市石神5-9-12",
+      "storeid": "niiza-8e3f91",
+      "shopid": "niiza-8e3f91-rakutenpay"
+    },
+    {
+      "name": "鶏とおさけ　あてめあて（新座店）",
+      "address": "埼玉県新座市野火止5-2-12TKビル1F",
+      "storeid": "niiza-9e2971",
+      "shopid": "niiza-9e2971-rakutenpay"
+    },
+    {
+      "name": "ダイニング　絆",
+      "address": "埼玉県新座市東北2-23-8",
+      "storeid": "niiza-372cc6",
+      "shopid": "niiza-372cc6-rakutenpay"
+    },
+    {
+      "name": "中国菜　はつがい麻婆豆腐店",
+      "address": "埼玉県新座市東北2-12-7",
+      "storeid": "niiza-5acf46",
+      "shopid": "niiza-5acf46-rakutenpay"
+    },
+    {
+      "name": "中華　古味虎",
+      "address": "埼玉県新座市野火止3-8-9",
+      "storeid": "niiza-97b2bd",
+      "shopid": "niiza-97b2bd-rakutenpay"
+    },
+    {
+      "name": "山田うどん食堂　新座畑中店",
+      "address": "埼玉県新座市畑中1-15-45",
+      "storeid": "niiza-1ce460",
+      "shopid": "niiza-1ce460-rakutenpay"
+    },
+    {
+      "name": "わん　志木店",
+      "address": "埼玉県新座市東北2-39-10 ドゥーセット弐番館5F",
+      "storeid": "niiza-93be06",
+      "shopid": "niiza-93be06-rakutenpay"
+    },
+    {
+      "name": "一真",
+      "address": "埼玉県新座市東北2-31-5 クリオ志木駅前101号室",
+      "storeid": "niiza-9f1f6e",
+      "shopid": "niiza-9f1f6e-rakutenpay"
+    },
+    {
+      "name": "ホルモン焼太郎",
+      "address": "埼玉県新座市東北2-31-22",
+      "storeid": "niiza-5e9f87",
+      "shopid": "niiza-5e9f87-rakutenpay"
+    },
+    {
+      "name": "スナック一華",
+      "address": "埼玉県新座市北野2-14-18 北野店舗2階",
+      "storeid": "niiza-1b71a1",
+      "shopid": "niiza-1b71a1-rakutenpay"
+    },
+    {
+      "name": "ａｎＲｏｄｚｉｎａ",
+      "address": "埼玉県新座市馬場2-2-31",
+      "storeid": "niiza-3f6d0b",
+      "shopid": "niiza-3f6d0b-rakutenpay"
+    },
+    {
+      "name": "架け橋",
+      "address": "埼玉県新座市野火止1-14-2",
+      "storeid": "niiza-a0df75",
+      "shopid": "niiza-a0df75-rakutenpay"
+    },
+    {
+      "name": "居酒屋ｄｉｎｉｎｇ　湊",
+      "address": "埼玉県新座市東北2-24-20",
+      "storeid": "niiza-ac16ef",
+      "shopid": "niiza-ac16ef-rakutenpay"
+    },
+    {
+      "name": "ＨＯＡＮＧ　ＡＮ　ＱＵＡＮ",
+      "address": "埼玉県新座市東北2-30-25花野尾崎共同ビル4階",
+      "storeid": "niiza-039c42",
+      "shopid": "niiza-039c42-rakutenpay"
+    },
+    {
+      "name": "居酒屋　鈴徠",
+      "address": "埼玉県新座市野火止5-7-8",
+      "storeid": "niiza-c4e839",
+      "shopid": "niiza-c4e839-rakutenpay"
+    },
+    {
+      "name": "カラオケラウンジ　一　ＨＡＪＩＭＥ",
+      "address": "埼玉県新座市東北2-23-8",
+      "storeid": "niiza-b36a4d",
+      "shopid": "niiza-b36a4d-rakutenpay"
+    },
+    {
+      "name": "ＣＯＬＯＬＩＥ",
+      "address": "埼玉県新座市東北2-32-1MISIA1階",
+      "storeid": "niiza-fd5cd5",
+      "shopid": "niiza-fd5cd5-rakutenpay"
+    },
+    {
+      "name": "セブンティーン",
+      "address": "埼玉県新座市東北1-8-17",
+      "storeid": "niiza-6acc0a",
+      "shopid": "niiza-6acc0a-rakutenpay"
+    },
+    {
+      "name": "GirlsBarPHIPHI",
+      "address": "埼玉県新座市東北2-39-7生光商事ビル2F",
+      "storeid": "niiza-065647",
+      "shopid": "niiza-065647-rakutenpay"
+    },
+    {
+      "name": "鶏とおさけ　あてめあて",
+      "address": "埼玉県新座市東北2-39-7生光商事ビル205",
+      "storeid": "niiza-4d4aba",
+      "shopid": "niiza-4d4aba-rakutenpay"
+    },
+    {
+      "name": "手打そば乃田",
+      "address": "埼玉県新座市野火止4-1-18",
+      "storeid": "niiza-ee7e26",
+      "shopid": "niiza-ee7e26-rakutenpay"
+    },
+    {
+      "name": "肉居酒屋HAL",
+      "address": "埼玉県新座市東北2-39-8永代ビル4F",
+      "storeid": "niiza-a98dfd",
+      "shopid": "niiza-a98dfd-rakutenpay"
+    },
+    {
+      "name": "遊び相手",
+      "address": "埼玉県新座市東北2-40-5",
+      "storeid": "niiza-6ca8e9",
+      "shopid": "niiza-6ca8e9-rakutenpay"
+    },
+    {
+      "name": "酒飯処茶々丸",
+      "address": "埼玉県新座市道場1-13-35",
+      "storeid": "niiza-54759c",
+      "shopid": "niiza-54759c-rakutenpay"
+    },
+    {
+      "name": "ペットサロン Luck Lick 新座店",
+      "address": "埼玉県新座市道場2-7-7",
+      "storeid": "niiza-6f5ad4",
+      "shopid": "niiza-6f5ad4-rakutenpay"
+    },
+    {
+      "name": "ラクチーナディプランツォ",
+      "address": "埼玉県新座市馬場2-5-26",
+      "storeid": "niiza-9e5974",
+      "shopid": "niiza-9e5974-rakutenpay"
+    },
+    {
+      "name": "めぐとん",
+      "address": "埼玉県新座市北野2-14-16",
+      "storeid": "niiza-a7130d",
+      "shopid": "niiza-a7130d-rakutenpay"
+    },
+    {
+      "name": "おこのみダイニングエンゼル",
+      "address": "埼玉県新座市北野2-14-20",
+      "storeid": "niiza-dd8fd2",
+      "shopid": "niiza-dd8fd2-rakutenpay"
+    },
+    {
+      "name": "炭火焼鳥一起",
+      "address": "埼玉県新座市北野3-1-30",
+      "storeid": "niiza-7bc1e9",
+      "shopid": "niiza-7bc1e9-rakutenpay"
+    },
+    {
+      "name": "徳寿司",
+      "address": "埼玉県新座市北野3-1-31",
+      "storeid": "niiza-3dfe7f",
+      "shopid": "niiza-3dfe7f-rakutenpay"
+    },
+    {
+      "name": "友の家",
+      "address": "埼玉県新座市北野3-20-11",
+      "storeid": "niiza-9c2d06",
+      "shopid": "niiza-9c2d06-rakutenpay"
+    },
+    {
+      "name": "のじまや",
+      "address": "埼玉県新座市本多1-6-7",
+      "storeid": "niiza-3d6051",
+      "shopid": "niiza-3d6051-rakutenpay"
+    },
+    {
+      "name": "PescePiattoえのき",
+      "address": "埼玉県新座市野火止4-1-22",
+      "storeid": "niiza-58cebd",
+      "shopid": "niiza-58cebd-rakutenpay"
+    },
+    {
+      "name": "北海道生まれ　和食処とんでん　新座店",
+      "address": "埼玉県新座市栗原5-4-5",
+      "storeid": "niiza-fac92f",
+      "shopid": "niiza-fac92f-rakutenpay"
+    },
+    {
+      "name": "モダンパスタ　新座店",
+      "address": "埼玉県新座市野火止5-2-19",
+      "storeid": "niiza-4c7dd9",
+      "shopid": "niiza-4c7dd9-rakutenpay"
+    },
+    {
+      "name": "日本料理　季粋",
+      "address": "埼玉県新座市栗原5-7-1",
+      "storeid": "niiza-4454f2",
+      "shopid": "niiza-4454f2-rakutenpay"
+    },
+    {
+      "name": "和っ処い",
+      "address": "埼玉県新座市野火止7-20-6",
+      "storeid": "niiza-7f8444",
+      "shopid": "niiza-7f8444-rakutenpay"
+    },
+    {
+      "name": "凱旋門",
+      "address": "埼玉県新座市栗原6-10-25",
+      "storeid": "niiza-248a38",
+      "shopid": "niiza-248a38-rakutenpay"
+    },
+    {
+      "name": "丸梅",
+      "address": "埼玉県新座市野火止8-15-24",
+      "storeid": "niiza-574258",
+      "shopid": "niiza-574258-rakutenpay"
+    }
+  ],
+  "美容・理容": [
+    {
+      "name": "ヘアメイク　パルティール",
+      "address": "埼玉県新座市新座3-3-20-110",
+      "storeid": "niiza-e073f9",
+      "shopid": "niiza-e073f9-rakutenpay"
+    },
+    {
+      "name": "ミントフルール",
+      "address": "埼玉県新座市新堀2-3-12",
+      "storeid": "niiza-da4379",
+      "shopid": "niiza-da4379-rakutenpay"
+    },
+    {
+      "name": "Blossom　志木南口店",
+      "address": "埼玉県新座市東北2-31-25 八栄ビル2F",
+      "storeid": "niiza-feb517",
+      "shopid": "niiza-feb517-rakutenpay"
+    },
+    {
+      "name": "Can I Dressy キャンアイドレッシー志木店",
+      "address": "埼玉県新座市東北2-32-9ムサシノパールビル2階",
+      "storeid": "niiza-7d002f",
+      "shopid": "niiza-7d002f-rakutenpay"
+    },
+    {
+      "name": "NailSalonC．A．T．",
+      "address": "埼玉県新座市東北2-34-15-1階",
+      "storeid": "niiza-d36366",
+      "shopid": "niiza-d36366-rakutenpay"
+    },
+    {
+      "name": "Ash 志木南口店",
+      "address": "埼玉県新座市東北2-34-2ルネク゛ランステ－シ゛志木2-1F",
+      "storeid": "niiza-5df5b6",
+      "shopid": "niiza-5df5b6-rakutenpay"
+    },
+    {
+      "name": "duple",
+      "address": "埼玉県新座市東北2-39-20茜レジデンス101",
+      "storeid": "niiza-b1fe44",
+      "shopid": "niiza-b1fe44-rakutenpay"
+    },
+    {
+      "name": "HAIR　SALON　KURUME",
+      "address": "埼玉県新座市西堀2-5-20",
+      "storeid": "niiza-8efba4",
+      "shopid": "niiza-8efba4-rakutenpay"
+    },
+    {
+      "name": "mia",
+      "address": "埼玉県新座市野火止5-31-3",
+      "storeid": "niiza-82d24d",
+      "shopid": "niiza-82d24d-rakutenpay"
+    },
+    {
+      "name": "nailroom　anuenue",
+      "address": "埼玉県新座市栄2",
+      "storeid": "niiza-bb4da6",
+      "shopid": "niiza-bb4da6-rakutenpay"
+    },
+    {
+      "name": "ノエビア東京新座販売会社",
+      "address": "埼玉県新座市野火止4-4-7-A-202",
+      "storeid": "niiza-1e8222",
+      "shopid": "niiza-1e8222-rakutenpay"
+    },
+    {
+      "name": "Hair　Cut　Wiz",
+      "address": "埼玉県新座市野火止5-2-10 CKスクエア1F",
+      "storeid": "niiza-ba67f0",
+      "shopid": "niiza-ba67f0-rakutenpay"
+    },
+    {
+      "name": "RAG新座駅前店",
+      "address": "埼玉県新座市野火止5-2-57リリーベル新座駅前101",
+      "storeid": "niiza-88a6ba",
+      "shopid": "niiza-88a6ba-rakutenpay"
+    },
+    {
+      "name": "Smile",
+      "address": "埼玉県新座市大和田1-3-22 店舗2F",
+      "storeid": "niiza-b43d16",
+      "shopid": "niiza-b43d16-rakutenpay"
+    },
+    {
+      "name": "理容室アルファ",
+      "address": "埼玉県新座市あたご3-7-21",
+      "storeid": "niiza-6057bc",
+      "shopid": "niiza-6057bc-rakutenpay"
+    },
+    {
+      "name": "ルーツ",
+      "address": "埼玉県新座市栄4-7-43",
+      "storeid": "niiza-b72f6e",
+      "shopid": "niiza-b72f6e-rakutenpay"
+    },
+    {
+      "name": "ユキ美容室",
+      "address": "埼玉県新座市栗原6-7-10",
+      "storeid": "niiza-d5f56b",
+      "shopid": "niiza-d5f56b-rakutenpay"
+    },
+    {
+      "name": "Kirana志木店",
+      "address": "埼玉県新座市東北2-24-17オリンポス新座志木102",
+      "storeid": "niiza-3486bf",
+      "shopid": "niiza-3486bf-rakutenpay"
+    },
+    {
+      "name": "あおやまびじん志木店",
+      "address": "埼玉県新座市東北2-31-14第八みずほ館803号室",
+      "storeid": "niiza-3aacd6",
+      "shopid": "niiza-3aacd6-rakutenpay"
+    },
+    {
+      "name": "TzWON",
+      "address": "埼玉県新座市野寺2-14-1",
+      "storeid": "niiza-625c9e",
+      "shopid": "niiza-625c9e-rakutenpay"
+    },
+    {
+      "name": "華冠　the　Beaute",
+      "address": "埼玉県新座市馬場2-10-5",
+      "storeid": "niiza-cc5d20",
+      "shopid": "niiza-cc5d20-rakutenpay"
+    },
+    {
+      "name": "一髪野郎YUMITA",
+      "address": "埼玉県新座市大和田4-9-6",
+      "storeid": "niiza-1d8f13",
+      "shopid": "niiza-1d8f13-rakutenpay"
+    },
+    {
+      "name": "HAIR　am",
+      "address": "埼玉県新座市北野3-20-13",
+      "storeid": "niiza-efe03f",
+      "shopid": "niiza-efe03f-rakutenpay"
+    },
+    {
+      "name": "BARBER極",
+      "address": "埼玉県新座市大和田5-10-6 鳥居店舗B号室",
+      "storeid": "niiza-0c6f71",
+      "shopid": "niiza-0c6f71-rakutenpay"
+    },
+    {
+      "name": "Glow　Lash",
+      "address": "埼玉県新座市野火止5-2-55CKB3soundproof403",
+      "storeid": "niiza-497b93",
+      "shopid": "niiza-497b93-rakutenpay"
+    },
+    {
+      "name": "momo　natural",
+      "address": "埼玉県新座市野火止6-5-10",
+      "storeid": "niiza-76da05",
+      "shopid": "niiza-76da05-rakutenpay"
+    },
+    {
+      "name": "ヘアーショッププラザ",
+      "address": "埼玉県新座市東1-14-12",
+      "storeid": "niiza-9631a5",
+      "shopid": "niiza-9631a5-rakutenpay"
+    },
+    {
+      "name": "hair―salonMOVE",
+      "address": "埼玉県新座市東2-5-12-1",
+      "storeid": "niiza-a1140a",
+      "shopid": "niiza-a1140a-rakutenpay"
+    },
+    {
+      "name": "酵素風呂そら",
+      "address": "埼玉県新座市野火止6-2-17",
+      "storeid": "niiza-9626ee",
+      "shopid": "niiza-9626ee-rakutenpay"
+    },
+    {
+      "name": "NATURE　志木店",
+      "address": "埼玉県新座市東北1-14-1 志幸30SEASON401号室",
+      "storeid": "niiza-1b5aff",
+      "shopid": "niiza-1b5aff-rakutenpay"
+    },
+    {
+      "name": "ビューティーサロンダリア",
+      "address": "埼玉県新座市東北1-14-1志幸ホーム401",
+      "storeid": "niiza-7be743",
+      "shopid": "niiza-7be743-rakutenpay"
+    },
+    {
+      "name": "Duca",
+      "address": "埼玉県新座市東北2-17-12 コスモプレイス志木203",
+      "storeid": "niiza-edf894",
+      "shopid": "niiza-edf894-rakutenpay"
+    },
+    {
+      "name": "LAMP　HAIR",
+      "address": "埼玉県新座市東北2-19-16 サンルーフ新座108",
+      "storeid": "niiza-c1a89d",
+      "shopid": "niiza-c1a89d-rakutenpay"
+    },
+    {
+      "name": "エステ＆コスメフルール",
+      "address": "埼玉県新座市東北2-19-16 サンルーフ新座107",
+      "storeid": "niiza-a7d970",
+      "shopid": "niiza-a7d970-rakutenpay"
+    },
+    {
+      "name": "BARBER　SHOP　SHUN",
+      "address": "埼玉県新座市東北2-2-5加知荘",
+      "storeid": "niiza-4a307a",
+      "shopid": "niiza-4a307a-rakutenpay"
+    },
+    {
+      "name": "sand　eye　design",
+      "address": "埼玉県新座市東北2-26-4 第3みずほ館301",
+      "storeid": "niiza-208058",
+      "shopid": "niiza-208058-rakutenpay"
+    },
+    {
+      "name": "nail　salon　uni",
+      "address": "埼玉県新座市東北2-27-17斉藤マンション1階 美容室Ciel coco内",
+      "storeid": "niiza-935ab7",
+      "shopid": "niiza-935ab7-rakutenpay"
+    },
+    {
+      "name": "ans．GRANDE（アンス・グランデ）",
+      "address": "埼玉県新座市東北2-30-16 細田ビル8階",
+      "storeid": "niiza-b1899a",
+      "shopid": "niiza-b1899a-rakutenpay"
+    },
+    {
+      "name": "at　will志木店",
+      "address": "埼玉県新座市東北2-30-3 ニューメゾンアドニス301",
+      "storeid": "niiza-1940d0",
+      "shopid": "niiza-1940d0-rakutenpay"
+    },
+    {
+      "name": "Fans by K 志木",
+      "address": "埼玉県新座市東北2-31 101",
+      "storeid": "niiza-b828f5",
+      "shopid": "niiza-b828f5-rakutenpay"
+    },
+    {
+      "name": "sensual",
+      "address": "埼玉県新座市東北2-31-1Takahasiビル201",
+      "storeid": "niiza-8cd5be",
+      "shopid": "niiza-8cd5be-rakutenpay"
+    },
+    {
+      "name": "個室サロンwhisk",
+      "address": "埼玉県新座市東北2-31-12三上ビル4F",
+      "storeid": "niiza-39ea87",
+      "shopid": "niiza-39ea87-rakutenpay"
+    },
+    {
+      "name": "Can　I　Dressy　志木店",
+      "address": "埼玉県新座市東北2-31-13 ミュージション志木1004",
+      "storeid": "niiza-77a916",
+      "shopid": "niiza-77a916-rakutenpay"
+    },
+    {
+      "name": "LOTAS蓮",
+      "address": "埼玉県新座市東北2-31-13ミュージション志木704",
+      "storeid": "niiza-06fb0e",
+      "shopid": "niiza-06fb0e-rakutenpay"
+    },
+    {
+      "name": "Sepiage　un",
+      "address": "埼玉県新座市東北2-31-15JOY Plaza4F",
+      "storeid": "niiza-4e0cd1",
+      "shopid": "niiza-4e0cd1-rakutenpay"
+    },
+    {
+      "name": "MONET",
+      "address": "埼玉県新座市東北2-31-20ウッディハイム1階",
+      "storeid": "niiza-3bb0d6",
+      "shopid": "niiza-3bb0d6-rakutenpay"
+    },
+    {
+      "name": "382YAMASITA",
+      "address": "埼玉県新座市栄5-4-10",
+      "storeid": "niiza-5358f8",
+      "shopid": "niiza-5358f8-rakutenpay"
+    },
+    {
+      "name": "tio【ティオ】",
+      "address": "埼玉県新座市東北2-37-14 アーバン2-301",
+      "storeid": "niiza-b4dd90",
+      "shopid": "niiza-b4dd90-rakutenpay"
+    },
+    {
+      "name": "Vinculum　志木",
+      "address": "埼玉県新座市東北2-37-14",
+      "storeid": "niiza-304d9a",
+      "shopid": "niiza-304d9a-rakutenpay"
+    },
+    {
+      "name": "アイラッシュリゾート　カハラ　志木店",
+      "address": "埼玉県新座市東北2-37-14 アーバン6F",
+      "storeid": "niiza-45f395",
+      "shopid": "niiza-45f395-rakutenpay"
+    },
+    {
+      "name": "はあとねいる志木店",
+      "address": "埼玉県新座市東北2-37-14アーバン2 4F",
+      "storeid": "niiza-70b6fa",
+      "shopid": "niiza-70b6fa-rakutenpay"
+    },
+    {
+      "name": "ドライヘッドマッサージ専門店たま結び",
+      "address": "埼玉県新座市栄5-4-27",
+      "storeid": "niiza-ce4db2",
+      "shopid": "niiza-ce4db2-rakutenpay"
+    },
+    {
+      "name": "ほぐし屋楽―UP　志木店",
+      "address": "埼玉県新座市東北2-37-17城北ビル2階",
+      "storeid": "niiza-e05227",
+      "shopid": "niiza-e05227-rakutenpay"
+    },
+    {
+      "name": "おきもちＳＡＬＯＮ",
+      "address": "埼玉県新座市東北2-29-33JC SOUTH志木2933 1F",
+      "storeid": "niiza-1ac8fc",
+      "shopid": "niiza-1ac8fc-rakutenpay"
+    },
+    {
+      "name": "Ｌｉｅｂｅ・ホールディングス",
+      "address": "埼玉県新座市東北1-14-1 志幸30SEASON403号室",
+      "storeid": "niiza-eede17",
+      "shopid": "niiza-eede17-rakutenpay"
+    },
+    {
+      "name": "Room　志木店",
+      "address": "埼玉県新座市東北2-39-10 2F",
+      "storeid": "niiza-3f5d9b",
+      "shopid": "niiza-3f5d9b-rakutenpay"
+    },
+    {
+      "name": "新座骨盤整体サロンＴＳＵＮＡＧＩ",
+      "address": "埼玉県新座市大和田1-3-11新座ドミール102",
+      "storeid": "niiza-9d6f56",
+      "shopid": "niiza-9d6f56-rakutenpay"
+    },
+    {
+      "name": "RuamRuam　志木東口店",
+      "address": "埼玉県新座市東北2-39-10 ドゥーセット弐番館 1F",
+      "storeid": "niiza-e95cc0",
+      "shopid": "niiza-e95cc0-rakutenpay"
+    },
+    {
+      "name": "ストライプ",
+      "address": "埼玉県新座市東北2-32-9",
+      "storeid": "niiza-365e45",
+      "shopid": "niiza-365e45-rakutenpay"
+    },
+    {
+      "name": "Ｒｅｌｏｕ　ｅｙｅｌａｓｈ",
+      "address": "埼玉県新座市東北2-24-23 ビルズサト1F",
+      "storeid": "niiza-f18ecd",
+      "shopid": "niiza-f18ecd-rakutenpay"
+    },
+    {
+      "name": "ｎａｉｌｓａｌｏｎＤｒｅａｍｙ",
+      "address": "埼玉県新座市東北2-34-15ホワイトハイ302",
+      "storeid": "niiza-0f82fe",
+      "shopid": "niiza-0f82fe-rakutenpay"
+    },
+    {
+      "name": "ヘアーデザインｌ’ｅａ－外用",
+      "address": "埼玉県新座市道場1-11-4",
+      "storeid": "niiza-4db190",
+      "shopid": "niiza-4db190-rakutenpay"
+    },
+    {
+      "name": "Ｈａｒｏ　Ｎａｉｌ",
+      "address": "埼玉県新座市東北1-14-1-203",
+      "storeid": "niiza-7fba8d",
+      "shopid": "niiza-7fba8d-rakutenpay"
+    },
+    {
+      "name": "ｆｅｒ",
+      "address": "埼玉県新座市東北2-13-24 PL店舗1F",
+      "storeid": "niiza-441171",
+      "shopid": "niiza-441171-rakutenpay"
+    },
+    {
+      "name": "Ａｌｂｉｒｅｏ［アルビレオ］ＦａｃｉａｌＢｅａｕｔｙ＆ＥｙｅｌａｓｈＳａｌｏｎ",
+      "address": "埼玉県新座市東北2-39-20 茜レジデンス308",
+      "storeid": "niiza-924342",
+      "shopid": "niiza-924342-rakutenpay"
+    },
+    {
+      "name": "repos nail&school",
+      "address": "埼玉県新座市東北2-39-20茜レジデンス302",
+      "storeid": "niiza-815a69",
+      "shopid": "niiza-815a69-rakutenpay"
+    },
+    {
+      "name": "Ruttu　Kaola　志木店",
+      "address": "埼玉県新座市東北2-39-8",
+      "storeid": "niiza-645151",
+      "shopid": "niiza-645151-rakutenpay"
+    },
+    {
+      "name": "いやし泉屋　志木店",
+      "address": "埼玉県新座市東北2-39-8 永代ビル3F",
+      "storeid": "niiza-c288b6",
+      "shopid": "niiza-c288b6-rakutenpay"
+    },
+    {
+      "name": "aoiro",
+      "address": "埼玉県新座市栗原3-3-24",
+      "storeid": "niiza-1abc2c",
+      "shopid": "niiza-1abc2c-rakutenpay"
+    },
+    {
+      "name": "hairsalonle　ciel",
+      "address": "埼玉県新座市馬場1-5-6",
+      "storeid": "niiza-70df5f",
+      "shopid": "niiza-70df5f-rakutenpay"
+    },
+    {
+      "name": "Nail　GIN",
+      "address": "埼玉県新座市畑中2-20-10",
+      "storeid": "niiza-e3a3d7",
+      "shopid": "niiza-e3a3d7-rakutenpay"
+    },
+    {
+      "name": "High―Nail 新座本店",
+      "address": "埼玉県新座市畑中2-4-40",
+      "storeid": "niiza-441e19",
+      "shopid": "niiza-441e19-rakutenpay"
+    },
+    {
+      "name": "ヘアーサロンLOVE",
+      "address": "埼玉県新座市栗原6-10-21",
+      "storeid": "niiza-a837e4",
+      "shopid": "niiza-a837e4-rakutenpay"
+    },
+    {
+      "name": "ヘアーサロン寿",
+      "address": "埼玉県新座市片山1-9-17",
+      "storeid": "niiza-efca94",
+      "shopid": "niiza-efca94-rakutenpay"
+    },
+    {
+      "name": "メンズサロンバーバリー",
+      "address": "埼玉県新座市栗原5-2-14 ジュンラークビル103",
+      "storeid": "niiza-6d7101",
+      "shopid": "niiza-6d7101-rakutenpay"
+    },
+    {
+      "name": "HAIR　LAPIS",
+      "address": "埼玉県新座市栗原5-2-20ライオンズマンションひばりヶ丘101",
+      "storeid": "niiza-5e51e1",
+      "shopid": "niiza-5e51e1-rakutenpay"
+    },
+    {
+      "name": "ねこの王子様。新座店",
+      "address": "埼玉県新座市野火止4-19-11日置ビル2階",
+      "storeid": "niiza-45d5cf",
+      "shopid": "niiza-45d5cf-rakutenpay"
+    },
+    {
+      "name": "ほぐし屋もみらく",
+      "address": "埼玉県新座市野火止4-19-11 日置ビル2F",
+      "storeid": "niiza-2112c3",
+      "shopid": "niiza-2112c3-rakutenpay"
+    },
+    {
+      "name": "N．nail",
+      "address": "埼玉県新座市野火止5-1-41メルフローラ新座403",
+      "storeid": "niiza-a59801",
+      "shopid": "niiza-a59801-rakutenpay"
+    },
+    {
+      "name": "医療提携サロンfascimo",
+      "address": "埼玉県新座市野火止5-2-13新座かけはしビル301",
+      "storeid": "niiza-b59193",
+      "shopid": "niiza-b59193-rakutenpay"
+    },
+    {
+      "name": "Make　up　LaLa",
+      "address": "埼玉県新座市栗原5-5-12 タカシハウス202",
+      "storeid": "niiza-826ed9",
+      "shopid": "niiza-826ed9-rakutenpay"
+    },
+    {
+      "name": "Sattvaメディカルサロン",
+      "address": "埼玉県新座市栗原5-6-26 城西内科クリニック2階",
+      "storeid": "niiza-e8d941",
+      "shopid": "niiza-e8d941-rakutenpay"
+    },
+    {
+      "name": "Lakina",
+      "address": "埼玉県新座市野火止野火止5-3-42",
+      "storeid": "niiza-d8bc4b",
+      "shopid": "niiza-d8bc4b-rakutenpay"
+    },
+    {
+      "name": "ヘアーカットサロン　ブルー",
+      "address": "埼玉県新座市野火止6-19-1",
+      "storeid": "niiza-19886b",
+      "shopid": "niiza-19886b-rakutenpay"
+    },
+    {
+      "name": "LittleLuck",
+      "address": "埼玉県新座市野火止6-3-29 みずほ館17 301号室",
+      "storeid": "niiza-4dbea4",
+      "shopid": "niiza-4dbea4-rakutenpay"
+    },
+    {
+      "name": "Ksalon",
+      "address": "埼玉県新座市野火止7-8-27",
+      "storeid": "niiza-44245d",
+      "shopid": "niiza-44245d-rakutenpay"
+    },
+    {
+      "name": "nailcaresalon",
+      "address": "埼玉県新座市野火止7-9-40",
+      "storeid": "niiza-ceee5a",
+      "shopid": "niiza-ceee5a-rakutenpay"
+    },
+    {
+      "name": "リンパコンディショニングサロンふぁみーゆ",
+      "address": "埼玉県新座市野火止8-14-18",
+      "storeid": "niiza-389b66",
+      "shopid": "niiza-389b66-rakutenpay"
+    },
+    {
+      "name": "nailsalonkuku",
+      "address": "埼玉県新座市野火止8-15-37-35",
+      "storeid": "niiza-a18652",
+      "shopid": "niiza-a18652-rakutenpay"
+    },
+    {
+      "name": "大滝施術院",
+      "address": "埼玉県新座市野火止8-16-6 グリーンハイツ野火止A棟103号",
+      "storeid": "niiza-d56636",
+      "shopid": "niiza-d56636-rakutenpay"
+    },
+    {
+      "name": "SALON　de　A",
+      "address": "埼玉県新座市野寺2-7-27",
+      "storeid": "niiza-9283e3",
+      "shopid": "niiza-9283e3-rakutenpay"
+    },
+    {
+      "name": "HAIR　CUT　サボテン",
+      "address": "埼玉県新座市野寺2-8-41",
+      "storeid": "niiza-82edba",
+      "shopid": "niiza-82edba-rakutenpay"
+    },
+    {
+      "name": "Rokokoro",
+      "address": "埼玉県新座市野寺5-7-22",
+      "storeid": "niiza-ccf831",
+      "shopid": "niiza-ccf831-rakutenpay"
+    }
+  ],
+  "ガソリンスタンド": [
+    {
+      "name": "出光 セルフ志木",
+      "address": "埼玉県新座市大和田5-20-30",
+      "storeid": "niiza-5b1faf",
+      "shopid": "niiza-5b1faf-rakutenpay"
+    },
+    {
+      "name": "出光興産株式会社 ２５４号新座ＳＳ",
+      "address": "埼玉県新座市大和田2-5-23",
+      "storeid": "niiza-366d26",
+      "shopid": "niiza-366d26-rakutenpay"
+    }
+  ]
+}
