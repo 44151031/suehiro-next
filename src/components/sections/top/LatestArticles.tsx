@@ -2,7 +2,7 @@
 import Link from "next/link";
 import { createClientServerReadOnly } from "@/lib/supabase/server"; // ← これに変更
 
-export const revalidate = 60; // 表示キャッシュ
+export const revalidate = 0;
 
 type Row = {
   id: string | number;

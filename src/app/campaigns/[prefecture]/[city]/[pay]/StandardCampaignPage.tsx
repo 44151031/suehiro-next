@@ -262,9 +262,8 @@ export default async function CityPaytypePage({
               </section>
             );
           })()}
-
-          <SampleShopExample />
           <StoreRegistrationCTA />
+          <SampleShopExample />
           <SNSShareButtons
             url={pageUrl}
             title={shareTitle}
