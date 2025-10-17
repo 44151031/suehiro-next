@@ -74,7 +74,7 @@ export default function SupportButton({ shopid }: Props) {
       if (result.status === "added") {
         setLiked(true);
         setLikes((prev) => prev + 1);
-        toast.success("応援ありがとう！明日になれば同じお店も応援できるよ！");
+        toast.success("応援ありがとう！明日になれば同じお店を応援できるよ！");
       } else if (result.status === "removed") {
         setLiked(false);
         setLikes((prev) => Math.max(0, prev - 1));
