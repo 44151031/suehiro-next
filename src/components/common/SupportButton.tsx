@@ -38,15 +38,16 @@ export default function SupportButton({ shopid }: Props) {
       try {
         const sid = await getOrSetSessionId();
         if (!sid) throw new Error("session id 未生成");
+        
+        // 店舗の総いいね数（集計テーブルから取得）
+        const { data: stat, error: statErr } = await supabaseClient
+          .from("shop_stats")
+          .select("likes_total")
+          .eq("shopid", shopid)
+          .maybeSingle();
 
-        // 店舗の総いいね数
-        const { count: likesCount, error: likeErr } = await supabaseClient
-          .from("support_events")
-          .select("*", { count: "exact", head: true })
-          .eq("shopid", shopid);
-
-        if (likeErr) throw likeErr;
-        setLikes(likesCount ?? 0);
+        if (statErr) throw statErr;
+        setLikes(stat?.likes_total ?? 0);
 
         // JST基準で「今日」応援したかチェック
         const { start, end } = getJSTRangeUTC();
