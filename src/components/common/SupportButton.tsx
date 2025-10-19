@@ -12,6 +12,7 @@ export default function SupportButton({ shopid }: Props) {
   const [likes, setLikes] = useState<number>(0);
   const [liked, setLiked] = useState<boolean>(false);
   const [pending, setPending] = useState<boolean>(false);
+  const [ready, setReady] = useState<boolean>(false); // ✅ 初期化完了フラグ
 
   // ✅ JST の 0:00～翌日0:00 を UTC に変換して返す
   const getJSTRangeUTC = () => {
@@ -31,23 +32,25 @@ export default function SupportButton({ shopid }: Props) {
     return { start: startUTC.toISOString(), end: endUTC.toISOString() };
   };
 
-  // ✅ 初期ロードで「いいね数」と「自分が押したか」を取得
+  // ✅ 初期ロード（SupabaseとCookie準備が完了してから実行）
   useEffect(() => {
-    const fetchInitial = async () => {
+    const init = async () => {
       try {
-        const sid = getOrSetSessionId();
+        const sid = await getOrSetSessionId();
+        if (!sid) throw new Error("session id 未生成");
 
         // 店舗の総いいね数
-        const { count: likesCount } = await supabaseClient
+        const { count: likesCount, error: likeErr } = await supabaseClient
           .from("support_events")
           .select("*", { count: "exact", head: true })
           .eq("shopid", shopid);
 
+        if (likeErr) throw likeErr;
         setLikes(likesCount ?? 0);
 
-        // JST基準で「今日」応援したか？
+        // JST基準で「今日」応援したかチェック
         const { start, end } = getJSTRangeUTC();
-        const { data: existing } = await supabaseClient
+        const { data: existing, error: existErr } = await supabaseClient
           .from("support_events")
           .select("id")
           .eq("session_id", sid)
@@ -56,18 +59,29 @@ export default function SupportButton({ shopid }: Props) {
           .lt("created_at", end)
           .maybeSingle();
 
+        if (existErr) throw existErr;
         setLiked(!!existing);
+
+        setReady(true); // ✅ 初期化完了
       } catch (e) {
-        console.error("Failed to fetch initial like state:", e);
+        console.warn("初期化待機中:", e);
+        // 一時的にSupabaseが遅い場合のリトライ
+        setTimeout(() => setReady(true), 3000);
       }
     };
 
-    fetchInitial();
+    init();
   }, [shopid]);
 
   const handleClick = async () => {
+    if (!ready) {
+      toast.error("接続準備中です。数秒後にお試しください。");
+      return;
+    }
+
     if (pending) return;
     setPending(true);
+
     try {
       const result = await toggleSupport(shopid);
 
@@ -94,11 +108,12 @@ export default function SupportButton({ shopid }: Props) {
   return (
     <button
       onClick={handleClick}
-      disabled={pending}
-      aria-disabled={pending}
+      disabled={pending || !ready}
+      aria-disabled={pending || !ready}
       className={`flex items-center space-x-1 transition
         ${liked ? "bg-pink-100 text-pink-600" : "bg-gray-100 text-gray-600"}
         ${pending ? "opacity-60 pointer-events-none" : ""}
+        ${!ready ? "opacity-40" : ""}
         px-2 py-[2px] text-xs rounded-md
         sm:px-3 sm:py-1 sm:text-sm sm:rounded-full
       `}
