@@ -39,7 +39,7 @@ export default function SupportButton({ shopid }: Props) {
         const sid = await getOrSetSessionId();
         if (!sid) throw new Error("session id 未生成");
         
-        // 店舗の総いいね数（集計テーブルから取得）
+        // ✅ 店舗の総いいね数（集計テーブルから取得）
         const { data: stat, error: statErr } = await supabaseClient
           .from("shop_stats")
           .select("likes_total")
@@ -49,7 +49,7 @@ export default function SupportButton({ shopid }: Props) {
         if (statErr) throw statErr;
         setLikes(stat?.likes_total ?? 0);
 
-        // JST基準で「今日」応援したかチェック
+        // ✅ JST基準で「今日」応援したかチェック
         const { start, end } = getJSTRangeUTC();
         const { data: existing, error: existErr } = await supabaseClient
           .from("support_events")
@@ -74,6 +74,20 @@ export default function SupportButton({ shopid }: Props) {
     init();
   }, [shopid]);
 
+  // ✅ Google Analytics (gtag) イベント送信ヘルパー
+  const trackSupportEvent = (action: "added" | "removed") => {
+    if (typeof window !== "undefined" && (window as any).dataLayer) {
+      (window as any).dataLayer.push({
+        event: action === "added" ? "support_added" : "support_removed",
+        shop_id: shopid,
+        event_category: "support",
+        event_label: "support_button",
+        value: 1,
+      });
+    }
+  };
+
+  // ✅ 応援ボタン押下時の処理
   const handleClick = async () => {
     if (!ready) {
       toast.error("接続準備中です。数秒後にお試しください。");
@@ -90,9 +104,17 @@ export default function SupportButton({ shopid }: Props) {
         setLiked(true);
         setLikes((prev) => prev + 1);
         toast.success("応援ありがとう！明日になれば同じお店を応援できるよ！");
+
+        // ✅ GAイベント送信
+        trackSupportEvent("added");
+
       } else if (result.status === "removed") {
         setLiked(false);
         setLikes((prev) => Math.max(0, prev - 1));
+
+        // ✅ GAイベント送信
+        trackSupportEvent("removed");
+
       } else if (result.status === "daily_limit") {
         toast.error("応援は1日3回までです。明日になれば、同じお店も応援できます！");
       } else if (result.status === "shop_limit") {
