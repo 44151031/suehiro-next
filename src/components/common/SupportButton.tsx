@@ -17,19 +17,31 @@ export default function SupportButton({ shopid }: Props) {
   // ✅ JST の 0:00～翌日0:00 を UTC に変換して返す
   const getJSTRangeUTC = () => {
     const now = new Date();
-    // UTC → JST (+9h)
     const jst = new Date(now.getTime() + 9 * 60 * 60 * 1000);
-
-    // JST の 0:00
     const startJST = new Date(jst.getFullYear(), jst.getMonth(), jst.getDate());
     const endJST = new Date(startJST);
     endJST.setDate(endJST.getDate() + 1);
 
-    // JST → UTC (-9h) に戻す
     const startUTC = new Date(startJST.getTime() - 9 * 60 * 60 * 1000);
     const endUTC = new Date(endJST.getTime() - 9 * 60 * 60 * 1000);
 
     return { start: startUTC.toISOString(), end: endUTC.toISOString() };
+  };
+
+  // ✅ Google Analytics (GTM) イベント送信用ヘルパー
+  const trackSupportEvent = (action: "added" | "removed") => {
+    if (typeof window !== "undefined" && (window as any).dataLayer) {
+      (window as any).dataLayer.push({
+        event: action === "added" ? "support_added" : "support_removed",
+        shop_id: shopid,
+        event_category: "support",
+        event_label: "support_button",
+        value: 1,
+      });
+      console.log(`🟢 GA4 event pushed: ${action} (${shopid})`);
+    } else {
+      console.warn("⚠️ dataLayer is not available — GTM not loaded yet.");
+    }
   };
 
   // ✅ 初期ロード（SupabaseとCookie準備が完了してから実行）
@@ -38,7 +50,7 @@ export default function SupportButton({ shopid }: Props) {
       try {
         const sid = await getOrSetSessionId();
         if (!sid) throw new Error("session id 未生成");
-        
+
         // ✅ 店舗の総いいね数（集計テーブルから取得）
         const { data: stat, error: statErr } = await supabaseClient
           .from("shop_stats")
@@ -66,26 +78,12 @@ export default function SupportButton({ shopid }: Props) {
         setReady(true); // ✅ 初期化完了
       } catch (e) {
         console.warn("初期化待機中:", e);
-        // 一時的にSupabaseが遅い場合のリトライ
         setTimeout(() => setReady(true), 3000);
       }
     };
 
     init();
   }, [shopid]);
-
-  // ✅ Google Analytics (gtag) イベント送信ヘルパー
-  const trackSupportEvent = (action: "added" | "removed") => {
-    if (typeof window !== "undefined" && (window as any).dataLayer) {
-      (window as any).dataLayer.push({
-        event: action === "added" ? "support_added" : "support_removed",
-        shop_id: shopid,
-        event_category: "support",
-        event_label: "support_button",
-        value: 1,
-      });
-    }
-  };
 
   // ✅ 応援ボタン押下時の処理
   const handleClick = async () => {
@@ -103,18 +101,12 @@ export default function SupportButton({ shopid }: Props) {
       if (result.status === "added") {
         setLiked(true);
         setLikes((prev) => prev + 1);
+        trackSupportEvent("added"); // ✅ GA4イベント送信
         toast.success("応援ありがとう！明日になれば同じお店を応援できるよ！");
-
-        // ✅ GAイベント送信
-        trackSupportEvent("added");
-
       } else if (result.status === "removed") {
         setLiked(false);
         setLikes((prev) => Math.max(0, prev - 1));
-
-        // ✅ GAイベント送信
-        trackSupportEvent("removed");
-
+        trackSupportEvent("removed"); // ✅ GA4イベント送信
       } else if (result.status === "daily_limit") {
         toast.error("応援は1日3回までです。明日になれば、同じお店も応援できます！");
       } else if (result.status === "shop_limit") {
