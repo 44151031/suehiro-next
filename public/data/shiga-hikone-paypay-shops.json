@@ -1,0 +1,1008 @@
+{
+    "サービス": [
+        {
+            "name": "H．Nail．Room",
+            "address": "旭町"
+        },
+        {
+            "name": "SOHO 彦根店",
+            "address": "旭町"
+        },
+        {
+            "name": "アッハ",
+            "address": "安食中町"
+        },
+        {
+            "name": "近江タクシー",
+            "address": "安清町"
+        },
+        {
+            "name": "Total care salon Laub",
+            "address": "稲枝町"
+        },
+        {
+            "name": "ほり",
+            "address": "稲里町"
+        },
+        {
+            "name": "なかむら接骨院",
+            "address": "宇尾町"
+        },
+        {
+            "name": "ファースト代行サービス",
+            "address": "宇尾町"
+        },
+        {
+            "name": "隼代行",
+            "address": "宇尾町"
+        },
+        {
+            "name": "hair&spa nap",
+            "address": "栄町"
+        },
+        {
+            "name": "ｍｉｅｕｘ",
+            "address": "栄町"
+        },
+        {
+            "name": "Jazz Silver Back",
+            "address": "駅東町"
+        },
+        {
+            "name": "LiLou",
+            "address": "駅東町"
+        },
+        {
+            "name": "near",
+            "address": "駅東町"
+        },
+        {
+            "name": "コペルプラス彦根駅前教室",
+            "address": "駅東町"
+        },
+        {
+            "name": "リラクゼーションサ□ンもみんちゅ",
+            "address": "駅東町"
+        },
+        {
+            "name": "近江タクシー",
+            "address": "駅東町"
+        },
+        {
+            "name": "近江トラベル",
+            "address": "駅東町"
+        },
+        {
+            "name": "湖国バス",
+            "address": "駅東町"
+        },
+        {
+            "name": "お花さんち。",
+            "address": "岡町"
+        },
+        {
+            "name": "新神社",
+            "address": "岡町"
+        },
+        {
+            "name": "彦根自動車学校",
+            "address": "岡町"
+        },
+        {
+            "name": "α-N代行",
+            "address": "下西川町"
+        },
+        {
+            "name": "Snack   Lazo",
+            "address": "河原"
+        },
+        {
+            "name": "SUAVE",
+            "address": "河原"
+        },
+        {
+            "name": "若林自動車工業",
+            "address": "賀田山町"
+        },
+        {
+            "name": "13 GRIND",
+            "address": "開出今町"
+        },
+        {
+            "name": "aroma salon美珠",
+            "address": "開出今町"
+        },
+        {
+            "name": "Atre;m",
+            "address": "開出今町"
+        },
+        {
+            "name": "balu-balu hair",
+            "address": "開出今町"
+        },
+        {
+            "name": "CAO-HOME",
+            "address": "開出今町"
+        },
+        {
+            "name": "keizo3",
+            "address": "開出今町"
+        },
+        {
+            "name": "ninon",
+            "address": "開出今町"
+        },
+        {
+            "name": "Supreme",
+            "address": "開出今町"
+        },
+        {
+            "name": "ホワイト急便彦根",
+            "address": "開出今町"
+        },
+        {
+            "name": "メルシーボーテ",
+            "address": "開出今町"
+        },
+        {
+            "name": "inup",
+            "address": "外町"
+        },
+        {
+            "name": "SPIRALNET",
+            "address": "外町"
+        },
+        {
+            "name": "カイ□プラクティック有",
+            "address": "外町"
+        },
+        {
+            "name": "まいれ整骨院",
+            "address": "外町"
+        },
+        {
+            "name": "ヤングドライ",
+            "address": "外町"
+        },
+        {
+            "name": "株式会社鈴木モータース",
+            "address": "外町"
+        },
+        {
+            "name": "赤井オートガラス",
+            "address": "外町"
+        },
+        {
+            "name": "Hair Space Daucus -ダウクス-",
+            "address": "葛籠町"
+        },
+        {
+            "name": "TRGA",
+            "address": "甘呂町"
+        },
+        {
+            "name": "ホワイト急便彦根",
+            "address": "甘呂町"
+        },
+        {
+            "name": "ファットリアたけぽん",
+            "address": "宮田町"
+        },
+        {
+            "name": "宮田町タイヤ交換所",
+            "address": "宮田町"
+        },
+        {
+            "name": "ALOE",
+            "address": "京町"
+        },
+        {
+            "name": "Ferreira",
+            "address": "京町"
+        },
+        {
+            "name": "Ferreira",
+            "address": "京町"
+        },
+        {
+            "name": "ｍｏｒｅ",
+            "address": "京町"
+        },
+        {
+            "name": "アルティス",
+            "address": "京町"
+        },
+        {
+            "name": "フォトサ□ンかとう",
+            "address": "橋向町"
+        },
+        {
+            "name": "Beauty Shop MYU",
+            "address": "錦町"
+        },
+        {
+            "name": "FY",
+            "address": "錦町"
+        },
+        {
+            "name": "カイ□ハウス ビアント",
+            "address": "芹町"
+        },
+        {
+            "name": "カイ□ハウスCure",
+            "address": "芹町"
+        },
+        {
+            "name": "ボチボチイコカ",
+            "address": "芹町"
+        },
+        {
+            "name": "大進モーター",
+            "address": "芹町"
+        },
+        {
+            "name": "湖東焼 一志郎窯",
+            "address": "芹橋"
+        },
+        {
+            "name": "シャンテル",
+            "address": "芹町"
+        },
+        {
+            "name": "Rapu",
+            "address": "金剛寺町"
+        },
+        {
+            "name": "Rapu",
+            "address": "金剛寺町"
+        },
+        {
+            "name": "salon nico",
+            "address": "金剛寺町"
+        },
+        {
+            "name": "SHU men's hair & natural face",
+            "address": "金沢町"
+        },
+        {
+            "name": "いろは治療院",
+            "address": "金沢町"
+        },
+        {
+            "name": "ひこね亀樂車",
+            "address": "銀座町"
+        },
+        {
+            "name": "ヘアーサ□ンフジツカ",
+            "address": "銀座町"
+        },
+        {
+            "name": "ポジティブスーパースター",
+            "address": "犬方町"
+        },
+        {
+            "name": "HYPERFIT24",
+            "address": "元町"
+        },
+        {
+            "name": "グランアート・コワーキングスペース",
+            "address": "元町"
+        },
+        {
+            "name": "彦根自転車タクシー協会",
+            "address": "元町"
+        },
+        {
+            "name": "chelice",
+            "address": "原町"
+        },
+        {
+            "name": "hair resort hinano",
+            "address": "原町"
+        },
+        {
+            "name": "popolass",
+            "address": "原町"
+        },
+        {
+            "name": "RIVAGE salon",
+            "address": "原町"
+        },
+        {
+            "name": "おかだ鍼灸整骨院",
+            "address": "原町"
+        },
+        {
+            "name": "ホワイトナンバー",
+            "address": "原町"
+        },
+        {
+            "name": "株式会社 滋賀レンタ・リース",
+            "address": "原町"
+        },
+        {
+            "name": "福祉美容サ□ン輪っか",
+            "address": "原町"
+        },
+        {
+            "name": "JADE SPORTS",
+            "address": "古沢町"
+        },
+        {
+            "name": "スマートライン 彦根店",
+            "address": "古沢町"
+        },
+        {
+            "name": "ひこねステーションホテル",
+            "address": "古沢町"
+        },
+        {
+            "name": "美容プラージュ",
+            "address": "古沢町"
+        },
+        {
+            "name": "amina",
+            "address": "戸賀町"
+        },
+        {
+            "name": "CHUMI NAIL",
+            "address": "戸賀町"
+        },
+        {
+            "name": "highlight 彦根店",
+            "address": "戸賀町"
+        },
+        {
+            "name": "Hirose Beetle",
+            "address": "戸賀町"
+        },
+        {
+            "name": "ＨＹＰＥＲ ＦＩＴ24",
+            "address": "戸賀町"
+        },
+        {
+            "name": "ＨＹＰＥＲ ＦＩＴ24",
+            "address": "戸賀町"
+        },
+        {
+            "name": "LIーlen",
+            "address": "戸賀町"
+        },
+        {
+            "name": "Luce",
+            "address": "戸賀町"
+        },
+        {
+            "name": "siro.",
+            "address": "戸賀町"
+        },
+        {
+            "name": "サンミュージック",
+            "address": "戸賀町"
+        },
+        {
+            "name": "サンミュージック彦根本店",
+            "address": "戸賀町"
+        },
+        {
+            "name": "fait maison Charme",
+            "address": "外町"
+        },
+        {
+            "name": "mokume",
+            "address": "外町"
+        },
+        {
+            "name": "SCC",
+            "address": "外町"
+        },
+        {
+            "name": "LIBREteahouse",
+            "address": "外町"
+        },
+        {
+            "name": "SHIMADA",
+            "address": "外町"
+        },
+        {
+            "name": "afri PRIVATE SALON",
+            "address": "外町"
+        },
+        {
+            "name": "assolato",
+            "address": "外町"
+        },
+        {
+            "name": "beauty salon mm",
+            "address": "外町"
+        },
+        {
+            "name": "club Adder",
+            "address": "外町"
+        },
+        {
+            "name": "FRONT 3 BAN",
+            "address": "外町"
+        },
+        {
+            "name": "Nail Anvie",
+            "address": "外町"
+        },
+        {
+            "name": "selfpowerfitness TRIGGER",
+            "address": "外町"
+        },
+        {
+            "name": "UAREA",
+            "address": "外町"
+        },
+        {
+            "name": "Withhair",
+            "address": "外町"
+        },
+        {
+            "name": "HN",
+            "address": "外町"
+        },
+        {
+            "name": "39Bread",
+            "address": "外町"
+        },
+        {
+            "name": "D.SQUARE",
+            "address": "外町"
+        },
+        {
+            "name": "Destiny",
+            "address": "外町"
+        },
+        {
+            "name": "Futuristic Platform",
+            "address": "外町"
+        },
+        {
+            "name": "Haku",
+            "address": "外町"
+        },
+        {
+            "name": "ichigoichie",
+            "address": "外町"
+        },
+        {
+            "name": "MAX CADY",
+            "address": "外町"
+        },
+        {
+            "name": "Prime",
+            "address": "外町"
+        },
+        {
+            "name": "Cafe Colbie",
+            "address": "外町"
+        },
+        {
+            "name": "LIMIT",
+            "address": "外町"
+        },
+        {
+            "name": "akubi",
+            "address": "外町"
+        },
+        {
+            "name": "Carnival",
+            "address": "外町"
+        },
+        {
+            "name": "enne",
+            "address": "外町"
+        },
+        {
+            "name": "Hair 09",
+            "address": "外町"
+        },
+        {
+            "name": "HairSpace Shining",
+            "address": "外町"
+        },
+        {
+            "name": "lokko",
+            "address": "外町"
+        },
+        {
+            "name": "MaNa",
+            "address": "外町"
+        },
+        {
+            "name": "mignon",
+            "address": "外町"
+        },
+        {
+            "name": "Nail Rose",
+            "address": "外町"
+        },
+        {
+            "name": "axia",
+            "address": "外町"
+        }
+    ],
+    "小売": [
+        {
+            "name": "グラススタジオ ステラーＧ．",
+            "address": "旭町"
+        },
+        {
+            "name": "アルス彦根店",
+            "address": "安食中町"
+        },
+        {
+            "name": "クスリのアオキ 稲枝店",
+            "address": "稲枝町"
+        },
+        {
+            "name": "平和堂彦根店",
+            "address": "古沢町"
+        },
+        {
+            "name": "ファミリーマート駅前南店",
+            "address": "駅東町"
+        },
+        {
+            "name": "リカーマウンテン南彦根店",
+            "address": "小泉町"
+        },
+        {
+            "name": "はるやま南彦根店",
+            "address": "西今町"
+        },
+        {
+            "name": "花しょうぶ通り商店街",
+            "address": "河原町"
+        },
+        {
+            "name": "近商ストア彦根店",
+            "address": "平田町"
+        },
+        {
+            "name": "ホームセンターコーナン彦根店",
+            "address": "西今町"
+        },
+        {
+            "name": "サンライズファッション",
+            "address": "松原町"
+        },
+        {
+            "name": "宮脇書店彦根店",
+            "address": "平田町"
+        },
+        {
+            "name": "セブンイレブン彦根駅前店",
+            "address": "大東町"
+        },
+        {
+            "name": "食料品宮崎商店",
+            "address": "河原町"
+        },
+        {
+            "name": "ドン・キホーテ彦根店",
+            "address": "西今町"
+        },
+        {
+            "name": "ローソン彦根松原東店",
+            "address": "松原町"
+        },
+        {
+            "name": "ホビークラブタカダ",
+            "address": "中央町"
+        },
+        {
+            "name": "スポーツデポ彦根松原店",
+            "address": "松原町"
+        },
+        {
+            "name": "キリン堂彦根松原店",
+            "address": "松原町"
+        },
+        {
+            "name": "ライトオンココット彦根店",
+            "address": "松原町"
+        },
+        {
+            "name": "ケーズデンキ彦根店",
+            "address": "東沼波町"
+        },
+        {
+            "name": "美濃屋紙店",
+            "address": "銀座町"
+        },
+        {
+            "name": "夢京橋あかり館",
+            "address": "本町"
+        },
+        {
+            "name": "コジマ",
+            "address": "里根町"
+        },
+        {
+            "name": "ルックたなか",
+            "address": "小泉町"
+        },
+        {
+            "name": "京美",
+            "address": "京町"
+        },
+        {
+            "name": "ユニクロイオンタウン彦根店",
+            "address": "里根町"
+        },
+        {
+            "name": "花廣",
+            "address": "本町"
+        },
+        {
+            "name": "ローソン彦根インター店",
+            "address": "東沼波町"
+        },
+        {
+            "name": "ローソン彦根外町店",
+            "address": "外町"
+        },
+        {
+            "name": "わかくさ堂",
+            "address": "外町"
+        },
+        {
+            "name": "しかの商店",
+            "address": "外町"
+        },
+        {
+            "name": "コジマ",
+            "address": "里根町"
+        },
+        {
+            "name": "ヤマダ電機 YAMADA web.com 彦根店",
+            "address": "里根町"
+        },
+        {
+            "name": "ベイシアスーパーセンター彦根店",
+            "address": "馬場二丁目"
+        },
+        {
+            "name": "丸善スーパーチェーン彦根店",
+            "address": "小泉町"
+        },
+        {
+            "name": "フレンドマート彦根地蔵店",
+            "address": "地蔵町"
+        },
+        {
+            "name": "ザ・ビッグエクストラ彦根店",
+            "address": "古沢町"
+        },
+        {
+            "name": "ライトオン フレスポ彦根店",
+            "address": "松原町"
+        },
+        {
+            "name": "バロー南彦根店",
+            "address": "野瀬町"
+        },
+        {
+            "name": "ドラッグユタカ彦根中央店",
+            "address": "小泉町"
+        }
+    ],
+    "飲食": [
+        {
+            "name": "ちゃんぽん亭総本家 本店",
+            "address": "幸町"
+        },
+        {
+            "name": "丸源ラーメン 彦根店",
+            "address": "外町"
+        },
+        {
+            "name": "豚旨うま屋ラーメン 彦根店",
+            "address": "大藪町"
+        },
+        {
+            "name": "びっくりドンキー 彦根店",
+            "address": "西沼波町"
+        },
+        {
+            "name": "クラブハリエ 彦根美濠の舎",
+            "address": "本町"
+        },
+        {
+            "name": "鮨割烹 銀水",
+            "address": "旭町"
+        },
+        {
+            "name": "ＣｏＣｏ壱番屋 彦根中藪店",
+            "address": "中藪町"
+        },
+        {
+            "name": "なか卯 ８号彦根高宮店",
+            "address": "高宮町"
+        },
+        {
+            "name": "和食さと 南彦根店",
+            "address": "東沼波町"
+        },
+        {
+            "name": "ちゃんぽん亭総本家 戸賀店",
+            "address": "戸賀町"
+        },
+        {
+            "name": "カフェ・ド・ミケ",
+            "address": "中央町"
+        },
+        {
+            "name": "スターバックスコーヒー 彦根駅前店",
+            "address": "大東町"
+        },
+        {
+            "name": "ミスタードーナツ 彦根駅前店",
+            "address": "大東町"
+        },
+        {
+            "name": "ロッテリア 彦根駅前店",
+            "address": "大東町"
+        },
+        {
+            "name": "不二家レストラン 彦根店",
+            "address": "西今町"
+        },
+        {
+            "name": "ガスト 彦根店",
+            "address": "外町"
+        },
+        {
+            "name": "ジョイフル 彦根店",
+            "address": "芹川町"
+        },
+        {
+            "name": "コメダ珈琲店 彦根店",
+            "address": "芹川町"
+        },
+        {
+            "name": "CAFE SAI",
+            "address": "本町"
+        },
+        {
+            "name": "居酒屋 大ちゃん",
+            "address": "大藪町"
+        },
+        {
+            "name": "うなぎや彦根",
+            "address": "安清町"
+        },
+        {
+            "name": "ぎょうざの満洲 南彦根店",
+            "address": "西今町"
+        },
+        {
+            "name": "餃子の王将 南彦根店",
+            "address": "西今町"
+        },
+        {
+            "name": "ほっこりや",
+            "address": "本町"
+        },
+        {
+            "name": "近江肉せんなり亭 伽羅",
+            "address": "本町"
+        },
+        {
+            "name": "比内地鶏 ほっこりや",
+            "address": "本町"
+        },
+        {
+            "name": "炭火焼鳥 こうちゃん",
+            "address": "銀座町"
+        },
+        {
+            "name": "とんかつ新村",
+            "address": "中央町"
+        },
+        {
+            "name": "洋食屋モリタ",
+            "address": "河原町"
+        },
+        {
+            "name": "御料理 はちす",
+            "address": "芹川町"
+        },
+        {
+            "name": "ラーメンにっこう",
+            "address": "松原町"
+        },
+        {
+            "name": "まるいし",
+            "address": "中央町"
+        },
+        {
+            "name": "レストラン湖月",
+            "address": "本町"
+        },
+        {
+            "name": "本格炭火焼うなぎ えん 彦根店",
+            "address": "後三条町"
+        },
+        {
+            "name": "ビストロヴィオロン",
+            "address": "西今町"
+        },
+        {
+            "name": "Cafe+Bar Charanke",
+            "address": "本町"
+        },
+        {
+            "name": "カフェレストランあさひ",
+            "address": "旭町"
+        },
+        {
+            "name": "和食麺処サガミ 彦根店",
+            "address": "平田町"
+        },
+        {
+            "name": "すしと酒 箔 彦根店",
+            "address": "竹ケ鼻町"
+        },
+        {
+            "name": "とりいち彦根店",
+            "address": "大東町"
+        },
+        {
+            "name": "いろはにほへと 彦根駅前店",
+            "address": "大東町"
+        },
+        {
+            "name": "牛角 彦根店",
+            "address": "西今町"
+        },
+        {
+            "name": "牛角焼肉食堂 ビバシティ彦根店",
+            "address": "竹ケ鼻町"
+        }
+    ],
+    "宿泊": [
+        {
+            "name": "彦根キャッスルリゾート＆スパ",
+            "address": "佐和町"
+        },
+        {
+            "name": "ホテルサンルート彦根",
+            "address": "旭町"
+        },
+        {
+            "name": "コンフォートホテル彦根",
+            "address": "大東町"
+        },
+        {
+            "name": "ひこねステーションホテル",
+            "address": "西今町"
+        },
+        {
+            "name": "ホテルルートイン彦根",
+            "address": "西今町"
+        },
+        {
+            "name": "アパホテル〈彦根南〉",
+            "address": "高宮町"
+        },
+        {
+            "name": "亀の井ホテル 彦根",
+            "address": "松原町"
+        },
+        {
+            "name": "城下町彦根の町家 本町宿",
+            "address": "本町"
+        },
+        {
+            "name": "びわ湖畔 味覚の宿 双葉荘",
+            "address": "松原町"
+        },
+        {
+            "name": "ホテルエスタシオン彦根",
+            "address": "安清町"
+        }
+    ],
+    "観光": [
+        {
+            "name": "彦根城",
+            "address": "金亀町1-1"
+        },
+        {
+            "name": "彦根城博物館",
+            "address": "金亀町1-1"
+        },
+        {
+            "name": "玄宮園",
+            "address": "金亀町3"
+        },
+        {
+            "name": "夢京橋キャッスルロード",
+            "address": "本町"
+        },
+        {
+            "name": "四番町スクエア",
+            "address": "本町"
+        },
+        {
+            "name": "多賀大社",
+            "address": "多賀町"
+        },
+        {
+            "name": "琵琶湖畔（松原水泳場／松原公園など）",
+            "address": "松原町"
+        },
+        {
+            "name": "松原湖岸公園",
+            "address": "松原町"
+        },
+        {
+            "name": "彦根市立花しょうぶ通り商店街",
+            "address": "河原町"
+        },
+        {
+            "name": "金亀公園",
+            "address": "金亀町"
+        },
+        {
+            "name": "多景島",
+            "address": "多景町"
+        },
+        {
+            "name": "清凉寺",
+            "address": "西今町"
+        },
+        {
+            "name": "彦根市立水泳場",
+            "address": "松原町"
+        },
+        {
+            "name": "佐和山城跡",
+            "address": "佐和山町"
+        },
+        {
+            "name": "長曽根公園",
+            "address": "長曽根町"
+        },
+        {
+            "name": "龍潭寺",
+            "address": "古沢町1104"
+        },
+        {
+            "name": "天寧寺（五百羅漢）",
+            "address": "里根町"
+        },
+        {
+            "name": "埋木舎",
+            "address": "金亀町"
+        },
+        {
+            "name": "有川家住宅",
+            "address": "河原町芹町地区"
+        },
+        {
+            "name": "彦根城佐和口多門櫓（開国記念館）",
+            "address": "金亀町1-1"
+        },
+        {
+            "name": "馬屋（国指定重要文化財）",
+            "address": "金亀町1-1"
+        },
+        {
+            "name": "名勝 八幡堀",
+            "address": "本町"
+        },
+        {
+            "name": "オーミマリン 竹生島めぐり（彦根港）",
+            "address": "大藪町"
+        },
+        {
+            "name": "ビワコ サップスクール",
+            "address": "松原町"
+        }
+    ]
+}
