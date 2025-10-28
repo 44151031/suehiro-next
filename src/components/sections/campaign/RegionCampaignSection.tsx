@@ -50,17 +50,40 @@ export default function CampaignGroupSection({
 
       <div className="grid grid-cols-1 xl:grid-cols-2 gap-10">
         {groupPrefectures.map((pref) => {
-          const filtered = campaigns.filter((c) => {
-            if (c.prefectureSlug !== pref.slug) return false;
+          const filtered = campaigns
+            .filter((c) => {
+              if (c.prefectureSlug !== pref.slug) return false;
 
-            const status = getCampaignStatus(c.startDate, c.endDate);
-            if (!overrideCampaigns && status === "ended") return false;
-            if (showOnlyActive && status !== "active") return false;
-            if (showOnlyOver30Percent && c.offer < 30) return false;
-            if (showOnlyOver10000Yen && Number(c.fullpoint) < 10000) return false;
+              const status = getCampaignStatus(c.startDate, c.endDate);
+              if (!overrideCampaigns && status === "ended") return false;
+              if (showOnlyActive && status !== "active") return false;
+              if (showOnlyOver30Percent && c.offer < 30) return false;
+              if (showOnlyOver10000Yen && Number(c.fullpoint) < 10000)
+                return false;
 
-            return true;
-          });
+              return true;
+            })
+            .sort((a, b) => {
+              // ① 開始日（新しい順）
+              const dateDiff =
+                new Date(b.startDate).getTime() -
+                new Date(a.startDate).getTime();
+              if (dateDiff !== 0) return dateDiff;
+
+              // ② 市区町村名（五十音順）
+              const cityDiff = a.city.localeCompare(b.city, "ja");
+              if (cityDiff !== 0) return cityDiff;
+
+              // ③ 支払いタイプ順（PayPay → d払い → 楽天ペイ → auPAY）
+              const payOrder = ["paypay", "dbarai", "rakutenpay", "aupay"];
+              const aIndex = payOrder.indexOf(a.paytype);
+              const bIndex = payOrder.indexOf(b.paytype);
+
+              if (aIndex === -1 && bIndex === -1) return 0;
+              if (aIndex === -1) return 1;
+              if (bIndex === -1) return -1;
+              return aIndex - bIndex;
+            });
 
           if (filtered.length === 0) return null;
 
