@@ -64,10 +64,10 @@ export default function CampaignGroupSection({
               return true;
             })
             .sort((a, b) => {
-              // ① 開始日（新しい順）
+              // ① 開始日（古い順＝昇順）
               const dateDiff =
-                new Date(b.startDate).getTime() -
-                new Date(a.startDate).getTime();
+                new Date(a.startDate).getTime() -
+                new Date(b.startDate).getTime();
               if (dateDiff !== 0) return dateDiff;
 
               // ② 市区町村名（五十音順）
