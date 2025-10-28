@@ -1,34 +1,154 @@
 {
   "その他": [
-    { "name": "岩手日報野田センター" },
-    { "name": "大沢園芸" },
-    { "name": "大沢菓子店" },
-    { "name": "大澤酒店" },
-    { "name": "お食事処 十府ヶ浦" },
-    { "name": "小野旅館" },
-    { "name": "カットスマイル" },
-    { "name": "かまどのつきや" },
-    { "name": "観光物産館ぱあぷる・野田村交流施設" },
-    { "name": "北末精肉店" },
-    { "name": "共進設備野田営業所" },
-    { "name": "ケイエスケイ" },
-    { "name": "国民宿舎えぼし荘" },
-    { "name": "小林 フォト" },
-    { "name": "サロン・ド・寿恵留" },
-    { "name": "沢口呉服店" },
-    { "name": "白木屋クリーニング店" },
-    { "name": "涼海の丘ワイナリー" },
-    { "name": "SLOW LIFE" },
-    { "name": "たいようのいちこ" },
-    { "name": "田中時計眼鏡店" },
-    { "name": "てしごと屋（本店）" },
-    { "name": "徳屋呉服店" },
-    { "name": "dog salon Saimon" },
-    { "name": "中野輪業" },
-    { "name": "のだ食堂よってっ亭" },
-    { "name": "バ・ニッシュピアノ教室野田店" },
-    { "name": "マミーストアー" },
-    { "name": "洋食・旬彩料理 みなみ" },
-    { "name": "rokka" }
+    {
+      "name": "岩手日報野田センター",
+      "storeid": "noda-ec8b6f",
+      "shopid": "noda-ec8b6f-paypay"
+    },
+    {
+      "name": "大沢園芸",
+      "storeid": "noda-73521c",
+      "shopid": "noda-73521c-paypay"
+    },
+    {
+      "name": "大沢菓子店",
+      "storeid": "noda-58e286",
+      "shopid": "noda-58e286-paypay"
+    },
+    {
+      "name": "大澤酒店",
+      "storeid": "noda-d1c827",
+      "shopid": "noda-d1c827-paypay"
+    },
+    {
+      "name": "お食事処 十府ヶ浦",
+      "storeid": "noda-39b202",
+      "shopid": "noda-39b202-paypay"
+    },
+    {
+      "name": "小野旅館",
+      "storeid": "noda-dfe087",
+      "shopid": "noda-dfe087-paypay"
+    },
+    {
+      "name": "カットスマイル",
+      "storeid": "noda-53c3f1",
+      "shopid": "noda-53c3f1-paypay"
+    },
+    {
+      "name": "かまどのつきや",
+      "storeid": "noda-395b25",
+      "shopid": "noda-395b25-paypay"
+    },
+    {
+      "name": "観光物産館ぱあぷる・野田村交流施設",
+      "storeid": "noda-388443",
+      "shopid": "noda-388443-paypay"
+    },
+    {
+      "name": "北末精肉店",
+      "storeid": "noda-0780e2",
+      "shopid": "noda-0780e2-paypay"
+    },
+    {
+      "name": "共進設備野田営業所",
+      "storeid": "noda-a20020",
+      "shopid": "noda-a20020-paypay"
+    },
+    {
+      "name": "ケイエスケイ",
+      "storeid": "noda-43e5a8",
+      "shopid": "noda-43e5a8-paypay"
+    },
+    {
+      "name": "国民宿舎えぼし荘",
+      "storeid": "noda-7b7061",
+      "shopid": "noda-7b7061-paypay"
+    },
+    {
+      "name": "小林 フォト",
+      "storeid": "noda-65f178",
+      "shopid": "noda-65f178-paypay"
+    },
+    {
+      "name": "サロン・ド・寿恵留",
+      "storeid": "noda-8ed2c9",
+      "shopid": "noda-8ed2c9-paypay"
+    },
+    {
+      "name": "沢口呉服店",
+      "storeid": "noda-2abefa",
+      "shopid": "noda-2abefa-paypay"
+    },
+    {
+      "name": "白木屋クリーニング店",
+      "storeid": "noda-2461db",
+      "shopid": "noda-2461db-paypay"
+    },
+    {
+      "name": "涼海の丘ワイナリー",
+      "storeid": "noda-45548d",
+      "shopid": "noda-45548d-paypay"
+    },
+    {
+      "name": "SLOW LIFE",
+      "storeid": "noda-500b3f",
+      "shopid": "noda-500b3f-paypay"
+    },
+    {
+      "name": "たいようのいちこ",
+      "storeid": "noda-5f7583",
+      "shopid": "noda-5f7583-paypay"
+    },
+    {
+      "name": "田中時計眼鏡店",
+      "storeid": "noda-a6616b",
+      "shopid": "noda-a6616b-paypay"
+    },
+    {
+      "name": "てしごと屋（本店）",
+      "storeid": "noda-e4da1f",
+      "shopid": "noda-e4da1f-paypay"
+    },
+    {
+      "name": "徳屋呉服店",
+      "storeid": "noda-bfc567",
+      "shopid": "noda-bfc567-paypay"
+    },
+    {
+      "name": "dog salon Saimon",
+      "storeid": "noda-324509",
+      "shopid": "noda-324509-paypay"
+    },
+    {
+      "name": "中野輪業",
+      "storeid": "noda-9f4f34",
+      "shopid": "noda-9f4f34-paypay"
+    },
+    {
+      "name": "のだ食堂よってっ亭",
+      "storeid": "noda-9c2749",
+      "shopid": "noda-9c2749-paypay"
+    },
+    {
+      "name": "バ・ニッシュピアノ教室野田店",
+      "storeid": "noda-cda554",
+      "shopid": "noda-cda554-paypay"
+    },
+    {
+      "name": "マミーストアー",
+      "storeid": "noda-a877a3",
+      "shopid": "noda-a877a3-paypay"
+    },
+    {
+      "name": "洋食・旬彩料理 みなみ",
+      "storeid": "noda-88898d",
+      "shopid": "noda-88898d-paypay"
+    },
+    {
+      "name": "rokka",
+      "storeid": "noda-438425",
+      "shopid": "noda-438425-paypay"
+    }
   ]
 }

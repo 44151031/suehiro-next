@@ -1,27 +1,119 @@
 {
   "その他": [
-    { "name": "大沢園芸" },
-    { "name": "大澤酒店" },
-    { "name": "小野旅館" },
-    { "name": "国民宿舎えぼし荘" },
-    { "name": "小林 フォト" },
-    { "name": "沢口呉服店" },
-    { "name": "白木屋 クリーニング店" },
-    { "name": "涼海の丘ワイナリー" },
-    { "name": "SLOW LIFE" },
-    { "name": "たいようのいちこ" },
-    { "name": "田中時計眼鏡店" },
-    { "name": "てしごと屋（本店／ぱあぷる店）" },
-    { "name": "徳屋呉服店" },
-    { "name": "dog salon Saimon" },
-    { "name": "中野輪業" },
-    { "name": "のだ食堂よってっ亭" },
-    { "name": "野田村交流施設・道の駅のだ" },
-    { "name": "バ・ニッシュピアノ教室野田店" },
-    { "name": "有限会社大沢菓子店" },
-    { "name": "有限会社北末" },
-    { "name": "有限会社ケイエスケイ" },
-    { "name": "有限会社 マミーストアー" },
-    { "name": "rokka" }
+    {
+      "name": "大沢園芸",
+      "storeid": "noda-73521c",
+      "shopid": "noda-73521c-aupay"
+    },
+    {
+      "name": "大澤酒店",
+      "storeid": "noda-d1c827",
+      "shopid": "noda-d1c827-aupay"
+    },
+    {
+      "name": "小野旅館",
+      "storeid": "noda-dfe087",
+      "shopid": "noda-dfe087-aupay"
+    },
+    {
+      "name": "国民宿舎えぼし荘",
+      "storeid": "noda-7b7061",
+      "shopid": "noda-7b7061-aupay"
+    },
+    {
+      "name": "小林 フォト",
+      "storeid": "noda-65f178",
+      "shopid": "noda-65f178-aupay"
+    },
+    {
+      "name": "沢口呉服店",
+      "storeid": "noda-2abefa",
+      "shopid": "noda-2abefa-aupay"
+    },
+    {
+      "name": "白木屋 クリーニング店",
+      "storeid": "noda-b041ea",
+      "shopid": "noda-b041ea-aupay"
+    },
+    {
+      "name": "涼海の丘ワイナリー",
+      "storeid": "noda-45548d",
+      "shopid": "noda-45548d-aupay"
+    },
+    {
+      "name": "SLOW LIFE",
+      "storeid": "noda-500b3f",
+      "shopid": "noda-500b3f-aupay"
+    },
+    {
+      "name": "たいようのいちこ",
+      "storeid": "noda-5f7583",
+      "shopid": "noda-5f7583-aupay"
+    },
+    {
+      "name": "田中時計眼鏡店",
+      "storeid": "noda-a6616b",
+      "shopid": "noda-a6616b-aupay"
+    },
+    {
+      "name": "てしごと屋（本店／ぱあぷる店）",
+      "storeid": "noda-7283b1",
+      "shopid": "noda-7283b1-aupay"
+    },
+    {
+      "name": "徳屋呉服店",
+      "storeid": "noda-bfc567",
+      "shopid": "noda-bfc567-aupay"
+    },
+    {
+      "name": "dog salon Saimon",
+      "storeid": "noda-324509",
+      "shopid": "noda-324509-aupay"
+    },
+    {
+      "name": "中野輪業",
+      "storeid": "noda-9f4f34",
+      "shopid": "noda-9f4f34-aupay"
+    },
+    {
+      "name": "のだ食堂よってっ亭",
+      "storeid": "noda-9c2749",
+      "shopid": "noda-9c2749-aupay"
+    },
+    {
+      "name": "野田村交流施設・道の駅のだ",
+      "storeid": "noda-41a01f",
+      "shopid": "noda-41a01f-aupay"
+    },
+    {
+      "name": "バ・ニッシュピアノ教室野田店",
+      "storeid": "noda-cda554",
+      "shopid": "noda-cda554-aupay"
+    },
+    {
+      "name": "有限会社大沢菓子店",
+      "storeid": "noda-8ea04d",
+      "shopid": "noda-8ea04d-aupay"
+    },
+    {
+      "name": "有限会社北末",
+      "storeid": "noda-340b80",
+      "shopid": "noda-340b80-aupay"
+    },
+    {
+      "name": "有限会社ケイエスケイ",
+      "storeid": "noda-54e889",
+      "shopid": "noda-54e889-aupay"
+    },
+    {
+      "name": "有限会社 マミーストアー",
+      "storeid": "noda-154415",
+      "shopid": "noda-154415-aupay"
+    },
+    {
+      "name": "rokka",
+      "storeid": "noda-438425",
+      "shopid": "noda-438425-aupay"
+    }
   ]
 }
