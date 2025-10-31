@@ -1,0 +1,1414 @@
+{
+  "小売": [
+    {
+      "name": "さんのまる薬局",
+      "address": "浦田",
+      "storeid": "kimitsu-86a522",
+      "shopid": "kimitsu-86a522-aupay"
+    },
+    {
+      "name": "アカツキ自動車商会",
+      "address": "下湯江",
+      "storeid": "kimitsu-dfe600",
+      "shopid": "kimitsu-dfe600-aupay"
+    },
+    {
+      "name": "和蔵酒造",
+      "address": "下湯江",
+      "storeid": "kimitsu-b85372",
+      "shopid": "kimitsu-b85372-aupay"
+    },
+    {
+      "name": "fiore",
+      "address": "外箕輪",
+      "storeid": "kimitsu-ab27b3",
+      "shopid": "kimitsu-ab27b3-aupay"
+    },
+    {
+      "name": "かずさ和牛工房",
+      "address": "外箕輪",
+      "storeid": "kimitsu-5c91b5",
+      "shopid": "kimitsu-5c91b5-aupay"
+    },
+    {
+      "name": "カネス",
+      "address": "外箕輪",
+      "storeid": "kimitsu-7bc452",
+      "shopid": "kimitsu-7bc452-aupay"
+    },
+    {
+      "name": "やおしん",
+      "address": "外箕輪",
+      "storeid": "kimitsu-5b1ed8",
+      "shopid": "kimitsu-5b1ed8-aupay"
+    },
+    {
+      "name": "ローソン 君津外箕輪三丁目店",
+      "address": "外箕輪",
+      "storeid": "kimitsu-6bda67",
+      "shopid": "kimitsu-6bda67-aupay"
+    },
+    {
+      "name": "天池 君津店",
+      "address": "外箕輪",
+      "storeid": "kimitsu-8e619f",
+      "shopid": "kimitsu-8e619f-aupay"
+    },
+    {
+      "name": "ワールドビュー",
+      "address": "岩出",
+      "storeid": "kimitsu-1fd323",
+      "shopid": "kimitsu-1fd323-aupay"
+    },
+    {
+      "name": "Aショップ",
+      "address": "久保",
+      "storeid": "kimitsu-58963d",
+      "shopid": "kimitsu-58963d-aupay"
+    },
+    {
+      "name": "生鮮スーパーふじや",
+      "address": "久保",
+      "storeid": "kimitsu-126b16",
+      "shopid": "kimitsu-126b16-aupay"
+    },
+    {
+      "name": "ボンメゾン 君津店",
+      "address": "久保",
+      "storeid": "kimitsu-6287fe",
+      "shopid": "kimitsu-6287fe-aupay"
+    },
+    {
+      "name": "ローソン 君津市役所前店",
+      "address": "久保",
+      "storeid": "kimitsu-20d3aa",
+      "shopid": "kimitsu-20d3aa-aupay"
+    },
+    {
+      "name": "君津フラワーショップ",
+      "address": "久保",
+      "storeid": "kimitsu-fe38c1",
+      "shopid": "kimitsu-fe38c1-aupay"
+    },
+    {
+      "name": "かなぐや",
+      "address": "久留里市場",
+      "storeid": "kimitsu-fc5d88",
+      "shopid": "kimitsu-fc5d88-aupay"
+    },
+    {
+      "name": "ライフページ仲田屋",
+      "address": "久留里市場",
+      "storeid": "kimitsu-22a63e",
+      "shopid": "kimitsu-22a63e-aupay"
+    },
+    {
+      "name": "一木自動車",
+      "address": "久留里市場",
+      "storeid": "kimitsu-979b45",
+      "shopid": "kimitsu-979b45-aupay"
+    },
+    {
+      "name": "越前屋",
+      "address": "久留里市場",
+      "storeid": "kimitsu-3227ee",
+      "shopid": "kimitsu-3227ee-aupay"
+    },
+    {
+      "name": "紀平豆腐店",
+      "address": "久留里市場",
+      "storeid": "kimitsu-731c33",
+      "shopid": "kimitsu-731c33-aupay"
+    },
+    {
+      "name": "真田本店",
+      "address": "久留里市場",
+      "storeid": "kimitsu-e04bbd",
+      "shopid": "kimitsu-e04bbd-aupay"
+    },
+    {
+      "name": "堀内薬局",
+      "address": "久留里市場",
+      "storeid": "kimitsu-26e192",
+      "shopid": "kimitsu-26e192-aupay"
+    },
+    {
+      "name": "木村屋金物店",
+      "address": "久留里市場",
+      "storeid": "kimitsu-182130",
+      "shopid": "kimitsu-182130-aupay"
+    },
+    {
+      "name": "木村屋金物店 久留里SS",
+      "address": "久留里市場",
+      "storeid": "kimitsu-65f440",
+      "shopid": "kimitsu-65f440-aupay"
+    },
+    {
+      "name": "木村屋金物店 本店",
+      "address": "久留里市場",
+      "storeid": "kimitsu-d6ced1",
+      "shopid": "kimitsu-d6ced1-aupay"
+    },
+    {
+      "name": "ローソン H君津宮下一丁目店",
+      "address": "宮下",
+      "storeid": "kimitsu-c96e0b",
+      "shopid": "kimitsu-c96e0b-aupay"
+    },
+    {
+      "name": "ローソン 君津郡店",
+      "address": "郡",
+      "storeid": "kimitsu-335a04",
+      "shopid": "kimitsu-335a04-aupay"
+    },
+    {
+      "name": "宮崎酒造店",
+      "address": "戸崎",
+      "storeid": "kimitsu-b6ee5e",
+      "shopid": "kimitsu-b6ee5e-aupay"
+    },
+    {
+      "name": "小高屋商店",
+      "address": "戸崎",
+      "storeid": "kimitsu-02cdb8",
+      "shopid": "kimitsu-02cdb8-aupay"
+    },
+    {
+      "name": "パナソニックの店 Plug-in いしい松丘店",
+      "address": "広岡",
+      "storeid": "kimitsu-3b9d51",
+      "shopid": "kimitsu-3b9d51-aupay"
+    },
+    {
+      "name": "鍛冶屋商店",
+      "address": "広岡",
+      "storeid": "kimitsu-0c60d4",
+      "shopid": "kimitsu-0c60d4-aupay"
+    },
+    {
+      "name": "米蔵",
+      "address": "広岡",
+      "storeid": "kimitsu-0f4f06",
+      "shopid": "kimitsu-0f4f06-aupay"
+    },
+    {
+      "name": "栄和自動車",
+      "address": "糠田",
+      "storeid": "kimitsu-462696",
+      "shopid": "kimitsu-462696-aupay"
+    },
+    {
+      "name": "猟師工房ランド",
+      "address": "香木原",
+      "storeid": "kimitsu-b797f7",
+      "shopid": "kimitsu-b797f7-aupay"
+    },
+    {
+      "name": "JA-SS ジャスポートこいと",
+      "address": "根本",
+      "storeid": "kimitsu-af37f6",
+      "shopid": "kimitsu-af37f6-aupay"
+    },
+    {
+      "name": "ヒラノスポーツ",
+      "address": "坂田",
+      "storeid": "kimitsu-752909",
+      "shopid": "kimitsu-752909-aupay"
+    },
+    {
+      "name": "ENEOS 小山野SS（茂木商店）",
+      "address": "小山野",
+      "storeid": "kimitsu-f1d059",
+      "shopid": "kimitsu-f1d059-aupay"
+    },
+    {
+      "name": "君津自動車板金",
+      "address": "上湯江",
+      "storeid": "kimitsu-b616d2",
+      "shopid": "kimitsu-b616d2-aupay"
+    },
+    {
+      "name": "R.Naturally",
+      "address": "常代",
+      "storeid": "kimitsu-eb058b",
+      "shopid": "kimitsu-eb058b-aupay"
+    },
+    {
+      "name": "PS Jerky's zizi",
+      "address": "人見",
+      "storeid": "kimitsu-e8d5a8",
+      "shopid": "kimitsu-e8d5a8-aupay"
+    },
+    {
+      "name": "ローソン 君津人見店",
+      "address": "人見",
+      "storeid": "kimitsu-0afbcd",
+      "shopid": "kimitsu-0afbcd-aupay"
+    },
+    {
+      "name": "君津清和診療所",
+      "address": "西粟倉",
+      "storeid": "kimitsu-85d40c",
+      "shopid": "kimitsu-85d40c-aupay"
+    },
+    {
+      "name": "ジャム工房iPPO",
+      "address": "西原",
+      "storeid": "kimitsu-397559",
+      "shopid": "kimitsu-397559-aupay"
+    },
+    {
+      "name": "美リーブ ダイアナ",
+      "address": "西坂田",
+      "storeid": "kimitsu-760520",
+      "shopid": "kimitsu-760520-aupay"
+    },
+    {
+      "name": "かしの木薬局 久留里店",
+      "address": "青柳",
+      "storeid": "kimitsu-35ec90",
+      "shopid": "kimitsu-35ec90-aupay"
+    },
+    {
+      "name": "須藤本家",
+      "address": "青柳",
+      "storeid": "kimitsu-e43c96",
+      "shopid": "kimitsu-e43c96-aupay"
+    },
+    {
+      "name": "花工房 スラタン/穴太商店",
+      "address": "泉",
+      "storeid": "kimitsu-a1ae51",
+      "shopid": "kimitsu-a1ae51-aupay"
+    },
+    {
+      "name": "京葉ビジネスサービス",
+      "address": "泉",
+      "storeid": "kimitsu-4d262a",
+      "shopid": "kimitsu-4d262a-aupay"
+    },
+    {
+      "name": "オフビ―ト",
+      "address": "台",
+      "storeid": "kimitsu-803fb1",
+      "shopid": "kimitsu-803fb1-aupay"
+    },
+    {
+      "name": "apollostation 清和SS",
+      "address": "大岩",
+      "storeid": "kimitsu-61a914",
+      "shopid": "kimitsu-61a914-aupay"
+    },
+    {
+      "name": "HondaCars 木更津 君津店",
+      "address": "大和田",
+      "storeid": "kimitsu-45e808",
+      "shopid": "kimitsu-45e808-aupay"
+    },
+    {
+      "name": "カーコンビニ倶楽部 マルマス",
+      "address": "中野",
+      "storeid": "kimitsu-5adcdd",
+      "shopid": "kimitsu-5adcdd-aupay"
+    },
+    {
+      "name": "コンドー楽器ヤマハ音楽教室 イオンタウン君津",
+      "address": "中野",
+      "storeid": "kimitsu-04bb5d",
+      "shopid": "kimitsu-04bb5d-aupay"
+    },
+    {
+      "name": "ペットシッター君津",
+      "address": "中野",
+      "storeid": "kimitsu-a528b1",
+      "shopid": "kimitsu-a528b1-aupay"
+    },
+    {
+      "name": "ローソン 君津中野店",
+      "address": "中野",
+      "storeid": "kimitsu-fd0d46",
+      "shopid": "kimitsu-fd0d46-aupay"
+    },
+    {
+      "name": "君津補聴器センター",
+      "address": "中野",
+      "storeid": "kimitsu-d9a141",
+      "shopid": "kimitsu-d9a141-aupay"
+    },
+    {
+      "name": "佐久間薬局",
+      "address": "中野",
+      "storeid": "kimitsu-f6a2b6",
+      "shopid": "kimitsu-f6a2b6-aupay"
+    },
+    {
+      "name": "小   種苗店",
+      "address": "中野",
+      "storeid": "kimitsu-250c59",
+      "shopid": "kimitsu-250c59-aupay"
+    },
+    {
+      "name": "JAきみつ ジャスポートさだもと",
+      "address": "♛元",
+      "storeid": "kimitsu-3e79b4",
+      "shopid": "kimitsu-3e79b4-aupay"
+    },
+    {
+      "name": "JAきみつ味楽囲さだもと店",
+      "address": "♛元",
+      "storeid": "kimitsu-79bee0",
+      "shopid": "kimitsu-79bee0-aupay"
+    },
+    {
+      "name": "清幸丸水産直売店",
+      "address": "♛元",
+      "storeid": "kimitsu-85421b",
+      "shopid": "kimitsu-85421b-aupay"
+    },
+    {
+      "name": "very foods 尾張屋 君津店",
+      "address": "東坂田",
+      "storeid": "kimitsu-3551f1",
+      "shopid": "kimitsu-3551f1-aupay"
+    },
+    {
+      "name": "クレープハウス ピーナッツ",
+      "address": "東坂田",
+      "storeid": "kimitsu-c2598a",
+      "shopid": "kimitsu-c2598a-aupay"
+    },
+    {
+      "name": "ヘアースタジオ アンティア",
+      "address": "東坂田",
+      "storeid": "kimitsu-797428",
+      "shopid": "kimitsu-797428-aupay"
+    },
+    {
+      "name": "メガネサロン トミナガ 東坂田店",
+      "address": "東坂田",
+      "storeid": "kimitsu-da25b0",
+      "shopid": "kimitsu-da25b0-aupay"
+    },
+    {
+      "name": "めがねのマルコー",
+      "address": "東坂田",
+      "storeid": "kimitsu-da8822",
+      "shopid": "kimitsu-da8822-aupay"
+    },
+    {
+      "name": "ローソン 君津東坂田二丁目店",
+      "address": "東坂田",
+      "storeid": "kimitsu-72b963",
+      "shopid": "kimitsu-72b963-aupay"
+    },
+    {
+      "name": "マリポコミュ",
+      "address": "東日笠",
+      "storeid": "kimitsu-d338be",
+      "shopid": "kimitsu-d338be-aupay"
+    },
+    {
+      "name": "たい焼きひなちゃん",
+      "address": "南久保",
+      "storeid": "kimitsu-b2c19e",
+      "shopid": "kimitsu-b2c19e-aupay"
+    },
+    {
+      "name": "HondaCars 南千葉 U-Select君津店",
+      "address": "南子安",
+      "storeid": "kimitsu-0a900d",
+      "shopid": "kimitsu-0a900d-aupay"
+    },
+    {
+      "name": "エビス薬局 南子安店",
+      "address": "南子安",
+      "storeid": "kimitsu-b5db58",
+      "shopid": "kimitsu-b5db58-aupay"
+    },
+    {
+      "name": "ドラッグWAKUWAKU南子安店",
+      "address": "南子安",
+      "storeid": "kimitsu-216313",
+      "shopid": "kimitsu-216313-aupay"
+    },
+    {
+      "name": "ブンブンドウ",
+      "address": "南子安",
+      "storeid": "kimitsu-201bed",
+      "shopid": "kimitsu-201bed-aupay"
+    },
+    {
+      "name": "メガネサロントミナガ 南子安店",
+      "address": "南子安",
+      "storeid": "kimitsu-c2f35d",
+      "shopid": "kimitsu-c2f35d-aupay"
+    },
+    {
+      "name": "ローソン H君津南子安六丁目店",
+      "address": "南子安",
+      "storeid": "kimitsu-6a35cc",
+      "shopid": "kimitsu-6a35cc-aupay"
+    },
+    {
+      "name": "ローソン 君津八重原店",
+      "address": "南子安",
+      "storeid": "kimitsu-9c799e",
+      "shopid": "kimitsu-9c799e-aupay"
+    },
+    {
+      "name": "君津在宅診療所",
+      "address": "南子安",
+      "storeid": "kimitsu-fc78c1",
+      "shopid": "kimitsu-fc78c1-aupay"
+    },
+    {
+      "name": "富分 君津店",
+      "address": "南子安",
+      "storeid": "kimitsu-dd5d3a",
+      "shopid": "kimitsu-dd5d3a-aupay"
+    },
+    {
+      "name": "Plug-in おぐら",
+      "address": "俵田",
+      "storeid": "kimitsu-f75503",
+      "shopid": "kimitsu-f75503-aupay"
+    },
+    {
+      "name": "にこにこ薬局",
+      "address": "北久保",
+      "storeid": "kimitsu-ef1108",
+      "shopid": "kimitsu-ef1108-aupay"
+    },
+    {
+      "name": "HondaCars 木更津 君津127号店",
+      "address": "北子安",
+      "storeid": "kimitsu-131cdd",
+      "shopid": "kimitsu-131cdd-aupay"
+    },
+    {
+      "name": "ラスカルオート",
+      "address": "北子安",
+      "storeid": "kimitsu-b6b718",
+      "shopid": "kimitsu-b6b718-aupay"
+    },
+    {
+      "name": "戸田屋寝具店",
+      "address": "北子安",
+      "storeid": "kimitsu-acc1a9",
+      "shopid": "kimitsu-acc1a9-aupay"
+    },
+    {
+      "name": "JA-SS ジャスポートおびつ",
+      "address": "末吉",
+      "storeid": "kimitsu-0f3398",
+      "shopid": "kimitsu-0f3398-aupay"
+    },
+    {
+      "name": "JAきみつ味楽囲おびつ店",
+      "address": "末吉",
+      "storeid": "kimitsu-dfada0",
+      "shopid": "kimitsu-dfada0-aupay"
+    },
+    {
+      "name": "ローソン 君津末吉店",
+      "address": "末吉字下浪帰",
+      "storeid": "kimitsu-d938fc",
+      "shopid": "kimitsu-d938fc-aupay"
+    },
+    {
+      "name": "一心堂",
+      "address": "杢師",
+      "storeid": "kimitsu-6976ee",
+      "shopid": "kimitsu-6976ee-aupay"
+    },
+    {
+      "name": "旅名観光農園フルーツ村",
+      "address": "旅名",
+      "storeid": "kimitsu-5c1d49",
+      "shopid": "kimitsu-5c1d49-aupay"
+    }
+  ],
+  "飲食": [
+    {
+      "name": "たんとはらみ",
+      "address": "外箕輪",
+      "storeid": "kimitsu-f8580d",
+      "shopid": "kimitsu-f8580d-aupay"
+    },
+    {
+      "name": "やきとり百々",
+      "address": "外箕輪",
+      "storeid": "kimitsu-e23d0e",
+      "shopid": "kimitsu-e23d0e-aupay"
+    },
+    {
+      "name": "ラーメンみのわ",
+      "address": "外箕輪",
+      "storeid": "kimitsu-b245f7",
+      "shopid": "kimitsu-b245f7-aupay"
+    },
+    {
+      "name": "海鮮食堂 膳",
+      "address": "外箕輪",
+      "storeid": "kimitsu-c3c369",
+      "shopid": "kimitsu-c3c369-aupay"
+    },
+    {
+      "name": "暖家",
+      "address": "外箕輪",
+      "storeid": "kimitsu-563167",
+      "shopid": "kimitsu-563167-aupay"
+    },
+    {
+      "name": "Asian Royal Kitchen",
+      "address": "久保",
+      "storeid": "kimitsu-30ca75",
+      "shopid": "kimitsu-30ca75-aupay"
+    },
+    {
+      "name": "ししまる",
+      "address": "久保",
+      "storeid": "kimitsu-2380cd",
+      "shopid": "kimitsu-2380cd-aupay"
+    },
+    {
+      "name": "ゼッテリア アピタ君津店",
+      "address": "久保",
+      "storeid": "kimitsu-aa9251",
+      "shopid": "kimitsu-aa9251-aupay"
+    },
+    {
+      "name": "ひふ・ていぃ",
+      "address": "久保",
+      "storeid": "kimitsu-f84817",
+      "shopid": "kimitsu-f84817-aupay"
+    },
+    {
+      "name": "居酒屋 やすらぎ",
+      "address": "久保",
+      "storeid": "kimitsu-b99159",
+      "shopid": "kimitsu-b99159-aupay"
+    },
+    {
+      "name": "居酒屋 りあん",
+      "address": "久保",
+      "storeid": "kimitsu-722fe6",
+      "shopid": "kimitsu-722fe6-aupay"
+    },
+    {
+      "name": "居酒屋 楽々",
+      "address": "久保",
+      "storeid": "kimitsu-cf8e27",
+      "shopid": "kimitsu-cf8e27-aupay"
+    },
+    {
+      "name": "厳鮮酒場とろいめらい",
+      "address": "久保",
+      "storeid": "kimitsu-f3b8ae",
+      "shopid": "kimitsu-f3b8ae-aupay"
+    },
+    {
+      "name": "参",
+      "address": "久保",
+      "storeid": "kimitsu-6d6674",
+      "shopid": "kimitsu-6d6674-aupay"
+    },
+    {
+      "name": "七輪焼 すけちゃん",
+      "address": "久保",
+      "storeid": "kimitsu-9fdc9e",
+      "shopid": "kimitsu-9fdc9e-aupay"
+    },
+    {
+      "name": "小料理 津",
+      "address": "久保",
+      "storeid": "kimitsu-8e321e",
+      "shopid": "kimitsu-8e321e-aupay"
+    },
+    {
+      "name": "焼肉ホルモン居酒屋ワールド",
+      "address": "久保",
+      "storeid": "kimitsu-62ae15",
+      "shopid": "kimitsu-62ae15-aupay"
+    },
+    {
+      "name": "日本料理 天秀",
+      "address": "久保",
+      "storeid": "kimitsu-f38bcf",
+      "shopid": "kimitsu-f38bcf-aupay"
+    },
+    {
+      "name": "TeaRoom Ellie",
+      "address": "久留里市場",
+      "storeid": "kimitsu-70fa7a",
+      "shopid": "kimitsu-70fa7a-aupay"
+    },
+    {
+      "name": "cafe ku",
+      "address": "郡",
+      "storeid": "kimitsu-81f758",
+      "shopid": "kimitsu-81f758-aupay"
+    },
+    {
+      "name": "唄える味の店 久美",
+      "address": "戸崎",
+      "storeid": "kimitsu-cae05a",
+      "shopid": "kimitsu-cae05a-aupay"
+    },
+    {
+      "name": "東京オリーブ 君津店",
+      "address": "根本",
+      "storeid": "kimitsu-e33aed",
+      "shopid": "kimitsu-e33aed-aupay"
+    },
+    {
+      "name": "猟師工房ドライブイン",
+      "address": "笹",
+      "storeid": "kimitsu-efd5fd",
+      "shopid": "kimitsu-efd5fd-aupay"
+    },
+    {
+      "name": "さくらKitchen",
+      "address": "三直",
+      "storeid": "kimitsu-a291c5",
+      "shopid": "kimitsu-a291c5-aupay"
+    },
+    {
+      "name": "コーラル山滝野",
+      "address": "山滝野",
+      "storeid": "kimitsu-35795a",
+      "shopid": "kimitsu-35795a-aupay"
+    },
+    {
+      "name": "オートスタイル",
+      "address": "小糸大谷",
+      "storeid": "kimitsu-d10793",
+      "shopid": "kimitsu-d10793-aupay"
+    },
+    {
+      "name": "ハローアン",
+      "address": "人見",
+      "storeid": "kimitsu-2abd8a",
+      "shopid": "kimitsu-2abd8a-aupay"
+    },
+    {
+      "name": "パン工房いちか",
+      "address": "人見",
+      "storeid": "kimitsu-356209",
+      "shopid": "kimitsu-356209-aupay"
+    },
+    {
+      "name": "本格中華 台湾料理 龍虎",
+      "address": "人見",
+      "storeid": "kimitsu-ed21dd",
+      "shopid": "kimitsu-ed21dd-aupay"
+    },
+    {
+      "name": "麺屋 寛虎",
+      "address": "人見",
+      "storeid": "kimitsu-277024",
+      "shopid": "kimitsu-277024-aupay"
+    },
+    {
+      "name": "PanNe",
+      "address": "西坂田",
+      "storeid": "kimitsu-1b1cc4",
+      "shopid": "kimitsu-1b1cc4-aupay"
+    },
+    {
+      "name": "かつ味",
+      "address": "西坂田",
+      "storeid": "kimitsu-b6feb1",
+      "shopid": "kimitsu-b6feb1-aupay"
+    },
+    {
+      "name": "菊藏",
+      "address": "西坂田",
+      "storeid": "kimitsu-001a7e",
+      "shopid": "kimitsu-001a7e-aupay"
+    },
+    {
+      "name": "居酒屋 FACE COOK",
+      "address": "西坂田",
+      "storeid": "kimitsu-f606b5",
+      "shopid": "kimitsu-f606b5-aupay"
+    },
+    {
+      "name": "居酒屋 ふくろう",
+      "address": "西坂田",
+      "storeid": "kimitsu-5a9ccc",
+      "shopid": "kimitsu-5a9ccc-aupay"
+    },
+    {
+      "name": "日本料理 市松茶寮",
+      "address": "西坂田",
+      "storeid": "kimitsu-cfc56c",
+      "shopid": "kimitsu-cfc56c-aupay"
+    },
+    {
+      "name": "KAMO CAFE",
+      "address": "俣旧   俣",
+      "storeid": "kimitsu-978a09",
+      "shopid": "kimitsu-978a09-aupay"
+    },
+    {
+      "name": "亀山やすらぎ館 湖畔亭",
+      "address": "俣旧   俣",
+      "storeid": "kimitsu-fe9beb",
+      "shopid": "kimitsu-fe9beb-aupay"
+    },
+    {
+      "name": "村のピザ屋 カンパーニャ",
+      "address": "大戸見",
+      "storeid": "kimitsu-d21531",
+      "shopid": "kimitsu-d21531-aupay"
+    },
+    {
+      "name": "コイトコーヒー",
+      "address": "中島",
+      "storeid": "kimitsu-245308",
+      "shopid": "kimitsu-245308-aupay"
+    },
+    {
+      "name": "いわし処てるひこ",
+      "address": "中野",
+      "storeid": "kimitsu-520efb",
+      "shopid": "kimitsu-520efb-aupay"
+    },
+    {
+      "name": "かつ波奈 君津店",
+      "address": "中野",
+      "storeid": "kimitsu-ac5474",
+      "shopid": "kimitsu-ac5474-aupay"
+    },
+    {
+      "name": "カレントスタジオ/カフェ 君津店",
+      "address": "中野",
+      "storeid": "kimitsu-bd0f71",
+      "shopid": "kimitsu-bd0f71-aupay"
+    },
+    {
+      "name": "魚民 君津南口駅前店",
+      "address": "中野",
+      "storeid": "kimitsu-7ecb2e",
+      "shopid": "kimitsu-7ecb2e-aupay"
+    },
+    {
+      "name": "他力本願",
+      "address": "中野",
+      "storeid": "kimitsu-71e5e1",
+      "shopid": "kimitsu-71e5e1-aupay"
+    },
+    {
+      "name": "天ぷらふぐ 天たけ",
+      "address": "中野",
+      "storeid": "kimitsu-25ad2d",
+      "shopid": "kimitsu-25ad2d-aupay"
+    },
+    {
+      "name": "房総ダイニングGozzo",
+      "address": "中野",
+      "storeid": "kimitsu-5fcc08",
+      "shopid": "kimitsu-5fcc08-aupay"
+    },
+    {
+      "name": "炉端ひぼし屋 本店",
+      "address": "中野",
+      "storeid": "kimitsu-00716a",
+      "shopid": "kimitsu-00716a-aupay"
+    },
+    {
+      "name": "オリーブの丘 君津駅前店",
+      "address": "東坂田",
+      "storeid": "kimitsu-e92d05",
+      "shopid": "kimitsu-e92d05-aupay"
+    },
+    {
+      "name": "からあげ 鶏みつ",
+      "address": "東坂田",
+      "storeid": "kimitsu-a0a2df",
+      "shopid": "kimitsu-a0a2df-aupay"
+    },
+    {
+      "name": "ごはん茶屋 風茶楼",
+      "address": "東坂田",
+      "storeid": "kimitsu-d32065",
+      "shopid": "kimitsu-d32065-aupay"
+    },
+    {
+      "name": "バル DE ZACK 君津店",
+      "address": "東坂田",
+      "storeid": "kimitsu-f1c530",
+      "shopid": "kimitsu-f1c530-aupay"
+    },
+    {
+      "name": "ほまれや",
+      "address": "東坂田",
+      "storeid": "kimitsu-11a2de",
+      "shopid": "kimitsu-11a2de-aupay"
+    },
+    {
+      "name": "喫茶もういちど",
+      "address": "東坂田",
+      "storeid": "kimitsu-cd742d",
+      "shopid": "kimitsu-cd742d-aupay"
+    },
+    {
+      "name": "君津ジンギスカン",
+      "address": "東坂田",
+      "storeid": "kimitsu-30ff01",
+      "shopid": "kimitsu-30ff01-aupay"
+    },
+    {
+      "name": "綱島園 君津店",
+      "address": "東坂田",
+      "storeid": "kimitsu-af481b",
+      "shopid": "kimitsu-af481b-aupay"
+    },
+    {
+      "name": "肴処 ほまれや",
+      "address": "東坂田",
+      "storeid": "kimitsu-e3dfd9",
+      "shopid": "kimitsu-e3dfd9-aupay"
+    },
+    {
+      "name": "千年の宴 君津北口駅前店",
+      "address": "東坂田",
+      "storeid": "kimitsu-17077b",
+      "shopid": "kimitsu-17077b-aupay"
+    },
+    {
+      "name": "美酒美食 粋心",
+      "address": "東坂田",
+      "storeid": "kimitsu-9c738c",
+      "shopid": "kimitsu-9c738c-aupay"
+    },
+    {
+      "name": "やきとり 秀ちゃん",
+      "address": "内蓑輪",
+      "storeid": "kimitsu-e411e6",
+      "shopid": "kimitsu-e411e6-aupay"
+    },
+    {
+      "name": "Bistro HACHIYA",
+      "address": "南子安",
+      "storeid": "kimitsu-a1930c",
+      "shopid": "kimitsu-a1930c-aupay"
+    },
+    {
+      "name": "あやき亭",
+      "address": "南子安",
+      "storeid": "kimitsu-097803",
+      "shopid": "kimitsu-097803-aupay"
+    },
+    {
+      "name": "スーパー回転寿司やまと君津店",
+      "address": "南子安",
+      "storeid": "kimitsu-ab7c94",
+      "shopid": "kimitsu-ab7c94-aupay"
+    },
+    {
+      "name": "せんねんの木 patisserie",
+      "address": "南子安",
+      "storeid": "kimitsu-016f97",
+      "shopid": "kimitsu-016f97-aupay"
+    },
+    {
+      "name": "タニワキクレープ",
+      "address": "南子安",
+      "storeid": "kimitsu-670436",
+      "shopid": "kimitsu-670436-aupay"
+    },
+    {
+      "name": "だるま寿し",
+      "address": "南子安",
+      "storeid": "kimitsu-98d152",
+      "shopid": "kimitsu-98d152-aupay"
+    },
+    {
+      "name": "テレショップM キミツケータイ館",
+      "address": "南子安",
+      "storeid": "kimitsu-1511dc",
+      "shopid": "kimitsu-1511dc-aupay"
+    },
+    {
+      "name": "パティオ",
+      "address": "南子安",
+      "storeid": "kimitsu-53d692",
+      "shopid": "kimitsu-53d692-aupay"
+    },
+    {
+      "name": "牛角 君津店",
+      "address": "南子安",
+      "storeid": "kimitsu-874d64",
+      "shopid": "kimitsu-874d64-aupay"
+    },
+    {
+      "name": "居酒家みしま",
+      "address": "南子安",
+      "storeid": "kimitsu-a10d48",
+      "shopid": "kimitsu-a10d48-aupay"
+    },
+    {
+      "name": "京城苑",
+      "address": "南子安",
+      "storeid": "kimitsu-65997c",
+      "shopid": "kimitsu-65997c-aupay"
+    },
+    {
+      "name": "台湾料理天香一 俵田店",
+      "address": "俵田",
+      "storeid": "kimitsu-0dc57c",
+      "shopid": "kimitsu-0dc57c-aupay"
+    },
+    {
+      "name": "旬彩屋 やま椛",
+      "address": "豊田旧野中",
+      "storeid": "kimitsu-5e10f9",
+      "shopid": "kimitsu-5e10f9-aupay"
+    },
+    {
+      "name": "ナンハウス 君津店",
+      "address": "北子安",
+      "storeid": "kimitsu-a68373",
+      "shopid": "kimitsu-a68373-aupay"
+    },
+    {
+      "name": "ピノキオラーメン",
+      "address": "北子安",
+      "storeid": "kimitsu-136af0",
+      "shopid": "kimitsu-136af0-aupay"
+    },
+    {
+      "name": "激辛ラーメンの拉麺帝王",
+      "address": "北子安",
+      "storeid": "kimitsu-544c67",
+      "shopid": "kimitsu-544c67-aupay"
+    },
+    {
+      "name": "千歩",
+      "address": "北子安",
+      "storeid": "kimitsu-782fcf",
+      "shopid": "kimitsu-782fcf-aupay"
+    },
+    {
+      "name": "扇や",
+      "address": "北子安",
+      "storeid": "kimitsu-bb25aa",
+      "shopid": "kimitsu-bb25aa-aupay"
+    },
+    {
+      "name": "日比谷三源豚",
+      "address": "北子安",
+      "storeid": "kimitsu-9d1f21",
+      "shopid": "kimitsu-9d1f21-aupay"
+    },
+    {
+      "name": "明月苑",
+      "address": "北子安",
+      "storeid": "kimitsu-23caf4",
+      "shopid": "kimitsu-23caf4-aupay"
+    },
+    {
+      "name": "和食居酒屋 よこ田",
+      "address": "北子安",
+      "storeid": "kimitsu-196a9d",
+      "shopid": "kimitsu-196a9d-aupay"
+    },
+    {
+      "name": "豊月堂おびつ",
+      "address": "末吉",
+      "storeid": "kimitsu-3a486b",
+      "shopid": "kimitsu-3a486b-aupay"
+    },
+    {
+      "name": "あんぷらっと",
+      "address": "杢師",
+      "storeid": "kimitsu-c486f7",
+      "shopid": "kimitsu-c486f7-aupay"
+    },
+    {
+      "name": "おすしやさん魚忠",
+      "address": "杢師",
+      "storeid": "kimitsu-833ed1",
+      "shopid": "kimitsu-833ed1-aupay"
+    },
+    {
+      "name": "食事処 あめ家 本店",
+      "address": "杢師",
+      "storeid": "kimitsu-3aa288",
+      "shopid": "kimitsu-3aa288-aupay"
+    }
+  ],
+  "サービス": [
+    {
+      "name": "ano pokkur",
+      "address": "外箕輪",
+      "storeid": "kimitsu-2c51d9",
+      "shopid": "kimitsu-2c51d9-aupay"
+    },
+    {
+      "name": "Cars plus",
+      "address": "外箕輪",
+      "storeid": "kimitsu-16e255",
+      "shopid": "kimitsu-16e255-aupay"
+    },
+    {
+      "name": "NDM AUTO",
+      "address": "外箕輪",
+      "storeid": "kimitsu-0ae358",
+      "shopid": "kimitsu-0ae358-aupay"
+    },
+    {
+      "name": "アトリエ髪美人",
+      "address": "外箕輪",
+      "storeid": "kimitsu-5b5de7",
+      "shopid": "kimitsu-5b5de7-aupay"
+    },
+    {
+      "name": "カーファクトリーK's",
+      "address": "外箕輪",
+      "storeid": "kimitsu-1d8d8d",
+      "shopid": "kimitsu-1d8d8d-aupay"
+    },
+    {
+      "name": "もみほぐし・整体 Sky",
+      "address": "外箕輪",
+      "storeid": "kimitsu-c77aef",
+      "shopid": "kimitsu-c77aef-aupay"
+    },
+    {
+      "name": "新栄建物サービス",
+      "address": "外箕輪",
+      "storeid": "kimitsu-d682f7",
+      "shopid": "kimitsu-d682f7-aupay"
+    },
+    {
+      "name": "hair salon Raffine",
+      "address": "久保",
+      "storeid": "kimitsu-fea9cf",
+      "shopid": "kimitsu-fea9cf-aupay"
+    },
+    {
+      "name": "カイロプラクティックPono 君津店",
+      "address": "久保",
+      "storeid": "kimitsu-e065af",
+      "shopid": "kimitsu-e065af-aupay"
+    },
+    {
+      "name": "らくそう",
+      "address": "久保",
+      "storeid": "kimitsu-c1d894",
+      "shopid": "kimitsu-c1d894-aupay"
+    },
+    {
+      "name": "美容室CUT-PARK君津店",
+      "address": "久保",
+      "storeid": "kimitsu-7df7f7",
+      "shopid": "kimitsu-7df7f7-aupay"
+    },
+    {
+      "name": "伊藤塗装",
+      "address": "戸崎",
+      "storeid": "kimitsu-8d70d0",
+      "shopid": "kimitsu-8d70d0-aupay"
+    },
+    {
+      "name": "いずみ農機サービス",
+      "address": "向郷",
+      "storeid": "kimitsu-7f6619",
+      "shopid": "kimitsu-7f6619-aupay"
+    },
+    {
+      "name": "CUT IN jem",
+      "address": "坂田",
+      "storeid": "kimitsu-b34128",
+      "shopid": "kimitsu-b34128-aupay"
+    },
+    {
+      "name": "君津市民文化ホール",
+      "address": "三直",
+      "storeid": "kimitsu-7fd1eb",
+      "shopid": "kimitsu-7fd1eb-aupay"
+    },
+    {
+      "name": "まこと自動車",
+      "address": "寺沢",
+      "storeid": "kimitsu-5c49f6",
+      "shopid": "kimitsu-5c49f6-aupay"
+    },
+    {
+      "name": "R HAIR from kurosawa",
+      "address": "常代",
+      "storeid": "kimitsu-85b2c6",
+      "shopid": "kimitsu-85b2c6-aupay"
+    },
+    {
+      "name": "コインランドリーてるてる常代店",
+      "address": "常代",
+      "storeid": "kimitsu-97d220",
+      "shopid": "kimitsu-97d220-aupay"
+    },
+    {
+      "name": "木洩日",
+      "address": "常代",
+      "storeid": "kimitsu-d317b5",
+      "shopid": "kimitsu-d317b5-aupay"
+    },
+    {
+      "name": "AQUA STYLE",
+      "address": "人見",
+      "storeid": "kimitsu-7a8575",
+      "shopid": "kimitsu-7a8575-aupay"
+    },
+    {
+      "name": "悠莉セカンド美容室",
+      "address": "人見",
+      "storeid": "kimitsu-c7d03d",
+      "shopid": "kimitsu-c7d03d-aupay"
+    },
+    {
+      "name": "Gluck hair",
+      "address": "西坂田",
+      "storeid": "kimitsu-638bf4",
+      "shopid": "kimitsu-638bf4-aupay"
+    },
+    {
+      "name": "QUICK GYM 君津店",
+      "address": "西坂田",
+      "storeid": "kimitsu-3ae260",
+      "shopid": "kimitsu-3ae260-aupay"
+    },
+    {
+      "name": "Rerise",
+      "address": "西坂田",
+      "storeid": "kimitsu-9558c6",
+      "shopid": "kimitsu-9558c6-aupay"
+    },
+    {
+      "name": "松本自動車板金塗装",
+      "address": "泉",
+      "storeid": "kimitsu-3fafa1",
+      "shopid": "kimitsu-3fafa1-aupay"
+    },
+    {
+      "name": "Clarte",
+      "address": "台",
+      "storeid": "kimitsu-7fbb6d",
+      "shopid": "kimitsu-7fbb6d-aupay"
+    },
+    {
+      "name": "BOTAN 君津店",
+      "address": "中野",
+      "storeid": "kimitsu-f8b2d4",
+      "shopid": "kimitsu-f8b2d4-aupay"
+    },
+    {
+      "name": "からだCure整骨院",
+      "address": "中野",
+      "storeid": "kimitsu-a9642c",
+      "shopid": "kimitsu-a9642c-aupay"
+    },
+    {
+      "name": "コインランドリーてるてる中野2丁目店",
+      "address": "中野",
+      "storeid": "kimitsu-934465",
+      "shopid": "kimitsu-934465-aupay"
+    },
+    {
+      "name": "サニタ整骨院 君津中野店",
+      "address": "中野",
+      "storeid": "kimitsu-6729da",
+      "shopid": "kimitsu-6729da-aupay"
+    },
+    {
+      "name": "ヘアーサロン アン",
+      "address": "中野",
+      "storeid": "kimitsu-4084e3",
+      "shopid": "kimitsu-4084e3-aupay"
+    },
+    {
+      "name": "ロマンの森共和国 大使館",
+      "address": "中野",
+      "storeid": "kimitsu-aaa96a",
+      "shopid": "kimitsu-aaa96a-aupay"
+    },
+    {
+      "name": "台湾式足つぼ Reflexology TARA",
+      "address": "中野",
+      "storeid": "kimitsu-e6e11e",
+      "shopid": "kimitsu-e6e11e-aupay"
+    },
+    {
+      "name": "KOCO-hair.",
+      "address": "東坂田",
+      "storeid": "kimitsu-515bc9",
+      "shopid": "kimitsu-515bc9-aupay"
+    },
+    {
+      "name": "アッシュ美容室",
+      "address": "東坂田",
+      "storeid": "kimitsu-95150a",
+      "shopid": "kimitsu-95150a-aupay"
+    },
+    {
+      "name": "りらくる 君津店",
+      "address": "東坂田",
+      "storeid": "kimitsu-6031db",
+      "shopid": "kimitsu-6031db-aupay"
+    },
+    {
+      "name": "ロハス整体院",
+      "address": "東坂田",
+      "storeid": "kimitsu-62c215",
+      "shopid": "kimitsu-62c215-aupay"
+    },
+    {
+      "name": "髪結",
+      "address": "東坂田",
+      "storeid": "kimitsu-53f7ef",
+      "shopid": "kimitsu-53f7ef-aupay"
+    },
+    {
+      "name": "ヘアーサロンMIYAZAKI",
+      "address": "内蓑輪",
+      "storeid": "kimitsu-9aaaad",
+      "shopid": "kimitsu-9aaaad-aupay"
+    },
+    {
+      "name": "君津整体院 H&B",
+      "address": "南久保",
+      "storeid": "kimitsu-6f8c34",
+      "shopid": "kimitsu-6f8c34-aupay"
+    },
+    {
+      "name": "ANGEL hair salon",
+      "address": "南子安",
+      "storeid": "kimitsu-8d7e1d",
+      "shopid": "kimitsu-8d7e1d-aupay"
+    },
+    {
+      "name": "L's kind",
+      "address": "南子安",
+      "storeid": "kimitsu-4f0ff3",
+      "shopid": "kimitsu-4f0ff3-aupay"
+    },
+    {
+      "name": "MAKES",
+      "address": "南子安",
+      "storeid": "kimitsu-1efc5e",
+      "shopid": "kimitsu-1efc5e-aupay"
+    },
+    {
+      "name": "クリーニング専科 南子安店",
+      "address": "南子安",
+      "storeid": "kimitsu-523e0e",
+      "shopid": "kimitsu-523e0e-aupay"
+    },
+    {
+      "name": "コインランドリーてるてる南子安店",
+      "address": "南子安",
+      "storeid": "kimitsu-0662db",
+      "shopid": "kimitsu-0662db-aupay"
+    },
+    {
+      "name": "はりきゅう治療室 健光",
+      "address": "南子安",
+      "storeid": "kimitsu-379cd7",
+      "shopid": "kimitsu-379cd7-aupay"
+    },
+    {
+      "name": "ひかり整骨院",
+      "address": "南子安",
+      "storeid": "kimitsu-5b0181",
+      "shopid": "kimitsu-5b0181-aupay"
+    },
+    {
+      "name": "車検のコバック 君津店",
+      "address": "南子安",
+      "storeid": "kimitsu-ad4330",
+      "shopid": "kimitsu-ad4330-aupay"
+    },
+    {
+      "name": "富田事務所",
+      "address": "富田",
+      "storeid": "kimitsu-d89864",
+      "shopid": "kimitsu-d89864-aupay"
+    },
+    {
+      "name": "はりきゅう治療室 ほどほど堂",
+      "address": "法木作",
+      "storeid": "kimitsu-62bc75",
+      "shopid": "kimitsu-62bc75-aupay"
+    },
+    {
+      "name": "美容室ナイーブ",
+      "address": "北久保",
+      "storeid": "kimitsu-acfad4",
+      "shopid": "kimitsu-acfad4-aupay"
+    },
+    {
+      "name": "シライアンテナ/遮deらく",
+      "address": "箕輪",
+      "storeid": "kimitsu-c71a6c",
+      "shopid": "kimitsu-c71a6c-aupay"
+    },
+    {
+      "name": "Heart Land",
+      "address": "杢師",
+      "storeid": "kimitsu-1544eb",
+      "shopid": "kimitsu-1544eb-aupay"
+    },
+    {
+      "name": "クリーニング和田",
+      "address": "杢師",
+      "storeid": "kimitsu-3e1018",
+      "shopid": "kimitsu-3e1018-aupay"
+    },
+    {
+      "name": "伊組",
+      "address": "杢師",
+      "storeid": "kimitsu-82d13e",
+      "shopid": "kimitsu-82d13e-aupay"
+    }
+  ],
+  "その他": [
+    {
+      "name": "圓明院",
+      "address": "山本",
+      "storeid": "kimitsu-2cc6ce",
+      "shopid": "kimitsu-2cc6ce-aupay"
+    },
+    {
+      "name": "断食道場はぎのさと",
+      "address": "鹿野山",
+      "storeid": "kimitsu-c528f1",
+      "shopid": "kimitsu-c528f1-aupay"
+    },
+    {
+      "name": "房総韓国語教室",
+      "address": "人見",
+      "storeid": "kimitsu-184e73",
+      "shopid": "kimitsu-184e73-aupay"
+    },
+    {
+      "name": "鈴木歯科クリニック",
+      "address": "中島",
+      "storeid": "kimitsu-bcb113",
+      "shopid": "kimitsu-bcb113-aupay"
+    },
+    {
+      "name": "郁栄会 君津ピースデンタルクリニック",
+      "address": "中野",
+      "storeid": "kimitsu-20a492",
+      "shopid": "kimitsu-20a492-aupay"
+    },
+    {
+      "name": "南子安動物病院",
+      "address": "南子安",
+      "storeid": "kimitsu-519553",
+      "shopid": "kimitsu-519553-aupay"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "飲食": [
+    {
+      "name": "海鮮食堂 膳",
+      "address": "外箕輪",
+      "storeid": "kimitsu-c3c369",
+      "shopid": "kimitsu-c3c369-aeonpay"
+    },
+    {
+      "name": "ししまる",
+      "address": "久保",
+      "storeid": "kimitsu-2380cd",
+      "shopid": "kimitsu-2380cd-aeonpay"
+    },
+    {
+      "name": "ゼッテリア アピタ君津店",
+      "address": "久保",
+      "storeid": "kimitsu-aa9251",
+      "shopid": "kimitsu-aa9251-aeonpay"
+    },
+    {
+      "name": "ひふ・ていぃ",
+      "address": "久保",
+      "storeid": "kimitsu-f84817",
+      "shopid": "kimitsu-f84817-aeonpay"
+    },
+    {
+      "name": "居酒屋 りあん",
+      "address": "久保",
+      "storeid": "kimitsu-722fe6",
+      "shopid": "kimitsu-722fe6-aeonpay"
+    },
+    {
+      "name": "参",
+      "address": "久保",
+      "storeid": "kimitsu-6d6674",
+      "shopid": "kimitsu-6d6674-aeonpay"
+    },
+    {
+      "name": "cafe ku",
+      "address": "郡",
+      "storeid": "kimitsu-81f758",
+      "shopid": "kimitsu-81f758-aeonpay"
+    },
+    {
+      "name": "唄える味の店 久美",
+      "address": "戸崎",
+      "storeid": "kimitsu-cae05a",
+      "shopid": "kimitsu-cae05a-aeonpay"
+    },
+    {
+      "name": "さくらKitchen",
+      "address": "三直",
+      "storeid": "kimitsu-a291c5",
+      "shopid": "kimitsu-a291c5-aeonpay"
+    },
+    {
+      "name": "本格中華 台湾料理 龍虎",
+      "address": "人見",
+      "storeid": "kimitsu-ed21dd",
+      "shopid": "kimitsu-ed21dd-aeonpay"
+    },
+    {
+      "name": "かつ味",
+      "address": "西坂田",
+      "storeid": "kimitsu-b6feb1",
+      "shopid": "kimitsu-b6feb1-aeonpay"
+    },
+    {
+      "name": "菊藏",
+      "address": "西坂田",
+      "storeid": "kimitsu-001a7e",
+      "shopid": "kimitsu-001a7e-aeonpay"
+    },
+    {
+      "name": "居酒屋 FACE COOK",
+      "address": "西坂田",
+      "storeid": "kimitsu-f606b5",
+      "shopid": "kimitsu-f606b5-aeonpay"
+    },
+    {
+      "name": "日本料理 市松茶寮",
+      "address": "西坂田",
+      "storeid": "kimitsu-cfc56c",
+      "shopid": "kimitsu-cfc56c-aeonpay"
+    },
+    {
+      "name": "コイトコーヒー",
+      "address": "中島",
+      "storeid": "kimitsu-245308",
+      "shopid": "kimitsu-245308-aeonpay"
+    },
+    {
+      "name": "魚民 君津南口駅前店",
+      "address": "中野",
+      "storeid": "kimitsu-7ecb2e",
+      "shopid": "kimitsu-7ecb2e-aeonpay"
+    },
+    {
+      "name": "オリーブの丘 君津駅前店",
+      "address": "東坂田",
+      "storeid": "kimitsu-e92d05",
+      "shopid": "kimitsu-e92d05-aeonpay"
+    },
+    {
+      "name": "肴処 ほまれや",
+      "address": "東坂田",
+      "storeid": "kimitsu-e3dfd9",
+      "shopid": "kimitsu-e3dfd9-aeonpay"
+    },
+    {
+      "name": "千年の宴 君津北口駅前店",
+      "address": "東坂田",
+      "storeid": "kimitsu-17077b",
+      "shopid": "kimitsu-17077b-aeonpay"
+    },
+    {
+      "name": "Bistro HACHIYA",
+      "address": "南子安",
+      "storeid": "kimitsu-a1930c",
+      "shopid": "kimitsu-a1930c-aeonpay"
+    },
+    {
+      "name": "牛角 君津店",
+      "address": "南子安",
+      "storeid": "kimitsu-874d64",
+      "shopid": "kimitsu-874d64-aeonpay"
+    },
+    {
+      "name": "和食居酒屋 よこ田",
+      "address": "北子安",
+      "storeid": "kimitsu-196a9d",
+      "shopid": "kimitsu-196a9d-aeonpay"
+    },
+    {
+      "name": "おすしやさん魚忠",
+      "address": "杢師",
+      "storeid": "kimitsu-833ed1",
+      "shopid": "kimitsu-833ed1-aeonpay"
+    }
+  ],
+  "サービス": [
+    {
+      "name": "ano pokkur",
+      "address": "外箕輪",
+      "storeid": "kimitsu-2c51d9",
+      "shopid": "kimitsu-2c51d9-aeonpay"
+    },
+    {
+      "name": "hair salon Raffine",
+      "address": "久保",
+      "storeid": "kimitsu-fea9cf",
+      "shopid": "kimitsu-fea9cf-aeonpay"
+    },
+    {
+      "name": "君津市民文化ホール",
+      "address": "三直",
+      "storeid": "kimitsu-7fd1eb",
+      "shopid": "kimitsu-7fd1eb-aeonpay"
+    },
+    {
+      "name": "木洩日",
+      "address": "常代",
+      "storeid": "kimitsu-d317b5",
+      "shopid": "kimitsu-d317b5-aeonpay"
+    },
+    {
+      "name": "台湾式足つぼ Reflexology TARA",
+      "address": "中野",
+      "storeid": "kimitsu-e6e11e",
+      "shopid": "kimitsu-e6e11e-aeonpay"
+    },
+    {
+      "name": "KOCO-hair.",
+      "address": "東坂田",
+      "storeid": "kimitsu-515bc9",
+      "shopid": "kimitsu-515bc9-aeonpay"
+    },
+    {
+      "name": "髪結",
+      "address": "東坂田",
+      "storeid": "kimitsu-53f7ef",
+      "shopid": "kimitsu-53f7ef-aeonpay"
+    }
+  ],
+  "小売": [
+    {
+      "name": "ヒラノスポーツ",
+      "address": "坂田",
+      "storeid": "kimitsu-752909",
+      "shopid": "kimitsu-752909-aeonpay"
+    },
+    {
+      "name": "ミニストップ 君津笹店",
+      "address": "笹",
+      "storeid": "kimitsu-41714c",
+      "shopid": "kimitsu-41714c-aeonpay"
+    },
+    {
+      "name": "ミニストップ 君津三直店",
+      "address": "三直",
+      "storeid": "kimitsu-f1dded",
+      "shopid": "kimitsu-f1dded-aeonpay"
+    },
+    {
+      "name": "ミニストップ 君津大井戸店",
+      "address": "大井戸字天王前",
+      "storeid": "kimitsu-85a79b",
+      "shopid": "kimitsu-85a79b-aeonpay"
+    },
+    {
+      "name": "めがねのマルコー",
+      "address": "東坂田",
+      "storeid": "kimitsu-da8822",
+      "shopid": "kimitsu-da8822-aeonpay"
+    },
+    {
+      "name": "ミニストップ 君津北子安店",
+      "address": "北子安",
+      "storeid": "kimitsu-9e6de8",
+      "shopid": "kimitsu-9e6de8-aeonpay"
+    }
+  ]
+}

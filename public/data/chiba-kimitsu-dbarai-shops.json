@@ -1,0 +1,1366 @@
+{
+  "小売": [
+    {
+      "name": "和蔵酒造",
+      "address": "下湯江",
+      "storeid": "kimitsu-b85372",
+      "shopid": "kimitsu-b85372-dbarai"
+    },
+    {
+      "name": "fiore",
+      "address": "外箕輪",
+      "storeid": "kimitsu-ab27b3",
+      "shopid": "kimitsu-ab27b3-dbarai"
+    },
+    {
+      "name": "かずさ和牛工房",
+      "address": "外箕輪",
+      "storeid": "kimitsu-5c91b5",
+      "shopid": "kimitsu-5c91b5-dbarai"
+    },
+    {
+      "name": "カネス",
+      "address": "外箕輪",
+      "storeid": "kimitsu-7bc452",
+      "shopid": "kimitsu-7bc452-dbarai"
+    },
+    {
+      "name": "やおしん",
+      "address": "外箕輪",
+      "storeid": "kimitsu-5b1ed8",
+      "shopid": "kimitsu-5b1ed8-dbarai"
+    },
+    {
+      "name": "天池 君津店",
+      "address": "外箕輪",
+      "storeid": "kimitsu-8e619f",
+      "shopid": "kimitsu-8e619f-dbarai"
+    },
+    {
+      "name": "ワールドビュー",
+      "address": "岩出",
+      "storeid": "kimitsu-1fd323",
+      "shopid": "kimitsu-1fd323-dbarai"
+    },
+    {
+      "name": "Aショップ",
+      "address": "久保",
+      "storeid": "kimitsu-58963d",
+      "shopid": "kimitsu-58963d-dbarai"
+    },
+    {
+      "name": "生鮮スーパーふじや",
+      "address": "久保",
+      "storeid": "kimitsu-126b16",
+      "shopid": "kimitsu-126b16-dbarai"
+    },
+    {
+      "name": "ボンメゾン 君津店",
+      "address": "久保",
+      "storeid": "kimitsu-6287fe",
+      "shopid": "kimitsu-6287fe-dbarai"
+    },
+    {
+      "name": "君津フラワーショップ",
+      "address": "久保",
+      "storeid": "kimitsu-fe38c1",
+      "shopid": "kimitsu-fe38c1-dbarai"
+    },
+    {
+      "name": "盛章堂",
+      "address": "久保",
+      "storeid": "kimitsu-4badcb",
+      "shopid": "kimitsu-4badcb-dbarai"
+    },
+    {
+      "name": "かなぐや",
+      "address": "久留里市場",
+      "storeid": "kimitsu-fc5d88",
+      "shopid": "kimitsu-fc5d88-dbarai"
+    },
+    {
+      "name": "ライフページ仲田屋",
+      "address": "久留里市場",
+      "storeid": "kimitsu-22a63e",
+      "shopid": "kimitsu-22a63e-dbarai"
+    },
+    {
+      "name": "一木自動車",
+      "address": "久留里市場",
+      "storeid": "kimitsu-979b45",
+      "shopid": "kimitsu-979b45-dbarai"
+    },
+    {
+      "name": "越前屋",
+      "address": "久留里市場",
+      "storeid": "kimitsu-3227ee",
+      "shopid": "kimitsu-3227ee-dbarai"
+    },
+    {
+      "name": "紀平豆腐店",
+      "address": "久留里市場",
+      "storeid": "kimitsu-731c33",
+      "shopid": "kimitsu-731c33-dbarai"
+    },
+    {
+      "name": "真田本店",
+      "address": "久留里市場",
+      "storeid": "kimitsu-e04bbd",
+      "shopid": "kimitsu-e04bbd-dbarai"
+    },
+    {
+      "name": "木村屋金物店 久留里SS",
+      "address": "久留里市場",
+      "storeid": "kimitsu-65f440",
+      "shopid": "kimitsu-65f440-dbarai"
+    },
+    {
+      "name": "木村屋金物店 本店",
+      "address": "久留里市場",
+      "storeid": "kimitsu-d6ced1",
+      "shopid": "kimitsu-d6ced1-dbarai"
+    },
+    {
+      "name": "宮崎酒造店",
+      "address": "戸崎",
+      "storeid": "kimitsu-b6ee5e",
+      "shopid": "kimitsu-b6ee5e-dbarai"
+    },
+    {
+      "name": "小高屋商店",
+      "address": "戸崎",
+      "storeid": "kimitsu-02cdb8",
+      "shopid": "kimitsu-02cdb8-dbarai"
+    },
+    {
+      "name": "米蔵",
+      "address": "広岡",
+      "storeid": "kimitsu-0f4f06",
+      "shopid": "kimitsu-0f4f06-dbarai"
+    },
+    {
+      "name": "栄和自動車",
+      "address": "糠田",
+      "storeid": "kimitsu-462696",
+      "shopid": "kimitsu-462696-dbarai"
+    },
+    {
+      "name": "猟師工房ランド",
+      "address": "香木原",
+      "storeid": "kimitsu-b797f7",
+      "shopid": "kimitsu-b797f7-dbarai"
+    },
+    {
+      "name": "JA-SS ジャスポートこいと",
+      "address": "根本",
+      "storeid": "kimitsu-af37f6",
+      "shopid": "kimitsu-af37f6-dbarai"
+    },
+    {
+      "name": "ヒラノスポーツ",
+      "address": "坂田",
+      "storeid": "kimitsu-752909",
+      "shopid": "kimitsu-752909-dbarai"
+    },
+    {
+      "name": "ミニストップ 君津笹店",
+      "address": "笹",
+      "storeid": "kimitsu-41714c",
+      "shopid": "kimitsu-41714c-dbarai"
+    },
+    {
+      "name": "ミニストップ 君津三直店",
+      "address": "三直",
+      "storeid": "kimitsu-f1dded",
+      "shopid": "kimitsu-f1dded-dbarai"
+    },
+    {
+      "name": "ENEOS 小山野SS（茂木商店）",
+      "address": "小山野",
+      "storeid": "kimitsu-f1d059",
+      "shopid": "kimitsu-f1d059-dbarai"
+    },
+    {
+      "name": "R.Naturally",
+      "address": "常代",
+      "storeid": "kimitsu-eb058b",
+      "shopid": "kimitsu-eb058b-dbarai"
+    },
+    {
+      "name": "PS Jerky's zizi",
+      "address": "人見",
+      "storeid": "kimitsu-e8d5a8",
+      "shopid": "kimitsu-e8d5a8-dbarai"
+    },
+    {
+      "name": "tide pool",
+      "address": "西坂田",
+      "storeid": "kimitsu-cbac84",
+      "shopid": "kimitsu-cbac84-dbarai"
+    },
+    {
+      "name": "かしの木薬局 久留里店",
+      "address": "青柳",
+      "storeid": "kimitsu-35ec90",
+      "shopid": "kimitsu-35ec90-dbarai"
+    },
+    {
+      "name": "須藤本家",
+      "address": "青柳",
+      "storeid": "kimitsu-e43c96",
+      "shopid": "kimitsu-e43c96-dbarai"
+    },
+    {
+      "name": "花工房 スラタン/穴太商店",
+      "address": "泉",
+      "storeid": "kimitsu-a1ae51",
+      "shopid": "kimitsu-a1ae51-dbarai"
+    },
+    {
+      "name": "京葉ビジネスサービス",
+      "address": "泉",
+      "storeid": "kimitsu-4d262a",
+      "shopid": "kimitsu-4d262a-dbarai"
+    },
+    {
+      "name": "どんこっ子",
+      "address": "大井戸",
+      "storeid": "kimitsu-bdb7ee",
+      "shopid": "kimitsu-bdb7ee-dbarai"
+    },
+    {
+      "name": "ミニストップ 君津大井戸店",
+      "address": "大井戸字天王前",
+      "storeid": "kimitsu-85a79b",
+      "shopid": "kimitsu-85a79b-dbarai"
+    },
+    {
+      "name": "apollostation 清和SS",
+      "address": "大岩",
+      "storeid": "kimitsu-61a914",
+      "shopid": "kimitsu-61a914-dbarai"
+    },
+    {
+      "name": "HondaCars 木更津 君津店",
+      "address": "大和田",
+      "storeid": "kimitsu-45e808",
+      "shopid": "kimitsu-45e808-dbarai"
+    },
+    {
+      "name": "石塚文化堂",
+      "address": "中島",
+      "storeid": "kimitsu-14202e",
+      "shopid": "kimitsu-14202e-dbarai"
+    },
+    {
+      "name": "カーコンビニ倶楽部 マルマス",
+      "address": "中野",
+      "storeid": "kimitsu-5adcdd",
+      "shopid": "kimitsu-5adcdd-dbarai"
+    },
+    {
+      "name": "カギ造 合鍵屋",
+      "address": "中野",
+      "storeid": "kimitsu-cef802",
+      "shopid": "kimitsu-cef802-dbarai"
+    },
+    {
+      "name": "ペットシッター君津",
+      "address": "中野",
+      "storeid": "kimitsu-a528b1",
+      "shopid": "kimitsu-a528b1-dbarai"
+    },
+    {
+      "name": "君津補聴器センター",
+      "address": "中野",
+      "storeid": "kimitsu-d9a141",
+      "shopid": "kimitsu-d9a141-dbarai"
+    },
+    {
+      "name": "佐久間薬局",
+      "address": "中野",
+      "storeid": "kimitsu-f6a2b6",
+      "shopid": "kimitsu-f6a2b6-dbarai"
+    },
+    {
+      "name": "小   種苗店",
+      "address": "中野",
+      "storeid": "kimitsu-250c59",
+      "shopid": "kimitsu-250c59-dbarai"
+    },
+    {
+      "name": "JAきみつ ジャスポートさだもと",
+      "address": "♛元",
+      "storeid": "kimitsu-3e79b4",
+      "shopid": "kimitsu-3e79b4-dbarai"
+    },
+    {
+      "name": "JAきみつ味楽囲さだもと店",
+      "address": "♛元",
+      "storeid": "kimitsu-79bee0",
+      "shopid": "kimitsu-79bee0-dbarai"
+    },
+    {
+      "name": "清幸丸水産直売店",
+      "address": "♛元",
+      "storeid": "kimitsu-85421b",
+      "shopid": "kimitsu-85421b-dbarai"
+    },
+    {
+      "name": "very foods 尾張屋 君津店",
+      "address": "東坂田",
+      "storeid": "kimitsu-3551f1",
+      "shopid": "kimitsu-3551f1-dbarai"
+    },
+    {
+      "name": "クレープハウス ピーナッツ",
+      "address": "東坂田",
+      "storeid": "kimitsu-c2598a",
+      "shopid": "kimitsu-c2598a-dbarai"
+    },
+    {
+      "name": "メガネサロン トミナガ 東坂田店",
+      "address": "東坂田",
+      "storeid": "kimitsu-da25b0",
+      "shopid": "kimitsu-da25b0-dbarai"
+    },
+    {
+      "name": "めがねのマルコー",
+      "address": "東坂田",
+      "storeid": "kimitsu-da8822",
+      "shopid": "kimitsu-da8822-dbarai"
+    },
+    {
+      "name": "たい焼きひなちゃん",
+      "address": "南久保",
+      "storeid": "kimitsu-b2c19e",
+      "shopid": "kimitsu-b2c19e-dbarai"
+    },
+    {
+      "name": "HondaCars 南千葉 U-Select君津店",
+      "address": "南子安",
+      "storeid": "kimitsu-0a900d",
+      "shopid": "kimitsu-0a900d-dbarai"
+    },
+    {
+      "name": "エビス薬局 南子安店",
+      "address": "南子安",
+      "storeid": "kimitsu-b5db58",
+      "shopid": "kimitsu-b5db58-dbarai"
+    },
+    {
+      "name": "ドラッグWAKUWAKU南子安店",
+      "address": "南子安",
+      "storeid": "kimitsu-216313",
+      "shopid": "kimitsu-216313-dbarai"
+    },
+    {
+      "name": "ブンブンドウ",
+      "address": "南子安",
+      "storeid": "kimitsu-201bed",
+      "shopid": "kimitsu-201bed-dbarai"
+    },
+    {
+      "name": "メガネサロントミナガ 南子安店",
+      "address": "南子安",
+      "storeid": "kimitsu-c2f35d",
+      "shopid": "kimitsu-c2f35d-dbarai"
+    },
+    {
+      "name": "嶋屋 君津店",
+      "address": "南子安",
+      "storeid": "kimitsu-e3c24e",
+      "shopid": "kimitsu-e3c24e-dbarai"
+    },
+    {
+      "name": "富分 君津店",
+      "address": "南子安",
+      "storeid": "kimitsu-dd5d3a",
+      "shopid": "kimitsu-dd5d3a-dbarai"
+    },
+    {
+      "name": "Plug-in おぐら",
+      "address": "俵田",
+      "storeid": "kimitsu-f75503",
+      "shopid": "kimitsu-f75503-dbarai"
+    },
+    {
+      "name": "にこにこ薬局",
+      "address": "北久保",
+      "storeid": "kimitsu-ef1108",
+      "shopid": "kimitsu-ef1108-dbarai"
+    },
+    {
+      "name": "HondaCars 木更津 君津127号店",
+      "address": "北子安",
+      "storeid": "kimitsu-131cdd",
+      "shopid": "kimitsu-131cdd-dbarai"
+    },
+    {
+      "name": "ミニストップ 君津北子安店",
+      "address": "北子安",
+      "storeid": "kimitsu-9e6de8",
+      "shopid": "kimitsu-9e6de8-dbarai"
+    },
+    {
+      "name": "ラスカルオート",
+      "address": "北子安",
+      "storeid": "kimitsu-b6b718",
+      "shopid": "kimitsu-b6b718-dbarai"
+    },
+    {
+      "name": "戸田屋寝具店",
+      "address": "北子安",
+      "storeid": "kimitsu-acc1a9",
+      "shopid": "kimitsu-acc1a9-dbarai"
+    },
+    {
+      "name": "JA-SS ジャスポートおびつ",
+      "address": "末吉",
+      "storeid": "kimitsu-0f3398",
+      "shopid": "kimitsu-0f3398-dbarai"
+    },
+    {
+      "name": "JAきみつ味楽囲おびつ店",
+      "address": "末吉",
+      "storeid": "kimitsu-dfada0",
+      "shopid": "kimitsu-dfada0-dbarai"
+    },
+    {
+      "name": "一心堂",
+      "address": "杢師",
+      "storeid": "kimitsu-6976ee",
+      "shopid": "kimitsu-6976ee-dbarai"
+    }
+  ],
+  "飲食": [
+    {
+      "name": "やきとり百々",
+      "address": "外箕輪",
+      "storeid": "kimitsu-e23d0e",
+      "shopid": "kimitsu-e23d0e-dbarai"
+    },
+    {
+      "name": "ラーメンみのわ",
+      "address": "外箕輪",
+      "storeid": "kimitsu-b245f7",
+      "shopid": "kimitsu-b245f7-dbarai"
+    },
+    {
+      "name": "海鮮食堂 膳",
+      "address": "外箕輪",
+      "storeid": "kimitsu-c3c369",
+      "shopid": "kimitsu-c3c369-dbarai"
+    },
+    {
+      "name": "居酒屋 磊-らい",
+      "address": "外箕輪",
+      "storeid": "kimitsu-eae8fe",
+      "shopid": "kimitsu-eae8fe-dbarai"
+    },
+    {
+      "name": "暖家",
+      "address": "外箕輪",
+      "storeid": "kimitsu-563167",
+      "shopid": "kimitsu-563167-dbarai"
+    },
+    {
+      "name": "Asian Royal Kitchen",
+      "address": "久保",
+      "storeid": "kimitsu-30ca75",
+      "shopid": "kimitsu-30ca75-dbarai"
+    },
+    {
+      "name": "ししまる",
+      "address": "久保",
+      "storeid": "kimitsu-2380cd",
+      "shopid": "kimitsu-2380cd-dbarai"
+    },
+    {
+      "name": "ゼッテリア アピタ君津店",
+      "address": "久保",
+      "storeid": "kimitsu-aa9251",
+      "shopid": "kimitsu-aa9251-dbarai"
+    },
+    {
+      "name": "ひふ・ていぃ",
+      "address": "久保",
+      "storeid": "kimitsu-f84817",
+      "shopid": "kimitsu-f84817-dbarai"
+    },
+    {
+      "name": "レインボー",
+      "address": "久保",
+      "storeid": "kimitsu-01ef0c",
+      "shopid": "kimitsu-01ef0c-dbarai"
+    },
+    {
+      "name": "居酒屋 ばんぶー",
+      "address": "久保",
+      "storeid": "kimitsu-91e466",
+      "shopid": "kimitsu-91e466-dbarai"
+    },
+    {
+      "name": "居酒屋 やすらぎ",
+      "address": "久保",
+      "storeid": "kimitsu-b99159",
+      "shopid": "kimitsu-b99159-dbarai"
+    },
+    {
+      "name": "居酒屋 りあん",
+      "address": "久保",
+      "storeid": "kimitsu-722fe6",
+      "shopid": "kimitsu-722fe6-dbarai"
+    },
+    {
+      "name": "居酒屋 楽々",
+      "address": "久保",
+      "storeid": "kimitsu-cf8e27",
+      "shopid": "kimitsu-cf8e27-dbarai"
+    },
+    {
+      "name": "厳鮮酒場とろいめらい",
+      "address": "久保",
+      "storeid": "kimitsu-f3b8ae",
+      "shopid": "kimitsu-f3b8ae-dbarai"
+    },
+    {
+      "name": "参",
+      "address": "久保",
+      "storeid": "kimitsu-6d6674",
+      "shopid": "kimitsu-6d6674-dbarai"
+    },
+    {
+      "name": "七輪焼 すけちゃん",
+      "address": "久保",
+      "storeid": "kimitsu-9fdc9e",
+      "shopid": "kimitsu-9fdc9e-dbarai"
+    },
+    {
+      "name": "小料理 津",
+      "address": "久保",
+      "storeid": "kimitsu-8e321e",
+      "shopid": "kimitsu-8e321e-dbarai"
+    },
+    {
+      "name": "焼肉ホルモン居酒屋ワールド",
+      "address": "久保",
+      "storeid": "kimitsu-62ae15",
+      "shopid": "kimitsu-62ae15-dbarai"
+    },
+    {
+      "name": "日本料理 天秀",
+      "address": "久保",
+      "storeid": "kimitsu-f38bcf",
+      "shopid": "kimitsu-f38bcf-dbarai"
+    },
+    {
+      "name": "TeaRoom Ellie",
+      "address": "久留里市場",
+      "storeid": "kimitsu-70fa7a",
+      "shopid": "kimitsu-70fa7a-dbarai"
+    },
+    {
+      "name": "cafe ku",
+      "address": "郡",
+      "storeid": "kimitsu-81f758",
+      "shopid": "kimitsu-81f758-dbarai"
+    },
+    {
+      "name": "唄える味の店 久美",
+      "address": "戸崎",
+      "storeid": "kimitsu-cae05a",
+      "shopid": "kimitsu-cae05a-dbarai"
+    },
+    {
+      "name": "愛彩畑",
+      "address": "向郷",
+      "storeid": "kimitsu-b36bc0",
+      "shopid": "kimitsu-b36bc0-dbarai"
+    },
+    {
+      "name": "東京オリーブ 君津店",
+      "address": "根本",
+      "storeid": "kimitsu-e33aed",
+      "shopid": "kimitsu-e33aed-dbarai"
+    },
+    {
+      "name": "猟師工房ドライブイン",
+      "address": "笹",
+      "storeid": "kimitsu-efd5fd",
+      "shopid": "kimitsu-efd5fd-dbarai"
+    },
+    {
+      "name": "さくらKitchen",
+      "address": "三直",
+      "storeid": "kimitsu-a291c5",
+      "shopid": "kimitsu-a291c5-dbarai"
+    },
+    {
+      "name": "コーラル山滝野",
+      "address": "山滝野",
+      "storeid": "kimitsu-35795a",
+      "shopid": "kimitsu-35795a-dbarai"
+    },
+    {
+      "name": "オートスタイル",
+      "address": "小糸大谷",
+      "storeid": "kimitsu-d10793",
+      "shopid": "kimitsu-d10793-dbarai"
+    },
+    {
+      "name": "日本料理 三船屋",
+      "address": "上湯江",
+      "storeid": "kimitsu-fc438d",
+      "shopid": "kimitsu-fc438d-dbarai"
+    },
+    {
+      "name": "ハローアン",
+      "address": "人見",
+      "storeid": "kimitsu-2abd8a",
+      "shopid": "kimitsu-2abd8a-dbarai"
+    },
+    {
+      "name": "パン工房いちか",
+      "address": "人見",
+      "storeid": "kimitsu-356209",
+      "shopid": "kimitsu-356209-dbarai"
+    },
+    {
+      "name": "本格中華 台湾料理 龍虎",
+      "address": "人見",
+      "storeid": "kimitsu-ed21dd",
+      "shopid": "kimitsu-ed21dd-dbarai"
+    },
+    {
+      "name": "麺屋 寛虎",
+      "address": "人見",
+      "storeid": "kimitsu-277024",
+      "shopid": "kimitsu-277024-dbarai"
+    },
+    {
+      "name": "和可奈寿司",
+      "address": "人見",
+      "storeid": "kimitsu-a4607b",
+      "shopid": "kimitsu-a4607b-dbarai"
+    },
+    {
+      "name": "PanNe",
+      "address": "西坂田",
+      "storeid": "kimitsu-1b1cc4",
+      "shopid": "kimitsu-1b1cc4-dbarai"
+    },
+    {
+      "name": "かつ味",
+      "address": "西坂田",
+      "storeid": "kimitsu-b6feb1",
+      "shopid": "kimitsu-b6feb1-dbarai"
+    },
+    {
+      "name": "菊藏",
+      "address": "西坂田",
+      "storeid": "kimitsu-001a7e",
+      "shopid": "kimitsu-001a7e-dbarai"
+    },
+    {
+      "name": "居酒屋 FACE COOK",
+      "address": "西坂田",
+      "storeid": "kimitsu-f606b5",
+      "shopid": "kimitsu-f606b5-dbarai"
+    },
+    {
+      "name": "居酒屋 ふくろう",
+      "address": "西坂田",
+      "storeid": "kimitsu-5a9ccc",
+      "shopid": "kimitsu-5a9ccc-dbarai"
+    },
+    {
+      "name": "日本料理 市松茶寮",
+      "address": "西坂田",
+      "storeid": "kimitsu-cfc56c",
+      "shopid": "kimitsu-cfc56c-dbarai"
+    },
+    {
+      "name": "KAMO CAFE",
+      "address": "俣旧   俣",
+      "storeid": "kimitsu-978a09",
+      "shopid": "kimitsu-978a09-dbarai"
+    },
+    {
+      "name": "亀山やすらぎ館 湖畔亭",
+      "address": "俣旧   俣",
+      "storeid": "kimitsu-fe9beb",
+      "shopid": "kimitsu-fe9beb-dbarai"
+    },
+    {
+      "name": "村のピザ屋 カンパーニャ",
+      "address": "大戸見",
+      "storeid": "kimitsu-d21531",
+      "shopid": "kimitsu-d21531-dbarai"
+    },
+    {
+      "name": "田舎レストラン じんべえ",
+      "address": "大野台",
+      "storeid": "kimitsu-8824ba",
+      "shopid": "kimitsu-8824ba-dbarai"
+    },
+    {
+      "name": "コイトコーヒー",
+      "address": "中島",
+      "storeid": "kimitsu-245308",
+      "shopid": "kimitsu-245308-dbarai"
+    },
+    {
+      "name": "かつ波奈 君津店",
+      "address": "中野",
+      "storeid": "kimitsu-ac5474",
+      "shopid": "kimitsu-ac5474-dbarai"
+    },
+    {
+      "name": "カレントスタジオ/カフェ 君津店",
+      "address": "中野",
+      "storeid": "kimitsu-bd0f71",
+      "shopid": "kimitsu-bd0f71-dbarai"
+    },
+    {
+      "name": "魚民 君津南口駅前店",
+      "address": "中野",
+      "storeid": "kimitsu-7ecb2e",
+      "shopid": "kimitsu-7ecb2e-dbarai"
+    },
+    {
+      "name": "他力本願",
+      "address": "中野",
+      "storeid": "kimitsu-71e5e1",
+      "shopid": "kimitsu-71e5e1-dbarai"
+    },
+    {
+      "name": "天ぷらふぐ 天たけ",
+      "address": "中野",
+      "storeid": "kimitsu-25ad2d",
+      "shopid": "kimitsu-25ad2d-dbarai"
+    },
+    {
+      "name": "房総ダイニングGozzo",
+      "address": "中野",
+      "storeid": "kimitsu-5fcc08",
+      "shopid": "kimitsu-5fcc08-dbarai"
+    },
+    {
+      "name": "炉端ひぼし屋 本店",
+      "address": "中野",
+      "storeid": "kimitsu-00716a",
+      "shopid": "kimitsu-00716a-dbarai"
+    },
+    {
+      "name": "オリーブの丘 君津駅前店",
+      "address": "東坂田",
+      "storeid": "kimitsu-e92d05",
+      "shopid": "kimitsu-e92d05-dbarai"
+    },
+    {
+      "name": "からあげ 鶏みつ",
+      "address": "東坂田",
+      "storeid": "kimitsu-a0a2df",
+      "shopid": "kimitsu-a0a2df-dbarai"
+    },
+    {
+      "name": "ごはん茶屋 風茶楼",
+      "address": "東坂田",
+      "storeid": "kimitsu-d32065",
+      "shopid": "kimitsu-d32065-dbarai"
+    },
+    {
+      "name": "バル DE ZACK 君津店",
+      "address": "東坂田",
+      "storeid": "kimitsu-f1c530",
+      "shopid": "kimitsu-f1c530-dbarai"
+    },
+    {
+      "name": "ほまれや",
+      "address": "東坂田",
+      "storeid": "kimitsu-11a2de",
+      "shopid": "kimitsu-11a2de-dbarai"
+    },
+    {
+      "name": "喫茶もういちど",
+      "address": "東坂田",
+      "storeid": "kimitsu-cd742d",
+      "shopid": "kimitsu-cd742d-dbarai"
+    },
+    {
+      "name": "君津ジンギスカン",
+      "address": "東坂田",
+      "storeid": "kimitsu-30ff01",
+      "shopid": "kimitsu-30ff01-dbarai"
+    },
+    {
+      "name": "綱島園 君津店",
+      "address": "東坂田",
+      "storeid": "kimitsu-af481b",
+      "shopid": "kimitsu-af481b-dbarai"
+    },
+    {
+      "name": "肴処 ほまれや",
+      "address": "東坂田",
+      "storeid": "kimitsu-e3dfd9",
+      "shopid": "kimitsu-e3dfd9-dbarai"
+    },
+    {
+      "name": "千年の宴 君津北口駅前店",
+      "address": "東坂田",
+      "storeid": "kimitsu-17077b",
+      "shopid": "kimitsu-17077b-dbarai"
+    },
+    {
+      "name": "日本料理 和泉沢",
+      "address": "東坂田",
+      "storeid": "kimitsu-e597a2",
+      "shopid": "kimitsu-e597a2-dbarai"
+    },
+    {
+      "name": "美酒美食 粋心",
+      "address": "東坂田",
+      "storeid": "kimitsu-9c738c",
+      "shopid": "kimitsu-9c738c-dbarai"
+    },
+    {
+      "name": "一期一美",
+      "address": "内蓑輪",
+      "storeid": "kimitsu-9deee3",
+      "shopid": "kimitsu-9deee3-dbarai"
+    },
+    {
+      "name": "Bistro HACHIYA",
+      "address": "南子安",
+      "storeid": "kimitsu-a1930c",
+      "shopid": "kimitsu-a1930c-dbarai"
+    },
+    {
+      "name": "あやき亭",
+      "address": "南子安",
+      "storeid": "kimitsu-097803",
+      "shopid": "kimitsu-097803-dbarai"
+    },
+    {
+      "name": "スーパー回転寿司やまと君津店",
+      "address": "南子安",
+      "storeid": "kimitsu-ab7c94",
+      "shopid": "kimitsu-ab7c94-dbarai"
+    },
+    {
+      "name": "せんねんの木 patisserie",
+      "address": "南子安",
+      "storeid": "kimitsu-016f97",
+      "shopid": "kimitsu-016f97-dbarai"
+    },
+    {
+      "name": "タニワキクレープ",
+      "address": "南子安",
+      "storeid": "kimitsu-670436",
+      "shopid": "kimitsu-670436-dbarai"
+    },
+    {
+      "name": "だるま寿し",
+      "address": "南子安",
+      "storeid": "kimitsu-98d152",
+      "shopid": "kimitsu-98d152-dbarai"
+    },
+    {
+      "name": "テレショップM キミツケータイ館",
+      "address": "南子安",
+      "storeid": "kimitsu-1511dc",
+      "shopid": "kimitsu-1511dc-dbarai"
+    },
+    {
+      "name": "牛角 君津店",
+      "address": "南子安",
+      "storeid": "kimitsu-874d64",
+      "shopid": "kimitsu-874d64-dbarai"
+    },
+    {
+      "name": "居酒家みしま",
+      "address": "南子安",
+      "storeid": "kimitsu-a10d48",
+      "shopid": "kimitsu-a10d48-dbarai"
+    },
+    {
+      "name": "京城苑",
+      "address": "南子安",
+      "storeid": "kimitsu-65997c",
+      "shopid": "kimitsu-65997c-dbarai"
+    },
+    {
+      "name": "台湾料理天香一 俵田店",
+      "address": "俵田",
+      "storeid": "kimitsu-0dc57c",
+      "shopid": "kimitsu-0dc57c-dbarai"
+    },
+    {
+      "name": "旬彩屋 やま椛",
+      "address": "豊田旧野中",
+      "storeid": "kimitsu-5e10f9",
+      "shopid": "kimitsu-5e10f9-dbarai"
+    },
+    {
+      "name": "ナンハウス 君津店",
+      "address": "北子安",
+      "storeid": "kimitsu-a68373",
+      "shopid": "kimitsu-a68373-dbarai"
+    },
+    {
+      "name": "ピノキオラーメン",
+      "address": "北子安",
+      "storeid": "kimitsu-136af0",
+      "shopid": "kimitsu-136af0-dbarai"
+    },
+    {
+      "name": "千歩",
+      "address": "北子安",
+      "storeid": "kimitsu-782fcf",
+      "shopid": "kimitsu-782fcf-dbarai"
+    },
+    {
+      "name": "扇や",
+      "address": "北子安",
+      "storeid": "kimitsu-bb25aa",
+      "shopid": "kimitsu-bb25aa-dbarai"
+    },
+    {
+      "name": "日比谷三源豚",
+      "address": "北子安",
+      "storeid": "kimitsu-9d1f21",
+      "shopid": "kimitsu-9d1f21-dbarai"
+    },
+    {
+      "name": "明月苑",
+      "address": "北子安",
+      "storeid": "kimitsu-23caf4",
+      "shopid": "kimitsu-23caf4-dbarai"
+    },
+    {
+      "name": "和食居酒屋 よこ田",
+      "address": "北子安",
+      "storeid": "kimitsu-196a9d",
+      "shopid": "kimitsu-196a9d-dbarai"
+    },
+    {
+      "name": "豊月堂おびつ",
+      "address": "末吉",
+      "storeid": "kimitsu-3a486b",
+      "shopid": "kimitsu-3a486b-dbarai"
+    },
+    {
+      "name": "あんぷらっと",
+      "address": "杢師",
+      "storeid": "kimitsu-c486f7",
+      "shopid": "kimitsu-c486f7-dbarai"
+    },
+    {
+      "name": "おすしやさん魚忠",
+      "address": "杢師",
+      "storeid": "kimitsu-833ed1",
+      "shopid": "kimitsu-833ed1-dbarai"
+    },
+    {
+      "name": "食事処 あめ家 本店",
+      "address": "杢師",
+      "storeid": "kimitsu-3aa288",
+      "shopid": "kimitsu-3aa288-dbarai"
+    }
+  ],
+  "サービス": [
+    {
+      "name": "ano pokkur",
+      "address": "外箕輪",
+      "storeid": "kimitsu-2c51d9",
+      "shopid": "kimitsu-2c51d9-dbarai"
+    },
+    {
+      "name": "Cars plus",
+      "address": "外箕輪",
+      "storeid": "kimitsu-16e255",
+      "shopid": "kimitsu-16e255-dbarai"
+    },
+    {
+      "name": "NDM AUTO",
+      "address": "外箕輪",
+      "storeid": "kimitsu-0ae358",
+      "shopid": "kimitsu-0ae358-dbarai"
+    },
+    {
+      "name": "アトリエ髪美人",
+      "address": "外箕輪",
+      "storeid": "kimitsu-5b5de7",
+      "shopid": "kimitsu-5b5de7-dbarai"
+    },
+    {
+      "name": "カーファクトリーK's",
+      "address": "外箕輪",
+      "storeid": "kimitsu-1d8d8d",
+      "shopid": "kimitsu-1d8d8d-dbarai"
+    },
+    {
+      "name": "クリーニングミツミネ いなげや君津店",
+      "address": "外箕輪",
+      "storeid": "kimitsu-350cd9",
+      "shopid": "kimitsu-350cd9-dbarai"
+    },
+    {
+      "name": "新栄建物サービス",
+      "address": "外箕輪",
+      "storeid": "kimitsu-d682f7",
+      "shopid": "kimitsu-d682f7-dbarai"
+    },
+    {
+      "name": "hair salon Raffine",
+      "address": "久保",
+      "storeid": "kimitsu-fea9cf",
+      "shopid": "kimitsu-fea9cf-dbarai"
+    },
+    {
+      "name": "カイロプラクティックPono 君津店",
+      "address": "久保",
+      "storeid": "kimitsu-e065af",
+      "shopid": "kimitsu-e065af-dbarai"
+    },
+    {
+      "name": "らくそう",
+      "address": "久保",
+      "storeid": "kimitsu-c1d894",
+      "shopid": "kimitsu-c1d894-dbarai"
+    },
+    {
+      "name": "美容室CUT-PARK君津店",
+      "address": "久保",
+      "storeid": "kimitsu-7df7f7",
+      "shopid": "kimitsu-7df7f7-dbarai"
+    },
+    {
+      "name": "伊藤塗装",
+      "address": "戸崎",
+      "storeid": "kimitsu-8d70d0",
+      "shopid": "kimitsu-8d70d0-dbarai"
+    },
+    {
+      "name": "CUT IN jem",
+      "address": "坂田",
+      "storeid": "kimitsu-b34128",
+      "shopid": "kimitsu-b34128-dbarai"
+    },
+    {
+      "name": "君津市民文化ホール",
+      "address": "三直",
+      "storeid": "kimitsu-7fd1eb",
+      "shopid": "kimitsu-7fd1eb-dbarai"
+    },
+    {
+      "name": "まこと自動車",
+      "address": "寺沢",
+      "storeid": "kimitsu-5c49f6",
+      "shopid": "kimitsu-5c49f6-dbarai"
+    },
+    {
+      "name": "小櫃清掃社",
+      "address": "寺沢",
+      "storeid": "kimitsu-6cffff",
+      "shopid": "kimitsu-6cffff-dbarai"
+    },
+    {
+      "name": "EIZY",
+      "address": "常代",
+      "storeid": "kimitsu-6c3140",
+      "shopid": "kimitsu-6c3140-dbarai"
+    },
+    {
+      "name": "R HAIR from kurosawa",
+      "address": "常代",
+      "storeid": "kimitsu-85b2c6",
+      "shopid": "kimitsu-85b2c6-dbarai"
+    },
+    {
+      "name": "コインランドリーてるてる常代店",
+      "address": "常代",
+      "storeid": "kimitsu-97d220",
+      "shopid": "kimitsu-97d220-dbarai"
+    },
+    {
+      "name": "木洩日",
+      "address": "常代",
+      "storeid": "kimitsu-d317b5",
+      "shopid": "kimitsu-d317b5-dbarai"
+    },
+    {
+      "name": "AQUA STYLE",
+      "address": "人見",
+      "storeid": "kimitsu-7a8575",
+      "shopid": "kimitsu-7a8575-dbarai"
+    },
+    {
+      "name": "悠莉セカンド美容室",
+      "address": "人見",
+      "storeid": "kimitsu-c7d03d",
+      "shopid": "kimitsu-c7d03d-dbarai"
+    },
+    {
+      "name": "QUICK GYM 君津店",
+      "address": "西坂田",
+      "storeid": "kimitsu-3ae260",
+      "shopid": "kimitsu-3ae260-dbarai"
+    },
+    {
+      "name": "Rerise",
+      "address": "西坂田",
+      "storeid": "kimitsu-9558c6",
+      "shopid": "kimitsu-9558c6-dbarai"
+    },
+    {
+      "name": "松本自動車板金塗装",
+      "address": "泉",
+      "storeid": "kimitsu-3fafa1",
+      "shopid": "kimitsu-3fafa1-dbarai"
+    },
+    {
+      "name": "Clarte",
+      "address": "台",
+      "storeid": "kimitsu-7fbb6d",
+      "shopid": "kimitsu-7fbb6d-dbarai"
+    },
+    {
+      "name": "BOTAN 君津店",
+      "address": "中野",
+      "storeid": "kimitsu-f8b2d4",
+      "shopid": "kimitsu-f8b2d4-dbarai"
+    },
+    {
+      "name": "からだCure整骨院",
+      "address": "中野",
+      "storeid": "kimitsu-a9642c",
+      "shopid": "kimitsu-a9642c-dbarai"
+    },
+    {
+      "name": "カローレ福祉ケアタクシー",
+      "address": "中野",
+      "storeid": "kimitsu-efe8ec",
+      "shopid": "kimitsu-efe8ec-dbarai"
+    },
+    {
+      "name": "コインランドリーてるてる中野2丁目店",
+      "address": "中野",
+      "storeid": "kimitsu-934465",
+      "shopid": "kimitsu-934465-dbarai"
+    },
+    {
+      "name": "サニタ整骨院 君津中野店",
+      "address": "中野",
+      "storeid": "kimitsu-6729da",
+      "shopid": "kimitsu-6729da-dbarai"
+    },
+    {
+      "name": "ヘアーサロン アン",
+      "address": "中野",
+      "storeid": "kimitsu-4084e3",
+      "shopid": "kimitsu-4084e3-dbarai"
+    },
+    {
+      "name": "ホワイト急便 イオンタウン君津店",
+      "address": "中野",
+      "storeid": "kimitsu-4d3ee4",
+      "shopid": "kimitsu-4d3ee4-dbarai"
+    },
+    {
+      "name": "ロマンの森共和国 大使館",
+      "address": "中野",
+      "storeid": "kimitsu-aaa96a",
+      "shopid": "kimitsu-aaa96a-dbarai"
+    },
+    {
+      "name": "台湾式足つぼ Reflexology TARA",
+      "address": "中野",
+      "storeid": "kimitsu-e6e11e",
+      "shopid": "kimitsu-e6e11e-dbarai"
+    },
+    {
+      "name": "KOCO-hair.",
+      "address": "東坂田",
+      "storeid": "kimitsu-515bc9",
+      "shopid": "kimitsu-515bc9-dbarai"
+    },
+    {
+      "name": "アッシュ美容室",
+      "address": "東坂田",
+      "storeid": "kimitsu-95150a",
+      "shopid": "kimitsu-95150a-dbarai"
+    },
+    {
+      "name": "りらくる 君津店",
+      "address": "東坂田",
+      "storeid": "kimitsu-6031db",
+      "shopid": "kimitsu-6031db-dbarai"
+    },
+    {
+      "name": "ロハス整体院",
+      "address": "東坂田",
+      "storeid": "kimitsu-62c215",
+      "shopid": "kimitsu-62c215-dbarai"
+    },
+    {
+      "name": "髪結",
+      "address": "東坂田",
+      "storeid": "kimitsu-53f7ef",
+      "shopid": "kimitsu-53f7ef-dbarai"
+    },
+    {
+      "name": "君津整体院 H&B",
+      "address": "南久保",
+      "storeid": "kimitsu-6f8c34",
+      "shopid": "kimitsu-6f8c34-dbarai"
+    },
+    {
+      "name": "ANGEL hair salon",
+      "address": "南子安",
+      "storeid": "kimitsu-8d7e1d",
+      "shopid": "kimitsu-8d7e1d-dbarai"
+    },
+    {
+      "name": "L's kind",
+      "address": "南子安",
+      "storeid": "kimitsu-4f0ff3",
+      "shopid": "kimitsu-4f0ff3-dbarai"
+    },
+    {
+      "name": "MAKES",
+      "address": "南子安",
+      "storeid": "kimitsu-1efc5e",
+      "shopid": "kimitsu-1efc5e-dbarai"
+    },
+    {
+      "name": "クリーニング専科 南子安店",
+      "address": "南子安",
+      "storeid": "kimitsu-523e0e",
+      "shopid": "kimitsu-523e0e-dbarai"
+    },
+    {
+      "name": "コインランドリーてるてる南子安店",
+      "address": "南子安",
+      "storeid": "kimitsu-0662db",
+      "shopid": "kimitsu-0662db-dbarai"
+    },
+    {
+      "name": "はりきゅう治療室 健光",
+      "address": "南子安",
+      "storeid": "kimitsu-379cd7",
+      "shopid": "kimitsu-379cd7-dbarai"
+    },
+    {
+      "name": "ひかり整骨院",
+      "address": "南子安",
+      "storeid": "kimitsu-5b0181",
+      "shopid": "kimitsu-5b0181-dbarai"
+    },
+    {
+      "name": "ホワイト急便 ミツミネ ドライブスルー南子安店",
+      "address": "南子安",
+      "storeid": "kimitsu-f5719f",
+      "shopid": "kimitsu-f5719f-dbarai"
+    },
+    {
+      "name": "車検のコバック 君津店",
+      "address": "南子安",
+      "storeid": "kimitsu-ad4330",
+      "shopid": "kimitsu-ad4330-dbarai"
+    },
+    {
+      "name": "美容室 Hair lagoon",
+      "address": "南子安",
+      "storeid": "kimitsu-45a355",
+      "shopid": "kimitsu-45a355-dbarai"
+    },
+    {
+      "name": "富田事務所",
+      "address": "富田",
+      "storeid": "kimitsu-d89864",
+      "shopid": "kimitsu-d89864-dbarai"
+    },
+    {
+      "name": "はりきゅう治療室 ほどほど堂",
+      "address": "法木作",
+      "storeid": "kimitsu-62bc75",
+      "shopid": "kimitsu-62bc75-dbarai"
+    },
+    {
+      "name": "クリーニングミツミネ 君津本店",
+      "address": "北久保",
+      "storeid": "kimitsu-a61a94",
+      "shopid": "kimitsu-a61a94-dbarai"
+    },
+    {
+      "name": "美容室ナイーブ",
+      "address": "北久保",
+      "storeid": "kimitsu-acfad4",
+      "shopid": "kimitsu-acfad4-dbarai"
+    },
+    {
+      "name": "シライアンテナ/遮deらく",
+      "address": "箕輪",
+      "storeid": "kimitsu-c71a6c",
+      "shopid": "kimitsu-c71a6c-dbarai"
+    },
+    {
+      "name": "Heart Land",
+      "address": "杢師",
+      "storeid": "kimitsu-1544eb",
+      "shopid": "kimitsu-1544eb-dbarai"
+    },
+    {
+      "name": "クリーニング和田",
+      "address": "杢師",
+      "storeid": "kimitsu-3e1018",
+      "shopid": "kimitsu-3e1018-dbarai"
+    },
+    {
+      "name": "もみほぐし・MARISA",
+      "address": "杢師",
+      "storeid": "kimitsu-c2e22b",
+      "shopid": "kimitsu-c2e22b-dbarai"
+    }
+  ],
+  "その他": [
+    {
+      "name": "圓明院",
+      "address": "山本",
+      "storeid": "kimitsu-2cc6ce",
+      "shopid": "kimitsu-2cc6ce-dbarai"
+    },
+    {
+      "name": "断食道場はぎのさと",
+      "address": "鹿野山",
+      "storeid": "kimitsu-c528f1",
+      "shopid": "kimitsu-c528f1-dbarai"
+    },
+    {
+      "name": "房総韓国語教室",
+      "address": "人見",
+      "storeid": "kimitsu-184e73",
+      "shopid": "kimitsu-184e73-dbarai"
+    },
+    {
+      "name": "鈴木歯科クリニック",
+      "address": "中島",
+      "storeid": "kimitsu-bcb113",
+      "shopid": "kimitsu-bcb113-dbarai"
+    },
+    {
+      "name": "郁栄会 君津ピースデンタルクリニック",
+      "address": "中野",
+      "storeid": "kimitsu-20a492",
+      "shopid": "kimitsu-20a492-dbarai"
+    },
+    {
+      "name": "南子安動物病院",
+      "address": "南子安",
+      "storeid": "kimitsu-519553",
+      "shopid": "kimitsu-519553-dbarai"
+    }
+  ]
+}
