@@ -2,2325 +2,3381 @@
   "全て": [
     {
       "name": "トリミングサロン LuPO",
-      "address": "佐久市 安原1025-7",
-      "storeid": "saku-34fab1",
-      "shopid": "saku-34fab1-paypay"
+      "address": "安原1025-7",
+      "storeid": "saku-c048ad",
+      "shopid": "saku-c048ad-paypay"
     },
     {
       "name": "ゼロフラッグ",
-      "address": "佐久市 岩村田1080-1",
-      "storeid": "saku-8fe0a7",
-      "shopid": "saku-8fe0a7-paypay"
+      "address": "安原1088-1",
+      "storeid": "saku-d518ab",
+      "shopid": "saku-d518ab-paypay"
     },
     {
-      "name": "もっちり鍼灸クリニック",
-      "address": "佐久市 岩村田1170-7",
-      "storeid": "saku-242e65",
-      "shopid": "saku-242e65-paypay"
-    },
-    {
-      "name": "クリーニングの白洋舎 岩村田店",
-      "address": "佐久市 岩村田1270-1",
-      "storeid": "saku-9d91e0",
-      "shopid": "saku-9d91e0-paypay"
+      "name": "ももい歯科クリニック",
+      "address": "安原1101-7",
+      "storeid": "saku-4705b3",
+      "shopid": "saku-4705b3-paypay"
     },
     {
       "name": "ペレットプラス",
-      "address": "佐久市 甲144-3",
-      "storeid": "saku-6f10b3",
-      "shopid": "saku-6f10b3-paypay"
+      "address": "安原1424-13",
+      "storeid": "saku-de8ec2",
+      "shopid": "saku-de8ec2-paypay"
     },
     {
-      "name": "ニュー鳥忠 佐久平店",
-      "address": "佐久市 佐久平駅東5-3",
-      "storeid": "saku-fe4019",
-      "shopid": "saku-fe4019-paypay"
+      "name": "株式会社　GO TRADING",
+      "address": "安原1428-5",
+      "storeid": "saku-5c1f47",
+      "shopid": "saku-5c1f47-paypay"
     },
     {
-      "name": "EDIT COFFEE ROASTERY",
-      "address": "佐久市 岩村田中町817-15",
-      "storeid": "saku-9c8f72",
-      "shopid": "saku-9c8f72-paypay"
+      "name": "ニュー交通タクシー",
+      "address": "安原1525-3",
+      "storeid": "saku-31ad5a",
+      "shopid": "saku-31ad5a-paypay"
     },
     {
-      "name": "新海堂 本店",
-      "address": "佐久市 岩村田中町1414",
-      "storeid": "saku-44ea04",
-      "shopid": "saku-44ea04-paypay"
+      "name": "クリーニングひまわり 安原店",
+      "address": "安原字東大久保1270-1",
+      "storeid": "saku-5ebc40",
+      "shopid": "saku-5ebc40-paypay"
     },
     {
-      "name": "BASH SHOP 岩村田",
-      "address": "佐久市 岩村田下塚原84",
-      "storeid": "saku-52b8c0",
-      "shopid": "saku-52b8c0-paypay"
+      "name": "平元商店 本社工場",
+      "address": "臼田1094-1",
+      "storeid": "saku-35ad86",
+      "shopid": "saku-35ad86-paypay"
     },
     {
-      "name": "BigBANG岩店",
-      "address": "佐久市 岩村田西浦11",
-      "storeid": "saku-45b0d5",
-      "shopid": "saku-45b0d5-paypay"
+      "name": "小金澤商店 千曲給油所",
+      "address": "臼田1106-2",
+      "storeid": "saku-dd84a5",
+      "shopid": "saku-dd84a5-paypay"
     },
     {
-      "name": "スターヘアー",
-      "address": "佐久市 平賀1276-3",
-      "storeid": "saku-b1b795",
-      "shopid": "saku-b1b795-paypay"
-    },
-    {
-      "name": "小松スポーツ",
-      "address": "佐久市 平賀2421",
-      "storeid": "saku-3a584f",
-      "shopid": "saku-3a584f-paypay"
-    },
-    {
-      "name": "マニキュアハウス",
-      "address": "佐久市 佐久平駅東12-9",
-      "storeid": "saku-65042d",
-      "shopid": "saku-65042d-paypay"
-    },
-    {
-      "name": "カーファクトリトウヤ",
-      "address": "佐久市 岩村田2477-1",
-      "storeid": "saku-de9f61",
-      "shopid": "saku-de9f61-paypay"
-    },
-    {
-      "name": "スーパークス今井商店 コープ長野 二名店",
-      "address": "佐久市 岩村田2290-4",
-      "storeid": "saku-30741c",
-      "shopid": "saku-30741c-paypay"
-    },
-    {
-      "name": "KURABITO STAY",
-      "address": "佐久市 平賀769-7",
-      "storeid": "saku-8874d0",
-      "shopid": "saku-8874d0-paypay"
-    },
-    {
-      "name": "ネイルサロン アマリリス",
-      "address": "佐久市 岩村田平和台4-2",
-      "storeid": "saku-ca0b8f",
-      "shopid": "saku-ca0b8f-paypay"
-    },
-    {
-      "name": "平尾温泉 みはらしの湯",
-      "address": "佐久市 平尾温泉2622",
-      "storeid": "saku-236b7d",
-      "shopid": "saku-236b7d-paypay"
-    },
-    {
-      "name": "アッカヘアサービス",
-      "address": "佐久市 岩村田1175",
-      "storeid": "saku-51afdf",
-      "shopid": "saku-51afdf-paypay"
+      "name": "万ペットサービス",
+      "address": "臼田1115",
+      "storeid": "saku-e3a377",
+      "shopid": "saku-e3a377-paypay"
     },
     {
       "name": "eyelash Dahlia",
-      "address": "佐久市 岩村田1188-3",
-      "storeid": "saku-bf25a2",
-      "shopid": "saku-bf25a2-paypay"
+      "address": "臼田1188-3",
+      "storeid": "saku-7eca39",
+      "shopid": "saku-7eca39-paypay"
     },
     {
-      "name": "五反田食堂",
-      "address": "佐久市 岩村田1191-5",
-      "storeid": "saku-55243e",
-      "shopid": "saku-55243e-paypay"
+      "name": "黒岩歯科医院",
+      "address": "臼田1191-5",
+      "storeid": "saku-8b2fe0",
+      "shopid": "saku-8b2fe0-paypay"
     },
     {
-      "name": "サイクルショップ プリマヴェーラ",
-      "address": "佐久市 岩村田1203-9",
-      "storeid": "saku-f0744b",
-      "shopid": "saku-f0744b-paypay"
+      "name": "サイクルショップリンテーヂ",
+      "address": "臼田1209-3",
+      "storeid": "saku-8afe90",
+      "shopid": "saku-8afe90-paypay"
     },
     {
-      "name": "平賀自転車商会",
-      "address": "佐久市 平賀1180-1",
-      "storeid": "saku-2c1dc4",
-      "shopid": "saku-2c1dc4-paypay"
+      "name": "おやつ倶楽部 いちばん星",
+      "address": "臼田128-1",
+      "storeid": "saku-7f1017",
+      "shopid": "saku-7f1017-paypay"
     },
     {
-      "name": "和カフェ 茶しゅう",
-      "address": "佐久市 平賀370-1",
-      "storeid": "saku-686280",
-      "shopid": "saku-686280-paypay"
+      "name": "明正堂",
+      "address": "臼田134-1",
+      "storeid": "saku-031cab",
+      "shopid": "saku-031cab-paypay"
     },
     {
-      "name": "中華そば やまびこ",
-      "address": "佐久市 平賀706-3",
-      "storeid": "saku-943ae7",
-      "shopid": "saku-943ae7-paypay"
+      "name": "BARBAR SHOP 剃者",
+      "address": "臼田135-5",
+      "storeid": "saku-07dd71",
+      "shopid": "saku-07dd71-paypay"
     },
     {
-      "name": "富士乃湯",
-      "address": "佐久市 平賀1085-2",
-      "storeid": "saku-7bc2f7",
-      "shopid": "saku-7bc2f7-paypay"
+      "name": "すまいるきっちん",
+      "address": "臼田1370-1",
+      "storeid": "saku-487c49",
+      "shopid": "saku-487c49-paypay"
     },
     {
-      "name": "application 美容&生活",
-      "address": "佐久市 平賀1114-1",
-      "storeid": "saku-1fd77e",
-      "shopid": "saku-1fd77e-paypay"
+      "name": "ともえごぜん",
+      "address": "臼田1387-1",
+      "storeid": "saku-f99207",
+      "shopid": "saku-f99207-paypay"
     },
     {
-      "name": "野沢屋呉服店",
-      "address": "佐久市 平賀872-2",
-      "storeid": "saku-657dd5",
-      "shopid": "saku-657dd5-paypay"
+      "name": "中華そば やましげ",
+      "address": "臼田1389-1",
+      "storeid": "saku-d9b1a7",
+      "shopid": "saku-d9b1a7-paypay"
     },
     {
-      "name": "ヘアーサロン コクリエ",
-      "address": "佐久市 平賀1257-5",
-      "storeid": "saku-81c136",
-      "shopid": "saku-81c136-paypay"
+      "name": "BigBeN臼田店",
+      "address": "臼田140-11",
+      "storeid": "saku-697c45",
+      "shopid": "saku-697c45-paypay"
     },
     {
-      "name": "有限会社 カタクラタクシー",
-      "address": "佐久市 平賀1257-5",
-      "storeid": "saku-2d3790",
-      "shopid": "saku-2d3790-paypay"
+      "name": "黒沢電機",
+      "address": "臼田142",
+      "storeid": "saku-a6811c",
+      "shopid": "saku-a6811c-paypay"
     },
     {
-      "name": "お菓子処 いさみや",
-      "address": "佐久市 平賀1140-3",
-      "storeid": "saku-3a741a",
-      "shopid": "saku-3a741a-paypay"
+      "name": "嶋屋種苗",
+      "address": "臼田1706-3",
+      "storeid": "saku-33e7a4",
+      "shopid": "saku-33e7a4-paypay"
     },
     {
-      "name": "いなだや",
-      "address": "佐久市 平賀120",
-      "storeid": "saku-5fbc00",
-      "shopid": "saku-5fbc00-paypay"
+      "name": "田島商会",
+      "address": "臼田1710",
+      "storeid": "saku-5829d5",
+      "shopid": "saku-5829d5-paypay"
     },
     {
-      "name": "こばやしクリーニング 佐久平店",
-      "address": "佐久市 平賀769-14",
-      "storeid": "saku-0c5f71",
-      "shopid": "saku-0c5f71-paypay"
+      "name": "富士乃 鰻っちゃ",
+      "address": "臼田1933-1",
+      "storeid": "saku-04e7d7",
+      "shopid": "saku-04e7d7-paypay"
     },
     {
-      "name": "rockcontrol（楽蔵）",
-      "address": "佐久市 平賀879-6",
-      "storeid": "saku-d77d19",
-      "shopid": "saku-d77d19-paypay"
+      "name": "apollostation 星のまちSS",
+      "address": "臼田1934-1",
+      "storeid": "saku-f2fd8a",
+      "shopid": "saku-f2fd8a-paypay"
     },
     {
-      "name": "キークック 岩村田店",
-      "address": "佐久市 岩村田656-3",
-      "storeid": "saku-d8c02b",
-      "shopid": "saku-d8c02b-paypay"
+      "name": "松井畳店",
+      "address": "臼田2081-2",
+      "storeid": "saku-9e936c",
+      "shopid": "saku-9e936c-paypay"
     },
     {
-      "name": "電気プラザ 佐久店",
-      "address": "佐久市 佐久平駅北27-10",
-      "storeid": "saku-499bfa",
-      "shopid": "saku-499bfa-paypay"
+      "name": "スター薬局",
+      "address": "臼田212-5",
+      "storeid": "saku-22bb5e",
+      "shopid": "saku-22bb5e-paypay"
     },
     {
-      "name": "UniCoasta",
-      "address": "佐久市 佐久平駅東20-10",
-      "storeid": "saku-cbf0e0",
-      "shopid": "saku-cbf0e0-paypay"
+      "name": "玉屋 臼田本店",
+      "address": "臼田215",
+      "storeid": "saku-ca1131",
+      "shopid": "saku-ca1131-paypay"
     },
     {
-      "name": "Rock Sun 佐久平店",
-      "address": "佐久市 佐久平駅東7-13",
-      "storeid": "saku-eb2a3a",
-      "shopid": "saku-eb2a3a-paypay"
+      "name": "布屋呉服店",
+      "address": "臼田2150",
+      "storeid": "saku-8cec8b",
+      "shopid": "saku-8cec8b-paypay"
     },
     {
-      "name": "ネイルズサロン 彩音",
-      "address": "佐久市 平賀1151-5",
-      "storeid": "saku-b226a8",
-      "shopid": "saku-b226a8-paypay"
+      "name": "ヘアーサロン コジマ",
+      "address": "臼田2152-5",
+      "storeid": "saku-79f6c9",
+      "shopid": "saku-79f6c9-paypay"
     },
     {
-      "name": "スマイルサイクル 佐久平店",
-      "address": "佐久市 佐久平駅南25-3",
-      "storeid": "saku-6d7691",
-      "shopid": "saku-6d7691-paypay"
+      "name": "綿屋",
+      "address": "臼田2175",
+      "storeid": "saku-e4f264",
+      "shopid": "saku-e4f264-paypay"
     },
     {
-      "name": "HairSPA Lin'ca",
-      "address": "佐久市 岩村田705-4",
-      "storeid": "saku-8bced1",
-      "shopid": "saku-8bced1-paypay"
+      "name": "喫茶&スナックダックス",
+      "address": "臼田2175",
+      "storeid": "saku-3d4585",
+      "shopid": "saku-3d4585-paypay"
     },
     {
-      "name": "rockcontrol",
-      "address": "佐久市 岩村田805-1",
-      "storeid": "saku-69603e",
-      "shopid": "saku-69603e-paypay"
+      "name": "Women's Cave",
+      "address": "臼田2175-1",
+      "storeid": "saku-2ff5a4",
+      "shopid": "saku-2ff5a4-paypay"
     },
     {
-      "name": "スープ食堂 彩菜 コルロー",
-      "address": "佐久市 平賀2290-4",
-      "storeid": "saku-2a6868",
-      "shopid": "saku-2a6868-paypay"
+      "name": "お料理れもん",
+      "address": "臼田2179-5",
+      "storeid": "saku-529403",
+      "shopid": "saku-529403-paypay"
     },
     {
-      "name": "カフェ＆ダイニング PIERROT",
-      "address": "佐久市 平賀855-5",
-      "storeid": "saku-e38823",
-      "shopid": "saku-e38823-paypay"
+      "name": "いで生花",
+      "address": "臼田2180",
+      "storeid": "saku-cdf7f3",
+      "shopid": "saku-cdf7f3-paypay"
     },
     {
-      "name": "ペーパリース工房星野",
-      "address": "佐久市 平賀776-2",
-      "storeid": "saku-29ab69",
-      "shopid": "saku-29ab69-paypay"
+      "name": "こばやしクリーニング ツルヤ臼田店",
+      "address": "臼田2254",
+      "storeid": "saku-278356",
+      "shopid": "saku-278356-paypay"
     },
     {
-      "name": "カジュアルサロン LeVol",
-      "address": "佐久市 平賀883-3",
-      "storeid": "saku-f69062",
-      "shopid": "saku-f69062-paypay"
+      "name": "rodcontrol（本社）",
+      "address": "臼田2292-6",
+      "storeid": "saku-d45dec",
+      "shopid": "saku-d45dec-paypay"
     },
     {
-      "name": "オードリーヘアスタイル",
-      "address": "佐久市 岩村田637-2",
-      "storeid": "saku-eabc95",
-      "shopid": "saku-eabc95-paypay"
+      "name": "キーロック臼田本店",
+      "address": "臼田2295-3",
+      "storeid": "saku-c5fce3",
+      "shopid": "saku-c5fce3-paypay"
     },
     {
-      "name": "サロンメルル",
-      "address": "佐久市 平賀1152-12",
-      "storeid": "saku-dfc087",
-      "shopid": "saku-dfc087-paypay"
+      "name": "理容プラーナ 佐久臼田",
+      "address": "臼田2295-4",
+      "storeid": "saku-f885d2",
+      "shopid": "saku-f885d2-paypay"
     },
     {
-      "name": "美容室 hair Lush",
-      "address": "佐久市 平賀780-3",
-      "storeid": "saku-5e21e0",
-      "shopid": "saku-5e21e0-paypay"
+      "name": "UnaCasita",
+      "address": "臼田2303-10",
+      "storeid": "saku-18e337",
+      "shopid": "saku-18e337-paypay"
     },
     {
-      "name": "KIKI",
-      "address": "佐久市 中込3-7",
-      "storeid": "saku-f77875",
-      "shopid": "saku-f77875-paypay"
+      "name": "手打処 ともせん",
+      "address": "臼田258",
+      "storeid": "saku-186de6",
+      "shopid": "saku-186de6-paypay"
     },
     {
-      "name": "アイラッシュ＆リラクゼーション Ailto",
-      "address": "佐久市 平賀1150-11",
-      "storeid": "saku-edd908",
-      "shopid": "saku-edd908-paypay"
+      "name": "マルゴ電器設備",
+      "address": "臼田259",
+      "storeid": "saku-f1929f",
+      "shopid": "saku-f1929f-paypay"
     },
     {
-      "name": "和食処 たかの",
-      "address": "佐久市 平賀1515-12",
-      "storeid": "saku-d18214",
-      "shopid": "saku-d18214-paypay"
+      "name": "カーテックナイトウ",
+      "address": "臼田427-1",
+      "storeid": "saku-f4151d",
+      "shopid": "saku-f4151d-paypay"
     },
     {
-      "name": "美容室 ecru",
-      "address": "佐久市 平賀1162-1",
-      "storeid": "saku-6dd4ee",
-      "shopid": "saku-6dd4ee-paypay"
+      "name": "KURABITO STAY",
+      "address": "臼田623-2",
+      "storeid": "saku-26c8fc",
+      "shopid": "saku-26c8fc-paypay"
     },
     {
-      "name": "美容室 Lume",
-      "address": "佐久市 岩村田1176-1",
-      "storeid": "saku-dacb2b",
-      "shopid": "saku-dacb2b-paypay"
+      "name": "エルコンパス アマリ",
+      "address": "臼田652-4",
+      "storeid": "saku-9b8e3e",
+      "shopid": "saku-9b8e3e-paypay"
     },
     {
-      "name": "ALOHA tapepy",
-      "address": "佐久市 岩村田1168-1",
-      "storeid": "saku-94fc93",
-      "shopid": "saku-94fc93-paypay"
+      "name": "EDIT COFFEE ROASTERY",
+      "address": "臼田67-15",
+      "storeid": "saku-6ab0c5",
+      "shopid": "saku-6ab0c5-paypay"
     },
     {
-      "name": "串焼きトート",
-      "address": "佐久市 岩村田850-4",
-      "storeid": "saku-964c31",
-      "shopid": "saku-964c31-paypay"
+      "name": "居酒屋 朱雀",
+      "address": "臼田67-17",
+      "storeid": "saku-efe333",
+      "shopid": "saku-efe333-paypay"
     },
     {
-      "name": "焼肉 MAHALO",
-      "address": "佐久市 岩村田865-1",
-      "storeid": "saku-951a3d",
-      "shopid": "saku-951a3d-paypay"
+      "name": "焼きたて屋 DCM臼田店",
+      "address": "臼田下の宮1976-2",
+      "storeid": "saku-961e45",
+      "shopid": "saku-961e45-paypay"
     },
     {
-      "name": "居酒屋 福楽",
-      "address": "佐久市 平賀373",
-      "storeid": "saku-d4833e",
-      "shopid": "saku-d4833e-paypay"
+      "name": "小山スポーツ",
+      "address": "臼田中央251",
+      "storeid": "saku-f4515e",
+      "shopid": "saku-f4515e-paypay"
     },
     {
-      "name": "Spaghetteria AZ DINING 佐久平店",
-      "address": "佐久市 岩村田711-1",
-      "storeid": "saku-f9ca06",
-      "shopid": "saku-f9ca06-paypay"
+      "name": "長野県立武道館",
+      "address": "猿久保165-1",
+      "storeid": "saku-6a1acf",
+      "shopid": "saku-6a1acf-paypay"
     },
     {
-      "name": "うえいじん あみん",
-      "address": "佐久市 平賀877-1",
-      "storeid": "saku-975532",
-      "shopid": "saku-975532-paypay"
+      "name": "Rock Sun 佐久教室",
+      "address": "猿久保23-4",
+      "storeid": "saku-a44b24",
+      "shopid": "saku-a44b24-paypay"
     },
     {
-      "name": "旬彩処 ゆうき",
-      "address": "佐久市 平賀877-3",
-      "storeid": "saku-99d3cc",
-      "shopid": "saku-99d3cc-paypay"
+      "name": "オートフィールド佐久",
+      "address": "猿久保342-13",
+      "storeid": "saku-4d522b",
+      "shopid": "saku-4d522b-paypay"
     },
     {
-      "name": "キサマグループ",
-      "address": "佐久市 平賀754-5",
-      "storeid": "saku-84d3c5",
-      "shopid": "saku-84d3c5-paypay"
+      "name": "エクストリームオートモービル",
+      "address": "猿久保457-1",
+      "storeid": "saku-7cbe86",
+      "shopid": "saku-7cbe86-paypay"
     },
     {
-      "name": "Casa Libre",
-      "address": "佐久市 平賀711-1",
-      "storeid": "saku-9f3562",
-      "shopid": "saku-9f3562-paypay"
+      "name": "Nail Salon Tana",
+      "address": "猿久保589-2",
+      "storeid": "saku-4b4f8a",
+      "shopid": "saku-4b4f8a-paypay"
     },
     {
-      "name": "Fuvaly",
-      "address": "佐久市 平賀762",
-      "storeid": "saku-c86035",
-      "shopid": "saku-c86035-paypay"
+      "name": "ロックサービスツチヤ",
+      "address": "猿久保668-1",
+      "storeid": "saku-a51a26",
+      "shopid": "saku-a51a26-paypay"
     },
     {
-      "name": "ながい美容院",
-      "address": "佐久市 平賀770-3",
-      "storeid": "saku-a8eed7",
-      "shopid": "saku-a8eed7-paypay"
+      "name": "スマイルサンタ 佐久店",
+      "address": "猿久保7-1",
+      "storeid": "saku-c42c85",
+      "shopid": "saku-c42c85-paypay"
     },
     {
-      "name": "十六夜",
-      "address": "佐久市 平賀764-2",
-      "storeid": "saku-20a21d",
-      "shopid": "saku-20a21d-paypay"
+      "name": "松葉タクシー 佐久営業所",
+      "address": "猿久保779-2",
+      "storeid": "saku-cd916b",
+      "shopid": "saku-cd916b-paypay"
     },
     {
-      "name": "coKIN no Jikan",
-      "address": "佐久市 平賀773-2",
-      "storeid": "saku-11d1a4",
-      "shopid": "saku-11d1a4-paypay"
+      "name": "Cafe&Dining 雪月花のとき",
+      "address": "猿久保780-11",
+      "storeid": "saku-7bc8cf",
+      "shopid": "saku-7bc8cf-paypay"
     },
     {
-      "name": "守成CLub",
-      "address": "佐久市 平賀773-2",
-      "storeid": "saku-b59a4b",
-      "shopid": "saku-b59a4b-paypay"
+      "name": "HAIR&SPA Lino'a",
+      "address": "猿久保785-4",
+      "storeid": "saku-b7b348",
+      "shopid": "saku-b7b348-paypay"
     },
     {
-      "name": "いなほ松原 本店・平賀店",
-      "address": "佐久市 平賀877-5",
-      "storeid": "saku-e011ff",
-      "shopid": "saku-e011ff-paypay"
+      "name": "rodcontrol",
+      "address": "猿久保842-1",
+      "storeid": "saku-84a3c4",
+      "shopid": "saku-84a3c4-paypay"
     },
     {
-      "name": "居酒屋 縁",
-      "address": "佐久市 岩村田877",
-      "storeid": "saku-ee59d3",
-      "shopid": "saku-ee59d3-paypay"
+      "name": "玉屋 猿久保店",
+      "address": "猿久保853-14",
+      "storeid": "saku-5b2bae",
+      "shopid": "saku-5b2bae-paypay"
     },
     {
-      "name": "メンズサロンMILLA",
-      "address": "佐久市 平賀877",
-      "storeid": "saku-7a7f90",
-      "shopid": "saku-7a7f90-paypay"
+      "name": "ヘアースタジオ PIERROT",
+      "address": "猿久保855-5",
+      "storeid": "saku-5a5315",
+      "shopid": "saku-5a5315-paypay"
     },
     {
-      "name": "レ・ヴォル",
-      "address": "佐久市 平賀873",
-      "storeid": "saku-66fa2d",
-      "shopid": "saku-66fa2d-paypay"
+      "name": "ベリーベリースープ紅屋",
+      "address": "猿久保876-1",
+      "storeid": "saku-c4bdc5",
+      "shopid": "saku-c4bdc5-paypay"
     },
     {
-      "name": "S・K・H NANAKAKU 岩村田",
-      "address": "佐久市 平賀875",
-      "storeid": "saku-b92f1a",
-      "shopid": "saku-b92f1a-paypay"
+      "name": "オートガレージSTYLE-S",
+      "address": "塩名田1058-2",
+      "storeid": "saku-070600",
+      "shopid": "saku-070600-paypay"
     },
     {
-      "name": "和食のオーベルジュまほろば",
-      "address": "佐久市 平賀877-3",
-      "storeid": "saku-27a7a6",
-      "shopid": "saku-27a7a6-paypay"
+      "name": "小吉屋",
+      "address": "塩名田1394-2",
+      "storeid": "saku-7cb9ee",
+      "shopid": "saku-7cb9ee-paypay"
     },
     {
-      "name": "松月堂",
-      "address": "佐久市 平賀703-3",
-      "storeid": "saku-cf8565",
-      "shopid": "saku-cf8565-paypay"
+      "name": "めがねタイム",
+      "address": "塩名田488-2",
+      "storeid": "saku-f7ad37",
+      "shopid": "saku-f7ad37-paypay"
     },
     {
-      "name": "石窯焼きピザ FREAKS SHOWROOM",
-      "address": "佐久市 平賀873-2",
-      "storeid": "saku-df7210",
-      "shopid": "saku-df7210-paypay"
+      "name": "Le'wohl",
+      "address": "横根134",
+      "storeid": "saku-0dbb2d",
+      "shopid": "saku-0dbb2d-paypay"
     },
     {
-      "name": "KIKI’s Beauty clinic",
-      "address": "佐久市 平賀873-3",
-      "storeid": "saku-ba9dec",
-      "shopid": "saku-ba9dec-paypay"
+      "name": "S・K HANAKIKAKU 佐久店",
+      "address": "横根746-8",
+      "storeid": "saku-75a059",
+      "shopid": "saku-75a059-paypay"
+    },
+    {
+      "name": "酒のスーパータカギ 佐久IC店",
+      "address": "横根753-1",
+      "storeid": "saku-12d955",
+      "shopid": "saku-12d955-paypay"
+    },
+    {
+      "name": "KiKi",
+      "address": "横和39-7",
+      "storeid": "saku-f174e7",
+      "shopid": "saku-f174e7-paypay"
+    },
+    {
+      "name": "若松食堂",
+      "address": "下越155-12",
+      "storeid": "saku-c9bbc5",
+      "shopid": "saku-c9bbc5-paypay"
+    },
+    {
+      "name": "古間ラジオテレビ商会",
+      "address": "下越156-11",
+      "storeid": "saku-0ea284",
+      "shopid": "saku-0ea284-paypay"
+    },
+    {
+      "name": "AJITO",
+      "address": "下越195-1",
+      "storeid": "saku-464eda",
+      "shopid": "saku-464eda-paypay"
+    },
+    {
+      "name": "lulumalu",
+      "address": "下越195-1",
+      "storeid": "saku-7aa84c",
+      "shopid": "saku-7aa84c-paypay"
+    },
+    {
+      "name": "ふわり",
+      "address": "下越195-1",
+      "storeid": "saku-b518b1",
+      "shopid": "saku-b518b1-paypay"
+    },
+    {
+      "name": "木下建工",
+      "address": "下小田切293-5",
+      "storeid": "saku-bcfbee",
+      "shopid": "saku-bcfbee-paypay"
+    },
+    {
+      "name": "さろん 木もれび",
+      "address": "下小田切441",
+      "storeid": "saku-4bfab7",
+      "shopid": "saku-4bfab7-paypay"
+    },
+    {
+      "name": "平尾温泉みはらしの湯",
+      "address": "下平尾2682",
+      "storeid": "saku-32564d",
+      "shopid": "saku-32564d-paypay"
     },
     {
       "name": "Le Bistro des Copains",
-      "address": "佐久市 平賀1048",
-      "storeid": "saku-b535d7",
-      "shopid": "saku-b535d7-paypay"
+      "address": "下平尾419-8",
+      "storeid": "saku-3d9ed9",
+      "shopid": "saku-3d9ed9-paypay"
     },
     {
       "name": "FREAKS SHOWROOM",
-      "address": "佐久市 平賀873-2",
-      "storeid": "saku-c0547c",
-      "shopid": "saku-c0547c-paypay"
+      "address": "下平尾587-2",
+      "storeid": "saku-1bf0a5",
+      "shopid": "saku-1bf0a5-paypay"
     },
     {
-      "name": "K’s cafe",
-      "address": "佐久市 平賀877-2",
-      "storeid": "saku-7be1d8",
-      "shopid": "saku-7be1d8-paypay"
+      "name": "おうちさろん舞",
+      "address": "岩村田1062-3",
+      "storeid": "saku-80b2a4",
+      "shopid": "saku-80b2a4-paypay"
     },
     {
-      "name": "たいやき たこ焼き ふるさと屋",
-      "address": "佐久市 平賀711-3",
-      "storeid": "saku-353318",
-      "shopid": "saku-353318-paypay"
+      "name": "百万両",
+      "address": "岩村田1107-3",
+      "storeid": "saku-2f4e3c",
+      "shopid": "saku-2f4e3c-paypay"
     },
     {
-      "name": "お食事処 味の新月",
-      "address": "佐久市 平賀770-2",
-      "storeid": "saku-3d77b0",
-      "shopid": "saku-3d77b0-paypay"
+      "name": "ecru",
+      "address": "岩村田1162-11",
+      "storeid": "saku-a4e38a",
+      "shopid": "saku-a4e38a-paypay"
     },
     {
-      "name": "とんかつ 勝山",
-      "address": "佐久市 平賀768-2",
-      "storeid": "saku-59eac0",
-      "shopid": "saku-59eac0-paypay"
+      "name": "Lume",
+      "address": "岩村田1174-1",
+      "storeid": "saku-1b89e4",
+      "shopid": "saku-1b89e4-paypay"
     },
     {
-      "name": "カラオケパブ カトレア",
-      "address": "佐久市 平賀876",
-      "storeid": "saku-bdf2b1",
-      "shopid": "saku-bdf2b1-paypay"
+      "name": "ALOHA tappy",
+      "address": "岩村田1182-1",
+      "storeid": "saku-cb41e7",
+      "shopid": "saku-cb41e7-paypay"
     },
     {
-      "name": "そば処 福乃家",
-      "address": "佐久市 平賀876-2",
-      "storeid": "saku-86ee87",
-      "shopid": "saku-86ee87-paypay"
+      "name": "FLOUR WATER SALT",
+      "address": "岩村田1200-6",
+      "storeid": "saku-95b4fb",
+      "shopid": "saku-95b4fb-paypay"
     },
     {
-      "name": "味処 丸井亭",
-      "address": "佐久市 平賀769-9",
-      "storeid": "saku-485ea6",
-      "shopid": "saku-485ea6-paypay"
+      "name": "Heavenly",
+      "address": "岩村田1216-5",
+      "storeid": "saku-ae6615",
+      "shopid": "saku-ae6615-paypay"
     },
     {
-      "name": "割烹 かわむら",
-      "address": "佐久市 平賀870",
-      "storeid": "saku-9b2587",
-      "shopid": "saku-9b2587-paypay"
+      "name": "hair studio GLANZ",
+      "address": "岩村田1281-1",
+      "storeid": "saku-bd35b6",
+      "shopid": "saku-bd35b6-paypay"
     },
     {
-      "name": "あらやしき食堂",
-      "address": "佐久市 平賀763",
-      "storeid": "saku-e18b13",
-      "shopid": "saku-e18b13-paypay"
+      "name": "Clinicalsalon Dimple 佐久店",
+      "address": "岩村田1281-12",
+      "storeid": "saku-c635e2",
+      "shopid": "saku-c635e2-paypay"
     },
     {
-      "name": "すし源",
-      "address": "佐久市 平賀872",
-      "storeid": "saku-3e19a5",
-      "shopid": "saku-3e19a5-paypay"
+      "name": "pilling hair",
+      "address": "岩村田1283-6",
+      "storeid": "saku-429466",
+      "shopid": "saku-429466-paypay"
     },
     {
-      "name": "スナック 花水木",
-      "address": "佐久市 平賀764",
-      "storeid": "saku-36ea18",
-      "shopid": "saku-36ea18-paypay"
+      "name": "EPISIA",
+      "address": "岩村田1298-2",
+      "storeid": "saku-011592",
+      "shopid": "saku-011592-paypay"
     },
     {
-      "name": "居酒屋 雅",
-      "address": "佐久市 平賀771-3",
-      "storeid": "saku-a5dd07",
-      "shopid": "saku-a5dd07-paypay"
+      "name": "JEWELRY K",
+      "address": "岩村田1307-14",
+      "storeid": "saku-cfd869",
+      "shopid": "saku-cfd869-paypay"
     },
     {
-      "name": "割烹 魚留",
-      "address": "佐久市 平賀872-3",
-      "storeid": "saku-6a859d",
-      "shopid": "saku-6a859d-paypay"
+      "name": "佐久平整形外科クリニック",
+      "address": "岩村田1311-7",
+      "storeid": "saku-50783a",
+      "shopid": "saku-50783a-paypay"
     },
     {
-      "name": "和食処 みなみ",
-      "address": "佐久市 平賀773",
-      "storeid": "saku-529d18",
-      "shopid": "saku-529d18-paypay"
+      "name": "ウルフローブ",
+      "address": "岩村田1315",
+      "storeid": "saku-bb0aed",
+      "shopid": "saku-bb0aed-paypay"
     },
     {
-      "name": "CAFE LUMINOUS",
-      "address": "佐久市 平賀774-3",
-      "storeid": "saku-a45329",
-      "shopid": "saku-a45329-paypay"
+      "name": "ツヤイロ佐久店",
+      "address": "岩村田1315",
+      "storeid": "saku-7d3d1e",
+      "shopid": "saku-7d3d1e-paypay"
     },
     {
-      "name": "アジアンキッチン カルマ",
-      "address": "佐久市 平賀774-5",
-      "storeid": "saku-dcc3db",
-      "shopid": "saku-dcc3db-paypay"
+      "name": "ソーマ佐久平薬局",
+      "address": "岩村田1318-7",
+      "storeid": "saku-3a2344",
+      "shopid": "saku-3a2344-paypay"
     },
     {
-      "name": "居酒屋 二幸",
-      "address": "佐久市 平賀770-1",
-      "storeid": "saku-06b92f",
-      "shopid": "saku-06b92f-paypay"
+      "name": "マウンテンロックリバー",
+      "address": "岩村田1319-3",
+      "storeid": "saku-acb362",
+      "shopid": "saku-acb362-paypay"
     },
     {
-      "name": "串焼き 風月",
-      "address": "佐久市 平賀769-2",
-      "storeid": "saku-77b91b",
-      "shopid": "saku-77b91b-paypay"
+      "name": "RAKULA",
+      "address": "岩村田1334",
+      "storeid": "saku-311e91",
+      "shopid": "saku-311e91-paypay"
     },
     {
-      "name": "ラーメン まるよし",
-      "address": "佐久市 平賀877-5",
-      "storeid": "saku-af9eae",
-      "shopid": "saku-af9eae-paypay"
+      "name": "佐久調剤薬局",
+      "address": "岩村田1334",
+      "storeid": "saku-40bfa0",
+      "shopid": "saku-40bfa0-paypay"
     },
     {
-      "name": "お食事処 志乃",
-      "address": "佐久市 平賀872-4",
-      "storeid": "saku-8d249b",
-      "shopid": "saku-8d249b-paypay"
+      "name": "佐久平センター歯科",
+      "address": "岩村田1349-25",
+      "storeid": "saku-c51b46",
+      "shopid": "saku-c51b46-paypay"
     },
     {
-      "name": "洋食 キッチンたけうち",
-      "address": "佐久市 平賀773-5",
-      "storeid": "saku-5b7be6",
-      "shopid": "saku-5b7be6-paypay"
+      "name": "VITA cafe",
+      "address": "岩村田1353-8",
+      "storeid": "saku-26dde7",
+      "shopid": "saku-26dde7-paypay"
     },
     {
-      "name": "海鮮処 たかの",
-      "address": "佐久市 平賀775",
-      "storeid": "saku-ec9527",
-      "shopid": "saku-ec9527-paypay"
+      "name": "ヘアデザイン レガーレ",
+      "address": "岩村田1355-3",
+      "storeid": "saku-09b77f",
+      "shopid": "saku-09b77f-paypay"
     },
     {
-      "name": "とんかつ きよた",
-      "address": "佐久市 平賀774-1",
-      "storeid": "saku-b86fc1",
-      "shopid": "saku-b86fc1-paypay"
+      "name": "シューマート 佐久平店",
+      "address": "岩村田1453-3",
+      "storeid": "saku-80ca89",
+      "shopid": "saku-80ca89-paypay"
     },
     {
-      "name": "お好み焼 ふくろう",
-      "address": "佐久市 平賀773-1",
-      "storeid": "saku-448c2d",
-      "shopid": "saku-448c2d-paypay"
+      "name": "赤から 佐久平店",
+      "address": "岩村田161-3",
+      "storeid": "saku-ae8a57",
+      "shopid": "saku-ae8a57-paypay"
     },
     {
-      "name": "日本料理 松月",
-      "address": "佐久市 平賀875-2",
-      "storeid": "saku-73e9a8",
-      "shopid": "saku-73e9a8-paypay"
+      "name": "seira",
+      "address": "岩村田1718-8",
+      "storeid": "saku-5f51ba",
+      "shopid": "saku-5f51ba-paypay"
     },
     {
-      "name": "割烹 ひらやま",
-      "address": "佐久市 平賀870-2",
-      "storeid": "saku-5ea214",
-      "shopid": "saku-5ea214-paypay"
+      "name": "cosola",
+      "address": "岩村田1719-1",
+      "storeid": "saku-0392bd",
+      "shopid": "saku-0392bd-paypay"
     },
     {
-      "name": "ファミリーレストラン いっぷく",
-      "address": "佐久市 岩村田887-4",
-      "storeid": "saku-76a47b",
-      "shopid": "saku-76a47b-paypay"
+      "name": "くつろぎイタリアンほのBuono",
+      "address": "岩村田1734-6",
+      "storeid": "saku-3a1c69",
+      "shopid": "saku-3a1c69-paypay"
     },
     {
-      "name": "味処 丸喜",
-      "address": "佐久市 岩村田885",
-      "storeid": "saku-484660",
-      "shopid": "saku-484660-paypay"
+      "name": "むぎの里 佐久平店",
+      "address": "岩村田1746-1",
+      "storeid": "saku-4d2d28",
+      "shopid": "saku-4d2d28-paypay"
     },
     {
-      "name": "スナック ゆり",
-      "address": "佐久市 岩村田887",
-      "storeid": "saku-73bb19",
-      "shopid": "saku-73bb19-paypay"
+      "name": "cafedining Lanikai",
+      "address": "岩村田1756-1",
+      "storeid": "saku-1fe87f",
+      "shopid": "saku-1fe87f-paypay"
     },
     {
-      "name": "焼肉 味平",
-      "address": "佐久市 岩村田884-2",
-      "storeid": "saku-aa4f80",
-      "shopid": "saku-aa4f80-paypay"
+      "name": "ゆうきと寿し 佐久平店",
+      "address": "岩村田1763",
+      "storeid": "saku-f04717",
+      "shopid": "saku-f04717-paypay"
     },
     {
-      "name": "カラオケスナック たんぽぽ",
-      "address": "佐久市 岩村田888-5",
-      "storeid": "saku-fbc1cd",
-      "shopid": "saku-fbc1cd-paypay"
+      "name": "信州焼肉 南山亭 佐久平店",
+      "address": "岩村田1763",
+      "storeid": "saku-a1fc71",
+      "shopid": "saku-a1fc71-paypay"
     },
     {
-      "name": "居酒屋 風林火山",
-      "address": "佐久市 岩村田889-3",
-      "storeid": "saku-56ffb1",
-      "shopid": "saku-56ffb1-paypay"
+      "name": "たじま歯科医院",
+      "address": "岩村田1773-2",
+      "storeid": "saku-eff3e0",
+      "shopid": "saku-eff3e0-paypay"
     },
     {
-      "name": "喫茶 ナイスデイ",
-      "address": "佐久市 岩村田890",
-      "storeid": "saku-e8d230",
-      "shopid": "saku-e8d230-paypay"
+      "name": "ナポリの食卓 佐久店",
+      "address": "岩村田1811-1",
+      "storeid": "saku-e3bbec",
+      "shopid": "saku-e3bbec-paypay"
     },
     {
-      "name": "スナック こころ",
-      "address": "佐久市 岩村田893-2",
-      "storeid": "saku-fbc6c8",
-      "shopid": "saku-fbc6c8-paypay"
+      "name": "Rosetta",
+      "address": "岩村田1813",
+      "storeid": "saku-18ec9d",
+      "shopid": "saku-18ec9d-paypay"
     },
     {
-      "name": "焼鳥 たけちゃん",
-      "address": "佐久市 岩村田894",
-      "storeid": "saku-fadaea",
-      "shopid": "saku-fadaea-paypay"
+      "name": "ハレルアナ",
+      "address": "岩村田1813",
+      "storeid": "saku-f1a519",
+      "shopid": "saku-f1a519-paypay"
     },
     {
-      "name": "味処 よし川",
-      "address": "佐久市 岩村田895",
-      "storeid": "saku-a3903e",
-      "shopid": "saku-a3903e-paypay"
+      "name": "藤野歯科医院",
+      "address": "岩村田1822-1",
+      "storeid": "saku-d45019",
+      "shopid": "saku-d45019-paypay"
     },
     {
-      "name": "居酒屋 いちばん星",
-      "address": "佐久市 岩村田896",
-      "storeid": "saku-ca18a7",
-      "shopid": "saku-ca18a7-paypay"
+      "name": "Sorry, that I'm DRUNK",
+      "address": "岩村田1929-41",
+      "storeid": "saku-e4a40e",
+      "shopid": "saku-e4a40e-paypay"
     },
     {
-      "name": "スナック チャーミー",
-      "address": "佐久市 岩村田897",
-      "storeid": "saku-9939c9",
-      "shopid": "saku-9939c9-paypay"
+      "name": "サクモ佐久市子ども未来館",
+      "address": "岩村田1931-1",
+      "storeid": "saku-ea7a99",
+      "shopid": "saku-ea7a99-paypay"
     },
     {
-      "name": "焼肉 大将",
-      "address": "佐久市 岩村田898",
-      "storeid": "saku-f4693f",
-      "shopid": "saku-f4693f-paypay"
+      "name": "鈴木理容店",
+      "address": "岩村田1961-3",
+      "storeid": "saku-fba5f9",
+      "shopid": "saku-fba5f9-paypay"
     },
     {
-      "name": "おでん処 たつみ",
-      "address": "佐久市 岩村田899",
-      "storeid": "saku-eeb71b",
-      "shopid": "saku-eeb71b-paypay"
+      "name": "観音堂",
+      "address": "岩村田1968-4",
+      "storeid": "saku-97eceb",
+      "shopid": "saku-97eceb-paypay"
     },
     {
-      "name": "スナック えみ",
-      "address": "佐久市 岩村田900",
-      "storeid": "saku-d2f581",
-      "shopid": "saku-d2f581-paypay"
+      "name": "みなみ薬局",
+      "address": "岩村田2013-1",
+      "storeid": "saku-6826c8",
+      "shopid": "saku-6826c8-paypay"
     },
     {
-      "name": "居酒屋 福寿",
-      "address": "佐久市 岩村田901",
-      "storeid": "saku-30f529",
-      "shopid": "saku-30f529-paypay"
+      "name": "Amyhairworks",
+      "address": "岩村田2014-3",
+      "storeid": "saku-05a1ec",
+      "shopid": "saku-05a1ec-paypay"
     },
     {
-      "name": "居酒屋 きたの",
-      "address": "佐久市 岩村田902",
-      "storeid": "saku-fddaad",
-      "shopid": "saku-fddaad-paypay"
+      "name": "Emma nail studio",
+      "address": "岩村田2014-3",
+      "storeid": "saku-13639e",
+      "shopid": "saku-13639e-paypay"
     },
     {
-      "name": "ラーメン のぶ",
-      "address": "佐久市 岩村田903",
-      "storeid": "saku-29175c",
-      "shopid": "saku-29175c-paypay"
+      "name": "LIFTING LAB",
+      "address": "岩村田2024-2",
+      "storeid": "saku-b9e7d0",
+      "shopid": "saku-b9e7d0-paypay"
     },
     {
-      "name": "すし処 鶴屋",
-      "address": "佐久市 岩村田904",
-      "storeid": "saku-61bd78",
-      "shopid": "saku-61bd78-paypay"
+      "name": "大司治療院",
+      "address": "岩村田2024-2",
+      "storeid": "saku-d31d29",
+      "shopid": "saku-d31d29-paypay"
     },
     {
-      "name": "スナック なぎさ",
-      "address": "佐久市 岩村田905",
-      "storeid": "saku-8fa204",
-      "shopid": "saku-8fa204-paypay"
+      "name": "ピザ・カリフォルニア 佐久平店",
+      "address": "岩村田2037-1",
+      "storeid": "saku-744efb",
+      "shopid": "saku-744efb-paypay"
     },
     {
-      "name": "カラオケ つるや",
-      "address": "佐久市 岩村田906",
-      "storeid": "saku-76e593",
-      "shopid": "saku-76e593-paypay"
+      "name": "焼肉食堂 彩華",
+      "address": "岩村田2098-3",
+      "storeid": "saku-f9f1d4",
+      "shopid": "saku-f9f1d4-paypay"
     },
     {
-      "name": "スナック エミー",
-      "address": "佐久市 岩村田907",
-      "storeid": "saku-a496f5",
-      "shopid": "saku-a496f5-paypay"
+      "name": "nail salon nico",
+      "address": "岩村田2109-1",
+      "storeid": "saku-d53ceb",
+      "shopid": "saku-d53ceb-paypay"
     },
     {
-      "name": "スナック もも",
-      "address": "佐久市 岩村田908",
-      "storeid": "saku-cd4d3d",
-      "shopid": "saku-cd4d3d-paypay"
+      "name": "Zips Design",
+      "address": "岩村田2125-2",
+      "storeid": "saku-d5db8e",
+      "shopid": "saku-d5db8e-paypay"
     },
     {
-      "name": "スナック ナナ",
-      "address": "佐久市 岩村田909",
-      "storeid": "saku-20aa1f",
-      "shopid": "saku-20aa1f-paypay"
+      "name": "Hill Rd. cafe",
+      "address": "岩村田2317-1",
+      "storeid": "saku-1e88f6",
+      "shopid": "saku-1e88f6-paypay"
     },
     {
-      "name": "お食事処 かねや",
-      "address": "佐久市 岩村田910",
-      "storeid": "saku-3a853b",
-      "shopid": "saku-3a853b-paypay"
+      "name": "Eden",
+      "address": "岩村田2328-2",
+      "storeid": "saku-43d135",
+      "shopid": "saku-43d135-paypay"
     },
     {
-      "name": "焼鳥 いづみ",
-      "address": "佐久市 岩村田911",
-      "storeid": "saku-8ccf4f",
-      "shopid": "saku-8ccf4f-paypay"
+      "name": "HEAT 佐久店",
+      "address": "岩村田2328-2",
+      "storeid": "saku-4a861c",
+      "shopid": "saku-4a861c-paypay"
     },
     {
-      "name": "居酒屋 しんちゃん",
-      "address": "佐久市 岩村田912",
-      "storeid": "saku-ff99c4",
-      "shopid": "saku-ff99c4-paypay"
+      "name": "O SARRACINO",
+      "address": "岩村田2329-1",
+      "storeid": "saku-cec9da",
+      "shopid": "saku-cec9da-paypay"
     },
     {
-      "name": "旬彩酒房 ゆたか",
-      "address": "佐久市 岩村田913",
-      "storeid": "saku-05def8",
-      "shopid": "saku-05def8-paypay"
+      "name": "ヘアメイクDuplo",
+      "address": "岩村田2329-1",
+      "storeid": "saku-e76be5",
+      "shopid": "saku-e76be5-paypay"
     },
     {
-      "name": "居酒屋 遊庵",
-      "address": "佐久市 岩村田914",
-      "storeid": "saku-5840b3",
-      "shopid": "saku-5840b3-paypay"
+      "name": "リンパマッサージHope",
+      "address": "岩村田2329-1",
+      "storeid": "saku-8f1a61",
+      "shopid": "saku-8f1a61-paypay"
     },
     {
-      "name": "寿し処 たか志",
-      "address": "佐久市 岩村田915",
-      "storeid": "saku-2e5ea5",
-      "shopid": "saku-2e5ea5-paypay"
+      "name": "小さな占いサロンReSee",
+      "address": "岩村田2329-1",
+      "storeid": "saku-a087ff",
+      "shopid": "saku-a087ff-paypay"
     },
     {
-      "name": "スナック あや",
-      "address": "佐久市 岩村田916",
-      "storeid": "saku-3f6003",
-      "shopid": "saku-3f6003-paypay"
+      "name": "鶴亀接骨院",
+      "address": "岩村田2329-1",
+      "storeid": "saku-fda7be",
+      "shopid": "saku-fda7be-paypay"
     },
     {
-      "name": "焼鳥 いっちゃん",
-      "address": "佐久市 岩村田917",
-      "storeid": "saku-439bf2",
-      "shopid": "saku-439bf2-paypay"
+      "name": "スープパスタ専門店　コジロー　二号店",
+      "address": "岩村田2895-4",
+      "storeid": "saku-68e383",
+      "shopid": "saku-68e383-paypay"
     },
     {
-      "name": "スナック ナイト",
-      "address": "佐久市 岩村田918",
-      "storeid": "saku-9344fa",
-      "shopid": "saku-9344fa-paypay"
+      "name": "House maruche KOKORO ハウスマルシェココロ",
+      "address": "岩村田3095-1",
+      "storeid": "saku-e2a23f",
+      "shopid": "saku-e2a23f-paypay"
     },
     {
-      "name": "居酒屋 つばさ",
-      "address": "佐久市 岩村田919",
-      "storeid": "saku-de27e0",
-      "shopid": "saku-de27e0-paypay"
+      "name": "Breath",
+      "address": "岩村田3128-1",
+      "storeid": "saku-428ef8",
+      "shopid": "saku-428ef8-paypay"
     },
     {
-      "name": "スナック プルメリア",
-      "address": "佐久市 岩村田920",
-      "storeid": "saku-ce63f8",
-      "shopid": "saku-ce63f8-paypay"
+      "name": "EACHプライベートジム",
+      "address": "岩村田3135-4",
+      "storeid": "saku-45ebf8",
+      "shopid": "saku-45ebf8-paypay"
     },
     {
-      "name": "カラオケ ひまわり",
-      "address": "佐久市 岩村田921",
-      "storeid": "saku-fdf072",
-      "shopid": "saku-fdf072-paypay"
+      "name": "沖縄料理ゆいまーる",
+      "address": "岩村田3140-15",
+      "storeid": "saku-4f0236",
+      "shopid": "saku-4f0236-paypay"
     },
     {
-      "name": "スナック スズラン",
-      "address": "佐久市 岩村田922",
-      "storeid": "saku-ac588a",
-      "shopid": "saku-ac588a-paypay"
+      "name": "Dance&Body studio Belly Fit",
+      "address": "岩村田3162-10",
+      "storeid": "saku-9b06ba",
+      "shopid": "saku-9b06ba-paypay"
     },
     {
-      "name": "カラオケスナック 百合",
-      "address": "佐久市 岩村田923",
-      "storeid": "saku-f73001",
-      "shopid": "saku-f73001-paypay"
+      "name": "Route",
+      "address": "岩村田3162-16",
+      "storeid": "saku-a26098",
+      "shopid": "saku-a26098-paypay"
     },
     {
-      "name": "スナック アンジェ",
-      "address": "佐久市 岩村田924",
-      "storeid": "saku-ebe2eb",
-      "shopid": "saku-ebe2eb-paypay"
+      "name": "中国料理 山水",
+      "address": "岩村田3162-23",
+      "storeid": "saku-8bc316",
+      "shopid": "saku-8bc316-paypay"
     },
     {
-      "name": "スナック エレガンス",
-      "address": "佐久市 岩村田925",
-      "storeid": "saku-f5965f",
-      "shopid": "saku-f5965f-paypay"
+      "name": "シェーン 佐久店",
+      "address": "岩村田3162-25",
+      "storeid": "saku-1802d2",
+      "shopid": "saku-1802d2-paypay"
     },
     {
-      "name": "スナック ローズ",
-      "address": "佐久市 岩村田926",
-      "storeid": "saku-0125fb",
-      "shopid": "saku-0125fb-paypay"
+      "name": "ビールBAL Hops",
+      "address": "岩村田3162-27",
+      "storeid": "saku-e39486",
+      "shopid": "saku-e39486-paypay"
     },
     {
-      "name": "居酒屋 たぬき",
-      "address": "佐久市 岩村田927",
-      "storeid": "saku-8c3e2c",
-      "shopid": "saku-8c3e2c-paypay"
+      "name": "好日食堂ふじとつる",
+      "address": "岩村田3162-39",
+      "storeid": "saku-7b88c7",
+      "shopid": "saku-7b88c7-paypay"
     },
     {
-      "name": "お食事処 魚春",
-      "address": "佐久市 岩村田928",
-      "storeid": "saku-454fbe",
-      "shopid": "saku-454fbe-paypay"
+      "name": "Beauty Salon Remiha",
+      "address": "岩村田3162-43",
+      "storeid": "saku-aa229a",
+      "shopid": "saku-aa229a-paypay"
     },
     {
-      "name": "ラーメン 幸楽苑 佐久平店",
-      "address": "佐久市 佐久平駅南25-2",
-      "storeid": "saku-71c013",
-      "shopid": "saku-71c013-paypay"
+      "name": "笑太",
+      "address": "岩村田3162-51",
+      "storeid": "saku-f0b9ce",
+      "shopid": "saku-f0b9ce-paypay"
     },
     {
-      "name": "マクドナルド 佐久平店",
-      "address": "佐久市 佐久平駅南10-1",
-      "storeid": "saku-99d7d8",
-      "shopid": "saku-99d7d8-paypay"
+      "name": "ネイルサロンNoef",
+      "address": "岩村田3162-88",
+      "storeid": "saku-df1c0d",
+      "shopid": "saku-df1c0d-paypay"
     },
     {
-      "name": "ガスト 佐久平店",
-      "address": "佐久市 佐久平駅南5-6",
-      "storeid": "saku-aec0a4",
-      "shopid": "saku-aec0a4-paypay"
+      "name": "鉄板ダイニングtao",
+      "address": "岩村田3166-1",
+      "storeid": "saku-19cd5a",
+      "shopid": "saku-19cd5a-paypay"
     },
     {
-      "name": "サイゼリヤ 佐久平店",
-      "address": "佐久市 佐久平駅南8-3",
-      "storeid": "saku-e79578",
-      "shopid": "saku-e79578-paypay"
+      "name": "いるまぁれ",
+      "address": "岩村田3169-1",
+      "storeid": "saku-ea6e94",
+      "shopid": "saku-ea6e94-paypay"
     },
     {
-      "name": "焼肉きんぐ 佐久平店",
-      "address": "佐久市 佐久平駅南20-5",
-      "storeid": "saku-69f935",
-      "shopid": "saku-69f935-paypay"
+      "name": "かつ栄",
+      "address": "岩村田3255",
+      "storeid": "saku-571759",
+      "shopid": "saku-571759-paypay"
     },
     {
-      "name": "しゃぶ葉 佐久平店",
-      "address": "佐久市 佐久平駅南18-4",
-      "storeid": "saku-49532e",
-      "shopid": "saku-49532e-paypay"
+      "name": "まんまる接骨院",
+      "address": "岩村田355",
+      "storeid": "saku-ce49e7",
+      "shopid": "saku-ce49e7-paypay"
     },
     {
-      "name": "すき家 佐久平店",
-      "address": "佐久市 佐久平駅南15-2",
-      "storeid": "saku-13d601",
-      "shopid": "saku-13d601-paypay"
+      "name": "大阪屋書店",
+      "address": "岩村田3589",
+      "storeid": "saku-6a33aa",
+      "shopid": "saku-6a33aa-paypay"
     },
     {
-      "name": "松屋 佐久平店",
-      "address": "佐久市 佐久平駅南14-1",
-      "storeid": "saku-24bdf7",
-      "shopid": "saku-24bdf7-paypay"
+      "name": "ヘアーメイクイマージュ美容室",
+      "address": "岩村田3675-5",
+      "storeid": "saku-4be9ed",
+      "shopid": "saku-4be9ed-paypay"
     },
     {
-      "name": "スターバックス コーヒー 佐久平店",
-      "address": "佐久市 佐久平駅南10-2",
-      "storeid": "saku-a07469",
-      "shopid": "saku-a07469-paypay"
+      "name": "カフェレストラン マロニエ",
+      "address": "岩村田3738-5",
+      "storeid": "saku-a2db92",
+      "shopid": "saku-a2db92-paypay"
     },
     {
-      "name": "モスバーガー 佐久平店",
-      "address": "佐久市 佐久平駅南11-10",
-      "storeid": "saku-5afff3",
-      "shopid": "saku-5afff3-paypay"
+      "name": "アドバンス本社",
+      "address": "岩村田3773-5",
+      "storeid": "saku-37e6e0",
+      "shopid": "saku-37e6e0-paypay"
     },
     {
-      "name": "ココス 佐久平店",
-      "address": "佐久市 佐久平駅南12-6",
-      "storeid": "saku-99eff7",
-      "shopid": "saku-99eff7-paypay"
+      "name": "和飲酒場 L'aube",
+      "address": "岩村田3804",
+      "storeid": "saku-242067",
+      "shopid": "saku-242067-paypay"
     },
     {
-      "name": "リンガーハット 長野佐久平店",
-      "address": "佐久市 佐久平駅南16-5",
-      "storeid": "saku-9e99c1",
-      "shopid": "saku-9e99c1-paypay"
+      "name": "FOREST BASE",
+      "address": "岩村田3804-1",
+      "storeid": "saku-923a6d",
+      "shopid": "saku-923a6d-paypay"
     },
     {
-      "name": "丸亀製麺 佐久平店",
-      "address": "佐久市 佐久平駅南21-3",
-      "storeid": "saku-d891d0",
-      "shopid": "saku-d891d0-paypay"
+      "name": "草木万里野 佐久店",
+      "address": "岩村田3806-2",
+      "storeid": "saku-03a9a9",
+      "shopid": "saku-03a9a9-paypay"
     },
     {
-      "name": "かつや 佐久平店",
-      "address": "佐久市 佐久平駅南19-1",
-      "storeid": "saku-4da083",
-      "shopid": "saku-4da083-paypay"
+      "name": "農家の店 大地 佐久店",
+      "address": "岩村田4469-1",
+      "storeid": "saku-92d693",
+      "shopid": "saku-92d693-paypay"
     },
     {
-      "name": "はま寿司 佐久平店",
-      "address": "佐久市 佐久平駅南24-4",
-      "storeid": "saku-450e7c",
-      "shopid": "saku-450e7c-paypay"
+      "name": "中島タタミ店",
+      "address": "岩村田4496-5",
+      "storeid": "saku-1bdd7f",
+      "shopid": "saku-1bdd7f-paypay"
     },
     {
-      "name": "焼肉屋さかい 佐久平店",
-      "address": "佐久市 佐久平駅南9-2",
-      "storeid": "saku-5543eb",
-      "shopid": "saku-5543eb-paypay"
+      "name": "payforward",
+      "address": "岩村田5008-4",
+      "storeid": "saku-ce9011",
+      "shopid": "saku-ce9011-paypay"
     },
     {
-      "name": "牛角 佐久平店",
-      "address": "佐久市 佐久平駅南13-4",
-      "storeid": "saku-28373a",
-      "shopid": "saku-28373a-paypay"
+      "name": "上田スター商会 佐久店",
+      "address": "岩村田5008-7",
+      "storeid": "saku-cdd5c2",
+      "shopid": "saku-cdd5c2-paypay"
     },
     {
-      "name": "吉野家 佐久平店",
-      "address": "佐久市 佐久平駅南17-3",
-      "storeid": "saku-182c45",
-      "shopid": "saku-182c45-paypay"
+      "name": "モリカクカメラ フォトスタジオ",
+      "address": "岩村田5015-10",
+      "storeid": "saku-9d4735",
+      "shopid": "saku-9d4735-paypay"
     },
     {
-      "name": "くら寿司 佐久平店",
-      "address": "佐久市 佐久平駅南22-7",
-      "storeid": "saku-047060",
-      "shopid": "saku-047060-paypay"
+      "name": "白秀堂",
+      "address": "岩村田5015-5",
+      "storeid": "saku-e59cbc",
+      "shopid": "saku-e59cbc-paypay"
     },
     {
-      "name": "マクドナルド 佐久野沢店",
-      "address": "佐久市 野沢20-3",
-      "storeid": "saku-06c5e2",
-      "shopid": "saku-06c5e2-paypay"
+      "name": "grace",
+      "address": "岩村田5033-3",
+      "storeid": "saku-d8298a",
+      "shopid": "saku-d8298a-paypay"
     },
     {
-      "name": "ケンタッキーフライドチキン 佐久平店",
-      "address": "佐久市 佐久平駅南13-5",
-      "storeid": "saku-5bc565",
-      "shopid": "saku-5bc565-paypay"
+      "name": "ここはな整体院",
+      "address": "岩村田5037-6",
+      "storeid": "saku-31ea3a",
+      "shopid": "saku-31ea3a-paypay"
     },
     {
-      "name": "ステーキ宮 佐久平店",
-      "address": "佐久市 佐久平駅南12-4",
-      "storeid": "saku-369381",
-      "shopid": "saku-369381-paypay"
+      "name": "beauty lounge chou chou",
+      "address": "岩村田523-2",
+      "storeid": "saku-942bcc",
+      "shopid": "saku-942bcc-paypay"
     },
     {
-      "name": "びっくりドンキー 佐久平店",
-      "address": "佐久市 佐久平駅南14-7",
-      "storeid": "saku-c7e2c2",
-      "shopid": "saku-c7e2c2-paypay"
+      "name": "平元商店 浅間工場",
+      "address": "岩村田54-1",
+      "storeid": "saku-cb2dfa",
+      "shopid": "saku-cb2dfa-paypay"
     },
     {
-      "name": "スシロー 佐久平店",
-      "address": "佐久市 佐久平駅南23-2",
-      "storeid": "saku-c376e5",
-      "shopid": "saku-c376e5-paypay"
+      "name": "A・コープ ファーマーズ佐久平店",
+      "address": "岩村田5502-21",
+      "storeid": "saku-a6325e",
+      "shopid": "saku-a6325e-paypay"
     },
     {
-      "name": "コメダ珈琲店 佐久平店",
-      "address": "佐久市 佐久平駅南6-2",
-      "storeid": "saku-c2818b",
-      "shopid": "saku-c2818b-paypay"
+      "name": "佐久ホテル",
+      "address": "岩村田553",
+      "storeid": "saku-5863fa",
+      "shopid": "saku-5863fa-paypay"
     },
     {
-      "name": "セブンイレブン 佐久平駅前店",
-      "address": "佐久市 佐久平駅南2-1",
-      "storeid": "saku-59ebea",
-      "shopid": "saku-59ebea-paypay"
+      "name": "メガネのナガタ 佐久インター店",
+      "address": "岩村田6-2",
+      "storeid": "saku-8962bb",
+      "shopid": "saku-8962bb-paypay"
     },
     {
-      "name": "ローソン 佐久平駅南口店",
-      "address": "佐久市 佐久平駅南1-2",
-      "storeid": "saku-31912d",
-      "shopid": "saku-31912d-paypay"
+      "name": "割烹あさや",
+      "address": "岩村田630",
+      "storeid": "saku-36d1ad",
+      "shopid": "saku-36d1ad-paypay"
     },
     {
-      "name": "ファミリーマート 佐久平駅南店",
-      "address": "佐久市 佐久平駅南3-4",
-      "storeid": "saku-2af4de",
-      "shopid": "saku-2af4de-paypay"
+      "name": "MAHALO.",
+      "address": "岩村田647",
+      "storeid": "saku-781788",
+      "shopid": "saku-781788-paypay"
     },
     {
-      "name": "デニーズ 佐久平店",
-      "address": "佐久市 佐久平駅南18-6",
-      "storeid": "saku-98119f",
-      "shopid": "saku-98119f-paypay"
+      "name": "朝日オーム",
+      "address": "岩村田737",
+      "storeid": "saku-e864a4",
+      "shopid": "saku-e864a4-paypay"
     },
     {
-      "name": "からやま 佐久平店",
-      "address": "佐久市 佐久平駅南20-3",
-      "storeid": "saku-ed04c8",
-      "shopid": "saku-ed04c8-paypay"
+      "name": "Spaghetteria AZ DINING 佐久店",
+      "address": "岩村田741",
+      "storeid": "saku-117db3",
+      "shopid": "saku-117db3-paypay"
     },
     {
-      "name": "ピザーラ 佐久店",
-      "address": "佐久市 佐久平駅南25-6",
-      "storeid": "saku-1dddb4",
-      "shopid": "saku-1dddb4-paypay"
+      "name": "うまいもん さっさん",
+      "address": "岩村田741",
+      "storeid": "saku-399d64",
+      "shopid": "saku-399d64-paypay"
     },
     {
-      "name": "魚民 佐久平店",
-      "address": "佐久市 佐久平駅南7-5",
-      "storeid": "saku-0bdc78",
-      "shopid": "saku-0bdc78-paypay"
+      "name": "深夜食堂ばんや",
+      "address": "岩村田741",
+      "storeid": "saku-6093b3",
+      "shopid": "saku-6093b3-paypay"
     },
     {
-      "name": "串カツ田中 佐久平店",
-      "address": "佐久市 佐久平駅南5-8",
-      "storeid": "saku-58255b",
-      "shopid": "saku-58255b-paypay"
+      "name": "和泉屋菓子店 本店",
+      "address": "岩村田749",
+      "storeid": "saku-b7f8d6",
+      "shopid": "saku-b7f8d6-paypay"
     },
     {
-      "name": "ほっともっと 佐久平店",
-      "address": "佐久市 佐久平駅南23-8",
-      "storeid": "saku-71d62b",
-      "shopid": "saku-71d62b-paypay"
+      "name": "寺子屋グループ",
+      "address": "岩村田758",
+      "storeid": "saku-0688b1",
+      "shopid": "saku-0688b1-paypay"
     },
     {
-      "name": "すき家 佐久野沢店",
-      "address": "佐久市 野沢41-1",
-      "storeid": "saku-ea5547",
-      "shopid": "saku-ea5547-paypay"
+      "name": "Casa Libre",
+      "address": "岩村田760-2",
+      "storeid": "saku-f81148",
+      "shopid": "saku-f81148-paypay"
     },
     {
-      "name": "マクドナルド 佐久インター店",
-      "address": "佐久市 岩村田北1-5",
-      "storeid": "saku-c2953d",
-      "shopid": "saku-c2953d-paypay"
+      "name": "Fuwaly",
+      "address": "岩村田762",
+      "storeid": "saku-333c06",
+      "shopid": "saku-333c06-paypay"
     },
     {
-      "name": "ケンタッキーフライドチキン 佐久インター店",
-      "address": "佐久市 岩村田北1-3",
-      "storeid": "saku-c7efad",
-      "shopid": "saku-c7efad-paypay"
+      "name": "十三くら",
+      "address": "岩村田764-2",
+      "storeid": "saku-d06a68",
+      "shopid": "saku-d06a68-paypay"
     },
     {
-      "name": "かつや 佐久インター店",
-      "address": "佐久市 岩村田北1-2",
-      "storeid": "saku-850e4f",
-      "shopid": "saku-850e4f-paypay"
+      "name": "居酒屋 おかん",
+      "address": "岩村田764-2",
+      "storeid": "saku-9f0a53",
+      "shopid": "saku-9f0a53-paypay"
     },
     {
-      "name": "ガスト 佐久インター店",
-      "address": "佐久市 岩村田北1-6",
-      "storeid": "saku-3673a1",
-      "shopid": "saku-3673a1-paypay"
+      "name": "森泉洋品店",
+      "address": "岩村田772",
+      "storeid": "saku-ab8eb2",
+      "shopid": "saku-ab8eb2-paypay"
     },
     {
-      "name": "松屋 佐久インター店",
-      "address": "佐久市 岩村田北1-4",
-      "storeid": "saku-05bd1d",
-      "shopid": "saku-05bd1d-paypay"
+      "name": "koki na jikan",
+      "address": "岩村田773-2",
+      "storeid": "saku-a55ebf",
+      "shopid": "saku-a55ebf-paypay"
     },
     {
-      "name": "丸亀製麺 佐久インター店",
-      "address": "佐久市 岩村田北1-7",
-      "storeid": "saku-cc266c",
-      "shopid": "saku-cc266c-paypay"
+      "name": "寺子屋ICTlab",
+      "address": "岩村田773-2",
+      "storeid": "saku-58bd5d",
+      "shopid": "saku-58bd5d-paypay"
     },
     {
-      "name": "ココス 佐久インター店",
-      "address": "佐久市 岩村田北1-9",
-      "storeid": "saku-2db255",
-      "shopid": "saku-2db255-paypay"
+      "name": "いわむらだ鍼灸・整骨院",
+      "address": "岩村田775",
+      "storeid": "saku-215cad",
+      "shopid": "saku-215cad-paypay"
     },
     {
-      "name": "ジョリーパスタ 佐久インター店",
-      "address": "佐久市 岩村田北1-10",
-      "storeid": "saku-34cfc6",
-      "shopid": "saku-34cfc6-paypay"
+      "name": "花岡薬局",
+      "address": "岩村田775",
+      "storeid": "saku-70f36d",
+      "shopid": "saku-70f36d-paypay"
     },
     {
-      "name": "魚民 佐久インター店",
-      "address": "佐久市 岩村田北1-8",
-      "storeid": "saku-5753e4",
-      "shopid": "saku-5753e4-paypay"
+      "name": "スペイン食堂FAMILLA",
+      "address": "岩村田777",
+      "storeid": "saku-f0ca8c",
+      "shopid": "saku-f0ca8c-paypay"
     },
     {
-      "name": "焼肉屋さかい 佐久インター店",
-      "address": "佐久市 岩村田北1-11",
-      "storeid": "saku-4bea93",
-      "shopid": "saku-4bea93-paypay"
+      "name": "住吉屋書店",
+      "address": "岩村田782-2",
+      "storeid": "saku-211cad",
+      "shopid": "saku-211cad-paypay"
     },
     {
-      "name": "びっくりドンキー 佐久インター店",
-      "address": "佐久市 岩村田北1-12",
-      "storeid": "saku-5996ff",
-      "shopid": "saku-5996ff-paypay"
+      "name": "セレクト古着ALL TIME",
+      "address": "岩村田785",
+      "storeid": "saku-2bee8b",
+      "shopid": "saku-2bee8b-paypay"
     },
     {
-      "name": "くら寿司 佐久インター店",
-      "address": "佐久市 岩村田北1-13",
-      "storeid": "saku-95daad",
-      "shopid": "saku-95daad-paypay"
+      "name": "オリジナルシルバー 工房浮草",
+      "address": "岩村田789-2",
+      "storeid": "saku-3a5295",
+      "shopid": "saku-3a5295-paypay"
     },
     {
-      "name": "からやま 佐久インター店",
-      "address": "佐久市 岩村田北1-14",
-      "storeid": "saku-85971e",
-      "shopid": "saku-85971e-paypay"
+      "name": "和泉蔵みそ",
+      "address": "岩村田789-2",
+      "storeid": "saku-909363",
+      "shopid": "saku-909363-paypay"
     },
     {
-      "name": "焼肉きんぐ 佐久インター店",
-      "address": "佐久市 岩村田北1-15",
-      "storeid": "saku-006c3a",
-      "shopid": "saku-006c3a-paypay"
+      "name": "旭理容館",
+      "address": "岩村田790-3",
+      "storeid": "saku-22ba18",
+      "shopid": "saku-22ba18-paypay"
     },
     {
-      "name": "リンガーハット 佐久インター店",
-      "address": "佐久市 岩村田北1-16",
-      "storeid": "saku-de97e7",
-      "shopid": "saku-de97e7-paypay"
+      "name": "洋菓子屋 ひなたぼっこ",
+      "address": "岩村田817-2",
+      "storeid": "saku-7e443a",
+      "shopid": "saku-7e443a-paypay"
     },
     {
-      "name": "マクドナルド 佐久中込店",
-      "address": "佐久市 中込1221-2",
-      "storeid": "saku-0094ea",
-      "shopid": "saku-0094ea-paypay"
+      "name": "自家焙煎珈琲豆蔵&豆蔵カフェ",
+      "address": "岩村田831-1",
+      "storeid": "saku-ba69e4",
+      "shopid": "saku-ba69e4-paypay"
     },
     {
-      "name": "はま寿司 佐久中込店",
-      "address": "佐久市 中込1280",
-      "storeid": "saku-49431e",
-      "shopid": "saku-49431e-paypay"
+      "name": "アンフルール",
+      "address": "岩村田835-4",
+      "storeid": "saku-81c1b3",
+      "shopid": "saku-81c1b3-paypay"
     },
     {
-      "name": "ガスト 佐久中込店",
-      "address": "佐久市 中込1275",
-      "storeid": "saku-c0c36b",
-      "shopid": "saku-c0c36b-paypay"
+      "name": "VIVA 佐久店",
+      "address": "岩村田876-1",
+      "storeid": "saku-346b0e",
+      "shopid": "saku-346b0e-paypay"
     },
     {
-      "name": "丸亀製麺 佐久中込店",
-      "address": "佐久市 中込1269-1",
-      "storeid": "saku-989fc9",
-      "shopid": "saku-989fc9-paypay"
+      "name": "佐久平たつき整骨院",
+      "address": "岩村田876-1",
+      "storeid": "saku-d5116f",
+      "shopid": "saku-d5116f-paypay"
     },
     {
-      "name": "焼肉屋さかい 佐久中込店",
-      "address": "佐久市 中込1295",
-      "storeid": "saku-353481",
-      "shopid": "saku-353481-paypay"
+      "name": "らりぃあ〜と",
+      "address": "岩村田878-1",
+      "storeid": "saku-bad9db",
+      "shopid": "saku-bad9db-paypay"
     },
     {
-      "name": "スシロー 佐久中込店",
-      "address": "佐久市 中込1303",
-      "storeid": "saku-b5be22",
-      "shopid": "saku-b5be22-paypay"
+      "name": "I-BROW アイブロウ専門店",
+      "address": "岩村田911-3",
+      "storeid": "saku-2d0920",
+      "shopid": "saku-2d0920-paypay"
     },
     {
-      "name": "びっくりドンキー 佐久中込店",
-      "address": "佐久市 中込1312",
-      "storeid": "saku-0b915e",
-      "shopid": "saku-0b915e-paypay"
+      "name": "ケケケ商店",
+      "address": "岩村田930-1",
+      "storeid": "saku-4841ef",
+      "shopid": "saku-4841ef-paypay"
     },
     {
-      "name": "マクドナルド 佐久望月店",
-      "address": "佐久市 望月1620-1",
-      "storeid": "saku-3e3d02",
-      "shopid": "saku-3e3d02-paypay"
+      "name": "よつ葉はり・きゅう院",
+      "address": "岩村田936-1",
+      "storeid": "saku-5df5c8",
+      "shopid": "saku-5df5c8-paypay"
     },
     {
-      "name": "ガスト 佐久望月店",
-      "address": "佐久市 望月1620-2",
-      "storeid": "saku-f4a1bd",
-      "shopid": "saku-f4a1bd-paypay"
+      "name": "ハリカ佐久北店",
+      "address": "岩村田968-4",
+      "storeid": "saku-a74758",
+      "shopid": "saku-a74758-paypay"
     },
     {
-      "name": "かつや 佐久望月店",
-      "address": "佐久市 望月1620-3",
-      "storeid": "saku-4200a0",
-      "shopid": "saku-4200a0-paypay"
+      "name": "（株）森角建材店（やきとり赤い馬車様分）",
+      "address": "岩村田稲荷町3162-10",
+      "storeid": "saku-d31d2a",
+      "shopid": "saku-d31d2a-paypay"
     },
     {
-      "name": "松屋 佐久望月店",
-      "address": "佐久市 望月1620-4",
-      "storeid": "saku-671ca9",
-      "shopid": "saku-671ca9-paypay"
+      "name": "白井オート",
+      "address": "岩村田荒宿540",
+      "storeid": "saku-12eb1a",
+      "shopid": "saku-12eb1a-paypay"
     },
     {
-      "name": "丸亀製麺 佐久望月店",
-      "address": "佐久市 望月1620-5",
-      "storeid": "saku-689172",
-      "shopid": "saku-689172-paypay"
+      "name": "小木曽製粉所 フォレストモール佐久平店",
+      "address": "岩村田字押出シ1555-1",
+      "storeid": "saku-e3f0e0",
+      "shopid": "saku-e3f0e0-paypay"
     },
     {
-      "name": "ココス 佐久望月店",
-      "address": "佐久市 望月1620-6",
-      "storeid": "saku-032406",
-      "shopid": "saku-032406-paypay"
+      "name": "蓼科牛ハンバーグいっとう 佐久平店",
+      "address": "岩村田字上樋橋1496-2",
+      "storeid": "saku-4cfe48",
+      "shopid": "saku-4cfe48-paypay"
     },
     {
-      "name": "びっくりドンキー 佐久望月店",
-      "address": "佐久市 望月1620-7",
-      "storeid": "saku-c81575",
-      "shopid": "saku-c81575-paypay"
+      "name": "井上寅雄農園",
+      "address": "岩村田字長塚1731-2",
+      "storeid": "saku-fd4ae3",
+      "shopid": "saku-fd4ae3-paypay"
     },
     {
-      "name": "スシロー 佐久望月店",
-      "address": "佐久市 望月1620-8",
-      "storeid": "saku-6f65fa",
-      "shopid": "saku-6f65fa-paypay"
+      "name": "trimming Salon Dog&・・・",
+      "address": "岩村田相生町3097-1",
+      "storeid": "saku-80ae1b",
+      "shopid": "saku-80ae1b-paypay"
     },
     {
-      "name": "魚民 佐久望月店",
-      "address": "佐久市 望月1620-9",
-      "storeid": "saku-2c65b8",
-      "shopid": "saku-2c65b8-paypay"
+      "name": "ロイヤルカーステーション 佐久インター店",
+      "address": "岩村田北1-14-1",
+      "storeid": "saku-7d2ed2",
+      "shopid": "saku-7d2ed2-paypay"
     },
     {
-      "name": "焼肉屋さかい 佐久望月店",
-      "address": "佐久市 望月1620-10",
-      "storeid": "saku-8ac5a9",
-      "shopid": "saku-8ac5a9-paypay"
+      "name": "CANNNAVIS",
+      "address": "岩村田北1-17-12",
+      "storeid": "saku-02f020",
+      "shopid": "saku-02f020-paypay"
     },
     {
-      "name": "ケンタッキーフライドチキン 佐久望月店",
-      "address": "佐久市 望月1620-11",
-      "storeid": "saku-daa6c0",
-      "shopid": "saku-daa6c0-paypay"
+      "name": "LAVA フレスポ佐久インター店",
+      "address": "岩村田北1-22-3",
+      "storeid": "saku-5df283",
+      "shopid": "saku-5df283-paypay"
     },
     {
-      "name": "はま寿司 佐久望月店",
-      "address": "佐久市 望月1620-12",
-      "storeid": "saku-63141d",
-      "shopid": "saku-63141d-paypay"
+      "name": "lilac",
+      "address": "岩村田北1-22-3",
+      "storeid": "saku-e51911",
+      "shopid": "saku-e51911-paypay"
     },
     {
-      "name": "リンガーハット 佐久望月店",
-      "address": "佐久市 望月1620-13",
-      "storeid": "saku-2e6dac",
-      "shopid": "saku-2e6dac-paypay"
+      "name": "中華料理 昊鑫 佐久店",
+      "address": "岩村田北1-24-1",
+      "storeid": "saku-91cb71",
+      "shopid": "saku-91cb71-paypay"
     },
     {
-      "name": "焼肉きんぐ 佐久望月店",
-      "address": "佐久市 望月1620-14",
-      "storeid": "saku-3f5861",
-      "shopid": "saku-3f5861-paypay"
+      "name": "髪師 佐久店",
+      "address": "岩村田北1-30-1",
+      "storeid": "saku-a83a0e",
+      "shopid": "saku-a83a0e-paypay"
     },
     {
-      "name": "からやま 佐久望月店",
-      "address": "佐久市 望月1620-15",
-      "storeid": "saku-ba4916",
-      "shopid": "saku-ba4916-paypay"
+      "name": "フジカーランド 佐久",
+      "address": "岩村田北1-30-7",
+      "storeid": "saku-b38f4b",
+      "shopid": "saku-b38f4b-paypay"
     },
     {
-      "name": "すき家 佐久望月店",
-      "address": "佐久市 望月1620-16",
-      "storeid": "saku-e6a8f6",
-      "shopid": "saku-e6a8f6-paypay"
+      "name": "en total beauty",
+      "address": "岩村田北1-4-7",
+      "storeid": "saku-b523b8",
+      "shopid": "saku-b523b8-paypay"
     },
     {
-      "name": "デニーズ 佐久望月店",
-      "address": "佐久市 望月1620-17",
-      "storeid": "saku-2a9bb8",
-      "shopid": "saku-2a9bb8-paypay"
+      "name": "Sa Cool",
+      "address": "岩村田北1-6-2",
+      "storeid": "saku-92175f",
+      "shopid": "saku-92175f-paypay"
     },
     {
-      "name": "ピザーラ 佐久望月店",
-      "address": "佐久市 望月1620-18",
-      "storeid": "saku-425c68",
-      "shopid": "saku-425c68-paypay"
+      "name": "beLLe",
+      "address": "岩村田北1-6-8",
+      "storeid": "saku-9ae236",
+      "shopid": "saku-9ae236-paypay"
     },
     {
-      "name": "ステーキ宮 佐久望月店",
-      "address": "佐久市 望月1620-19",
-      "storeid": "saku-1d7b4f",
-      "shopid": "saku-1d7b4f-paypay"
+      "name": "ドリームカープロデュース",
+      "address": "岩村田北1-8-3",
+      "storeid": "saku-dda603",
+      "shopid": "saku-dda603-paypay"
     },
     {
-      "name": "CoCo壱番屋 佐久望月店",
-      "address": "佐久市 望月1620-20",
-      "storeid": "saku-ab5217",
-      "shopid": "saku-ab5217-paypay"
+      "name": "クリーニング専科 岩村田店",
+      "address": "岩村田北1-8-5",
+      "storeid": "saku-cde8be",
+      "shopid": "saku-cde8be-paypay"
     },
     {
-      "name": "モスバーガー 佐久望月店",
-      "address": "佐久市 望月1620-21",
-      "storeid": "saku-9006e9",
-      "shopid": "saku-9006e9-paypay"
+      "name": "HINODE FACTORY",
+      "address": "岩村田北1-8-5",
+      "storeid": "saku-976912",
+      "shopid": "saku-976912-paypay"
     },
     {
-      "name": "ドトールコーヒー 佐久望月店",
-      "address": "佐久市 望月1620-22",
-      "storeid": "saku-d5b834",
-      "shopid": "saku-d5b834-paypay"
+      "name": "Mon.ami",
+      "address": "岩村田北1-8-5",
+      "storeid": "saku-215114",
+      "shopid": "saku-215114-paypay"
     },
     {
-      "name": "ジョリーパスタ 佐久望月店",
-      "address": "佐久市 望月1620-23",
-      "storeid": "saku-c53995",
-      "shopid": "saku-c53995-paypay"
+      "name": "クリーニング専科 野沢店",
+      "address": "岩村田北1-8-5",
+      "storeid": "saku-5a857f",
+      "shopid": "saku-5a857f-paypay"
     },
     {
-      "name": "丸源ラーメン 佐久望月店",
-      "address": "佐久市 望月1620-24",
-      "storeid": "saku-81173a",
-      "shopid": "saku-81173a-paypay"
+      "name": "なかむら呉服店",
+      "address": "岩村田本町763",
+      "storeid": "saku-5672d0",
+      "shopid": "saku-5672d0-paypay"
     },
     {
-      "name": "マクドナルド 佐久臼田店",
-      "address": "佐久市 臼田130-1",
-      "storeid": "saku-7162cb",
-      "shopid": "saku-7162cb-paypay"
+      "name": "iota enchant eye design",
+      "address": "協和118-19",
+      "storeid": "saku-cc95d0",
+      "shopid": "saku-cc95d0-paypay"
     },
     {
-      "name": "ガスト 佐久臼田店",
-      "address": "佐久市 臼田130-2",
-      "storeid": "saku-40e4e5",
-      "shopid": "saku-40e4e5-paypay"
+      "name": "YUSHI CAFE",
+      "address": "協和2379",
+      "storeid": "saku-b3221e",
+      "shopid": "saku-b3221e-paypay"
     },
     {
-      "name": "かつや 佐久臼田店",
-      "address": "佐久市 臼田130-3",
-      "storeid": "saku-f9a1e1",
-      "shopid": "saku-f9a1e1-paypay"
+      "name": "望月鮮味館",
+      "address": "協和2389-9",
+      "storeid": "saku-443328",
+      "shopid": "saku-443328-paypay"
     },
     {
-      "name": "松屋 佐久臼田店",
-      "address": "佐久市 臼田130-4",
-      "storeid": "saku-721c04",
-      "shopid": "saku-721c04-paypay"
+      "name": "食材工房 光志亭",
+      "address": "協和2395-1",
+      "storeid": "saku-8aa812",
+      "shopid": "saku-8aa812-paypay"
     },
     {
-      "name": "丸亀製麺 佐久臼田店",
-      "address": "佐久市 臼田130-5",
-      "storeid": "saku-cb805c",
-      "shopid": "saku-cb805c-paypay"
+      "name": "the OK bread & pizza -望月のパンと ピザ家-",
+      "address": "協和2806-2",
+      "storeid": "saku-24579c",
+      "shopid": "saku-24579c-paypay"
     },
     {
-      "name": "ココス 佐久臼田店",
-      "address": "佐久市 臼田130-6",
-      "storeid": "saku-80c09d",
-      "shopid": "saku-80c09d-paypay"
+      "name": "長野県望月少年自然の家",
+      "address": "協和3489-67",
+      "storeid": "saku-0d6f3c",
+      "shopid": "saku-0d6f3c-paypay"
     },
     {
-      "name": "びっくりドンキー 佐久臼田店",
-      "address": "佐久市 臼田130-7",
-      "storeid": "saku-301f4f",
-      "shopid": "saku-301f4f-paypay"
+      "name": "NAYA",
+      "address": "協和602-1",
+      "storeid": "saku-92c49b",
+      "shopid": "saku-92c49b-paypay"
     },
     {
-      "name": "スシロー 佐久臼田店",
-      "address": "佐久市 臼田130-8",
-      "storeid": "saku-e5f0ec",
-      "shopid": "saku-e5f0ec-paypay"
+      "name": "クリーニング京屋 西友望月店",
+      "address": "協和字下田119-1",
+      "storeid": "saku-253be5",
+      "shopid": "saku-253be5-paypay"
     },
     {
-      "name": "魚民 佐久臼田店",
-      "address": "佐久市 臼田130-9",
-      "storeid": "saku-8721dd",
-      "shopid": "saku-8721dd-paypay"
+      "name": "女神の森キャンプ場",
+      "address": "協和字五味の木3485-52",
+      "storeid": "saku-b95043",
+      "shopid": "saku-b95043-paypay"
     },
     {
-      "name": "焼肉屋さかい 佐久臼田店",
-      "address": "佐久市 臼田130-10",
-      "storeid": "saku-da37d8",
-      "shopid": "saku-da37d8-paypay"
+      "name": "ちゃたまや",
+      "address": "桑山102-1",
+      "storeid": "saku-f9b6d9",
+      "shopid": "saku-f9b6d9-paypay"
     },
     {
-      "name": "ケンタッキーフライドチキン 佐久臼田店",
-      "address": "佐久市 臼田130-11",
-      "storeid": "saku-7dd0a4",
-      "shopid": "saku-7dd0a4-paypay"
+      "name": "浅科薬局",
+      "address": "桑山1241-1",
+      "storeid": "saku-1659e6",
+      "shopid": "saku-1659e6-paypay"
     },
     {
-      "name": "はま寿司 佐久臼田店",
-      "address": "佐久市 臼田130-12",
-      "storeid": "saku-6df8b6",
-      "shopid": "saku-6df8b6-paypay"
+      "name": "Coating Studio Overtake",
+      "address": "原122-2",
+      "storeid": "saku-847f09",
+      "shopid": "saku-847f09-paypay"
     },
     {
-      "name": "リンガーハット 佐久臼田店",
-      "address": "佐久市 臼田130-13",
-      "storeid": "saku-d3bd73",
-      "shopid": "saku-d3bd73-paypay"
+      "name": "SalonArbre",
+      "address": "原270-19",
+      "storeid": "saku-458df3",
+      "shopid": "saku-458df3-paypay"
     },
     {
-      "name": "焼肉きんぐ 佐久臼田店",
-      "address": "佐久市 臼田130-14",
-      "storeid": "saku-06574b",
-      "shopid": "saku-06574b-paypay"
+      "name": "割烹 六感",
+      "address": "原391",
+      "storeid": "saku-6bda70",
+      "shopid": "saku-6bda70-paypay"
     },
     {
-      "name": "からやま 佐久臼田店",
-      "address": "佐久市 臼田130-15",
-      "storeid": "saku-a832a5",
-      "shopid": "saku-a832a5-paypay"
+      "name": "あーはらへった",
+      "address": "原393",
+      "storeid": "saku-d34ff0",
+      "shopid": "saku-d34ff0-paypay"
     },
     {
-      "name": "すき家 佐久臼田店",
-      "address": "佐久市 臼田130-16",
-      "storeid": "saku-d7b9cd",
-      "shopid": "saku-d7b9cd-paypay"
+      "name": "井出商会/井手ホンダ",
+      "address": "原400-11",
+      "storeid": "saku-a1d2c9",
+      "shopid": "saku-a1d2c9-paypay"
     },
     {
-      "name": "デニーズ 佐久臼田店",
-      "address": "佐久市 臼田130-17",
-      "storeid": "saku-f81d59",
-      "shopid": "saku-f81d59-paypay"
+      "name": "現金屋商店",
+      "address": "原422",
+      "storeid": "saku-752533",
+      "shopid": "saku-752533-paypay"
     },
     {
-      "name": "ピザーラ 佐久臼田店",
-      "address": "佐久市 臼田130-18",
-      "storeid": "saku-2ee76a",
-      "shopid": "saku-2ee76a-paypay"
+      "name": "apollostation 佐久野沢SS",
+      "address": "原中島122-17",
+      "storeid": "saku-b6fe71",
+      "shopid": "saku-b6fe71-paypay"
     },
     {
-      "name": "ステーキ宮 佐久臼田店",
-      "address": "佐久市 臼田130-19",
-      "storeid": "saku-097fab",
-      "shopid": "saku-097fab-paypay"
+      "name": "味処 のぞみ",
+      "address": "根岸3203-2",
+      "storeid": "saku-2002dc",
+      "shopid": "saku-2002dc-paypay"
     },
     {
-      "name": "CoCo壱番屋 佐久臼田店",
-      "address": "佐久市 臼田130-20",
-      "storeid": "saku-b615be",
-      "shopid": "saku-b615be-paypay"
+      "name": "プラザ佐久",
+      "address": "佐久平駅東1-1",
+      "storeid": "saku-3f1ee2",
+      "shopid": "saku-3f1ee2-paypay"
     },
     {
-      "name": "モスバーガー 佐久臼田店",
-      "address": "佐久市 臼田130-21",
-      "storeid": "saku-576265",
-      "shopid": "saku-576265-paypay"
+      "name": "ursus by HEADLIGHT 長野佐久店",
+      "address": "佐久平駅南10-2",
+      "storeid": "saku-d2c6f1",
+      "shopid": "saku-d2c6f1-paypay"
     },
     {
-      "name": "ドトールコーヒー 佐久臼田店",
-      "address": "佐久市 臼田130-22",
-      "storeid": "saku-eadeb2",
-      "shopid": "saku-eadeb2-paypay"
+      "name": "セレクトショップ YANKY 佐久平店",
+      "address": "佐久平駅南11-2",
+      "storeid": "saku-4b04d2",
+      "shopid": "saku-4b04d2-paypay"
     },
     {
-      "name": "ジョリーパスタ 佐久臼田店",
-      "address": "佐久市 臼田130-23",
-      "storeid": "saku-6bd893",
-      "shopid": "saku-6bd893-paypay"
+      "name": "ほぐしラボ 佐久平店",
+      "address": "佐久平駅南11-2",
+      "storeid": "saku-d8e3f8",
+      "shopid": "saku-d8e3f8-paypay"
     },
     {
-      "name": "丸源ラーメン 佐久臼田店",
-      "address": "佐久市 臼田130-24",
-      "storeid": "saku-7ca364",
-      "shopid": "saku-7ca364-paypay"
+      "name": "リンダ",
+      "address": "佐久平駅南11-3",
+      "storeid": "saku-10fdc9",
+      "shopid": "saku-10fdc9-paypay"
     },
     {
-      "name": "マクドナルド 佐久野沢西店",
-      "address": "佐久市 野沢232-1",
-      "storeid": "saku-cd18b9",
-      "shopid": "saku-cd18b9-paypay"
+      "name": "キッチンファーム佐久平店",
+      "address": "佐久平駅南11-4",
+      "storeid": "saku-c0d682",
+      "shopid": "saku-c0d682-paypay"
     },
     {
-      "name": "すき家 佐久野沢西店",
-      "address": "佐久市 野沢232-2",
-      "storeid": "saku-0e69ec",
-      "shopid": "saku-0e69ec-paypay"
+      "name": "マスタカスポーツ 佐久平店",
+      "address": "佐久平駅南11-4",
+      "storeid": "saku-66b039",
+      "shopid": "saku-66b039-paypay"
     },
     {
-      "name": "びっくりドンキー 佐久野沢西店",
-      "address": "佐久市 野沢232-3",
-      "storeid": "saku-ea3f07",
-      "shopid": "saku-ea3f07-paypay"
+      "name": "Tokyo mens grooming COMPLEX",
+      "address": "佐久平駅南15-3",
+      "storeid": "saku-9104f9",
+      "shopid": "saku-9104f9-paypay"
     },
     {
-      "name": "ガスト 佐久野沢西店",
-      "address": "佐久市 野沢232-4",
-      "storeid": "saku-fc039b",
-      "shopid": "saku-fc039b-paypay"
+      "name": "プラージュ佐久平店",
+      "address": "佐久平駅南15-3",
+      "storeid": "saku-9d497c",
+      "shopid": "saku-9d497c-paypay"
     },
     {
-      "name": "丸亀製麺 佐久野沢西店",
-      "address": "佐久市 野沢232-5",
-      "storeid": "saku-4638e3",
-      "shopid": "saku-4638e3-paypay"
+      "name": "EAR SALON Selene",
+      "address": "佐久平駅南15-3",
+      "storeid": "saku-df4cd2",
+      "shopid": "saku-df4cd2-paypay"
     },
     {
-      "name": "松屋 佐久野沢西店",
-      "address": "佐久市 野沢232-6",
-      "storeid": "saku-4acdc4",
-      "shopid": "saku-4acdc4-paypay"
+      "name": "理容プラーナ 佐久平",
+      "address": "佐久平駅南15-5",
+      "storeid": "saku-2b919e",
+      "shopid": "saku-2b919e-paypay"
     },
     {
-      "name": "黒沢内科 長坂",
-      "address": "佐久市 平賀63-23",
-      "storeid": "saku-6d765b",
-      "shopid": "saku-6d765b-paypay"
+      "name": "がってん寿司 佐久平店",
+      "address": "佐久平駅南18-4",
+      "storeid": "saku-7f2f94",
+      "shopid": "saku-7f2f94-paypay"
     },
     {
-      "name": "ヘアサロンAqua",
-      "address": "佐久市 平賀77-11",
-      "storeid": "saku-3fe7d7",
-      "shopid": "saku-3fe7d7-paypay"
+      "name": "ジャパンオート",
+      "address": "佐久平駅南19-5",
+      "storeid": "saku-3ca4f2",
+      "shopid": "saku-3ca4f2-paypay"
     },
     {
-      "name": "有限会社 GQ TRADING",
-      "address": "佐久市 平賀1420-5",
-      "storeid": "saku-b1801f",
-      "shopid": "saku-b1801f-paypay"
+      "name": "ヒロッシーニ Hirossini",
+      "address": "佐久平駅南20-2",
+      "storeid": "saku-d01193",
+      "shopid": "saku-d01193-paypay"
     },
     {
-      "name": "耳鼻科 みやけ",
-      "address": "佐久市 平賀2003-2",
-      "storeid": "saku-bf5e80",
-      "shopid": "saku-bf5e80-paypay"
+      "name": "Fika",
+      "address": "佐久平駅南20-2",
+      "storeid": "saku-fcdea0",
+      "shopid": "saku-fcdea0-paypay"
     },
     {
-      "name": "EAR SALON Seikone",
-      "address": "佐久市 平賀1905-3",
-      "storeid": "saku-4970a2",
-      "shopid": "saku-4970a2-paypay"
+      "name": "ホームバザー 佐久店",
+      "address": "佐久平駅南21-4",
+      "storeid": "saku-b8b15d",
+      "shopid": "saku-b8b15d-paypay"
     },
     {
-      "name": "株式会社 GO TRADING",
-      "address": "佐久市 平賀1420-5",
-      "storeid": "saku-ecd993",
-      "shopid": "saku-ecd993-paypay"
+      "name": "LeCOUR(ル・クウル)佐久店",
+      "address": "佐久平駅南24-1",
+      "storeid": "saku-43890c",
+      "shopid": "saku-43890c-paypay"
     },
     {
-      "name": "ブラザ利根丸",
-      "address": "佐久市 平賀285-1",
-      "storeid": "saku-8b8ff2",
-      "shopid": "saku-8b8ff2-paypay"
+      "name": "クリーニングアピア 佐久平店",
+      "address": "佐久平駅南7-5",
+      "storeid": "saku-6aa40c",
+      "shopid": "saku-6aa40c-paypay"
     },
     {
-      "name": "中島自動車",
-      "address": "佐久市 平賀1109-4-2",
-      "storeid": "saku-841aa4",
-      "shopid": "saku-841aa4-paypay"
+      "name": "メガネのナガタ 佐久平店",
+      "address": "佐久平駅南7-5",
+      "storeid": "saku-ab9bdd",
+      "shopid": "saku-ab9bdd-paypay"
     },
     {
-      "name": "理容室和らぎ",
-      "address": "佐久市 平賀1710",
-      "storeid": "saku-988c6f",
-      "shopid": "saku-988c6f-paypay"
+      "name": "asian relaxation villa 佐久平店",
+      "address": "佐久平駅南7-6",
+      "storeid": "saku-f5cd3e",
+      "shopid": "saku-f5cd3e-paypay"
     },
     {
-      "name": "Wadeciel",
-      "address": "佐久市 平賀1065-1",
-      "storeid": "saku-1e14e2",
-      "shopid": "saku-1e14e2-paypay"
+      "name": "居酒屋 でっぱり",
+      "address": "佐久平駅北10-2",
+      "storeid": "saku-f3aa86",
+      "shopid": "saku-f3aa86-paypay"
     },
     {
-      "name": "ヘアサロンイデア",
-      "address": "佐久市 平賀1216-25",
-      "storeid": "saku-0498fb",
-      "shopid": "saku-0498fb-paypay"
+      "name": "燎原の火 だる磨",
+      "address": "佐久平駅北10-2",
+      "storeid": "saku-409247",
+      "shopid": "saku-409247-paypay"
     },
     {
-      "name": "理容室ゆたか",
-      "address": "佐久市 平賀1215-1",
-      "storeid": "saku-3b3ab1",
-      "shopid": "saku-3b3ab1-paypay"
+      "name": "東横INN 佐久平駅浅間口店",
+      "address": "佐久平駅北1-1",
+      "storeid": "saku-2ac1e6",
+      "shopid": "saku-2ac1e6-paypay"
     },
     {
-      "name": "riposu.",
-      "address": "佐久市 平賀1216-25",
-      "storeid": "saku-775688",
-      "shopid": "saku-775688-paypay"
+      "name": "日本海寿司海鮮ひろ喜",
+      "address": "佐久平駅北16-2",
+      "storeid": "saku-12128b",
+      "shopid": "saku-12128b-paypay"
     },
     {
-      "name": "リラクゼーションサロン 彩華",
-      "address": "佐久市 中込2977-8",
-      "storeid": "saku-441215",
-      "shopid": "saku-441215-paypay"
+      "name": "美容室オリーブ",
+      "address": "佐久平駅北17-2",
+      "storeid": "saku-650933",
+      "shopid": "saku-650933-paypay"
     },
     {
-      "name": "On hair",
-      "address": "佐久市 中込2777-2",
-      "storeid": "saku-f71de7",
-      "shopid": "saku-f71de7-paypay"
+      "name": "SYRING",
+      "address": "佐久平駅北17-6",
+      "storeid": "saku-40498d",
+      "shopid": "saku-40498d-paypay"
     },
     {
-      "name": "オートカフェ中込店",
-      "address": "佐久市 中込2765",
-      "storeid": "saku-2a79ba",
-      "shopid": "saku-2a79ba-paypay"
+      "name": "オレンジ薬局",
+      "address": "佐久平駅北18-1",
+      "storeid": "saku-86bb99",
+      "shopid": "saku-86bb99-paypay"
+    },
+    {
+      "name": "佐久平薬局",
+      "address": "佐久平駅北19-14",
+      "storeid": "saku-767f5c",
+      "shopid": "saku-767f5c-paypay"
+    },
+    {
+      "name": "鮨Dining庵地杜",
+      "address": "佐久平駅北21-5",
+      "storeid": "saku-76feb2",
+      "shopid": "saku-76feb2-paypay"
+    },
+    {
+      "name": "ベルハウス",
+      "address": "佐久平駅北2-2",
+      "storeid": "saku-98a236",
+      "shopid": "saku-98a236-paypay"
+    },
+    {
+      "name": "Laxage",
+      "address": "佐久平駅北23-1",
+      "storeid": "saku-6efe2d",
+      "shopid": "saku-6efe2d-paypay"
+    },
+    {
+      "name": "SASA",
+      "address": "佐久平駅北23-1",
+      "storeid": "saku-7c92c2",
+      "shopid": "saku-7c92c2-paypay"
+    },
+    {
+      "name": "ビストロ ブシュロン",
+      "address": "佐久平駅北23-1",
+      "storeid": "saku-7463d6",
+      "shopid": "saku-7463d6-paypay"
+    },
+    {
+      "name": "フレーズ",
+      "address": "佐久平駅北23-1",
+      "storeid": "saku-c69251",
+      "shopid": "saku-c69251-paypay"
+    },
+    {
+      "name": "Riiko Hair",
+      "address": "佐久平駅北24-6",
+      "storeid": "saku-33bd53",
+      "shopid": "saku-33bd53-paypay"
+    },
+    {
+      "name": "salon ulu",
+      "address": "佐久平駅北24-6",
+      "storeid": "saku-016eef",
+      "shopid": "saku-016eef-paypay"
+    },
+    {
+      "name": "肉と魚と酒 かるねや",
+      "address": "佐久平駅北27-6",
+      "storeid": "saku-769a12",
+      "shopid": "saku-769a12-paypay"
+    },
+    {
+      "name": "海鮮屋 黒船 佐久平店",
+      "address": "佐久平駅北3-1",
+      "storeid": "saku-d1858f",
+      "shopid": "saku-d1858f-paypay"
+    },
+    {
+      "name": "鳥蔵 黒船 佐久平店",
+      "address": "佐久平駅北3-5",
+      "storeid": "saku-2bab0c",
+      "shopid": "saku-2bab0c-paypay"
+    },
+    {
+      "name": "エンドレスアドバンス",
+      "address": "三河田522-3",
+      "storeid": "saku-9a1731",
+      "shopid": "saku-9a1731-paypay"
+    },
+    {
+      "name": "LATTE",
+      "address": "三塚226-31",
+      "storeid": "saku-d5191b",
+      "shopid": "saku-d5191b-paypay"
+    },
+    {
+      "name": "Tanaka Hair Works",
+      "address": "三分60-1",
+      "storeid": "saku-fe908e",
+      "shopid": "saku-fe908e-paypay"
+    },
+    {
+      "name": "陶器工房こねこねや",
+      "address": "志賀2451-6",
+      "storeid": "saku-91687e",
+      "shopid": "saku-91687e-paypay"
+    },
+    {
+      "name": "整体 結",
+      "address": "志賀5691-1",
+      "storeid": "saku-36b8b3",
+      "shopid": "saku-36b8b3-paypay"
+    },
+    {
+      "name": "Ohana hair",
+      "address": "志賀6210-1",
+      "storeid": "saku-db9aea",
+      "shopid": "saku-db9aea-paypay"
+    },
+    {
+      "name": "ごじげん",
+      "address": "志賀6210-1",
+      "storeid": "saku-444b57",
+      "shopid": "saku-444b57-paypay"
+    },
+    {
+      "name": "ラボーフラワー",
+      "address": "取出町200-22",
+      "storeid": "saku-6cdf9f",
+      "shopid": "saku-6cdf9f-paypay"
+    },
+    {
+      "name": "nail salon uhu",
+      "address": "取出町371-23",
+      "storeid": "saku-2f699e",
+      "shopid": "saku-2f699e-paypay"
+    },
+    {
+      "name": "中島タイヤ工場",
+      "address": "取出町458-2",
+      "storeid": "saku-4d92b0",
+      "shopid": "saku-4d92b0-paypay"
+    },
+    {
+      "name": "そば処十一屋本店",
+      "address": "取出町462-1",
+      "storeid": "saku-a2d886",
+      "shopid": "saku-a2d886-paypay"
+    },
+    {
+      "name": "浅間口はりきゅう院",
+      "address": "取出町466-11",
+      "storeid": "saku-49d274",
+      "shopid": "saku-49d274-paypay"
+    },
+    {
+      "name": "Eyelash salon Viage",
+      "address": "取出町772",
+      "storeid": "saku-38c530",
+      "shopid": "saku-38c530-paypay"
+    },
+    {
+      "name": "湯の花屋",
+      "address": "春日2215-5",
+      "storeid": "saku-dafbd9",
+      "shopid": "saku-dafbd9-paypay"
+    },
+    {
+      "name": "十二館新館",
+      "address": "春日2253-343",
+      "storeid": "saku-003071",
+      "shopid": "saku-003071-paypay"
+    },
+    {
+      "name": "RESTAURANTさんざ 酒販部",
+      "address": "春日2291-3",
+      "storeid": "saku-2caebd",
+      "shopid": "saku-2caebd-paypay"
+    },
+    {
+      "name": "国民宿舎もちづき荘",
+      "address": "春日5921",
+      "storeid": "saku-e2e48c",
+      "shopid": "saku-e2e48c-paypay"
+    },
+    {
+      "name": "inariyama繼",
+      "address": "勝間22-2",
+      "storeid": "saku-e39b9c",
+      "shopid": "saku-e39b9c-paypay"
+    },
+    {
+      "name": "hair design Superb",
+      "address": "小田井130-12",
+      "storeid": "saku-7fcd0a",
+      "shopid": "saku-7fcd0a-paypay"
+    },
+    {
+      "name": "軽井沢犬のほいくえんVita佐久浅間校",
+      "address": "小田井325-2",
+      "storeid": "saku-234c77",
+      "shopid": "saku-234c77-paypay"
+    },
+    {
+      "name": "オートメカ・エフケイ佐久北店",
+      "address": "小田井332",
+      "storeid": "saku-accf5e",
+      "shopid": "saku-accf5e-paypay"
+    },
+    {
+      "name": "Parade 佐久店",
+      "address": "小田井613",
+      "storeid": "saku-448afc",
+      "shopid": "saku-448afc-paypay"
+    },
+    {
+      "name": "サンキ 佐久店",
+      "address": "小田井613",
+      "storeid": "saku-183534",
+      "shopid": "saku-183534-paypay"
+    },
+    {
+      "name": "Total beauty salon chou chou primo",
+      "address": "小田井613-1",
+      "storeid": "saku-51f339",
+      "shopid": "saku-51f339-paypay"
+    },
+    {
+      "name": "あいぱら佐久インターウェーブ店",
+      "address": "小田井613-1",
+      "storeid": "saku-2fa2d1",
+      "shopid": "saku-2fa2d1-paypay"
+    },
+    {
+      "name": "雫田自動車整備工場",
+      "address": "小田井690-1",
+      "storeid": "saku-f3caad",
+      "shopid": "saku-f3caad-paypay"
+    },
+    {
+      "name": "マキシム美容室",
+      "address": "小田井702-11",
+      "storeid": "saku-f06619",
+      "shopid": "saku-f06619-paypay"
+    },
+    {
+      "name": "USHIBEYA",
+      "address": "小田井913-1",
+      "storeid": "saku-8ce209",
+      "shopid": "saku-8ce209-paypay"
+    },
+    {
+      "name": "ヒラオカフェ",
+      "address": "上平尾1033",
+      "storeid": "saku-46850a",
+      "shopid": "saku-46850a-paypay"
+    },
+    {
+      "name": "味旬 花菜",
+      "address": "上平尾683-1",
+      "storeid": "saku-a1c691",
+      "shopid": "saku-a1c691-paypay"
+    },
+    {
+      "name": "TANAKA FACTORY",
+      "address": "上平尾827-1",
+      "storeid": "saku-7bb852",
+      "shopid": "saku-7bb852-paypay"
+    },
+    {
+      "name": "hair salon Briller",
+      "address": "上平尾字大久保666",
+      "storeid": "saku-97f711",
+      "shopid": "saku-97f711-paypay"
+    },
+    {
+      "name": "FAMILY GYM",
+      "address": "常田356-4",
+      "storeid": "saku-721798",
+      "shopid": "saku-721798-paypay"
+    },
+    {
+      "name": "オートパルさく",
+      "address": "新子田1403",
+      "storeid": "saku-473d47",
+      "shopid": "saku-473d47-paypay"
+    },
+    {
+      "name": "Lunetta",
+      "address": "新子田1700-159",
+      "storeid": "saku-9cbc5f",
+      "shopid": "saku-9cbc5f-paypay"
+    },
+    {
+      "name": "cafe Holz",
+      "address": "新子田1788-1",
+      "storeid": "saku-a2e6df",
+      "shopid": "saku-a2e6df-paypay"
+    },
+    {
+      "name": "寺嶋接骨院",
+      "address": "新子田1836-119",
+      "storeid": "saku-d61681",
+      "shopid": "saku-d61681-paypay"
+    },
+    {
+      "name": "Winds Factory",
+      "address": "新子田1873",
+      "storeid": "saku-0abb0e",
+      "shopid": "saku-0abb0e-paypay"
+    },
+    {
+      "name": "やまおく",
+      "address": "新子田1882-10",
+      "storeid": "saku-9036a1",
+      "shopid": "saku-9036a1-paypay"
+    },
+    {
+      "name": "MEN'S SALON DADDY",
+      "address": "新子田1943-1",
+      "storeid": "saku-151ffc",
+      "shopid": "saku-151ffc-paypay"
+    },
+    {
+      "name": "ENDMOU",
+      "address": "新子田1943-17",
+      "storeid": "saku-c84763",
+      "shopid": "saku-c84763-paypay"
+    },
+    {
+      "name": "Mia",
+      "address": "新子田934-5",
+      "storeid": "saku-3d15bb",
+      "shopid": "saku-3d15bb-paypay"
+    },
+    {
+      "name": "幸せの青い豚",
+      "address": "瀬戸3411-47",
+      "storeid": "saku-990090",
+      "shopid": "saku-990090-paypay"
+    },
+    {
+      "name": "RelaxationHairsalon kiico",
+      "address": "瀬戸3526-1",
+      "storeid": "saku-e14854",
+      "shopid": "saku-e14854-paypay"
+    },
+    {
+      "name": "メガネのナガタ 佐久野沢店",
+      "address": "跡部16-1",
+      "storeid": "saku-29625c",
+      "shopid": "saku-29625c-paypay"
+    },
+    {
+      "name": "佐久漁業協同組合",
+      "address": "跡部17-1",
+      "storeid": "saku-1418aa",
+      "shopid": "saku-1418aa-paypay"
+    },
+    {
+      "name": "ラ・クープ",
+      "address": "跡部47-2",
+      "storeid": "saku-65afd8",
+      "shopid": "saku-65afd8-paypay"
+    },
+    {
+      "name": "そば処 浅間",
+      "address": "跡部57-1",
+      "storeid": "saku-2bfe1e",
+      "shopid": "saku-2bfe1e-paypay"
+    },
+    {
+      "name": "オートライフ塩沢 佐久店",
+      "address": "跡部58-1",
+      "storeid": "saku-89935e",
+      "shopid": "saku-89935e-paypay"
+    },
+    {
+      "name": "長野県庁生活協同組合 佐久売店",
+      "address": "跡部65-1",
+      "storeid": "saku-39e49b",
+      "shopid": "saku-39e49b-paypay"
+    },
+    {
+      "name": "ココベーカリー",
+      "address": "前山137-1",
+      "storeid": "saku-7fc785",
+      "shopid": "saku-7fc785-paypay"
+    },
+    {
+      "name": "studio R",
+      "address": "前山166-3",
+      "storeid": "saku-d32bc5",
+      "shopid": "saku-d32bc5-paypay"
+    },
+    {
+      "name": "PasserToujours川村",
+      "address": "前山306-3",
+      "storeid": "saku-889791",
+      "shopid": "saku-889791-paypay"
+    },
+    {
+      "name": "ヒーリングスペース・イマージュ",
+      "address": "前山323-2",
+      "storeid": "saku-6b64b2",
+      "shopid": "saku-6b64b2-paypay"
+    },
+    {
+      "name": "ペットシッターSOS佐久店",
+      "address": "前山323-2",
+      "storeid": "saku-512ce9",
+      "shopid": "saku-512ce9-paypay"
+    },
+    {
+      "name": "木内醸造",
+      "address": "大沢985",
+      "storeid": "saku-b03b00",
+      "shopid": "saku-b03b00-paypay"
+    },
+    {
+      "name": "ヘアーズ ティピー",
+      "address": "鍛冶屋271-7",
+      "storeid": "saku-957c77",
+      "shopid": "saku-957c77-paypay"
+    },
+    {
+      "name": "ソーマ中込薬局",
+      "address": "中込1-14-2",
+      "storeid": "saku-74bc96",
+      "shopid": "saku-74bc96-paypay"
+    },
+    {
+      "name": "RANGELAND",
+      "address": "中込1-14-5",
+      "storeid": "saku-155719",
+      "shopid": "saku-155719-paypay"
+    },
+    {
+      "name": "自動車板金塗装エムズライン",
+      "address": "中込1-15-1",
+      "storeid": "saku-03a761",
+      "shopid": "saku-03a761-paypay"
+    },
+    {
+      "name": "味処佐くら",
+      "address": "中込1-15-10",
+      "storeid": "saku-e3394f",
+      "shopid": "saku-e3394f-paypay"
+    },
+    {
+      "name": "パルミエ クリュ",
+      "address": "中込1-16-6",
+      "storeid": "saku-be42fb",
+      "shopid": "saku-be42fb-paypay"
+    },
+    {
+      "name": "木内醸造中込支店",
+      "address": "中込1-17-12",
+      "storeid": "saku-59011b",
+      "shopid": "saku-59011b-paypay"
+    },
+    {
+      "name": "ブティック エイエイオー",
+      "address": "中込1-19-1",
+      "storeid": "saku-22301a",
+      "shopid": "saku-22301a-paypay"
+    },
+    {
+      "name": "MIRAie hair beauty",
+      "address": "中込1-19-10",
+      "storeid": "saku-729de8",
+      "shopid": "saku-729de8-paypay"
+    },
+    {
+      "name": "ラ・エレガントフラワー",
+      "address": "中込1-19-10",
+      "storeid": "saku-659fe9",
+      "shopid": "saku-659fe9-paypay"
+    },
+    {
+      "name": "蒸気浴NAGOMI",
+      "address": "中込1-20-1",
+      "storeid": "saku-89e652",
+      "shopid": "saku-89e652-paypay"
+    },
+    {
+      "name": "ミツワデンキ",
+      "address": "中込1-20-5",
+      "storeid": "saku-569bcc",
+      "shopid": "saku-569bcc-paypay"
+    },
+    {
+      "name": "天",
+      "address": "中込1-20-6",
+      "storeid": "saku-826144",
+      "shopid": "saku-826144-paypay"
+    },
+    {
+      "name": "メンズヘアラボ THREE",
+      "address": "中込1-21-1",
+      "storeid": "saku-5ad8a8",
+      "shopid": "saku-5ad8a8-paypay"
+    },
+    {
+      "name": "オーガニックヘアサロン Celler",
+      "address": "中込1-21-10",
+      "storeid": "saku-a98a1d",
+      "shopid": "saku-a98a1d-paypay"
+    },
+    {
+      "name": "キッチンファーム 中込店",
+      "address": "中込1-21-16",
+      "storeid": "saku-f390fb",
+      "shopid": "saku-f390fb-paypay"
+    },
+    {
+      "name": "リカー&ギフトプラザ マルトオーツカ",
+      "address": "中込1-21-17",
+      "storeid": "saku-2a7373",
+      "shopid": "saku-2a7373-paypay"
+    },
+    {
+      "name": "リラクゼーション新",
+      "address": "中込1-21-2",
+      "storeid": "saku-98a91a",
+      "shopid": "saku-98a91a-paypay"
+    },
+    {
+      "name": "ストロベリージャム",
+      "address": "中込1-21-25",
+      "storeid": "saku-372dde",
+      "shopid": "saku-372dde-paypay"
+    },
+    {
+      "name": "麺屋こころ長野佐久店",
+      "address": "中込1-22-9",
+      "storeid": "saku-9049db",
+      "shopid": "saku-9049db-paypay"
+    },
+    {
+      "name": "トータルオートイチカワ ジョイカル佐久南店",
+      "address": "中込1273-4",
+      "storeid": "saku-b10cab",
+      "shopid": "saku-b10cab-paypay"
+    },
+    {
+      "name": "木内石油 小田井SS",
+      "address": "中込1-28-16",
+      "storeid": "saku-6202cb",
+      "shopid": "saku-6202cb-paypay"
+    },
+    {
+      "name": "木内石油 佐久第一給油所SS",
+      "address": "中込1-28-16",
+      "storeid": "saku-083f0f",
+      "shopid": "saku-083f0f-paypay"
+    },
+    {
+      "name": "木内石油 佐久第二給油所SS",
+      "address": "中込1-28-16",
+      "storeid": "saku-d155d6",
+      "shopid": "saku-d155d6-paypay"
+    },
+    {
+      "name": "ライフ越中屋",
+      "address": "中込1-29-5",
+      "storeid": "saku-badcaa",
+      "shopid": "saku-badcaa-paypay"
+    },
+    {
+      "name": "GEAR FACTORY",
+      "address": "中込1-29-8",
+      "storeid": "saku-dbfb65",
+      "shopid": "saku-dbfb65-paypay"
+    },
+    {
+      "name": "中込ファインゴルフ",
+      "address": "中込1-6-8",
+      "storeid": "saku-298fff",
+      "shopid": "saku-298fff-paypay"
+    },
+    {
+      "name": "木次大介歯科医院",
+      "address": "中込1826-3",
+      "storeid": "saku-2436d6",
+      "shopid": "saku-2436d6-paypay"
+    },
+    {
+      "name": "土屋酒造店",
+      "address": "中込1914-2",
+      "storeid": "saku-38940f",
+      "shopid": "saku-38940f-paypay"
+    },
+    {
+      "name": "MoSAKU / TonaRide",
+      "address": "中込2021-2",
+      "storeid": "saku-0a5f72",
+      "shopid": "saku-0a5f72-paypay"
+    },
+    {
+      "name": "海鮮酒場 禅",
+      "address": "中込2-10-5",
+      "storeid": "saku-ae2e52",
+      "shopid": "saku-ae2e52-paypay"
+    },
+    {
+      "name": "くつろぎ居酒家わがや",
+      "address": "中込2-11-4",
+      "storeid": "saku-18449b",
+      "shopid": "saku-18449b-paypay"
+    },
+    {
+      "name": "ロック・プール",
+      "address": "中込2-12-3",
+      "storeid": "saku-6dad1f",
+      "shopid": "saku-6dad1f-paypay"
+    },
+    {
+      "name": "カイロプラクティックはら施術院",
+      "address": "中込2126-12",
+      "storeid": "saku-748219",
+      "shopid": "saku-748219-paypay"
+    },
+    {
+      "name": "ラムディー",
+      "address": "中込2-13-2",
+      "storeid": "saku-be6fb0",
+      "shopid": "saku-be6fb0-paypay"
+    },
+    {
+      "name": "TOPS STORE",
+      "address": "中込2-13-3",
+      "storeid": "saku-5f9343",
+      "shopid": "saku-5f9343-paypay"
+    },
+    {
+      "name": "酒処 ねこまんま",
+      "address": "中込2-16-1",
+      "storeid": "saku-85f089",
+      "shopid": "saku-85f089-paypay"
+    },
+    {
+      "name": "居酒屋 こんどう",
+      "address": "中込2-20-15",
+      "storeid": "saku-c6b0ab",
+      "shopid": "saku-c6b0ab-paypay"
+    },
+    {
+      "name": "牡蠣酒場 海運亭 佐久中込店",
+      "address": "中込2-21-13",
+      "storeid": "saku-c26d0c",
+      "shopid": "saku-c26d0c-paypay"
+    },
+    {
+      "name": "和イタリアン居酒屋 想",
+      "address": "中込2-21-14",
+      "storeid": "saku-f832c4",
+      "shopid": "saku-f832c4-paypay"
+    },
+    {
+      "name": "小料理 柳生",
+      "address": "中込2-21-15",
+      "storeid": "saku-32bd7d",
+      "shopid": "saku-32bd7d-paypay"
+    },
+    {
+      "name": "零",
+      "address": "中込2-22-1",
+      "storeid": "saku-e936b0",
+      "shopid": "saku-e936b0-paypay"
+    },
+    {
+      "name": "源氏車",
+      "address": "中込2-22-6",
+      "storeid": "saku-66829b",
+      "shopid": "saku-66829b-paypay"
+    },
+    {
+      "name": "屋台酒場 むちゃくちゃ",
+      "address": "中込2-24-1",
+      "storeid": "saku-2cac55",
+      "shopid": "saku-2cac55-paypay"
+    },
+    {
+      "name": "食堂 いち川",
+      "address": "中込2-24-16",
+      "storeid": "saku-526774",
+      "shopid": "saku-526774-paypay"
+    },
+    {
+      "name": "炭火焼鳥ひいろ",
+      "address": "中込2-24-19",
+      "storeid": "saku-f135fa",
+      "shopid": "saku-f135fa-paypay"
+    },
+    {
+      "name": "女流菜善はなちゃ",
+      "address": "中込2-24-9",
+      "storeid": "saku-cbe826",
+      "shopid": "saku-cbe826-paypay"
+    },
+    {
+      "name": "濠宴台湾料理",
+      "address": "中込2-29-2",
+      "storeid": "saku-1bca5d",
+      "shopid": "saku-1bca5d-paypay"
+    },
+    {
+      "name": "焼肉 幸",
+      "address": "中込230-44",
+      "storeid": "saku-6c386d",
+      "shopid": "saku-6c386d-paypay"
+    },
+    {
+      "name": "洋食屋pony",
+      "address": "中込2-3-2",
+      "storeid": "saku-eeeb2b",
+      "shopid": "saku-eeeb2b-paypay"
+    },
+    {
+      "name": "Cherile",
+      "address": "中込2331-1",
+      "storeid": "saku-d483fc",
+      "shopid": "saku-d483fc-paypay"
+    },
+    {
+      "name": "エスオーアイ",
+      "address": "中込2333-2",
+      "storeid": "saku-458fd0",
+      "shopid": "saku-458fd0-paypay"
+    },
+    {
+      "name": "パソコンラウンジEarth",
+      "address": "中込2336-1",
+      "storeid": "saku-bc084d",
+      "shopid": "saku-bc084d-paypay"
+    },
+    {
+      "name": "aroma hearts",
+      "address": "中込2378-2",
+      "storeid": "saku-c6053f",
+      "shopid": "saku-c6053f-paypay"
+    },
+    {
+      "name": "ブロッコリー佐久",
+      "address": "中込2440-5",
+      "storeid": "saku-09f8c2",
+      "shopid": "saku-09f8c2-paypay"
+    },
+    {
+      "name": "トラットリア SIN",
+      "address": "中込2471-1",
+      "storeid": "saku-fd633b",
+      "shopid": "saku-fd633b-paypay"
+    },
+    {
+      "name": "リラクゼーションボディケア 香の音",
+      "address": "中込2503-3",
+      "storeid": "saku-55c94f",
+      "shopid": "saku-55c94f-paypay"
+    },
+    {
+      "name": "海鮮割烹味旬丸",
+      "address": "中込2-6-30",
+      "storeid": "saku-dbdeae",
+      "shopid": "saku-dbdeae-paypay"
+    },
+    {
+      "name": "beauty salon muu",
+      "address": "中込2777-2",
+      "storeid": "saku-1252dd",
+      "shopid": "saku-1252dd-paypay"
+    },
+    {
+      "name": "Qin hair",
+      "address": "中込2777-2",
+      "storeid": "saku-84b919",
+      "shopid": "saku-84b919-paypay"
+    },
+    {
+      "name": "RON MIYAKO 佐久店",
+      "address": "中込2824-9",
+      "storeid": "saku-6f41bc",
+      "shopid": "saku-6f41bc-paypay"
+    },
+    {
+      "name": "オートライフ　中込店",
+      "address": "中込2965-1",
+      "storeid": "saku-c0618b",
+      "shopid": "saku-c0618b-paypay"
+    },
+    {
+      "name": "hair revital salon shelter",
+      "address": "中込2966-1",
+      "storeid": "saku-c12473",
+      "shopid": "saku-c12473-paypay"
     },
     {
       "name": "PRIVATE GYM DO OR DO",
-      "address": "佐久市 中込2066-1",
-      "storeid": "saku-7c5b48",
-      "shopid": "saku-7c5b48-paypay"
+      "address": "中込2966-1",
+      "storeid": "saku-461006",
+      "shopid": "saku-461006-paypay"
     },
     {
-      "name": "Heat the hair ease",
-      "address": "佐久市 中込2857-3",
-      "storeid": "saku-b95f6a",
-      "shopid": "saku-b95f6a-paypay"
+      "name": "こばやしクリーニング 中込本店",
+      "address": "中込2969-2",
+      "storeid": "saku-226f36",
+      "shopid": "saku-226f36-paypay"
+    },
+    {
+      "name": "AB STYLE佐久店",
+      "address": "中込2988-1",
+      "storeid": "saku-1f60f0",
+      "shopid": "saku-1f60f0-paypay"
+    },
+    {
+      "name": "Heal the hair ease",
+      "address": "中込2992-3",
+      "storeid": "saku-d87388",
+      "shopid": "saku-d87388-paypay"
     },
     {
       "name": "Home Grown",
-      "address": "佐久市 中込3011",
-      "storeid": "saku-197747",
-      "shopid": "saku-197747-paypay"
+      "address": "中込3011",
+      "storeid": "saku-5eece9",
+      "shopid": "saku-5eece9-paypay"
     },
     {
-      "name": "株式会社彩華",
-      "address": "佐久市 中込3012",
-      "storeid": "saku-9d3c56",
-      "shopid": "saku-9d3c56-paypay"
+      "name": "Le.souriRe",
+      "address": "中込3011",
+      "storeid": "saku-725418",
+      "shopid": "saku-725418-paypay"
     },
     {
-      "name": "花屋フラワー美寿屋",
-      "address": "佐久市 中込3000-1",
-      "storeid": "saku-34cccd",
-      "shopid": "saku-34cccd-paypay"
+      "name": "青空はりきゅう院",
+      "address": "中込3011-2",
+      "storeid": "saku-442f4d",
+      "shopid": "saku-442f4d-paypay"
     },
     {
-      "name": "中込ファーム母乳相談室",
-      "address": "佐久市 中込1510-15",
-      "storeid": "saku-40122f",
-      "shopid": "saku-40122f-paypay"
+      "name": "フラワーショップ花季 佐久中央店",
+      "address": "中込3020-1",
+      "storeid": "saku-ea9cc3",
+      "shopid": "saku-ea9cc3-paypay"
     },
     {
-      "name": "おおば酒店",
-      "address": "佐久市 中込1118-3",
-      "storeid": "saku-5ce4af",
-      "shopid": "saku-5ce4af-paypay"
+      "name": "レストランルカレ",
+      "address": "中込3030-2",
+      "storeid": "saku-2c14cf",
+      "shopid": "saku-2c14cf-paypay"
     },
     {
-      "name": "ラーメン信州おおぎや",
-      "address": "佐久市 中込1037-4",
-      "storeid": "saku-117794",
-      "shopid": "saku-117794-paypay"
+      "name": "信州ファーマ 中込中央薬局",
+      "address": "中込3110-15",
+      "storeid": "saku-6487de",
+      "shopid": "saku-6487de-paypay"
     },
     {
-      "name": "たかぎやラーメン",
-      "address": "佐久市 内山3510-1",
-      "storeid": "saku-f2e258",
-      "shopid": "saku-f2e258-paypay"
+      "name": "フィッツONE",
+      "address": "中込3115-1",
+      "storeid": "saku-f5630d",
+      "shopid": "saku-f5630d-paypay"
     },
     {
-      "name": "カレー屋さん ぱおぱお",
-      "address": "佐久市 内山1396-5",
-      "storeid": "saku-f91e46",
-      "shopid": "saku-f91e46-paypay"
+      "name": "りあらいず",
+      "address": "中込3115-3",
+      "storeid": "saku-730973",
+      "shopid": "saku-730973-paypay"
     },
     {
-      "name": "長野トヨタ自動車 佐久サービスプラザ",
-      "address": "佐久市 岩村田2561-1",
-      "storeid": "saku-747f02",
-      "shopid": "saku-747f02-paypay"
+      "name": "Beauty Lounge noa",
+      "address": "中込3116-5",
+      "storeid": "saku-14c571",
+      "shopid": "saku-14c571-paypay"
     },
     {
-      "name": "理容室ゆたか",
-      "address": "佐久市 岩村田3737-1",
-      "storeid": "saku-49246e",
-      "shopid": "saku-49246e-paypay"
+      "name": "ラーメン居酒屋 ととろ亭",
+      "address": "中込3150-1",
+      "storeid": "saku-a65ca9",
+      "shopid": "saku-a65ca9-paypay"
     },
     {
-      "name": "石原電気",
-      "address": "佐久市 岩村田3384-4",
-      "storeid": "saku-a9636f",
-      "shopid": "saku-a9636f-paypay"
+      "name": "太田美容院",
+      "address": "中込3-16-2",
+      "storeid": "saku-c728ea",
+      "shopid": "saku-c728ea-paypay"
     },
     {
-      "name": "ガソリンスタンド",
-      "address": "佐久市 岩村田2464-1",
-      "storeid": "saku-1e3634",
-      "shopid": "saku-1e3634-paypay"
+      "name": "カレー屋さんかく",
+      "address": "中込3166-3",
+      "storeid": "saku-4540e7",
+      "shopid": "saku-4540e7-paypay"
     },
     {
-      "name": "おおば酒店",
-      "address": "佐久市 岩村田3386-5",
-      "storeid": "saku-f9d8a6",
-      "shopid": "saku-f9d8a6-paypay"
+      "name": "たちばな シャレニー 佐久店",
+      "address": "中込3170-1",
+      "storeid": "saku-09b915",
+      "shopid": "saku-09b915-paypay"
     },
     {
-      "name": "メナード化粧品",
-      "address": "佐久市 岩村田3646-5",
-      "storeid": "saku-e7e1ce",
-      "shopid": "saku-e7e1ce-paypay"
+      "name": "健康運動センターK-BASE",
+      "address": "中込3-19-8",
+      "storeid": "saku-571f66",
+      "shopid": "saku-571f66-paypay"
     },
     {
-      "name": "Hair SALON DOA SORTIE",
-      "address": "佐久市 岩村田3865-16",
-      "storeid": "saku-7cbdb9",
-      "shopid": "saku-7cbdb9-paypay"
+      "name": "富松自動車",
+      "address": "中込3209-1",
+      "storeid": "saku-3d8cff",
+      "shopid": "saku-3d8cff-paypay"
+    },
+    {
+      "name": "ホクタン",
+      "address": "中込3210-1",
+      "storeid": "saku-3b254a",
+      "shopid": "saku-3b254a-paypay"
+    },
+    {
+      "name": "整体院HARAZAKI",
+      "address": "中込3212-1",
+      "storeid": "saku-bc6030",
+      "shopid": "saku-bc6030-paypay"
+    },
+    {
+      "name": "みらい・そだちクリニック",
+      "address": "中込3232-1",
+      "storeid": "saku-02bdf8",
+      "shopid": "saku-02bdf8-paypay"
+    },
+    {
+      "name": "居酒屋 さわ",
+      "address": "中込3237-1",
+      "storeid": "saku-8d089b",
+      "shopid": "saku-8d089b-paypay"
+    },
+    {
+      "name": "HAIR SALON BOA SORTE",
+      "address": "中込3266-16",
+      "storeid": "saku-b6fc6f",
+      "shopid": "saku-b6fc6f-paypay"
+    },
+    {
+      "name": "石塚薬局",
+      "address": "中込3284-4",
+      "storeid": "saku-f3578c",
+      "shopid": "saku-f3578c-paypay"
+    },
+    {
+      "name": "佐久医療センター職員食堂",
+      "address": "中込3400-28",
+      "storeid": "saku-85d732",
+      "shopid": "saku-85d732-paypay"
+    },
+    {
+      "name": "カリーノ美容室",
+      "address": "中込3464-1",
+      "storeid": "saku-fb3d7c",
+      "shopid": "saku-fb3d7c-paypay"
     },
     {
       "name": "SELF LINE",
-      "address": "佐久市 岩村田3656-6",
-      "storeid": "saku-842e38",
-      "shopid": "saku-842e38-paypay"
+      "address": "中込3465-6",
+      "storeid": "saku-398ddf",
+      "shopid": "saku-398ddf-paypay"
     },
     {
-      "name": "岩波商店",
-      "address": "佐久市 岩村田3580-2",
-      "storeid": "saku-f40530",
-      "shopid": "saku-f40530-paypay"
+      "name": "ぷめはな整体",
+      "address": "中込3465-6",
+      "storeid": "saku-776948",
+      "shopid": "saku-776948-paypay"
     },
     {
-      "name": "Hair's S",
-      "address": "佐久市 岩村田3665-45",
-      "storeid": "saku-dadc10",
-      "shopid": "saku-dadc10-paypay"
+      "name": "清水屋 丼丸",
+      "address": "中込3538-2",
+      "storeid": "saku-a850df",
+      "shopid": "saku-a850df-paypay"
     },
     {
-      "name": "シンクサロン",
-      "address": "佐久市 中込3111-21",
-      "storeid": "saku-911e9a",
-      "shopid": "saku-911e9a-paypay"
+      "name": "メカニカルドクター自動車本舗",
+      "address": "中込3568",
+      "storeid": "saku-f911f8",
+      "shopid": "saku-f911f8-paypay"
     },
     {
-      "name": "メイクルーム中野 佐久本店",
-      "address": "佐久市 中込3393-37",
-      "storeid": "saku-c12dfc",
-      "shopid": "saku-c12dfc-paypay"
+      "name": "Hair S",
+      "address": "中込3568-45",
+      "storeid": "saku-007b67",
+      "shopid": "saku-007b67-paypay"
     },
     {
-      "name": "おうち整体",
-      "address": "佐久市 中込3712-5",
-      "storeid": "saku-8ddb02",
-      "shopid": "saku-8ddb02-paypay"
+      "name": "シンサン薬局",
+      "address": "中込3611-219",
+      "storeid": "saku-e418fa",
+      "shopid": "saku-e418fa-paypay"
     },
     {
-      "name": "ハチ好亭ラーメン",
-      "address": "佐久市 中込3515-156",
-      "storeid": "saku-843079",
-      "shopid": "saku-843079-paypay"
+      "name": "メガネのイタガキ 佐久本店",
+      "address": "中込3639-37",
+      "storeid": "saku-9ffebe",
+      "shopid": "saku-9ffebe-paypay"
     },
     {
-      "name": "小料理 かおる",
-      "address": "佐久市 下小田切154",
-      "storeid": "saku-da4e9f",
-      "shopid": "saku-da4e9f-paypay"
+      "name": "ランドリーハウス ジャック&マリブ",
+      "address": "中込3639-4",
+      "storeid": "saku-a30b72",
+      "shopid": "saku-a30b72-paypay"
     },
     {
-      "name": "YURIKEN - Angel",
-      "address": "佐久市 長土呂2163-5",
-      "storeid": "saku-28bfa0",
-      "shopid": "saku-28bfa0-paypay"
+      "name": "串庵 こうじや",
+      "address": "中込3639-94",
+      "storeid": "saku-2b42bf",
+      "shopid": "saku-2b42bf-paypay"
     },
     {
-      "name": "ノースハート",
-      "address": "佐久市 長土呂2470",
-      "storeid": "saku-114674",
-      "shopid": "saku-114674-paypay"
+      "name": "きうち薬局",
+      "address": "中込3712-5",
+      "storeid": "saku-240c63",
+      "shopid": "saku-240c63-paypay"
     },
     {
-      "name": "FIT株式会社",
-      "address": "佐久市 長土呂1394-2",
-      "storeid": "saku-24e532",
-      "shopid": "saku-24e532-paypay"
+      "name": "八千穂タクシー",
+      "address": "中込3713-156",
+      "storeid": "saku-b95927",
+      "shopid": "saku-b95927-paypay"
     },
     {
-      "name": "YOSAPARK咲心",
-      "address": "佐久市 長土呂817-1",
-      "storeid": "saku-b340f4",
-      "shopid": "saku-b340f4-paypay"
+      "name": "ひかり代行",
+      "address": "中込3713-49",
+      "storeid": "saku-ae53c9",
+      "shopid": "saku-ae53c9-paypay"
     },
     {
-      "name": "パーソナルトレーナー ボーチェ",
-      "address": "佐久市 長土呂2193-7",
-      "storeid": "saku-770cbf",
-      "shopid": "saku-770cbf-paypay"
+      "name": "LUMAONA",
+      "address": "中込3-8-28",
+      "storeid": "saku-2caeaf",
+      "shopid": "saku-2caeaf-paypay"
     },
     {
-      "name": "レディ美容外科クリニック",
-      "address": "佐久市 長土呂2000-20",
-      "storeid": "saku-55f559",
-      "shopid": "saku-55f559-paypay"
+      "name": "安土倍組",
+      "address": "中込612-11",
+      "storeid": "saku-8f5f0d",
+      "shopid": "saku-8f5f0d-paypay"
     },
     {
-      "name": "理容室 千成",
-      "address": "佐久市 長土呂1811-10",
-      "storeid": "saku-d24cae",
-      "shopid": "saku-d24cae-paypay"
+      "name": "食彩かのん",
+      "address": "中込727-11",
+      "storeid": "saku-78861b",
+      "shopid": "saku-78861b-paypay"
     },
     {
-      "name": "株式会社トキワ工芸",
-      "address": "佐久市 長土呂1216-29",
-      "storeid": "saku-743fa8",
-      "shopid": "saku-743fa8-paypay"
+      "name": "長野トヨタ自動車 GRGarage長野",
+      "address": "中込宮久保2465-1",
+      "storeid": "saku-9f93cd",
+      "shopid": "saku-9f93cd-paypay"
     },
     {
-      "name": "オートショップ関東 佐久店",
-      "address": "佐久市 長土呂1066-29",
-      "storeid": "saku-617a5f",
-      "shopid": "saku-617a5f-paypay"
+      "name": "山口自動車販売佐久店",
+      "address": "中込原3734-8",
+      "storeid": "saku-c10929",
+      "shopid": "saku-c10929-paypay"
     },
     {
-      "name": "イタリア料理店PORCO",
-      "address": "佐久市 長土呂1089-1",
-      "storeid": "saku-6cb38c",
-      "shopid": "saku-6cb38c-paypay"
+      "name": "美容室プリンセス",
+      "address": "中込三家1904-2",
+      "storeid": "saku-699aba",
+      "shopid": "saku-699aba-paypay"
+    },
+    {
+      "name": "長野トヨタ自動車 佐久店",
+      "address": "中込字宮久保2469-1",
+      "storeid": "saku-be4ad4",
+      "shopid": "saku-be4ad4-paypay"
+    },
+    {
+      "name": "長野トヨタ自動車 チューカーボックス佐久店",
+      "address": "中込字宮久保2484-1",
+      "storeid": "saku-87385f",
+      "shopid": "saku-87385f-paypay"
+    },
+    {
+      "name": "長野トヨタ自動車 佐久北サービスサテライト",
+      "address": "中込字西妻神3226-1",
+      "storeid": "saku-ba0fd0",
+      "shopid": "saku-ba0fd0-paypay"
+    },
+    {
+      "name": "あっぷるぐりむ 佐久店",
+      "address": "中込字大塚3005-1",
+      "storeid": "saku-374e4d",
+      "shopid": "saku-374e4d-paypay"
+    },
+    {
+      "name": "和泉屋菓子店 佐久中央店",
+      "address": "中込字大塚3020-1",
+      "storeid": "saku-b21fec",
+      "shopid": "saku-b21fec-paypay"
+    },
+    {
+      "name": "オートバックス 佐久店",
+      "address": "中込字立石2985",
+      "storeid": "saku-3af229",
+      "shopid": "saku-3af229-paypay"
+    },
+    {
+      "name": "リラクゼーションサロン/LuANa",
+      "address": "長土呂1098-10",
+      "storeid": "saku-bb68ae",
+      "shopid": "saku-bb68ae-paypay"
+    },
+    {
+      "name": "酒蔵 千曲錦",
+      "address": "長土呂1110",
+      "storeid": "saku-eb69b2",
+      "shopid": "saku-eb69b2-paypay"
+    },
+    {
+      "name": "佐久オートエンジニア",
+      "address": "長土呂1141-2",
+      "storeid": "saku-85a612",
+      "shopid": "saku-85a612-paypay"
+    },
+    {
+      "name": "Jネットレンタカー 佐久平店",
+      "address": "長土呂1163-5",
+      "storeid": "saku-06959a",
+      "shopid": "saku-06959a-paypay"
+    },
+    {
+      "name": "イタリア肉料理PORCO",
+      "address": "長土呂1163-91",
+      "storeid": "saku-d584af",
+      "shopid": "saku-d584af-paypay"
+    },
+    {
+      "name": "ヴィーナスコート 佐久平",
+      "address": "長土呂1169-7",
+      "storeid": "saku-ac6d7d",
+      "shopid": "saku-ac6d7d-paypay"
     },
     {
       "name": "Passer Toujours",
-      "address": "佐久市 長土呂1781-1",
-      "storeid": "saku-d9fa33",
-      "shopid": "saku-d9fa33-paypay"
+      "address": "長土呂1171-1",
+      "storeid": "saku-660a45",
+      "shopid": "saku-660a45-paypay"
     },
     {
-      "name": "中華料理 はくさい",
-      "address": "佐久市 長土呂1818-3",
-      "storeid": "saku-784b83",
-      "shopid": "saku-784b83-paypay"
+      "name": "佐久プラザボウル",
+      "address": "長土呂1183-1",
+      "storeid": "saku-f7f52a",
+      "shopid": "saku-f7f52a-paypay"
+    },
+    {
+      "name": "中華麺 維心颯漣",
+      "address": "長土呂1183-1",
+      "storeid": "saku-ef2f5e",
+      "shopid": "saku-ef2f5e-paypay"
+    },
+    {
+      "name": "ソロピッツァジンガラ",
+      "address": "長土呂1243-1",
+      "storeid": "saku-2a113c",
+      "shopid": "saku-2a113c-paypay"
+    },
+    {
+      "name": "酒舗清水屋佐久平店",
+      "address": "長土呂1244",
+      "storeid": "saku-1e7c69",
+      "shopid": "saku-1e7c69-paypay"
+    },
+    {
+      "name": "個室焼肉 山王",
+      "address": "長土呂1245-5",
+      "storeid": "saku-cc06a1",
+      "shopid": "saku-cc06a1-paypay"
     },
     {
       "name": "SELECT studio",
-      "address": "佐久市 長土呂2000-11",
-      "storeid": "saku-4e6745",
-      "shopid": "saku-4e6745-paypay"
+      "address": "長土呂1280-11",
+      "storeid": "saku-a5b149",
+      "shopid": "saku-a5b149-paypay"
     },
     {
-      "name": "株式会社セイワ電機",
-      "address": "佐久市 長土呂1201-7",
-      "storeid": "saku-60d379",
-      "shopid": "saku-60d379-paypay"
+      "name": "N-TECH",
+      "address": "長土呂1304-2",
+      "storeid": "saku-1c6538",
+      "shopid": "saku-1c6538-paypay"
     },
     {
-      "name": "美容室 ルミナ",
-      "address": "佐久市 長土呂1310-1",
-      "storeid": "saku-aeb13f",
-      "shopid": "saku-aeb13f-paypay"
+      "name": "YUIKEN・Angel",
+      "address": "長土呂166-3",
+      "storeid": "saku-8b356a",
+      "shopid": "saku-8b356a-paypay"
     },
     {
-      "name": "ルミナ",
-      "address": "佐久市 長土呂1310-1",
-      "storeid": "saku-5d09f0",
-      "shopid": "saku-5d09f0-paypay"
+      "name": "吉祥佐久店",
+      "address": "長土呂267-1",
+      "storeid": "saku-cc5a4c",
+      "shopid": "saku-cc5a4c-paypay"
     },
     {
-      "name": "やきとり やまちゃん",
-      "address": "佐久市 長土呂2019-1",
-      "storeid": "saku-190d59",
-      "shopid": "saku-190d59-paypay"
+      "name": "ノームノーム",
+      "address": "長土呂427-20",
+      "storeid": "saku-2a1e17",
+      "shopid": "saku-2a1e17-paypay"
     },
     {
-      "name": "食彩酒房 こいけ",
-      "address": "佐久市 長土呂1202-5",
-      "storeid": "saku-8734fc",
-      "shopid": "saku-8734fc-paypay"
+      "name": "松木商店",
+      "address": "長土呂428",
+      "storeid": "saku-dddb02",
+      "shopid": "saku-dddb02-paypay"
     },
     {
-      "name": "たこ焼き まるや",
-      "address": "佐久市 長土呂1202-7",
-      "storeid": "saku-8dbdef",
-      "shopid": "saku-8dbdef-paypay"
+      "name": "FP事務所f-design",
+      "address": "長土呂433-2",
+      "storeid": "saku-a7eeeb",
+      "shopid": "saku-a7eeeb-paypay"
     },
     {
-      "name": "美肌整体ルアナ",
-      "address": "佐久市 長土呂1171-8",
-      "storeid": "saku-9e8096",
-      "shopid": "saku-9e8096-paypay"
+      "name": "Mentore企画",
+      "address": "長土呂471-5",
+      "storeid": "saku-d665c5",
+      "shopid": "saku-d665c5-paypay"
     },
     {
-      "name": "サロンド・ジュエ",
-      "address": "佐久市 長土呂1072-1",
-      "storeid": "saku-124a7a",
-      "shopid": "saku-124a7a-paypay"
+      "name": "YOSAPARK 癒氣",
+      "address": "長土呂478-1",
+      "storeid": "saku-e59a15",
+      "shopid": "saku-e59a15-paypay"
     },
     {
-      "name": "ポーラ ザ ビューティー佐久店",
-      "address": "佐久市 長土呂1089-2",
-      "storeid": "saku-974462",
-      "shopid": "saku-974462-paypay"
+      "name": "LALA HAUTOCOUTURE",
+      "address": "長土呂519-2",
+      "storeid": "saku-4c1255",
+      "shopid": "saku-4c1255-paypay"
     },
     {
-      "name": "食事処 ふじの",
-      "address": "佐久市 長土呂1139-3",
-      "storeid": "saku-97d4e0",
-      "shopid": "saku-97d4e0-paypay"
+      "name": "パーソナルケア ボーテ",
+      "address": "長土呂519-2",
+      "storeid": "saku-4a48a5",
+      "shopid": "saku-4a48a5-paypay"
     },
     {
-      "name": "メナードフェイシャルサロン ルミエール",
-      "address": "佐久市 長土呂1064-3",
-      "storeid": "saku-5d6cd8",
-      "shopid": "saku-5d6cd8-paypay"
+      "name": "ハウス&ガーデン ダイトー 佐久店",
+      "address": "長土呂548-6",
+      "storeid": "saku-e046f7",
+      "shopid": "saku-e046f7-paypay"
     },
     {
-      "name": "美容室WAVE",
-      "address": "佐久市 長土呂1086-5",
-      "storeid": "saku-9a6221",
-      "shopid": "saku-9a6221-paypay"
+      "name": "小池折箱店 佐久店",
+      "address": "長土呂64-18",
+      "storeid": "saku-34b025",
+      "shopid": "saku-34b025-paypay"
     },
     {
-      "name": "Hair room CHELSEA",
-      "address": "佐久市 長土呂1084-6",
-      "storeid": "saku-87f2a2",
-      "shopid": "saku-87f2a2-paypay"
+      "name": "しずくだ歯科クリニック",
+      "address": "長土呂900-20",
+      "storeid": "saku-cfe3b9",
+      "shopid": "saku-cfe3b9-paypay"
     },
     {
-      "name": "焼肉 おおぎや",
-      "address": "佐久市 長土呂1130-4",
-      "storeid": "saku-fccaea",
-      "shopid": "saku-fccaea-paypay"
+      "name": "クリーニングウィステリア有限会",
+      "address": "長土呂字聖原83-11",
+      "storeid": "saku-6ea81a",
+      "shopid": "saku-6ea81a-paypay"
     },
     {
-      "name": "お好み焼き まるまる",
-      "address": "佐久市 長土呂1137-2",
-      "storeid": "saku-5ba0d1",
-      "shopid": "saku-5ba0d1-paypay"
+      "name": "オートライフ塩沢 長土呂店",
+      "address": "長土呂南近津1160-29",
+      "storeid": "saku-713020",
+      "shopid": "saku-713020-paypay"
     },
     {
-      "name": "ラーメン太陽",
-      "address": "佐久市 長土呂1198-8",
-      "storeid": "saku-ed5910",
-      "shopid": "saku-ed5910-paypay"
+      "name": "クリーニングひまわり 本店",
+      "address": "塚原1076-4",
+      "storeid": "saku-25daac",
+      "shopid": "saku-25daac-paypay"
     },
     {
-      "name": "カフェ ベルグ",
-      "address": "佐久市 長土呂1201-8",
-      "storeid": "saku-37a7b8",
-      "shopid": "saku-37a7b8-paypay"
+      "name": "依田自動車板金塗装工場",
+      "address": "塚原112-7",
+      "storeid": "saku-ad8d3b",
+      "shopid": "saku-ad8d3b-paypay"
     },
     {
-      "name": "長土呂食堂",
-      "address": "佐久市 長土呂1190-4",
-      "storeid": "saku-508702",
-      "shopid": "saku-508702-paypay"
+      "name": "PS代行ドライビングサービス",
+      "address": "塚原1579-7",
+      "storeid": "saku-ad2dba",
+      "shopid": "saku-ad2dba-paypay"
     },
     {
-      "name": "焼き鳥 えん",
-      "address": "佐久市 長土呂1088-3",
-      "storeid": "saku-961a68",
-      "shopid": "saku-961a68-paypay"
+      "name": "FUUTH",
+      "address": "塚原237-1",
+      "storeid": "saku-c4f2a7",
+      "shopid": "saku-c4f2a7-paypay"
     },
     {
-      "name": "韓国料理 さらんばん",
-      "address": "佐久市 長土呂1080-2",
-      "storeid": "saku-abb6d4",
-      "shopid": "saku-abb6d4-paypay"
+      "name": "プラウ 佐久平店",
+      "address": "塚原288-1",
+      "storeid": "saku-564d30",
+      "shopid": "saku-564d30-paypay"
     },
     {
-      "name": "あんばい亭",
-      "address": "佐久市 長土呂1056-4",
-      "storeid": "saku-792fd9",
-      "shopid": "saku-792fd9-paypay"
+      "name": "おやつ村",
+      "address": "塚原434",
+      "storeid": "saku-2b4c56",
+      "shopid": "saku-2b4c56-paypay"
     },
     {
-      "name": "らーめん颯",
-      "address": "佐久市 長土呂1190-5",
-      "storeid": "saku-038afe",
-      "shopid": "saku-038afe-paypay"
+      "name": "ミラネット",
+      "address": "塚原434",
+      "storeid": "saku-5ebde3",
+      "shopid": "saku-5ebde3-paypay"
     },
     {
-      "name": "串焼き りん",
-      "address": "佐久市 長土呂1067-7",
-      "storeid": "saku-c5479d",
-      "shopid": "saku-c5479d-paypay"
+      "name": "浅間タイヤ技術販売",
+      "address": "塚原465-1",
+      "storeid": "saku-d10c57",
+      "shopid": "saku-d10c57-paypay"
     },
     {
-      "name": "焼肉・ホルモン ふくろう",
-      "address": "佐久市 長土呂1087-4",
-      "storeid": "saku-30b29c",
-      "shopid": "saku-30b29c-paypay"
+      "name": "SMILE SQUARE",
+      "address": "塚原647-8",
+      "storeid": "saku-e97821",
+      "shopid": "saku-e97821-paypay"
     },
     {
-      "name": "炭火焼肉 あさひ",
-      "address": "佐久市 長土呂1055-8",
-      "storeid": "saku-38701a",
-      "shopid": "saku-38701a-paypay"
+      "name": "うすだ代行3号車",
+      "address": "田口1072-2",
+      "storeid": "saku-cc14cf",
+      "shopid": "saku-cc14cf-paypay"
     },
     {
-      "name": "和食処 さくら",
-      "address": "佐久市 長土呂1132-3",
-      "storeid": "saku-94831e",
-      "shopid": "saku-94831e-paypay"
+      "name": "新髙興業 EX MODE",
+      "address": "田口1092-1",
+      "storeid": "saku-88d88a",
+      "shopid": "saku-88d88a-paypay"
     },
     {
-      "name": "鉄板焼 鈴",
-      "address": "佐久市 長土呂1200-6",
-      "storeid": "saku-5018d3",
-      "shopid": "saku-5018d3-paypay"
+      "name": "新興製作所",
+      "address": "田口5131",
+      "storeid": "saku-9327e2",
+      "shopid": "saku-9327e2-paypay"
     },
     {
-      "name": "寿司割烹 みやこ",
-      "address": "佐久市 長土呂1189-1",
-      "storeid": "saku-6d2d57",
-      "shopid": "saku-6d2d57-paypay"
+      "name": "ヘアサロン アリス",
+      "address": "田口5239-5",
+      "storeid": "saku-536c84",
+      "shopid": "saku-536c84-paypay"
     },
     {
-      "name": "食堂 たつみ",
-      "address": "佐久市 長土呂1176-9",
-      "storeid": "saku-5e934c",
-      "shopid": "saku-5e934c-paypay"
+      "name": "レストラン 一花",
+      "address": "田口5546-1",
+      "storeid": "saku-586719",
+      "shopid": "saku-586719-paypay"
     },
     {
-      "name": "麺や 七福",
-      "address": "佐久市 長土呂1183-7",
-      "storeid": "saku-9838c9",
-      "shopid": "saku-9838c9-paypay"
+      "name": "ファミリーサロンFreedom",
+      "address": "田口5566",
+      "storeid": "saku-a165da",
+      "shopid": "saku-a165da-paypay"
     },
     {
-      "name": "旬彩 かとう",
-      "address": "佐久市 長土呂1170-8",
-      "storeid": "saku-9d28c0",
-      "shopid": "saku-9d28c0-paypay"
+      "name": "アルファトーヨー住器",
+      "address": "田口6028",
+      "storeid": "saku-e0d7c4",
+      "shopid": "saku-e0d7c4-paypay"
     },
     {
-      "name": "焼肉 はるみ",
-      "address": "佐久市 長土呂1162-3",
-      "storeid": "saku-16a17d",
-      "shopid": "saku-16a17d-paypay"
+      "name": "九十九屋",
+      "address": "田口6246",
+      "storeid": "saku-14fcdb",
+      "shopid": "saku-14fcdb-paypay"
     },
     {
-      "name": "お食事処 鳥栄",
-      "address": "佐久市 長土呂1150-9",
-      "storeid": "saku-4257a0",
-      "shopid": "saku-4257a0-paypay"
+      "name": "SAKU RESORT",
+      "address": "東立科1905",
+      "storeid": "saku-d0a316",
+      "shopid": "saku-d0a316-paypay"
     },
     {
-      "name": "ラーメン つかさ亭",
-      "address": "佐久市 長土呂1149-5",
-      "storeid": "saku-d4e7be",
-      "shopid": "saku-d4e7be-paypay"
+      "name": "nail Ballan",
+      "address": "湯原1242-3",
+      "storeid": "saku-dfd33e",
+      "shopid": "saku-dfd33e-paypay"
     },
     {
-      "name": "焼肉レストラン 隆",
-      "address": "佐久市 長土呂1139-2",
-      "storeid": "saku-52ba34",
-      "shopid": "saku-52ba34-paypay"
+      "name": "荒船パノラマキャンプフィールド",
+      "address": "内山352-1",
+      "storeid": "saku-d899fd",
+      "shopid": "saku-d899fd-paypay"
     },
     {
-      "name": "喫茶 ベル",
-      "address": "佐久市 長土呂1107-3",
-      "storeid": "saku-84af08",
-      "shopid": "saku-84af08-paypay"
+      "name": "じゃんぼらーめん ぶるーと",
+      "address": "内山571-1",
+      "storeid": "saku-942913",
+      "shopid": "saku-942913-paypay"
     },
     {
-      "name": "旬菜料理 はな",
-      "address": "佐久市 長土呂1084-7",
-      "storeid": "saku-17da73",
-      "shopid": "saku-17da73-paypay"
+      "name": "高原カフェ ツリーハウス",
+      "address": "内山640-1",
+      "storeid": "saku-055588",
+      "shopid": "saku-055588-paypay"
     },
     {
-      "name": "すし こうじ",
-      "address": "佐久市 長土呂1065-9",
-      "storeid": "saku-4b72e4",
-      "shopid": "saku-4b72e4-paypay"
+      "name": "エス ティー オー",
+      "address": "内山7739-1",
+      "storeid": "saku-42bdfb",
+      "shopid": "saku-42bdfb-paypay"
     },
     {
-      "name": "中華料理 宝華",
-      "address": "佐久市 長土呂1057-2",
-      "storeid": "saku-49efdc",
-      "shopid": "saku-49efdc-paypay"
+      "name": "桜井養蜂園",
+      "address": "内山苦水1242-3",
+      "storeid": "saku-79e498",
+      "shopid": "saku-79e498-paypay"
     },
     {
-      "name": "焼肉・ホルモン 金剛苑",
-      "address": "佐久市 長土呂1045-5",
-      "storeid": "saku-c40611",
-      "shopid": "saku-c40611-paypay"
+      "name": "オートパルみなみ",
+      "address": "入澤811-1",
+      "storeid": "saku-871fea",
+      "shopid": "saku-871fea-paypay"
     },
     {
-      "name": "ラーメン大将",
-      "address": "佐久市 長土呂1039-4",
-      "storeid": "saku-449a96",
-      "shopid": "saku-449a96-paypay"
+      "name": "ハナザワ電気センター",
+      "address": "八幡247-2",
+      "storeid": "saku-8b9051",
+      "shopid": "saku-8b9051-paypay"
     },
     {
-      "name": "海鮮居酒屋 あかり",
-      "address": "佐久市 長土呂1028-2",
-      "storeid": "saku-db441c",
-      "shopid": "saku-db441c-paypay"
+      "name": "ヘアメイクサロン慧比須",
+      "address": "伴野794-2",
+      "storeid": "saku-b66b71",
+      "shopid": "saku-b66b71-paypay"
     },
     {
-      "name": "焼肉 うしとら",
-      "address": "佐久市 長土呂1017-3",
-      "storeid": "saku-9e5a92",
-      "shopid": "saku-9e5a92-paypay"
+      "name": "齋藤幸太郎商店",
+      "address": "伴野993-8",
+      "storeid": "saku-42ac13",
+      "shopid": "saku-42ac13-paypay"
     },
     {
-      "name": "蕎麦 みなづき",
-      "address": "佐久市 長土呂1002-1",
-      "storeid": "saku-c569cc",
-      "shopid": "saku-c569cc-paypay"
+      "name": "布施温泉",
+      "address": "布施1228",
+      "storeid": "saku-ebc29d",
+      "shopid": "saku-ebc29d-paypay"
     },
     {
-      "name": "食彩酒房 ふくろう",
-      "address": "佐久市 長土呂998-6",
-      "storeid": "saku-4aea14",
-      "shopid": "saku-4aea14-paypay"
+      "name": "Cafe ひまわり畑",
+      "address": "布施769-1",
+      "storeid": "saku-37fc56",
+      "shopid": "saku-37fc56-paypay"
     },
     {
-      "name": "天ぷら屋 てん",
-      "address": "佐久市 長土呂987-2",
-      "storeid": "saku-efa416",
-      "shopid": "saku-efa416-paypay"
+      "name": "信州 チーズの樹",
+      "address": "布施8-319",
+      "storeid": "saku-4243ec",
+      "shopid": "saku-4243ec-paypay"
     },
     {
-      "name": "和食処 まつや",
-      "address": "佐久市 長土呂975-4",
-      "storeid": "saku-7e8f36",
-      "shopid": "saku-7e8f36-paypay"
+      "name": "セレクトショップ YANKY 本店",
+      "address": "平賀1909-1",
+      "storeid": "saku-43740f",
+      "shopid": "saku-43740f-paypay"
     },
     {
-      "name": "串揚げ専門店 いっちょう",
-      "address": "佐久市 長土呂963-3",
-      "storeid": "saku-1b5720",
-      "shopid": "saku-1b5720-paypay"
+      "name": "和み家 ふじき",
+      "address": "平賀1919-1",
+      "storeid": "saku-dc1cfa",
+      "shopid": "saku-dc1cfa-paypay"
     },
     {
-      "name": "食堂 大吉",
-      "address": "佐久市 長土呂951-8",
-      "storeid": "saku-f4f915",
-      "shopid": "saku-f4f915-paypay"
+      "name": "Hair&relaxation Antenna",
+      "address": "平賀1951-1",
+      "storeid": "saku-f4602b",
+      "shopid": "saku-f4602b-paypay"
     },
     {
-      "name": "焼き鳥 まるや",
-      "address": "佐久市 長土呂942-2",
-      "storeid": "saku-ccaab0",
-      "shopid": "saku-ccaab0-paypay"
+      "name": "トータルカーボディ・イチカワ",
+      "address": "平賀4917-1",
+      "storeid": "saku-fa4f3a",
+      "shopid": "saku-fa4f3a-paypay"
     },
     {
-      "name": "炭火焼肉 福ちゃん",
-      "address": "佐久市 長土呂930-5",
-      "storeid": "saku-743d81",
-      "shopid": "saku-743d81-paypay"
+      "name": "芙蓉酒造",
+      "address": "平賀5371-1",
+      "storeid": "saku-8e828f",
+      "shopid": "saku-8e828f-paypay"
     },
     {
-      "name": "ラーメン ひなた",
-      "address": "佐久市 長土呂918-7",
-      "storeid": "saku-12fadb",
-      "shopid": "saku-12fadb-paypay"
+      "name": "癒庵ーゆあんー",
+      "address": "平塚7-2",
+      "storeid": "saku-874ad0",
+      "shopid": "saku-874ad0-paypay"
     },
     {
-      "name": "お食事処 みどり",
-      "address": "佐久市 長土呂905-1",
-      "storeid": "saku-80a991",
-      "shopid": "saku-80a991-paypay"
+      "name": "立科自動車工業",
+      "address": "蓬田129-2",
+      "storeid": "saku-a78947",
+      "shopid": "saku-a78947-paypay"
     },
     {
-      "name": "寿司処 かねこ",
-      "address": "佐久市 長土呂892-6",
-      "storeid": "saku-46a4df",
-      "shopid": "saku-46a4df-paypay"
+      "name": "柳田商店",
+      "address": "蓬田489-1",
+      "storeid": "saku-b1300d",
+      "shopid": "saku-b1300d-paypay"
     },
     {
-      "name": "居酒屋 さくら",
-      "address": "佐久市 長土呂884-2",
-      "storeid": "saku-8f227e",
-      "shopid": "saku-8f227e-paypay"
+      "name": "木村屋菓子店",
+      "address": "望月106",
+      "storeid": "saku-131c3c",
+      "shopid": "saku-131c3c-paypay"
     },
     {
-      "name": "洋食レストラン ひまわり",
-      "address": "佐久市 長土呂870-4",
-      "storeid": "saku-0d7a19",
-      "shopid": "saku-0d7a19-paypay"
+      "name": "手打ちそば 富田",
+      "address": "望月106-20",
+      "storeid": "saku-5969f9",
+      "shopid": "saku-5969f9-paypay"
     },
     {
-      "name": "食事処 つばき",
-      "address": "佐久市 長土呂858-7",
-      "storeid": "saku-890b4d",
-      "shopid": "saku-890b4d-paypay"
+      "name": "ヤマトカメラ",
+      "address": "望月1506-3",
+      "storeid": "saku-013021",
+      "shopid": "saku-013021-paypay"
     },
     {
-      "name": "中華料理 桃源",
-      "address": "佐久市 長土呂846-9",
-      "storeid": "saku-fc3010",
-      "shopid": "saku-fc3010-paypay"
+      "name": "SOL",
+      "address": "望月1517-2",
+      "storeid": "saku-a986b0",
+      "shopid": "saku-a986b0-paypay"
     },
     {
-      "name": "鉄板焼 まるしん",
-      "address": "佐久市 長土呂835-3",
-      "storeid": "saku-b0df60",
-      "shopid": "saku-b0df60-paypay"
+      "name": "喜月堂",
+      "address": "望月168",
+      "storeid": "saku-f20fdc",
+      "shopid": "saku-f20fdc-paypay"
     },
     {
-      "name": "和食レストラン まつおか",
-      "address": "佐久市 長土呂822-5",
-      "storeid": "saku-fc9564",
-      "shopid": "saku-fc9564-paypay"
+      "name": "多津衛民芸館",
+      "address": "望月2030-4",
+      "storeid": "saku-1209b2",
+      "shopid": "saku-1209b2-paypay"
     },
     {
-      "name": "居酒屋 味一",
-      "address": "佐久市 長土呂810-6",
-      "storeid": "saku-1181b5",
-      "shopid": "saku-1181b5-paypay"
+      "name": "ワタナベ寝具店",
+      "address": "望月26-4",
+      "storeid": "saku-3da3bb",
+      "shopid": "saku-3da3bb-paypay"
     },
     {
-      "name": "焼肉 味楽",
-      "address": "佐久市 長土呂799-4",
-      "storeid": "saku-711fb8",
-      "shopid": "saku-711fb8-paypay"
+      "name": "蓼科",
+      "address": "望月300-4",
+      "storeid": "saku-f45d93",
+      "shopid": "saku-f45d93-paypay"
     },
     {
-      "name": "レストラン くるみ",
-      "address": "佐久市 長土呂785-7",
-      "storeid": "saku-21e69f",
-      "shopid": "saku-21e69f-paypay"
+      "name": "小宮山自動車",
+      "address": "望月347-8",
+      "storeid": "saku-c3fc9f",
+      "shopid": "saku-c3fc9f-paypay"
     },
     {
-      "name": "お好み焼 どんちゃん",
-      "address": "佐久市 長土呂774-3",
-      "storeid": "saku-d8ec16",
-      "shopid": "saku-d8ec16-paypay"
+      "name": "TS Factory",
+      "address": "望月680-1",
+      "storeid": "saku-c7c876",
+      "shopid": "saku-c7c876-paypay"
     },
     {
-      "name": "中華料理 龍苑",
-      "address": "佐久市 長土呂760-9",
-      "storeid": "saku-83d4a4",
-      "shopid": "saku-83d4a4-paypay"
+      "name": "ハートステージ",
+      "address": "北川463-1",
+      "storeid": "saku-be698c",
+      "shopid": "saku-be698c-paypay"
     },
     {
-      "name": "焼肉レストラン 太陽",
-      "address": "佐久市 長土呂749-2",
-      "storeid": "saku-c24947",
-      "shopid": "saku-c24947-paypay"
+      "name": "冨士重機",
+      "address": "北川465",
+      "storeid": "saku-0c6462",
+      "shopid": "saku-0c6462-paypay"
     },
     {
-      "name": "ラーメン山岡家 佐久店",
-      "address": "佐久市 長土呂738-1",
-      "storeid": "saku-4ce13e",
-      "shopid": "saku-4ce13e-paypay"
+      "name": "あおぞら動物病院",
+      "address": "本新町216-15",
+      "storeid": "saku-55b1cf",
+      "shopid": "saku-55b1cf-paypay"
     },
     {
-      "name": "焼肉 やまき",
-      "address": "佐久市 長土呂720-3",
-      "storeid": "saku-1c7915",
-      "shopid": "saku-1c7915-paypay"
+      "name": "髪師 臼田店",
+      "address": "本新町219-9",
+      "storeid": "saku-8051fe",
+      "shopid": "saku-8051fe-paypay"
     },
     {
-      "name": "食事処 まるまつ",
-      "address": "佐久市 長土呂709-8",
-      "storeid": "saku-b886ae",
-      "shopid": "saku-b886ae-paypay"
+      "name": "プロショップ シャミル",
+      "address": "茂田井3150-2",
+      "storeid": "saku-f15914",
+      "shopid": "saku-f15914-paypay"
     },
     {
-      "name": "カフェ 縁",
-      "address": "佐久市 長土呂698-6",
-      "storeid": "saku-666ee1",
-      "shopid": "saku-666ee1-paypay"
+      "name": "玄人や",
+      "address": "野沢122-1",
+      "storeid": "saku-3a09af",
+      "shopid": "saku-3a09af-paypay"
     },
     {
-      "name": "蕎麦処 一休",
-      "address": "佐久市 長土呂684-4",
-      "storeid": "saku-8e0e16",
-      "shopid": "saku-8e0e16-paypay"
+      "name": "こばやしクリーニング 野沢店",
+      "address": "野沢129-1",
+      "storeid": "saku-428811",
+      "shopid": "saku-428811-paypay"
     },
     {
-      "name": "食彩 ふじや",
-      "address": "佐久市 長土呂670-2",
-      "storeid": "saku-2e77b3",
-      "shopid": "saku-2e77b3-paypay"
+      "name": "和泉屋ツルヤ野沢店",
+      "address": "野沢129-1",
+      "storeid": "saku-3973c4",
+      "shopid": "saku-3973c4-paypay"
     },
     {
-      "name": "焼き鳥 とり松",
-      "address": "佐久市 長土呂660-9",
-      "storeid": "saku-5286d3",
-      "shopid": "saku-5286d3-paypay"
+      "name": "HOOD",
+      "address": "野沢13",
+      "storeid": "saku-eb1018",
+      "shopid": "saku-eb1018-paypay"
     },
     {
-      "name": "和食処 ひとみ",
-      "address": "佐久市 長土呂649-5",
-      "storeid": "saku-2ea6b8",
-      "shopid": "saku-2ea6b8-paypay"
+      "name": "Uchide CAFE",
+      "address": "野沢13-1",
+      "storeid": "saku-f62683",
+      "shopid": "saku-f62683-paypay"
+    },
+    {
+      "name": "カプセルオフィス",
+      "address": "野沢13-1",
+      "storeid": "saku-c9efd5",
+      "shopid": "saku-c9efd5-paypay"
+    },
+    {
+      "name": "ローズ写真舎",
+      "address": "野沢13-1",
+      "storeid": "saku-4097ce",
+      "shopid": "saku-4097ce-paypay"
+    },
+    {
+      "name": "西澤書店",
+      "address": "野沢262-8",
+      "storeid": "saku-efc6cf",
+      "shopid": "saku-efc6cf-paypay"
+    },
+    {
+      "name": "さくのす",
+      "address": "野沢304-10",
+      "storeid": "saku-e80e63",
+      "shopid": "saku-e80e63-paypay"
+    },
+    {
+      "name": "あいプロ 佐久店",
+      "address": "野沢306-12",
+      "storeid": "saku-62405d",
+      "shopid": "saku-62405d-paypay"
+    },
+    {
+      "name": "エアコンショップ AIREXPRESS",
+      "address": "野沢306-12",
+      "storeid": "saku-05edd0",
+      "shopid": "saku-05edd0-paypay"
+    },
+    {
+      "name": "MF CLUB24佐久店",
+      "address": "野沢307-1",
+      "storeid": "saku-a97094",
+      "shopid": "saku-a97094-paypay"
+    },
+    {
+      "name": "はなおか 野沢店",
+      "address": "野沢316-1",
+      "storeid": "saku-abaf7d",
+      "shopid": "saku-abaf7d-paypay"
+    },
+    {
+      "name": "リューケンハイム 本社",
+      "address": "野沢323-22",
+      "storeid": "saku-b2f412",
+      "shopid": "saku-b2f412-paypay"
+    },
+    {
+      "name": "文具のパピルス",
+      "address": "野沢332-3",
+      "storeid": "saku-c0b12f",
+      "shopid": "saku-c0b12f-paypay"
+    },
+    {
+      "name": "人形工房サンキュー 佐久総本店",
+      "address": "野沢39",
+      "storeid": "saku-e8d042",
+      "shopid": "saku-e8d042-paypay"
+    },
+    {
+      "name": "ヘアレスト イデア",
+      "address": "野沢479-26",
+      "storeid": "saku-42a3ea",
+      "shopid": "saku-42a3ea-paypay"
+    },
+    {
+      "name": "repos..",
+      "address": "野沢606-1",
+      "storeid": "saku-acb457",
+      "shopid": "saku-acb457-paypay"
+    },
+    {
+      "name": "Wadacci",
+      "address": "野沢606-1",
+      "storeid": "saku-1d0c6b",
+      "shopid": "saku-1d0c6b-paypay"
+    },
+    {
+      "name": "喫茶あるいは",
+      "address": "野沢6-1",
+      "storeid": "saku-9bdca8",
+      "shopid": "saku-9bdca8-paypay"
+    },
+    {
+      "name": "パソコン修理24 長野佐久店",
+      "address": "野沢93",
+      "storeid": "saku-2b3729",
+      "shopid": "saku-2b3729-paypay"
+    },
+    {
+      "name": "Men's Hair KOMAMURA",
+      "address": "野沢93-1",
+      "storeid": "saku-7e8451",
+      "shopid": "saku-7e8451-paypay"
+    },
+    {
+      "name": "酒のスーパータカギ 佐久野沢店",
+      "address": "野沢字下北田307-1",
+      "storeid": "saku-9c627a",
+      "shopid": "saku-9c627a-paypay"
     }
   ]
 }
