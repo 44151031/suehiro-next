@@ -217,12 +217,6 @@
       "shopid": "saku-278356-paypay"
     },
     {
-      "name": "rodcontrol（本社）",
-      "address": "臼田2292-6",
-      "storeid": "saku-d45dec",
-      "shopid": "saku-d45dec-paypay"
-    },
-    {
       "name": "キーロック臼田本店",
       "address": "臼田2295-3",
       "storeid": "saku-c5fce3",
@@ -407,12 +401,6 @@
       "address": "横根746-8",
       "storeid": "saku-75a059",
       "shopid": "saku-75a059-paypay"
-    },
-    {
-      "name": "酒のスーパータカギ 佐久IC店",
-      "address": "横根753-1",
-      "storeid": "saku-12d955",
-      "shopid": "saku-12d955-paypay"
     },
     {
       "name": "KiKi",
@@ -977,12 +965,6 @@
       "address": "岩村田4469-1",
       "storeid": "saku-92d693",
       "shopid": "saku-92d693-paypay"
-    },
-    {
-      "name": "中島タタミ店",
-      "address": "岩村田4496-5",
-      "storeid": "saku-1bdd7f",
-      "shopid": "saku-1bdd7f-paypay"
     },
     {
       "name": "payforward",
@@ -2575,12 +2557,6 @@
       "shopid": "saku-02bdf8-paypay"
     },
     {
-      "name": "居酒屋 さわ",
-      "address": "中込3237-1",
-      "storeid": "saku-8d089b",
-      "shopid": "saku-8d089b-paypay"
-    },
-    {
       "name": "HAIR SALON BOA SORTE",
       "address": "中込3266-16",
       "storeid": "saku-b6fc6f",
@@ -3091,12 +3067,6 @@
       "shopid": "saku-ebc29d-paypay"
     },
     {
-      "name": "Cafe ひまわり畑",
-      "address": "布施769-1",
-      "storeid": "saku-37fc56",
-      "shopid": "saku-37fc56-paypay"
-    },
-    {
       "name": "信州 チーズの樹",
       "address": "布施8-319",
       "storeid": "saku-4243ec",
@@ -3145,12 +3115,6 @@
       "shopid": "saku-a78947-paypay"
     },
     {
-      "name": "柳田商店",
-      "address": "蓬田489-1",
-      "storeid": "saku-b1300d",
-      "shopid": "saku-b1300d-paypay"
-    },
-    {
       "name": "木村屋菓子店",
       "address": "望月106",
       "storeid": "saku-131c3c",
@@ -3167,12 +3131,6 @@
       "address": "望月1506-3",
       "storeid": "saku-013021",
       "shopid": "saku-013021-paypay"
-    },
-    {
-      "name": "SOL",
-      "address": "望月1517-2",
-      "storeid": "saku-a986b0",
-      "shopid": "saku-a986b0-paypay"
     },
     {
       "name": "喜月堂",
@@ -3209,12 +3167,6 @@
       "address": "望月680-1",
       "storeid": "saku-c7c876",
       "shopid": "saku-c7c876-paypay"
-    },
-    {
-      "name": "ハートステージ",
-      "address": "北川463-1",
-      "storeid": "saku-be698c",
-      "shopid": "saku-be698c-paypay"
     },
     {
       "name": "冨士重機",
@@ -3305,12 +3257,6 @@
       "address": "野沢306-12",
       "storeid": "saku-05edd0",
       "shopid": "saku-05edd0-paypay"
-    },
-    {
-      "name": "MF CLUB24佐久店",
-      "address": "野沢307-1",
-      "storeid": "saku-a97094",
-      "shopid": "saku-a97094-paypay"
     },
     {
       "name": "はなおか 野沢店",
