@@ -1,0 +1,304 @@
+{
+  "飲食店": [
+    {
+      "name": "きんしゃい亭",
+      "storeid": "nogi-46f14d",
+      "shopid": "nogi-46f14d-paypay"
+    },
+    {
+      "name": "そば処巴屋",
+      "storeid": "nogi-345585",
+      "shopid": "nogi-345585-paypay"
+    },
+    {
+      "name": "Curry&Cafe Miraiカレーハウス",
+      "storeid": "nogi-7d3046",
+      "shopid": "nogi-7d3046-paypay"
+    },
+    {
+      "name": "匠丼屋てん八",
+      "storeid": "nogi-38809a",
+      "shopid": "nogi-38809a-paypay"
+    },
+    {
+      "name": "squirrel rest cafe",
+      "storeid": "nogi-8cdabc",
+      "shopid": "nogi-8cdabc-paypay"
+    },
+    {
+      "name": "一の坊",
+      "storeid": "nogi-0b3ee9",
+      "shopid": "nogi-0b3ee9-paypay"
+    }
+  ],
+  "家電": [
+    {
+      "name": "岡部電器",
+      "storeid": "nogi-02cf2e",
+      "shopid": "nogi-02cf2e-paypay"
+    },
+    {
+      "name": "虎屋電機",
+      "storeid": "nogi-1f892a",
+      "shopid": "nogi-1f892a-paypay"
+    },
+    {
+      "name": "野間電設",
+      "storeid": "nogi-229e2d",
+      "shopid": "nogi-229e2d-paypay"
+    },
+    {
+      "name": "小澤製粉販売",
+      "storeid": "nogi-d34f88",
+      "shopid": "nogi-d34f88-paypay"
+    }
+  ],
+  "ヘアサロン・理美容": [
+    {
+      "name": "美容室ローテローゼオリティサロン",
+      "storeid": "nogi-5f14d6",
+      "shopid": "nogi-5f14d6-paypay"
+    },
+    {
+      "name": "hair salon taki",
+      "storeid": "nogi-70daca",
+      "shopid": "nogi-70daca-paypay"
+    },
+    {
+      "name": "Esthetiic salon etoile",
+      "storeid": "nogi-8675a0",
+      "shopid": "nogi-8675a0-paypay"
+    },
+    {
+      "name": "Solil",
+      "storeid": "nogi-d67294",
+      "shopid": "nogi-d67294-paypay"
+    },
+    {
+      "name": "JUNVTION  HAIR GALLERY",
+      "storeid": "nogi-0195b7",
+      "shopid": "nogi-0195b7-paypay"
+    },
+    {
+      "name": "サークルサークル",
+      "storeid": "nogi-cecf22",
+      "shopid": "nogi-cecf22-paypay"
+    },
+    {
+      "name": "小顔矯正サロンOjyas",
+      "storeid": "nogi-58af7e",
+      "shopid": "nogi-58af7e-paypay"
+    },
+    {
+      "name": "サロンドみんみん",
+      "storeid": "nogi-34e8f2",
+      "shopid": "nogi-34e8f2-paypay"
+    },
+    {
+      "name": "FILLnail",
+      "storeid": "nogi-0e0422",
+      "shopid": "nogi-0e0422-paypay"
+    },
+    {
+      "name": "SS BEAUTY SALON",
+      "storeid": "nogi-7a9c71",
+      "shopid": "nogi-7a9c71-paypay"
+    },
+    {
+      "name": "美容室リンクス",
+      "storeid": "nogi-21307c",
+      "shopid": "nogi-21307c-paypay"
+    },
+    {
+      "name": "Lotus",
+      "storeid": "nogi-040a7f",
+      "shopid": "nogi-040a7f-paypay"
+    },
+    {
+      "name": "美容室ののはな",
+      "storeid": "nogi-40fada",
+      "shopid": "nogi-40fada-paypay"
+    },
+    {
+      "name": "美容室kaRacu",
+      "storeid": "nogi-cf894c",
+      "shopid": "nogi-cf894c-paypay"
+    },
+    {
+      "name": "プレル",
+      "storeid": "nogi-d184db",
+      "shopid": "nogi-d184db-paypay"
+    },
+    {
+      "name": "Secret Venus",
+      "storeid": "nogi-095c06",
+      "shopid": "nogi-095c06-paypay"
+    }
+  ],
+  "マッサージ": [
+    {
+      "name": "カイロプラクティックのぎ健康院",
+      "storeid": "nogi-bc52f7",
+      "shopid": "nogi-bc52f7-paypay"
+    },
+    {
+      "name": "腰痛専門整体院とんち",
+      "storeid": "nogi-b77848",
+      "shopid": "nogi-b77848-paypay"
+    },
+    {
+      "name": "ライブリー整骨院",
+      "storeid": "nogi-a36df3",
+      "shopid": "nogi-a36df3-paypay"
+    },
+    {
+      "name": "しあわせはり・きゅう院　いしてる氣功室",
+      "storeid": "nogi-8ae344",
+      "shopid": "nogi-8ae344-paypay"
+    },
+    {
+      "name": "クリーニングフルフル",
+      "storeid": "nogi-6bf821",
+      "shopid": "nogi-6bf821-paypay"
+    }
+  ],
+  "クリーニング": [
+    {
+      "name": "有限会社栃木ドライ",
+      "storeid": "nogi-e1f2df",
+      "shopid": "nogi-e1f2df-paypay"
+    },
+    {
+      "name": "ワニワニ堂",
+      "storeid": "nogi-70aa5c",
+      "shopid": "nogi-70aa5c-paypay"
+    },
+    {
+      "name": "すまいるタッチ",
+      "storeid": "nogi-26a288",
+      "shopid": "nogi-26a288-paypay"
+    },
+    {
+      "name": "ドッグサロンonevbi",
+      "storeid": "nogi-8087cf",
+      "shopid": "nogi-8087cf-paypay"
+    }
+  ],
+  "その他": [
+    {
+      "name": "三田商会",
+      "storeid": "nogi-5c2483",
+      "shopid": "nogi-5c2483-paypay"
+    },
+    {
+      "name": "新井モータース",
+      "storeid": "nogi-f3cad1",
+      "shopid": "nogi-f3cad1-paypay"
+    },
+    {
+      "name": "野木の館",
+      "storeid": "nogi-29e0bf",
+      "shopid": "nogi-29e0bf-paypay"
+    },
+    {
+      "name": "ホワストスタジオ",
+      "storeid": "nogi-74c7db",
+      "shopid": "nogi-74c7db-paypay"
+    },
+    {
+      "name": "アロマサロンAlbireo",
+      "storeid": "nogi-ba5432",
+      "shopid": "nogi-ba5432-paypay"
+    },
+    {
+      "name": "リチェルカ",
+      "storeid": "nogi-535ba9",
+      "shopid": "nogi-535ba9-paypay"
+    },
+    {
+      "name": "川嶋自動車工場",
+      "storeid": "nogi-8e0778",
+      "shopid": "nogi-8e0778-paypay"
+    },
+    {
+      "name": "PB",
+      "storeid": "nogi-cd203c",
+      "shopid": "nogi-cd203c-paypay"
+    },
+    {
+      "name": "野木自動車整備工場",
+      "storeid": "nogi-28aa67",
+      "shopid": "nogi-28aa67-paypay"
+    },
+    {
+      "name": "リフォ吉",
+      "storeid": "nogi-fd04e5",
+      "shopid": "nogi-fd04e5-paypay"
+    },
+    {
+      "name": "FREAKINWORKS",
+      "storeid": "nogi-885a08",
+      "shopid": "nogi-885a08-paypay"
+    },
+    {
+      "name": "MAVERICK",
+      "storeid": "nogi-4a53c4",
+      "shopid": "nogi-4a53c4-paypay"
+    },
+    {
+      "name": "中野自動車オフィスナカノ",
+      "storeid": "nogi-cc2f3c",
+      "shopid": "nogi-cc2f3c-paypay"
+    },
+    {
+      "name": "大高畳店",
+      "storeid": "nogi-b1ccc4",
+      "shopid": "nogi-b1ccc4-paypay"
+    },
+    {
+      "name": "山田農機具店",
+      "storeid": "nogi-e601e1",
+      "shopid": "nogi-e601e1-paypay"
+    },
+    {
+      "name": "ワイ・テイ・ビイ　カリスマ倶楽部　陽だまり",
+      "storeid": "nogi-25eb9b",
+      "shopid": "nogi-25eb9b-paypay"
+    },
+    {
+      "name": "整体サロン・で・たての",
+      "storeid": "nogi-99d06e",
+      "shopid": "nogi-99d06e-paypay"
+    },
+    {
+      "name": "グッド",
+      "storeid": "nogi-fde065",
+      "shopid": "nogi-fde065-paypay"
+    },
+    {
+      "name": "SM TRADING",
+      "storeid": "nogi-1e9a23",
+      "shopid": "nogi-1e9a23-paypay"
+    },
+    {
+      "name": "小川自動車",
+      "storeid": "nogi-0f98bc",
+      "shopid": "nogi-0f98bc-paypay"
+    },
+    {
+      "name": "奈良サッシ",
+      "storeid": "nogi-5a9150",
+      "shopid": "nogi-5a9150-paypay"
+    },
+    {
+      "name": "JOYミラクルパソコンスクール",
+      "storeid": "nogi-253174",
+      "shopid": "nogi-253174-paypay"
+    },
+    {
+      "name": "第一緑人",
+      "storeid": "nogi-d4d1d6",
+      "shopid": "nogi-d4d1d6-paypay"
+    }
+  ]
+}
