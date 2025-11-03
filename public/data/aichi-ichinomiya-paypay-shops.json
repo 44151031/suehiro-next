@@ -1,0 +1,567 @@
+{
+  "スーパー": [
+    {
+      "name": "ナフコ不二屋",
+      "storeid": "ichinomiya-4a2e10",
+      "shopid": "ichinomiya-4a2e10-paypay"
+    },
+    {
+      "name": "ヤマナカ一宮フランテ館",
+      "storeid": "ichinomiya-978551",
+      "shopid": "ichinomiya-978551-paypay"
+    },
+    {
+      "name": "アオキスーパー",
+      "storeid": "ichinomiya-f8064a",
+      "shopid": "ichinomiya-f8064a-paypay"
+    },
+    {
+      "name": "綿半フレッシュマーケット",
+      "storeid": "ichinomiya-7bd417",
+      "shopid": "ichinomiya-7bd417-paypay"
+    },
+    {
+      "name": "スーパー三進",
+      "storeid": "ichinomiya-2e9699",
+      "shopid": "ichinomiya-2e9699-paypay"
+    },
+    {
+      "name": "平和堂",
+      "storeid": "ichinomiya-c5f735",
+      "shopid": "ichinomiya-c5f735-paypay"
+    },
+    {
+      "name": "平和堂ビバホーム",
+      "storeid": "ichinomiya-2528e3",
+      "shopid": "ichinomiya-2528e3-paypay"
+    },
+    {
+      "name": "西友",
+      "storeid": "ichinomiya-1ed9cf",
+      "shopid": "ichinomiya-1ed9cf-paypay"
+    },
+    {
+      "name": "クリエイトエス・ディー",
+      "storeid": "ichinomiya-187f82",
+      "shopid": "ichinomiya-187f82-paypay"
+    },
+    {
+      "name": "アミカ",
+      "storeid": "ichinomiya-860957",
+      "shopid": "ichinomiya-860957-paypay"
+    },
+    {
+      "name": "ウキナオ",
+      "storeid": "ichinomiya-6856e8",
+      "shopid": "ichinomiya-6856e8-paypay"
+    }
+  ],
+  "百貨店・ショッピングセンター": [
+    {
+      "name": "ソレイユスマートフォンケースストア",
+      "storeid": "ichinomiya-6eadcd",
+      "shopid": "ichinomiya-6eadcd-paypay"
+    },
+    {
+      "name": "春日建材",
+      "storeid": "ichinomiya-889a1a",
+      "shopid": "ichinomiya-889a1a-paypay"
+    },
+    {
+      "name": "ひろっと",
+      "storeid": "ichinomiya-5c9f9d",
+      "shopid": "ichinomiya-5c9f9d-paypay"
+    }
+  ],
+  "ドラッグストア・薬局": [
+    {
+      "name": "サンドラッグ",
+      "storeid": "ichinomiya-dd55c5",
+      "shopid": "ichinomiya-dd55c5-paypay"
+    },
+    {
+      "name": "ドラッグスギヤマ",
+      "storeid": "ichinomiya-96ddd1",
+      "shopid": "ichinomiya-96ddd1-paypay"
+    },
+    {
+      "name": "ウエルシア",
+      "storeid": "ichinomiya-c1e567",
+      "shopid": "ichinomiya-c1e567-paypay"
+    },
+    {
+      "name": "AEONイオンモール",
+      "storeid": "ichinomiya-c22ef0",
+      "shopid": "ichinomiya-c22ef0-paypay"
+    },
+    {
+      "name": "キョーワ薬局",
+      "storeid": "ichinomiya-562028",
+      "shopid": "ichinomiya-562028-paypay"
+    },
+    {
+      "name": "さとこまき調剤薬局",
+      "storeid": "ichinomiya-c67949",
+      "shopid": "ichinomiya-c67949-paypay"
+    },
+    {
+      "name": "トーカイ薬局",
+      "storeid": "ichinomiya-b9e805",
+      "shopid": "ichinomiya-b9e805-paypay"
+    },
+    {
+      "name": "こたつ薬局",
+      "storeid": "ichinomiya-60091c",
+      "shopid": "ichinomiya-60091c-paypay"
+    },
+    {
+      "name": "フラワー薬局",
+      "storeid": "ichinomiya-9202b8",
+      "shopid": "ichinomiya-9202b8-paypay"
+    },
+    {
+      "name": "あろは薬局",
+      "storeid": "ichinomiya-14d0b5",
+      "shopid": "ichinomiya-14d0b5-paypay"
+    },
+    {
+      "name": "たんぽぽ薬局",
+      "storeid": "ichinomiya-5e1b3d",
+      "shopid": "ichinomiya-5e1b3d-paypay"
+    },
+    {
+      "name": "ソフト・ピア",
+      "storeid": "ichinomiya-639ea6",
+      "shopid": "ichinomiya-639ea6-paypay"
+    },
+    {
+      "name": "エースファルマ",
+      "storeid": "ichinomiya-9ea72e",
+      "shopid": "ichinomiya-9ea72e-paypay"
+    },
+    {
+      "name": "ほほえみ薬局",
+      "storeid": "ichinomiya-f04898",
+      "shopid": "ichinomiya-f04898-paypay"
+    },
+    {
+      "name": "はぎわら調剤薬局",
+      "storeid": "ichinomiya-5b5cd0",
+      "shopid": "ichinomiya-5b5cd0-paypay"
+    },
+    {
+      "name": "大江調剤薬局",
+      "storeid": "ichinomiya-eb07e7",
+      "shopid": "ichinomiya-eb07e7-paypay"
+    },
+    {
+      "name": "ひびき調剤",
+      "storeid": "ichinomiya-7dab55",
+      "shopid": "ichinomiya-7dab55-paypay"
+    },
+    {
+      "name": "ハヤミ薬局",
+      "storeid": "ichinomiya-168d3f",
+      "shopid": "ichinomiya-168d3f-paypay"
+    },
+    {
+      "name": "クオール薬局",
+      "storeid": "ichinomiya-3c69cd",
+      "shopid": "ichinomiya-3c69cd-paypay"
+    },
+    {
+      "name": "みどり調剤薬局",
+      "storeid": "ichinomiya-7584ba",
+      "shopid": "ichinomiya-7584ba-paypay"
+    },
+    {
+      "name": "だいし調剤薬局",
+      "storeid": "ichinomiya-7cf190",
+      "shopid": "ichinomiya-7cf190-paypay"
+    },
+    {
+      "name": "原薬局",
+      "storeid": "ichinomiya-09db54",
+      "shopid": "ichinomiya-09db54-paypay"
+    },
+    {
+      "name": "なの花薬局",
+      "storeid": "ichinomiya-b3e0b7",
+      "shopid": "ichinomiya-b3e0b7-paypay"
+    },
+    {
+      "name": "あすか",
+      "storeid": "ichinomiya-eb091f",
+      "shopid": "ichinomiya-eb091f-paypay"
+    },
+    {
+      "name": "ポトス薬局",
+      "storeid": "ichinomiya-99bece",
+      "shopid": "ichinomiya-99bece-paypay"
+    },
+    {
+      "name": "クローバー薬局",
+      "storeid": "ichinomiya-1ce9b6",
+      "shopid": "ichinomiya-1ce9b6-paypay"
+    },
+    {
+      "name": "パール調剤薬局",
+      "storeid": "ichinomiya-38891b",
+      "shopid": "ichinomiya-38891b-paypay"
+    },
+    {
+      "name": "コスモス調剤薬局",
+      "storeid": "ichinomiya-a5a36e",
+      "shopid": "ichinomiya-a5a36e-paypay"
+    },
+    {
+      "name": "カメイ調剤薬局",
+      "storeid": "ichinomiya-21bd36",
+      "shopid": "ichinomiya-21bd36-paypay"
+    }
+  ],
+  "ショッピング": [
+    {
+      "name": "ワッツ",
+      "storeid": "ichinomiya-969afa",
+      "shopid": "ichinomiya-969afa-paypay"
+    },
+    {
+      "name": "グルマンヴィタル",
+      "storeid": "ichinomiya-58ad73",
+      "shopid": "ichinomiya-58ad73-paypay"
+    },
+    {
+      "name": "V・ドラッグ",
+      "storeid": "ichinomiya-ffe4ff",
+      "shopid": "ichinomiya-ffe4ff-paypay"
+    },
+    {
+      "name": "しまむら",
+      "storeid": "ichinomiya-e04c62",
+      "shopid": "ichinomiya-e04c62-paypay"
+    },
+    {
+      "name": "おかしの里",
+      "storeid": "ichinomiya-2bab55",
+      "shopid": "ichinomiya-2bab55-paypay"
+    },
+    {
+      "name": "から揚げ専門店　から輔",
+      "storeid": "ichinomiya-83d2c8",
+      "shopid": "ichinomiya-83d2c8-paypay"
+    },
+    {
+      "name": "ユニクロ　イオンモール木曽川店",
+      "storeid": "ichinomiya-1e5a25",
+      "shopid": "ichinomiya-1e5a25-paypay"
+    },
+    {
+      "name": "ダイソー",
+      "storeid": "ichinomiya-9088f8",
+      "shopid": "ichinomiya-9088f8-paypay"
+    },
+    {
+      "name": "ジーユー　イオンモール木曽川店",
+      "storeid": "ichinomiya-d0b635",
+      "shopid": "ichinomiya-d0b635-paypay"
+    },
+    {
+      "name": "ニトリ",
+      "storeid": "ichinomiya-8daf03",
+      "shopid": "ichinomiya-8daf03-paypay"
+    },
+    {
+      "name": "セリア",
+      "storeid": "ichinomiya-d745be",
+      "shopid": "ichinomiya-d745be-paypay"
+    },
+    {
+      "name": "スギドラッグ",
+      "storeid": "ichinomiya-31208b",
+      "shopid": "ichinomiya-31208b-paypay"
+    },
+    {
+      "name": "アベイル",
+      "storeid": "ichinomiya-8274e4",
+      "shopid": "ichinomiya-8274e4-paypay"
+    },
+    {
+      "name": "トイザラス",
+      "storeid": "ichinomiya-6ed3b7",
+      "shopid": "ichinomiya-6ed3b7-paypay"
+    },
+    {
+      "name": "Joshin",
+      "storeid": "ichinomiya-cd6b3e",
+      "shopid": "ichinomiya-cd6b3e-paypay"
+    },
+    {
+      "name": "精文館書店",
+      "storeid": "ichinomiya-62c49c",
+      "shopid": "ichinomiya-62c49c-paypay"
+    },
+    {
+      "name": "未来屋書店",
+      "storeid": "ichinomiya-99de29",
+      "shopid": "ichinomiya-99de29-paypay"
+    },
+    {
+      "name": "シャトレーゼ",
+      "storeid": "ichinomiya-1a5567",
+      "shopid": "ichinomiya-1a5567-paypay"
+    },
+    {
+      "name": "ホームセンターコーナン",
+      "storeid": "ichinomiya-5352b7",
+      "shopid": "ichinomiya-5352b7-paypay"
+    },
+    {
+      "name": "マツモトキヨシ",
+      "storeid": "ichinomiya-74bcf1",
+      "shopid": "ichinomiya-74bcf1-paypay"
+    },
+    {
+      "name": "くまざわ書店",
+      "storeid": "ichinomiya-d2c992",
+      "shopid": "ichinomiya-d2c992-paypay"
+    },
+    {
+      "name": "ユニーテラスウォーク",
+      "storeid": "ichinomiya-3e63af",
+      "shopid": "ichinomiya-3e63af-paypay"
+    },
+    {
+      "name": "サンキ",
+      "storeid": "ichinomiya-0c44be",
+      "shopid": "ichinomiya-0c44be-paypay"
+    },
+    {
+      "name": "壱輝",
+      "storeid": "ichinomiya-1fca39",
+      "shopid": "ichinomiya-1fca39-paypay"
+    },
+    {
+      "name": "エディオン",
+      "storeid": "ichinomiya-5b781c",
+      "shopid": "ichinomiya-5b781c-paypay"
+    },
+    {
+      "name": "酒ゃビック",
+      "storeid": "ichinomiya-12c6ce",
+      "shopid": "ichinomiya-12c6ce-paypay"
+    },
+    {
+      "name": "宮脇書店尾西店",
+      "storeid": "ichinomiya-f9e49b",
+      "shopid": "ichinomiya-f9e49b-paypay"
+    },
+    {
+      "name": "ら・カンパーニュ",
+      "storeid": "ichinomiya-d517bf",
+      "shopid": "ichinomiya-d517bf-paypay"
+    },
+    {
+      "name": "スーパースポーツゼビオ",
+      "storeid": "ichinomiya-75b8d8",
+      "shopid": "ichinomiya-75b8d8-paypay"
+    },
+    {
+      "name": "農業屋",
+      "storeid": "ichinomiya-9a1e00",
+      "shopid": "ichinomiya-9a1e00-paypay"
+    },
+    {
+      "name": "西松屋",
+      "storeid": "ichinomiya-fac701",
+      "shopid": "ichinomiya-fac701-paypay"
+    },
+    {
+      "name": "トレカチャンピオン",
+      "storeid": "ichinomiya-e878c2",
+      "shopid": "ichinomiya-e878c2-paypay"
+    },
+    {
+      "name": "HARE/PAN",
+      "storeid": "ichinomiya-2f1992",
+      "shopid": "ichinomiya-2f1992-paypay"
+    },
+    {
+      "name": "ピク・ニケ",
+      "storeid": "ichinomiya-a6aee4",
+      "shopid": "ichinomiya-a6aee4-paypay"
+    },
+    {
+      "name": "宝島",
+      "storeid": "ichinomiya-5acdab",
+      "shopid": "ichinomiya-5acdab-paypay"
+    },
+    {
+      "name": "DAY to DAY BAKERY",
+      "storeid": "ichinomiya-ae0b80",
+      "shopid": "ichinomiya-ae0b80-paypay"
+    },
+    {
+      "name": "ふるいち",
+      "storeid": "ichinomiya-171e94",
+      "shopid": "ichinomiya-171e94-paypay"
+    },
+    {
+      "name": "リヴェール",
+      "storeid": "ichinomiya-20b3fa",
+      "shopid": "ichinomiya-20b3fa-paypay"
+    },
+    {
+      "name": "一真堂書店",
+      "storeid": "ichinomiya-9ba387",
+      "shopid": "ichinomiya-9ba387-paypay"
+    }
+  ],
+  "飲食": [
+    {
+      "name": "うどん市",
+      "storeid": "ichinomiya-a684c7",
+      "shopid": "ichinomiya-a684c7-paypay"
+    },
+    {
+      "name": "くら寿司",
+      "storeid": "ichinomiya-69e7e7",
+      "shopid": "ichinomiya-69e7e7-paypay"
+    },
+    {
+      "name": "はま寿司",
+      "storeid": "ichinomiya-f9e5ab",
+      "shopid": "ichinomiya-f9e5ab-paypay"
+    },
+    {
+      "name": "ケンタッキーフライドチキン",
+      "storeid": "ichinomiya-d5292c",
+      "shopid": "ichinomiya-d5292c-paypay"
+    },
+    {
+      "name": "麺場",
+      "storeid": "ichinomiya-2f12cd",
+      "shopid": "ichinomiya-2f12cd-paypay"
+    },
+    {
+      "name": "しまかぜ食堂",
+      "storeid": "ichinomiya-3c8fb7",
+      "shopid": "ichinomiya-3c8fb7-paypay"
+    },
+    {
+      "name": "サーティーワンアイスクリーム",
+      "storeid": "ichinomiya-9011ca",
+      "shopid": "ichinomiya-9011ca-paypay"
+    },
+    {
+      "name": "アルビノール",
+      "storeid": "ichinomiya-1675f1",
+      "shopid": "ichinomiya-1675f1-paypay"
+    },
+    {
+      "name": "すき家",
+      "storeid": "ichinomiya-762f52",
+      "shopid": "ichinomiya-762f52-paypay"
+    },
+    {
+      "name": "はなまるうどん",
+      "storeid": "ichinomiya-995dd1",
+      "shopid": "ichinomiya-995dd1-paypay"
+    },
+    {
+      "name": "サンマルクカフェ",
+      "storeid": "ichinomiya-392349",
+      "shopid": "ichinomiya-392349-paypay"
+    },
+    {
+      "name": "なか卯",
+      "storeid": "ichinomiya-b937a8",
+      "shopid": "ichinomiya-b937a8-paypay"
+    },
+    {
+      "name": "カンツバキnobu",
+      "storeid": "ichinomiya-4dd30d",
+      "shopid": "ichinomiya-4dd30d-paypay"
+    },
+    {
+      "name": "コメダ珈琲店",
+      "storeid": "ichinomiya-db09b6",
+      "shopid": "ichinomiya-db09b6-paypay"
+    },
+    {
+      "name": "魚魚丸",
+      "storeid": "ichinomiya-457917",
+      "shopid": "ichinomiya-457917-paypay"
+    },
+    {
+      "name": "美食屋あじへい",
+      "storeid": "ichinomiya-a71f46",
+      "shopid": "ichinomiya-a71f46-paypay"
+    },
+    {
+      "name": "とんかつたる蔵",
+      "storeid": "ichinomiya-c7bfd5",
+      "shopid": "ichinomiya-c7bfd5-paypay"
+    },
+    {
+      "name": "どんきゅう",
+      "storeid": "ichinomiya-6c83ec",
+      "shopid": "ichinomiya-6c83ec-paypay"
+    },
+    {
+      "name": "唐揚げの大善",
+      "storeid": "ichinomiya-04fe79",
+      "shopid": "ichinomiya-04fe79-paypay"
+    },
+    {
+      "name": "茶房迎賓館",
+      "storeid": "ichinomiya-ac1bf8",
+      "shopid": "ichinomiya-ac1bf8-paypay"
+    },
+    {
+      "name": "珈琲家暖香",
+      "storeid": "ichinomiya-99b706",
+      "shopid": "ichinomiya-99b706-paypay"
+    },
+    {
+      "name": "一刻魁堂",
+      "storeid": "ichinomiya-1beb04",
+      "shopid": "ichinomiya-1beb04-paypay"
+    },
+    {
+      "name": "珈琲屋らんぷ",
+      "storeid": "ichinomiya-9037a1",
+      "shopid": "ichinomiya-9037a1-paypay"
+    },
+    {
+      "name": "四川料理萬福",
+      "storeid": "ichinomiya-96e932",
+      "shopid": "ichinomiya-96e932-paypay"
+    },
+    {
+      "name": "ラーメンあかつき",
+      "storeid": "ichinomiya-1c3677",
+      "shopid": "ichinomiya-1c3677-paypay"
+    },
+    {
+      "name": "浜木綿",
+      "storeid": "ichinomiya-1ebe92",
+      "shopid": "ichinomiya-1ebe92-paypay"
+    },
+    {
+      "name": "Cafeまお",
+      "storeid": "ichinomiya-5edcd2",
+      "shopid": "ichinomiya-5edcd2-paypay"
+    },
+    {
+      "name": "ブーランジェリー　リヴィエール",
+      "storeid": "ichinomiya-e9a783",
+      "shopid": "ichinomiya-e9a783-paypay"
+    },
+    {
+      "name": "もち吉",
+      "storeid": "ichinomiya-fd2ed3",
+      "shopid": "ichinomiya-fd2ed3-paypay"
+    }
+  ]
+}
