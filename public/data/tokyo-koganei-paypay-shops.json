@@ -1,0 +1,1522 @@
+{
+  "スーパーマーケット": [
+    {
+      "name": "グレース",
+      "storeid": "koganei-87c27b",
+      "shopid": "koganei-87c27b-paypay"
+    },
+    {
+      "name": "興友商店",
+      "storeid": "koganei-127386",
+      "shopid": "koganei-127386-paypay"
+    }
+  ],
+  "ホームセンター": [
+    {
+      "name": "SOBANi",
+      "storeid": "koganei-190441",
+      "shopid": "koganei-190441-paypay"
+    }
+  ],
+  "ドラッグストア・薬局": [
+    {
+      "name": "漢方専門",
+      "storeid": "koganei-fd4063",
+      "shopid": "koganei-fd4063-paypay"
+    },
+    {
+      "name": "IKUKO",
+      "storeid": "koganei-6aed28",
+      "shopid": "koganei-6aed28-paypay"
+    },
+    {
+      "name": "愛徳薬局",
+      "storeid": "koganei-026c80",
+      "shopid": "koganei-026c80-paypay"
+    }
+  ],
+  "架電": [
+    {
+      "name": "合同出版",
+      "storeid": "koganei-b9479b",
+      "shopid": "koganei-b9479b-paypay"
+    },
+    {
+      "name": "有限会社木原商店",
+      "storeid": "koganei-f34ecd",
+      "shopid": "koganei-f34ecd-paypay"
+    },
+    {
+      "name": "ヨシタ手工業デザイン室",
+      "storeid": "koganei-d4cd08",
+      "shopid": "koganei-d4cd08-paypay"
+    },
+    {
+      "name": "小金井電化サービス",
+      "storeid": "koganei-e8cd27",
+      "shopid": "koganei-e8cd27-paypay"
+    },
+    {
+      "name": "金沢でんき",
+      "storeid": "koganei-0c25e0",
+      "shopid": "koganei-0c25e0-paypay"
+    },
+    {
+      "name": "アヴァン・ヌクイ",
+      "storeid": "koganei-c7575d",
+      "shopid": "koganei-c7575d-paypay"
+    },
+    {
+      "name": "かぞこて",
+      "storeid": "koganei-31a7d2",
+      "shopid": "koganei-31a7d2-paypay"
+    },
+    {
+      "name": "換気空間",
+      "storeid": "koganei-69fea6",
+      "shopid": "koganei-69fea6-paypay"
+    },
+    {
+      "name": "スタジオ34",
+      "storeid": "koganei-71ab0b",
+      "shopid": "koganei-71ab0b-paypay"
+    }
+  ],
+  "その他": [
+    {
+      "name": "オープンミトン",
+      "storeid": "koganei-533a7b",
+      "shopid": "koganei-533a7b-paypay"
+    },
+    {
+      "name": "アトリエ辻東京",
+      "storeid": "koganei-cad1c4",
+      "shopid": "koganei-cad1c4-paypay"
+    },
+    {
+      "name": "宮地楽器",
+      "storeid": "koganei-9c806f",
+      "shopid": "koganei-9c806f-paypay"
+    },
+    {
+      "name": "PRANKS COFFEE",
+      "storeid": "koganei-19349d",
+      "shopid": "koganei-19349d-paypay"
+    },
+    {
+      "name": "こがねや石材",
+      "storeid": "koganei-b8b193",
+      "shopid": "koganei-b8b193-paypay"
+    },
+    {
+      "name": "ふじかわフォトサービス",
+      "storeid": "koganei-53db39",
+      "shopid": "koganei-53db39-paypay"
+    },
+    {
+      "name": "靴修理・合鍵作製　ウィンリペア",
+      "storeid": "koganei-4137bf",
+      "shopid": "koganei-4137bf-paypay"
+    },
+    {
+      "name": "尾久自動車学校",
+      "storeid": "koganei-28c5e9",
+      "shopid": "koganei-28c5e9-paypay"
+    },
+    {
+      "name": "せんぼんぎのうえん",
+      "storeid": "koganei-cc9e25",
+      "shopid": "koganei-cc9e25-paypay"
+    },
+    {
+      "name": "ハンド動物病院",
+      "storeid": "koganei-59ec71",
+      "shopid": "koganei-59ec71-paypay"
+    },
+    {
+      "name": "WARE商店",
+      "storeid": "koganei-7e8c43",
+      "shopid": "koganei-7e8c43-paypay"
+    },
+    {
+      "name": "ALLONE小金井病院",
+      "storeid": "koganei-526183",
+      "shopid": "koganei-526183-paypay"
+    },
+    {
+      "name": "立花家石材店",
+      "storeid": "koganei-93df8c",
+      "shopid": "koganei-93df8c-paypay"
+    },
+    {
+      "name": "Chappy Yarn",
+      "storeid": "koganei-3771b6",
+      "shopid": "koganei-3771b6-paypay"
+    },
+    {
+      "name": "山田サイクル",
+      "storeid": "koganei-d284f5",
+      "shopid": "koganei-d284f5-paypay"
+    },
+    {
+      "name": "小金井自動車学校",
+      "storeid": "koganei-109b17",
+      "shopid": "koganei-109b17-paypay"
+    },
+    {
+      "name": "tant-tanzダンススタジオ",
+      "storeid": "koganei-75cd76",
+      "shopid": "koganei-75cd76-paypay"
+    },
+    {
+      "name": "LaniMoa",
+      "storeid": "koganei-021dee",
+      "shopid": "koganei-021dee-paypay"
+    },
+    {
+      "name": "東小金井くりやま通り動物病院",
+      "storeid": "koganei-8f71fc",
+      "shopid": "koganei-8f71fc-paypay"
+    },
+    {
+      "name": "まっすぐセイタイ",
+      "storeid": "koganei-c010cf",
+      "shopid": "koganei-c010cf-paypay"
+    },
+    {
+      "name": "藤本陶房",
+      "storeid": "koganei-146f23",
+      "shopid": "koganei-146f23-paypay"
+    },
+    {
+      "name": "もみリンク",
+      "storeid": "koganei-1c909d",
+      "shopid": "koganei-1c909d-paypay"
+    },
+    {
+      "name": "ソーイングスタジオ",
+      "storeid": "koganei-a0db4e",
+      "shopid": "koganei-a0db4e-paypay"
+    },
+    {
+      "name": "自家焙煎珈琲処青い月と猫",
+      "storeid": "koganei-97f010",
+      "shopid": "koganei-97f010-paypay"
+    },
+    {
+      "name": "古本はてなクラブ",
+      "storeid": "koganei-bd34e2",
+      "shopid": "koganei-bd34e2-paypay"
+    },
+    {
+      "name": "グルーミングハウスキッズ",
+      "storeid": "koganei-b93c10",
+      "shopid": "koganei-b93c10-paypay"
+    },
+    {
+      "name": "武蔵小金井店　無人古着屋",
+      "storeid": "koganei-d18b78",
+      "shopid": "koganei-d18b78-paypay"
+    },
+    {
+      "name": "FeelGreen",
+      "storeid": "koganei-7d0602",
+      "shopid": "koganei-7d0602-paypay"
+    },
+    {
+      "name": "ペットハウス・バウワウガーデン",
+      "storeid": "koganei-088da4",
+      "shopid": "koganei-088da4-paypay"
+    },
+    {
+      "name": "モーターサイクルジュピター",
+      "storeid": "koganei-cecb2a",
+      "shopid": "koganei-cecb2a-paypay"
+    },
+    {
+      "name": "おはな茶屋",
+      "storeid": "koganei-8725bb",
+      "shopid": "koganei-8725bb-paypay"
+    },
+    {
+      "name": "タイ式ストレッチKURA",
+      "storeid": "koganei-fa7212",
+      "shopid": "koganei-fa7212-paypay"
+    },
+    {
+      "name": "Perro　and Picco",
+      "storeid": "koganei-08ec81",
+      "shopid": "koganei-08ec81-paypay"
+    },
+    {
+      "name": "かいぬま動物病院",
+      "storeid": "koganei-17db65",
+      "shopid": "koganei-17db65-paypay"
+    },
+    {
+      "name": "小金井道場",
+      "storeid": "koganei-dfdf19",
+      "shopid": "koganei-dfdf19-paypay"
+    },
+    {
+      "name": "ワンルーク武蔵",
+      "storeid": "koganei-912545",
+      "shopid": "koganei-912545-paypay"
+    },
+    {
+      "name": "Studio青猫",
+      "storeid": "koganei-2ebf6b",
+      "shopid": "koganei-2ebf6b-paypay"
+    },
+    {
+      "name": "革靴専門修理AMOLIR",
+      "storeid": "koganei-07accf",
+      "shopid": "koganei-07accf-paypay"
+    },
+    {
+      "name": "ミシンのアイミ",
+      "storeid": "koganei-350861",
+      "shopid": "koganei-350861-paypay"
+    },
+    {
+      "name": "KAZE・HANA",
+      "storeid": "koganei-9d7915",
+      "shopid": "koganei-9d7915-paypay"
+    },
+    {
+      "name": "yamamoto",
+      "storeid": "koganei-d336b3",
+      "shopid": "koganei-d336b3-paypay"
+    },
+    {
+      "name": "ふっとはうす",
+      "storeid": "koganei-fc52e6",
+      "shopid": "koganei-fc52e6-paypay"
+    },
+    {
+      "name": "古道具　古賀",
+      "storeid": "koganei-217e18",
+      "shopid": "koganei-217e18-paypay"
+    },
+    {
+      "name": "ナナヨウオート",
+      "storeid": "koganei-8b58d2",
+      "shopid": "koganei-8b58d2-paypay"
+    },
+    {
+      "name": "カラダケア整体院",
+      "storeid": "koganei-66b59e",
+      "shopid": "koganei-66b59e-paypay"
+    },
+    {
+      "name": "空想製本家",
+      "storeid": "koganei-9265a5",
+      "shopid": "koganei-9265a5-paypay"
+    },
+    {
+      "name": "みずきソフト整体院",
+      "storeid": "koganei-f281c8",
+      "shopid": "koganei-f281c8-paypay"
+    },
+    {
+      "name": "リサイクルブティックCoCo",
+      "storeid": "koganei-ffba06",
+      "shopid": "koganei-ffba06-paypay"
+    },
+    {
+      "name": "pamcake&cafe",
+      "storeid": "koganei-d9de11",
+      "shopid": "koganei-d9de11-paypay"
+    },
+    {
+      "name": "アセトンサイクル",
+      "storeid": "koganei-7eb013",
+      "shopid": "koganei-7eb013-paypay"
+    },
+    {
+      "name": "中国式気功整体多福",
+      "storeid": "koganei-3569ec",
+      "shopid": "koganei-3569ec-paypay"
+    },
+    {
+      "name": "ぴかりーな",
+      "storeid": "koganei-1e1d41",
+      "shopid": "koganei-1e1d41-paypay"
+    },
+    {
+      "name": "ペットケアサービスおさんぽwan",
+      "storeid": "koganei-099e8f",
+      "shopid": "koganei-099e8f-paypay"
+    },
+    {
+      "name": "整体院　神薫",
+      "storeid": "koganei-a9164f",
+      "shopid": "koganei-a9164f-paypay"
+    },
+    {
+      "name": "ペットボックス",
+      "storeid": "koganei-211a0b",
+      "shopid": "koganei-211a0b-paypay"
+    },
+    {
+      "name": "あずきもなか犬服レッスン",
+      "storeid": "koganei-f651b7",
+      "shopid": "koganei-f651b7-paypay"
+    },
+    {
+      "name": "トルーシュスタジオ",
+      "storeid": "koganei-705e50",
+      "shopid": "koganei-705e50-paypay"
+    },
+    {
+      "name": "よりみち～こころとことば教室～",
+      "storeid": "koganei-9b24cf",
+      "shopid": "koganei-9b24cf-paypay"
+    },
+    {
+      "name": "アルパインスタイルトウキョウ",
+      "storeid": "koganei-a46648",
+      "shopid": "koganei-a46648-paypay"
+    },
+    {
+      "name": "ホーネストホームズ",
+      "storeid": "koganei-f49655",
+      "shopid": "koganei-f49655-paypay"
+    },
+    {
+      "name": "タイ式古式ストレッチフラミー",
+      "storeid": "koganei-45362f",
+      "shopid": "koganei-45362f-paypay"
+    },
+    {
+      "name": "益田動物病院",
+      "storeid": "koganei-ae718b",
+      "shopid": "koganei-ae718b-paypay"
+    },
+    {
+      "name": "And Still Picture.本店",
+      "storeid": "koganei-4a6d6d",
+      "shopid": "koganei-4a6d6d-paypay"
+    },
+    {
+      "name": "コガネイサロン",
+      "storeid": "koganei-5a4280",
+      "shopid": "koganei-5a4280-paypay"
+    },
+    {
+      "name": "カラオケうたたネ",
+      "storeid": "koganei-771e69",
+      "shopid": "koganei-771e69-paypay"
+    },
+    {
+      "name": "リモデル・スクエア山口屋",
+      "storeid": "koganei-ec030f",
+      "shopid": "koganei-ec030f-paypay"
+    },
+    {
+      "name": "スポーツプラザ　モトプラン",
+      "storeid": "koganei-0e4d7e",
+      "shopid": "koganei-0e4d7e-paypay"
+    },
+    {
+      "name": "ことり音楽室",
+      "storeid": "koganei-396772",
+      "shopid": "koganei-396772-paypay"
+    },
+    {
+      "name": "ヤマコヤ",
+      "storeid": "koganei-01aaff",
+      "shopid": "koganei-01aaff-paypay"
+    },
+    {
+      "name": "紫園",
+      "storeid": "koganei-4b7c27",
+      "shopid": "koganei-4b7c27-paypay"
+    },
+    {
+      "name": "as運転代行",
+      "storeid": "koganei-609178",
+      "shopid": "koganei-609178-paypay"
+    },
+    {
+      "name": "トリミング＆ケアサロンスマイリーココ",
+      "storeid": "koganei-c6374e",
+      "shopid": "koganei-c6374e-paypay"
+    },
+    {
+      "name": "uniproject",
+      "storeid": "koganei-8cfd21",
+      "shopid": "koganei-8cfd21-paypay"
+    },
+    {
+      "name": "アトリエ花暦",
+      "storeid": "koganei-f6aea1",
+      "shopid": "koganei-f6aea1-paypay"
+    },
+    {
+      "name": "笠峰新志",
+      "storeid": "koganei-e057a7",
+      "shopid": "koganei-e057a7-paypay"
+    },
+    {
+      "name": "株式会社くらしメンテ",
+      "storeid": "koganei-6ccedb",
+      "shopid": "koganei-6ccedb-paypay"
+    },
+    {
+      "name": "スタート",
+      "storeid": "koganei-9219fc",
+      "shopid": "koganei-9219fc-paypay"
+    },
+    {
+      "name": "マルセ・インターナショナル",
+      "storeid": "koganei-f4d727",
+      "shopid": "koganei-f4d727-paypay"
+    },
+    {
+      "name": "武蔵小金井のぞみ整体院2号店",
+      "storeid": "koganei-d23ffa",
+      "shopid": "koganei-d23ffa-paypay"
+    },
+    {
+      "name": "しあわせ工房宙",
+      "storeid": "koganei-43d545",
+      "shopid": "koganei-43d545-paypay"
+    },
+    {
+      "name": "ルームズ",
+      "storeid": "koganei-0cd733",
+      "shopid": "koganei-0cd733-paypay"
+    },
+    {
+      "name": "ランバージャック",
+      "storeid": "koganei-714858",
+      "shopid": "koganei-714858-paypay"
+    },
+    {
+      "name": "整体院Evergreen",
+      "storeid": "koganei-e6de54",
+      "shopid": "koganei-e6de54-paypay"
+    },
+    {
+      "name": "アルファ設備リフォーム窓口",
+      "storeid": "koganei-5aef3d",
+      "shopid": "koganei-5aef3d-paypay"
+    },
+    {
+      "name": "zaiyaLABO",
+      "storeid": "koganei-9dcc21",
+      "shopid": "koganei-9dcc21-paypay"
+    },
+    {
+      "name": "心絵",
+      "storeid": "koganei-305508",
+      "shopid": "koganei-305508-paypay"
+    },
+    {
+      "name": "Salon de 宙海",
+      "storeid": "koganei-9c5c79",
+      "shopid": "koganei-9c5c79-paypay"
+    },
+    {
+      "name": "BIGBLUE",
+      "storeid": "koganei-5acba0",
+      "shopid": "koganei-5acba0-paypay"
+    },
+    {
+      "name": "多摩オート",
+      "storeid": "koganei-b60faa",
+      "shopid": "koganei-b60faa-paypay"
+    },
+    {
+      "name": "ブックスタンドうから",
+      "storeid": "koganei-1ed087",
+      "shopid": "koganei-1ed087-paypay"
+    },
+    {
+      "name": "セレモの森本店",
+      "storeid": "koganei-8c80b1",
+      "shopid": "koganei-8c80b1-paypay"
+    },
+    {
+      "name": "アンドスティルピクチャーズ",
+      "storeid": "koganei-4c9736",
+      "shopid": "koganei-4c9736-paypay"
+    },
+    {
+      "name": "麺鶴亀屋",
+      "storeid": "koganei-0c481c",
+      "shopid": "koganei-0c481c-paypay"
+    },
+    {
+      "name": "和風ジェラートおかじTOKYO",
+      "storeid": "koganei-9869a8",
+      "shopid": "koganei-9869a8-paypay"
+    },
+    {
+      "name": "パティスリートム",
+      "storeid": "koganei-80f0d0",
+      "shopid": "koganei-80f0d0-paypay"
+    },
+    {
+      "name": "レストランホーマー",
+      "storeid": "koganei-b24de3",
+      "shopid": "koganei-b24de3-paypay"
+    },
+    {
+      "name": "カレーショップサイのツノ",
+      "storeid": "koganei-01ac91",
+      "shopid": "koganei-01ac91-paypay"
+    },
+    {
+      "name": "ハンバーグマニア",
+      "storeid": "koganei-c615a2",
+      "shopid": "koganei-c615a2-paypay"
+    },
+    {
+      "name": "興君閣",
+      "storeid": "koganei-71d69c",
+      "shopid": "koganei-71d69c-paypay"
+    },
+    {
+      "name": "田舎うどんかもkyu創作",
+      "storeid": "koganei-967594",
+      "shopid": "koganei-967594-paypay"
+    },
+    {
+      "name": "ジャイアントパンダ",
+      "storeid": "koganei-03467e",
+      "shopid": "koganei-03467e-paypay"
+    },
+    {
+      "name": "中華料理揚子江",
+      "storeid": "koganei-8c2e37",
+      "shopid": "koganei-8c2e37-paypay"
+    },
+    {
+      "name": "食彩酒房寛",
+      "storeid": "koganei-435f34",
+      "shopid": "koganei-435f34-paypay"
+    },
+    {
+      "name": "かぶとパン・かぶとめし",
+      "storeid": "koganei-662347",
+      "shopid": "koganei-662347-paypay"
+    },
+    {
+      "name": "KAJA移動販売",
+      "storeid": "koganei-c23ad1",
+      "shopid": "koganei-c23ad1-paypay"
+    },
+    {
+      "name": "ハンバーグレストラン茸",
+      "storeid": "koganei-2d88c3",
+      "shopid": "koganei-2d88c3-paypay"
+    },
+    {
+      "name": "揚げ処まさ竜",
+      "storeid": "koganei-ef6fdb",
+      "shopid": "koganei-ef6fdb-paypay"
+    },
+    {
+      "name": "東小おむすびさんかく",
+      "storeid": "koganei-98e1b6",
+      "shopid": "koganei-98e1b6-paypay"
+    },
+    {
+      "name": "サンライズ",
+      "storeid": "koganei-1c75bc",
+      "shopid": "koganei-1c75bc-paypay"
+    },
+    {
+      "name": "ocio Healingspace&Cafe",
+      "storeid": "koganei-1ce123",
+      "shopid": "koganei-1ce123-paypay"
+    },
+    {
+      "name": "ガネーシャガル武蔵小金井",
+      "storeid": "koganei-fbc2d5",
+      "shopid": "koganei-fbc2d5-paypay"
+    },
+    {
+      "name": "割烹真澄",
+      "storeid": "koganei-5bae50",
+      "shopid": "koganei-5bae50-paypay"
+    },
+    {
+      "name": "サクラキッチン",
+      "storeid": "koganei-b586d7",
+      "shopid": "koganei-b586d7-paypay"
+    },
+    {
+      "name": "そば処京金",
+      "storeid": "koganei-8ddfaa",
+      "shopid": "koganei-8ddfaa-paypay"
+    },
+    {
+      "name": "溶岩焼肉フジビーフ",
+      "storeid": "koganei-049074",
+      "shopid": "koganei-049074-paypay"
+    },
+    {
+      "name": "Wood branch",
+      "storeid": "koganei-566513",
+      "shopid": "koganei-566513-paypay"
+    },
+    {
+      "name": "和牛焼肉マウンテンファイブ",
+      "storeid": "koganei-3537a0",
+      "shopid": "koganei-3537a0-paypay"
+    },
+    {
+      "name": "Bistro WAN",
+      "storeid": "koganei-e535c3",
+      "shopid": "koganei-e535c3-paypay"
+    },
+    {
+      "name": "カンパネッラ",
+      "storeid": "koganei-2936f6",
+      "shopid": "koganei-2936f6-paypay"
+    },
+    {
+      "name": "STAR魚'ｓMAN",
+      "storeid": "koganei-d8b510",
+      "shopid": "koganei-d8b510-paypay"
+    },
+    {
+      "name": "jikka de dining",
+      "storeid": "koganei-011853",
+      "shopid": "koganei-011853-paypay"
+    },
+    {
+      "name": "手打ちそば醍醐",
+      "storeid": "koganei-f3ade6",
+      "shopid": "koganei-f3ade6-paypay"
+    },
+    {
+      "name": "にしまきごはん",
+      "storeid": "koganei-88b1e3",
+      "shopid": "koganei-88b1e3-paypay"
+    },
+    {
+      "name": "和花",
+      "storeid": "koganei-eb6003",
+      "shopid": "koganei-eb6003-paypay"
+    },
+    {
+      "name": "炭火焼鳥ちょっくら",
+      "storeid": "koganei-c7c225",
+      "shopid": "koganei-c7c225-paypay"
+    },
+    {
+      "name": "らーめんがんま",
+      "storeid": "koganei-742e69",
+      "shopid": "koganei-742e69-paypay"
+    },
+    {
+      "name": "天ぷら一心",
+      "storeid": "koganei-1c60c5",
+      "shopid": "koganei-1c60c5-paypay"
+    },
+    {
+      "name": "鉄板焼てっかば",
+      "storeid": "koganei-a72f0e",
+      "shopid": "koganei-a72f0e-paypay"
+    },
+    {
+      "name": "ジャノメキッチンじざい",
+      "storeid": "koganei-666d4c",
+      "shopid": "koganei-666d4c-paypay"
+    },
+    {
+      "name": "小金井チーズケーキ",
+      "storeid": "koganei-7ac8d7",
+      "shopid": "koganei-7ac8d7-paypay"
+    },
+    {
+      "name": "やきとん佐助",
+      "storeid": "koganei-af137d",
+      "shopid": "koganei-af137d-paypay"
+    },
+    {
+      "name": "キッチン食菜",
+      "storeid": "koganei-22f8c6",
+      "shopid": "koganei-22f8c6-paypay"
+    },
+    {
+      "name": "カフェ5884",
+      "storeid": "koganei-73c224",
+      "shopid": "koganei-73c224-paypay"
+    },
+    {
+      "name": "あいたい屋",
+      "storeid": "koganei-2fbdce",
+      "shopid": "koganei-2fbdce-paypay"
+    },
+    {
+      "name": "へんくつや",
+      "storeid": "koganei-53edcd",
+      "shopid": "koganei-53edcd-paypay"
+    },
+    {
+      "name": "串あげ上々",
+      "storeid": "koganei-515516",
+      "shopid": "koganei-515516-paypay"
+    },
+    {
+      "name": "カプリッシオ",
+      "storeid": "koganei-31319c",
+      "shopid": "koganei-31319c-paypay"
+    },
+    {
+      "name": "黄金焼売",
+      "storeid": "koganei-abb2e4",
+      "shopid": "koganei-abb2e4-paypay"
+    },
+    {
+      "name": "ひがこDINIG彩り",
+      "storeid": "koganei-a4d25f",
+      "shopid": "koganei-a4d25f-paypay"
+    },
+    {
+      "name": "たこ松",
+      "storeid": "koganei-da79d8",
+      "shopid": "koganei-da79d8-paypay"
+    },
+    {
+      "name": "星の鳥",
+      "storeid": "koganei-77122e",
+      "shopid": "koganei-77122e-paypay"
+    },
+    {
+      "name": "新居酒屋Take4",
+      "storeid": "koganei-a83b7b",
+      "shopid": "koganei-a83b7b-paypay"
+    },
+    {
+      "name": "東洋食堂",
+      "storeid": "koganei-7e55c9",
+      "shopid": "koganei-7e55c9-paypay"
+    },
+    {
+      "name": "yuimarl",
+      "storeid": "koganei-ac9ea6",
+      "shopid": "koganei-ac9ea6-paypay"
+    },
+    {
+      "name": "ムサコバル",
+      "storeid": "koganei-f5c956",
+      "shopid": "koganei-f5c956-paypay"
+    },
+    {
+      "name": "炭火屋buchi",
+      "storeid": "koganei-ce4327",
+      "shopid": "koganei-ce4327-paypay"
+    },
+    {
+      "name": "ビストロ酒場服部",
+      "storeid": "koganei-ca5e21",
+      "shopid": "koganei-ca5e21-paypay"
+    },
+    {
+      "name": "Bar Joan Jett's Dog",
+      "storeid": "koganei-a072c3",
+      "shopid": "koganei-a072c3-paypay"
+    },
+    {
+      "name": "イテル",
+      "storeid": "koganei-6699b5",
+      "shopid": "koganei-6699b5-paypay"
+    },
+    {
+      "name": "焼肉ミートくん",
+      "storeid": "koganei-a42c0f",
+      "shopid": "koganei-a42c0f-paypay"
+    },
+    {
+      "name": "入船",
+      "storeid": "koganei-48d209",
+      "shopid": "koganei-48d209-paypay"
+    },
+    {
+      "name": "ちゃんこ小金富士",
+      "storeid": "koganei-d96059",
+      "shopid": "koganei-d96059-paypay"
+    },
+    {
+      "name": "ケーキハウス",
+      "storeid": "koganei-c18dc8",
+      "shopid": "koganei-c18dc8-paypay"
+    },
+    {
+      "name": "魚やの台所",
+      "storeid": "koganei-461f9a",
+      "shopid": "koganei-461f9a-paypay"
+    },
+    {
+      "name": "鳥しん",
+      "storeid": "koganei-f347ab",
+      "shopid": "koganei-f347ab-paypay"
+    },
+    {
+      "name": "魚人",
+      "storeid": "koganei-773412",
+      "shopid": "koganei-773412-paypay"
+    },
+    {
+      "name": "ラ・コメディア",
+      "storeid": "koganei-31021c",
+      "shopid": "koganei-31021c-paypay"
+    },
+    {
+      "name": "こんとわーるきみちゃん家",
+      "storeid": "koganei-e64623",
+      "shopid": "koganei-e64623-paypay"
+    },
+    {
+      "name": "がぶ呑み酒場ゑえやん",
+      "storeid": "koganei-48f594",
+      "shopid": "koganei-48f594-paypay"
+    },
+    {
+      "name": "アカシアベーグル",
+      "storeid": "koganei-af6727",
+      "shopid": "koganei-af6727-paypay"
+    },
+    {
+      "name": "十魚や",
+      "storeid": "koganei-916a46",
+      "shopid": "koganei-916a46-paypay"
+    },
+    {
+      "name": "WISE MAN COFFEE",
+      "storeid": "koganei-626c74",
+      "shopid": "koganei-626c74-paypay"
+    },
+    {
+      "name": "麺飯店　俵飯",
+      "storeid": "koganei-57672a",
+      "shopid": "koganei-57672a-paypay"
+    },
+    {
+      "name": "デイリーズカフェ　ヒガコ",
+      "storeid": "koganei-4db820",
+      "shopid": "koganei-4db820-paypay"
+    },
+    {
+      "name": "小金井ダーツ",
+      "storeid": "koganei-5b9c0b",
+      "shopid": "koganei-5b9c0b-paypay"
+    },
+    {
+      "name": "MELROSE2",
+      "storeid": "koganei-09e0ed",
+      "shopid": "koganei-09e0ed-paypay"
+    },
+    {
+      "name": "paradise kitchinWAI",
+      "storeid": "koganei-207434",
+      "shopid": "koganei-207434-paypay"
+    },
+    {
+      "name": "キィニョン",
+      "storeid": "koganei-c30961",
+      "shopid": "koganei-c30961-paypay"
+    },
+    {
+      "name": "CHEERS BAGEL",
+      "storeid": "koganei-3d57e5",
+      "shopid": "koganei-3d57e5-paypay"
+    },
+    {
+      "name": "カステラ坊や",
+      "storeid": "koganei-e5ef40",
+      "shopid": "koganei-e5ef40-paypay"
+    },
+    {
+      "name": "佐藤商店",
+      "storeid": "koganei-18cfde",
+      "shopid": "koganei-18cfde-paypay"
+    },
+    {
+      "name": "PATISSERIE CROWN",
+      "storeid": "koganei-919f93",
+      "shopid": "koganei-919f93-paypay"
+    },
+    {
+      "name": "EpicBakehouse",
+      "storeid": "koganei-fc40a6",
+      "shopid": "koganei-fc40a6-paypay"
+    },
+    {
+      "name": "肉のにしじま",
+      "storeid": "koganei-68c6bd",
+      "shopid": "koganei-68c6bd-paypay"
+    },
+    {
+      "name": "フレッシュミート　コイデ",
+      "storeid": "koganei-6b3788",
+      "shopid": "koganei-6b3788-paypay"
+    },
+    {
+      "name": "コーヒーロースト丸高",
+      "storeid": "koganei-3376f0",
+      "shopid": "koganei-3376f0-paypay"
+    },
+    {
+      "name": "oni-oni ポークたまご",
+      "storeid": "koganei-419aa3",
+      "shopid": "koganei-419aa3-paypay"
+    },
+    {
+      "name": "aika",
+      "storeid": "koganei-06a696",
+      "shopid": "koganei-06a696-paypay"
+    },
+    {
+      "name": "ケーニッヒ",
+      "storeid": "koganei-630d8d",
+      "shopid": "koganei-630d8d-paypay"
+    },
+    {
+      "name": "てのひらストアotete",
+      "storeid": "koganei-a5182e",
+      "shopid": "koganei-a5182e-paypay"
+    },
+    {
+      "name": "八方知人",
+      "storeid": "koganei-94e83c",
+      "shopid": "koganei-94e83c-paypay"
+    },
+    {
+      "name": "ときわスポーツ",
+      "storeid": "koganei-35dd20",
+      "shopid": "koganei-35dd20-paypay"
+    },
+    {
+      "name": "日用品とお菓子のお店",
+      "storeid": "koganei-120757",
+      "shopid": "koganei-120757-paypay"
+    },
+    {
+      "name": "大洋堂書店",
+      "storeid": "koganei-ec7f1d",
+      "shopid": "koganei-ec7f1d-paypay"
+    },
+    {
+      "name": "日進堂文具店",
+      "storeid": "koganei-08294b",
+      "shopid": "koganei-08294b-paypay"
+    },
+    {
+      "name": "花好",
+      "storeid": "koganei-abfaf0",
+      "shopid": "koganei-abfaf0-paypay"
+    },
+    {
+      "name": "テシマフーズ",
+      "storeid": "koganei-088556",
+      "shopid": "koganei-088556-paypay"
+    },
+    {
+      "name": "フラワーズアンドブランツペタル",
+      "storeid": "koganei-d69b24",
+      "shopid": "koganei-d69b24-paypay"
+    },
+    {
+      "name": "ラッピングのお店[ハコマルギフト]",
+      "storeid": "koganei-4fc9f7",
+      "shopid": "koganei-4fc9f7-paypay"
+    },
+    {
+      "name": "岡田米穀店",
+      "storeid": "koganei-6cb2bd",
+      "shopid": "koganei-6cb2bd-paypay"
+    },
+    {
+      "name": "はらっぱぱん",
+      "storeid": "koganei-2c42e6",
+      "shopid": "koganei-2c42e6-paypay"
+    },
+    {
+      "name": "アセントサイクル",
+      "storeid": "koganei-52145c",
+      "shopid": "koganei-52145c-paypay"
+    },
+    {
+      "name": "茶の丸美屋",
+      "storeid": "koganei-abbeac",
+      "shopid": "koganei-abbeac-paypay"
+    },
+    {
+      "name": "あすなろ",
+      "storeid": "koganei-1f2a69",
+      "shopid": "koganei-1f2a69-paypay"
+    },
+    {
+      "name": "ヒガコパンカフェ",
+      "storeid": "koganei-336d4e",
+      "shopid": "koganei-336d4e-paypay"
+    },
+    {
+      "name": "中村文具店",
+      "storeid": "koganei-2b1ba1",
+      "shopid": "koganei-2b1ba1-paypay"
+    },
+    {
+      "name": "フラワーショップひまわり",
+      "storeid": "koganei-4e7ab6",
+      "shopid": "koganei-4e7ab6-paypay"
+    },
+    {
+      "name": "金菜屋",
+      "storeid": "koganei-a8daec",
+      "shopid": "koganei-a8daec-paypay"
+    },
+    {
+      "name": "よつば花店",
+      "storeid": "koganei-71c6f5",
+      "shopid": "koganei-71c6f5-paypay"
+    },
+    {
+      "name": "MaisonT",
+      "storeid": "koganei-c13088",
+      "shopid": "koganei-c13088-paypay"
+    },
+    {
+      "name": "ジビエキッチンイェーガー",
+      "storeid": "koganei-42e09b",
+      "shopid": "koganei-42e09b-paypay"
+    },
+    {
+      "name": "お茶の井上園",
+      "storeid": "koganei-38aee0",
+      "shopid": "koganei-38aee0-paypay"
+    },
+    {
+      "name": "kanoya",
+      "storeid": "koganei-953fa5",
+      "shopid": "koganei-953fa5-paypay"
+    },
+    {
+      "name": "Haircutpit",
+      "storeid": "koganei-c47b90",
+      "shopid": "koganei-c47b90-paypay"
+    },
+    {
+      "name": "空時計",
+      "storeid": "koganei-beb9aa",
+      "shopid": "koganei-beb9aa-paypay"
+    },
+    {
+      "name": "KILCA",
+      "storeid": "koganei-49526e",
+      "shopid": "koganei-49526e-paypay"
+    },
+    {
+      "name": "ジェシカ",
+      "storeid": "koganei-bbe16d",
+      "shopid": "koganei-bbe16d-paypay"
+    },
+    {
+      "name": "ファルコヘアー",
+      "storeid": "koganei-81e62d",
+      "shopid": "koganei-81e62d-paypay"
+    },
+    {
+      "name": "ZELE ゼルエッセンス",
+      "storeid": "koganei-2e72fb",
+      "shopid": "koganei-2e72fb-paypay"
+    },
+    {
+      "name": "美容室syiph",
+      "storeid": "koganei-2ee428",
+      "shopid": "koganei-2ee428-paypay"
+    },
+    {
+      "name": "est gracieux",
+      "storeid": "koganei-fef3b8",
+      "shopid": "koganei-fef3b8-paypay"
+    },
+    {
+      "name": "n.w.h",
+      "storeid": "koganei-a75ccd",
+      "shopid": "koganei-a75ccd-paypay"
+    },
+    {
+      "name": "Pinion life",
+      "storeid": "koganei-5ec39a",
+      "shopid": "koganei-5ec39a-paypay"
+    },
+    {
+      "name": "An NAIL SALON",
+      "storeid": "koganei-584458",
+      "shopid": "koganei-584458-paypay"
+    },
+    {
+      "name": "iRie",
+      "storeid": "koganei-4d8326",
+      "shopid": "koganei-4d8326-paypay"
+    },
+    {
+      "name": "itous mirror",
+      "storeid": "koganei-4136f8",
+      "shopid": "koganei-4136f8-paypay"
+    },
+    {
+      "name": "ミスターカット",
+      "storeid": "koganei-0ace42",
+      "shopid": "koganei-0ace42-paypay"
+    },
+    {
+      "name": "床屋オカベ",
+      "storeid": "koganei-c07a01",
+      "shopid": "koganei-c07a01-paypay"
+    },
+    {
+      "name": "sense",
+      "storeid": "koganei-f5743d",
+      "shopid": "koganei-f5743d-paypay"
+    },
+    {
+      "name": "sora",
+      "storeid": "koganei-b78bb5",
+      "shopid": "koganei-b78bb5-paypay"
+    },
+    {
+      "name": "sense+",
+      "storeid": "koganei-1102f2",
+      "shopid": "koganei-1102f2-paypay"
+    },
+    {
+      "name": "6",
+      "storeid": "koganei-167909",
+      "shopid": "koganei-167909-paypay"
+    },
+    {
+      "name": "お顔剃りエステサロンFour-leaf",
+      "storeid": "koganei-c71848",
+      "shopid": "koganei-c71848-paypay"
+    },
+    {
+      "name": "CAPLI",
+      "storeid": "koganei-eca973",
+      "shopid": "koganei-eca973-paypay"
+    },
+    {
+      "name": "ULUU",
+      "storeid": "koganei-7274cd",
+      "shopid": "koganei-7274cd-paypay"
+    },
+    {
+      "name": "trois",
+      "storeid": "koganei-df8091",
+      "shopid": "koganei-df8091-paypay"
+    },
+    {
+      "name": "SANDER",
+      "storeid": "koganei-ffeab4",
+      "shopid": "koganei-ffeab4-paypay"
+    },
+    {
+      "name": "hairpark KEFI",
+      "storeid": "koganei-e7fa72",
+      "shopid": "koganei-e7fa72-paypay"
+    },
+    {
+      "name": "Lapis",
+      "storeid": "koganei-94d6ad",
+      "shopid": "koganei-94d6ad-paypay"
+    },
+    {
+      "name": "HAMON",
+      "storeid": "koganei-0f7705",
+      "shopid": "koganei-0f7705-paypay"
+    },
+    {
+      "name": "Rihi",
+      "storeid": "koganei-9a38d7",
+      "shopid": "koganei-9a38d7-paypay"
+    },
+    {
+      "name": "はあとねいる",
+      "storeid": "koganei-9f06c3",
+      "shopid": "koganei-9f06c3-paypay"
+    },
+    {
+      "name": "MiCo",
+      "storeid": "koganei-4a85c6",
+      "shopid": "koganei-4a85c6-paypay"
+    },
+    {
+      "name": "tronc",
+      "storeid": "koganei-d47aa8",
+      "shopid": "koganei-d47aa8-paypay"
+    },
+    {
+      "name": "美容室カロン",
+      "storeid": "koganei-0f91e8",
+      "shopid": "koganei-0f91e8-paypay"
+    },
+    {
+      "name": "ぽっぷす",
+      "storeid": "koganei-b16b99",
+      "shopid": "koganei-b16b99-paypay"
+    },
+    {
+      "name": "nailsalon ohana",
+      "storeid": "koganei-3f4c62",
+      "shopid": "koganei-3f4c62-paypay"
+    },
+    {
+      "name": "new nail me",
+      "storeid": "koganei-95d15b",
+      "shopid": "koganei-95d15b-paypay"
+    },
+    {
+      "name": "zero",
+      "storeid": "koganei-d02c4c",
+      "shopid": "koganei-d02c4c-paypay"
+    },
+    {
+      "name": "サロット　グレ　ノグチ",
+      "storeid": "koganei-97d395",
+      "shopid": "koganei-97d395-paypay"
+    },
+    {
+      "name": "ALIA",
+      "storeid": "koganei-94cdbc",
+      "shopid": "koganei-94cdbc-paypay"
+    },
+    {
+      "name": "TUMEYA",
+      "storeid": "koganei-31fbf1",
+      "shopid": "koganei-31fbf1-paypay"
+    },
+    {
+      "name": "四歩",
+      "storeid": "koganei-8ff2f8",
+      "shopid": "koganei-8ff2f8-paypay"
+    },
+    {
+      "name": "メガネライフ",
+      "storeid": "koganei-da5ccf",
+      "shopid": "koganei-da5ccf-paypay"
+    },
+    {
+      "name": "SAFUJI",
+      "storeid": "koganei-e71bba",
+      "shopid": "koganei-e71bba-paypay"
+    },
+    {
+      "name": "かわせみ手芸店",
+      "storeid": "koganei-632549",
+      "shopid": "koganei-632549-paypay"
+    },
+    {
+      "name": "松屋靴店",
+      "storeid": "koganei-02e770",
+      "shopid": "koganei-02e770-paypay"
+    },
+    {
+      "name": "糸と手と人",
+      "storeid": "koganei-19d9f7",
+      "shopid": "koganei-19d9f7-paypay"
+    },
+    {
+      "name": "えこる",
+      "storeid": "koganei-fc3876",
+      "shopid": "koganei-fc3876-paypay"
+    },
+    {
+      "name": "acoustic",
+      "storeid": "koganei-776fe4",
+      "shopid": "koganei-776fe4-paypay"
+    },
+    {
+      "name": "クローバーズユニフォーム",
+      "storeid": "koganei-c9d577",
+      "shopid": "koganei-c9d577-paypay"
+    },
+    {
+      "name": "ALT-FETISH",
+      "storeid": "koganei-e28225",
+      "shopid": "koganei-e28225-paypay"
+    },
+    {
+      "name": "タローズハウス",
+      "storeid": "koganei-017c79",
+      "shopid": "koganei-017c79-paypay"
+    },
+    {
+      "name": "yakusoku",
+      "storeid": "koganei-dabeef",
+      "shopid": "koganei-dabeef-paypay"
+    },
+    {
+      "name": "パリネコバザール",
+      "storeid": "koganei-58ab5e",
+      "shopid": "koganei-58ab5e-paypay"
+    },
+    {
+      "name": "みゆき堂",
+      "storeid": "koganei-1684a7",
+      "shopid": "koganei-1684a7-paypay"
+    },
+    {
+      "name": "graffy",
+      "storeid": "koganei-32a228",
+      "shopid": "koganei-32a228-paypay"
+    },
+    {
+      "name": "handmadeoluolu",
+      "storeid": "koganei-26defa",
+      "shopid": "koganei-26defa-paypay"
+    },
+    {
+      "name": "日光",
+      "storeid": "koganei-adaa18",
+      "shopid": "koganei-adaa18-paypay"
+    },
+    {
+      "name": "GoodTaiwan",
+      "storeid": "koganei-2f0c21",
+      "shopid": "koganei-2f0c21-paypay"
+    },
+    {
+      "name": "コッペ",
+      "storeid": "koganei-b761cb",
+      "shopid": "koganei-b761cb-paypay"
+    },
+    {
+      "name": "PENDANT",
+      "storeid": "koganei-0bd1dd",
+      "shopid": "koganei-0bd1dd-paypay"
+    },
+    {
+      "name": "HT",
+      "storeid": "koganei-90d64e",
+      "shopid": "koganei-90d64e-paypay"
+    },
+    {
+      "name": "Genie",
+      "storeid": "koganei-c852fa",
+      "shopid": "koganei-c852fa-paypay"
+    },
+    {
+      "name": "POSTJUNK",
+      "storeid": "koganei-7c263d",
+      "shopid": "koganei-7c263d-paypay"
+    },
+    {
+      "name": "セレクトショップゆうすい",
+      "storeid": "koganei-bc6481",
+      "shopid": "koganei-bc6481-paypay"
+    },
+    {
+      "name": "とみここたコーポレーション",
+      "storeid": "koganei-a03d9b",
+      "shopid": "koganei-a03d9b-paypay"
+    },
+    {
+      "name": "BUTAPACHI",
+      "storeid": "koganei-373cb0",
+      "shopid": "koganei-373cb0-paypay"
+    },
+    {
+      "name": "公衆浴場　ぬくい湯",
+      "storeid": "koganei-6d6321",
+      "shopid": "koganei-6d6321-paypay"
+    },
+    {
+      "name": "WildCherryBlossom",
+      "storeid": "koganei-81c87d",
+      "shopid": "koganei-81c87d-paypay"
+    },
+    {
+      "name": "会員制農場ポモナ",
+      "storeid": "koganei-790d75",
+      "shopid": "koganei-790d75-paypay"
+    },
+    {
+      "name": "パーソナルトレーニングスタジオTRIMer",
+      "storeid": "koganei-0cab82",
+      "shopid": "koganei-0cab82-paypay"
+    },
+    {
+      "name": "P-Wave 中之久保クラス",
+      "storeid": "koganei-fd6cf8",
+      "shopid": "koganei-fd6cf8-paypay"
+    },
+    {
+      "name": "DumbL.Studio",
+      "storeid": "koganei-2c7b10",
+      "shopid": "koganei-2c7b10-paypay"
+    },
+    {
+      "name": "THE BODY VIKING",
+      "storeid": "koganei-e753e0",
+      "shopid": "koganei-e753e0-paypay"
+    },
+    {
+      "name": "ダイエークリーニング",
+      "storeid": "koganei-f8d7dd",
+      "shopid": "koganei-f8d7dd-paypay"
+    },
+    {
+      "name": "トライアングルコインランドリー",
+      "storeid": "koganei-8f27ea",
+      "shopid": "koganei-8f27ea-paypay"
+    },
+    {
+      "name": "クリーニングみやお",
+      "storeid": "koganei-af3fa9",
+      "shopid": "koganei-af3fa9-paypay"
+    },
+    {
+      "name": "ダイブツクリーニング",
+      "storeid": "koganei-ced89a",
+      "shopid": "koganei-ced89a-paypay"
+    },
+    {
+      "name": "RITZ ダイエークリーニング",
+      "storeid": "koganei-9e42a1",
+      "shopid": "koganei-9e42a1-paypay"
+    },
+    {
+      "name": "宮坂洗濯本舗",
+      "storeid": "koganei-4edb43",
+      "shopid": "koganei-4edb43-paypay"
+    },
+    {
+      "name": "(有)武蔵野センター",
+      "storeid": "koganei-3a6e53",
+      "shopid": "koganei-3a6e53-paypay"
+    },
+    {
+      "name": "みなみクリーニング",
+      "storeid": "koganei-06ac42",
+      "shopid": "koganei-06ac42-paypay"
+    },
+    {
+      "name": "まごのてライフサービス",
+      "storeid": "koganei-9de155",
+      "shopid": "koganei-9de155-paypay"
+    },
+    {
+      "name": "MKパーソンズ",
+      "storeid": "koganei-64b063",
+      "shopid": "koganei-64b063-paypay"
+    },
+    {
+      "name": "岡山ランドリー",
+      "storeid": "koganei-c2e5e5",
+      "shopid": "koganei-c2e5e5-paypay"
+    },
+    {
+      "name": "防具クリーニング剣先",
+      "storeid": "koganei-a1aca3",
+      "shopid": "koganei-a1aca3-paypay"
+    }
+  ]
+}
