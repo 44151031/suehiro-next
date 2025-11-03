@@ -6,6 +6,25 @@ import type { VoucherCampaign } from "@/types/voucher";
  * - 同一自治体に複数のデータがある場合、新しい applyStartDate を持つものを優先
  */
 const voucherCampaignsRaw: VoucherCampaign[] = [
+    {
+    paytype: "paypay-voucher",
+    prefectureSlug: "tokyo",
+    citySlug: "adachi",
+    prefecture: "東京都",
+    city: "足立区",
+    campaigntitle: "スマホでゲット！足立区プレミアム商品券（PayPay商品券）！最大12,000円分おトク！",
+    purchasePrice: 4000,
+    ticketAmount: 5200,
+    maxUnits: 10,
+    applyStartDate: "2025-12-10T10:00:00",
+    applyEndDate: "2026-03-10T23:59:59",
+    purchaseEndDate: "2026-03-10",
+    useEndDate: "2026-03-10",
+    datePublished: "2025-11-03",
+    dateModified: "2025-11-03",
+    eligiblePersons: "東京都足立区に住所を有する12歳以上の方",
+    applicationUrl: ""
+  },
   {
     paytype: "paypay-voucher",
     prefectureSlug: "fukushima",
