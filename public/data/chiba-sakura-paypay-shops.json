@@ -1,0 +1,1531 @@
+{
+  "ガソリンスタンド": [
+    {
+      "name": "コスモ石油　",
+      "storeid": "sakura-c2f70a",
+      "shopid": "sakura-c2f70a-paypay"
+    },
+    {
+      "name": "apollostation",
+      "storeid": "sakura-a04eb2",
+      "shopid": "sakura-a04eb2-paypay"
+    },
+    {
+      "name": "佐倉インター51ss",
+      "storeid": "sakura-2a61a5",
+      "shopid": "sakura-2a61a5-paypay"
+    }
+  ],
+  "酒屋・リカーショップ": [
+    {
+      "name": "滝口酒店",
+      "storeid": "sakura-712641",
+      "shopid": "sakura-712641-paypay"
+    },
+    {
+      "name": "佐倉の酒造　旭鶴",
+      "storeid": "sakura-ef3448",
+      "shopid": "sakura-ef3448-paypay"
+    }
+  ],
+  "スーパー": [
+    {
+      "name": "ベルク",
+      "storeid": "sakura-adf3e3",
+      "shopid": "sakura-adf3e3-paypay"
+    },
+    {
+      "name": "いなげや",
+      "storeid": "sakura-55cfa9",
+      "shopid": "sakura-55cfa9-paypay"
+    },
+    {
+      "name": "マルエツ",
+      "storeid": "sakura-23f97c",
+      "shopid": "sakura-23f97c-paypay"
+    },
+    {
+      "name": "東武ストア",
+      "storeid": "sakura-41c487",
+      "shopid": "sakura-41c487-paypay"
+    },
+    {
+      "name": "olympic",
+      "storeid": "sakura-133564",
+      "shopid": "sakura-133564-paypay"
+    },
+    {
+      "name": "ランドロームフードマーケット",
+      "storeid": "sakura-e53b37",
+      "shopid": "sakura-e53b37-paypay"
+    },
+    {
+      "name": "ベイシア",
+      "storeid": "sakura-0cffe1",
+      "shopid": "sakura-0cffe1-paypay"
+    },
+    {
+      "name": "オーケー",
+      "storeid": "sakura-42baa3",
+      "shopid": "sakura-42baa3-paypay"
+    },
+    {
+      "name": "ライフ",
+      "storeid": "sakura-77dbf9",
+      "shopid": "sakura-77dbf9-paypay"
+    }
+  ],
+  "ドラッグストア・薬局": [
+    {
+      "name": "クリエイト",
+      "storeid": "sakura-f15920",
+      "shopid": "sakura-f15920-paypay"
+    },
+    {
+      "name": "カワチ薬品",
+      "storeid": "sakura-f02082",
+      "shopid": "sakura-f02082-paypay"
+    },
+    {
+      "name": "ウエルシア",
+      "storeid": "sakura-c1e567",
+      "shopid": "sakura-c1e567-paypay"
+    },
+    {
+      "name": "ツルハ",
+      "storeid": "sakura-ad57fc",
+      "shopid": "sakura-ad57fc-paypay"
+    },
+    {
+      "name": "AENA",
+      "storeid": "sakura-c7d6fa",
+      "shopid": "sakura-c7d6fa-paypay"
+    },
+    {
+      "name": "アシスト",
+      "storeid": "sakura-28145e",
+      "shopid": "sakura-28145e-paypay"
+    },
+    {
+      "name": "みずき薬局",
+      "storeid": "sakura-4831d9",
+      "shopid": "sakura-4831d9-paypay"
+    },
+    {
+      "name": "JAM あやめ薬局",
+      "storeid": "sakura-d3f6ee",
+      "shopid": "sakura-d3f6ee-paypay"
+    },
+    {
+      "name": "メロン薬局グループ",
+      "storeid": "sakura-eabcdf",
+      "shopid": "sakura-eabcdf-paypay"
+    },
+    {
+      "name": "友愛薬局",
+      "storeid": "sakura-ebe925",
+      "shopid": "sakura-ebe925-paypay"
+    },
+    {
+      "name": "cosmeticsマーガレット",
+      "storeid": "sakura-1cc2a3",
+      "shopid": "sakura-1cc2a3-paypay"
+    },
+    {
+      "name": "水戸薬局",
+      "storeid": "sakura-13b737",
+      "shopid": "sakura-13b737-paypay"
+    },
+    {
+      "name": "みつば薬局",
+      "storeid": "sakura-54352a",
+      "shopid": "sakura-54352a-paypay"
+    },
+    {
+      "name": "よもぎ薬局",
+      "storeid": "sakura-9ac9fb",
+      "shopid": "sakura-9ac9fb-paypay"
+    },
+    {
+      "name": "にこにこ薬局",
+      "storeid": "sakura-8947b7",
+      "shopid": "sakura-8947b7-paypay"
+    },
+    {
+      "name": "健栄鏑木薬局",
+      "storeid": "sakura-582e16",
+      "shopid": "sakura-582e16-paypay"
+    },
+    {
+      "name": "かおる薬局",
+      "storeid": "sakura-d8068c",
+      "shopid": "sakura-d8068c-paypay"
+    },
+    {
+      "name": "アイリスファーマあけぼの薬局",
+      "storeid": "sakura-88390f",
+      "shopid": "sakura-88390f-paypay"
+    },
+    {
+      "name": "田中薬局",
+      "storeid": "sakura-304d20",
+      "shopid": "sakura-304d20-paypay"
+    },
+    {
+      "name": "江原台薬局",
+      "storeid": "sakura-b558d2",
+      "shopid": "sakura-b558d2-paypay"
+    },
+    {
+      "name": "京成さくら駅前薬局",
+      "storeid": "sakura-0d77b5",
+      "shopid": "sakura-0d77b5-paypay"
+    },
+    {
+      "name": "ウルウール",
+      "storeid": "sakura-4db2f4",
+      "shopid": "sakura-4db2f4-paypay"
+    },
+    {
+      "name": "表町薬局",
+      "storeid": "sakura-acc6af",
+      "shopid": "sakura-acc6af-paypay"
+    },
+    {
+      "name": "清宮薬局",
+      "storeid": "sakura-714a42",
+      "shopid": "sakura-714a42-paypay"
+    },
+    {
+      "name": "レモン薬局",
+      "storeid": "sakura-1848c2",
+      "shopid": "sakura-1848c2-paypay"
+    },
+    {
+      "name": "こあら薬局",
+      "storeid": "sakura-90acdf",
+      "shopid": "sakura-90acdf-paypay"
+    },
+    {
+      "name": "はつほ薬局",
+      "storeid": "sakura-a32ce1",
+      "shopid": "sakura-a32ce1-paypay"
+    },
+    {
+      "name": "みそら薬局",
+      "storeid": "sakura-6f8cb4",
+      "shopid": "sakura-6f8cb4-paypay"
+    },
+    {
+      "name": "コーセー薬局",
+      "storeid": "sakura-33a43c",
+      "shopid": "sakura-33a43c-paypay"
+    },
+    {
+      "name": "プリントネットしづな薬局",
+      "storeid": "sakura-ed70b8",
+      "shopid": "sakura-ed70b8-paypay"
+    },
+    {
+      "name": "薬局タカサ",
+      "storeid": "sakura-103fc5",
+      "shopid": "sakura-103fc5-paypay"
+    },
+    {
+      "name": "コスメティクスマーガレット",
+      "storeid": "sakura-ba6559",
+      "shopid": "sakura-ba6559-paypay"
+    },
+    {
+      "name": "スクエアブルー",
+      "storeid": "sakura-38a85d",
+      "shopid": "sakura-38a85d-paypay"
+    },
+    {
+      "name": "エアリーファーマシー佐倉スマイル薬局",
+      "storeid": "sakura-6e49d9",
+      "shopid": "sakura-6e49d9-paypay"
+    },
+    {
+      "name": "マツモトキヨシ",
+      "storeid": "sakura-74bcf1",
+      "shopid": "sakura-74bcf1-paypay"
+    },
+    {
+      "name": "富士薬局",
+      "storeid": "sakura-19b8ed",
+      "shopid": "sakura-19b8ed-paypay"
+    },
+    {
+      "name": "ココカラファイン",
+      "storeid": "sakura-3a174f",
+      "shopid": "sakura-3a174f-paypay"
+    }
+  ],
+  "ホームセンター・ショッピングセンター": [
+    {
+      "name": "鈴木金物",
+      "storeid": "sakura-919067",
+      "shopid": "sakura-919067-paypay"
+    },
+    {
+      "name": "カインズ",
+      "storeid": "sakura-b4bb80",
+      "shopid": "sakura-b4bb80-paypay"
+    },
+    {
+      "name": "ロイヤルホームセンター",
+      "storeid": "sakura-dceb3b",
+      "shopid": "sakura-dceb3b-paypay"
+    },
+    {
+      "name": "DCM",
+      "storeid": "sakura-818da0",
+      "shopid": "sakura-818da0-paypay"
+    },
+    {
+      "name": "MrMax",
+      "storeid": "sakura-5fafb0",
+      "shopid": "sakura-5fafb0-paypay"
+    }
+  ],
+  "家電": [
+    {
+      "name": "ベイシア電器",
+      "storeid": "sakura-a920bc",
+      "shopid": "sakura-a920bc-paypay"
+    },
+    {
+      "name": "ノジマ",
+      "storeid": "sakura-d6027b",
+      "shopid": "sakura-d6027b-paypay"
+    },
+    {
+      "name": "ソフトバンク",
+      "storeid": "sakura-ff613c",
+      "shopid": "sakura-ff613c-paypay"
+    },
+    {
+      "name": "モバイルステーション",
+      "storeid": "sakura-1f5b8b",
+      "shopid": "sakura-1f5b8b-paypay"
+    },
+    {
+      "name": "富士無線電機",
+      "storeid": "sakura-af0437",
+      "shopid": "sakura-af0437-paypay"
+    },
+    {
+      "name": "ワイモバイル",
+      "storeid": "sakura-e69222",
+      "shopid": "sakura-e69222-paypay"
+    },
+    {
+      "name": "石井商会",
+      "storeid": "sakura-a9d62a",
+      "shopid": "sakura-a9d62a-paypay"
+    },
+    {
+      "name": "AtelierK",
+      "storeid": "sakura-7ad598",
+      "shopid": "sakura-7ad598-paypay"
+    },
+    {
+      "name": "自作パソコンの店ワイケーズ",
+      "storeid": "sakura-636a32",
+      "shopid": "sakura-636a32-paypay"
+    },
+    {
+      "name": "(株)山武産業",
+      "storeid": "sakura-eb1d35",
+      "shopid": "sakura-eb1d35-paypay"
+    },
+    {
+      "name": "Buoy",
+      "storeid": "sakura-a6d69a",
+      "shopid": "sakura-a6d69a-paypay"
+    }
+  ],
+  "その他": [
+    {
+      "name": "ニトリ",
+      "storeid": "sakura-8daf03",
+      "shopid": "sakura-8daf03-paypay"
+    },
+    {
+      "name": "BOOKOFF",
+      "storeid": "sakura-316cf9",
+      "shopid": "sakura-316cf9-paypay"
+    },
+    {
+      "name": "快活クラブ",
+      "storeid": "sakura-66f2d6",
+      "shopid": "sakura-66f2d6-paypay"
+    },
+    {
+      "name": "カラオケBanBan",
+      "storeid": "sakura-b3471c",
+      "shopid": "sakura-b3471c-paypay"
+    },
+    {
+      "name": "オートバックス",
+      "storeid": "sakura-fe1aa3",
+      "shopid": "sakura-fe1aa3-paypay"
+    },
+    {
+      "name": "ユーカリが丘動物病院",
+      "storeid": "sakura-42a697",
+      "shopid": "sakura-42a697-paypay"
+    },
+    {
+      "name": "ヤマト運輸",
+      "storeid": "sakura-e8b740",
+      "shopid": "sakura-e8b740-paypay"
+    },
+    {
+      "name": "第一興商ビッグエコー",
+      "storeid": "sakura-3cc096",
+      "shopid": "sakura-3cc096-paypay"
+    },
+    {
+      "name": "ハルミ自動車",
+      "storeid": "sakura-7feb6c",
+      "shopid": "sakura-7feb6c-paypay"
+    },
+    {
+      "name": "りらくる",
+      "storeid": "sakura-614f2f",
+      "shopid": "sakura-614f2f-paypay"
+    },
+    {
+      "name": "イエローハット",
+      "storeid": "sakura-888867",
+      "shopid": "sakura-888867-paypay"
+    },
+    {
+      "name": "カーウォッシュステーション",
+      "storeid": "sakura-6a38ed",
+      "shopid": "sakura-6a38ed-paypay"
+    },
+    {
+      "name": "ウスイスイミングクラブ",
+      "storeid": "sakura-244eb8",
+      "shopid": "sakura-244eb8-paypay"
+    },
+    {
+      "name": "ユーミーどうぶつ病院",
+      "storeid": "sakura-63b492",
+      "shopid": "sakura-63b492-paypay"
+    },
+    {
+      "name": "フィールズ農園",
+      "storeid": "sakura-104023",
+      "shopid": "sakura-104023-paypay"
+    },
+    {
+      "name": "車検のコバック",
+      "storeid": "sakura-e9a96b",
+      "shopid": "sakura-e9a96b-paypay"
+    },
+    {
+      "name": "結び合い農園",
+      "storeid": "sakura-0dd060",
+      "shopid": "sakura-0dd060-paypay"
+    },
+    {
+      "name": "ル・クール動物病院",
+      "storeid": "sakura-3c0f88",
+      "shopid": "sakura-3c0f88-paypay"
+    },
+    {
+      "name": "リアンアニマルクリニック",
+      "storeid": "sakura-a0b984",
+      "shopid": "sakura-a0b984-paypay"
+    },
+    {
+      "name": "LOVEDOG",
+      "storeid": "sakura-a19a56",
+      "shopid": "sakura-a19a56-paypay"
+    },
+    {
+      "name": "はせがわ",
+      "storeid": "sakura-de0d8b",
+      "shopid": "sakura-de0d8b-paypay"
+    },
+    {
+      "name": "トリミングサロンR＆R",
+      "storeid": "sakura-cf7eed",
+      "shopid": "sakura-cf7eed-paypay"
+    },
+    {
+      "name": "アート引っ越しセンター",
+      "storeid": "sakura-1aa10e",
+      "shopid": "sakura-1aa10e-paypay"
+    },
+    {
+      "name": "タイ古式マッサージcaymuu",
+      "storeid": "sakura-d0cc93",
+      "shopid": "sakura-d0cc93-paypay"
+    },
+    {
+      "name": "CoCo　de Wash",
+      "storeid": "sakura-67e8b4",
+      "shopid": "sakura-67e8b4-paypay"
+    },
+    {
+      "name": "わんフィット",
+      "storeid": "sakura-e59090",
+      "shopid": "sakura-e59090-paypay"
+    },
+    {
+      "name": "スタジオアリス",
+      "storeid": "sakura-4cb2d5",
+      "shopid": "sakura-4cb2d5-paypay"
+    },
+    {
+      "name": "シロタカメラ",
+      "storeid": "sakura-d89202",
+      "shopid": "sakura-d89202-paypay"
+    },
+    {
+      "name": "セルフホワイトニングRioiQa",
+      "storeid": "sakura-2f03c8",
+      "shopid": "sakura-2f03c8-paypay"
+    },
+    {
+      "name": "ティーズプロジェクト",
+      "storeid": "sakura-2846f9",
+      "shopid": "sakura-2846f9-paypay"
+    },
+    {
+      "name": "モーリーファンタジー",
+      "storeid": "sakura-29f544",
+      "shopid": "sakura-29f544-paypay"
+    },
+    {
+      "name": "フジフォトサービス",
+      "storeid": "sakura-fa46bf",
+      "shopid": "sakura-fa46bf-paypay"
+    },
+    {
+      "name": "セイント・ディー",
+      "storeid": "sakura-fd46bf",
+      "shopid": "sakura-fd46bf-paypay"
+    },
+    {
+      "name": "石上自動車",
+      "storeid": "sakura-725b3c",
+      "shopid": "sakura-725b3c-paypay"
+    },
+    {
+      "name": "スタジオ樹木",
+      "storeid": "sakura-47178f",
+      "shopid": "sakura-47178f-paypay"
+    },
+    {
+      "name": "ユーピー企画",
+      "storeid": "sakura-da8ee8",
+      "shopid": "sakura-da8ee8-paypay"
+    },
+    {
+      "name": "モトメンテ",
+      "storeid": "sakura-322939",
+      "shopid": "sakura-322939-paypay"
+    },
+    {
+      "name": "＆ストレッチ",
+      "storeid": "sakura-053103",
+      "shopid": "sakura-053103-paypay"
+    },
+    {
+      "name": "メダリストサロン",
+      "storeid": "sakura-3f6b57",
+      "shopid": "sakura-3f6b57-paypay"
+    },
+    {
+      "name": "モバイルステーション",
+      "storeid": "sakura-1f5b8b",
+      "shopid": "sakura-1f5b8b-paypay"
+    },
+    {
+      "name": "日本メナード化粧品",
+      "storeid": "sakura-0c9199",
+      "shopid": "sakura-0c9199-paypay"
+    },
+    {
+      "name": "めもり～旅行",
+      "storeid": "sakura-5c2e85",
+      "shopid": "sakura-5c2e85-paypay"
+    },
+    {
+      "name": "エーワン",
+      "storeid": "sakura-97c97c",
+      "shopid": "sakura-97c97c-paypay"
+    },
+    {
+      "name": "コクピットさｋら",
+      "storeid": "sakura-6d3de4",
+      "shopid": "sakura-6d3de4-paypay"
+    },
+    {
+      "name": "千葉ロックセンター",
+      "storeid": "sakura-c7cd1d",
+      "shopid": "sakura-c7cd1d-paypay"
+    },
+    {
+      "name": "咲助産院",
+      "storeid": "sakura-501e19",
+      "shopid": "sakura-501e19-paypay"
+    },
+    {
+      "name": "プランドール",
+      "storeid": "sakura-9f8917",
+      "shopid": "sakura-9f8917-paypay"
+    },
+    {
+      "name": "佐倉動物病院",
+      "storeid": "sakura-5b5469",
+      "shopid": "sakura-5b5469-paypay"
+    },
+    {
+      "name": "Alice",
+      "storeid": "sakura-64489c",
+      "shopid": "sakura-64489c-paypay"
+    },
+    {
+      "name": "株式会社トラスト",
+      "storeid": "sakura-726ec3",
+      "shopid": "sakura-726ec3-paypay"
+    },
+    {
+      "name": "温浴施設佐倉天然温泉",
+      "storeid": "sakura-081526",
+      "shopid": "sakura-081526-paypay"
+    },
+    {
+      "name": "ウィシュトンホテル・ユーカリ",
+      "storeid": "sakura-bec4e7",
+      "shopid": "sakura-bec4e7-paypay"
+    },
+    {
+      "name": "アースマリンダイバーズ",
+      "storeid": "sakura-98adc9",
+      "shopid": "sakura-98adc9-paypay"
+    },
+    {
+      "name": "おもてなしラボ",
+      "storeid": "sakura-158900",
+      "shopid": "sakura-158900-paypay"
+    },
+    {
+      "name": "アクア・ユーカリ",
+      "storeid": "sakura-c4718a",
+      "shopid": "sakura-c4718a-paypay"
+    },
+    {
+      "name": "コインランドリーぷくぷく",
+      "storeid": "sakura-802ff2",
+      "shopid": "sakura-802ff2-paypay"
+    },
+    {
+      "name": "白洋舎",
+      "storeid": "sakura-365be2",
+      "shopid": "sakura-365be2-paypay"
+    },
+    {
+      "name": "白光舎",
+      "storeid": "sakura-1939b4",
+      "shopid": "sakura-1939b4-paypay"
+    },
+    {
+      "name": "三協ドライセンター",
+      "storeid": "sakura-92cffb",
+      "shopid": "sakura-92cffb-paypay"
+    },
+    {
+      "name": "DUSKIN",
+      "storeid": "sakura-ca94f4",
+      "shopid": "sakura-ca94f4-paypay"
+    },
+    {
+      "name": "整理収納アドバイザー神山ちかこ",
+      "storeid": "sakura-98bd31",
+      "shopid": "sakura-98bd31-paypay"
+    },
+    {
+      "name": "上座サービスマスター",
+      "storeid": "sakura-71fc8b",
+      "shopid": "sakura-71fc8b-paypay"
+    },
+    {
+      "name": "ユーカリが丘リハビリ整骨院",
+      "storeid": "sakura-6dacfe",
+      "shopid": "sakura-6dacfe-paypay"
+    },
+    {
+      "name": "カラダサロンHOTちょっと",
+      "storeid": "sakura-a46ebe",
+      "shopid": "sakura-a46ebe-paypay"
+    },
+    {
+      "name": "吉田整骨院",
+      "storeid": "sakura-a29f47",
+      "shopid": "sakura-a29f47-paypay"
+    },
+    {
+      "name": "紬はりきゅう接骨院",
+      "storeid": "sakura-9d820f",
+      "shopid": "sakura-9d820f-paypay"
+    },
+    {
+      "name": "臼井駅前接骨院",
+      "storeid": "sakura-0a506c",
+      "shopid": "sakura-0a506c-paypay"
+    },
+    {
+      "name": "リーフ鍼灸整骨院",
+      "storeid": "sakura-527585",
+      "shopid": "sakura-527585-paypay"
+    },
+    {
+      "name": "栄整骨院・美ボディサロン栄",
+      "storeid": "sakura-64e619",
+      "shopid": "sakura-64e619-paypay"
+    },
+    {
+      "name": "石本接骨院",
+      "storeid": "sakura-9610ce",
+      "shopid": "sakura-9610ce-paypay"
+    },
+    {
+      "name": "Re.Ra.Ku",
+      "storeid": "sakura-b6b668",
+      "shopid": "sakura-b6b668-paypay"
+    },
+    {
+      "name": "HAYA治療院",
+      "storeid": "sakura-4854b4",
+      "shopid": "sakura-4854b4-paypay"
+    },
+    {
+      "name": "さくら堂接骨院",
+      "storeid": "sakura-c9e88b",
+      "shopid": "sakura-c9e88b-paypay"
+    },
+    {
+      "name": "R ビルしみず整骨院",
+      "storeid": "sakura-1abfa0",
+      "shopid": "sakura-1abfa0-paypay"
+    },
+    {
+      "name": "表町鍼灸院",
+      "storeid": "sakura-e15502",
+      "shopid": "sakura-e15502-paypay"
+    },
+    {
+      "name": "のぎつね整骨院",
+      "storeid": "sakura-040033",
+      "shopid": "sakura-040033-paypay"
+    },
+    {
+      "name": "エレナ鍼灸サロン",
+      "storeid": "sakura-8dae0a",
+      "shopid": "sakura-8dae0a-paypay"
+    },
+    {
+      "name": "あおい整骨院",
+      "storeid": "sakura-99b7cd",
+      "shopid": "sakura-99b7cd-paypay"
+    },
+    {
+      "name": "はら鍼灸院",
+      "storeid": "sakura-9f881d",
+      "shopid": "sakura-9f881d-paypay"
+    },
+    {
+      "name": "リラックスサロン新月",
+      "storeid": "sakura-746de6",
+      "shopid": "sakura-746de6-paypay"
+    },
+    {
+      "name": "原はりきゅう整体院",
+      "storeid": "sakura-aba476",
+      "shopid": "sakura-aba476-paypay"
+    },
+    {
+      "name": "エナジーリバランス整体Kinai",
+      "storeid": "sakura-b28430",
+      "shopid": "sakura-b28430-paypay"
+    },
+    {
+      "name": "ばぁず",
+      "storeid": "sakura-bd8751",
+      "shopid": "sakura-bd8751-paypay"
+    },
+    {
+      "name": "すずき指圧院",
+      "storeid": "sakura-2d52b0",
+      "shopid": "sakura-2d52b0-paypay"
+    },
+    {
+      "name": "夢ごこち",
+      "storeid": "sakura-120c34",
+      "shopid": "sakura-120c34-paypay"
+    },
+    {
+      "name": "ジーユー",
+      "storeid": "sakura-33e6b4",
+      "shopid": "sakura-33e6b4-paypay"
+    },
+    {
+      "name": "シャトレーゼ",
+      "storeid": "sakura-1a5567",
+      "shopid": "sakura-1a5567-paypay"
+    },
+    {
+      "name": "セリア",
+      "storeid": "sakura-d745be",
+      "shopid": "sakura-d745be-paypay"
+    },
+    {
+      "name": "しまむら",
+      "storeid": "sakura-e04c62",
+      "shopid": "sakura-e04c62-paypay"
+    },
+    {
+      "name": "アベイル",
+      "storeid": "sakura-8274e4",
+      "shopid": "sakura-8274e4-paypay"
+    },
+    {
+      "name": "ダイソー",
+      "storeid": "sakura-9088f8",
+      "shopid": "sakura-9088f8-paypay"
+    },
+    {
+      "name": "TSUTAYA",
+      "storeid": "sakura-35bf2f",
+      "shopid": "sakura-35bf2f-paypay"
+    },
+    {
+      "name": "キャン★ドゥ",
+      "storeid": "sakura-a8bb79",
+      "shopid": "sakura-a8bb79-paypay"
+    },
+    {
+      "name": "サンキ",
+      "storeid": "sakura-0c44be",
+      "shopid": "sakura-0c44be-paypay"
+    },
+    {
+      "name": "ワッツ",
+      "storeid": "sakura-969afa",
+      "shopid": "sakura-969afa-paypay"
+    },
+    {
+      "name": "ファミリーショップいとう",
+      "storeid": "sakura-012f43",
+      "shopid": "sakura-012f43-paypay"
+    },
+    {
+      "name": "宮脇書店",
+      "storeid": "sakura-f9deb9",
+      "shopid": "sakura-f9deb9-paypay"
+    },
+    {
+      "name": "金子牧場",
+      "storeid": "sakura-5f4c60",
+      "shopid": "sakura-5f4c60-paypay"
+    },
+    {
+      "name": "西松屋",
+      "storeid": "sakura-fac701",
+      "shopid": "sakura-fac701-paypay"
+    },
+    {
+      "name": "バースデイ",
+      "storeid": "sakura-1326af",
+      "shopid": "sakura-1326af-paypay"
+    },
+    {
+      "name": "マルシェかしま",
+      "storeid": "sakura-85491b",
+      "shopid": "sakura-85491b-paypay"
+    },
+    {
+      "name": "はれの木ベーカリー",
+      "storeid": "sakura-44ea0e",
+      "shopid": "sakura-44ea0e-paypay"
+    },
+    {
+      "name": "シモアール",
+      "storeid": "sakura-da1912",
+      "shopid": "sakura-da1912-paypay"
+    },
+    {
+      "name": "ルビーズケバブ",
+      "storeid": "sakura-dda809",
+      "shopid": "sakura-dda809-paypay"
+    },
+    {
+      "name": "株式会社もち吉",
+      "storeid": "sakura-a38637",
+      "shopid": "sakura-a38637-paypay"
+    },
+    {
+      "name": "ときわ書房",
+      "storeid": "sakura-839bfd",
+      "shopid": "sakura-839bfd-paypay"
+    },
+    {
+      "name": "ゆめこうじょう",
+      "storeid": "sakura-938683",
+      "shopid": "sakura-938683-paypay"
+    },
+    {
+      "name": "パン家ジパング",
+      "storeid": "sakura-6b67e7",
+      "shopid": "sakura-6b67e7-paypay"
+    },
+    {
+      "name": "小川園",
+      "storeid": "sakura-82bab2",
+      "shopid": "sakura-82bab2-paypay"
+    },
+    {
+      "name": "なごみの米屋",
+      "storeid": "sakura-6e69d1",
+      "shopid": "sakura-6e69d1-paypay"
+    },
+    {
+      "name": "ハニーズ",
+      "storeid": "sakura-3e05ca",
+      "shopid": "sakura-3e05ca-paypay"
+    },
+    {
+      "name": "ラトリエ",
+      "storeid": "sakura-fdb34a",
+      "shopid": "sakura-fdb34a-paypay"
+    },
+    {
+      "name": "マグネット",
+      "storeid": "sakura-4c9143",
+      "shopid": "sakura-4c9143-paypay"
+    },
+    {
+      "name": "不二家",
+      "storeid": "sakura-99b316",
+      "shopid": "sakura-99b316-paypay"
+    },
+    {
+      "name": "オリベート",
+      "storeid": "sakura-418dda",
+      "shopid": "sakura-418dda-paypay"
+    },
+    {
+      "name": "キムタロウ",
+      "storeid": "sakura-783030",
+      "shopid": "sakura-783030-paypay"
+    },
+    {
+      "name": "ABCーMART",
+      "storeid": "sakura-4b3818",
+      "shopid": "sakura-4b3818-paypay"
+    },
+    {
+      "name": "ぎんろう",
+      "storeid": "sakura-064b98",
+      "shopid": "sakura-064b98-paypay"
+    },
+    {
+      "name": "かち農園",
+      "storeid": "sakura-73a4ea",
+      "shopid": "sakura-73a4ea-paypay"
+    },
+    {
+      "name": "おかしのアトリエ",
+      "storeid": "sakura-51bb73",
+      "shopid": "sakura-51bb73-paypay"
+    },
+    {
+      "name": "JINS",
+      "storeid": "sakura-18974b",
+      "shopid": "sakura-18974b-paypay"
+    },
+    {
+      "name": "ロコビア",
+      "storeid": "sakura-6891b3",
+      "shopid": "sakura-6891b3-paypay"
+    },
+    {
+      "name": "日本サーナ株式会社",
+      "storeid": "sakura-f59b54",
+      "shopid": "sakura-f59b54-paypay"
+    },
+    {
+      "name": "島村楽器",
+      "storeid": "sakura-923c24",
+      "shopid": "sakura-923c24-paypay"
+    },
+    {
+      "name": "ネイチャーズテイスト",
+      "storeid": "sakura-f9e5a8",
+      "shopid": "sakura-f9e5a8-paypay"
+    },
+    {
+      "name": "サイクルベースあさひ",
+      "storeid": "sakura-e99353",
+      "shopid": "sakura-e99353-paypay"
+    },
+    {
+      "name": "サカゼン",
+      "storeid": "sakura-69e6b2",
+      "shopid": "sakura-69e6b2-paypay"
+    },
+    {
+      "name": "かすていらタカノ",
+      "storeid": "sakura-e7ae03",
+      "shopid": "sakura-e7ae03-paypay"
+    },
+    {
+      "name": "ライトオン",
+      "storeid": "sakura-84708d",
+      "shopid": "sakura-84708d-paypay"
+    },
+    {
+      "name": "fortuna",
+      "storeid": "sakura-39e3c3",
+      "shopid": "sakura-39e3c3-paypay"
+    },
+    {
+      "name": "オンデーズ",
+      "storeid": "sakura-a6893c",
+      "shopid": "sakura-a6893c-paypay"
+    },
+    {
+      "name": "ユーキッズ",
+      "storeid": "sakura-bb6814",
+      "shopid": "sakura-bb6814-paypay"
+    },
+    {
+      "name": "ユーカリボウル",
+      "storeid": "sakura-75b291",
+      "shopid": "sakura-75b291-paypay"
+    },
+    {
+      "name": "トランポリンパーク　テン・フォーティー",
+      "storeid": "sakura-5b0f7b",
+      "shopid": "sakura-5b0f7b-paypay"
+    },
+    {
+      "name": "ラッキー",
+      "storeid": "sakura-058fa4",
+      "shopid": "sakura-058fa4-paypay"
+    },
+    {
+      "name": "レイディックス",
+      "storeid": "sakura-4fcdb0",
+      "shopid": "sakura-4fcdb0-paypay"
+    },
+    {
+      "name": "姿勢改善サロン Yukari tch",
+      "storeid": "sakura-ed179f",
+      "shopid": "sakura-ed179f-paypay"
+    },
+    {
+      "name": "GREEN３YED",
+      "storeid": "sakura-5490f1",
+      "shopid": "sakura-5490f1-paypay"
+    },
+    {
+      "name": "カラオケ流通センター",
+      "storeid": "sakura-e5d225",
+      "shopid": "sakura-e5d225-paypay"
+    },
+    {
+      "name": "LIFEパーク",
+      "storeid": "sakura-632a53",
+      "shopid": "sakura-632a53-paypay"
+    },
+    {
+      "name": "LOOSE COFFEE",
+      "storeid": "sakura-87380c",
+      "shopid": "sakura-87380c-paypay"
+    },
+    {
+      "name": "ヒルトップバーディクラブ",
+      "storeid": "sakura-bc1b8c",
+      "shopid": "sakura-bc1b8c-paypay"
+    },
+    {
+      "name": "H＆M",
+      "storeid": "sakura-28ed3f",
+      "shopid": "sakura-28ed3f-paypay"
+    },
+    {
+      "name": "チヨダ",
+      "storeid": "sakura-1d4d06",
+      "shopid": "sakura-1d4d06-paypay"
+    },
+    {
+      "name": "カフェシュクル",
+      "storeid": "sakura-13138d",
+      "shopid": "sakura-13138d-paypay"
+    },
+    {
+      "name": "ボンメゾン",
+      "storeid": "sakura-61c32f",
+      "shopid": "sakura-61c32f-paypay"
+    },
+    {
+      "name": "中央コンタクト",
+      "storeid": "sakura-3f81f9",
+      "shopid": "sakura-3f81f9-paypay"
+    },
+    {
+      "name": "CAROL",
+      "storeid": "sakura-8f40b4",
+      "shopid": "sakura-8f40b4-paypay"
+    },
+    {
+      "name": "コムサイズム",
+      "storeid": "sakura-25495b",
+      "shopid": "sakura-25495b-paypay"
+    },
+    {
+      "name": "ヨシダヤ",
+      "storeid": "sakura-e16e24",
+      "shopid": "sakura-e16e24-paypay"
+    },
+    {
+      "name": "フローレンス",
+      "storeid": "sakura-d8dc09",
+      "shopid": "sakura-d8dc09-paypay"
+    },
+    {
+      "name": "フェリーチェ",
+      "storeid": "sakura-9c9142",
+      "shopid": "sakura-9c9142-paypay"
+    },
+    {
+      "name": "mi-mo",
+      "storeid": "sakura-e77de2",
+      "shopid": "sakura-e77de2-paypay"
+    },
+    {
+      "name": "三谷屋呉服店",
+      "storeid": "sakura-4546a9",
+      "shopid": "sakura-4546a9-paypay"
+    },
+    {
+      "name": "SANAN",
+      "storeid": "sakura-06e968",
+      "shopid": "sakura-06e968-paypay"
+    },
+    {
+      "name": "クリスタル・ローゼ",
+      "storeid": "sakura-da9fdf",
+      "shopid": "sakura-da9fdf-paypay"
+    },
+    {
+      "name": "服と日用品SLOPE",
+      "storeid": "sakura-69af32",
+      "shopid": "sakura-69af32-paypay"
+    },
+    {
+      "name": "アトリエぷちさゆみ",
+      "storeid": "sakura-4aa3cc",
+      "shopid": "sakura-4aa3cc-paypay"
+    },
+    {
+      "name": "マツモト洋品店",
+      "storeid": "sakura-e2ee65",
+      "shopid": "sakura-e2ee65-paypay"
+    },
+    {
+      "name": "呉織",
+      "storeid": "sakura-e71df5",
+      "shopid": "sakura-e71df5-paypay"
+    },
+    {
+      "name": "WIZ",
+      "storeid": "sakura-a3c0c6",
+      "shopid": "sakura-a3c0c6-paypay"
+    },
+    {
+      "name": "美容室クラフト",
+      "storeid": "sakura-c6b83f",
+      "shopid": "sakura-c6b83f-paypay"
+    },
+    {
+      "name": "スキットカット",
+      "storeid": "sakura-fc316e",
+      "shopid": "sakura-fc316e-paypay"
+    },
+    {
+      "name": "LUSTER",
+      "storeid": "sakura-b644de",
+      "shopid": "sakura-b644de-paypay"
+    },
+    {
+      "name": "Lish",
+      "storeid": "sakura-996864",
+      "shopid": "sakura-996864-paypay"
+    },
+    {
+      "name": "ファミリーカット",
+      "storeid": "sakura-cbdc83",
+      "shopid": "sakura-cbdc83-paypay"
+    },
+    {
+      "name": "carecolor salon en",
+      "storeid": "sakura-4c18eb",
+      "shopid": "sakura-4c18eb-paypay"
+    },
+    {
+      "name": "コレクション",
+      "storeid": "sakura-695b82",
+      "shopid": "sakura-695b82-paypay"
+    },
+    {
+      "name": "ヘアーサロンコイデ",
+      "storeid": "sakura-a0f6b6",
+      "shopid": "sakura-a0f6b6-paypay"
+    },
+    {
+      "name": "ROOTS",
+      "storeid": "sakura-8f220d",
+      "shopid": "sakura-8f220d-paypay"
+    },
+    {
+      "name": "美容室QUEST",
+      "storeid": "sakura-dff64c",
+      "shopid": "sakura-dff64c-paypay"
+    },
+    {
+      "name": "クライブヘアー",
+      "storeid": "sakura-83feb9",
+      "shopid": "sakura-83feb9-paypay"
+    },
+    {
+      "name": "株式会社AKIKO ",
+      "storeid": "sakura-d2bebd",
+      "shopid": "sakura-d2bebd-paypay"
+    },
+    {
+      "name": "slow",
+      "storeid": "sakura-4fe9df",
+      "shopid": "sakura-4fe9df-paypay"
+    },
+    {
+      "name": "デッサン",
+      "storeid": "sakura-c53408",
+      "shopid": "sakura-c53408-paypay"
+    },
+    {
+      "name": "まつエク専門店グッドリーフ",
+      "storeid": "sakura-0bfbaf",
+      "shopid": "sakura-0bfbaf-paypay"
+    },
+    {
+      "name": "メンズヘアーサロンプリンス",
+      "storeid": "sakura-f11668",
+      "shopid": "sakura-f11668-paypay"
+    },
+    {
+      "name": "ヘアーサロン秋山",
+      "storeid": "sakura-805739",
+      "shopid": "sakura-805739-paypay"
+    },
+    {
+      "name": "CREW",
+      "storeid": "sakura-eb343a",
+      "shopid": "sakura-eb343a-paypay"
+    },
+    {
+      "name": "カットサロンファイン",
+      "storeid": "sakura-231c20",
+      "shopid": "sakura-231c20-paypay"
+    },
+    {
+      "name": "Breath",
+      "storeid": "sakura-382f1d",
+      "shopid": "sakura-382f1d-paypay"
+    },
+    {
+      "name": "すき家",
+      "storeid": "sakura-762f52",
+      "shopid": "sakura-762f52-paypay"
+    },
+    {
+      "name": "ブーランジェリー・マッサ",
+      "storeid": "sakura-a5fb29",
+      "shopid": "sakura-a5fb29-paypay"
+    },
+    {
+      "name": "あきんどスシロー",
+      "storeid": "sakura-8ff7c2",
+      "shopid": "sakura-8ff7c2-paypay"
+    },
+    {
+      "name": "はなまるうどん",
+      "storeid": "sakura-995dd1",
+      "shopid": "sakura-995dd1-paypay"
+    },
+    {
+      "name": "サーティーワンアイスクリーム",
+      "storeid": "sakura-9011ca",
+      "shopid": "sakura-9011ca-paypay"
+    },
+    {
+      "name": "ケンタッキーフライドチキン",
+      "storeid": "sakura-d5292c",
+      "shopid": "sakura-d5292c-paypay"
+    },
+    {
+      "name": "寿司やまと",
+      "storeid": "sakura-df1a05",
+      "shopid": "sakura-df1a05-paypay"
+    },
+    {
+      "name": "かっぱ寿司",
+      "storeid": "sakura-53652d",
+      "shopid": "sakura-53652d-paypay"
+    },
+    {
+      "name": "すし銚子丸",
+      "storeid": "sakura-db3e39",
+      "shopid": "sakura-db3e39-paypay"
+    },
+    {
+      "name": "ビッグボーイ",
+      "storeid": "sakura-4f00dd",
+      "shopid": "sakura-4f00dd-paypay"
+    },
+    {
+      "name": "ステーキ宮",
+      "storeid": "sakura-cd5a3a",
+      "shopid": "sakura-cd5a3a-paypay"
+    },
+    {
+      "name": "鎌倉パスタ",
+      "storeid": "sakura-8d5010",
+      "shopid": "sakura-8d5010-paypay"
+    },
+    {
+      "name": "リンガーハット",
+      "storeid": "sakura-9c9c43",
+      "shopid": "sakura-9c9c43-paypay"
+    },
+    {
+      "name": "おかやま食堂",
+      "storeid": "sakura-2f4d30",
+      "shopid": "sakura-2f4d30-paypay"
+    },
+    {
+      "name": "佐倉きのこ園",
+      "storeid": "sakura-de2c2a",
+      "shopid": "sakura-de2c2a-paypay"
+    },
+    {
+      "name": "イタリアンレストランオリベート",
+      "storeid": "sakura-b7c474",
+      "shopid": "sakura-b7c474-paypay"
+    },
+    {
+      "name": "Cafe Buona Giornata",
+      "storeid": "sakura-f1460f",
+      "shopid": "sakura-f1460f-paypay"
+    },
+    {
+      "name": "十割そばさちの",
+      "storeid": "sakura-73fa2b",
+      "shopid": "sakura-73fa2b-paypay"
+    },
+    {
+      "name": "くいどん",
+      "storeid": "sakura-ae34b7",
+      "shopid": "sakura-ae34b7-paypay"
+    },
+    {
+      "name": "ラーメンとん太",
+      "storeid": "sakura-0c5ab0",
+      "shopid": "sakura-0c5ab0-paypay"
+    },
+    {
+      "name": "鳥貴族",
+      "storeid": "sakura-2f1ba6",
+      "shopid": "sakura-2f1ba6-paypay"
+    },
+    {
+      "name": "インド＆アジアンダイニングSATHI",
+      "storeid": "sakura-a83ff9",
+      "shopid": "sakura-a83ff9-paypay"
+    },
+    {
+      "name": "中華レストランみろべー",
+      "storeid": "sakura-e6a4dd",
+      "shopid": "sakura-e6a4dd-paypay"
+    },
+    {
+      "name": "まっこす",
+      "storeid": "sakura-8e2c64",
+      "shopid": "sakura-8e2c64-paypay"
+    },
+    {
+      "name": "RAGUMAN２０１４",
+      "storeid": "sakura-5630a0",
+      "shopid": "sakura-5630a0-paypay"
+    },
+    {
+      "name": "トルシー",
+      "storeid": "sakura-406330",
+      "shopid": "sakura-406330-paypay"
+    },
+    {
+      "name": "あぐりのたこやき",
+      "storeid": "sakura-3f9d8f",
+      "shopid": "sakura-3f9d8f-paypay"
+    },
+    {
+      "name": "手打ちラーメン利久",
+      "storeid": "sakura-dc3791",
+      "shopid": "sakura-dc3791-paypay"
+    },
+    {
+      "name": "とりのごん助",
+      "storeid": "sakura-9cfa71",
+      "shopid": "sakura-9cfa71-paypay"
+    },
+    {
+      "name": "串焼き屋　鶏ごっち",
+      "storeid": "sakura-c3b0b4",
+      "shopid": "sakura-c3b0b4-paypay"
+    },
+    {
+      "name": "釣りバカ一代",
+      "storeid": "sakura-c7d7b5",
+      "shopid": "sakura-c7d7b5-paypay"
+    },
+    {
+      "name": "ニューナマステ",
+      "storeid": "sakura-713a6d",
+      "shopid": "sakura-713a6d-paypay"
+    },
+    {
+      "name": "Feliz珈琲",
+      "storeid": "sakura-8a6d8b",
+      "shopid": "sakura-8a6d8b-paypay"
+    },
+    {
+      "name": "モンテローザ魚民",
+      "storeid": "sakura-048c5d",
+      "shopid": "sakura-048c5d-paypay"
+    },
+    {
+      "name": "チャーシュー専門店たけひろ",
+      "storeid": "sakura-47cab0",
+      "shopid": "sakura-47cab0-paypay"
+    },
+    {
+      "name": "中国料理正源",
+      "storeid": "sakura-b4b312",
+      "shopid": "sakura-b4b312-paypay"
+    },
+    {
+      "name": "アンシャンテ",
+      "storeid": "sakura-33241d",
+      "shopid": "sakura-33241d-paypay"
+    },
+    {
+      "name": "イタリアンレストランZucca",
+      "storeid": "sakura-c72ddb",
+      "shopid": "sakura-c72ddb-paypay"
+    },
+    {
+      "name": "しろくま",
+      "storeid": "sakura-ea6117",
+      "shopid": "sakura-ea6117-paypay"
+    },
+    {
+      "name": "北総整形外科",
+      "storeid": "sakura-a64271",
+      "shopid": "sakura-a64271-paypay"
+    },
+    {
+      "name": "医療法人社団樹徳会桜整形外科眼科病院",
+      "storeid": "sakura-1270af",
+      "shopid": "sakura-1270af-paypay"
+    },
+    {
+      "name": "ふなとクリニック",
+      "storeid": "sakura-0dcb5d",
+      "shopid": "sakura-0dcb5d-paypay"
+    },
+    {
+      "name": "フィジオプレイス",
+      "storeid": "sakura-620418",
+      "shopid": "sakura-620418-paypay"
+    },
+    {
+      "name": "佐倉ファミリークリニック",
+      "storeid": "sakura-5665ff",
+      "shopid": "sakura-5665ff-paypay"
+    },
+    {
+      "name": "たこむら",
+      "storeid": "sakura-d5e4eb",
+      "shopid": "sakura-d5e4eb-paypay"
+    },
+    {
+      "name": "酒家味山",
+      "storeid": "sakura-429502",
+      "shopid": "sakura-429502-paypay"
+    },
+    {
+      "name": "Trattoria Noce",
+      "storeid": "sakura-21c390",
+      "shopid": "sakura-21c390-paypay"
+    },
+    {
+      "name": "ちぃComin'",
+      "storeid": "sakura-ff29e6",
+      "shopid": "sakura-ff29e6-paypay"
+    },
+    {
+      "name": "高倉町珈琲",
+      "storeid": "sakura-04a0b3",
+      "shopid": "sakura-04a0b3-paypay"
+    },
+    {
+      "name": "花水月～おさけも飲めるかふぇ～しろくま",
+      "storeid": "sakura-7b4232",
+      "shopid": "sakura-7b4232-paypay"
+    },
+    {
+      "name": "入母屋珈琲",
+      "storeid": "sakura-f4ce73",
+      "shopid": "sakura-f4ce73-paypay"
+    },
+    {
+      "name": "なのはな亭",
+      "storeid": "sakura-eddb4b",
+      "shopid": "sakura-eddb4b-paypay"
+    },
+    {
+      "name": "本場広島の味！ひろしま亭",
+      "storeid": "sakura-b08fff",
+      "shopid": "sakura-b08fff-paypay"
+    },
+    {
+      "name": "カフェ・ド・パリ",
+      "storeid": "sakura-0ed3a3",
+      "shopid": "sakura-0ed3a3-paypay"
+    },
+    {
+      "name": "たこ焼き八屋",
+      "storeid": "sakura-354f43",
+      "shopid": "sakura-354f43-paypay"
+    }
+  ]
+}
