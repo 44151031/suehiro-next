@@ -1,0 +1,391 @@
+{
+  "スーパー": [
+    {
+      "name": "JA長生",
+      "storeid": "mobara-1ce773",
+      "shopid": "mobara-1ce773-paypay"
+    },
+    {
+      "name": "ナヨンフィリピンモバラ",
+      "storeid": "mobara-e9e6d3",
+      "shopid": "mobara-e9e6d3-paypay"
+    }
+  ],
+  "百貨店・ショッピングセンター": [
+    {
+      "name": "おりへい",
+      "storeid": "mobara-763bb2",
+      "shopid": "mobara-763bb2-paypay"
+    },
+    {
+      "name": "永瀬商店",
+      "storeid": "mobara-a03e4b",
+      "shopid": "mobara-a03e4b-paypay"
+    }
+  ],
+  "ドラッグストア・薬局": [
+    {
+      "name": "有限会社ナルケ薬粧",
+      "storeid": "mobara-11f9df",
+      "shopid": "mobara-11f9df-paypay"
+    },
+    {
+      "name": "友愛薬局　茂原店",
+      "storeid": "mobara-0361d4",
+      "shopid": "mobara-0361d4-paypay"
+    },
+    {
+      "name": "茂原中央薬局",
+      "storeid": "mobara-e6a9b9",
+      "shopid": "mobara-e6a9b9-paypay"
+    },
+    {
+      "name": "くすりのジョヴィチェーンたちばな薬局",
+      "storeid": "mobara-894e95",
+      "shopid": "mobara-894e95-paypay"
+    },
+    {
+      "name": "市原薬局　本店",
+      "storeid": "mobara-8cb154",
+      "shopid": "mobara-8cb154-paypay"
+    },
+    {
+      "name": "長生薬局",
+      "storeid": "mobara-1f68a3",
+      "shopid": "mobara-1f68a3-paypay"
+    },
+    {
+      "name": "ドラッグ京都屋",
+      "storeid": "mobara-509c6b",
+      "shopid": "mobara-509c6b-paypay"
+    },
+    {
+      "name": "鈴木薬局",
+      "storeid": "mobara-a3677f",
+      "shopid": "mobara-a3677f-paypay"
+    },
+    {
+      "name": "LaBrille",
+      "storeid": "mobara-4de638",
+      "shopid": "mobara-4de638-paypay"
+    },
+    {
+      "name": "Lumiere",
+      "storeid": "mobara-e8c922",
+      "shopid": "mobara-e8c922-paypay"
+    },
+    {
+      "name": "あうん薬局",
+      "storeid": "mobara-78f68b",
+      "shopid": "mobara-78f68b-paypay"
+    }
+  ],
+  "ショッピング": [
+    {
+      "name": "旬の里ねぎぼうず",
+      "storeid": "mobara-62b5c1",
+      "shopid": "mobara-62b5c1-paypay"
+    },
+    {
+      "name": "シューベルト",
+      "storeid": "mobara-69eec0",
+      "shopid": "mobara-69eec0-paypay"
+    },
+    {
+      "name": "はんこ家はん造",
+      "storeid": "mobara-015dfc",
+      "shopid": "mobara-015dfc-paypay"
+    },
+    {
+      "name": "MOBACOS",
+      "storeid": "mobara-967eac",
+      "shopid": "mobara-967eac-paypay"
+    },
+    {
+      "name": "ペジーブル",
+      "storeid": "mobara-a26643",
+      "shopid": "mobara-a26643-paypay"
+    },
+    {
+      "name": "三矢菓子店",
+      "storeid": "mobara-2c3819",
+      "shopid": "mobara-2c3819-paypay"
+    },
+    {
+      "name": "Coco Style",
+      "storeid": "mobara-404ad6",
+      "shopid": "mobara-404ad6-paypay"
+    },
+    {
+      "name": "すぎい酒店",
+      "storeid": "mobara-0533dc",
+      "shopid": "mobara-0533dc-paypay"
+    },
+    {
+      "name": "あいな動物病院",
+      "storeid": "mobara-0b9b0d",
+      "shopid": "mobara-0b9b0d-paypay"
+    },
+    {
+      "name": "晶光堂アスモ店",
+      "storeid": "mobara-2c0003",
+      "shopid": "mobara-2c0003-paypay"
+    },
+    {
+      "name": "オートガレージ",
+      "storeid": "mobara-6c761f",
+      "shopid": "mobara-6c761f-paypay"
+    },
+    {
+      "name": "菓子屋　Norram",
+      "storeid": "mobara-87ca07",
+      "shopid": "mobara-87ca07-paypay"
+    },
+    {
+      "name": "しあわせパン製作所PopUp",
+      "storeid": "mobara-44fc9e",
+      "shopid": "mobara-44fc9e-paypay"
+    },
+    {
+      "name": "湧現会社エビスヤ",
+      "storeid": "mobara-e6cc0f",
+      "shopid": "mobara-e6cc0f-paypay"
+    },
+    {
+      "name": "PARSTORE",
+      "storeid": "mobara-cfb8bb",
+      "shopid": "mobara-cfb8bb-paypay"
+    },
+    {
+      "name": "齋藤酒店",
+      "storeid": "mobara-8db462",
+      "shopid": "mobara-8db462-paypay"
+    },
+    {
+      "name": "The country sunset",
+      "storeid": "mobara-897b70",
+      "shopid": "mobara-897b70-paypay"
+    },
+    {
+      "name": "菓子工房MeMe",
+      "storeid": "mobara-96277d",
+      "shopid": "mobara-96277d-paypay"
+    },
+    {
+      "name": "かに華食品",
+      "storeid": "mobara-e30cc6",
+      "shopid": "mobara-e30cc6-paypay"
+    },
+    {
+      "name": "もばら煎餅",
+      "storeid": "mobara-81aa2d",
+      "shopid": "mobara-81aa2d-paypay"
+    },
+    {
+      "name": "AKBloom",
+      "storeid": "mobara-d5f971",
+      "shopid": "mobara-d5f971-paypay"
+    },
+    {
+      "name": "鈴木商店",
+      "storeid": "mobara-ed1651",
+      "shopid": "mobara-ed1651-paypay"
+    },
+    {
+      "name": "patisserie ARU.",
+      "storeid": "mobara-530199",
+      "shopid": "mobara-530199-paypay"
+    },
+    {
+      "name": "こんぱまる千葉店",
+      "storeid": "mobara-bf409d",
+      "shopid": "mobara-bf409d-paypay"
+    },
+    {
+      "name": "葡萄具専門店武道",
+      "storeid": "mobara-61a882",
+      "shopid": "mobara-61a882-paypay"
+    },
+    {
+      "name": "COCO kitchen",
+      "storeid": "mobara-ffacfa",
+      "shopid": "mobara-ffacfa-paypay"
+    },
+    {
+      "name": "作田縫製",
+      "storeid": "mobara-2b8d0b",
+      "shopid": "mobara-2b8d0b-paypay"
+    },
+    {
+      "name": "花と雑貨の贈り物　サブ・ローザ",
+      "storeid": "mobara-7ad7c8",
+      "shopid": "mobara-7ad7c8-paypay"
+    },
+    {
+      "name": "秋葉商店",
+      "storeid": "mobara-eaa0d7",
+      "shopid": "mobara-eaa0d7-paypay"
+    },
+    {
+      "name": "ricorico",
+      "storeid": "mobara-3fd90f",
+      "shopid": "mobara-3fd90f-paypay"
+    },
+    {
+      "name": "メガネのオダ",
+      "storeid": "mobara-e6ae43",
+      "shopid": "mobara-e6ae43-paypay"
+    },
+    {
+      "name": "Oasis",
+      "storeid": "mobara-045423",
+      "shopid": "mobara-045423-paypay"
+    },
+    {
+      "name": "いわせ模型",
+      "storeid": "mobara-ee31fb",
+      "shopid": "mobara-ee31fb-paypay"
+    },
+    {
+      "name": "かしらのはらぺこキッチン",
+      "storeid": "mobara-9c16da",
+      "shopid": "mobara-9c16da-paypay"
+    },
+    {
+      "name": "相京商店",
+      "storeid": "mobara-f2ee30",
+      "shopid": "mobara-f2ee30-paypay"
+    },
+    {
+      "name": "RE.MONISM",
+      "storeid": "mobara-a6442d",
+      "shopid": "mobara-a6442d-paypay"
+    },
+    {
+      "name": "フラワーショップひまわり",
+      "storeid": "mobara-4e7ab6",
+      "shopid": "mobara-4e7ab6-paypay"
+    }
+  ],
+  "家電": [
+    {
+      "name": "M-STYLE",
+      "storeid": "mobara-ad8f13",
+      "shopid": "mobara-ad8f13-paypay"
+    },
+    {
+      "name": "ネジの東関",
+      "storeid": "mobara-366179",
+      "shopid": "mobara-366179-paypay"
+    },
+    {
+      "name": "BLUEWORKS",
+      "storeid": "mobara-4f2be1",
+      "shopid": "mobara-4f2be1-paypay"
+    },
+    {
+      "name": "WOOD STUDIO KUZE'S",
+      "storeid": "mobara-1dda18",
+      "shopid": "mobara-1dda18-paypay"
+    },
+    {
+      "name": "とりうみでんき",
+      "storeid": "mobara-32c852",
+      "shopid": "mobara-32c852-paypay"
+    },
+    {
+      "name": "日電商会",
+      "storeid": "mobara-b61f41",
+      "shopid": "mobara-b61f41-paypay"
+    },
+    {
+      "name": "日恵装飾",
+      "storeid": "mobara-709126",
+      "shopid": "mobara-709126-paypay"
+    },
+    {
+      "name": "くろねこ小屋　くろねこ商店",
+      "storeid": "mobara-ef3099",
+      "shopid": "mobara-ef3099-paypay"
+    },
+    {
+      "name": "モバラ日立電機",
+      "storeid": "mobara-2d03b2",
+      "shopid": "mobara-2d03b2-paypay"
+    }
+  ],
+  "マッサージ": [
+    {
+      "name": "つくもメディカル",
+      "storeid": "mobara-77007d",
+      "shopid": "mobara-77007d-paypay"
+    },
+    {
+      "name": "健康専門店ほぐみ",
+      "storeid": "mobara-2bf923",
+      "shopid": "mobara-2bf923-paypay"
+    },
+    {
+      "name": "せこ接骨院",
+      "storeid": "mobara-fdf930",
+      "shopid": "mobara-fdf930-paypay"
+    },
+    {
+      "name": "マクルール",
+      "storeid": "mobara-88faae",
+      "shopid": "mobara-88faae-paypay"
+    },
+    {
+      "name": "佐藤整骨院",
+      "storeid": "mobara-5b96c8",
+      "shopid": "mobara-5b96c8-paypay"
+    },
+    {
+      "name": "スマイル整骨院",
+      "storeid": "mobara-930ec9",
+      "shopid": "mobara-930ec9-paypay"
+    },
+    {
+      "name": "もみほぐしゆるり",
+      "storeid": "mobara-f50db2",
+      "shopid": "mobara-f50db2-paypay"
+    },
+    {
+      "name": "カイロハウスいち",
+      "storeid": "mobara-b612c5",
+      "shopid": "mobara-b612c5-paypay"
+    },
+    {
+      "name": "もばらファミリーカイロよろず屋",
+      "storeid": "mobara-b036fb",
+      "shopid": "mobara-b036fb-paypay"
+    },
+    {
+      "name": "Dear.smile茂原",
+      "storeid": "mobara-6cd021",
+      "shopid": "mobara-6cd021-paypay"
+    },
+    {
+      "name": "アスモまるだい整体院",
+      "storeid": "mobara-d80928",
+      "shopid": "mobara-d80928-paypay"
+    },
+    {
+      "name": "ひまわり整骨院",
+      "storeid": "mobara-395725",
+      "shopid": "mobara-395725-paypay"
+    }
+  ],
+  "ホテル・旅館": [
+    {
+      "name": "HOTEL THE BELLE",
+      "storeid": "mobara-8b1ba6",
+      "shopid": "mobara-8b1ba6-paypay"
+    },
+    {
+      "name": "茂原ステーションホテル",
+      "storeid": "mobara-b26f5f",
+      "shopid": "mobara-b26f5f-paypay"
+    }
+  ]
+}
