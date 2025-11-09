@@ -1,44 +1,44 @@
 "use client";
 
 import { useRef, useState, useEffect } from "react";
-import { useShopDetails } from "@/hooks/useShopDetails";
 import ShopCard from "./ShopCard";
-
-type Shop = { name: string; address?: string; shopid?: string };
-
-type ShopDetail = {
-  shopid: string;
-  name: string;
-  address: string;
-  description: string;
-  paytypes: string[];
-  note?: string;
-  homepage?: string;
-  instagram?: string;
-  x?: string;
-  line?: string;
-};
+import type { Shop } from "@/types/shop";
+import type { ShopDetail } from "@/hooks/useShopDetails";
 
 type Props = {
   genre: string;
   shops: Shop[];
   sortMode: "default" | "support";
+  /** SSRから渡される店舗詳細データ */
+  detailsMap: Record<string, ShopDetail>;
+  /** Supabaseから取得した応援ランキング */
   ranking: { shopid: string; likes_total: number }[];
 };
 
-export default function ShopList({ genre, shops, sortMode, ranking }: Props) {
+/**
+ * ✅ Egress削減対応版 ShopList
+ * - `useShopDetails` を削除（クライアントfetchなし）
+ * - detailsMap（SSR取得済）から詳細を参照
+ * - ♥応援数順のソート対応
+ */
+export default function ShopList({
+  genre,
+  shops,
+  sortMode,
+  detailsMap,
+  ranking,
+}: Props) {
   const [expanded, setExpanded] = useState(false);
   const [isClient, setIsClient] = useState(false);
   const headingRef = useRef<HTMLHeadingElement>(null);
-  const { detailsMap } = useShopDetails() || { detailsMap: {} };
 
   useEffect(() => setIsClient(true), []);
 
   const threshold = 12;
   const showToggle = shops?.length > threshold;
-  const visibleShops = isClient && !expanded ? shops?.slice(0, threshold) : shops;
+  const visibleShops = isClient && !expanded ? shops.slice(0, threshold) : shops;
 
-  // ✅ 並び替え処理
+  // ✅ 並び替え処理（♥応援順 or デフォルト）
   const sortedShops =
     sortMode === "support"
       ? [...visibleShops].sort((a, b) => {
@@ -70,14 +70,15 @@ export default function ShopList({ genre, shops, sortMode, ranking }: Props) {
       </h2>
 
       {!shops || shops.length === 0 ? (
-        <p className="text-gray-600 text-sm">公表されましたらこのページで紹介いたします。</p>
+        <p className="text-gray-600 text-sm">
+          公表されましたらこのページで紹介いたします。
+        </p>
       ) : (
         <>
-          {/* ✅ UI削除済み。ソートは親から渡された値を使うだけ */}
           <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 sm:gap-3 text-sm">
             {sortedShops.map((shop, idx) => {
-              const detail =
-                shop.shopid && detailsMap ? detailsMap[shop.shopid] : undefined;
+              const detail = shop.shopid ? detailsMap?.[shop.shopid] : undefined;
+
               return (
                 <ShopCard
                   key={shop.shopid ?? `${shop.name}-${idx}`}

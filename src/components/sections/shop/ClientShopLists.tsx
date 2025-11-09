@@ -1,9 +1,13 @@
+// /src/components/sections/shop/ClientShopLists.tsx
+// ✅ Egress削減版（詳細データfetch廃止、SSRから受け取り）
+
 "use client";
 
 import { useState, useEffect } from "react";
 import { createClient } from "@supabase/supabase-js";
 import GenreShopLists from "@/components/sections/shop/GenreShopLists";
 import type { Shop } from "@/types/shop";
+import type { ShopDetail } from "@/hooks/useShopDetails";
 
 // ✅ Supabaseクライアント
 const supabase = createClient(
@@ -12,15 +16,22 @@ const supabase = createClient(
 );
 
 type Props = {
+  /** ジャンル別の店舗リスト */
   shopListByGenre: Record<string, Shop[]>;
-  detailsJsonPath: string;
+  /** SSRで取得済みの店舗詳細マップ */
+  detailsMap: Record<string, ShopDetail>;
 };
 
-export default function ClientShopLists({ shopListByGenre, detailsJsonPath }: Props) {
+/**
+ * ✅ Egress削減対応版
+ * - Supabaseからランキングのみ取得
+ * - 店舗詳細データはSSR側から受け取る（クライアントfetchなし）
+ */
+export default function ClientShopLists({ shopListByGenre, detailsMap }: Props) {
   const [ranking, setRanking] = useState<{ shopid: string; likes: number }[]>([]);
   const [isLoading, setIsLoading] = useState(true);
 
-  // ✅ Supabaseからランキングを取得
+  // ✅ Supabaseからランキング取得（キャッシュ24h）
   const fetchRanking = async () => {
     setIsLoading(true);
     try {
@@ -29,7 +40,6 @@ export default function ClientShopLists({ shopListByGenre, detailsJsonPath }: Pr
         console.error("❌ 応援数ランキングの取得に失敗:", error);
       } else if (data) {
         setRanking(data);
-        // ローカルキャッシュに保存（timestamp付き）
         localStorage.setItem(
           "shop_ranking_cache",
           JSON.stringify({
@@ -45,24 +55,24 @@ export default function ClientShopLists({ shopListByGenre, detailsJsonPath }: Pr
     }
   };
 
-  // ✅ 初期ロード時：キャッシュ確認 → 24時間経過で更新
+  // ✅ 初回ロード時：キャッシュ確認 → 24時間超過で再取得
   useEffect(() => {
     const cache = localStorage.getItem("shop_ranking_cache");
-
-    // 🧪 テスト中はキャッシュを無効化（即最新ランキングを取得）
-    const forceRefresh = false; // ← true にすると毎回 Supabase にアクセス（確認用）
+    const forceRefresh = false; // ← テスト時のみtrueにする
 
     if (cache && !forceRefresh) {
-      const parsed = JSON.parse(cache);
-      const isExpired = Date.now() - parsed.timestamp > 24 * 60 * 60 * 1000; // 24時間
-      if (!isExpired) {
-        setRanking(parsed.data);
-        setIsLoading(false);
-        return; // キャッシュが有効ならSupabaseアクセス不要
+      try {
+        const parsed = JSON.parse(cache);
+        const isExpired = Date.now() - parsed.timestamp > 24 * 60 * 60 * 1000; // 24h
+        if (!isExpired && Array.isArray(parsed.data)) {
+          setRanking(parsed.data);
+          setIsLoading(false);
+          return;
+        }
+      } catch {
+        console.warn("⚠️ ローカルキャッシュ破損、再取得を行います");
       }
     }
-
-    // キャッシュがない or 期限切れ → 再取得
     fetchRanking();
   }, []);
 
@@ -76,7 +86,7 @@ export default function ClientShopLists({ shopListByGenre, detailsJsonPath }: Pr
 
       <GenreShopLists
         shopListByGenre={shopListByGenre}
-        detailsJsonPath={detailsJsonPath}
+        detailsMap={detailsMap}
         ranking={ranking}
       />
     </>
