@@ -1270,8 +1270,8 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
   /* resultAnnounceDate: null, */  // 先着順
   purchaseEndDate: "2026-02-08",
   useEndDate: "2026-02-08",
-  datePublished: "2025-10-28",
-  dateModified: "2025-10-28",
+  datePublished: "2025-11-13",
+  dateModified: "2025-11-13",
   eligiblePersons: "居住地に関係なく12歳以上の全ての方（本人確認必須）",
   applicationUrl: "https://paypay.ne.jp/event/fukui-ono-city-gift-vouchers-20251028/"
 },
@@ -1289,8 +1289,8 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
   applyEndDate: "2026-02-15T23:59:59",
   purchaseEndDate: "2026-02-15",
   useEndDate: "2026-02-16T23:59:59",
-  datePublished: "2025-12-15",
-  dateModified: "2025-12-15",
+  datePublished: "2025-11-13",
+  dateModified: "2025-11-13",
   eligiblePersons: "東京都武蔵村山市在住の12歳以上の方（本人確認必須・先着順）",
   applicationUrl: "https://paypay.ne.jp/event/tokyo-musashimurayama-city-gift-vouchers-20251215/"
 },
@@ -1309,8 +1309,8 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
   resultAnnounceDate: "2025-12-17T18:00:00",
   purchaseEndDate: "2026-02-28T23:59:59",
   useEndDate: "2026-02-28T23:59:59",
-  datePublished: "2025-09-01",
-  dateModified: "2025-11-17",
+  datePublished: "2025-11-13",
+  dateModified: "2025-11-13",
   eligiblePersons: "静岡県浜松市在住の12歳以上の方（抽選・本人確認必須）",
   applicationUrl: "https://paypay.ne.jp/event/shizuoka-hamamatsu-city-gift-vouchers-20250901/"
 },
@@ -1329,8 +1329,8 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
   /* resultAnnounceDate: null, */  // 先着順
   purchaseEndDate: "2025-12-31T23:59:59",
   useEndDate: "2026-02-28T23:59:59",
-  datePublished: "2025-07-01",
-  dateModified: "2025-08-04", // システム修正日時あり
+  datePublished: "2025-11-13",
+  dateModified: "2025-11-13",
   eligiblePersons: "居住地に関係なく12歳以上の全ての方（本人確認必須）",
   applicationUrl: "https://paypay.ne.jp/event/fukuoka-umi-town-gift-vouchers-20250701/"
 },
@@ -1349,8 +1349,8 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
   /* resultAnnounceDate: null, */  // 先着順
   purchaseEndDate: "2026-01-30T23:59:59",
   useEndDate: "2026-01-31T23:59:59",
-  datePublished: "2025-12-01",
-  dateModified: "2025-12-01",
+  datePublished: "2025-11-13",
+  dateModified: "2025-11-13",
   eligiblePersons: "福島県外に居住する12歳以上の方（本人確認必須・先着順）",
   applicationUrl: "https://paypay.ne.jp/event/fukushima-pref-gift-vouchers-20251201/"
 }
