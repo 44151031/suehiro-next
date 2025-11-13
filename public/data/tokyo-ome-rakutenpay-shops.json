@@ -1,0 +1,2668 @@
+{
+  "飲食店": [
+    {
+      "name": "月与の童屋",
+      "address": "河辺町",
+      "storeid": "ome-43c8f0",
+      "shopid": "ome-43c8f0-rakutenpay"
+    },
+    {
+      "name": "ORITO",
+      "address": "河辺町",
+      "storeid": "ome-ff7eac",
+      "shopid": "ome-ff7eac-rakutenpay"
+    },
+    {
+      "name": "kitchen NON",
+      "address": "河辺町",
+      "storeid": "ome-66e490",
+      "shopid": "ome-66e490-rakutenpay"
+    },
+    {
+      "name": "cinnamon",
+      "address": "河辺町",
+      "storeid": "ome-0fc324",
+      "shopid": "ome-0fc324-rakutenpay"
+    },
+    {
+      "name": "ピザ&カフェ トコ",
+      "address": "河辺町",
+      "storeid": "ome-7a5607",
+      "shopid": "ome-7a5607-rakutenpay"
+    },
+    {
+      "name": "ひのき茶屋",
+      "address": "河辺町",
+      "storeid": "ome-4aa86d",
+      "shopid": "ome-4aa86d-rakutenpay"
+    },
+    {
+      "name": "青梅のおいもや ひみつきち",
+      "address": "河辺町",
+      "storeid": "ome-5ef4da",
+      "shopid": "ome-5ef4da-rakutenpay"
+    },
+    {
+      "name": "アジアンカフェダイニング シェルパ",
+      "address": "河辺町",
+      "storeid": "ome-13741c",
+      "shopid": "ome-13741c-rakutenpay"
+    },
+    {
+      "name": "自然の恵み家 凛空",
+      "address": "河辺町",
+      "storeid": "ome-22705b",
+      "shopid": "ome-22705b-rakutenpay"
+    },
+    {
+      "name": "宮よし 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-b40b23",
+      "shopid": "ome-b40b23-rakutenpay"
+    },
+    {
+      "name": "焼肉明月館",
+      "address": "河辺町",
+      "storeid": "ome-c15242",
+      "shopid": "ome-c15242-rakutenpay"
+    },
+    {
+      "name": "パブ・フェニックス",
+      "address": "河辺町",
+      "storeid": "ome-c0b95d",
+      "shopid": "ome-c0b95d-rakutenpay"
+    },
+    {
+      "name": "らーめん元",
+      "address": "河辺町",
+      "storeid": "ome-14f01b",
+      "shopid": "ome-14f01b-rakutenpay"
+    },
+    {
+      "name": "炭火やきとり 火の鳥 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-4cd158",
+      "shopid": "ome-4cd158-rakutenpay"
+    },
+    {
+      "name": "BAR BASIS",
+      "address": "河辺町",
+      "storeid": "ome-c62971",
+      "shopid": "ome-c62971-rakutenpay"
+    },
+    {
+      "name": "CREPE COROMO",
+      "address": "河辺町",
+      "storeid": "ome-32c620",
+      "shopid": "ome-32c620-rakutenpay"
+    },
+    {
+      "name": "美登里家",
+      "address": "河辺町",
+      "storeid": "ome-4fff8a",
+      "shopid": "ome-4fff8a-rakutenpay"
+    },
+    {
+      "name": "CHAKU cafe&style",
+      "address": "河辺町",
+      "storeid": "ome-54d60a",
+      "shopid": "ome-54d60a-rakutenpay"
+    },
+    {
+      "name": "台湾酒場39",
+      "address": "河辺町",
+      "storeid": "ome-900c4d",
+      "shopid": "ome-900c4d-rakutenpay"
+    },
+    {
+      "name": "昼カラ 友楽蝶 青梅店",
+      "address": "河辺町",
+      "storeid": "ome-c99954",
+      "shopid": "ome-c99954-rakutenpay"
+    },
+    {
+      "name": "チャイナハウスシマ",
+      "address": "河辺町",
+      "storeid": "ome-cc673a",
+      "shopid": "ome-cc673a-rakutenpay"
+    },
+    {
+      "name": "うさぽんCAFE",
+      "address": "河辺町",
+      "storeid": "ome-a62350",
+      "shopid": "ome-a62350-rakutenpay"
+    },
+    {
+      "name": "ブールバール",
+      "address": "河辺町",
+      "storeid": "ome-d00e2c",
+      "shopid": "ome-d00e2c-rakutenpay"
+    },
+    {
+      "name": "もりもり亭",
+      "address": "河辺町",
+      "storeid": "ome-155119",
+      "shopid": "ome-155119-rakutenpay"
+    },
+    {
+      "name": "ビストロ 今",
+      "address": "河辺町",
+      "storeid": "ome-145e29",
+      "shopid": "ome-145e29-rakutenpay"
+    },
+    {
+      "name": "クーポール 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-5f974b",
+      "shopid": "ome-5f974b-rakutenpay"
+    },
+    {
+      "name": "ベーカリーカフェ PLUME",
+      "address": "河辺町",
+      "storeid": "ome-7ca7a2",
+      "shopid": "ome-7ca7a2-rakutenpay"
+    },
+    {
+      "name": "鉄板料理 昔",
+      "address": "河辺町",
+      "storeid": "ome-49dfd4",
+      "shopid": "ome-49dfd4-rakutenpay"
+    },
+    {
+      "name": "燻製とスープカレーけむり",
+      "address": "河辺町",
+      "storeid": "ome-44881b",
+      "shopid": "ome-44881b-rakutenpay"
+    },
+    {
+      "name": "まつもと",
+      "address": "駒木町",
+      "storeid": "ome-a1aa62",
+      "shopid": "ome-a1aa62-rakutenpay"
+    },
+    {
+      "name": "NAMA 御岳店",
+      "address": "御岳",
+      "storeid": "ome-221a32",
+      "shopid": "ome-221a32-rakutenpay"
+    },
+    {
+      "name": "原島荘",
+      "address": "御岳山",
+      "storeid": "ome-af7da3",
+      "shopid": "ome-af7da3-rakutenpay"
+    },
+    {
+      "name": "能保利",
+      "address": "御岳山",
+      "storeid": "ome-503386",
+      "shopid": "ome-503386-rakutenpay"
+    },
+    {
+      "name": "御岳山荘",
+      "address": "御岳山",
+      "storeid": "ome-3750a6",
+      "shopid": "ome-3750a6-rakutenpay"
+    },
+    {
+      "name": "千本屋",
+      "address": "御岳山",
+      "storeid": "ome-751371",
+      "shopid": "ome-751371-rakutenpay"
+    },
+    {
+      "name": "紅葉屋",
+      "address": "御岳山",
+      "storeid": "ome-128d98",
+      "shopid": "ome-128d98-rakutenpay"
+    },
+    {
+      "name": "きり山",
+      "address": "御岳本町",
+      "storeid": "ome-1eb18f",
+      "shopid": "ome-1eb18f-rakutenpay"
+    },
+    {
+      "name": "カフェ茶楽",
+      "address": "御岳本町",
+      "storeid": "ome-3ac77c",
+      "shopid": "ome-3ac77c-rakutenpay"
+    },
+    {
+      "name": "手打蕎麦ごろう",
+      "address": "御岳本町",
+      "storeid": "ome-ad9bbf",
+      "shopid": "ome-ad9bbf-rakutenpay"
+    },
+    {
+      "name": "HEALTHY SMOOTHIE",
+      "address": "御岳本町",
+      "storeid": "ome-331006",
+      "shopid": "ome-331006-rakutenpay"
+    },
+    {
+      "name": "駅前BBQ B-YARD",
+      "address": "御岳本町",
+      "storeid": "ome-e9b8c5",
+      "shopid": "ome-e9b8c5-rakutenpay"
+    },
+    {
+      "name": "手打ちそば 玉川屋",
+      "address": "御岳本町",
+      "storeid": "ome-239489",
+      "shopid": "ome-239489-rakutenpay"
+    },
+    {
+      "name": "RugTime Labo",
+      "address": "黒沢",
+      "storeid": "ome-53967c",
+      "shopid": "ome-53967c-rakutenpay"
+    },
+    {
+      "name": "クレープリー アルコバレーノ",
+      "address": "今井",
+      "storeid": "ome-72a451",
+      "shopid": "ome-72a451-rakutenpay"
+    },
+    {
+      "name": "極生ぷりん専門店 まさ希",
+      "address": "今井",
+      "storeid": "ome-72dc98",
+      "shopid": "ome-72dc98-rakutenpay"
+    },
+    {
+      "name": "タイ料理店 プラーカポン",
+      "address": "今寺",
+      "storeid": "ome-4be4e2",
+      "shopid": "ome-4be4e2-rakutenpay"
+    },
+    {
+      "name": "天龍",
+      "address": "師岡町",
+      "storeid": "ome-d60690",
+      "shopid": "ome-d60690-rakutenpay"
+    },
+    {
+      "name": "ニューナマステインディア",
+      "address": "師岡町",
+      "storeid": "ome-729d81",
+      "shopid": "ome-729d81-rakutenpay"
+    },
+    {
+      "name": "餃子 火の鳥",
+      "address": "師岡町",
+      "storeid": "ome-2a82e3",
+      "shopid": "ome-2a82e3-rakutenpay"
+    },
+    {
+      "name": "キッチンけん",
+      "address": "師岡町",
+      "storeid": "ome-1282de",
+      "shopid": "ome-1282de-rakutenpay"
+    },
+    {
+      "name": "やきとり ふうちゃん",
+      "address": "師岡町",
+      "storeid": "ome-8cd74c",
+      "shopid": "ome-8cd74c-rakutenpay"
+    },
+    {
+      "name": "バー Be happy",
+      "address": "師岡町",
+      "storeid": "ome-3a7d46",
+      "shopid": "ome-3a7d46-rakutenpay"
+    },
+    {
+      "name": "青梅酒場 ブルーバード",
+      "address": "住江町",
+      "storeid": "ome-904091",
+      "shopid": "ome-904091-rakutenpay"
+    },
+    {
+      "name": "ナミオ珈琲",
+      "address": "住江町",
+      "storeid": "ome-e6cb98",
+      "shopid": "ome-e6cb98-rakutenpay"
+    },
+    {
+      "name": "イタリア亭Ricordo",
+      "address": "勝沼",
+      "storeid": "ome-d1856f",
+      "shopid": "ome-d1856f-rakutenpay"
+    },
+    {
+      "name": "串揚げ ファイヤーバード東青梅",
+      "address": "勝沼",
+      "storeid": "ome-45b768",
+      "shopid": "ome-45b768-rakutenpay"
+    },
+    {
+      "name": "炭火やきとり火の鳥 東青梅店",
+      "address": "勝沼",
+      "storeid": "ome-0ffcea",
+      "shopid": "ome-0ffcea-rakutenpay"
+    },
+    {
+      "name": "火打屋 本店",
+      "address": "勝沼",
+      "storeid": "ome-d118d6",
+      "shopid": "ome-d118d6-rakutenpay"
+    },
+    {
+      "name": "割烹 三河屋",
+      "address": "勝沼",
+      "storeid": "ome-38bf00",
+      "shopid": "ome-38bf00-rakutenpay"
+    },
+    {
+      "name": "Potatostorage",
+      "address": "小曾木",
+      "storeid": "ome-388e01",
+      "shopid": "ome-388e01-rakutenpay"
+    },
+    {
+      "name": "古民家 いろり",
+      "address": "小曾木",
+      "storeid": "ome-071849",
+      "shopid": "ome-071849-rakutenpay"
+    },
+    {
+      "name": "コンブリオ",
+      "address": "小曾木",
+      "storeid": "ome-c383a6",
+      "shopid": "ome-c383a6-rakutenpay"
+    },
+    {
+      "name": "Surrender cafe&札幌スープカレー",
+      "address": "上町",
+      "storeid": "ome-d98ffa",
+      "shopid": "ome-d98ffa-rakutenpay"
+    },
+    {
+      "name": "焼肉青梅",
+      "address": "上町",
+      "storeid": "ome-f4b3a1",
+      "shopid": "ome-f4b3a1-rakutenpay"
+    },
+    {
+      "name": "居酒屋 きりしま",
+      "address": "新町",
+      "storeid": "ome-a32aa7",
+      "shopid": "ome-a32aa7-rakutenpay"
+    },
+    {
+      "name": "MAR-MAR",
+      "address": "新町",
+      "storeid": "ome-b7a1d0",
+      "shopid": "ome-b7a1d0-rakutenpay"
+    },
+    {
+      "name": "PUB 联 ( REN ) 小作店",
+      "address": "新町",
+      "storeid": "ome-2aa73f",
+      "shopid": "ome-2aa73f-rakutenpay"
+    },
+    {
+      "name": "焼肉しゃぶしゃぶいのうえ",
+      "address": "新町",
+      "storeid": "ome-809445",
+      "shopid": "ome-809445-rakutenpay"
+    },
+    {
+      "name": "沖縄居酒屋海人 愛",
+      "address": "新町",
+      "storeid": "ome-5d41cb",
+      "shopid": "ome-5d41cb-rakutenpay"
+    },
+    {
+      "name": "bar CLIMB",
+      "address": "新町",
+      "storeid": "ome-2a2337",
+      "shopid": "ome-2a2337-rakutenpay"
+    },
+    {
+      "name": "PubLounge Riemu",
+      "address": "新町",
+      "storeid": "ome-e22edc",
+      "shopid": "ome-e22edc-rakutenpay"
+    },
+    {
+      "name": "ラウンジエール 本店",
+      "address": "新町",
+      "storeid": "ome-55ee7e",
+      "shopid": "ome-55ee7e-rakutenpay"
+    },
+    {
+      "name": "Cafe Pecora",
+      "address": "新町",
+      "storeid": "ome-1082da",
+      "shopid": "ome-1082da-rakutenpay"
+    },
+    {
+      "name": "ビストロシンペイ",
+      "address": "新町",
+      "storeid": "ome-4d0c48",
+      "shopid": "ome-4d0c48-rakutenpay"
+    },
+    {
+      "name": "Natura",
+      "address": "新町",
+      "storeid": "ome-a2604d",
+      "shopid": "ome-a2604d-rakutenpay"
+    },
+    {
+      "name": "パティスリー CHALON",
+      "address": "新町",
+      "storeid": "ome-86aedf",
+      "shopid": "ome-86aedf-rakutenpay"
+    },
+    {
+      "name": "カフェブリッコ 青梅店",
+      "address": "新町",
+      "storeid": "ome-5ed110",
+      "shopid": "ome-5ed110-rakutenpay"
+    },
+    {
+      "name": "山田うどん食堂 青梅新町店",
+      "address": "新町",
+      "storeid": "ome-217cca",
+      "shopid": "ome-217cca-rakutenpay"
+    },
+    {
+      "name": "Patisserie Michel 本店",
+      "address": "新町",
+      "storeid": "ome-d2b622",
+      "shopid": "ome-d2b622-rakutenpay"
+    },
+    {
+      "name": "そば処 和樂",
+      "address": "新町",
+      "storeid": "ome-f7b274",
+      "shopid": "ome-f7b274-rakutenpay"
+    },
+    {
+      "name": "徳樹庵 青梅新町店",
+      "address": "新町",
+      "storeid": "ome-0e9159",
+      "shopid": "ome-0e9159-rakutenpay"
+    },
+    {
+      "name": "CoffeeandDonuts",
+      "address": "成木",
+      "storeid": "ome-6af779",
+      "shopid": "ome-6af779-rakutenpay"
+    },
+    {
+      "name": "炙り鶏 とりばこ",
+      "address": "西分町",
+      "storeid": "ome-8caf8f",
+      "shopid": "ome-8caf8f-rakutenpay"
+    },
+    {
+      "name": "SUN キッチン",
+      "address": "西分町",
+      "storeid": "ome-a7f747",
+      "shopid": "ome-a7f747-rakutenpay"
+    },
+    {
+      "name": "繭蔵",
+      "address": "西分町",
+      "storeid": "ome-4c979c",
+      "shopid": "ome-4c979c-rakutenpay"
+    },
+    {
+      "name": "稀星",
+      "address": "千ケ瀬町",
+      "storeid": "ome-c9b0d6",
+      "shopid": "ome-c9b0d6-rakutenpay"
+    },
+    {
+      "name": "ANACOM AWAKE",
+      "address": "千ケ瀬町",
+      "storeid": "ome-517b38",
+      "shopid": "ome-517b38-rakutenpay"
+    },
+    {
+      "name": "武蔵野うどん竹國青梅店",
+      "address": "千ケ瀬町",
+      "storeid": "ome-b199ac",
+      "shopid": "ome-b199ac-rakutenpay"
+    },
+    {
+      "name": "とんかつ太郎",
+      "address": "千ケ瀬町",
+      "storeid": "ome-ba2b86",
+      "shopid": "ome-ba2b86-rakutenpay"
+    },
+    {
+      "name": "FOREST LOUNGE",
+      "address": "大門",
+      "storeid": "ome-d8a907",
+      "shopid": "ome-d8a907-rakutenpay"
+    },
+    {
+      "name": "まんまる亭",
+      "address": "大門",
+      "storeid": "ome-73758a",
+      "shopid": "ome-73758a-rakutenpay"
+    },
+    {
+      "name": "梅菓匠 にしむら",
+      "address": "大柳町",
+      "storeid": "ome-d6ca71",
+      "shopid": "ome-d6ca71-rakutenpay"
+    },
+    {
+      "name": "青梅大学いも学部",
+      "address": "大柳町",
+      "storeid": "ome-d1930d",
+      "shopid": "ome-d1930d-rakutenpay"
+    },
+    {
+      "name": "CAFE 雫",
+      "address": "沢井",
+      "storeid": "ome-9a38d5",
+      "shopid": "ome-9a38d5-rakutenpay"
+    },
+    {
+      "name": "ままごと屋",
+      "address": "沢井",
+      "storeid": "ome-f2c76c",
+      "shopid": "ome-f2c76c-rakutenpay"
+    },
+    {
+      "name": "清流ガーデン 澤乃井園",
+      "address": "沢井",
+      "storeid": "ome-75ad6e",
+      "shopid": "ome-75ad6e-rakutenpay"
+    },
+    {
+      "name": "阿吽Labo.",
+      "address": "沢井",
+      "storeid": "ome-faada2",
+      "shopid": "ome-faada2-rakutenpay"
+    },
+    {
+      "name": "沢井マウンテンカフェ",
+      "address": "沢井",
+      "storeid": "ome-654e70",
+      "shopid": "ome-654e70-rakutenpay"
+    },
+    {
+      "name": "青龍kibako",
+      "address": "仲町",
+      "storeid": "ome-01f122",
+      "shopid": "ome-01f122-rakutenpay"
+    },
+    {
+      "name": "呑み処 みんみん家",
+      "address": "仲町",
+      "storeid": "ome-cfacd7",
+      "shopid": "ome-cfacd7-rakutenpay"
+    },
+    {
+      "name": "和み処 ふくちゃん",
+      "address": "仲町",
+      "storeid": "ome-5f060c",
+      "shopid": "ome-5f060c-rakutenpay"
+    },
+    {
+      "name": "日本航空学園 青梅キャンパス売店",
+      "address": "長淵",
+      "storeid": "ome-d7957e",
+      "shopid": "ome-d7957e-rakutenpay"
+    },
+    {
+      "name": "デイリーディッシュヒキダ",
+      "address": "長淵",
+      "storeid": "ome-16735c",
+      "shopid": "ome-16735c-rakutenpay"
+    },
+    {
+      "name": "旬",
+      "address": "長淵",
+      "storeid": "ome-b5e116",
+      "shopid": "ome-b5e116-rakutenpay"
+    },
+    {
+      "name": "沖縄居酒家 あすか",
+      "address": "東青梅",
+      "storeid": "ome-9f719e",
+      "shopid": "ome-9f719e-rakutenpay"
+    },
+    {
+      "name": "琉球ぼうず 青梅店",
+      "address": "東青梅",
+      "storeid": "ome-8f24e1",
+      "shopid": "ome-8f24e1-rakutenpay"
+    },
+    {
+      "name": "餃子と瓶",
+      "address": "東青梅",
+      "storeid": "ome-4c4968",
+      "shopid": "ome-4c4968-rakutenpay"
+    },
+    {
+      "name": "魚鳥酒家一期一会",
+      "address": "東青梅",
+      "storeid": "ome-6bb755",
+      "shopid": "ome-6bb755-rakutenpay"
+    },
+    {
+      "name": "焼肉みちくさ",
+      "address": "東青梅",
+      "storeid": "ome-7ee3bc",
+      "shopid": "ome-7ee3bc-rakutenpay"
+    },
+    {
+      "name": "海鮮・串揚げ 火の鳥",
+      "address": "東青梅",
+      "storeid": "ome-dd0d23",
+      "shopid": "ome-dd0d23-rakutenpay"
+    },
+    {
+      "name": "すみやき家 串陣 東青梅店",
+      "address": "東青梅",
+      "storeid": "ome-e7a020",
+      "shopid": "ome-e7a020-rakutenpay"
+    },
+    {
+      "name": "こいずみ",
+      "address": "東青梅",
+      "storeid": "ome-cf196d",
+      "shopid": "ome-cf196d-rakutenpay"
+    },
+    {
+      "name": "SPICES TOKYO",
+      "address": "東青梅",
+      "storeid": "ome-e9ce12",
+      "shopid": "ome-e9ce12-rakutenpay"
+    },
+    {
+      "name": "くつろぎ処 くつキッちん",
+      "address": "東青梅",
+      "storeid": "ome-da7e9a",
+      "shopid": "ome-da7e9a-rakutenpay"
+    },
+    {
+      "name": "大寿司",
+      "address": "東青梅",
+      "storeid": "ome-df464f",
+      "shopid": "ome-df464f-rakutenpay"
+    },
+    {
+      "name": "東青梅 炙堂",
+      "address": "東青梅",
+      "storeid": "ome-3d0684",
+      "shopid": "ome-3d0684-rakutenpay"
+    },
+    {
+      "name": "寿司勝",
+      "address": "東青梅",
+      "storeid": "ome-cd9957",
+      "shopid": "ome-cd9957-rakutenpay"
+    },
+    {
+      "name": "居酒屋 左党",
+      "address": "東青梅",
+      "storeid": "ome-e5b3af",
+      "shopid": "ome-e5b3af-rakutenpay"
+    },
+    {
+      "name": "サロン・ドMURASAKI",
+      "address": "東青梅",
+      "storeid": "ome-5c2598",
+      "shopid": "ome-5c2598-rakutenpay"
+    },
+    {
+      "name": "たつみ",
+      "address": "東青梅",
+      "storeid": "ome-774d05",
+      "shopid": "ome-774d05-rakutenpay"
+    },
+    {
+      "name": "いしがみosteria",
+      "address": "二俣尾",
+      "storeid": "ome-78ca17",
+      "shopid": "ome-78ca17-rakutenpay"
+    },
+    {
+      "name": "気ままにCafe",
+      "address": "二俣尾",
+      "storeid": "ome-6c30b6",
+      "shopid": "ome-6c30b6-rakutenpay"
+    },
+    {
+      "name": "うな幸",
+      "address": "梅郷",
+      "storeid": "ome-ef4b2e",
+      "shopid": "ome-ef4b2e-rakutenpay"
+    },
+    {
+      "name": "Sunrise LAUNDRY&CAFE",
+      "address": "梅郷",
+      "storeid": "ome-3095b9",
+      "shopid": "ome-3095b9-rakutenpay"
+    },
+    {
+      "name": "暮らしの料理",
+      "address": "梅郷",
+      "storeid": "ome-5cb840",
+      "shopid": "ome-5cb840-rakutenpay"
+    },
+    {
+      "name": "YouMe Rafting/Dining",
+      "address": "梅郷",
+      "storeid": "ome-b3330a",
+      "shopid": "ome-b3330a-rakutenpay"
+    },
+    {
+      "name": "Ramen FeeL",
+      "address": "梅郷",
+      "storeid": "ome-aca393",
+      "shopid": "ome-aca393-rakutenpay"
+    },
+    {
+      "name": "GOOD SHED",
+      "address": "梅郷",
+      "storeid": "ome-f7fa14",
+      "shopid": "ome-f7fa14-rakutenpay"
+    },
+    {
+      "name": "Garage Cafe Bar monocoque",
+      "address": "畑中",
+      "storeid": "ome-0d560e",
+      "shopid": "ome-0d560e-rakutenpay"
+    },
+    {
+      "name": "青梅麦酒",
+      "address": "本町",
+      "storeid": "ome-1e561e",
+      "shopid": "ome-1e561e-rakutenpay"
+    },
+    {
+      "name": "D/W COFFEE",
+      "address": "本町",
+      "storeid": "ome-9fc390",
+      "shopid": "ome-9fc390-rakutenpay"
+    },
+    {
+      "name": "お食事処 酒処 ぜん",
+      "address": "本町",
+      "storeid": "ome-db3be7",
+      "shopid": "ome-db3be7-rakutenpay"
+    },
+    {
+      "name": "おうめクレープ",
+      "address": "本町",
+      "storeid": "ome-1c7a0c",
+      "shopid": "ome-1c7a0c-rakutenpay"
+    },
+    {
+      "name": "お菓子工房 ゆきばな",
+      "address": "野上町",
+      "storeid": "ome-f3b168",
+      "shopid": "ome-f3b168-rakutenpay"
+    },
+    {
+      "name": "秋まる",
+      "address": "野上町",
+      "storeid": "ome-218fe5",
+      "shopid": "ome-218fe5-rakutenpay"
+    },
+    {
+      "name": "ふじ嘉",
+      "address": "野上町",
+      "storeid": "ome-a996b1",
+      "shopid": "ome-a996b1-rakutenpay"
+    },
+    {
+      "name": "炭火やきとり 鶏彩",
+      "address": "野上町",
+      "storeid": "ome-afc36c",
+      "shopid": "ome-afc36c-rakutenpay"
+    },
+    {
+      "name": "舞スタンド",
+      "address": "野上町",
+      "storeid": "ome-b000ac",
+      "shopid": "ome-b000ac-rakutenpay"
+    },
+    {
+      "name": "berge",
+      "address": "野上町",
+      "storeid": "ome-115b51",
+      "shopid": "ome-115b51-rakutenpay"
+    },
+    {
+      "name": "八石",
+      "address": "野上町",
+      "storeid": "ome-09d7f8",
+      "shopid": "ome-09d7f8-rakutenpay"
+    },
+    {
+      "name": "島村",
+      "address": "野上町",
+      "storeid": "ome-840007",
+      "shopid": "ome-840007-rakutenpay"
+    },
+    {
+      "name": "和食処とんでん 青梅河辺店",
+      "address": "野上町",
+      "storeid": "ome-f266c1",
+      "shopid": "ome-f266c1-rakutenpay"
+    },
+    {
+      "name": "居酒屋 つくね家",
+      "address": "野上町",
+      "storeid": "ome-d3c2bc",
+      "shopid": "ome-d3c2bc-rakutenpay"
+    },
+    {
+      "name": "ハイデン.コッコFACTORYサマンサ・タマサ",
+      "address": "野上町",
+      "storeid": "ome-ea4c08",
+      "shopid": "ome-ea4c08-rakutenpay"
+    },
+    {
+      "name": "カレー 男",
+      "address": "柚木町",
+      "storeid": "ome-85efba",
+      "shopid": "ome-85efba-rakutenpay"
+    },
+    {
+      "name": "かじか",
+      "address": "柚木町",
+      "storeid": "ome-ddcee0",
+      "shopid": "ome-ddcee0-rakutenpay"
+    },
+    {
+      "name": "こまちどり",
+      "address": "柚木町",
+      "storeid": "ome-ffe1db",
+      "shopid": "ome-ffe1db-rakutenpay"
+    },
+    {
+      "name": "とうふ工房ゆう",
+      "address": "裏宿町",
+      "storeid": "ome-f04d4b",
+      "shopid": "ome-f04d4b-rakutenpay"
+    },
+    {
+      "name": "田舎屋",
+      "address": "裏宿町",
+      "storeid": "ome-4887f5",
+      "shopid": "ome-4887f5-rakutenpay"
+    },
+    {
+      "name": "MAGNOLIA",
+      "address": "和田町",
+      "storeid": "ome-69e081",
+      "shopid": "ome-69e081-rakutenpay"
+    },
+    {
+      "name": "カフェと雑貨のお店アイムホーム",
+      "address": "和田町",
+      "storeid": "ome-1c261a",
+      "shopid": "ome-1c261a-rakutenpay"
+    }
+  ],
+  "食料品販売": [
+    {
+      "name": "シェルパ カバブハウス",
+      "address": "河辺町",
+      "storeid": "ome-08a97f",
+      "shopid": "ome-08a97f-rakutenpay"
+    },
+    {
+      "name": "ぱん吉",
+      "address": "河辺町",
+      "storeid": "ome-852525",
+      "shopid": "ome-852525-rakutenpay"
+    },
+    {
+      "name": "紀の國屋 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-bc0d0f",
+      "shopid": "ome-bc0d0f-rakutenpay"
+    },
+    {
+      "name": "プランシエル",
+      "address": "河辺町",
+      "storeid": "ome-d0d7d9",
+      "shopid": "ome-d0d7d9-rakutenpay"
+    },
+    {
+      "name": "maru.＋BEANS CAFE",
+      "address": "駒木町",
+      "storeid": "ome-592bd0",
+      "shopid": "ome-592bd0-rakutenpay"
+    },
+    {
+      "name": "のしこん本舗",
+      "address": "御岳本町",
+      "storeid": "ome-6e0e9b",
+      "shopid": "ome-6e0e9b-rakutenpay"
+    },
+    {
+      "name": "パティスリーテロワール",
+      "address": "今寺",
+      "storeid": "ome-d6aa1a",
+      "shopid": "ome-d6aa1a-rakutenpay"
+    },
+    {
+      "name": "道味",
+      "address": "住江町",
+      "storeid": "ome-b31549",
+      "shopid": "ome-b31549-rakutenpay"
+    },
+    {
+      "name": "☑川屋酒店",
+      "address": "勝沼",
+      "storeid": "ome-ebec84",
+      "shopid": "ome-ebec84-rakutenpay"
+    },
+    {
+      "name": "COPAIN",
+      "address": "勝沼",
+      "storeid": "ome-56cc9f",
+      "shopid": "ome-56cc9f-rakutenpay"
+    },
+    {
+      "name": "かわなべ鶏卵農場",
+      "address": "小曾木",
+      "storeid": "ome-a5929e",
+      "shopid": "ome-a5929e-rakutenpay"
+    },
+    {
+      "name": "山下水産",
+      "address": "新町",
+      "storeid": "ome-748191",
+      "shopid": "ome-748191-rakutenpay"
+    },
+    {
+      "name": "菓子工房パルティール",
+      "address": "新町",
+      "storeid": "ome-c9ea75",
+      "shopid": "ome-c9ea75-rakutenpay"
+    },
+    {
+      "name": "柳丸 新町店",
+      "address": "新町",
+      "storeid": "ome-fdf6ea",
+      "shopid": "ome-fdf6ea-rakutenpay"
+    },
+    {
+      "name": "夢遊膳 とんき",
+      "address": "新町",
+      "storeid": "ome-b0de95",
+      "shopid": "ome-b0de95-rakutenpay"
+    },
+    {
+      "name": "ミルキーフラミンゴクレープス",
+      "address": "新町",
+      "storeid": "ome-04daac",
+      "shopid": "ome-04daac-rakutenpay"
+    },
+    {
+      "name": "きりんのたまご",
+      "address": "新町",
+      "storeid": "ome-c2468e",
+      "shopid": "ome-c2468e-rakutenpay"
+    },
+    {
+      "name": "Half Light",
+      "address": "吹上",
+      "storeid": "ome-b1f2ab",
+      "shopid": "ome-b1f2ab-rakutenpay"
+    },
+    {
+      "name": "Workscreator",
+      "address": "成木",
+      "storeid": "ome-fb4ee8",
+      "shopid": "ome-fb4ee8-rakutenpay"
+    },
+    {
+      "name": "あら井",
+      "address": "千ケ瀬町",
+      "storeid": "ome-070472",
+      "shopid": "ome-070472-rakutenpay"
+    },
+    {
+      "name": "大門米店",
+      "address": "大門",
+      "storeid": "ome-c69262",
+      "shopid": "ome-c69262-rakutenpay"
+    },
+    {
+      "name": "小山製菓",
+      "address": "大門",
+      "storeid": "ome-e650b5",
+      "shopid": "ome-e650b5-rakutenpay"
+    },
+    {
+      "name": "kacora",
+      "address": "東青梅",
+      "storeid": "ome-965a9a",
+      "shopid": "ome-965a9a-rakutenpay"
+    },
+    {
+      "name": "火打庵",
+      "address": "東青梅",
+      "storeid": "ome-599a9a",
+      "shopid": "ome-599a9a-rakutenpay"
+    },
+    {
+      "name": "金子商店",
+      "address": "東青梅",
+      "storeid": "ome-801264",
+      "shopid": "ome-801264-rakutenpay"
+    },
+    {
+      "name": "東京キッチンガーデンマーケット",
+      "address": "藤橋",
+      "storeid": "ome-9a1443",
+      "shopid": "ome-9a1443-rakutenpay"
+    },
+    {
+      "name": "B-YARD meating",
+      "address": "二俣尾",
+      "storeid": "ome-8ea8b5",
+      "shopid": "ome-8ea8b5-rakutenpay"
+    },
+    {
+      "name": "蓬莱屋支店",
+      "address": "日向和田",
+      "storeid": "ome-f2c7d3",
+      "shopid": "ome-f2c7d3-rakutenpay"
+    },
+    {
+      "name": "は万の製菓",
+      "address": "日向和田",
+      "storeid": "ome-1d68bd",
+      "shopid": "ome-1d68bd-rakutenpay"
+    },
+    {
+      "name": "soboku",
+      "address": "梅郷",
+      "storeid": "ome-01ef84",
+      "shopid": "ome-01ef84-rakutenpay"
+    },
+    {
+      "name": "獅子口屋 梅郷支店",
+      "address": "梅郷",
+      "storeid": "ome-fd8c87",
+      "shopid": "ome-fd8c87-rakutenpay"
+    },
+    {
+      "name": "フルーツ・野菜専門 やおうめ",
+      "address": "本町",
+      "storeid": "ome-bcec04",
+      "shopid": "ome-bcec04-rakutenpay"
+    }
+  ],
+  "衣料品販売": [
+    {
+      "name": "ファッション美麗 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-a46747",
+      "shopid": "ome-a46747-rakutenpay"
+    },
+    {
+      "name": "セイントニコラス",
+      "address": "河辺町",
+      "storeid": "ome-ed26f0",
+      "shopid": "ome-ed26f0-rakutenpay"
+    },
+    {
+      "name": "one thousand",
+      "address": "河辺町",
+      "storeid": "ome-a3c1e7",
+      "shopid": "ome-a3c1e7-rakutenpay"
+    },
+    {
+      "name": "select shop R's",
+      "address": "御岳本町",
+      "storeid": "ome-d7f0c6",
+      "shopid": "ome-d7f0c6-rakutenpay"
+    },
+    {
+      "name": "maunga 御岳本店",
+      "address": "御岳本町",
+      "storeid": "ome-96702c",
+      "shopid": "ome-96702c-rakutenpay"
+    },
+    {
+      "name": "tokyoDOGGIES GARDEN",
+      "address": "今井",
+      "storeid": "ome-c06605",
+      "shopid": "ome-c06605-rakutenpay"
+    },
+    {
+      "name": "きものリサイクル青梅",
+      "address": "根ケ布",
+      "storeid": "ome-e3b634",
+      "shopid": "ome-e3b634-rakutenpay"
+    },
+    {
+      "name": "COMODO",
+      "address": "師岡町",
+      "storeid": "ome-e088db",
+      "shopid": "ome-e088db-rakutenpay"
+    },
+    {
+      "name": "並木時計メガネ店",
+      "address": "勝沼",
+      "storeid": "ome-ba2af7",
+      "shopid": "ome-ba2af7-rakutenpay"
+    },
+    {
+      "name": "テーラー内山",
+      "address": "勝沼",
+      "storeid": "ome-55915c",
+      "shopid": "ome-55915c-rakutenpay"
+    },
+    {
+      "name": "萬遊楽座 巡業篇",
+      "address": "勝沼",
+      "storeid": "ome-4a21dd",
+      "shopid": "ome-4a21dd-rakutenpay"
+    },
+    {
+      "name": "ファミリーメガネ",
+      "address": "新町",
+      "storeid": "ome-27811c",
+      "shopid": "ome-27811c-rakutenpay"
+    },
+    {
+      "name": "21g",
+      "address": "西分町",
+      "storeid": "ome-468dea",
+      "shopid": "ome-468dea-rakutenpay"
+    },
+    {
+      "name": "藍染工房壺草苑",
+      "address": "長淵",
+      "storeid": "ome-3502e1",
+      "shopid": "ome-3502e1-rakutenpay"
+    },
+    {
+      "name": "リュックのDaisuki",
+      "address": "東青梅",
+      "storeid": "ome-c05470",
+      "shopid": "ome-c05470-rakutenpay"
+    },
+    {
+      "name": "polite",
+      "address": "藤橋",
+      "storeid": "ome-97dc4a",
+      "shopid": "ome-97dc4a-rakutenpay"
+    },
+    {
+      "name": "染工房たかとり",
+      "address": "日向和田",
+      "storeid": "ome-9930fe",
+      "shopid": "ome-9930fe-rakutenpay"
+    },
+    {
+      "name": "AMS Handmade（実店舗なし）",
+      "address": "梅郷",
+      "storeid": "ome-e01a90",
+      "shopid": "ome-e01a90-rakutenpay"
+    },
+    {
+      "name": "グラスワークスタジオMinamo",
+      "address": "本町",
+      "storeid": "ome-8951b1",
+      "shopid": "ome-8951b1-rakutenpay"
+    },
+    {
+      "name": "古着屋RUFFY",
+      "address": "本町",
+      "storeid": "ome-0ec4bb",
+      "shopid": "ome-0ec4bb-rakutenpay"
+    },
+    {
+      "name": "Marylou",
+      "address": "本町",
+      "storeid": "ome-cfa0ed",
+      "shopid": "ome-cfa0ed-rakutenpay"
+    },
+    {
+      "name": "ニッセイプリント",
+      "address": "友田町",
+      "storeid": "ome-dbb470",
+      "shopid": "ome-dbb470-rakutenpay"
+    }
+  ],
+  "小売": [
+    {
+      "name": "アウトドアショップK 東京青梅店",
+      "address": "河辺町",
+      "storeid": "ome-72abb1",
+      "shopid": "ome-72abb1-rakutenpay"
+    },
+    {
+      "name": "カービューティープロZEEK",
+      "address": "河辺町",
+      "storeid": "ome-0f8c65",
+      "shopid": "ome-0f8c65-rakutenpay"
+    },
+    {
+      "name": "あぁす薬局",
+      "address": "河辺町",
+      "storeid": "ome-108b76",
+      "shopid": "ome-108b76-rakutenpay"
+    },
+    {
+      "name": "Pro Shop Kawai",
+      "address": "河辺町",
+      "storeid": "ome-dd5223",
+      "shopid": "ome-dd5223-rakutenpay"
+    },
+    {
+      "name": "ペットサロンキキ",
+      "address": "河辺町",
+      "storeid": "ome-86c869",
+      "shopid": "ome-86c869-rakutenpay"
+    },
+    {
+      "name": "Petit Petit",
+      "address": "河辺町",
+      "storeid": "ome-bb0093",
+      "shopid": "ome-bb0093-rakutenpay"
+    },
+    {
+      "name": "花大フラワー西友河辺店",
+      "address": "河辺町",
+      "storeid": "ome-9f401d",
+      "shopid": "ome-9f401d-rakutenpay"
+    },
+    {
+      "name": "KIMIZU MOTORS",
+      "address": "駒木町",
+      "storeid": "ome-0adaec",
+      "shopid": "ome-0adaec-rakutenpay"
+    },
+    {
+      "name": "清水モータース",
+      "address": "御岳",
+      "storeid": "ome-abdf85",
+      "shopid": "ome-abdf85-rakutenpay"
+    },
+    {
+      "name": "Hazel anne Btdafa",
+      "address": "御岳本町",
+      "storeid": "ome-db9785",
+      "shopid": "ome-db9785-rakutenpay"
+    },
+    {
+      "name": "カヌーショップタマゾン",
+      "address": "御岳本町",
+      "storeid": "ome-97e77e",
+      "shopid": "ome-97e77e-rakutenpay"
+    },
+    {
+      "name": "ボーダーライン",
+      "address": "今井",
+      "storeid": "ome-9fad1b",
+      "shopid": "ome-9fad1b-rakutenpay"
+    },
+    {
+      "name": "ニッタタイヤ 青梅支店",
+      "address": "今井",
+      "storeid": "ome-9288da",
+      "shopid": "ome-9288da-rakutenpay"
+    },
+    {
+      "name": "尾林ファクトリー",
+      "address": "今井",
+      "storeid": "ome-8d5dc6",
+      "shopid": "ome-8d5dc6-rakutenpay"
+    },
+    {
+      "name": "鬼塚硝子",
+      "address": "今井",
+      "storeid": "ome-a88024",
+      "shopid": "ome-a88024-rakutenpay"
+    },
+    {
+      "name": "青梅フレンドシップゴルフ店",
+      "address": "今井",
+      "storeid": "ome-b457a6",
+      "shopid": "ome-b457a6-rakutenpay"
+    },
+    {
+      "name": "K-MASTER",
+      "address": "根ケ布",
+      "storeid": "ome-e0f068",
+      "shopid": "ome-e0f068-rakutenpay"
+    },
+    {
+      "name": "ファレノクリスタル長沢",
+      "address": "師岡町",
+      "storeid": "ome-68a2c3",
+      "shopid": "ome-68a2c3-rakutenpay"
+    },
+    {
+      "name": "岩浪自動車",
+      "address": "師岡町",
+      "storeid": "ome-2a84a9",
+      "shopid": "ome-2a84a9-rakutenpay"
+    },
+    {
+      "name": "アイズフラワー",
+      "address": "師岡町",
+      "storeid": "ome-188e4c",
+      "shopid": "ome-188e4c-rakutenpay"
+    },
+    {
+      "name": "三昭堂薬店",
+      "address": "勝沼",
+      "storeid": "ome-5e04b5",
+      "shopid": "ome-5e04b5-rakutenpay"
+    },
+    {
+      "name": "佐塚商事 奥多摩美術研究所",
+      "address": "勝沼",
+      "storeid": "ome-c47e13",
+      "shopid": "ome-c47e13-rakutenpay"
+    },
+    {
+      "name": "久保 ラジオ商会",
+      "address": "勝沼",
+      "storeid": "ome-4c340b",
+      "shopid": "ome-4c340b-rakutenpay"
+    },
+    {
+      "name": "竹田印店",
+      "address": "勝沼",
+      "storeid": "ome-2a4402",
+      "shopid": "ome-2a4402-rakutenpay"
+    },
+    {
+      "name": "サンタの家わあす",
+      "address": "小曾木",
+      "storeid": "ome-e38dd1",
+      "shopid": "ome-e38dd1-rakutenpay"
+    },
+    {
+      "name": "YT WORKS",
+      "address": "小曾木",
+      "storeid": "ome-f4f8ee",
+      "shopid": "ome-f4f8ee-rakutenpay"
+    },
+    {
+      "name": "フラワーエフ",
+      "address": "上町",
+      "storeid": "ome-a5ae73",
+      "shopid": "ome-a5ae73-rakutenpay"
+    },
+    {
+      "name": "甲州屋 新町店",
+      "address": "新町",
+      "storeid": "ome-f97d78",
+      "shopid": "ome-f97d78-rakutenpay"
+    },
+    {
+      "name": "ジョイ ペットマート",
+      "address": "新町",
+      "storeid": "ome-84882f",
+      "shopid": "ome-84882f-rakutenpay"
+    },
+    {
+      "name": "GOLF FIT",
+      "address": "新町",
+      "storeid": "ome-1d6f16",
+      "shopid": "ome-1d6f16-rakutenpay"
+    },
+    {
+      "name": "光雲堂 青梅店",
+      "address": "新町",
+      "storeid": "ome-e085ee",
+      "shopid": "ome-e085ee-rakutenpay"
+    },
+    {
+      "name": "ゲームショップPAO AZBOX",
+      "address": "新町",
+      "storeid": "ome-cb0071",
+      "shopid": "ome-cb0071-rakutenpay"
+    },
+    {
+      "name": "hideawayno.100",
+      "address": "新町",
+      "storeid": "ome-efed01",
+      "shopid": "ome-efed01-rakutenpay"
+    },
+    {
+      "name": "エース電気",
+      "address": "新町",
+      "storeid": "ome-9135d0",
+      "shopid": "ome-9135d0-rakutenpay"
+    },
+    {
+      "name": "ダイキオート",
+      "address": "新町",
+      "storeid": "ome-77fcfa",
+      "shopid": "ome-77fcfa-rakutenpay"
+    },
+    {
+      "name": "e-工房 青梅インター店",
+      "address": "新町",
+      "storeid": "ome-698a62",
+      "shopid": "ome-698a62-rakutenpay"
+    },
+    {
+      "name": "スマホの窓口カインズ青梅インター店",
+      "address": "新町",
+      "storeid": "ome-13f865",
+      "shopid": "ome-13f865-rakutenpay"
+    },
+    {
+      "name": "コメスタ 青梅店",
+      "address": "新町",
+      "storeid": "ome-288355",
+      "shopid": "ome-288355-rakutenpay"
+    },
+    {
+      "name": "ラップアンドカーステーション",
+      "address": "新町",
+      "storeid": "ome-7adaf9",
+      "shopid": "ome-7adaf9-rakutenpay"
+    },
+    {
+      "name": "アクア&ペット かねだい青梅店",
+      "address": "新町",
+      "storeid": "ome-3daf8f",
+      "shopid": "ome-3daf8f-rakutenpay"
+    },
+    {
+      "name": "ヨコタサービス",
+      "address": "新町",
+      "storeid": "ome-6839d3",
+      "shopid": "ome-6839d3-rakutenpay"
+    },
+    {
+      "name": "アクト",
+      "address": "吹上",
+      "storeid": "ome-a9877b",
+      "shopid": "ome-a9877b-rakutenpay"
+    },
+    {
+      "name": "西多摩商会 本社",
+      "address": "吹上",
+      "storeid": "ome-5b9a63",
+      "shopid": "ome-5b9a63-rakutenpay"
+    },
+    {
+      "name": "久保田自動車",
+      "address": "成木",
+      "storeid": "ome-f95b5c",
+      "shopid": "ome-f95b5c-rakutenpay"
+    },
+    {
+      "name": "GARAGE610",
+      "address": "成木",
+      "storeid": "ome-8cfac7",
+      "shopid": "ome-8cfac7-rakutenpay"
+    },
+    {
+      "name": "染織/河野香奈恵",
+      "address": "西分町",
+      "storeid": "ome-e7bdf7",
+      "shopid": "ome-e7bdf7-rakutenpay"
+    },
+    {
+      "name": "緑樹園",
+      "address": "西分町",
+      "storeid": "ome-db3df6",
+      "shopid": "ome-db3df6-rakutenpay"
+    },
+    {
+      "name": "花市場 evergreen",
+      "address": "千ケ瀬町",
+      "storeid": "ome-79678f",
+      "shopid": "ome-79678f-rakutenpay"
+    },
+    {
+      "name": "animal place mana",
+      "address": "千ケ瀬町",
+      "storeid": "ome-6e6b74",
+      "shopid": "ome-6e6b74-rakutenpay"
+    },
+    {
+      "name": "RJpet",
+      "address": "千ケ瀬町",
+      "storeid": "ome-d42165",
+      "shopid": "ome-d42165-rakutenpay"
+    },
+    {
+      "name": "硝子工房YUKI",
+      "address": "大門",
+      "storeid": "ome-85b388",
+      "shopid": "ome-85b388-rakutenpay"
+    },
+    {
+      "name": "ディープラザ",
+      "address": "大門",
+      "storeid": "ome-11341c",
+      "shopid": "ome-11341c-rakutenpay"
+    },
+    {
+      "name": "y-Factory 本店",
+      "address": "谷野",
+      "storeid": "ome-72c88a",
+      "shopid": "ome-72c88a-rakutenpay"
+    },
+    {
+      "name": "メガネのシミズ/清水時計店",
+      "address": "仲町",
+      "storeid": "ome-d3f80d",
+      "shopid": "ome-d3f80d-rakutenpay"
+    },
+    {
+      "name": "みどりや文具",
+      "address": "仲町",
+      "storeid": "ome-841016",
+      "shopid": "ome-841016-rakutenpay"
+    },
+    {
+      "name": "BestCarカインド",
+      "address": "長淵",
+      "storeid": "ome-64c3e7",
+      "shopid": "ome-64c3e7-rakutenpay"
+    },
+    {
+      "name": "ケルブ・オート",
+      "address": "長淵",
+      "storeid": "ome-253cbc",
+      "shopid": "ome-253cbc-rakutenpay"
+    },
+    {
+      "name": "佐藤スポーツ",
+      "address": "東青梅",
+      "storeid": "ome-b05a3d",
+      "shopid": "ome-b05a3d-rakutenpay"
+    },
+    {
+      "name": "吉川石材店",
+      "address": "東青梅",
+      "storeid": "ome-7e9a27",
+      "shopid": "ome-7e9a27-rakutenpay"
+    },
+    {
+      "name": "井川眼鏡店",
+      "address": "東青梅",
+      "storeid": "ome-02c5e2",
+      "shopid": "ome-02c5e2-rakutenpay"
+    },
+    {
+      "name": "オクズミ",
+      "address": "東青梅",
+      "storeid": "ome-1585cd",
+      "shopid": "ome-1585cd-rakutenpay"
+    },
+    {
+      "name": "奥住自動車",
+      "address": "東青梅",
+      "storeid": "ome-bb21e2",
+      "shopid": "ome-bb21e2-rakutenpay"
+    },
+    {
+      "name": "SKガレージ",
+      "address": "東青梅",
+      "storeid": "ome-6c6bf2",
+      "shopid": "ome-6c6bf2-rakutenpay"
+    },
+    {
+      "name": "総合武道具店 中村屋",
+      "address": "東青梅",
+      "storeid": "ome-5de414",
+      "shopid": "ome-5de414-rakutenpay"
+    },
+    {
+      "name": "日本の心青梅店",
+      "address": "東青梅",
+      "storeid": "ome-3ad094",
+      "shopid": "ome-3ad094-rakutenpay"
+    },
+    {
+      "name": "青梅ホンダ販売",
+      "address": "東青梅",
+      "storeid": "ome-e0f56b",
+      "shopid": "ome-e0f56b-rakutenpay"
+    },
+    {
+      "name": "美肌工房sunny",
+      "address": "東青梅",
+      "storeid": "ome-96960b",
+      "shopid": "ome-96960b-rakutenpay"
+    },
+    {
+      "name": "青柳自販",
+      "address": "東青梅",
+      "storeid": "ome-333f8e",
+      "shopid": "ome-333f8e-rakutenpay"
+    },
+    {
+      "name": "オークス",
+      "address": "東青梅",
+      "storeid": "ome-ecf02f",
+      "shopid": "ome-ecf02f-rakutenpay"
+    },
+    {
+      "name": "やまや 青梅今寺店",
+      "address": "藤橋",
+      "storeid": "ome-f28607",
+      "shopid": "ome-f28607-rakutenpay"
+    },
+    {
+      "name": "オートメカショップハタノ",
+      "address": "藤橋",
+      "storeid": "ome-816fe6",
+      "shopid": "ome-816fe6-rakutenpay"
+    },
+    {
+      "name": "カーサービス CLOVER",
+      "address": "藤橋",
+      "storeid": "ome-9d5266",
+      "shopid": "ome-9d5266-rakutenpay"
+    },
+    {
+      "name": "FLOWERDOG",
+      "address": "二俣尾",
+      "storeid": "ome-a77c1f",
+      "shopid": "ome-a77c1f-rakutenpay"
+    },
+    {
+      "name": "るりいろ工房",
+      "address": "二俣尾",
+      "storeid": "ome-f47261",
+      "shopid": "ome-f47261-rakutenpay"
+    },
+    {
+      "name": "斉藤自動車工業",
+      "address": "日向和田",
+      "storeid": "ome-5b9505",
+      "shopid": "ome-5b9505-rakutenpay"
+    },
+    {
+      "name": "自転車人の店クロチェリスタ",
+      "address": "日向和田",
+      "storeid": "ome-261af9",
+      "shopid": "ome-261af9-rakutenpay"
+    },
+    {
+      "name": "四谷自動車",
+      "address": "日向和田",
+      "storeid": "ome-1740c3",
+      "shopid": "ome-1740c3-rakutenpay"
+    },
+    {
+      "name": "Ferrino",
+      "address": "梅郷",
+      "storeid": "ome-7f1ccc",
+      "shopid": "ome-7f1ccc-rakutenpay"
+    },
+    {
+      "name": "フラワーピッコロ",
+      "address": "梅郷",
+      "storeid": "ome-ed8f0e",
+      "shopid": "ome-ed8f0e-rakutenpay"
+    },
+    {
+      "name": "マルケイ",
+      "address": "畑中",
+      "storeid": "ome-172210",
+      "shopid": "ome-172210-rakutenpay"
+    },
+    {
+      "name": "TOKUワークショップ",
+      "address": "富岡",
+      "storeid": "ome-0753c4",
+      "shopid": "ome-0753c4-rakutenpay"
+    },
+    {
+      "name": "コスメティックハウス うめや 青梅店",
+      "address": "本町",
+      "storeid": "ome-134ccf",
+      "shopid": "ome-134ccf-rakutenpay"
+    },
+    {
+      "name": "岩浪石材店",
+      "address": "本町",
+      "storeid": "ome-d498f8",
+      "shopid": "ome-d498f8-rakutenpay"
+    },
+    {
+      "name": "ふとん三田屋",
+      "address": "本町",
+      "storeid": "ome-9f4efd",
+      "shopid": "ome-9f4efd-rakutenpay"
+    },
+    {
+      "name": "BUTLER",
+      "address": "本町",
+      "storeid": "ome-4a1922",
+      "shopid": "ome-4a1922-rakutenpay"
+    },
+    {
+      "name": "chamo'shouse",
+      "address": "末広町",
+      "storeid": "ome-1ddae6",
+      "shopid": "ome-1ddae6-rakutenpay"
+    },
+    {
+      "name": "Hara Cars",
+      "address": "末広町",
+      "storeid": "ome-9ff413",
+      "shopid": "ome-9ff413-rakutenpay"
+    },
+    {
+      "name": "Rise",
+      "address": "末広町",
+      "storeid": "ome-d89365",
+      "shopid": "ome-d89365-rakutenpay"
+    },
+    {
+      "name": "ルブテック",
+      "address": "木野下",
+      "storeid": "ome-742cfc",
+      "shopid": "ome-742cfc-rakutenpay"
+    },
+    {
+      "name": "Autrefois par liaison21",
+      "address": "野上町",
+      "storeid": "ome-c17be4",
+      "shopid": "ome-c17be4-rakutenpay"
+    },
+    {
+      "name": "モバワン青梅友田店",
+      "address": "友田町",
+      "storeid": "ome-b467c7",
+      "shopid": "ome-b467c7-rakutenpay"
+    },
+    {
+      "name": "BLESS合同会社",
+      "address": "友田町",
+      "storeid": "ome-aca897",
+      "shopid": "ome-aca897-rakutenpay"
+    },
+    {
+      "name": "大坂や商店",
+      "address": "裏宿町",
+      "storeid": "ome-65c818",
+      "shopid": "ome-65c818-rakutenpay"
+    }
+  ],
+  "理美容": [
+    {
+      "name": "Yucca",
+      "address": "塩船",
+      "storeid": "ome-eae459",
+      "shopid": "ome-eae459-rakutenpay"
+    },
+    {
+      "name": "Mydear Salon",
+      "address": "河辺町",
+      "storeid": "ome-e1311f",
+      "shopid": "ome-e1311f-rakutenpay"
+    },
+    {
+      "name": "『ambitious』河辺店",
+      "address": "河辺町",
+      "storeid": "ome-6ad3b0",
+      "shopid": "ome-6ad3b0-rakutenpay"
+    },
+    {
+      "name": "サロン・ド・アップル",
+      "address": "河辺町",
+      "storeid": "ome-287e70",
+      "shopid": "ome-287e70-rakutenpay"
+    },
+    {
+      "name": "eyelash Halelu",
+      "address": "河辺町",
+      "storeid": "ome-773f98",
+      "shopid": "ome-773f98-rakutenpay"
+    },
+    {
+      "name": "STUDIO髪工房",
+      "address": "河辺町",
+      "storeid": "ome-b3926c",
+      "shopid": "ome-b3926c-rakutenpay"
+    },
+    {
+      "name": "美容室 yotsuba",
+      "address": "河辺町",
+      "storeid": "ome-a4137a",
+      "shopid": "ome-a4137a-rakutenpay"
+    },
+    {
+      "name": "プラセール",
+      "address": "河辺町",
+      "storeid": "ome-0df798",
+      "shopid": "ome-0df798-rakutenpay"
+    },
+    {
+      "name": "nail eclat 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-e3040d",
+      "shopid": "ome-e3040d-rakutenpay"
+    },
+    {
+      "name": "あなたの♪美容室リミテッド 本店",
+      "address": "河辺町",
+      "storeid": "ome-97584b",
+      "shopid": "ome-97584b-rakutenpay"
+    },
+    {
+      "name": "まつ毛エクステサロン Wink Art",
+      "address": "河辺町",
+      "storeid": "ome-1dcbb8",
+      "shopid": "ome-1dcbb8-rakutenpay"
+    },
+    {
+      "name": "ヘアーサロンTAKARA",
+      "address": "河辺町",
+      "storeid": "ome-1a2e4a",
+      "shopid": "ome-1a2e4a-rakutenpay"
+    },
+    {
+      "name": "Bloom",
+      "address": "河辺町",
+      "storeid": "ome-4a453a",
+      "shopid": "ome-4a453a-rakutenpay"
+    },
+    {
+      "name": "カットハウス アルファ",
+      "address": "河辺町",
+      "storeid": "ome-89acdf",
+      "shopid": "ome-89acdf-rakutenpay"
+    },
+    {
+      "name": "CHOUCHOU",
+      "address": "河辺町",
+      "storeid": "ome-02cac3",
+      "shopid": "ome-02cac3-rakutenpay"
+    },
+    {
+      "name": "DISM",
+      "address": "河辺町",
+      "storeid": "ome-1e4d16",
+      "shopid": "ome-1e4d16-rakutenpay"
+    },
+    {
+      "name": "BeautySalonLaran",
+      "address": "河辺町",
+      "storeid": "ome-8db4d7",
+      "shopid": "ome-8db4d7-rakutenpay"
+    },
+    {
+      "name": "okimuy",
+      "address": "河辺町",
+      "storeid": "ome-c0b73e",
+      "shopid": "ome-c0b73e-rakutenpay"
+    },
+    {
+      "name": "AFFECt.",
+      "address": "河辺町",
+      "storeid": "ome-b4f056",
+      "shopid": "ome-b4f056-rakutenpay"
+    },
+    {
+      "name": "SCOOL",
+      "address": "河辺町",
+      "storeid": "ome-6c4879",
+      "shopid": "ome-6c4879-rakutenpay"
+    },
+    {
+      "name": "Amelie&Rju",
+      "address": "河辺町",
+      "storeid": "ome-be6cdf",
+      "shopid": "ome-be6cdf-rakutenpay"
+    },
+    {
+      "name": "オレンジ・サラ 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-425905",
+      "shopid": "ome-425905-rakutenpay"
+    },
+    {
+      "name": "hair salon adoa",
+      "address": "河辺町",
+      "storeid": "ome-56461d",
+      "shopid": "ome-56461d-rakutenpay"
+    },
+    {
+      "name": "Forest",
+      "address": "河辺町",
+      "storeid": "ome-bd2dfc",
+      "shopid": "ome-bd2dfc-rakutenpay"
+    },
+    {
+      "name": "HAIRSTAGE銀の翼",
+      "address": "師岡町",
+      "storeid": "ome-011be7",
+      "shopid": "ome-011be7-rakutenpay"
+    },
+    {
+      "name": "CHAINON",
+      "address": "師岡町",
+      "storeid": "ome-53e9a0",
+      "shopid": "ome-53e9a0-rakutenpay"
+    },
+    {
+      "name": "SHELL NAIL 河辺店",
+      "address": "師岡町",
+      "storeid": "ome-4d302b",
+      "shopid": "ome-4d302b-rakutenpay"
+    },
+    {
+      "name": "アトリエ yu",
+      "address": "勝沼",
+      "storeid": "ome-6570e3",
+      "shopid": "ome-6570e3-rakutenpay"
+    },
+    {
+      "name": "HairSalon ミント",
+      "address": "勝沼",
+      "storeid": "ome-334167",
+      "shopid": "ome-334167-rakutenpay"
+    },
+    {
+      "name": "JAPONESQUE",
+      "address": "小曾木",
+      "storeid": "ome-e4a055",
+      "shopid": "ome-e4a055-rakutenpay"
+    },
+    {
+      "name": "MONSTER NAiLS",
+      "address": "新町",
+      "storeid": "ome-2f4739",
+      "shopid": "ome-2f4739-rakutenpay"
+    },
+    {
+      "name": "Soleil",
+      "address": "新町",
+      "storeid": "ome-32125f",
+      "shopid": "ome-32125f-rakutenpay"
+    },
+    {
+      "name": "SHELL NAIL",
+      "address": "新町",
+      "storeid": "ome-8aeef3",
+      "shopid": "ome-8aeef3-rakutenpay"
+    },
+    {
+      "name": "ichica",
+      "address": "新町",
+      "storeid": "ome-7bb2d7",
+      "shopid": "ome-7bb2d7-rakutenpay"
+    },
+    {
+      "name": "NEU",
+      "address": "新町",
+      "storeid": "ome-2d72b6",
+      "shopid": "ome-2d72b6-rakutenpay"
+    },
+    {
+      "name": "美容室 わたぼうし",
+      "address": "新町",
+      "storeid": "ome-9f223e",
+      "shopid": "ome-9f223e-rakutenpay"
+    },
+    {
+      "name": "Beauty salon Yufula",
+      "address": "新町",
+      "storeid": "ome-e2c9d5",
+      "shopid": "ome-e2c9d5-rakutenpay"
+    },
+    {
+      "name": "Cutplace GLOW",
+      "address": "新町",
+      "storeid": "ome-9acdc0",
+      "shopid": "ome-9acdc0-rakutenpay"
+    },
+    {
+      "name": "HARE",
+      "address": "新町",
+      "storeid": "ome-95c52d",
+      "shopid": "ome-95c52d-rakutenpay"
+    },
+    {
+      "name": "BeautyspaceHANA",
+      "address": "新町",
+      "storeid": "ome-552777",
+      "shopid": "ome-552777-rakutenpay"
+    },
+    {
+      "name": "バーバーショップルート",
+      "address": "新町",
+      "storeid": "ome-58e825",
+      "shopid": "ome-58e825-rakutenpay"
+    },
+    {
+      "name": "Anela",
+      "address": "吹上",
+      "storeid": "ome-245519",
+      "shopid": "ome-245519-rakutenpay"
+    },
+    {
+      "name": "HITOTOKI",
+      "address": "成木",
+      "storeid": "ome-51e830",
+      "shopid": "ome-51e830-rakutenpay"
+    },
+    {
+      "name": "アイラッシュサロン キュート",
+      "address": "千ケ瀬町",
+      "storeid": "ome-7f5cab",
+      "shopid": "ome-7f5cab-rakutenpay"
+    },
+    {
+      "name": "Private nail&hair salon CHANCE",
+      "address": "大門",
+      "storeid": "ome-28d3aa",
+      "shopid": "ome-28d3aa-rakutenpay"
+    },
+    {
+      "name": "からだかいぜんallezmieux",
+      "address": "仲町",
+      "storeid": "ome-55689e",
+      "shopid": "ome-55689e-rakutenpay"
+    },
+    {
+      "name": "プライベートサロン Hoaka",
+      "address": "天ケ瀬町",
+      "storeid": "ome-dbf921",
+      "shopid": "ome-dbf921-rakutenpay"
+    },
+    {
+      "name": "Shuon 東青梅店",
+      "address": "東青梅",
+      "storeid": "ome-b8353c",
+      "shopid": "ome-b8353c-rakutenpay"
+    },
+    {
+      "name": "Oto",
+      "address": "東青梅",
+      "storeid": "ome-8f1550",
+      "shopid": "ome-8f1550-rakutenpay"
+    },
+    {
+      "name": "ランジュドフジ",
+      "address": "東青梅",
+      "storeid": "ome-6b3215",
+      "shopid": "ome-6b3215-rakutenpay"
+    },
+    {
+      "name": "Nail Studio 茎(STEM)",
+      "address": "東青梅",
+      "storeid": "ome-ce8c61",
+      "shopid": "ome-ce8c61-rakutenpay"
+    },
+    {
+      "name": "フローラル・アムール",
+      "address": "東青梅",
+      "storeid": "ome-675881",
+      "shopid": "ome-675881-rakutenpay"
+    },
+    {
+      "name": "ヘアーサロンリザーブ松竹",
+      "address": "東青梅",
+      "storeid": "ome-755de7",
+      "shopid": "ome-755de7-rakutenpay"
+    },
+    {
+      "name": "カットハウス新條",
+      "address": "東青梅",
+      "storeid": "ome-0b6037",
+      "shopid": "ome-0b6037-rakutenpay"
+    },
+    {
+      "name": "Relier",
+      "address": "東青梅",
+      "storeid": "ome-ee6758",
+      "shopid": "ome-ee6758-rakutenpay"
+    },
+    {
+      "name": "ヘアーサロン キムラ",
+      "address": "東青梅",
+      "storeid": "ome-9e0ab6",
+      "shopid": "ome-9e0ab6-rakutenpay"
+    },
+    {
+      "name": "ヘアーサロン ウエノ",
+      "address": "藤橋",
+      "storeid": "ome-c75dc9",
+      "shopid": "ome-c75dc9-rakutenpay"
+    },
+    {
+      "name": "nailsalon Favori",
+      "address": "藤橋",
+      "storeid": "ome-697d59",
+      "shopid": "ome-697d59-rakutenpay"
+    },
+    {
+      "name": "BARBER 武",
+      "address": "日向和田",
+      "storeid": "ome-90c982",
+      "shopid": "ome-90c982-rakutenpay"
+    },
+    {
+      "name": "TherapyRoom",
+      "address": "末広町",
+      "storeid": "ome-db09d4",
+      "shopid": "ome-db09d4-rakutenpay"
+    },
+    {
+      "name": "ヘアーサロン・ピース 野上店",
+      "address": "野上町",
+      "storeid": "ome-04a0d8",
+      "shopid": "ome-04a0d8-rakutenpay"
+    },
+    {
+      "name": "美容室 フェリーチェ",
+      "address": "野上町",
+      "storeid": "ome-c82b23",
+      "shopid": "ome-c82b23-rakutenpay"
+    },
+    {
+      "name": "ヘアーサロンGRACE",
+      "address": "野上町",
+      "storeid": "ome-d13faf",
+      "shopid": "ome-d13faf-rakutenpay"
+    },
+    {
+      "name": "Erschallen",
+      "address": "野上町",
+      "storeid": "ome-018fb5",
+      "shopid": "ome-018fb5-rakutenpay"
+    },
+    {
+      "name": "vivihairsalon",
+      "address": "柚木町",
+      "storeid": "ome-a40c00",
+      "shopid": "ome-a40c00-rakutenpay"
+    },
+    {
+      "name": "カットハウス ヒラノ",
+      "address": "柚木町",
+      "storeid": "ome-073471",
+      "shopid": "ome-073471-rakutenpay"
+    }
+  ],
+  "サービス業": [
+    {
+      "name": "NPO法人デジタルフォロー",
+      "address": "河辺町",
+      "storeid": "ome-df90cf",
+      "shopid": "ome-df90cf-rakutenpay"
+    },
+    {
+      "name": "はり・灸・六曜館",
+      "address": "河辺町",
+      "storeid": "ome-1d97ad",
+      "shopid": "ome-1d97ad-rakutenpay"
+    },
+    {
+      "name": "ゆーあい施術院",
+      "address": "河辺町",
+      "storeid": "ome-a3065f",
+      "shopid": "ome-a3065f-rakutenpay"
+    },
+    {
+      "name": "スーパークリーナー",
+      "address": "河辺町",
+      "storeid": "ome-176003",
+      "shopid": "ome-176003-rakutenpay"
+    },
+    {
+      "name": "ヨシダ鍼灸院",
+      "address": "河辺町",
+      "storeid": "ome-047335",
+      "shopid": "ome-047335-rakutenpay"
+    },
+    {
+      "name": "青梅やわらか整体",
+      "address": "河辺町",
+      "storeid": "ome-8815cb",
+      "shopid": "ome-8815cb-rakutenpay"
+    },
+    {
+      "name": "太和堂鍼灸院",
+      "address": "河辺町",
+      "storeid": "ome-117f9c",
+      "shopid": "ome-117f9c-rakutenpay"
+    },
+    {
+      "name": "河辺温泉 梅の湯",
+      "address": "河辺町",
+      "storeid": "ome-535916",
+      "shopid": "ome-535916-rakutenpay"
+    },
+    {
+      "name": "暖-Dan",
+      "address": "駒木町",
+      "storeid": "ome-91a80c",
+      "shopid": "ome-91a80c-rakutenpay"
+    },
+    {
+      "name": "JIKON SAUNA",
+      "address": "駒木町",
+      "storeid": "ome-7ff990",
+      "shopid": "ome-7ff990-rakutenpay"
+    },
+    {
+      "name": "SpaOjasAyurveda青梅",
+      "address": "駒木町",
+      "storeid": "ome-399e62",
+      "shopid": "ome-399e62-rakutenpay"
+    },
+    {
+      "name": "うつぼや荘",
+      "address": "御岳山",
+      "storeid": "ome-ee0d4c",
+      "shopid": "ome-ee0d4c-rakutenpay"
+    },
+    {
+      "name": "東馬場",
+      "address": "御岳山",
+      "storeid": "ome-e7bf25",
+      "shopid": "ome-e7bf25-rakutenpay"
+    },
+    {
+      "name": "憩山荘",
+      "address": "御岳山",
+      "storeid": "ome-803403",
+      "shopid": "ome-803403-rakutenpay"
+    },
+    {
+      "name": "南山荘",
+      "address": "御岳山",
+      "storeid": "ome-73b496",
+      "shopid": "ome-73b496-rakutenpay"
+    },
+    {
+      "name": "駅前山小屋A-yard",
+      "address": "御岳本町",
+      "storeid": "ome-f87cf3",
+      "shopid": "ome-f87cf3-rakutenpay"
+    },
+    {
+      "name": "Healing Time",
+      "address": "今井",
+      "storeid": "ome-13ea3b",
+      "shopid": "ome-13ea3b-rakutenpay"
+    },
+    {
+      "name": "啓美装",
+      "address": "今井",
+      "storeid": "ome-08ebd5",
+      "shopid": "ome-08ebd5-rakutenpay"
+    },
+    {
+      "name": "クリーニング アニカ",
+      "address": "今井",
+      "storeid": "ome-8e8fe3",
+      "shopid": "ome-8e8fe3-rakutenpay"
+    },
+    {
+      "name": "クリーニングアニカ青梅今井店",
+      "address": "今井",
+      "storeid": "ome-1cb193",
+      "shopid": "ome-1cb193-rakutenpay"
+    },
+    {
+      "name": "ル・ペッシェ",
+      "address": "今寺",
+      "storeid": "ome-a8886e",
+      "shopid": "ome-a8886e-rakutenpay"
+    },
+    {
+      "name": "Shiatsuみくも指圧",
+      "address": "今寺",
+      "storeid": "ome-1e9d2f",
+      "shopid": "ome-1e9d2f-rakutenpay"
+    },
+    {
+      "name": "クリーニング アニカ 今寺店",
+      "address": "今寺",
+      "storeid": "ome-3b0dff",
+      "shopid": "ome-3b0dff-rakutenpay"
+    },
+    {
+      "name": "Leamoon",
+      "address": "師岡町",
+      "storeid": "ome-0067cd",
+      "shopid": "ome-0067cd-rakutenpay"
+    },
+    {
+      "name": "キングドライ いなげや師岡店",
+      "address": "師岡町",
+      "storeid": "ome-8c0b73",
+      "shopid": "ome-8c0b73-rakutenpay"
+    },
+    {
+      "name": "karadasalonanimo",
+      "address": "師岡町",
+      "storeid": "ome-83415f",
+      "shopid": "ome-83415f-rakutenpay"
+    },
+    {
+      "name": "白文舎クリーニング店",
+      "address": "住江町",
+      "storeid": "ome-4ec1df",
+      "shopid": "ome-4ec1df-rakutenpay"
+    },
+    {
+      "name": "もとはし畳店",
+      "address": "住江町",
+      "storeid": "ome-03410c",
+      "shopid": "ome-03410c-rakutenpay"
+    },
+    {
+      "name": "東京ガレージハウス",
+      "address": "小曾木",
+      "storeid": "ome-578597",
+      "shopid": "ome-578597-rakutenpay"
+    },
+    {
+      "name": "儘多屋",
+      "address": "小曾木",
+      "storeid": "ome-b5f669",
+      "shopid": "ome-b5f669-rakutenpay"
+    },
+    {
+      "name": "島田動物病院",
+      "address": "小曾木",
+      "storeid": "ome-359abd",
+      "shopid": "ome-359abd-rakutenpay"
+    },
+    {
+      "name": "キングドライ コープ新町店",
+      "address": "新町",
+      "storeid": "ome-fd70f3",
+      "shopid": "ome-fd70f3-rakutenpay"
+    },
+    {
+      "name": "青梅なないろ整骨院",
+      "address": "新町",
+      "storeid": "ome-1194ca",
+      "shopid": "ome-1194ca-rakutenpay"
+    },
+    {
+      "name": "Gentle整体院",
+      "address": "新町",
+      "storeid": "ome-1b74a6",
+      "shopid": "ome-1b74a6-rakutenpay"
+    },
+    {
+      "name": "m nature",
+      "address": "新町",
+      "storeid": "ome-cbee86",
+      "shopid": "ome-cbee86-rakutenpay"
+    },
+    {
+      "name": "青梅バランス整骨院",
+      "address": "新町",
+      "storeid": "ome-7cf080",
+      "shopid": "ome-7cf080-rakutenpay"
+    },
+    {
+      "name": "りょう施術院",
+      "address": "新町",
+      "storeid": "ome-d1e248",
+      "shopid": "ome-d1e248-rakutenpay"
+    },
+    {
+      "name": "こりとる整体院",
+      "address": "新町",
+      "storeid": "ome-19529e",
+      "shopid": "ome-19529e-rakutenpay"
+    },
+    {
+      "name": "やまだ整骨院",
+      "address": "千ケ瀬町",
+      "storeid": "ome-660890",
+      "shopid": "ome-660890-rakutenpay"
+    },
+    {
+      "name": "クリーニング アニカ タマサービス千ヶ瀬店",
+      "address": "千ケ瀬町",
+      "storeid": "ome-facef8",
+      "shopid": "ome-facef8-rakutenpay"
+    },
+    {
+      "name": "キングドライマルフジ千ヶ瀬店",
+      "address": "千ケ瀬町",
+      "storeid": "ome-0ca653",
+      "shopid": "ome-0ca653-rakutenpay"
+    },
+    {
+      "name": "おまかせアーレ青梅仲町店",
+      "address": "仲町",
+      "storeid": "ome-ec2681",
+      "shopid": "ome-ec2681-rakutenpay"
+    },
+    {
+      "name": "古羊生活タクシー",
+      "address": "長淵",
+      "storeid": "ome-0bcf74",
+      "shopid": "ome-0bcf74-rakutenpay"
+    },
+    {
+      "name": "長淵バランス整骨院",
+      "address": "長淵",
+      "storeid": "ome-3353d4",
+      "shopid": "ome-3353d4-rakutenpay"
+    },
+    {
+      "name": "カイロプラクティック恵",
+      "address": "天ケ瀬町",
+      "storeid": "ome-db8908",
+      "shopid": "ome-db8908-rakutenpay"
+    },
+    {
+      "name": "キングドライ 青梅本社店",
+      "address": "天ケ瀬町",
+      "storeid": "ome-1fbfbe",
+      "shopid": "ome-1fbfbe-rakutenpay"
+    },
+    {
+      "name": "いい顔サロン",
+      "address": "東青梅",
+      "storeid": "ome-01d98f",
+      "shopid": "ome-01d98f-rakutenpay"
+    },
+    {
+      "name": "リラクゼーション 温足",
+      "address": "東青梅",
+      "storeid": "ome-d57339",
+      "shopid": "ome-d57339-rakutenpay"
+    },
+    {
+      "name": "Body & aroma salon －IZUMI",
+      "address": "東青梅",
+      "storeid": "ome-2f5329",
+      "shopid": "ome-2f5329-rakutenpay"
+    },
+    {
+      "name": "六万通りはりきゅう接骨院",
+      "address": "東青梅",
+      "storeid": "ome-ba36ba",
+      "shopid": "ome-ba36ba-rakutenpay"
+    },
+    {
+      "name": "ブレイク 東青梅",
+      "address": "東青梅",
+      "storeid": "ome-011123",
+      "shopid": "ome-011123-rakutenpay"
+    },
+    {
+      "name": "青梅河辺整骨院",
+      "address": "東青梅",
+      "storeid": "ome-8741bf",
+      "shopid": "ome-8741bf-rakutenpay"
+    },
+    {
+      "name": "奥多摩 クルーソーラフティング",
+      "address": "梅郷",
+      "storeid": "ome-39a4b7",
+      "shopid": "ome-39a4b7-rakutenpay"
+    },
+    {
+      "name": "足もみ処 笑風庵",
+      "address": "本町",
+      "storeid": "ome-f83485",
+      "shopid": "ome-f83485-rakutenpay"
+    },
+    {
+      "name": "こばやし接骨院",
+      "address": "本町",
+      "storeid": "ome-6c64d2",
+      "shopid": "ome-6c64d2-rakutenpay"
+    },
+    {
+      "name": "昭栄介護タクシー",
+      "address": "木野下",
+      "storeid": "ome-3ab402",
+      "shopid": "ome-3ab402-rakutenpay"
+    },
+    {
+      "name": "介護タクシーDREAM",
+      "address": "野上町",
+      "storeid": "ome-43ca74",
+      "shopid": "ome-43ca74-rakutenpay"
+    },
+    {
+      "name": "体のほぐし",
+      "address": "野上町",
+      "storeid": "ome-a68b9f",
+      "shopid": "ome-a68b9f-rakutenpay"
+    },
+    {
+      "name": "タムラ介護タクシー",
+      "address": "野上町",
+      "storeid": "ome-be1c00",
+      "shopid": "ome-be1c00-rakutenpay"
+    },
+    {
+      "name": "青梅リバーサイドパーク",
+      "address": "友田町",
+      "storeid": "ome-f8d9bb",
+      "shopid": "ome-f8d9bb-rakutenpay"
+    },
+    {
+      "name": "山下長生館指圧療院",
+      "address": "柚木町",
+      "storeid": "ome-254724",
+      "shopid": "ome-254724-rakutenpay"
+    },
+    {
+      "name": "奥多摩バイブルシャレー",
+      "address": "柚木町",
+      "storeid": "ome-17e838",
+      "shopid": "ome-17e838-rakutenpay"
+    },
+    {
+      "name": "ビッグウェーブ 青梅店",
+      "address": "和田町",
+      "storeid": "ome-daae0b",
+      "shopid": "ome-daae0b-rakutenpay"
+    }
+  ],
+  "その他": [
+    {
+      "name": "河辺ロック",
+      "address": "河辺町",
+      "storeid": "ome-264f83",
+      "shopid": "ome-264f83-rakutenpay"
+    },
+    {
+      "name": "全書会",
+      "address": "河辺町",
+      "storeid": "ome-912de8",
+      "shopid": "ome-912de8-rakutenpay"
+    },
+    {
+      "name": "茶の文化フォーラム",
+      "address": "御岳",
+      "storeid": "ome-23202f",
+      "shopid": "ome-23202f-rakutenpay"
+    },
+    {
+      "name": "安心葬祭",
+      "address": "師岡町",
+      "storeid": "ome-b226ea",
+      "shopid": "ome-b226ea-rakutenpay"
+    },
+    {
+      "name": "KAU",
+      "address": "勝沼",
+      "storeid": "ome-c7593f",
+      "shopid": "ome-c7593f-rakutenpay"
+    },
+    {
+      "name": "Smilebird",
+      "address": "勝沼",
+      "storeid": "ome-9cba59",
+      "shopid": "ome-9cba59-rakutenpay"
+    },
+    {
+      "name": "原島燃料店",
+      "address": "新町",
+      "storeid": "ome-de11a9",
+      "shopid": "ome-de11a9-rakutenpay"
+    },
+    {
+      "name": "レンタルレイアウトTb青梅千ケ瀬",
+      "address": "千ケ瀬町",
+      "storeid": "ome-545e35",
+      "shopid": "ome-545e35-rakutenpay"
+    },
+    {
+      "name": "くるりHOUSE",
+      "address": "沢井",
+      "storeid": "ome-0359a3",
+      "shopid": "ome-0359a3-rakutenpay"
+    },
+    {
+      "name": "森泉人形 青梅店",
+      "address": "仲町",
+      "storeid": "ome-5af01e",
+      "shopid": "ome-5af01e-rakutenpay"
+    },
+    {
+      "name": "STORMNINE",
+      "address": "二俣尾",
+      "storeid": "ome-b621d4",
+      "shopid": "ome-b621d4-rakutenpay"
+    },
+    {
+      "name": "ムラタ むらたるみ事務所",
+      "address": "二俣尾",
+      "storeid": "ome-22027f",
+      "shopid": "ome-22027f-rakutenpay"
+    },
+    {
+      "name": "ELEANOR",
+      "address": "二俣尾",
+      "storeid": "ome-8aea19",
+      "shopid": "ome-8aea19-rakutenpay"
+    },
+    {
+      "name": "Lumiere",
+      "address": "富岡",
+      "storeid": "ome-98a84a",
+      "shopid": "ome-98a84a-rakutenpay"
+    },
+    {
+      "name": "ビッグウェーブ 奥多摩営業所",
+      "address": "柚木町",
+      "storeid": "ome-6b7922",
+      "shopid": "ome-6b7922-rakutenpay"
+    }
+  ]
+}

@@ -1,0 +1,4846 @@
+{
+  "飲食店": [
+    {
+      "name": "月与の童屋",
+      "address": "河辺町",
+      "storeid": "ome-43c8f0",
+      "shopid": "ome-43c8f0-paypay"
+    },
+    {
+      "name": "ORITO",
+      "address": "河辺町",
+      "storeid": "ome-ff7eac",
+      "shopid": "ome-ff7eac-paypay"
+    },
+    {
+      "name": "kitchen NON",
+      "address": "河辺町",
+      "storeid": "ome-66e490",
+      "shopid": "ome-66e490-paypay"
+    },
+    {
+      "name": "cinnamon",
+      "address": "河辺町",
+      "storeid": "ome-0fc324",
+      "shopid": "ome-0fc324-paypay"
+    },
+    {
+      "name": "ピザ&カフェ トコ",
+      "address": "河辺町",
+      "storeid": "ome-7a5607",
+      "shopid": "ome-7a5607-paypay"
+    },
+    {
+      "name": "ひのき茶屋",
+      "address": "河辺町",
+      "storeid": "ome-4aa86d",
+      "shopid": "ome-4aa86d-paypay"
+    },
+    {
+      "name": "青梅のおいもや ひみつきち",
+      "address": "河辺町",
+      "storeid": "ome-5ef4da",
+      "shopid": "ome-5ef4da-paypay"
+    },
+    {
+      "name": "アジアンカフェダイニング シェルパ",
+      "address": "河辺町",
+      "storeid": "ome-13741c",
+      "shopid": "ome-13741c-paypay"
+    },
+    {
+      "name": "Bar Cerise",
+      "address": "河辺町",
+      "storeid": "ome-57e0c3",
+      "shopid": "ome-57e0c3-paypay"
+    },
+    {
+      "name": "BAR LIEN",
+      "address": "河辺町",
+      "storeid": "ome-48a8a0",
+      "shopid": "ome-48a8a0-paypay"
+    },
+    {
+      "name": "スナックチェス",
+      "address": "河辺町",
+      "storeid": "ome-32dae9",
+      "shopid": "ome-32dae9-paypay"
+    },
+    {
+      "name": "食処みやび 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-a44d0b",
+      "shopid": "ome-a44d0b-paypay"
+    },
+    {
+      "name": "洋風Dining 台 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-c2f6f0",
+      "shopid": "ome-c2f6f0-paypay"
+    },
+    {
+      "name": "カフェブラジリア",
+      "address": "河辺町",
+      "storeid": "ome-1bd47d",
+      "shopid": "ome-1bd47d-paypay"
+    },
+    {
+      "name": "自然の恵み家 凛空",
+      "address": "河辺町",
+      "storeid": "ome-22705b",
+      "shopid": "ome-22705b-paypay"
+    },
+    {
+      "name": "宮よし 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-b40b23",
+      "shopid": "ome-b40b23-paypay"
+    },
+    {
+      "name": "焼肉明月館",
+      "address": "河辺町",
+      "storeid": "ome-c15242",
+      "shopid": "ome-c15242-paypay"
+    },
+    {
+      "name": "KOI",
+      "address": "河辺町",
+      "storeid": "ome-41476c",
+      "shopid": "ome-41476c-paypay"
+    },
+    {
+      "name": "パブ・フェニックス",
+      "address": "河辺町",
+      "storeid": "ome-c0b95d",
+      "shopid": "ome-c0b95d-paypay"
+    },
+    {
+      "name": "らーめん元",
+      "address": "河辺町",
+      "storeid": "ome-14f01b",
+      "shopid": "ome-14f01b-paypay"
+    },
+    {
+      "name": "オールデイズキッチン",
+      "address": "河辺町",
+      "storeid": "ome-abb7f6",
+      "shopid": "ome-abb7f6-paypay"
+    },
+    {
+      "name": "Soeur",
+      "address": "河辺町",
+      "storeid": "ome-5c1bdc",
+      "shopid": "ome-5c1bdc-paypay"
+    },
+    {
+      "name": "スナック ゴールド",
+      "address": "河辺町",
+      "storeid": "ome-cc90c2",
+      "shopid": "ome-cc90c2-paypay"
+    },
+    {
+      "name": "炭火やきとり 火の鳥 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-4cd158",
+      "shopid": "ome-4cd158-paypay"
+    },
+    {
+      "name": "炭火やきとり 鳥よし",
+      "address": "河辺町",
+      "storeid": "ome-5a3d14",
+      "shopid": "ome-5a3d14-paypay"
+    },
+    {
+      "name": "BAR BASIS",
+      "address": "河辺町",
+      "storeid": "ome-c62971",
+      "shopid": "ome-c62971-paypay"
+    },
+    {
+      "name": "CREPE COROMO",
+      "address": "河辺町",
+      "storeid": "ome-32c620",
+      "shopid": "ome-32c620-paypay"
+    },
+    {
+      "name": "美登里家",
+      "address": "河辺町",
+      "storeid": "ome-4fff8a",
+      "shopid": "ome-4fff8a-paypay"
+    },
+    {
+      "name": "つけ蕎麦katsura",
+      "address": "河辺町",
+      "storeid": "ome-8f883d",
+      "shopid": "ome-8f883d-paypay"
+    },
+    {
+      "name": "CHAKU cafe&style",
+      "address": "河辺町",
+      "storeid": "ome-54d60a",
+      "shopid": "ome-54d60a-paypay"
+    },
+    {
+      "name": "レインボークレープ",
+      "address": "河辺町",
+      "storeid": "ome-90c53a",
+      "shopid": "ome-90c53a-paypay"
+    },
+    {
+      "name": "おだんご屋",
+      "address": "河辺町",
+      "storeid": "ome-4f9302",
+      "shopid": "ome-4f9302-paypay"
+    },
+    {
+      "name": "ハレパンとろたまドーナツ青梅店",
+      "address": "河辺町",
+      "storeid": "ome-94da1c",
+      "shopid": "ome-94da1c-paypay"
+    },
+    {
+      "name": "さかもとそば店",
+      "address": "河辺町",
+      "storeid": "ome-bcf5fd",
+      "shopid": "ome-bcf5fd-paypay"
+    },
+    {
+      "name": "台湾酒場39",
+      "address": "河辺町",
+      "storeid": "ome-900c4d",
+      "shopid": "ome-900c4d-paypay"
+    },
+    {
+      "name": "昼カラ 友楽蝶 青梅店",
+      "address": "河辺町",
+      "storeid": "ome-c99954",
+      "shopid": "ome-c99954-paypay"
+    },
+    {
+      "name": "チャイナハウスシマ",
+      "address": "河辺町",
+      "storeid": "ome-cc673a",
+      "shopid": "ome-cc673a-paypay"
+    },
+    {
+      "name": "うさぽんCAFE",
+      "address": "河辺町",
+      "storeid": "ome-a62350",
+      "shopid": "ome-a62350-paypay"
+    },
+    {
+      "name": "もりもり亭",
+      "address": "河辺町",
+      "storeid": "ome-155119",
+      "shopid": "ome-155119-paypay"
+    },
+    {
+      "name": "ビストロ 今",
+      "address": "河辺町",
+      "storeid": "ome-145e29",
+      "shopid": "ome-145e29-paypay"
+    },
+    {
+      "name": "クーポール 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-5f974b",
+      "shopid": "ome-5f974b-paypay"
+    },
+    {
+      "name": "ベーカリーカフェ PLUME",
+      "address": "河辺町",
+      "storeid": "ome-7ca7a2",
+      "shopid": "ome-7ca7a2-paypay"
+    },
+    {
+      "name": "鉄板料理 昔",
+      "address": "河辺町",
+      "storeid": "ome-49dfd4",
+      "shopid": "ome-49dfd4-paypay"
+    },
+    {
+      "name": "食堂みやもと",
+      "address": "河辺町",
+      "storeid": "ome-24f0a6",
+      "shopid": "ome-24f0a6-paypay"
+    },
+    {
+      "name": "燻製とスープカレーけむり",
+      "address": "河辺町",
+      "storeid": "ome-44881b",
+      "shopid": "ome-44881b-paypay"
+    },
+    {
+      "name": "まつもと",
+      "address": "駒木町",
+      "storeid": "ome-a1aa62",
+      "shopid": "ome-a1aa62-paypay"
+    },
+    {
+      "name": "LIFE EXPERIENCE WASABI食堂",
+      "address": "御岳",
+      "storeid": "ome-cc5b2e",
+      "shopid": "ome-cc5b2e-paypay"
+    },
+    {
+      "name": "NAMA 御岳店",
+      "address": "御岳",
+      "storeid": "ome-221a32",
+      "shopid": "ome-221a32-paypay"
+    },
+    {
+      "name": "富士峰軒",
+      "address": "御岳山",
+      "storeid": "ome-694ec1",
+      "shopid": "ome-694ec1-paypay"
+    },
+    {
+      "name": "山の上レモネード",
+      "address": "御岳山",
+      "storeid": "ome-f5977b",
+      "shopid": "ome-f5977b-paypay"
+    },
+    {
+      "name": "原島荘",
+      "address": "御岳山",
+      "storeid": "ome-af7da3",
+      "shopid": "ome-af7da3-paypay"
+    },
+    {
+      "name": "能保利",
+      "address": "御岳山",
+      "storeid": "ome-503386",
+      "shopid": "ome-503386-paypay"
+    },
+    {
+      "name": "古狸山",
+      "address": "御岳山",
+      "storeid": "ome-9a0209",
+      "shopid": "ome-9a0209-paypay"
+    },
+    {
+      "name": "御岳山荘",
+      "address": "御岳山",
+      "storeid": "ome-3750a6",
+      "shopid": "ome-3750a6-paypay"
+    },
+    {
+      "name": "千本屋",
+      "address": "御岳山",
+      "storeid": "ome-751371",
+      "shopid": "ome-751371-paypay"
+    },
+    {
+      "name": "紅葉屋",
+      "address": "御岳山",
+      "storeid": "ome-128d98",
+      "shopid": "ome-128d98-paypay"
+    },
+    {
+      "name": "Deck Cafe Bitte",
+      "address": "御岳本町",
+      "storeid": "ome-900895",
+      "shopid": "ome-900895-paypay"
+    },
+    {
+      "name": "きり山",
+      "address": "御岳本町",
+      "storeid": "ome-1eb18f",
+      "shopid": "ome-1eb18f-paypay"
+    },
+    {
+      "name": "MITAKE HOLIDAY GELATO",
+      "address": "御岳本町",
+      "storeid": "ome-52f250",
+      "shopid": "ome-52f250-paypay"
+    },
+    {
+      "name": "カフェ茶楽",
+      "address": "御岳本町",
+      "storeid": "ome-3ac77c",
+      "shopid": "ome-3ac77c-paypay"
+    },
+    {
+      "name": "甘味とごはん処 やお九 本店",
+      "address": "御岳本町",
+      "storeid": "ome-aa87a0",
+      "shopid": "ome-aa87a0-paypay"
+    },
+    {
+      "name": "手打蕎麦ごろう",
+      "address": "御岳本町",
+      "storeid": "ome-ad9bbf",
+      "shopid": "ome-ad9bbf-paypay"
+    },
+    {
+      "name": "HEALTHY SMOOTHIE",
+      "address": "御岳本町",
+      "storeid": "ome-331006",
+      "shopid": "ome-331006-paypay"
+    },
+    {
+      "name": "cafe monaca",
+      "address": "御岳本町",
+      "storeid": "ome-5baabf",
+      "shopid": "ome-5baabf-paypay"
+    },
+    {
+      "name": "駅前BBQ B-YARD",
+      "address": "御岳本町",
+      "storeid": "ome-e9b8c5",
+      "shopid": "ome-e9b8c5-paypay"
+    },
+    {
+      "name": "手打ちそば 玉川屋",
+      "address": "御岳本町",
+      "storeid": "ome-239489",
+      "shopid": "ome-239489-paypay"
+    },
+    {
+      "name": "RugTime Labo",
+      "address": "黒沢",
+      "storeid": "ome-53967c",
+      "shopid": "ome-53967c-paypay"
+    },
+    {
+      "name": "クレープリー アルコバレーノ",
+      "address": "今井",
+      "storeid": "ome-72a451",
+      "shopid": "ome-72a451-paypay"
+    },
+    {
+      "name": "どらごん dragon",
+      "address": "今井",
+      "storeid": "ome-3dd83f",
+      "shopid": "ome-3dd83f-paypay"
+    },
+    {
+      "name": "杉田園",
+      "address": "今井",
+      "storeid": "ome-9b0ad3",
+      "shopid": "ome-9b0ad3-paypay"
+    },
+    {
+      "name": "極生ぷりん専門店 まさ希",
+      "address": "今井",
+      "storeid": "ome-72dc98",
+      "shopid": "ome-72dc98-paypay"
+    },
+    {
+      "name": "タイ料理店 プラーカポン",
+      "address": "今寺",
+      "storeid": "ome-4be4e2",
+      "shopid": "ome-4be4e2-paypay"
+    },
+    {
+      "name": "担々麺杉山",
+      "address": "今寺",
+      "storeid": "ome-c5260b",
+      "shopid": "ome-c5260b-paypay"
+    },
+    {
+      "name": "天龍",
+      "address": "師岡町",
+      "storeid": "ome-d60690",
+      "shopid": "ome-d60690-paypay"
+    },
+    {
+      "name": "ニューナマステインディア",
+      "address": "師岡町",
+      "storeid": "ome-729d81",
+      "shopid": "ome-729d81-paypay"
+    },
+    {
+      "name": "河辺 大勝軒",
+      "address": "師岡町",
+      "storeid": "ome-7811e1",
+      "shopid": "ome-7811e1-paypay"
+    },
+    {
+      "name": "とんかつ芯",
+      "address": "師岡町",
+      "storeid": "ome-dc2739",
+      "shopid": "ome-dc2739-paypay"
+    },
+    {
+      "name": "餃子 火の鳥",
+      "address": "師岡町",
+      "storeid": "ome-2a82e3",
+      "shopid": "ome-2a82e3-paypay"
+    },
+    {
+      "name": "キッチンけん",
+      "address": "師岡町",
+      "storeid": "ome-1282de",
+      "shopid": "ome-1282de-paypay"
+    },
+    {
+      "name": "やきとり ふうちゃん",
+      "address": "師岡町",
+      "storeid": "ome-8cd74c",
+      "shopid": "ome-8cd74c-paypay"
+    },
+    {
+      "name": "バー Be happy",
+      "address": "師岡町",
+      "storeid": "ome-3a7d46",
+      "shopid": "ome-3a7d46-paypay"
+    },
+    {
+      "name": "カフェ悠 河辺店",
+      "address": "師岡町",
+      "storeid": "ome-e0ceb6",
+      "shopid": "ome-e0ceb6-paypay"
+    },
+    {
+      "name": "瀬音",
+      "address": "住江町",
+      "storeid": "ome-604818",
+      "shopid": "ome-604818-paypay"
+    },
+    {
+      "name": "やきとりおでん 銀嶺",
+      "address": "住江町",
+      "storeid": "ome-091983",
+      "shopid": "ome-091983-paypay"
+    },
+    {
+      "name": "アトリエよぎ",
+      "address": "住江町",
+      "storeid": "ome-053f9a",
+      "shopid": "ome-053f9a-paypay"
+    },
+    {
+      "name": "青梅酒場 ブルーバード",
+      "address": "住江町",
+      "storeid": "ome-904091",
+      "shopid": "ome-904091-paypay"
+    },
+    {
+      "name": "ナミオ珈琲",
+      "address": "住江町",
+      "storeid": "ome-e6cb98",
+      "shopid": "ome-e6cb98-paypay"
+    },
+    {
+      "name": "串揚げ ファイヤーバード東青梅",
+      "address": "勝沼",
+      "storeid": "ome-45b768",
+      "shopid": "ome-45b768-paypay"
+    },
+    {
+      "name": "炭火やきとり火の鳥 東青梅店",
+      "address": "勝沼",
+      "storeid": "ome-0ffcea",
+      "shopid": "ome-0ffcea-paypay"
+    },
+    {
+      "name": "来来軒",
+      "address": "勝沼",
+      "storeid": "ome-3c8e47",
+      "shopid": "ome-3c8e47-paypay"
+    },
+    {
+      "name": "火打屋 本店",
+      "address": "勝沼",
+      "storeid": "ome-d118d6",
+      "shopid": "ome-d118d6-paypay"
+    },
+    {
+      "name": "割烹 三河屋",
+      "address": "勝沼",
+      "storeid": "ome-38bf00",
+      "shopid": "ome-38bf00-paypay"
+    },
+    {
+      "name": "KTホールぶらりカフェ ArtProgram",
+      "address": "勝沼",
+      "storeid": "ome-363a16",
+      "shopid": "ome-363a16-paypay"
+    },
+    {
+      "name": "KTホールぶらりカフェ GALLERY",
+      "address": "勝沼",
+      "storeid": "ome-03fbe5",
+      "shopid": "ome-03fbe5-paypay"
+    },
+    {
+      "name": "KTホールぶらりカフェ ぶらりカフェ",
+      "address": "勝沼",
+      "storeid": "ome-711435",
+      "shopid": "ome-711435-paypay"
+    },
+    {
+      "name": "寿司忠",
+      "address": "勝沼",
+      "storeid": "ome-7dd9ea",
+      "shopid": "ome-7dd9ea-paypay"
+    },
+    {
+      "name": "三河屋",
+      "address": "勝沼",
+      "storeid": "ome-ed63e0",
+      "shopid": "ome-ed63e0-paypay"
+    },
+    {
+      "name": "Potatostorage",
+      "address": "小曾木",
+      "storeid": "ome-388e01",
+      "shopid": "ome-388e01-paypay"
+    },
+    {
+      "name": "古民家 いろり",
+      "address": "小曾木",
+      "storeid": "ome-071849",
+      "shopid": "ome-071849-paypay"
+    },
+    {
+      "name": "コンブリオ",
+      "address": "小曾木",
+      "storeid": "ome-c383a6",
+      "shopid": "ome-c383a6-paypay"
+    },
+    {
+      "name": "CAFE YUBA",
+      "address": "小曾木",
+      "storeid": "ome-48636f",
+      "shopid": "ome-48636f-paypay"
+    },
+    {
+      "name": "Surrender cafe&札幌スープカレー",
+      "address": "上町",
+      "storeid": "ome-d98ffa",
+      "shopid": "ome-d98ffa-paypay"
+    },
+    {
+      "name": "焼肉青梅",
+      "address": "上町",
+      "storeid": "ome-f4b3a1",
+      "shopid": "ome-f4b3a1-paypay"
+    },
+    {
+      "name": "居酒屋 きりしま",
+      "address": "新町",
+      "storeid": "ome-a32aa7",
+      "shopid": "ome-a32aa7-paypay"
+    },
+    {
+      "name": "居酒屋 乾杯",
+      "address": "新町",
+      "storeid": "ome-37033d",
+      "shopid": "ome-37033d-paypay"
+    },
+    {
+      "name": "シエスタ",
+      "address": "新町",
+      "storeid": "ome-5b2a2c",
+      "shopid": "ome-5b2a2c-paypay"
+    },
+    {
+      "name": "LUCKY-7 Halal Food 小作店",
+      "address": "新町",
+      "storeid": "ome-c899b0",
+      "shopid": "ome-c899b0-paypay"
+    },
+    {
+      "name": "MAR-MAR",
+      "address": "新町",
+      "storeid": "ome-b7a1d0",
+      "shopid": "ome-b7a1d0-paypay"
+    },
+    {
+      "name": "PUB 联 ( REN ) 小作店",
+      "address": "新町",
+      "storeid": "ome-2aa73f",
+      "shopid": "ome-2aa73f-paypay"
+    },
+    {
+      "name": "串SUBARU",
+      "address": "新町",
+      "storeid": "ome-d9832a",
+      "shopid": "ome-d9832a-paypay"
+    },
+    {
+      "name": "和洋折衷 遊バル 小作店",
+      "address": "新町",
+      "storeid": "ome-e57335",
+      "shopid": "ome-e57335-paypay"
+    },
+    {
+      "name": "焼肉しゃぶしゃぶいのうえ",
+      "address": "新町",
+      "storeid": "ome-809445",
+      "shopid": "ome-809445-paypay"
+    },
+    {
+      "name": "小作",
+      "address": "新町",
+      "storeid": "ome-a7589a",
+      "shopid": "ome-a7589a-paypay"
+    },
+    {
+      "name": "沖縄居酒屋海人 愛",
+      "address": "新町",
+      "storeid": "ome-5d41cb",
+      "shopid": "ome-5d41cb-paypay"
+    },
+    {
+      "name": "レストラン ピエモンテ",
+      "address": "新町",
+      "storeid": "ome-88fc03",
+      "shopid": "ome-88fc03-paypay"
+    },
+    {
+      "name": "bar CLIMB",
+      "address": "新町",
+      "storeid": "ome-2a2337",
+      "shopid": "ome-2a2337-paypay"
+    },
+    {
+      "name": "DRI-BAR",
+      "address": "新町",
+      "storeid": "ome-6355e6",
+      "shopid": "ome-6355e6-paypay"
+    },
+    {
+      "name": "PubLounge Riemu",
+      "address": "新町",
+      "storeid": "ome-e22edc",
+      "shopid": "ome-e22edc-paypay"
+    },
+    {
+      "name": "ラウンジエール 本店",
+      "address": "新町",
+      "storeid": "ome-55ee7e",
+      "shopid": "ome-55ee7e-paypay"
+    },
+    {
+      "name": "Cafe Pecora",
+      "address": "新町",
+      "storeid": "ome-1082da",
+      "shopid": "ome-1082da-paypay"
+    },
+    {
+      "name": "ビストロシンペイ",
+      "address": "新町",
+      "storeid": "ome-4d0c48",
+      "shopid": "ome-4d0c48-paypay"
+    },
+    {
+      "name": "サンメリー 青梅店",
+      "address": "新町",
+      "storeid": "ome-f2c95c",
+      "shopid": "ome-f2c95c-paypay"
+    },
+    {
+      "name": "Natura",
+      "address": "新町",
+      "storeid": "ome-a2604d",
+      "shopid": "ome-a2604d-paypay"
+    },
+    {
+      "name": "中国料理金華園",
+      "address": "新町",
+      "storeid": "ome-a427bb",
+      "shopid": "ome-a427bb-paypay"
+    },
+    {
+      "name": "パティスリー CHALON",
+      "address": "新町",
+      "storeid": "ome-86aedf",
+      "shopid": "ome-86aedf-paypay"
+    },
+    {
+      "name": "台湾料理 祥瑞 青梅店",
+      "address": "新町",
+      "storeid": "ome-604162",
+      "shopid": "ome-604162-paypay"
+    },
+    {
+      "name": "Caffe parfum",
+      "address": "新町",
+      "storeid": "ome-6400a6",
+      "shopid": "ome-6400a6-paypay"
+    },
+    {
+      "name": "回転寿し活鮮 青梅新町店",
+      "address": "新町",
+      "storeid": "ome-889804",
+      "shopid": "ome-889804-paypay"
+    },
+    {
+      "name": "CAFÉ BRICCO  青梅店",
+      "address": "新町",
+      "storeid": "ome-be410b",
+      "shopid": "ome-be410b-paypay"
+    },
+    {
+      "name": "凛cafe 凛カフェ",
+      "address": "新町",
+      "storeid": "ome-a400cd",
+      "shopid": "ome-a400cd-paypay"
+    },
+    {
+      "name": "山田うどん食堂 青梅新町店",
+      "address": "新町",
+      "storeid": "ome-217cca",
+      "shopid": "ome-217cca-paypay"
+    },
+    {
+      "name": "津田や",
+      "address": "新町",
+      "storeid": "ome-ba40b3",
+      "shopid": "ome-ba40b3-paypay"
+    },
+    {
+      "name": "Patisserie Michel 本店",
+      "address": "新町",
+      "storeid": "ome-d2b622",
+      "shopid": "ome-d2b622-paypay"
+    },
+    {
+      "name": "そば処 和樂",
+      "address": "新町",
+      "storeid": "ome-f7b274",
+      "shopid": "ome-f7b274-paypay"
+    },
+    {
+      "name": "フォルクス 青梅店",
+      "address": "新町",
+      "storeid": "ome-33ecc8",
+      "shopid": "ome-33ecc8-paypay"
+    },
+    {
+      "name": "徳樹庵 青梅新町店",
+      "address": "新町",
+      "storeid": "ome-0e9159",
+      "shopid": "ome-0e9159-paypay"
+    },
+    {
+      "name": "UMIT ケバブ",
+      "address": "森下町",
+      "storeid": "ome-019f78",
+      "shopid": "ome-019f78-paypay"
+    },
+    {
+      "name": "うらしま",
+      "address": "成木",
+      "storeid": "ome-1cf71f",
+      "shopid": "ome-1cf71f-paypay"
+    },
+    {
+      "name": "CoffeeandDonuts",
+      "address": "成木",
+      "storeid": "ome-6af779",
+      "shopid": "ome-6af779-paypay"
+    },
+    {
+      "name": "ヘーゼル洋菓子店",
+      "address": "西分町",
+      "storeid": "ome-661c00",
+      "shopid": "ome-661c00-paypay"
+    },
+    {
+      "name": "常宿",
+      "address": "西分町",
+      "storeid": "ome-654d77",
+      "shopid": "ome-654d77-paypay"
+    },
+    {
+      "name": "炙り鶏 とりばこ",
+      "address": "西分町",
+      "storeid": "ome-8caf8f",
+      "shopid": "ome-8caf8f-paypay"
+    },
+    {
+      "name": "SUN キッチン",
+      "address": "西分町",
+      "storeid": "ome-a7f747",
+      "shopid": "ome-a7f747-paypay"
+    },
+    {
+      "name": "繭蔵",
+      "address": "西分町",
+      "storeid": "ome-4c979c",
+      "shopid": "ome-4c979c-paypay"
+    },
+    {
+      "name": "稀星",
+      "address": "千ケ瀬町",
+      "storeid": "ome-c9b0d6",
+      "shopid": "ome-c9b0d6-paypay"
+    },
+    {
+      "name": "ANACOM AWAKE",
+      "address": "千ケ瀬町",
+      "storeid": "ome-517b38",
+      "shopid": "ome-517b38-paypay"
+    },
+    {
+      "name": "手もみらーめん十八番",
+      "address": "千ケ瀬町",
+      "storeid": "ome-6f1aef",
+      "shopid": "ome-6f1aef-paypay"
+    },
+    {
+      "name": "武蔵野うどん竹國青梅店",
+      "address": "千ケ瀬町",
+      "storeid": "ome-b199ac",
+      "shopid": "ome-b199ac-paypay"
+    },
+    {
+      "name": "とんかつ太郎",
+      "address": "千ケ瀬町",
+      "storeid": "ome-ba2b86",
+      "shopid": "ome-ba2b86-paypay"
+    },
+    {
+      "name": "丼丸d'Ome千ヶ瀬店",
+      "address": "千ケ瀬町",
+      "storeid": "ome-bf05ef",
+      "shopid": "ome-bf05ef-paypay"
+    },
+    {
+      "name": "おかし処ふくろう",
+      "address": "大門",
+      "storeid": "ome-dd675a",
+      "shopid": "ome-dd675a-paypay"
+    },
+    {
+      "name": "FOREST LOUNGE",
+      "address": "大門",
+      "storeid": "ome-d8a907",
+      "shopid": "ome-d8a907-paypay"
+    },
+    {
+      "name": "まんまる亭",
+      "address": "大門",
+      "storeid": "ome-73758a",
+      "shopid": "ome-73758a-paypay"
+    },
+    {
+      "name": "梅菓匠 にしむら",
+      "address": "大柳町",
+      "storeid": "ome-d6ca71",
+      "shopid": "ome-d6ca71-paypay"
+    },
+    {
+      "name": "青梅大学いも学部",
+      "address": "大柳町",
+      "storeid": "ome-d1930d",
+      "shopid": "ome-d1930d-paypay"
+    },
+    {
+      "name": "ギャラリー亜陶",
+      "address": "大柳町",
+      "storeid": "ome-810232",
+      "shopid": "ome-810232-paypay"
+    },
+    {
+      "name": "お店のようなもの 青梅店",
+      "address": "滝ノ上町",
+      "storeid": "ome-7bb944",
+      "shopid": "ome-7bb944-paypay"
+    },
+    {
+      "name": "煉瓦堂朱とんぼ ガーデンバーベキュー",
+      "address": "沢井",
+      "storeid": "ome-2d08b0",
+      "shopid": "ome-2d08b0-paypay"
+    },
+    {
+      "name": "CAFE 雫",
+      "address": "沢井",
+      "storeid": "ome-9a38d5",
+      "shopid": "ome-9a38d5-paypay"
+    },
+    {
+      "name": "ままごと屋",
+      "address": "沢井",
+      "storeid": "ome-f2c76c",
+      "shopid": "ome-f2c76c-paypay"
+    },
+    {
+      "name": "清流ガーデン 澤乃井園",
+      "address": "沢井",
+      "storeid": "ome-75ad6e",
+      "shopid": "ome-75ad6e-paypay"
+    },
+    {
+      "name": "阿吽Labo.",
+      "address": "沢井",
+      "storeid": "ome-faada2",
+      "shopid": "ome-faada2-paypay"
+    },
+    {
+      "name": "沢井マウンテンカフェ",
+      "address": "沢井",
+      "storeid": "ome-654e70",
+      "shopid": "ome-654e70-paypay"
+    },
+    {
+      "name": "カフェHaruKiyo",
+      "address": "谷野",
+      "storeid": "ome-bd036a",
+      "shopid": "ome-bd036a-paypay"
+    },
+    {
+      "name": "Cafe espoir",
+      "address": "仲町",
+      "storeid": "ome-7c9c5f",
+      "shopid": "ome-7c9c5f-paypay"
+    },
+    {
+      "name": "青梅食堂",
+      "address": "仲町",
+      "storeid": "ome-f7f971",
+      "shopid": "ome-f7f971-paypay"
+    },
+    {
+      "name": "青龍kibako",
+      "address": "仲町",
+      "storeid": "ome-01f122",
+      "shopid": "ome-01f122-paypay"
+    },
+    {
+      "name": "呑み処 みんみん家",
+      "address": "仲町",
+      "storeid": "ome-cfacd7",
+      "shopid": "ome-cfacd7-paypay"
+    },
+    {
+      "name": "和み処 ふくちゃん",
+      "address": "仲町",
+      "storeid": "ome-5f060c",
+      "shopid": "ome-5f060c-paypay"
+    },
+    {
+      "name": "日本航空学園 青梅キャンパス売店",
+      "address": "長淵",
+      "storeid": "ome-d7957e",
+      "shopid": "ome-d7957e-paypay"
+    },
+    {
+      "name": "デイリーディッシュヒキダ",
+      "address": "長淵",
+      "storeid": "ome-16735c",
+      "shopid": "ome-16735c-paypay"
+    },
+    {
+      "name": "旬",
+      "address": "長淵",
+      "storeid": "ome-b5e116",
+      "shopid": "ome-b5e116-paypay"
+    },
+    {
+      "name": "沖縄居酒家 あすか",
+      "address": "東青梅",
+      "storeid": "ome-9f719e",
+      "shopid": "ome-9f719e-paypay"
+    },
+    {
+      "name": "食酒処やまさき",
+      "address": "東青梅",
+      "storeid": "ome-a2d999",
+      "shopid": "ome-a2d999-paypay"
+    },
+    {
+      "name": "琉球ぼうず 青梅店",
+      "address": "東青梅",
+      "storeid": "ome-8f24e1",
+      "shopid": "ome-8f24e1-paypay"
+    },
+    {
+      "name": "餃子と瓶",
+      "address": "東青梅",
+      "storeid": "ome-4c4968",
+      "shopid": "ome-4c4968-paypay"
+    },
+    {
+      "name": "スナックつぼみ",
+      "address": "東青梅",
+      "storeid": "ome-77ba1b",
+      "shopid": "ome-77ba1b-paypay"
+    },
+    {
+      "name": "よりみち",
+      "address": "東青梅",
+      "storeid": "ome-c68e48",
+      "shopid": "ome-c68e48-paypay"
+    },
+    {
+      "name": "魚鳥酒家一期一会",
+      "address": "東青梅",
+      "storeid": "ome-6bb755",
+      "shopid": "ome-6bb755-paypay"
+    },
+    {
+      "name": "信濃路",
+      "address": "東青梅",
+      "storeid": "ome-14c4f0",
+      "shopid": "ome-14c4f0-paypay"
+    },
+    {
+      "name": "カフェ・ギャラリー 草",
+      "address": "東青梅",
+      "storeid": "ome-d72a4a",
+      "shopid": "ome-d72a4a-paypay"
+    },
+    {
+      "name": "桂月庵 別館",
+      "address": "東青梅",
+      "storeid": "ome-5e03cd",
+      "shopid": "ome-5e03cd-paypay"
+    },
+    {
+      "name": "焼肉みちくさ",
+      "address": "東青梅",
+      "storeid": "ome-7ee3bc",
+      "shopid": "ome-7ee3bc-paypay"
+    },
+    {
+      "name": "海鮮・串揚げ 火の鳥",
+      "address": "東青梅",
+      "storeid": "ome-dd0d23",
+      "shopid": "ome-dd0d23-paypay"
+    },
+    {
+      "name": "すみやき家 串陣 東青梅店",
+      "address": "東青梅",
+      "storeid": "ome-e7a020",
+      "shopid": "ome-e7a020-paypay"
+    },
+    {
+      "name": "こいずみ",
+      "address": "東青梅",
+      "storeid": "ome-cf196d",
+      "shopid": "ome-cf196d-paypay"
+    },
+    {
+      "name": "SPICES TOKYO",
+      "address": "東青梅",
+      "storeid": "ome-e9ce12",
+      "shopid": "ome-e9ce12-paypay"
+    },
+    {
+      "name": "くつろぎ処 くつキッちん",
+      "address": "東青梅",
+      "storeid": "ome-da7e9a",
+      "shopid": "ome-da7e9a-paypay"
+    },
+    {
+      "name": "大寿司",
+      "address": "東青梅",
+      "storeid": "ome-df464f",
+      "shopid": "ome-df464f-paypay"
+    },
+    {
+      "name": "東青梅 炙堂",
+      "address": "東青梅",
+      "storeid": "ome-3d0684",
+      "shopid": "ome-3d0684-paypay"
+    },
+    {
+      "name": "鳥よし",
+      "address": "東青梅",
+      "storeid": "ome-d0b66f",
+      "shopid": "ome-d0b66f-paypay"
+    },
+    {
+      "name": "寿司勝",
+      "address": "東青梅",
+      "storeid": "ome-cd9957",
+      "shopid": "ome-cd9957-paypay"
+    },
+    {
+      "name": "ギャラリーカフェあーとせだー",
+      "address": "東青梅",
+      "storeid": "ome-ffcf13",
+      "shopid": "ome-ffcf13-paypay"
+    },
+    {
+      "name": "グート",
+      "address": "東青梅",
+      "storeid": "ome-fb2e8a",
+      "shopid": "ome-fb2e8a-paypay"
+    },
+    {
+      "name": "がってん寿司 青梅店",
+      "address": "東青梅",
+      "storeid": "ome-b55eac",
+      "shopid": "ome-b55eac-paypay"
+    },
+    {
+      "name": "Bisteria Gufo",
+      "address": "東青梅",
+      "storeid": "ome-7d51ee",
+      "shopid": "ome-7d51ee-paypay"
+    },
+    {
+      "name": "タパス&ワインバル Tail",
+      "address": "東青梅",
+      "storeid": "ome-35384c",
+      "shopid": "ome-35384c-paypay"
+    },
+    {
+      "name": "居酒屋 左党",
+      "address": "東青梅",
+      "storeid": "ome-e5b3af",
+      "shopid": "ome-e5b3af-paypay"
+    },
+    {
+      "name": "サロン・ドMURASAKI",
+      "address": "東青梅",
+      "storeid": "ome-5c2598",
+      "shopid": "ome-5c2598-paypay"
+    },
+    {
+      "name": "たつみ",
+      "address": "東青梅",
+      "storeid": "ome-774d05",
+      "shopid": "ome-774d05-paypay"
+    },
+    {
+      "name": "いしがみosteria",
+      "address": "二俣尾",
+      "storeid": "ome-78ca17",
+      "shopid": "ome-78ca17-paypay"
+    },
+    {
+      "name": "しゅう家",
+      "address": "二俣尾",
+      "storeid": "ome-3a028e",
+      "shopid": "ome-3a028e-paypay"
+    },
+    {
+      "name": "気ままにCafe",
+      "address": "二俣尾",
+      "storeid": "ome-6c30b6",
+      "shopid": "ome-6c30b6-paypay"
+    },
+    {
+      "name": "そば・うどん処 かわしま",
+      "address": "二俣尾",
+      "storeid": "ome-b35504",
+      "shopid": "ome-b35504-paypay"
+    },
+    {
+      "name": "ウォールナット",
+      "address": "二俣尾",
+      "storeid": "ome-3fa13b",
+      "shopid": "ome-3fa13b-paypay"
+    },
+    {
+      "name": "うな幸",
+      "address": "梅郷",
+      "storeid": "ome-ef4b2e",
+      "shopid": "ome-ef4b2e-paypay"
+    },
+    {
+      "name": "Lien",
+      "address": "梅郷",
+      "storeid": "ome-525377",
+      "shopid": "ome-525377-paypay"
+    },
+    {
+      "name": "Sunrise LAUNDRY&CAFE",
+      "address": "梅郷",
+      "storeid": "ome-3095b9",
+      "shopid": "ome-3095b9-paypay"
+    },
+    {
+      "name": "暮らしの料理",
+      "address": "梅郷",
+      "storeid": "ome-5cb840",
+      "shopid": "ome-5cb840-paypay"
+    },
+    {
+      "name": "お食事処 みらい屋 東青梅店",
+      "address": "梅郷",
+      "storeid": "ome-763b49",
+      "shopid": "ome-763b49-paypay"
+    },
+    {
+      "name": "YouMe Rafting/Dining",
+      "address": "梅郷",
+      "storeid": "ome-b3330a",
+      "shopid": "ome-b3330a-paypay"
+    },
+    {
+      "name": "紅梅苑",
+      "address": "梅郷",
+      "storeid": "ome-b5b55c",
+      "shopid": "ome-b5b55c-paypay"
+    },
+    {
+      "name": "Ramen FeeL",
+      "address": "梅郷",
+      "storeid": "ome-aca393",
+      "shopid": "ome-aca393-paypay"
+    },
+    {
+      "name": "DO THE DONUTS",
+      "address": "梅郷",
+      "storeid": "ome-e38ed0",
+      "shopid": "ome-e38ed0-paypay"
+    },
+    {
+      "name": "GOOD SHED",
+      "address": "梅郷",
+      "storeid": "ome-f7fa14",
+      "shopid": "ome-f7fa14-paypay"
+    },
+    {
+      "name": "MOPTOP ノコギリ",
+      "address": "梅郷",
+      "storeid": "ome-710e45",
+      "shopid": "ome-710e45-paypay"
+    },
+    {
+      "name": "手打ちそば 梅の内 本部",
+      "address": "梅郷",
+      "storeid": "ome-d37f87",
+      "shopid": "ome-d37f87-paypay"
+    },
+    {
+      "name": "Garage Cafe Bar monocoque",
+      "address": "畑中",
+      "storeid": "ome-0d560e",
+      "shopid": "ome-0d560e-paypay"
+    },
+    {
+      "name": "シェ・タスケ 青梅店",
+      "address": "畑中",
+      "storeid": "ome-977fd2",
+      "shopid": "ome-977fd2-paypay"
+    },
+    {
+      "name": "つぶあんカフェ",
+      "address": "本町",
+      "storeid": "ome-208791",
+      "shopid": "ome-208791-paypay"
+    },
+    {
+      "name": "青梅麦酒",
+      "address": "本町",
+      "storeid": "ome-1e561e",
+      "shopid": "ome-1e561e-paypay"
+    },
+    {
+      "name": "寿々喜家 青梅店",
+      "address": "本町",
+      "storeid": "ome-ca3007",
+      "shopid": "ome-ca3007-paypay"
+    },
+    {
+      "name": "D/W COFFEE",
+      "address": "本町",
+      "storeid": "ome-9fc390",
+      "shopid": "ome-9fc390-paypay"
+    },
+    {
+      "name": "小料理おきな",
+      "address": "本町",
+      "storeid": "ome-85319c",
+      "shopid": "ome-85319c-paypay"
+    },
+    {
+      "name": "喫茶 マチエキ",
+      "address": "本町",
+      "storeid": "ome-367067",
+      "shopid": "ome-367067-paypay"
+    },
+    {
+      "name": "お食事処 酒処 ぜん",
+      "address": "本町",
+      "storeid": "ome-db3be7",
+      "shopid": "ome-db3be7-paypay"
+    },
+    {
+      "name": "おうめクレープ",
+      "address": "本町",
+      "storeid": "ome-1c7a0c",
+      "shopid": "ome-1c7a0c-paypay"
+    },
+    {
+      "name": "夜噺屋もぎ 本店",
+      "address": "本町",
+      "storeid": "ome-a635b4",
+      "shopid": "ome-a635b4-paypay"
+    },
+    {
+      "name": "お菓子工房 ゆきばな",
+      "address": "野上町",
+      "storeid": "ome-f3b168",
+      "shopid": "ome-f3b168-paypay"
+    },
+    {
+      "name": "なか屋",
+      "address": "野上町",
+      "storeid": "ome-93ae83",
+      "shopid": "ome-93ae83-paypay"
+    },
+    {
+      "name": "秋まる",
+      "address": "野上町",
+      "storeid": "ome-218fe5",
+      "shopid": "ome-218fe5-paypay"
+    },
+    {
+      "name": "ふじ嘉",
+      "address": "野上町",
+      "storeid": "ome-a996b1",
+      "shopid": "ome-a996b1-paypay"
+    },
+    {
+      "name": "炭火やきとり 鶏彩",
+      "address": "野上町",
+      "storeid": "ome-afc36c",
+      "shopid": "ome-afc36c-paypay"
+    },
+    {
+      "name": "舞スタンド",
+      "address": "野上町",
+      "storeid": "ome-b000ac",
+      "shopid": "ome-b000ac-paypay"
+    },
+    {
+      "name": "berge",
+      "address": "野上町",
+      "storeid": "ome-115b51",
+      "shopid": "ome-115b51-paypay"
+    },
+    {
+      "name": "八石",
+      "address": "野上町",
+      "storeid": "ome-09d7f8",
+      "shopid": "ome-09d7f8-paypay"
+    },
+    {
+      "name": "和食処とんでん 青梅河辺店",
+      "address": "野上町",
+      "storeid": "ome-f266c1",
+      "shopid": "ome-f266c1-paypay"
+    },
+    {
+      "name": "居酒屋 つくね家",
+      "address": "野上町",
+      "storeid": "ome-d3c2bc",
+      "shopid": "ome-d3c2bc-paypay"
+    },
+    {
+      "name": "ハイデン.コッコFACTORYサマンサ・タマサ",
+      "address": "野上町",
+      "storeid": "ome-ea4c08",
+      "shopid": "ome-ea4c08-paypay"
+    },
+    {
+      "name": "Cafeがん芋",
+      "address": "友田町",
+      "storeid": "ome-e2a4d6",
+      "shopid": "ome-e2a4d6-paypay"
+    },
+    {
+      "name": "カレー 男",
+      "address": "柚木町",
+      "storeid": "ome-85efba",
+      "shopid": "ome-85efba-paypay"
+    },
+    {
+      "name": "さぬきうどん 本店",
+      "address": "柚木町",
+      "storeid": "ome-86a2c3",
+      "shopid": "ome-86a2c3-paypay"
+    },
+    {
+      "name": "かじか",
+      "address": "柚木町",
+      "storeid": "ome-ddcee0",
+      "shopid": "ome-ddcee0-paypay"
+    },
+    {
+      "name": "そばと茸の里 じゃもの 本店",
+      "address": "柚木町",
+      "storeid": "ome-202005",
+      "shopid": "ome-202005-paypay"
+    },
+    {
+      "name": "MILKY FLAMINGO crepes",
+      "address": "柚木町",
+      "storeid": "ome-fd5870",
+      "shopid": "ome-fd5870-paypay"
+    },
+    {
+      "name": "スナック 径花",
+      "address": "柚木町",
+      "storeid": "ome-261be3",
+      "shopid": "ome-261be3-paypay"
+    },
+    {
+      "name": "なごみ家",
+      "address": "柚木町",
+      "storeid": "ome-ae096f",
+      "shopid": "ome-ae096f-paypay"
+    },
+    {
+      "name": "noco BAKERY&CAFE",
+      "address": "柚木町",
+      "storeid": "ome-e65857",
+      "shopid": "ome-e65857-paypay"
+    },
+    {
+      "name": "ネパールカレー chakmathi 本店",
+      "address": "柚木町",
+      "storeid": "ome-bed82a",
+      "shopid": "ome-bed82a-paypay"
+    },
+    {
+      "name": "お好み焼 久ちゃん",
+      "address": "柚木町",
+      "storeid": "ome-6e1d52",
+      "shopid": "ome-6e1d52-paypay"
+    },
+    {
+      "name": "こまちどり",
+      "address": "柚木町",
+      "storeid": "ome-ffe1db",
+      "shopid": "ome-ffe1db-paypay"
+    },
+    {
+      "name": "とうふ工房ゆう",
+      "address": "裏宿町",
+      "storeid": "ome-f04d4b",
+      "shopid": "ome-f04d4b-paypay"
+    },
+    {
+      "name": "わせいろう",
+      "address": "裏宿町",
+      "storeid": "ome-2fcd32",
+      "shopid": "ome-2fcd32-paypay"
+    },
+    {
+      "name": "田舎屋",
+      "address": "裏宿町",
+      "storeid": "ome-4887f5",
+      "shopid": "ome-4887f5-paypay"
+    },
+    {
+      "name": "ナカガワ☆スエ食堂",
+      "address": "和田町",
+      "storeid": "ome-2f9d63",
+      "shopid": "ome-2f9d63-paypay"
+    },
+    {
+      "name": "カフェと雑貨のお店アイムホーム",
+      "address": "和田町",
+      "storeid": "ome-1c261a",
+      "shopid": "ome-1c261a-paypay"
+    },
+    {
+      "name": "いなりや",
+      "address": "和田町",
+      "storeid": "ome-bc5d70",
+      "shopid": "ome-bc5d70-paypay"
+    },
+    {
+      "name": "cafe creperiz ome",
+      "address": "千ケ瀬町",
+      "storeid": "ome-aa5dd0",
+      "shopid": "ome-aa5dd0-paypay"
+    }
+  ],
+  "食料品販売": [
+    {
+      "name": "野の花",
+      "address": "塩船",
+      "storeid": "ome-6e9453",
+      "shopid": "ome-6e9453-paypay"
+    },
+    {
+      "name": "シェルパ カバブハウス",
+      "address": "河辺町",
+      "storeid": "ome-08a97f",
+      "shopid": "ome-08a97f-paypay"
+    },
+    {
+      "name": "ぱん吉",
+      "address": "河辺町",
+      "storeid": "ome-852525",
+      "shopid": "ome-852525-paypay"
+    },
+    {
+      "name": "BACH HOA VIET MTV",
+      "address": "河辺町",
+      "storeid": "ome-dcf16a",
+      "shopid": "ome-dcf16a-paypay"
+    },
+    {
+      "name": "おやつのKacora 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-742e74",
+      "shopid": "ome-742e74-paypay"
+    },
+    {
+      "name": "紀の國屋 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-bc0d0f",
+      "shopid": "ome-bc0d0f-paypay"
+    },
+    {
+      "name": "スーパーオザム オザム河辺店",
+      "address": "河辺町",
+      "storeid": "ome-ff31c8",
+      "shopid": "ome-ff31c8-paypay"
+    },
+    {
+      "name": "三州屋酒店",
+      "address": "河辺町",
+      "storeid": "ome-786031",
+      "shopid": "ome-786031-paypay"
+    },
+    {
+      "name": "東京キッチンガーデンマーケット河辺店",
+      "address": "河辺町",
+      "storeid": "ome-f859a9",
+      "shopid": "ome-f859a9-paypay"
+    },
+    {
+      "name": "プランシエル",
+      "address": "河辺町",
+      "storeid": "ome-d0d7d9",
+      "shopid": "ome-d0d7d9-paypay"
+    },
+    {
+      "name": "マルシン 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-f3b530",
+      "shopid": "ome-f3b530-paypay"
+    },
+    {
+      "name": "POD-KIVA 青梅店",
+      "address": "河辺町",
+      "storeid": "ome-8be3ab",
+      "shopid": "ome-8be3ab-paypay"
+    },
+    {
+      "name": "ミニコスット",
+      "address": "河辺町",
+      "storeid": "ome-dd2300",
+      "shopid": "ome-dd2300-paypay"
+    },
+    {
+      "name": "maru.＋BEANS CAFE",
+      "address": "駒木町",
+      "storeid": "ome-592bd0",
+      "shopid": "ome-592bd0-paypay"
+    },
+    {
+      "name": "みたけ",
+      "address": "御岳本町",
+      "storeid": "ome-a6e3d3",
+      "shopid": "ome-a6e3d3-paypay"
+    },
+    {
+      "name": "のしこん本舗",
+      "address": "御岳本町",
+      "storeid": "ome-6e0e9b",
+      "shopid": "ome-6e0e9b-paypay"
+    },
+    {
+      "name": "青梅トマトガーデン",
+      "address": "今井",
+      "storeid": "ome-735690",
+      "shopid": "ome-735690-paypay"
+    },
+    {
+      "name": "かねやま水産 海野水産",
+      "address": "今井",
+      "storeid": "ome-96efbe",
+      "shopid": "ome-96efbe-paypay"
+    },
+    {
+      "name": "みか築や",
+      "address": "今寺",
+      "storeid": "ome-824086",
+      "shopid": "ome-824086-paypay"
+    },
+    {
+      "name": "トンきち屋",
+      "address": "今寺",
+      "storeid": "ome-b988db",
+      "shopid": "ome-b988db-paypay"
+    },
+    {
+      "name": "パティスリーテロワール",
+      "address": "今寺",
+      "storeid": "ome-d6aa1a",
+      "shopid": "ome-d6aa1a-paypay"
+    },
+    {
+      "name": "小山畜産",
+      "address": "今寺",
+      "storeid": "ome-57691c",
+      "shopid": "ome-57691c-paypay"
+    },
+    {
+      "name": "スーパーオザム オザム青梅今寺店",
+      "address": "今寺",
+      "storeid": "ome-332138",
+      "shopid": "ome-332138-paypay"
+    },
+    {
+      "name": "栗原園 青梅店",
+      "address": "師岡町",
+      "storeid": "ome-9346ac",
+      "shopid": "ome-9346ac-paypay"
+    },
+    {
+      "name": "道味",
+      "address": "住江町",
+      "storeid": "ome-b31549",
+      "shopid": "ome-b31549-paypay"
+    },
+    {
+      "name": "☑川屋酒店",
+      "address": "勝沼",
+      "storeid": "ome-ebec84",
+      "shopid": "ome-ebec84-paypay"
+    },
+    {
+      "name": "COPAIN",
+      "address": "勝沼",
+      "storeid": "ome-56cc9f",
+      "shopid": "ome-56cc9f-paypay"
+    },
+    {
+      "name": "火打屋本店 青梅総合高等学校",
+      "address": "勝沼",
+      "storeid": "ome-4657c7",
+      "shopid": "ome-4657c7-paypay"
+    },
+    {
+      "name": "高山商店",
+      "address": "勝沼",
+      "storeid": "ome-8c4941",
+      "shopid": "ome-8c4941-paypay"
+    },
+    {
+      "name": "AOTEA",
+      "address": "小曾木",
+      "storeid": "ome-7752b4",
+      "shopid": "ome-7752b4-paypay"
+    },
+    {
+      "name": "かわなべ鶏卵農場",
+      "address": "小曾木",
+      "storeid": "ome-a5929e",
+      "shopid": "ome-a5929e-paypay"
+    },
+    {
+      "name": "とのわファーム",
+      "address": "小曾木",
+      "storeid": "ome-c4854d",
+      "shopid": "ome-c4854d-paypay"
+    },
+    {
+      "name": "焼き鳥 BABEL",
+      "address": "小曾木",
+      "storeid": "ome-ec2834",
+      "shopid": "ome-ec2834-paypay"
+    },
+    {
+      "name": "山下水産",
+      "address": "新町",
+      "storeid": "ome-748191",
+      "shopid": "ome-748191-paypay"
+    },
+    {
+      "name": "スーパーオザム オザムバリュー新町店",
+      "address": "新町",
+      "storeid": "ome-c9a8b6",
+      "shopid": "ome-c9a8b6-paypay"
+    },
+    {
+      "name": "スーパーオザム オザム末広店",
+      "address": "新町",
+      "storeid": "ome-78204b",
+      "shopid": "ome-78204b-paypay"
+    },
+    {
+      "name": "東京燻製青梅研究所",
+      "address": "新町",
+      "storeid": "ome-0b3798",
+      "shopid": "ome-0b3798-paypay"
+    },
+    {
+      "name": "菓子工房パルティール",
+      "address": "新町",
+      "storeid": "ome-c9ea75",
+      "shopid": "ome-c9ea75-paypay"
+    },
+    {
+      "name": "柳丸 新町店",
+      "address": "新町",
+      "storeid": "ome-fdf6ea",
+      "shopid": "ome-fdf6ea-paypay"
+    },
+    {
+      "name": "白爺",
+      "address": "新町",
+      "storeid": "ome-95aace",
+      "shopid": "ome-95aace-paypay"
+    },
+    {
+      "name": "フレッシュタウンふかぼり たばこ酒店",
+      "address": "新町",
+      "storeid": "ome-aa7640",
+      "shopid": "ome-aa7640-paypay"
+    },
+    {
+      "name": "スーパーオザム オザム新町店",
+      "address": "新町",
+      "storeid": "ome-2654a5",
+      "shopid": "ome-2654a5-paypay"
+    },
+    {
+      "name": "夢遊膳 とんき",
+      "address": "新町",
+      "storeid": "ome-b0de95",
+      "shopid": "ome-b0de95-paypay"
+    },
+    {
+      "name": "お多福 カインズ青梅インター店",
+      "address": "新町",
+      "storeid": "ome-9ec0f6",
+      "shopid": "ome-9ec0f6-paypay"
+    },
+    {
+      "name": "みつ芋 はるか カインズ青梅インター店",
+      "address": "新町",
+      "storeid": "ome-3b20a8",
+      "shopid": "ome-3b20a8-paypay"
+    },
+    {
+      "name": "福よし カインズ青梅インター店",
+      "address": "新町",
+      "storeid": "ome-68b894",
+      "shopid": "ome-68b894-paypay"
+    },
+    {
+      "name": "スーパーオザム オザム青梅新町店",
+      "address": "新町",
+      "storeid": "ome-551ad0",
+      "shopid": "ome-551ad0-paypay"
+    },
+    {
+      "name": "きりんのたまご",
+      "address": "新町",
+      "storeid": "ome-c2468e",
+      "shopid": "ome-c2468e-paypay"
+    },
+    {
+      "name": "Half Light",
+      "address": "吹上",
+      "storeid": "ome-b1f2ab",
+      "shopid": "ome-b1f2ab-paypay"
+    },
+    {
+      "name": "Workscreator",
+      "address": "成木",
+      "storeid": "ome-fb4ee8",
+      "shopid": "ome-fb4ee8-paypay"
+    },
+    {
+      "name": "柳丸 西分店 工場直売所",
+      "address": "西分町",
+      "storeid": "ome-871588",
+      "shopid": "ome-871588-paypay"
+    },
+    {
+      "name": "wafflemania",
+      "address": "千ケ瀬町",
+      "storeid": "ome-4fbfb3",
+      "shopid": "ome-4fbfb3-paypay"
+    },
+    {
+      "name": "あら井",
+      "address": "千ケ瀬町",
+      "storeid": "ome-070472",
+      "shopid": "ome-070472-paypay"
+    },
+    {
+      "name": "大門米店",
+      "address": "大門",
+      "storeid": "ome-c69262",
+      "shopid": "ome-c69262-paypay"
+    },
+    {
+      "name": "小山製菓",
+      "address": "大門",
+      "storeid": "ome-e650b5",
+      "shopid": "ome-e650b5-paypay"
+    },
+    {
+      "name": "横手商店",
+      "address": "沢井",
+      "storeid": "ome-45fbd8",
+      "shopid": "ome-45fbd8-paypay"
+    },
+    {
+      "name": "福島屋酒店",
+      "address": "沢井",
+      "storeid": "ome-b494fb",
+      "shopid": "ome-b494fb-paypay"
+    },
+    {
+      "name": "永澤商店",
+      "address": "長淵",
+      "storeid": "ome-b9a753",
+      "shopid": "ome-b9a753-paypay"
+    },
+    {
+      "name": "木さき",
+      "address": "長淵",
+      "storeid": "ome-493684",
+      "shopid": "ome-493684-paypay"
+    },
+    {
+      "name": "kacora",
+      "address": "東青梅",
+      "storeid": "ome-965a9a",
+      "shopid": "ome-965a9a-paypay"
+    },
+    {
+      "name": "柳丸 東青梅センタービル店",
+      "address": "東青梅",
+      "storeid": "ome-9dcb9e",
+      "shopid": "ome-9dcb9e-paypay"
+    },
+    {
+      "name": "火打庵",
+      "address": "東青梅",
+      "storeid": "ome-599a9a",
+      "shopid": "ome-599a9a-paypay"
+    },
+    {
+      "name": "自立支援塾",
+      "address": "東青梅",
+      "storeid": "ome-0fb3e6",
+      "shopid": "ome-0fb3e6-paypay"
+    },
+    {
+      "name": "金子商店",
+      "address": "東青梅",
+      "storeid": "ome-801264",
+      "shopid": "ome-801264-paypay"
+    },
+    {
+      "name": "東京キッチンガーデンマーケット",
+      "address": "藤橋",
+      "storeid": "ome-9a1443",
+      "shopid": "ome-9a1443-paypay"
+    },
+    {
+      "name": "向山食品 のしこん本舗 本社工場",
+      "address": "藤橋",
+      "storeid": "ome-def2d5",
+      "shopid": "ome-def2d5-paypay"
+    },
+    {
+      "name": "B-YARD meating",
+      "address": "二俣尾",
+      "storeid": "ome-8ea8b5",
+      "shopid": "ome-8ea8b5-paypay"
+    },
+    {
+      "name": "山ノ神酒店",
+      "address": "二俣尾",
+      "storeid": "ome-938587",
+      "shopid": "ome-938587-paypay"
+    },
+    {
+      "name": "蓬莱屋支店",
+      "address": "日向和田",
+      "storeid": "ome-f2c7d3",
+      "shopid": "ome-f2c7d3-paypay"
+    },
+    {
+      "name": "は万の製菓",
+      "address": "日向和田",
+      "storeid": "ome-1d68bd",
+      "shopid": "ome-1d68bd-paypay"
+    },
+    {
+      "name": "soboku",
+      "address": "梅郷",
+      "storeid": "ome-01ef84",
+      "shopid": "ome-01ef84-paypay"
+    },
+    {
+      "name": "耕合同会社 NIWA TOKYO OME",
+      "address": "梅郷",
+      "storeid": "ome-de72bb",
+      "shopid": "ome-de72bb-paypay"
+    },
+    {
+      "name": "伊藤薗",
+      "address": "梅郷",
+      "storeid": "ome-0b1564",
+      "shopid": "ome-0b1564-paypay"
+    },
+    {
+      "name": "獅子口屋 梅郷支店",
+      "address": "梅郷",
+      "storeid": "ome-fd8c87",
+      "shopid": "ome-fd8c87-paypay"
+    },
+    {
+      "name": "Most most",
+      "address": "畑中",
+      "storeid": "ome-9b2af2",
+      "shopid": "ome-9b2af2-paypay"
+    },
+    {
+      "name": "繁昌農園",
+      "address": "富岡",
+      "storeid": "ome-29973d",
+      "shopid": "ome-29973d-paypay"
+    },
+    {
+      "name": "八百一 本店",
+      "address": "本町",
+      "storeid": "ome-232435",
+      "shopid": "ome-232435-paypay"
+    },
+    {
+      "name": "フルーツヒロセ",
+      "address": "本町",
+      "storeid": "ome-d948e0",
+      "shopid": "ome-d948e0-paypay"
+    },
+    {
+      "name": "しあわせの葉っぱベーカリー",
+      "address": "本町",
+      "storeid": "ome-eb969d",
+      "shopid": "ome-eb969d-paypay"
+    },
+    {
+      "name": "フルーツ・野菜専門 やおうめ",
+      "address": "本町",
+      "storeid": "ome-bcec04",
+      "shopid": "ome-bcec04-paypay"
+    },
+    {
+      "name": "武藤治作酒店 SINBOW",
+      "address": "木野下",
+      "storeid": "ome-f2b998",
+      "shopid": "ome-f2b998-paypay"
+    },
+    {
+      "name": "柳丸 野上本店",
+      "address": "野上町",
+      "storeid": "ome-bd2725",
+      "shopid": "ome-bd2725-paypay"
+    },
+    {
+      "name": "スーパーオザム オザムバリュー野上店",
+      "address": "野上町",
+      "storeid": "ome-dfc66e",
+      "shopid": "ome-dfc66e-paypay"
+    },
+    {
+      "name": "Iwakura Experience Market",
+      "address": "野上町",
+      "storeid": "ome-8db249",
+      "shopid": "ome-8db249-paypay"
+    },
+    {
+      "name": "由香里絵",
+      "address": "野上町",
+      "storeid": "ome-861519",
+      "shopid": "ome-861519-paypay"
+    },
+    {
+      "name": "たまご倶楽部",
+      "address": "野上町",
+      "storeid": "ome-bdb160",
+      "shopid": "ome-bdb160-paypay"
+    },
+    {
+      "name": "スーパーオザム オザム友田店",
+      "address": "友田町",
+      "storeid": "ome-e0d133",
+      "shopid": "ome-e0d133-paypay"
+    },
+    {
+      "name": "火打屋本店 多摩高等学校",
+      "address": "裏宿町",
+      "storeid": "ome-579980",
+      "shopid": "ome-579980-paypay"
+    }
+  ],
+  "衣料品販売": [
+    {
+      "name": "24nijyuyon",
+      "address": "河辺町",
+      "storeid": "ome-c44411",
+      "shopid": "ome-c44411-paypay"
+    },
+    {
+      "name": "まさるや手芸店",
+      "address": "河辺町",
+      "storeid": "ome-2b7a0f",
+      "shopid": "ome-2b7a0f-paypay"
+    },
+    {
+      "name": "ごえママCRAFT おうめ創業支援センターBigin !",
+      "address": "河辺町",
+      "storeid": "ome-c42ec5",
+      "shopid": "ome-c42ec5-paypay"
+    },
+    {
+      "name": "福福屋",
+      "address": "河辺町",
+      "storeid": "ome-227a31",
+      "shopid": "ome-227a31-paypay"
+    },
+    {
+      "name": "ファッション美麗 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-a46747",
+      "shopid": "ome-a46747-paypay"
+    },
+    {
+      "name": "エムグレイス",
+      "address": "河辺町",
+      "storeid": "ome-6bc29d",
+      "shopid": "ome-6bc29d-paypay"
+    },
+    {
+      "name": "セイントニコラス",
+      "address": "河辺町",
+      "storeid": "ome-ed26f0",
+      "shopid": "ome-ed26f0-paypay"
+    },
+    {
+      "name": "one thousand",
+      "address": "河辺町",
+      "storeid": "ome-a3c1e7",
+      "shopid": "ome-a3c1e7-paypay"
+    },
+    {
+      "name": "select shop R's",
+      "address": "御岳本町",
+      "storeid": "ome-d7f0c6",
+      "shopid": "ome-d7f0c6-paypay"
+    },
+    {
+      "name": "maunga 御岳本店",
+      "address": "御岳本町",
+      "storeid": "ome-96702c",
+      "shopid": "ome-96702c-paypay"
+    },
+    {
+      "name": "tokyoDOGGIES GARDEN",
+      "address": "今井",
+      "storeid": "ome-c06605",
+      "shopid": "ome-c06605-paypay"
+    },
+    {
+      "name": "immutable",
+      "address": "今寺",
+      "storeid": "ome-1cdd1c",
+      "shopid": "ome-1cdd1c-paypay"
+    },
+    {
+      "name": "ユーキビス 関東ゴルフ倶楽部",
+      "address": "根ケ布",
+      "storeid": "ome-edd7e6",
+      "shopid": "ome-edd7e6-paypay"
+    },
+    {
+      "name": "喫茶 ゴーヤ しばふサークル",
+      "address": "根ケ布",
+      "storeid": "ome-4fe351",
+      "shopid": "ome-4fe351-paypay"
+    },
+    {
+      "name": "きものリサイクル青梅",
+      "address": "根ケ布",
+      "storeid": "ome-e3b634",
+      "shopid": "ome-e3b634-paypay"
+    },
+    {
+      "name": "NAKAMURA JAPAN",
+      "address": "師岡町",
+      "storeid": "ome-eeede6",
+      "shopid": "ome-eeede6-paypay"
+    },
+    {
+      "name": "COMODO",
+      "address": "師岡町",
+      "storeid": "ome-e088db",
+      "shopid": "ome-e088db-paypay"
+    },
+    {
+      "name": "メガネポート 河辺店",
+      "address": "師岡町",
+      "storeid": "ome-94ccc2",
+      "shopid": "ome-94ccc2-paypay"
+    },
+    {
+      "name": "ザッカマート",
+      "address": "住江町",
+      "storeid": "ome-9e3ea6",
+      "shopid": "ome-9e3ea6-paypay"
+    },
+    {
+      "name": "並木時計メガネ店",
+      "address": "勝沼",
+      "storeid": "ome-ba2af7",
+      "shopid": "ome-ba2af7-paypay"
+    },
+    {
+      "name": "AnyBirth",
+      "address": "勝沼",
+      "storeid": "ome-f139fd",
+      "shopid": "ome-f139fd-paypay"
+    },
+    {
+      "name": "テーラー内山",
+      "address": "勝沼",
+      "storeid": "ome-55915c",
+      "shopid": "ome-55915c-paypay"
+    },
+    {
+      "name": "萬遊楽座 巡業篇",
+      "address": "勝沼",
+      "storeid": "ome-4a21dd",
+      "shopid": "ome-4a21dd-paypay"
+    },
+    {
+      "name": "Ribbon レザークラフト教室",
+      "address": "上町",
+      "storeid": "ome-206e7c",
+      "shopid": "ome-206e7c-paypay"
+    },
+    {
+      "name": "S-ZONE",
+      "address": "新町",
+      "storeid": "ome-7b57e9",
+      "shopid": "ome-7b57e9-paypay"
+    },
+    {
+      "name": "chas",
+      "address": "新町",
+      "storeid": "ome-07c1c6",
+      "shopid": "ome-07c1c6-paypay"
+    },
+    {
+      "name": "作業服流通センター 青梅店",
+      "address": "新町",
+      "storeid": "ome-b377d5",
+      "shopid": "ome-b377d5-paypay"
+    },
+    {
+      "name": "ファミリーメガネ",
+      "address": "新町",
+      "storeid": "ome-27811c",
+      "shopid": "ome-27811c-paypay"
+    },
+    {
+      "name": "すてんどぐらす西蔵",
+      "address": "森下町",
+      "storeid": "ome-4596b6",
+      "shopid": "ome-4596b6-paypay"
+    },
+    {
+      "name": "がまぐち屋 もとり工房",
+      "address": "千ケ瀬町",
+      "storeid": "ome-0314a4",
+      "shopid": "ome-0314a4-paypay"
+    },
+    {
+      "name": "パッケージプラザ 青梅店",
+      "address": "大門",
+      "storeid": "ome-cd901b",
+      "shopid": "ome-cd901b-paypay"
+    },
+    {
+      "name": "いとはりや&ます屋 青梅店",
+      "address": "仲町",
+      "storeid": "ome-2db5dc",
+      "shopid": "ome-2db5dc-paypay"
+    },
+    {
+      "name": "藍染工房壺草苑",
+      "address": "長淵",
+      "storeid": "ome-3502e1",
+      "shopid": "ome-3502e1-paypay"
+    },
+    {
+      "name": "リュックのDaisuki",
+      "address": "東青梅",
+      "storeid": "ome-c05470",
+      "shopid": "ome-c05470-paypay"
+    },
+    {
+      "name": "ミセスファッション ナミキ",
+      "address": "東青梅",
+      "storeid": "ome-32444d",
+      "shopid": "ome-32444d-paypay"
+    },
+    {
+      "name": "BOX BOX Accessories",
+      "address": "東青梅",
+      "storeid": "ome-d05ba3",
+      "shopid": "ome-d05ba3-paypay"
+    },
+    {
+      "name": "Lion...",
+      "address": "藤橋",
+      "storeid": "ome-0f1203",
+      "shopid": "ome-0f1203-paypay"
+    },
+    {
+      "name": "polite",
+      "address": "藤橋",
+      "storeid": "ome-97dc4a",
+      "shopid": "ome-97dc4a-paypay"
+    },
+    {
+      "name": "中古アウトドア用品店 maunga 石神前店",
+      "address": "二俣尾",
+      "storeid": "ome-dea0a9",
+      "shopid": "ome-dea0a9-paypay"
+    },
+    {
+      "name": "染工房たかとり",
+      "address": "日向和田",
+      "storeid": "ome-9930fe",
+      "shopid": "ome-9930fe-paypay"
+    },
+    {
+      "name": "AMS Handmade（実店舗なし）",
+      "address": "梅郷",
+      "storeid": "ome-e01a90",
+      "shopid": "ome-e01a90-paypay"
+    },
+    {
+      "name": "meitotoki",
+      "address": "畑中",
+      "storeid": "ome-466a80",
+      "shopid": "ome-466a80-paypay"
+    },
+    {
+      "name": "グラスワークスタジオMinamo",
+      "address": "本町",
+      "storeid": "ome-8951b1",
+      "shopid": "ome-8951b1-paypay"
+    },
+    {
+      "name": "ベルミラン 青梅店",
+      "address": "本町",
+      "storeid": "ome-449556",
+      "shopid": "ome-449556-paypay"
+    },
+    {
+      "name": "ジャンナマート 青梅店",
+      "address": "本町",
+      "storeid": "ome-70846f",
+      "shopid": "ome-70846f-paypay"
+    },
+    {
+      "name": "Marylou",
+      "address": "本町",
+      "storeid": "ome-cfa0ed",
+      "shopid": "ome-cfa0ed-paypay"
+    },
+    {
+      "name": "Ribbon",
+      "address": "野上町",
+      "storeid": "ome-25048f",
+      "shopid": "ome-25048f-paypay"
+    },
+    {
+      "name": "elegansK2",
+      "address": "野上町",
+      "storeid": "ome-e2f9c1",
+      "shopid": "ome-e2f9c1-paypay"
+    },
+    {
+      "name": "ニッセイプリント",
+      "address": "友田町",
+      "storeid": "ome-dbb470",
+      "shopid": "ome-dbb470-paypay"
+    },
+    {
+      "name": "Jesus Loves you",
+      "address": "柚木町",
+      "storeid": "ome-7cff69",
+      "shopid": "ome-7cff69-paypay"
+    },
+    {
+      "name": "ONOONODINER",
+      "address": "新町",
+      "storeid": "ome-ff8113",
+      "shopid": "ome-ff8113-paypay"
+    }
+  ],
+  "小売": [
+    {
+      "name": "まちの駅 青梅",
+      "address": "本町",
+      "storeid": "ome-a2a0c0",
+      "shopid": "ome-a2a0c0-paypay"
+    },
+    {
+      "name": "こころのひろば ここひろ青梅",
+      "address": "河辺町",
+      "storeid": "ome-245984",
+      "shopid": "ome-245984-paypay"
+    },
+    {
+      "name": "猫モノ屋さん ねこまみれ",
+      "address": "河辺町",
+      "storeid": "ome-d8f172",
+      "shopid": "ome-d8f172-paypay"
+    },
+    {
+      "name": "アウトドアショップK 東京青梅店",
+      "address": "河辺町",
+      "storeid": "ome-72abb1",
+      "shopid": "ome-72abb1-paypay"
+    },
+    {
+      "name": "カービューティープロZEEK",
+      "address": "河辺町",
+      "storeid": "ome-0f8c65",
+      "shopid": "ome-0f8c65-paypay"
+    },
+    {
+      "name": "あぁす薬局",
+      "address": "河辺町",
+      "storeid": "ome-108b76",
+      "shopid": "ome-108b76-paypay"
+    },
+    {
+      "name": "Pro Shop Kawai",
+      "address": "河辺町",
+      "storeid": "ome-dd5223",
+      "shopid": "ome-dd5223-paypay"
+    },
+    {
+      "name": "ペットサロンキキ",
+      "address": "河辺町",
+      "storeid": "ome-86c869",
+      "shopid": "ome-86c869-paypay"
+    },
+    {
+      "name": "Petit Petit",
+      "address": "河辺町",
+      "storeid": "ome-bb0093",
+      "shopid": "ome-bb0093-paypay"
+    },
+    {
+      "name": "花大フラワー西友河辺店",
+      "address": "河辺町",
+      "storeid": "ome-9f401d",
+      "shopid": "ome-9f401d-paypay"
+    },
+    {
+      "name": "コーヒーとおやつcapital",
+      "address": "河辺町",
+      "storeid": "ome-e6d3b7",
+      "shopid": "ome-e6d3b7-paypay"
+    },
+    {
+      "name": "KIMIZU MOTORS",
+      "address": "駒木町",
+      "storeid": "ome-0adaec",
+      "shopid": "ome-0adaec-paypay"
+    },
+    {
+      "name": "清水モータース",
+      "address": "御岳",
+      "storeid": "ome-abdf85",
+      "shopid": "ome-abdf85-paypay"
+    },
+    {
+      "name": "Hazel anne Btdafa",
+      "address": "御岳本町",
+      "storeid": "ome-db9785",
+      "shopid": "ome-db9785-paypay"
+    },
+    {
+      "name": "ボーダーライン",
+      "address": "今井",
+      "storeid": "ome-9fad1b",
+      "shopid": "ome-9fad1b-paypay"
+    },
+    {
+      "name": "ニッタタイヤ 青梅支店",
+      "address": "今井",
+      "storeid": "ome-9288da",
+      "shopid": "ome-9288da-paypay"
+    },
+    {
+      "name": "Happy Fine Animals JAPAN",
+      "address": "今井",
+      "storeid": "ome-d9ba4d",
+      "shopid": "ome-d9ba4d-paypay"
+    },
+    {
+      "name": "尾林ファクトリー",
+      "address": "今井",
+      "storeid": "ome-8d5dc6",
+      "shopid": "ome-8d5dc6-paypay"
+    },
+    {
+      "name": "並木自動車",
+      "address": "今井",
+      "storeid": "ome-6614c2",
+      "shopid": "ome-6614c2-paypay"
+    },
+    {
+      "name": "新生自動車",
+      "address": "今井",
+      "storeid": "ome-d87aaa",
+      "shopid": "ome-d87aaa-paypay"
+    },
+    {
+      "name": "鬼塚硝子",
+      "address": "今井",
+      "storeid": "ome-a88024",
+      "shopid": "ome-a88024-paypay"
+    },
+    {
+      "name": "青梅フレンドシップゴルフ店",
+      "address": "今井",
+      "storeid": "ome-b457a6",
+      "shopid": "ome-b457a6-paypay"
+    },
+    {
+      "name": "カーサービス アンドウ",
+      "address": "今井",
+      "storeid": "ome-5d4ff7",
+      "shopid": "ome-5d4ff7-paypay"
+    },
+    {
+      "name": "アイズフラワー",
+      "address": "今井",
+      "storeid": "ome-eea4ba",
+      "shopid": "ome-eea4ba-paypay"
+    },
+    {
+      "name": "K-MASTER",
+      "address": "根ケ布",
+      "storeid": "ome-e0f068",
+      "shopid": "ome-e0f068-paypay"
+    },
+    {
+      "name": "シニアドッグケア&サポートかんげん楽",
+      "address": "師岡町",
+      "storeid": "ome-91abcc",
+      "shopid": "ome-91abcc-paypay"
+    },
+    {
+      "name": "岩浪自動車",
+      "address": "師岡町",
+      "storeid": "ome-2a84a9",
+      "shopid": "ome-2a84a9-paypay"
+    },
+    {
+      "name": "YC河辺",
+      "address": "師岡町",
+      "storeid": "ome-8ddbb1",
+      "shopid": "ome-8ddbb1-paypay"
+    },
+    {
+      "name": "にしやま動物病院",
+      "address": "師岡町",
+      "storeid": "ome-694073",
+      "shopid": "ome-694073-paypay"
+    },
+    {
+      "name": "KAU vintage clothes",
+      "address": "勝沼",
+      "storeid": "ome-76c676",
+      "shopid": "ome-76c676-paypay"
+    },
+    {
+      "name": "アイデアルのいとう",
+      "address": "勝沼",
+      "storeid": "ome-f8ee20",
+      "shopid": "ome-f8ee20-paypay"
+    },
+    {
+      "name": "三昭堂薬店",
+      "address": "勝沼",
+      "storeid": "ome-5e04b5",
+      "shopid": "ome-5e04b5-paypay"
+    },
+    {
+      "name": "アール 青梅営業所",
+      "address": "勝沼",
+      "storeid": "ome-dafee6",
+      "shopid": "ome-dafee6-paypay"
+    },
+    {
+      "name": "久保 ラジオ商会",
+      "address": "勝沼",
+      "storeid": "ome-4c340b",
+      "shopid": "ome-4c340b-paypay"
+    },
+    {
+      "name": "竹田印店",
+      "address": "勝沼",
+      "storeid": "ome-2a4402",
+      "shopid": "ome-2a4402-paypay"
+    },
+    {
+      "name": "サンタの家わあす",
+      "address": "小曾木",
+      "storeid": "ome-e38dd1",
+      "shopid": "ome-e38dd1-paypay"
+    },
+    {
+      "name": "BALLOONS",
+      "address": "小曾木",
+      "storeid": "ome-1357b2",
+      "shopid": "ome-1357b2-paypay"
+    },
+    {
+      "name": "わぁーみー動物病院",
+      "address": "上町",
+      "storeid": "ome-fd79df",
+      "shopid": "ome-fd79df-paypay"
+    },
+    {
+      "name": "フラワーエフ",
+      "address": "上町",
+      "storeid": "ome-a5ae73",
+      "shopid": "ome-a5ae73-paypay"
+    },
+    {
+      "name": "AGエキスパート 青梅店",
+      "address": "新町",
+      "storeid": "ome-580622",
+      "shopid": "ome-580622-paypay"
+    },
+    {
+      "name": "ジョイ ペットマート",
+      "address": "新町",
+      "storeid": "ome-84882f",
+      "shopid": "ome-84882f-paypay"
+    },
+    {
+      "name": "ワン・ステップ",
+      "address": "新町",
+      "storeid": "ome-8ca6ad",
+      "shopid": "ome-8ca6ad-paypay"
+    },
+    {
+      "name": "釜屋 新町営業所",
+      "address": "新町",
+      "storeid": "ome-6e2bb9",
+      "shopid": "ome-6e2bb9-paypay"
+    },
+    {
+      "name": "アラマキジャパン 本店",
+      "address": "新町",
+      "storeid": "ome-a53867",
+      "shopid": "ome-a53867-paypay"
+    },
+    {
+      "name": "オッペン化粧品 Peaceポイント",
+      "address": "新町",
+      "storeid": "ome-322093",
+      "shopid": "ome-322093-paypay"
+    },
+    {
+      "name": "マユミホビー",
+      "address": "新町",
+      "storeid": "ome-b0ec45",
+      "shopid": "ome-b0ec45-paypay"
+    },
+    {
+      "name": "GOLF FIT",
+      "address": "新町",
+      "storeid": "ome-1d6f16",
+      "shopid": "ome-1d6f16-paypay"
+    },
+    {
+      "name": "光雲堂 青梅店",
+      "address": "新町",
+      "storeid": "ome-e085ee",
+      "shopid": "ome-e085ee-paypay"
+    },
+    {
+      "name": "PAOカフェ 青梅店",
+      "address": "新町",
+      "storeid": "ome-95573f",
+      "shopid": "ome-95573f-paypay"
+    },
+    {
+      "name": "ゲームショップPAO AZBOX",
+      "address": "新町",
+      "storeid": "ome-cb0071",
+      "shopid": "ome-cb0071-paypay"
+    },
+    {
+      "name": "花ひと心",
+      "address": "新町",
+      "storeid": "ome-34ddd0",
+      "shopid": "ome-34ddd0-paypay"
+    },
+    {
+      "name": "hideawayno.100",
+      "address": "新町",
+      "storeid": "ome-efed01",
+      "shopid": "ome-efed01-paypay"
+    },
+    {
+      "name": "エース電気",
+      "address": "新町",
+      "storeid": "ome-9135d0",
+      "shopid": "ome-9135d0-paypay"
+    },
+    {
+      "name": "ダイキオート",
+      "address": "新町",
+      "storeid": "ome-77fcfa",
+      "shopid": "ome-77fcfa-paypay"
+    },
+    {
+      "name": "e-工房 青梅インター店",
+      "address": "新町",
+      "storeid": "ome-698a62",
+      "shopid": "ome-698a62-paypay"
+    },
+    {
+      "name": "コメスタ 青梅店",
+      "address": "新町",
+      "storeid": "ome-288355",
+      "shopid": "ome-288355-paypay"
+    },
+    {
+      "name": "西多摩オート",
+      "address": "新町",
+      "storeid": "ome-fb841a",
+      "shopid": "ome-fb841a-paypay"
+    },
+    {
+      "name": "lalafarmtableマルシェ",
+      "address": "新町",
+      "storeid": "ome-8fb5ba",
+      "shopid": "ome-8fb5ba-paypay"
+    },
+    {
+      "name": "アイランドソフトウェアリミテッド",
+      "address": "新町",
+      "storeid": "ome-c3edae",
+      "shopid": "ome-c3edae-paypay"
+    },
+    {
+      "name": "ミロンエクスプレス",
+      "address": "新町",
+      "storeid": "ome-322154",
+      "shopid": "ome-322154-paypay"
+    },
+    {
+      "name": "本田書店 青梅店",
+      "address": "新町",
+      "storeid": "ome-63bbb4",
+      "shopid": "ome-63bbb4-paypay"
+    },
+    {
+      "name": "ラップアンドカーステーション",
+      "address": "新町",
+      "storeid": "ome-7adaf9",
+      "shopid": "ome-7adaf9-paypay"
+    },
+    {
+      "name": "車検館 青梅店",
+      "address": "新町",
+      "storeid": "ome-1bf623",
+      "shopid": "ome-1bf623-paypay"
+    },
+    {
+      "name": "アクア&ペット かねだい青梅店",
+      "address": "新町",
+      "storeid": "ome-3daf8f",
+      "shopid": "ome-3daf8f-paypay"
+    },
+    {
+      "name": "ヨコタサービス",
+      "address": "新町",
+      "storeid": "ome-6839d3",
+      "shopid": "ome-6839d3-paypay"
+    },
+    {
+      "name": "アクト",
+      "address": "吹上",
+      "storeid": "ome-a9877b",
+      "shopid": "ome-a9877b-paypay"
+    },
+    {
+      "name": "久保田自動車",
+      "address": "成木",
+      "storeid": "ome-f95b5c",
+      "shopid": "ome-f95b5c-paypay"
+    },
+    {
+      "name": "紫雲院 売店",
+      "address": "成木",
+      "storeid": "ome-eea814",
+      "shopid": "ome-eea814-paypay"
+    },
+    {
+      "name": "mo-guz(モーグズ)",
+      "address": "成木",
+      "storeid": "ome-a51736",
+      "shopid": "ome-a51736-paypay"
+    },
+    {
+      "name": "GARAGE610",
+      "address": "成木",
+      "storeid": "ome-8cfac7",
+      "shopid": "ome-8cfac7-paypay"
+    },
+    {
+      "name": "染織/河野香奈恵",
+      "address": "西分町",
+      "storeid": "ome-e7bdf7",
+      "shopid": "ome-e7bdf7-paypay"
+    },
+    {
+      "name": "三好屋",
+      "address": "西分町",
+      "storeid": "ome-270381",
+      "shopid": "ome-270381-paypay"
+    },
+    {
+      "name": "緑樹園",
+      "address": "西分町",
+      "storeid": "ome-db3df6",
+      "shopid": "ome-db3df6-paypay"
+    },
+    {
+      "name": "ぱちくり堂",
+      "address": "千ケ瀬町",
+      "storeid": "ome-f51691",
+      "shopid": "ome-f51691-paypay"
+    },
+    {
+      "name": "花市場 evergreen",
+      "address": "千ケ瀬町",
+      "storeid": "ome-79678f",
+      "shopid": "ome-79678f-paypay"
+    },
+    {
+      "name": "animal place mana",
+      "address": "千ケ瀬町",
+      "storeid": "ome-6e6b74",
+      "shopid": "ome-6e6b74-paypay"
+    },
+    {
+      "name": "橋本畳店",
+      "address": "千ケ瀬町",
+      "storeid": "ome-949a06",
+      "shopid": "ome-949a06-paypay"
+    },
+    {
+      "name": "RJpet",
+      "address": "千ケ瀬町",
+      "storeid": "ome-d42165",
+      "shopid": "ome-d42165-paypay"
+    },
+    {
+      "name": "サイクルスポーツのざき",
+      "address": "大門",
+      "storeid": "ome-9e6b54",
+      "shopid": "ome-9e6b54-paypay"
+    },
+    {
+      "name": "硝子工房YUKI",
+      "address": "大門",
+      "storeid": "ome-85b388",
+      "shopid": "ome-85b388-paypay"
+    },
+    {
+      "name": "ディープラザ",
+      "address": "大門",
+      "storeid": "ome-11341c",
+      "shopid": "ome-11341c-paypay"
+    },
+    {
+      "name": "y-Factory 本店",
+      "address": "谷野",
+      "storeid": "ome-72c88a",
+      "shopid": "ome-72c88a-paypay"
+    },
+    {
+      "name": "メガネのシミズ/清水時計店",
+      "address": "仲町",
+      "storeid": "ome-d3f80d",
+      "shopid": "ome-d3f80d-paypay"
+    },
+    {
+      "name": "みどりや文具",
+      "address": "仲町",
+      "storeid": "ome-841016",
+      "shopid": "ome-841016-paypay"
+    },
+    {
+      "name": "駒屋書店",
+      "address": "仲町",
+      "storeid": "ome-893c65",
+      "shopid": "ome-893c65-paypay"
+    },
+    {
+      "name": "イシダオートサイクル",
+      "address": "長淵",
+      "storeid": "ome-6d6126",
+      "shopid": "ome-6d6126-paypay"
+    },
+    {
+      "name": "ケルブ・オート",
+      "address": "長淵",
+      "storeid": "ome-253cbc",
+      "shopid": "ome-253cbc-paypay"
+    },
+    {
+      "name": "rendez-vous de brocante",
+      "address": "長淵",
+      "storeid": "ome-641f97",
+      "shopid": "ome-641f97-paypay"
+    },
+    {
+      "name": "Ome Koala 東青梅店",
+      "address": "東青梅",
+      "storeid": "ome-67053b",
+      "shopid": "ome-67053b-paypay"
+    },
+    {
+      "name": "佐藤スポーツ",
+      "address": "東青梅",
+      "storeid": "ome-b05a3d",
+      "shopid": "ome-b05a3d-paypay"
+    },
+    {
+      "name": "吉川石材店",
+      "address": "東青梅",
+      "storeid": "ome-7e9a27",
+      "shopid": "ome-7e9a27-paypay"
+    },
+    {
+      "name": "井川眼鏡店",
+      "address": "東青梅",
+      "storeid": "ome-02c5e2",
+      "shopid": "ome-02c5e2-paypay"
+    },
+    {
+      "name": "オクズミ",
+      "address": "東青梅",
+      "storeid": "ome-1585cd",
+      "shopid": "ome-1585cd-paypay"
+    },
+    {
+      "name": "グランドスラムヤマカワ",
+      "address": "東青梅",
+      "storeid": "ome-242e73",
+      "shopid": "ome-242e73-paypay"
+    },
+    {
+      "name": "奥住自動車",
+      "address": "東青梅",
+      "storeid": "ome-bb21e2",
+      "shopid": "ome-bb21e2-paypay"
+    },
+    {
+      "name": "SKガレージ",
+      "address": "東青梅",
+      "storeid": "ome-6c6bf2",
+      "shopid": "ome-6c6bf2-paypay"
+    },
+    {
+      "name": "四谷モータース",
+      "address": "東青梅",
+      "storeid": "ome-1e369a",
+      "shopid": "ome-1e369a-paypay"
+    },
+    {
+      "name": "森のいいこと",
+      "address": "東青梅",
+      "storeid": "ome-575e81",
+      "shopid": "ome-575e81-paypay"
+    },
+    {
+      "name": "総合武道具店 中村屋",
+      "address": "東青梅",
+      "storeid": "ome-5de414",
+      "shopid": "ome-5de414-paypay"
+    },
+    {
+      "name": "日本の心青梅店",
+      "address": "東青梅",
+      "storeid": "ome-3ad094",
+      "shopid": "ome-3ad094-paypay"
+    },
+    {
+      "name": "清水燃料 営業本部",
+      "address": "東青梅",
+      "storeid": "ome-64b6c7",
+      "shopid": "ome-64b6c7-paypay"
+    },
+    {
+      "name": "青梅ホンダ販売",
+      "address": "東青梅",
+      "storeid": "ome-e0f56b",
+      "shopid": "ome-e0f56b-paypay"
+    },
+    {
+      "name": "Liruma(リルマ)",
+      "address": "東青梅",
+      "storeid": "ome-4c6ff4",
+      "shopid": "ome-4c6ff4-paypay"
+    },
+    {
+      "name": "美肌工房sunny",
+      "address": "東青梅",
+      "storeid": "ome-96960b",
+      "shopid": "ome-96960b-paypay"
+    },
+    {
+      "name": "成電社",
+      "address": "東青梅",
+      "storeid": "ome-1eabc5",
+      "shopid": "ome-1eabc5-paypay"
+    },
+    {
+      "name": "青柳自販",
+      "address": "東青梅",
+      "storeid": "ome-333f8e",
+      "shopid": "ome-333f8e-paypay"
+    },
+    {
+      "name": "師岡生花園芸",
+      "address": "東青梅",
+      "storeid": "ome-90c270",
+      "shopid": "ome-90c270-paypay"
+    },
+    {
+      "name": "パングル・バーン",
+      "address": "藤橋",
+      "storeid": "ome-3e0f02",
+      "shopid": "ome-3e0f02-paypay"
+    },
+    {
+      "name": "やまや 青梅今寺店",
+      "address": "藤橋",
+      "storeid": "ome-f28607",
+      "shopid": "ome-f28607-paypay"
+    },
+    {
+      "name": "こころのひろば 地域ケアサポート館 福わ家",
+      "address": "藤橋",
+      "storeid": "ome-268023",
+      "shopid": "ome-268023-paypay"
+    },
+    {
+      "name": "ORANGE UP",
+      "address": "藤橋",
+      "storeid": "ome-8668c7",
+      "shopid": "ome-8668c7-paypay"
+    },
+    {
+      "name": "オートメカショップハタノ",
+      "address": "藤橋",
+      "storeid": "ome-816fe6",
+      "shopid": "ome-816fe6-paypay"
+    },
+    {
+      "name": "カーサービス CLOVER",
+      "address": "藤橋",
+      "storeid": "ome-9d5266",
+      "shopid": "ome-9d5266-paypay"
+    },
+    {
+      "name": "FLOWERDOG",
+      "address": "二俣尾",
+      "storeid": "ome-a77c1f",
+      "shopid": "ome-a77c1f-paypay"
+    },
+    {
+      "name": "るりいろ工房",
+      "address": "二俣尾",
+      "storeid": "ome-f47261",
+      "shopid": "ome-f47261-paypay"
+    },
+    {
+      "name": "STORMNINE OUTDOOR FUTAMATAO BASE(薪やスエーデントーチの無人販",
+      "address": "二俣尾",
+      "storeid": "ome-0a4212",
+      "shopid": "ome-0a4212-paypay"
+    },
+    {
+      "name": "斉藤自動車工業",
+      "address": "日向和田",
+      "storeid": "ome-5b9505",
+      "shopid": "ome-5b9505-paypay"
+    },
+    {
+      "name": "自転車人の店クロチェリスタ",
+      "address": "日向和田",
+      "storeid": "ome-261af9",
+      "shopid": "ome-261af9-paypay"
+    },
+    {
+      "name": "四谷自動車",
+      "address": "日向和田",
+      "storeid": "ome-1740c3",
+      "shopid": "ome-1740c3-paypay"
+    },
+    {
+      "name": "盆栽・山野草 うめがた園 青梅店",
+      "address": "梅郷",
+      "storeid": "ome-7129f0",
+      "shopid": "ome-7129f0-paypay"
+    },
+    {
+      "name": "古美術錫",
+      "address": "梅郷",
+      "storeid": "ome-ba4c2d",
+      "shopid": "ome-ba4c2d-paypay"
+    },
+    {
+      "name": "ビックス 青梅店",
+      "address": "梅郷",
+      "storeid": "ome-37aa4c",
+      "shopid": "ome-37aa4c-paypay"
+    },
+    {
+      "name": "オートサービス オオギミ",
+      "address": "梅郷",
+      "storeid": "ome-c71720",
+      "shopid": "ome-c71720-paypay"
+    },
+    {
+      "name": "フラワーピッコロ",
+      "address": "梅郷",
+      "storeid": "ome-ed8f0e",
+      "shopid": "ome-ed8f0e-paypay"
+    },
+    {
+      "name": "デザインハウスピリカ",
+      "address": "梅郷",
+      "storeid": "ome-a9464a",
+      "shopid": "ome-a9464a-paypay"
+    },
+    {
+      "name": "マルケイ",
+      "address": "畑中",
+      "storeid": "ome-172210",
+      "shopid": "ome-172210-paypay"
+    },
+    {
+      "name": "TOKUワークショップ",
+      "address": "富岡",
+      "storeid": "ome-0753c4",
+      "shopid": "ome-0753c4-paypay"
+    },
+    {
+      "name": "MANSIKKA antiques",
+      "address": "富岡",
+      "storeid": "ome-64936d",
+      "shopid": "ome-64936d-paypay"
+    },
+    {
+      "name": "コスメティックハウス うめや 青梅店",
+      "address": "本町",
+      "storeid": "ome-134ccf",
+      "shopid": "ome-134ccf-paypay"
+    },
+    {
+      "name": "釜屋 本店",
+      "address": "本町",
+      "storeid": "ome-b2a6dd",
+      "shopid": "ome-b2a6dd-paypay"
+    },
+    {
+      "name": "岩浪石材店",
+      "address": "本町",
+      "storeid": "ome-d498f8",
+      "shopid": "ome-d498f8-paypay"
+    },
+    {
+      "name": "ふとん三田屋",
+      "address": "本町",
+      "storeid": "ome-9f4efd",
+      "shopid": "ome-9f4efd-paypay"
+    },
+    {
+      "name": "BUTLER",
+      "address": "本町",
+      "storeid": "ome-4a1922",
+      "shopid": "ome-4a1922-paypay"
+    },
+    {
+      "name": "青柳自転車店",
+      "address": "本町",
+      "storeid": "ome-b94578",
+      "shopid": "ome-b94578-paypay"
+    },
+    {
+      "name": "chamo'shouse",
+      "address": "末広町",
+      "storeid": "ome-1ddae6",
+      "shopid": "ome-1ddae6-paypay"
+    },
+    {
+      "name": "Hara Cars",
+      "address": "末広町",
+      "storeid": "ome-9ff413",
+      "shopid": "ome-9ff413-paypay"
+    },
+    {
+      "name": "Rise",
+      "address": "末広町",
+      "storeid": "ome-d89365",
+      "shopid": "ome-d89365-paypay"
+    },
+    {
+      "name": "Autrefois par liaison21",
+      "address": "野上町",
+      "storeid": "ome-c17be4",
+      "shopid": "ome-c17be4-paypay"
+    },
+    {
+      "name": "二見屋金物店",
+      "address": "野上町",
+      "storeid": "ome-a7b118",
+      "shopid": "ome-a7b118-paypay"
+    },
+    {
+      "name": "でんきのアミ青梅本店",
+      "address": "野上町",
+      "storeid": "ome-874ada",
+      "shopid": "ome-874ada-paypay"
+    },
+    {
+      "name": "Cycle Gallery RIN",
+      "address": "友田町",
+      "storeid": "ome-cf2226",
+      "shopid": "ome-cf2226-paypay"
+    },
+    {
+      "name": "モバワン青梅友田店",
+      "address": "友田町",
+      "storeid": "ome-b467c7",
+      "shopid": "ome-b467c7-paypay"
+    },
+    {
+      "name": "ふとんの山口屋",
+      "address": "裏宿町",
+      "storeid": "ome-6f04ce",
+      "shopid": "ome-6f04ce-paypay"
+    },
+    {
+      "name": "大坂や商店",
+      "address": "裏宿町",
+      "storeid": "ome-65c818",
+      "shopid": "ome-65c818-paypay"
+    },
+    {
+      "name": "milost",
+      "address": "千ケ瀬町",
+      "storeid": "ome-f587df",
+      "shopid": "ome-f587df-paypay"
+    }
+  ],
+  "理美容": [
+    {
+      "name": "Yucca",
+      "address": "塩船",
+      "storeid": "ome-eae459",
+      "shopid": "ome-eae459-paypay"
+    },
+    {
+      "name": "Flat Relaxation Salon",
+      "address": "河辺町",
+      "storeid": "ome-93cbbc",
+      "shopid": "ome-93cbbc-paypay"
+    },
+    {
+      "name": "Mydear Salon",
+      "address": "河辺町",
+      "storeid": "ome-e1311f",
+      "shopid": "ome-e1311f-paypay"
+    },
+    {
+      "name": "美容室 MAHALO",
+      "address": "河辺町",
+      "storeid": "ome-b47fcd",
+      "shopid": "ome-b47fcd-paypay"
+    },
+    {
+      "name": "『ambitious』河辺店",
+      "address": "河辺町",
+      "storeid": "ome-6ad3b0",
+      "shopid": "ome-6ad3b0-paypay"
+    },
+    {
+      "name": "サロン・ド・アップル",
+      "address": "河辺町",
+      "storeid": "ome-287e70",
+      "shopid": "ome-287e70-paypay"
+    },
+    {
+      "name": "eyelash Halelu",
+      "address": "河辺町",
+      "storeid": "ome-773f98",
+      "shopid": "ome-773f98-paypay"
+    },
+    {
+      "name": "STUDIO髪工房",
+      "address": "河辺町",
+      "storeid": "ome-b3926c",
+      "shopid": "ome-b3926c-paypay"
+    },
+    {
+      "name": "ARI (アリ)",
+      "address": "河辺町",
+      "storeid": "ome-fc7f02",
+      "shopid": "ome-fc7f02-paypay"
+    },
+    {
+      "name": "プラセール",
+      "address": "河辺町",
+      "storeid": "ome-0df798",
+      "shopid": "ome-0df798-paypay"
+    },
+    {
+      "name": "nail eclat 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-e3040d",
+      "shopid": "ome-e3040d-paypay"
+    },
+    {
+      "name": "あなたの♪美容室リミテッド 本店",
+      "address": "河辺町",
+      "storeid": "ome-97584b",
+      "shopid": "ome-97584b-paypay"
+    },
+    {
+      "name": "PICA1",
+      "address": "河辺町",
+      "storeid": "ome-9792e3",
+      "shopid": "ome-9792e3-paypay"
+    },
+    {
+      "name": "まつ毛エクステサロン Wink Art",
+      "address": "河辺町",
+      "storeid": "ome-1dcbb8",
+      "shopid": "ome-1dcbb8-paypay"
+    },
+    {
+      "name": "ヘアーサロンTAKARA",
+      "address": "河辺町",
+      "storeid": "ome-1a2e4a",
+      "shopid": "ome-1a2e4a-paypay"
+    },
+    {
+      "name": "Bloom",
+      "address": "河辺町",
+      "storeid": "ome-4a453a",
+      "shopid": "ome-4a453a-paypay"
+    },
+    {
+      "name": "カットハウス アルファ",
+      "address": "河辺町",
+      "storeid": "ome-89acdf",
+      "shopid": "ome-89acdf-paypay"
+    },
+    {
+      "name": "nico pal hair salon 河辺駅前店",
+      "address": "河辺町",
+      "storeid": "ome-4fd55d",
+      "shopid": "ome-4fd55d-paypay"
+    },
+    {
+      "name": "CHOUCHOU",
+      "address": "河辺町",
+      "storeid": "ome-02cac3",
+      "shopid": "ome-02cac3-paypay"
+    },
+    {
+      "name": "ステージ",
+      "address": "河辺町",
+      "storeid": "ome-c86784",
+      "shopid": "ome-c86784-paypay"
+    },
+    {
+      "name": "カットショップ ハート",
+      "address": "河辺町",
+      "storeid": "ome-f7abba",
+      "shopid": "ome-f7abba-paypay"
+    },
+    {
+      "name": "カットルーム床屋さん",
+      "address": "河辺町",
+      "storeid": "ome-92c2e1",
+      "shopid": "ome-92c2e1-paypay"
+    },
+    {
+      "name": "プルミィエル・カーズ",
+      "address": "河辺町",
+      "storeid": "ome-f715b8",
+      "shopid": "ome-f715b8-paypay"
+    },
+    {
+      "name": "DISM",
+      "address": "河辺町",
+      "storeid": "ome-1e4d16",
+      "shopid": "ome-1e4d16-paypay"
+    },
+    {
+      "name": "BeautySalonLaran",
+      "address": "河辺町",
+      "storeid": "ome-8db4d7",
+      "shopid": "ome-8db4d7-paypay"
+    },
+    {
+      "name": "okimuy",
+      "address": "河辺町",
+      "storeid": "ome-c0b73e",
+      "shopid": "ome-c0b73e-paypay"
+    },
+    {
+      "name": "people group Airily 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-f23642",
+      "shopid": "ome-f23642-paypay"
+    },
+    {
+      "name": "AFFECt.",
+      "address": "河辺町",
+      "storeid": "ome-b4f056",
+      "shopid": "ome-b4f056-paypay"
+    },
+    {
+      "name": "SCOOL",
+      "address": "河辺町",
+      "storeid": "ome-6c4879",
+      "shopid": "ome-6c4879-paypay"
+    },
+    {
+      "name": "AN'TIA 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-0969a2",
+      "shopid": "ome-0969a2-paypay"
+    },
+    {
+      "name": "Reir サロン",
+      "address": "河辺町",
+      "storeid": "ome-a5dff2",
+      "shopid": "ome-a5dff2-paypay"
+    },
+    {
+      "name": "Amelie&Rju",
+      "address": "河辺町",
+      "storeid": "ome-be6cdf",
+      "shopid": "ome-be6cdf-paypay"
+    },
+    {
+      "name": "オレンジ・サラ 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-425905",
+      "shopid": "ome-425905-paypay"
+    },
+    {
+      "name": "hair salon adoa",
+      "address": "河辺町",
+      "storeid": "ome-56461d",
+      "shopid": "ome-56461d-paypay"
+    },
+    {
+      "name": "Forest",
+      "address": "河辺町",
+      "storeid": "ome-bd2dfc",
+      "shopid": "ome-bd2dfc-paypay"
+    },
+    {
+      "name": "ヘアーサロンFUJI",
+      "address": "河辺町",
+      "storeid": "ome-343a3a",
+      "shopid": "ome-343a3a-paypay"
+    },
+    {
+      "name": "カットスペース ヒラハラ 本店",
+      "address": "御岳本町",
+      "storeid": "ome-5b92b2",
+      "shopid": "ome-5b92b2-paypay"
+    },
+    {
+      "name": "ヘアーサロン タナカ",
+      "address": "御岳本町",
+      "storeid": "ome-675358",
+      "shopid": "ome-675358-paypay"
+    },
+    {
+      "name": "45° nail",
+      "address": "今井",
+      "storeid": "ome-1d3731",
+      "shopid": "ome-1d3731-paypay"
+    },
+    {
+      "name": "美容室ラプティ",
+      "address": "今寺",
+      "storeid": "ome-f43542",
+      "shopid": "ome-f43542-paypay"
+    },
+    {
+      "name": "Rina Nail",
+      "address": "今寺",
+      "storeid": "ome-f685f1",
+      "shopid": "ome-f685f1-paypay"
+    },
+    {
+      "name": "ease",
+      "address": "今寺",
+      "storeid": "ome-a0d178",
+      "shopid": "ome-a0d178-paypay"
+    },
+    {
+      "name": "Professional Hairstyle Makeup Ayako 絢子の髪上げ",
+      "address": "師岡町",
+      "storeid": "ome-516462",
+      "shopid": "ome-516462-paypay"
+    },
+    {
+      "name": "ヘアーサロン美ZEN",
+      "address": "師岡町",
+      "storeid": "ome-034394",
+      "shopid": "ome-034394-paypay"
+    },
+    {
+      "name": "R‘s リラクゼーションサロンRs",
+      "address": "師岡町",
+      "storeid": "ome-065308",
+      "shopid": "ome-065308-paypay"
+    },
+    {
+      "name": "HAIRSTAGE銀の翼",
+      "address": "師岡町",
+      "storeid": "ome-011be7",
+      "shopid": "ome-011be7-paypay"
+    },
+    {
+      "name": "CHAINON",
+      "address": "師岡町",
+      "storeid": "ome-53e9a0",
+      "shopid": "ome-53e9a0-paypay"
+    },
+    {
+      "name": "J-sure 美容室 ジェイ シュール",
+      "address": "師岡町",
+      "storeid": "ome-1b982b",
+      "shopid": "ome-1b982b-paypay"
+    },
+    {
+      "name": "SHELL NAIL 河辺店",
+      "address": "師岡町",
+      "storeid": "ome-4d302b",
+      "shopid": "ome-4d302b-paypay"
+    },
+    {
+      "name": "アトリエ yu",
+      "address": "勝沼",
+      "storeid": "ome-6570e3",
+      "shopid": "ome-6570e3-paypay"
+    },
+    {
+      "name": "HairSalon ミント",
+      "address": "勝沼",
+      "storeid": "ome-334167",
+      "shopid": "ome-334167-paypay"
+    },
+    {
+      "name": "yummy nail",
+      "address": "勝沼",
+      "storeid": "ome-6df687",
+      "shopid": "ome-6df687-paypay"
+    },
+    {
+      "name": "JAPONESQUE",
+      "address": "小曾木",
+      "storeid": "ome-e4a055",
+      "shopid": "ome-e4a055-paypay"
+    },
+    {
+      "name": "MONSTER NAiLS",
+      "address": "新町",
+      "storeid": "ome-2f4739",
+      "shopid": "ome-2f4739-paypay"
+    },
+    {
+      "name": "Soleil",
+      "address": "新町",
+      "storeid": "ome-32125f",
+      "shopid": "ome-32125f-paypay"
+    },
+    {
+      "name": "SHELL NAIL",
+      "address": "新町",
+      "storeid": "ome-8aeef3",
+      "shopid": "ome-8aeef3-paypay"
+    },
+    {
+      "name": "ichica",
+      "address": "新町",
+      "storeid": "ome-7bb2d7",
+      "shopid": "ome-7bb2d7-paypay"
+    },
+    {
+      "name": "NEU",
+      "address": "新町",
+      "storeid": "ome-2d72b6",
+      "shopid": "ome-2d72b6-paypay"
+    },
+    {
+      "name": "美容室 わたぼうし",
+      "address": "新町",
+      "storeid": "ome-9f223e",
+      "shopid": "ome-9f223e-paypay"
+    },
+    {
+      "name": "nail salon Sugar",
+      "address": "新町",
+      "storeid": "ome-3879a8",
+      "shopid": "ome-3879a8-paypay"
+    },
+    {
+      "name": "Cutplace GLOW",
+      "address": "新町",
+      "storeid": "ome-9acdc0",
+      "shopid": "ome-9acdc0-paypay"
+    },
+    {
+      "name": "SkitCut Beau店",
+      "address": "新町",
+      "storeid": "ome-d7ae77",
+      "shopid": "ome-d7ae77-paypay"
+    },
+    {
+      "name": "SkitCut ONE",
+      "address": "新町",
+      "storeid": "ome-7f0a20",
+      "shopid": "ome-7f0a20-paypay"
+    },
+    {
+      "name": "アーユルヴェーダ&ヒーリングhanauta",
+      "address": "新町",
+      "storeid": "ome-49a5e9",
+      "shopid": "ome-49a5e9-paypay"
+    },
+    {
+      "name": "Spi Spi SPA",
+      "address": "新町",
+      "storeid": "ome-9cd6cf",
+      "shopid": "ome-9cd6cf-paypay"
+    },
+    {
+      "name": "BeautyspaceHANA",
+      "address": "新町",
+      "storeid": "ome-552777",
+      "shopid": "ome-552777-paypay"
+    },
+    {
+      "name": "エステティックサロンHika-house",
+      "address": "新町",
+      "storeid": "ome-620608",
+      "shopid": "ome-620608-paypay"
+    },
+    {
+      "name": "バーバーショップルート",
+      "address": "新町",
+      "storeid": "ome-58e825",
+      "shopid": "ome-58e825-paypay"
+    },
+    {
+      "name": "Anela",
+      "address": "吹上",
+      "storeid": "ome-245519",
+      "shopid": "ome-245519-paypay"
+    },
+    {
+      "name": "HITOTOKI",
+      "address": "成木",
+      "storeid": "ome-51e830",
+      "shopid": "ome-51e830-paypay"
+    },
+    {
+      "name": "美容室ひまわり",
+      "address": "西分町",
+      "storeid": "ome-99925b",
+      "shopid": "ome-99925b-paypay"
+    },
+    {
+      "name": "Aroma Beauty Club",
+      "address": "千ケ瀬町",
+      "storeid": "ome-9edc4e",
+      "shopid": "ome-9edc4e-paypay"
+    },
+    {
+      "name": "アイラッシュサロン キュート",
+      "address": "千ケ瀬町",
+      "storeid": "ome-7f5cab",
+      "shopid": "ome-7f5cab-paypay"
+    },
+    {
+      "name": "BEAUTY RESORT oluolu",
+      "address": "千ケ瀬町",
+      "storeid": "ome-f017d0",
+      "shopid": "ome-f017d0-paypay"
+    },
+    {
+      "name": "カットハウス ニューヨーク 青梅店",
+      "address": "千ケ瀬町",
+      "storeid": "ome-ba539e",
+      "shopid": "ome-ba539e-paypay"
+    },
+    {
+      "name": "ルシードスタイルセピア 青梅店",
+      "address": "千ケ瀬町",
+      "storeid": "ome-8bf6ed",
+      "shopid": "ome-8bf6ed-paypay"
+    },
+    {
+      "name": "サロン レガリア",
+      "address": "大門",
+      "storeid": "ome-ddbbf0",
+      "shopid": "ome-ddbbf0-paypay"
+    },
+    {
+      "name": "カットサロン きむら",
+      "address": "大門",
+      "storeid": "ome-983200",
+      "shopid": "ome-983200-paypay"
+    },
+    {
+      "name": "Private nail&hair salon CHANCE",
+      "address": "大門",
+      "storeid": "ome-28d3aa",
+      "shopid": "ome-28d3aa-paypay"
+    },
+    {
+      "name": "プライベートサロン Hoaka",
+      "address": "天ケ瀬町",
+      "storeid": "ome-dbf921",
+      "shopid": "ome-dbf921-paypay"
+    },
+    {
+      "name": "bijoux",
+      "address": "天ケ瀬町",
+      "storeid": "ome-95ab4b",
+      "shopid": "ome-95ab4b-paypay"
+    },
+    {
+      "name": "Shuon 東青梅店",
+      "address": "東青梅",
+      "storeid": "ome-b8353c",
+      "shopid": "ome-b8353c-paypay"
+    },
+    {
+      "name": "Oto",
+      "address": "東青梅",
+      "storeid": "ome-8f1550",
+      "shopid": "ome-8f1550-paypay"
+    },
+    {
+      "name": "REINE 東青梅",
+      "address": "東青梅",
+      "storeid": "ome-b7aece",
+      "shopid": "ome-b7aece-paypay"
+    },
+    {
+      "name": "vivacenail",
+      "address": "東青梅",
+      "storeid": "ome-819268",
+      "shopid": "ome-819268-paypay"
+    },
+    {
+      "name": "ランジュドフジ",
+      "address": "東青梅",
+      "storeid": "ome-6b3215",
+      "shopid": "ome-6b3215-paypay"
+    },
+    {
+      "name": "people group Airily 東青梅店",
+      "address": "東青梅",
+      "storeid": "ome-96ac11",
+      "shopid": "ome-96ac11-paypay"
+    },
+    {
+      "name": "美容室BiBi",
+      "address": "東青梅",
+      "storeid": "ome-44f7e8",
+      "shopid": "ome-44f7e8-paypay"
+    },
+    {
+      "name": "Nail Studio 茎(STEM)",
+      "address": "東青梅",
+      "storeid": "ome-ce8c61",
+      "shopid": "ome-ce8c61-paypay"
+    },
+    {
+      "name": "フローラル・アムール",
+      "address": "東青梅",
+      "storeid": "ome-675881",
+      "shopid": "ome-675881-paypay"
+    },
+    {
+      "name": "サロン花 SALON 花(青梅)",
+      "address": "東青梅",
+      "storeid": "ome-cf23de",
+      "shopid": "ome-cf23de-paypay"
+    },
+    {
+      "name": "ヘアーサロンリザーブ松竹",
+      "address": "東青梅",
+      "storeid": "ome-755de7",
+      "shopid": "ome-755de7-paypay"
+    },
+    {
+      "name": "HAIRSALOND",
+      "address": "東青梅",
+      "storeid": "ome-894b96",
+      "shopid": "ome-894b96-paypay"
+    },
+    {
+      "name": "カットハウス新條",
+      "address": "東青梅",
+      "storeid": "ome-0b6037",
+      "shopid": "ome-0b6037-paypay"
+    },
+    {
+      "name": "Relier",
+      "address": "東青梅",
+      "storeid": "ome-ee6758",
+      "shopid": "ome-ee6758-paypay"
+    },
+    {
+      "name": "ヘアーサロン キムラ",
+      "address": "東青梅",
+      "storeid": "ome-9e0ab6",
+      "shopid": "ome-9e0ab6-paypay"
+    },
+    {
+      "name": "ヘアーサロンクジライ 本店",
+      "address": "藤橋",
+      "storeid": "ome-8a86d1",
+      "shopid": "ome-8a86d1-paypay"
+    },
+    {
+      "name": "青梅市ネイルサロン シュシュ",
+      "address": "藤橋",
+      "storeid": "ome-b8826a",
+      "shopid": "ome-b8826a-paypay"
+    },
+    {
+      "name": "ヘアーサロン ウエノ",
+      "address": "藤橋",
+      "storeid": "ome-c75dc9",
+      "shopid": "ome-c75dc9-paypay"
+    },
+    {
+      "name": "nailsalon Favori",
+      "address": "藤橋",
+      "storeid": "ome-697d59",
+      "shopid": "ome-697d59-paypay"
+    },
+    {
+      "name": "美容室カンカン",
+      "address": "二俣尾",
+      "storeid": "ome-587db4",
+      "shopid": "ome-587db4-paypay"
+    },
+    {
+      "name": "BARBER 武",
+      "address": "日向和田",
+      "storeid": "ome-90c982",
+      "shopid": "ome-90c982-paypay"
+    },
+    {
+      "name": "Nail Salon 7×3ナナトリア",
+      "address": "梅郷",
+      "storeid": "ome-3f9095",
+      "shopid": "ome-3f9095-paypay"
+    },
+    {
+      "name": "TherapyRoom",
+      "address": "末広町",
+      "storeid": "ome-db09d4",
+      "shopid": "ome-db09d4-paypay"
+    },
+    {
+      "name": "ヘアーサロン・ピース 野上店",
+      "address": "野上町",
+      "storeid": "ome-04a0d8",
+      "shopid": "ome-04a0d8-paypay"
+    },
+    {
+      "name": "E-Lash",
+      "address": "野上町",
+      "storeid": "ome-61fd5a",
+      "shopid": "ome-61fd5a-paypay"
+    },
+    {
+      "name": "美容室 フェリーチェ",
+      "address": "野上町",
+      "storeid": "ome-c82b23",
+      "shopid": "ome-c82b23-paypay"
+    },
+    {
+      "name": "ヘアーサロンGRACE",
+      "address": "野上町",
+      "storeid": "ome-d13faf",
+      "shopid": "ome-d13faf-paypay"
+    },
+    {
+      "name": "Erschallen",
+      "address": "野上町",
+      "storeid": "ome-018fb5",
+      "shopid": "ome-018fb5-paypay"
+    },
+    {
+      "name": "vivihairsalon",
+      "address": "柚木町",
+      "storeid": "ome-a40c00",
+      "shopid": "ome-a40c00-paypay"
+    },
+    {
+      "name": "サチヘアースペース",
+      "address": "柚木町",
+      "storeid": "ome-40ee88",
+      "shopid": "ome-40ee88-paypay"
+    },
+    {
+      "name": "カットハウス ヒラノ",
+      "address": "柚木町",
+      "storeid": "ome-073471",
+      "shopid": "ome-073471-paypay"
+    },
+    {
+      "name": "ピュアマインド美肌館小作店",
+      "address": "新町",
+      "storeid": "ome-c8619d",
+      "shopid": "ome-c8619d-paypay"
+    },
+    {
+      "name": "整体セラピー ネージュ",
+      "address": "黒沢",
+      "storeid": "ome-ea777f",
+      "shopid": "ome-ea777f-paypay"
+    },
+    {
+      "name": "アートネイル artnail",
+      "address": "野上町",
+      "storeid": "ome-904f38",
+      "shopid": "ome-904f38-paypay"
+    }
+  ],
+  "サービス業": [
+    {
+      "name": "癒しの手 Senang",
+      "address": "河辺町",
+      "storeid": "ome-1bb29a",
+      "shopid": "ome-1bb29a-paypay"
+    },
+    {
+      "name": "パーソナルトレーニングジムさんはぴ青梅河辺店",
+      "address": "河辺町",
+      "storeid": "ome-d5ea93",
+      "shopid": "ome-d5ea93-paypay"
+    },
+    {
+      "name": "クリーニング美洗館 岩田",
+      "address": "河辺町",
+      "storeid": "ome-f0c417",
+      "shopid": "ome-f0c417-paypay"
+    },
+    {
+      "name": "ランニングドリームズ",
+      "address": "河辺町",
+      "storeid": "ome-2136d8",
+      "shopid": "ome-2136d8-paypay"
+    },
+    {
+      "name": "ほぐしやさん 青梅河辺店",
+      "address": "河辺町",
+      "storeid": "ome-93ea97",
+      "shopid": "ome-93ea97-paypay"
+    },
+    {
+      "name": "はり・灸・六曜館",
+      "address": "河辺町",
+      "storeid": "ome-1d97ad",
+      "shopid": "ome-1d97ad-paypay"
+    },
+    {
+      "name": "フットケアサロン Foot stamp",
+      "address": "河辺町",
+      "storeid": "ome-6a46b6",
+      "shopid": "ome-6a46b6-paypay"
+    },
+    {
+      "name": "Emiカイロプラクティック 河辺店",
+      "address": "河辺町",
+      "storeid": "ome-f953ae",
+      "shopid": "ome-f953ae-paypay"
+    },
+    {
+      "name": "おぬまカイロプラクティック 青梅河辺店",
+      "address": "河辺町",
+      "storeid": "ome-6bf3b7",
+      "shopid": "ome-6bf3b7-paypay"
+    },
+    {
+      "name": "ゆーあい施術院",
+      "address": "河辺町",
+      "storeid": "ome-a3065f",
+      "shopid": "ome-a3065f-paypay"
+    },
+    {
+      "name": "スーパークリーナー",
+      "address": "河辺町",
+      "storeid": "ome-176003",
+      "shopid": "ome-176003-paypay"
+    },
+    {
+      "name": "しゃぼん玉 クリーニングあらいぐま 青梅",
+      "address": "河辺町",
+      "storeid": "ome-071030",
+      "shopid": "ome-071030-paypay"
+    },
+    {
+      "name": "ヨシダ鍼灸院",
+      "address": "河辺町",
+      "storeid": "ome-047335",
+      "shopid": "ome-047335-paypay"
+    },
+    {
+      "name": "青梅やわらか整体",
+      "address": "河辺町",
+      "storeid": "ome-8815cb",
+      "shopid": "ome-8815cb-paypay"
+    },
+    {
+      "name": "太和堂鍼灸院",
+      "address": "河辺町",
+      "storeid": "ome-117f9c",
+      "shopid": "ome-117f9c-paypay"
+    },
+    {
+      "name": "マミークリーニング河辺イオン店",
+      "address": "河辺町",
+      "storeid": "ome-95d9e4",
+      "shopid": "ome-95d9e4-paypay"
+    },
+    {
+      "name": "河辺温泉 梅の湯",
+      "address": "河辺町",
+      "storeid": "ome-535916",
+      "shopid": "ome-535916-paypay"
+    },
+    {
+      "name": "快聲堂",
+      "address": "河辺町",
+      "storeid": "ome-b37f79",
+      "shopid": "ome-b37f79-paypay"
+    },
+    {
+      "name": "JIKON SAUNA",
+      "address": "駒木町",
+      "storeid": "ome-7ff990",
+      "shopid": "ome-7ff990-paypay"
+    },
+    {
+      "name": "FUJICLEAN",
+      "address": "駒木町",
+      "storeid": "ome-4b9c8b",
+      "shopid": "ome-4b9c8b-paypay"
+    },
+    {
+      "name": "あさぎやみたけ",
+      "address": "御岳",
+      "storeid": "ome-b6763e",
+      "shopid": "ome-b6763e-paypay"
+    },
+    {
+      "name": "静山荘 民宿本店",
+      "address": "御岳山",
+      "storeid": "ome-3e9029",
+      "shopid": "ome-3e9029-paypay"
+    },
+    {
+      "name": "うつぼや荘",
+      "address": "御岳山",
+      "storeid": "ome-ee0d4c",
+      "shopid": "ome-ee0d4c-paypay"
+    },
+    {
+      "name": "東馬場",
+      "address": "御岳山",
+      "storeid": "ome-e7bf25",
+      "shopid": "ome-e7bf25-paypay"
+    },
+    {
+      "name": "片柳荘",
+      "address": "御岳山",
+      "storeid": "ome-0136bf",
+      "shopid": "ome-0136bf-paypay"
+    },
+    {
+      "name": "秋山荘",
+      "address": "御岳山",
+      "storeid": "ome-ae7b36",
+      "shopid": "ome-ae7b36-paypay"
+    },
+    {
+      "name": "藤本荘",
+      "address": "御岳山",
+      "storeid": "ome-f67134",
+      "shopid": "ome-f67134-paypay"
+    },
+    {
+      "name": "憩山荘",
+      "address": "御岳山",
+      "storeid": "ome-803403",
+      "shopid": "ome-803403-paypay"
+    },
+    {
+      "name": "南山荘",
+      "address": "御岳山",
+      "storeid": "ome-73b496",
+      "shopid": "ome-73b496-paypay"
+    },
+    {
+      "name": "蔵屋",
+      "address": "御岳山",
+      "storeid": "ome-ce41fa",
+      "shopid": "ome-ce41fa-paypay"
+    },
+    {
+      "name": "町久保田",
+      "address": "御岳山",
+      "storeid": "ome-a2db8c",
+      "shopid": "ome-a2db8c-paypay"
+    },
+    {
+      "name": "駅前山小屋A-yard",
+      "address": "御岳本町",
+      "storeid": "ome-f87cf3",
+      "shopid": "ome-f87cf3-paypay"
+    },
+    {
+      "name": "DSPレンタルバイク",
+      "address": "今井",
+      "storeid": "ome-0a8fbd",
+      "shopid": "ome-0a8fbd-paypay"
+    },
+    {
+      "name": "Healing Time",
+      "address": "今井",
+      "storeid": "ome-13ea3b",
+      "shopid": "ome-13ea3b-paypay"
+    },
+    {
+      "name": "吉田カイロプラクティック 青梅店",
+      "address": "今井",
+      "storeid": "ome-581394",
+      "shopid": "ome-581394-paypay"
+    },
+    {
+      "name": "クリーニング アニカ",
+      "address": "今井",
+      "storeid": "ome-8e8fe3",
+      "shopid": "ome-8e8fe3-paypay"
+    },
+    {
+      "name": "クリーニングアニカ青梅今井店",
+      "address": "今井",
+      "storeid": "ome-1cb193",
+      "shopid": "ome-1cb193-paypay"
+    },
+    {
+      "name": "優作工房",
+      "address": "今寺",
+      "storeid": "ome-7ec29f",
+      "shopid": "ome-7ec29f-paypay"
+    },
+    {
+      "name": "ル・ペッシェ",
+      "address": "今寺",
+      "storeid": "ome-a8886e",
+      "shopid": "ome-a8886e-paypay"
+    },
+    {
+      "name": "Shiatsuみくも指圧",
+      "address": "今寺",
+      "storeid": "ome-1e9d2f",
+      "shopid": "ome-1e9d2f-paypay"
+    },
+    {
+      "name": "クリーニング アニカ 今寺店",
+      "address": "今寺",
+      "storeid": "ome-3b0dff",
+      "shopid": "ome-3b0dff-paypay"
+    },
+    {
+      "name": "ゆるふわ介護タクシー",
+      "address": "師岡町",
+      "storeid": "ome-00e878",
+      "shopid": "ome-00e878-paypay"
+    },
+    {
+      "name": "Leamoon",
+      "address": "師岡町",
+      "storeid": "ome-0067cd",
+      "shopid": "ome-0067cd-paypay"
+    },
+    {
+      "name": "キングドライ いなげや師岡店",
+      "address": "師岡町",
+      "storeid": "ome-8c0b73",
+      "shopid": "ome-8c0b73-paypay"
+    },
+    {
+      "name": "karadasalonanimo",
+      "address": "師岡町",
+      "storeid": "ome-83415f",
+      "shopid": "ome-83415f-paypay"
+    },
+    {
+      "name": "楽家 リラクゼーション",
+      "address": "師岡町",
+      "storeid": "ome-ae7030",
+      "shopid": "ome-ae7030-paypay"
+    },
+    {
+      "name": "白文舎クリーニング店",
+      "address": "住江町",
+      "storeid": "ome-4ec1df",
+      "shopid": "ome-4ec1df-paypay"
+    },
+    {
+      "name": "もとはし畳店",
+      "address": "住江町",
+      "storeid": "ome-03410c",
+      "shopid": "ome-03410c-paypay"
+    },
+    {
+      "name": "真紀整体院",
+      "address": "住江町",
+      "storeid": "ome-e43613",
+      "shopid": "ome-e43613-paypay"
+    },
+    {
+      "name": "長谷川オートサイクル 勝沼店",
+      "address": "勝沼",
+      "storeid": "ome-098726",
+      "shopid": "ome-098726-paypay"
+    },
+    {
+      "name": "東京ガレージハウス",
+      "address": "小曾木",
+      "storeid": "ome-578597",
+      "shopid": "ome-578597-paypay"
+    },
+    {
+      "name": "Ayurveda Spa Ojas青梅",
+      "address": "小曾木",
+      "storeid": "ome-613144",
+      "shopid": "ome-613144-paypay"
+    },
+    {
+      "name": "儘多屋",
+      "address": "小曾木",
+      "storeid": "ome-b5f669",
+      "shopid": "ome-b5f669-paypay"
+    },
+    {
+      "name": "島田動物病院",
+      "address": "小曾木",
+      "storeid": "ome-359abd",
+      "shopid": "ome-359abd-paypay"
+    },
+    {
+      "name": "元木屋クリーニング 青梅本店",
+      "address": "上町",
+      "storeid": "ome-8e9936",
+      "shopid": "ome-8e9936-paypay"
+    },
+    {
+      "name": "フォトスタジオ青梅",
+      "address": "上町",
+      "storeid": "ome-5c9808",
+      "shopid": "ome-5c9808-paypay"
+    },
+    {
+      "name": "ストレッチ専門店 ルンルンstretch",
+      "address": "新町",
+      "storeid": "ome-387c95",
+      "shopid": "ome-387c95-paypay"
+    },
+    {
+      "name": "キングドライ コープ新町店",
+      "address": "新町",
+      "storeid": "ome-fd70f3",
+      "shopid": "ome-fd70f3-paypay"
+    },
+    {
+      "name": "青梅なないろ整骨院",
+      "address": "新町",
+      "storeid": "ome-1194ca",
+      "shopid": "ome-1194ca-paypay"
+    },
+    {
+      "name": "Gentle整体院",
+      "address": "新町",
+      "storeid": "ome-1b74a6",
+      "shopid": "ome-1b74a6-paypay"
+    },
+    {
+      "name": "m nature",
+      "address": "新町",
+      "storeid": "ome-cbee86",
+      "shopid": "ome-cbee86-paypay"
+    },
+    {
+      "name": "青梅バランス整骨院",
+      "address": "新町",
+      "storeid": "ome-7cf080",
+      "shopid": "ome-7cf080-paypay"
+    },
+    {
+      "name": "新町オフセット印刷",
+      "address": "新町",
+      "storeid": "ome-727042",
+      "shopid": "ome-727042-paypay"
+    },
+    {
+      "name": "りょう施術院",
+      "address": "新町",
+      "storeid": "ome-d1e248",
+      "shopid": "ome-d1e248-paypay"
+    },
+    {
+      "name": "ドイツ式フットケア nanairo",
+      "address": "新町",
+      "storeid": "ome-b068e2",
+      "shopid": "ome-b068e2-paypay"
+    },
+    {
+      "name": "こりとる整体院",
+      "address": "新町",
+      "storeid": "ome-19529e",
+      "shopid": "ome-19529e-paypay"
+    },
+    {
+      "name": "mental assist communication",
+      "address": "吹上",
+      "storeid": "ome-821f73",
+      "shopid": "ome-821f73-paypay"
+    },
+    {
+      "name": "プラネアール 青梅スタジオ",
+      "address": "成木",
+      "storeid": "ome-a30ce6",
+      "shopid": "ome-a30ce6-paypay"
+    },
+    {
+      "name": "たいよう整骨院",
+      "address": "西分町",
+      "storeid": "ome-2771c9",
+      "shopid": "ome-2771c9-paypay"
+    },
+    {
+      "name": "やまだ整骨院",
+      "address": "千ケ瀬町",
+      "storeid": "ome-660890",
+      "shopid": "ome-660890-paypay"
+    },
+    {
+      "name": "クリーニング アニカ タマサービス千ヶ瀬店",
+      "address": "千ケ瀬町",
+      "storeid": "ome-facef8",
+      "shopid": "ome-facef8-paypay"
+    },
+    {
+      "name": "キングドライマルフジ千ヶ瀬店",
+      "address": "千ケ瀬町",
+      "storeid": "ome-0ca653",
+      "shopid": "ome-0ca653-paypay"
+    },
+    {
+      "name": "River Green",
+      "address": "大柳町",
+      "storeid": "ome-dbf364",
+      "shopid": "ome-dbf364-paypay"
+    },
+    {
+      "name": "おまかせアーレ青梅仲町店",
+      "address": "仲町",
+      "storeid": "ome-ec2681",
+      "shopid": "ome-ec2681-paypay"
+    },
+    {
+      "name": "古羊生活タクシー",
+      "address": "長淵",
+      "storeid": "ome-0bcf74",
+      "shopid": "ome-0bcf74-paypay"
+    },
+    {
+      "name": "長淵バランス整骨院",
+      "address": "長淵",
+      "storeid": "ome-3353d4",
+      "shopid": "ome-3353d4-paypay"
+    },
+    {
+      "name": "フーレセラピーAsian Moonなごみ",
+      "address": "長淵",
+      "storeid": "ome-1c7d68",
+      "shopid": "ome-1c7d68-paypay"
+    },
+    {
+      "name": "タマプリント",
+      "address": "長淵",
+      "storeid": "ome-3b1e67",
+      "shopid": "ome-3b1e67-paypay"
+    },
+    {
+      "name": "カイロプラクティック恵",
+      "address": "天ケ瀬町",
+      "storeid": "ome-db8908",
+      "shopid": "ome-db8908-paypay"
+    },
+    {
+      "name": "キングドライ 青梅本社店",
+      "address": "天ケ瀬町",
+      "storeid": "ome-1fbfbe",
+      "shopid": "ome-1fbfbe-paypay"
+    },
+    {
+      "name": "いい顔サロン",
+      "address": "東青梅",
+      "storeid": "ome-01d98f",
+      "shopid": "ome-01d98f-paypay"
+    },
+    {
+      "name": "ダーツショップ Evolve",
+      "address": "東青梅",
+      "storeid": "ome-3fc24d",
+      "shopid": "ome-3fc24d-paypay"
+    },
+    {
+      "name": "リラクゼーション 温足",
+      "address": "東青梅",
+      "storeid": "ome-d57339",
+      "shopid": "ome-d57339-paypay"
+    },
+    {
+      "name": "Body & aroma salon －IZUMI",
+      "address": "東青梅",
+      "storeid": "ome-2f5329",
+      "shopid": "ome-2f5329-paypay"
+    },
+    {
+      "name": "キングドライ 東青梅店",
+      "address": "東青梅",
+      "storeid": "ome-e17d61",
+      "shopid": "ome-e17d61-paypay"
+    },
+    {
+      "name": "トータルヒーリングサロンナチュラボーテ",
+      "address": "東青梅",
+      "storeid": "ome-6aeeba",
+      "shopid": "ome-6aeeba-paypay"
+    },
+    {
+      "name": "寿住設リフォーム",
+      "address": "東青梅",
+      "storeid": "ome-aef675",
+      "shopid": "ome-aef675-paypay"
+    },
+    {
+      "name": "六万通りはりきゅう接骨院",
+      "address": "東青梅",
+      "storeid": "ome-ba36ba",
+      "shopid": "ome-ba36ba-paypay"
+    },
+    {
+      "name": "コリトル 鍼灸・マッサージルーム コリトル",
+      "address": "東青梅",
+      "storeid": "ome-f9b01c",
+      "shopid": "ome-f9b01c-paypay"
+    },
+    {
+      "name": "ゆがみせんせい",
+      "address": "東青梅",
+      "storeid": "ome-7a6c4b",
+      "shopid": "ome-7a6c4b-paypay"
+    },
+    {
+      "name": "青梅河辺整骨院",
+      "address": "東青梅",
+      "storeid": "ome-8741bf",
+      "shopid": "ome-8741bf-paypay"
+    },
+    {
+      "name": "長谷川オートサイクル 東青梅店",
+      "address": "東青梅",
+      "storeid": "ome-2aee5f",
+      "shopid": "ome-2aee5f-paypay"
+    },
+    {
+      "name": "奥多摩バイブルシャレー 東青梅ハウス",
+      "address": "東青梅",
+      "storeid": "ome-50fddc",
+      "shopid": "ome-50fddc-paypay"
+    },
+    {
+      "name": "爽快くらしのサポート",
+      "address": "藤橋",
+      "storeid": "ome-9c49fd",
+      "shopid": "ome-9c49fd-paypay"
+    },
+    {
+      "name": "元木屋クリーニング 藤橋店",
+      "address": "藤橋",
+      "storeid": "ome-39d688",
+      "shopid": "ome-39d688-paypay"
+    },
+    {
+      "name": "澤田ランドリー",
+      "address": "二俣尾",
+      "storeid": "ome-d18c77",
+      "shopid": "ome-d18c77-paypay"
+    },
+    {
+      "name": "奥多摩 クルーソーラフティング",
+      "address": "梅郷",
+      "storeid": "ome-39a4b7",
+      "shopid": "ome-39a4b7-paypay"
+    },
+    {
+      "name": "アサノBodyworks",
+      "address": "梅郷",
+      "storeid": "ome-07edf3",
+      "shopid": "ome-07edf3-paypay"
+    },
+    {
+      "name": "足もみ処 笑風庵",
+      "address": "本町",
+      "storeid": "ome-f83485",
+      "shopid": "ome-f83485-paypay"
+    },
+    {
+      "name": "こばやし接骨院",
+      "address": "本町",
+      "storeid": "ome-6c64d2",
+      "shopid": "ome-6c64d2-paypay"
+    },
+    {
+      "name": "昭栄介護タクシー",
+      "address": "木野下",
+      "storeid": "ome-3ab402",
+      "shopid": "ome-3ab402-paypay"
+    },
+    {
+      "name": "介護タクシーDREAM",
+      "address": "野上町",
+      "storeid": "ome-43ca74",
+      "shopid": "ome-43ca74-paypay"
+    },
+    {
+      "name": "体のほぐし",
+      "address": "野上町",
+      "storeid": "ome-a68b9f",
+      "shopid": "ome-a68b9f-paypay"
+    },
+    {
+      "name": "クリーニング アニカ 野上店",
+      "address": "野上町",
+      "storeid": "ome-fa7cb6",
+      "shopid": "ome-fa7cb6-paypay"
+    },
+    {
+      "name": "タムラ介護タクシー",
+      "address": "野上町",
+      "storeid": "ome-be1c00",
+      "shopid": "ome-be1c00-paypay"
+    },
+    {
+      "name": "青梅リバーサイドパーク",
+      "address": "友田町",
+      "storeid": "ome-f8d9bb",
+      "shopid": "ome-f8d9bb-paypay"
+    },
+    {
+      "name": "山下長生館指圧療院",
+      "address": "柚木町",
+      "storeid": "ome-254724",
+      "shopid": "ome-254724-paypay"
+    },
+    {
+      "name": "ラフティングwinds 奥多摩ベース",
+      "address": "柚木町",
+      "storeid": "ome-a68970",
+      "shopid": "ome-a68970-paypay"
+    },
+    {
+      "name": "ラフティングwinds NewBase",
+      "address": "柚木町",
+      "storeid": "ome-c0ce06",
+      "shopid": "ome-c0ce06-paypay"
+    },
+    {
+      "name": "奥多摩バイブルシャレー",
+      "address": "柚木町",
+      "storeid": "ome-17e838",
+      "shopid": "ome-17e838-paypay"
+    },
+    {
+      "name": "ビッグウェーブ 青梅店",
+      "address": "和田町",
+      "storeid": "ome-daae0b",
+      "shopid": "ome-daae0b-paypay"
+    }
+  ],
+  "その他": [
+    {
+      "name": "想心セレモニー 青梅店",
+      "address": "河辺町",
+      "storeid": "ome-367ea7",
+      "shopid": "ome-367ea7-paypay"
+    },
+    {
+      "name": "Apple GYM 青梅河辺店",
+      "address": "河辺町",
+      "storeid": "ome-edfc91",
+      "shopid": "ome-edfc91-paypay"
+    },
+    {
+      "name": "全書会",
+      "address": "河辺町",
+      "storeid": "ome-912de8",
+      "shopid": "ome-912de8-paypay"
+    },
+    {
+      "name": "ペット葬祭ヘブンパーク",
+      "address": "駒木町",
+      "storeid": "ome-f71f33",
+      "shopid": "ome-f71f33-paypay"
+    },
+    {
+      "name": "Tokyo backcountry",
+      "address": "御岳",
+      "storeid": "ome-044c2e",
+      "shopid": "ome-044c2e-paypay"
+    },
+    {
+      "name": "リバーベース HALAU",
+      "address": "御岳本町",
+      "storeid": "ome-73baad",
+      "shopid": "ome-73baad-paypay"
+    },
+    {
+      "name": "リバーボードクラブ",
+      "address": "御岳本町",
+      "storeid": "ome-70db81",
+      "shopid": "ome-70db81-paypay"
+    },
+    {
+      "name": "みたけレースラフティングクラブ",
+      "address": "御岳本町",
+      "storeid": "ome-a8eac7",
+      "shopid": "ome-a8eac7-paypay"
+    },
+    {
+      "name": "Lu coeur",
+      "address": "今井",
+      "storeid": "ome-39f91a",
+      "shopid": "ome-39f91a-paypay"
+    },
+    {
+      "name": "安心葬祭",
+      "address": "師岡町",
+      "storeid": "ome-b226ea",
+      "shopid": "ome-b226ea-paypay"
+    },
+    {
+      "name": "昭和幻燈館",
+      "address": "住江町",
+      "storeid": "ome-7bf4c6",
+      "shopid": "ome-7bf4c6-paypay"
+    },
+    {
+      "name": "整体キリン堂",
+      "address": "勝沼",
+      "storeid": "ome-01253e",
+      "shopid": "ome-01253e-paypay"
+    },
+    {
+      "name": "Smilebird",
+      "address": "勝沼",
+      "storeid": "ome-9cba59",
+      "shopid": "ome-9cba59-paypay"
+    },
+    {
+      "name": "原島燃料店",
+      "address": "新町",
+      "storeid": "ome-de11a9",
+      "shopid": "ome-de11a9-paypay"
+    },
+    {
+      "name": "Rainbow Room",
+      "address": "新町",
+      "storeid": "ome-1a08f7",
+      "shopid": "ome-1a08f7-paypay"
+    },
+    {
+      "name": "クローバー",
+      "address": "新町",
+      "storeid": "ome-3e4c05",
+      "shopid": "ome-3e4c05-paypay"
+    },
+    {
+      "name": "ホシナ音楽教室",
+      "address": "新町",
+      "storeid": "ome-279c6c",
+      "shopid": "ome-279c6c-paypay"
+    },
+    {
+      "name": "ma imani 成木の杜",
+      "address": "成木",
+      "storeid": "ome-79197a",
+      "shopid": "ome-79197a-paypay"
+    },
+    {
+      "name": "きんちゃんぎんちゃんのシネマカフェ",
+      "address": "西分町",
+      "storeid": "ome-21798a",
+      "shopid": "ome-21798a-paypay"
+    },
+    {
+      "name": "齋藤ギター音楽教室",
+      "address": "千ケ瀬町",
+      "storeid": "ome-62015c",
+      "shopid": "ome-62015c-paypay"
+    },
+    {
+      "name": "ALLNATIONS",
+      "address": "千ケ瀬町",
+      "storeid": "ome-8da848",
+      "shopid": "ome-8da848-paypay"
+    },
+    {
+      "name": "レンタルレイアウトTb青梅千ケ瀬",
+      "address": "千ケ瀬町",
+      "storeid": "ome-545e35",
+      "shopid": "ome-545e35-paypay"
+    },
+    {
+      "name": "くるりHOUSE",
+      "address": "沢井",
+      "storeid": "ome-0359a3",
+      "shopid": "ome-0359a3-paypay"
+    },
+    {
+      "name": "Contente FUTSAL FOOTBALL",
+      "address": "長淵",
+      "storeid": "ome-821959",
+      "shopid": "ome-821959-paypay"
+    },
+    {
+      "name": "トレックリング",
+      "address": "長淵",
+      "storeid": "ome-a3a44b",
+      "shopid": "ome-a3a44b-paypay"
+    },
+    {
+      "name": "OMEGOCOTI",
+      "address": "東青梅",
+      "storeid": "ome-6311b8",
+      "shopid": "ome-6311b8-paypay"
+    },
+    {
+      "name": "Atlier Luna",
+      "address": "東青梅",
+      "storeid": "ome-fa93c4",
+      "shopid": "ome-fa93c4-paypay"
+    },
+    {
+      "name": "nocoto",
+      "address": "藤橋",
+      "storeid": "ome-ab122e",
+      "shopid": "ome-ab122e-paypay"
+    },
+    {
+      "name": "STORMNINE",
+      "address": "二俣尾",
+      "storeid": "ome-b621d4",
+      "shopid": "ome-b621d4-paypay"
+    },
+    {
+      "name": "ムラタ むらたるみ事務所",
+      "address": "二俣尾",
+      "storeid": "ome-22027f",
+      "shopid": "ome-22027f-paypay"
+    },
+    {
+      "name": "ELEANOR",
+      "address": "二俣尾",
+      "storeid": "ome-8aea19",
+      "shopid": "ome-8aea19-paypay"
+    },
+    {
+      "name": "ことりこの家",
+      "address": "日向和田",
+      "storeid": "ome-5671f3",
+      "shopid": "ome-5671f3-paypay"
+    },
+    {
+      "name": "ウィズネイチャー",
+      "address": "梅郷",
+      "storeid": "ome-8319de",
+      "shopid": "ome-8319de-paypay"
+    },
+    {
+      "name": "しっぽタウン",
+      "address": "野上町",
+      "storeid": "ome-773082",
+      "shopid": "ome-773082-paypay"
+    },
+    {
+      "name": "ビッグウェーブ 奥多摩営業所",
+      "address": "柚木町",
+      "storeid": "ome-6b7922",
+      "shopid": "ome-6b7922-paypay"
+    },
+    {
+      "name": "カヌースクールグラビティ",
+      "address": "柚木町",
+      "storeid": "ome-f5659c",
+      "shopid": "ome-f5659c-paypay"
+    },
+    {
+      "name": "リバーワン",
+      "address": "和田町",
+      "storeid": "ome-2bc2f8",
+      "shopid": "ome-2bc2f8-paypay"
+    }
+  ]
+}
