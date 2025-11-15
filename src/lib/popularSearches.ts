@@ -4,11 +4,11 @@ import { campaigns } from "./campaignMaster";
 
 // 人気検索ワード（日本語）
 const rawPopularSearches = [
+  "東京都青梅市",
   "埼玉県新座市",
-  "神奈川県茅ケ崎市",
-  "愛知県東海市",
-  "大阪府東大阪市",
+  "東京都小金井市",
   "栃木県栃木市",
+  "愛知県一宮市",
   "千葉県茂原市",
 ] as const;
 
