@@ -18,10 +18,9 @@ export default function PayPayAffiliate() {
 
       {/* Step 1 */}
       <section>
-        <p className="mb-1 font-semibold text-gray-900">
-          ① PayPayアプリ登録で300円分GET！
-        </p>
-        <p className="mb-2">
+        <p className="text-sm md:text-sm">
+          <strong>① このページ経由のPayPayアプリ登録で300円分GET！</strong></p>
+          <p className="text-sm md:text-sm">
           まだPayPayを登録していない方は、以下の専用リンク経由が最もお得です。
         </p>
 
@@ -48,21 +47,20 @@ export default function PayPayAffiliate() {
 
       {/* Step 2 */}
       <section>
-        <p className="mt-4 mb-1 font-semibold text-gray-900">
-          ② PayPayカード発行でポイント二重取り！
-        </p>
-        <p className="mb-2">
+        <p className="text-sm md:text-sm">
+          <strong>② PayPayカード発行でポイント二重取り！</strong></p>
+          <p className="text-sm md:text-sm">
           PayPayのチャージでポイントが貯まる
           <strong>「PayPayカード」</strong>を利用すると、
           <strong className="text-[#d70000]">還元率が大幅アップ</strong>
           します。
         </p>
 
-        <p className="text-[#d70000] mb-2 font-bold">
+        <p className="text-sm md:text-sm">
           公式サイトよりポイントサイト経由の方が高還元です！
         </p>
 
-        <div className="text-center">
+        <div className="text-center mt-2">
           <a
             href={HAPITAS_REFERRAL_URL}
             target="_blank"

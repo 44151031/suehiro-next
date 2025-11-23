@@ -2,14 +2,14 @@
 
 export default function RakutenPayAffiliate() {
   return (
-    <aside className="mt-8 mb-10 bg-white border border-yellow-300 rounded-md p-4 shadow-sm space-y-2 text-gray-800 leading-snug text-xs md:text-sm">
-      <h3 className="font-bold mb-2 text-[#a26300] text-sm md:text-base">
-        【ポイント】<span className="text-black">チャージ方法で還元率が変わります</span>
+    <aside className="mt-8 mb-10 bg-white border border-yellow-300 rounded-md p-4 shadow-sm space-y-2 text-gray-800 leading-snug text-sm md:text-sm">
+      <h3 className="font-bold text-lg font-bold text-yellow-700">
+        【ポイント】楽天カードからのチャージで還元率が変わります
       </h3>
 
-      <p>
+      <p className="text-sm md:text-sm">
         楽天ペイを使う際、銀行口座やセブン銀行ATMからチャージしていませんか？
-        実はそれ、すごく損をしています。
+        <strong>実はそれ、すごく損をしています。</strong>
       </p>
 
       <ul className="list-disc ml-5 font-bold space-y-0.5">
@@ -22,13 +22,13 @@ export default function RakutenPayAffiliate() {
         </li>
       </ul>
 
-      <p>
+       <p className="text-sm md:text-sm">
         <strong>楽天カードからチャージするだけで、ポイントの二重取りができて</strong>
         <strong className="text-[#d70000]">還元率が1.5倍</strong>
         になります。
       </p>
 
-      <p>
+      <p className="text-sm md:text-sm">
         楽天ペイを使うなら、必須の設定です。
         まだカードを持っていない方は、この機会に作って設定しておくことを強くおすすめします。
       </p>
