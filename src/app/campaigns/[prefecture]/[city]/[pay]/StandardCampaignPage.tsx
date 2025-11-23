@@ -1,5 +1,5 @@
 // /app/campaigns/[prefecture]/[city]/[pay]/StandardCampaignPage.tsx
-// ✅ 最終完全版（FAQ構造化データ含む統合構造化データ対応済み）
+// ✅ 最終完全版（楽天ペイ誘導ブロック追加）
 
 import { notFound } from "next/navigation";
 import { Metadata } from "next";
@@ -32,6 +32,9 @@ import VoucherCampaignCardList from "@/components/common/VoucherCampaignCardList
 
 // ✅ 追加: ランキング付きのクライアントコンポーネント
 import ClientShopLists from "@/components/sections/shop/ClientShopLists";
+
+// ✅ 追加: 楽天ペイ専用アフィリエイトブロック
+import RakutenPayAffiliate from "@/components/affiliate/RakutenPayAffiliate";
 
 type Props = {
   params: { prefecture: string; city: string; pay: string };
@@ -207,11 +210,14 @@ export default async function CityPaytypePage({
             <CampaignNotice campaign={campaign} />
           </div>
 
+          {/* ✅ 楽天ペイ専用アフィリエイトブロック */}
+          {paytypeId === "rakutenpay" && <RakutenPayAffiliate />}
+
           <h2 id="shop-list-section" className="headline2 mb-4 scroll-mt-34">
             {payLabel}が使える{city}の{offer}%還元対象店舗一覧
           </h2>
           <AdUnit />
-          {/* ✅ JSONファイルがある場合のみ表示 */}
+
           {shopListByGenre && (
             <p className="mb-4 text-sm text-gray-700">
               ♡のついている気になるお店を♥で応援しよう。♥の多いお店は今後いいことが…(開発中)
@@ -236,7 +242,7 @@ export default async function CityPaytypePage({
             currentPaytype={paytypeId}
           />
 
-          {/* ▼ 追加：同じ都道府県のPayPay商品券 */}
+          {/* ▼ 同じ都道府県のPayPay商品券情報 */}
           {(() => {
             const now = new Date();
             const prefectureVoucherCampaigns = voucherCampaignMaster
