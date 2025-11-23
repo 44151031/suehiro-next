@@ -35,6 +35,8 @@ import ClientShopLists from "@/components/sections/shop/ClientShopLists";
 
 // ✅ 追加: 楽天ペイ専用アフィリエイトブロック
 import RakutenPayAffiliate from "@/components/affiliate/RakutenPayAffiliate";
+// ✅ 追加: PayPay専用アフィリエイトブロック
+import PayPayAffiliate from "@/components/affiliate/PayPayAffiliate";
 
 type Props = {
   params: { prefecture: string; city: string; pay: string };
@@ -212,6 +214,9 @@ export default async function CityPaytypePage({
 
           {/* ✅ 楽天ペイ専用アフィリエイトブロック */}
           {paytypeId === "rakutenpay" && <RakutenPayAffiliate />}
+
+          {/* ✅ PayPay専用アフィリエイトブロックの追加 */}
+          {paytypeId === "paypay" && <PayPayAffiliate />}
 
           <h2 id="shop-list-section" className="headline2 mb-4 scroll-mt-34">
             {payLabel}が使える{city}の{offer}%還元対象店舗一覧
