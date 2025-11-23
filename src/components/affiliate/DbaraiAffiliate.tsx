@@ -3,11 +3,11 @@
 export default function DbaraiAffiliate() {
   return (
     <aside className="mt-8 mb-10 bg-white border border-red-300 rounded-md p-4 shadow-sm space-y-2 text-gray-800 leading-snug text-[13px] md:text-sm">
-      <h3 className="font-bold text-lg text-[#d70000]">
+      <h3 className="font-bold mb-2 text-[#a26300] text-sm md:text-base">
         【ドコモユーザー必見】dカード利用で還元率がアップ！
       </h3>
 
-      <p>
+      <p className="text-sm md:text-sm">
         d払いを使う際、銀行口座やセブン銀行ATMからチャージしていませんか？
         <strong>実はそれ、かなり損をしています。</strong>
       </p>
@@ -22,18 +22,18 @@ export default function DbaraiAffiliate() {
         </li>
       </ul>
 
-      <p>
+      <p className="text-sm md:text-sm">
         <strong>dカードからチャージするだけで、ポイントの二重取りができて</strong>
         <strong className="text-[#d70000]">還元率が約2倍</strong>
         になります。
       </p>
 
-      <p>
+      <p className="text-sm md:text-sm">
         d払いを使うなら、dカードの設定は必須です。
         まだ持っていない方は、今のうちに作っておくのがおすすめです。
       </p>
 
-      <p className="text-xs text-gray-600">
+      <p className="text-sm text-gray-600">
         ※公式サイトよりも「ハピタス」を経由した方が、カード発行時に数千円分のポイントを獲得できてお得です。
       </p>
 

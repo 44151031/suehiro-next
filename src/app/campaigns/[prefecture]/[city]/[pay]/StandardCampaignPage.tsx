@@ -39,6 +39,10 @@ import RakutenPayAffiliate from "@/components/affiliate/RakutenPayAffiliate";
 import PayPayAffiliate from "@/components/affiliate/PayPayAffiliate";
 // ✅ 追加: dbarai専用アフィリエイトブロック
 import DbaraiAffiliate from "@/components/affiliate/DbaraiAffiliate";
+// ✅ 追加: aupay専用アフィリエイトブロック
+import AuPayAffiliate from "@/components/affiliate/AuPayAffiliate";
+// ✅ 追加: aepm@au専用アフィリエイトブロック
+import AeonPayAffiliate from "@/components/affiliate/AeonPayAffiliate";
 
 type Props = {
   params: { prefecture: string; city: string; pay: string };
@@ -222,6 +226,12 @@ export default async function CityPaytypePage({
 
           {/* ✅ dbarai専用アフィリエイトブロックの追加 */}
           {paytypeId === "dbarai" && <DbaraiAffiliate />}
+
+          {/* ✅ aupay専用アフィリエイトブロックの追加 */}
+          {paytypeId === "aupay" && <AuPayAffiliate />}
+
+          {/* ✅ aeonpay専用アフィリエイトブロックの追加 */}
+          {paytypeId === "aeonpay" && <AeonPayAffiliate />}
 
           <h2 id="shop-list-section" className="headline2 mb-4 scroll-mt-34">
             {payLabel}が使える{city}の{offer}%還元対象店舗一覧
