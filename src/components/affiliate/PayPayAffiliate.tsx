@@ -20,7 +20,7 @@ export default function PayPayAffiliate() {
       <section>
         <p className="text-sm md:text-sm">
           <strong>① このページ経由のPayPayアプリ登録で300円分GET！</strong></p>
-          <p className="text-sm md:text-sm">
+        <p className="text-sm md:text-sm">
           まだPayPayを登録していない方は、以下の専用リンク経由が最もお得です。
         </p>
 
@@ -49,7 +49,7 @@ export default function PayPayAffiliate() {
       <section>
         <p className="text-sm md:text-sm">
           <strong>② PayPayカード発行でポイント二重取り！</strong></p>
-          <p className="text-sm md:text-sm">
+        <p className="text-sm md:text-sm">
           PayPayのチャージでポイントが貯まる
           <strong>「PayPayカード」</strong>を利用すると、
           <strong className="text-[#d70000]">還元率が大幅アップ</strong>
@@ -62,9 +62,19 @@ export default function PayPayAffiliate() {
 
         <div className="text-center mt-2">
           <a
-            href={HAPITAS_REFERRAL_URL}
+            href="https://hapitas.jp/appinvite/?i=10545115"
             target="_blank"
             rel="nofollow sponsored noopener"
+            onClick={() => {
+              if (typeof window !== "undefined" && window.dataLayer) {
+                window.dataLayer.push({
+                  event: "affiliate_click",
+                  event_category: "hapitas",
+                  event_label: "paypay_card_ref_link",
+                  value: 1,
+                });
+              }
+            }}
             className="inline-block px-4 py-1.5 bg-[#ffda44] text-[#5b4b00] text-xs md:text-sm font-bold rounded-md hover:bg-[#ffd21a] transition"
           >
             ハピタスに無料登録してPayPayカードを探す

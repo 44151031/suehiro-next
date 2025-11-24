@@ -33,24 +33,34 @@ export default function AuPayAffiliate() {
         まだ持っていない方は、この機会に作って設定しておくのがおすすめです。
       </p>
 
-      <p className="text-sm text-gray-600">
-        ※公式サイトよりも「ハピタス」を経由した方が、カード発行時に
-        数千円分のポイントを獲得できてお得です。
-      </p>
+<p className="text-sm text-gray-600">
+  ※公式サイトよりも「ハピタス」を経由した方が、カード発行時に
+  数千円分のポイントを獲得できてお得です。
+</p>
 
-      <div className="text-center pt-2">
-        <a
-          href="https://hapitas.jp/appinvite/?i=10545115"
-          target="_blank"
-          rel="nofollow sponsored noopener"
-          className="inline-block px-4 py-1.5 bg-[#ff7f00] text-white text-xs md:text-sm font-bold rounded-md hover:bg-[#e46b00] transition"
-        >
-          ハピタスに無料登録してau PAYカードを探す
-          <span className="block text-[11px] mt-0.5 font-normal text-gray-100">
-            （カード発行で数千円分のポイントを獲得可能）
-          </span>
-        </a>
-      </div>
+<div className="text-center pt-2">
+  <a
+    href="https://hapitas.jp/appinvite/?i=10545115"
+    target="_blank"
+    rel="nofollow sponsored noopener"
+    onClick={() => {
+      if (typeof window !== "undefined" && window.dataLayer) {
+        window.dataLayer.push({
+          event: "affiliate_click",
+          event_category: "hapitas",
+          event_label: "aupay_card_ref_link",
+          value: 1,
+        });
+      }
+    }}
+    className="inline-block px-4 py-1.5 bg-[#ff7f00] text-white text-xs md:text-sm font-bold rounded-md hover:bg-[#e46b00] transition"
+  >
+    ハピタスに無料登録してau PAYカードを探す
+    <span className="block text-[11px] mt-0.5 font-normal text-gray-100">
+      （カード発行で数千円分のポイントを獲得可能）
+    </span>
+  </a>
+</div>
     </aside>
   );
 }
