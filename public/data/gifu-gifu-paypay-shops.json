@@ -1,0 +1,729 @@
+{
+  "スーパーマーケット": [
+    {
+      "name": "スーパー三心",
+      "storeid": "gifu-39d19c",
+      "shopid": "gifu-39d19c-paypay"
+    },
+    {
+      "name": "コノミヤトミダヤ",
+      "storeid": "gifu-c0e5c8",
+      "shopid": "gifu-c0e5c8-paypay"
+    },
+    {
+      "name": "サンマートサカイ",
+      "storeid": "gifu-5c121c",
+      "shopid": "gifu-5c121c-paypay"
+    },
+    {
+      "name": "ハイショップふじた",
+      "storeid": "gifu-f52bec",
+      "shopid": "gifu-f52bec-paypay"
+    },
+    {
+      "name": "有限会社MERCAヤオマツ",
+      "storeid": "gifu-7b0f52",
+      "shopid": "gifu-7b0f52-paypay"
+    },
+    {
+      "name": "THAI DUONG mart Gifu",
+      "storeid": "gifu-c3f424",
+      "shopid": "gifu-c3f424-paypay"
+    },
+    {
+      "name": "オーガニックベジプランナー",
+      "storeid": "gifu-0c6f1c",
+      "shopid": "gifu-0c6f1c-paypay"
+    }
+  ],
+  "ショッピングスーパー・百貨店": [
+    {
+      "name": "MASA21カルディコーヒーファーム",
+      "storeid": "gifu-f65009",
+      "shopid": "gifu-f65009-paypay"
+    },
+    {
+      "name": "MASA21　ジャンプ",
+      "storeid": "gifu-69c2d8",
+      "shopid": "gifu-69c2d8-paypay"
+    },
+    {
+      "name": "MASA21　おかしの里もりや",
+      "storeid": "gifu-fa662f",
+      "shopid": "gifu-fa662f-paypay"
+    },
+    {
+      "name": "MASA21　日本一",
+      "storeid": "gifu-f16627",
+      "shopid": "gifu-f16627-paypay"
+    },
+    {
+      "name": "MASA21　じんごろう",
+      "storeid": "gifu-8cbd1f",
+      "shopid": "gifu-8cbd1f-paypay"
+    },
+    {
+      "name": "MASA21　とんかつおにぎり鞍馬",
+      "storeid": "gifu-e37aa4",
+      "shopid": "gifu-e37aa4-paypay"
+    },
+    {
+      "name": "MASA21　羽島ダンゴ",
+      "storeid": "gifu-401fb2",
+      "shopid": "gifu-401fb2-paypay"
+    },
+    {
+      "name": "MASA21　ほなみ",
+      "storeid": "gifu-d0f708",
+      "shopid": "gifu-d0f708-paypay"
+    },
+    {
+      "name": "MASA21　美濃味匠",
+      "storeid": "gifu-27ba85",
+      "shopid": "gifu-27ba85-paypay"
+    },
+    {
+      "name": "MASA21　珈琲工房ひぐち",
+      "storeid": "gifu-fb8002",
+      "shopid": "gifu-fb8002-paypay"
+    },
+    {
+      "name": "MASA21　FOODLAB.358",
+      "storeid": "gifu-817abb",
+      "shopid": "gifu-817abb-paypay"
+    },
+    {
+      "name": "MASA21　ペッパーランチ",
+      "storeid": "gifu-3ec5f6",
+      "shopid": "gifu-3ec5f6-paypay"
+    },
+    {
+      "name": "MASA21　ジョイハート",
+      "storeid": "gifu-317b96",
+      "shopid": "gifu-317b96-paypay"
+    },
+    {
+      "name": "MASA21　厚切りチャーシュー家",
+      "storeid": "gifu-6a092b",
+      "shopid": "gifu-6a092b-paypay"
+    },
+    {
+      "name": "MASA21　かつ麦",
+      "storeid": "gifu-f74886",
+      "shopid": "gifu-f74886-paypay"
+    },
+    {
+      "name": "MASA21　アバディーン",
+      "storeid": "gifu-a6ecbf",
+      "shopid": "gifu-a6ecbf-paypay"
+    },
+    {
+      "name": "MASA21　SM2",
+      "storeid": "gifu-1832c3",
+      "shopid": "gifu-1832c3-paypay"
+    },
+    {
+      "name": "MASA21　クイックカットBB",
+      "storeid": "gifu-f2740e",
+      "shopid": "gifu-f2740e-paypay"
+    },
+    {
+      "name": "MASA21　ヒロセヤ・ラ・ボーテ＆アイ",
+      "storeid": "gifu-5924de",
+      "shopid": "gifu-5924de-paypay"
+    },
+    {
+      "name": "MASA21　花のロワール",
+      "storeid": "gifu-73a616",
+      "shopid": "gifu-73a616-paypay"
+    },
+    {
+      "name": "MASA21　BARNS Soho street",
+      "storeid": "gifu-98fae6",
+      "shopid": "gifu-98fae6-paypay"
+    },
+    {
+      "name": "MASA21　ヘアカラー専門fufu",
+      "storeid": "gifu-1355bf",
+      "shopid": "gifu-1355bf-paypay"
+    },
+    {
+      "name": "MASA21　トンボショップ",
+      "storeid": "gifu-6eb3d9",
+      "shopid": "gifu-6eb3d9-paypay"
+    },
+    {
+      "name": "MASA21　クリーニングのOK'S",
+      "storeid": "gifu-390b70",
+      "shopid": "gifu-390b70-paypay"
+    },
+    {
+      "name": "MASA21　TOM",
+      "storeid": "gifu-b1e0b8",
+      "shopid": "gifu-b1e0b8-paypay"
+    },
+    {
+      "name": "MASA21　ウンベラータ",
+      "storeid": "gifu-f3174d",
+      "shopid": "gifu-f3174d-paypay"
+    },
+    {
+      "name": "MASA21　Si・Shu・Non",
+      "storeid": "gifu-4ddbbb",
+      "shopid": "gifu-4ddbbb-paypay"
+    },
+    {
+      "name": "MASA21　プレジール",
+      "storeid": "gifu-5cc8af",
+      "shopid": "gifu-5cc8af-paypay"
+    },
+    {
+      "name": "MASA21　TASUICHI.+1",
+      "storeid": "gifu-6ff513",
+      "shopid": "gifu-6ff513-paypay"
+    },
+    {
+      "name": "MASA21　コリとりステーション",
+      "storeid": "gifu-48d44e",
+      "shopid": "gifu-48d44e-paypay"
+    },
+    {
+      "name": "MASA21　モア＆パンポーラ",
+      "storeid": "gifu-9abc37",
+      "shopid": "gifu-9abc37-paypay"
+    },
+    {
+      "name": "MASA21　TANPOPO",
+      "storeid": "gifu-642b35",
+      "shopid": "gifu-642b35-paypay"
+    },
+    {
+      "name": "MASA21　プラスワン",
+      "storeid": "gifu-d20190",
+      "shopid": "gifu-d20190-paypay"
+    },
+    {
+      "name": "MASA21　オリビア",
+      "storeid": "gifu-4e4e65",
+      "shopid": "gifu-4e4e65-paypay"
+    },
+    {
+      "name": "MASA21　ラクラククラブ",
+      "storeid": "gifu-646e3c",
+      "shopid": "gifu-646e3c-paypay"
+    },
+    {
+      "name": "MASA21　岐阜市福祉の店　友＆愛",
+      "storeid": "gifu-3e4bae",
+      "shopid": "gifu-3e4bae-paypay"
+    },
+    {
+      "name": "MASA21　イークオル千賀",
+      "storeid": "gifu-8c4b68",
+      "shopid": "gifu-8c4b68-paypay"
+    },
+    {
+      "name": "MASA21　スマートリメイク",
+      "storeid": "gifu-a0f9a7",
+      "shopid": "gifu-a0f9a7-paypay"
+    },
+    {
+      "name": "MASA21　中日印章",
+      "storeid": "gifu-121d22",
+      "shopid": "gifu-121d22-paypay"
+    },
+    {
+      "name": "MASA21　コンフォートライフ",
+      "storeid": "gifu-56c077",
+      "shopid": "gifu-56c077-paypay"
+    },
+    {
+      "name": "MASA21　CANAL STREET",
+      "storeid": "gifu-ccf817",
+      "shopid": "gifu-ccf817-paypay"
+    },
+    {
+      "name": "MASA21　アダ",
+      "storeid": "gifu-e2fffb",
+      "shopid": "gifu-e2fffb-paypay"
+    },
+    {
+      "name": "ココイチ",
+      "storeid": "gifu-fe0820",
+      "shopid": "gifu-fe0820-paypay"
+    },
+    {
+      "name": "MASA21　マサキ薬品",
+      "storeid": "gifu-b34169",
+      "shopid": "gifu-b34169-paypay"
+    },
+    {
+      "name": "MASA21　ドリームカプセル",
+      "storeid": "gifu-bfaaae",
+      "shopid": "gifu-bfaaae-paypay"
+    },
+    {
+      "name": "MASA21　クールカレアン",
+      "storeid": "gifu-19a459",
+      "shopid": "gifu-19a459-paypay"
+    },
+    {
+      "name": "Mid Lia",
+      "storeid": "gifu-cc0108",
+      "shopid": "gifu-cc0108-paypay"
+    },
+    {
+      "name": "MASA21　エアウィーヴ",
+      "storeid": "gifu-42b816",
+      "shopid": "gifu-42b816-paypay"
+    },
+    {
+      "name": "UNLOVED",
+      "storeid": "gifu-196f72",
+      "shopid": "gifu-196f72-paypay"
+    },
+    {
+      "name": "MASA21　東京きもの愛",
+      "storeid": "gifu-7541ba",
+      "shopid": "gifu-7541ba-paypay"
+    },
+    {
+      "name": "MASA21　ルナワールド",
+      "storeid": "gifu-ab6f8e",
+      "shopid": "gifu-ab6f8e-paypay"
+    },
+    {
+      "name": "MASA21　チャウアー",
+      "storeid": "gifu-1ab841",
+      "shopid": "gifu-1ab841-paypay"
+    },
+    {
+      "name": "MASA21　パリス・デ・スキン",
+      "storeid": "gifu-c384c7",
+      "shopid": "gifu-c384c7-paypay"
+    }
+  ],
+  "ドラッグストア・薬局": [
+    {
+      "name": "あすか",
+      "storeid": "gifu-eb091f",
+      "shopid": "gifu-eb091f-paypay"
+    },
+    {
+      "name": "ヒロセヤコスメラウンジ",
+      "storeid": "gifu-24079a",
+      "shopid": "gifu-24079a-paypay"
+    },
+    {
+      "name": "クロロフィル美顔教室",
+      "storeid": "gifu-40c188",
+      "shopid": "gifu-40c188-paypay"
+    },
+    {
+      "name": "樹オーガニック",
+      "storeid": "gifu-7d82bc",
+      "shopid": "gifu-7d82bc-paypay"
+    },
+    {
+      "name": "峡東薬局",
+      "storeid": "gifu-60c282",
+      "shopid": "gifu-60c282-paypay"
+    },
+    {
+      "name": "太田薬局",
+      "storeid": "gifu-82b6ad",
+      "shopid": "gifu-82b6ad-paypay"
+    },
+    {
+      "name": "やなぎ屋",
+      "storeid": "gifu-5f2605",
+      "shopid": "gifu-5f2605-paypay"
+    },
+    {
+      "name": "妙泉堂薬局",
+      "storeid": "gifu-b92d80",
+      "shopid": "gifu-b92d80-paypay"
+    },
+    {
+      "name": "青木薬局",
+      "storeid": "gifu-9e883f",
+      "shopid": "gifu-9e883f-paypay"
+    },
+    {
+      "name": "Angeile",
+      "storeid": "gifu-52135a",
+      "shopid": "gifu-52135a-paypay"
+    },
+    {
+      "name": "北川薬品",
+      "storeid": "gifu-8e8206",
+      "shopid": "gifu-8e8206-paypay"
+    },
+    {
+      "name": "レーブグランドゥール",
+      "storeid": "gifu-04600b",
+      "shopid": "gifu-04600b-paypay"
+    },
+    {
+      "name": "漢方の野崎薬局",
+      "storeid": "gifu-6b3820",
+      "shopid": "gifu-6b3820-paypay"
+    },
+    {
+      "name": "広貫堂河上薬品グループ",
+      "storeid": "gifu-90b3d7",
+      "shopid": "gifu-90b3d7-paypay"
+    },
+    {
+      "name": "Y’ｓ Chiffon",
+      "storeid": "gifu-292aec",
+      "shopid": "gifu-292aec-paypay"
+    },
+    {
+      "name": "paxlink",
+      "storeid": "gifu-70e845",
+      "shopid": "gifu-70e845-paypay"
+    },
+    {
+      "name": "EVERY SKIN",
+      "storeid": "gifu-e47dae",
+      "shopid": "gifu-e47dae-paypay"
+    },
+    {
+      "name": "ミヤシタ薬品",
+      "storeid": "gifu-01ba37",
+      "shopid": "gifu-01ba37-paypay"
+    },
+    {
+      "name": "丹羽薬品",
+      "storeid": "gifu-9a8de8",
+      "shopid": "gifu-9a8de8-paypay"
+    },
+    {
+      "name": "化粧品のナミコシ",
+      "storeid": "gifu-a19056",
+      "shopid": "gifu-a19056-paypay"
+    },
+    {
+      "name": "大野元一朗薬局",
+      "storeid": "gifu-f205df",
+      "shopid": "gifu-f205df-paypay"
+    },
+    {
+      "name": "くすりのヒノデ",
+      "storeid": "gifu-fc26cc",
+      "shopid": "gifu-fc26cc-paypay"
+    },
+    {
+      "name": "シティFMコミュニケーションpeili",
+      "storeid": "gifu-44200d",
+      "shopid": "gifu-44200d-paypay"
+    },
+    {
+      "name": "オッペン化粧品",
+      "storeid": "gifu-4cbbbe",
+      "shopid": "gifu-4cbbbe-paypay"
+    },
+    {
+      "name": "ROYAL",
+      "storeid": "gifu-5a3851",
+      "shopid": "gifu-5a3851-paypay"
+    },
+    {
+      "name": "LIB Cosmetics",
+      "storeid": "gifu-5e74a4",
+      "shopid": "gifu-5e74a4-paypay"
+    },
+    {
+      "name": "アムロ",
+      "storeid": "gifu-f01e78",
+      "shopid": "gifu-f01e78-paypay"
+    },
+    {
+      "name": "KAMPO　松栄堂",
+      "storeid": "gifu-f97fb3",
+      "shopid": "gifu-f97fb3-paypay"
+    },
+    {
+      "name": "はっとり化粧品",
+      "storeid": "gifu-f4b0a7",
+      "shopid": "gifu-f4b0a7-paypay"
+    },
+    {
+      "name": "漢方の東京堂",
+      "storeid": "gifu-1f626c",
+      "shopid": "gifu-1f626c-paypay"
+    },
+    {
+      "name": "長森薬局",
+      "storeid": "gifu-45f55b",
+      "shopid": "gifu-45f55b-paypay"
+    },
+    {
+      "name": "サンヘルス薬品日野",
+      "storeid": "gifu-d67ec4",
+      "shopid": "gifu-d67ec4-paypay"
+    },
+    {
+      "name": "エース内山薬品",
+      "storeid": "gifu-c4e168",
+      "shopid": "gifu-c4e168-paypay"
+    }
+  ],
+  "飲食店": [
+    {
+      "name": "ビリオン珈琲",
+      "storeid": "gifu-d5ec03",
+      "shopid": "gifu-d5ec03-paypay"
+    },
+    {
+      "name": "ベビーフェイスプラネッツ",
+      "storeid": "gifu-3351ab",
+      "shopid": "gifu-3351ab-paypay"
+    },
+    {
+      "name": "麺工房　弾",
+      "storeid": "gifu-ca5c07",
+      "shopid": "gifu-ca5c07-paypay"
+    },
+    {
+      "name": "更科",
+      "storeid": "gifu-f1d177",
+      "shopid": "gifu-f1d177-paypay"
+    },
+    {
+      "name": "麵屋無双",
+      "storeid": "gifu-ececb9",
+      "shopid": "gifu-ececb9-paypay"
+    },
+    {
+      "name": "フランセヤノ",
+      "storeid": "gifu-08fcb2",
+      "shopid": "gifu-08fcb2-paypay"
+    },
+    {
+      "name": "フレッシュネスバーガー",
+      "storeid": "gifu-b1e76b",
+      "shopid": "gifu-b1e76b-paypay"
+    },
+    {
+      "name": "さくら珈琲",
+      "storeid": "gifu-803bc7",
+      "shopid": "gifu-803bc7-paypay"
+    },
+    {
+      "name": "ながらぱいたん珀",
+      "storeid": "gifu-794050",
+      "shopid": "gifu-794050-paypay"
+    },
+    {
+      "name": "GRAVY SAUCE",
+      "storeid": "gifu-3d3d55",
+      "shopid": "gifu-3d3d55-paypay"
+    },
+    {
+      "name": "幸せや",
+      "storeid": "gifu-8be37c",
+      "shopid": "gifu-8be37c-paypay"
+    },
+    {
+      "name": "キャリナ・ロウ",
+      "storeid": "gifu-754a6a",
+      "shopid": "gifu-754a6a-paypay"
+    },
+    {
+      "name": "ぶんごや",
+      "storeid": "gifu-de4f6b",
+      "shopid": "gifu-de4f6b-paypay"
+    },
+    {
+      "name": "台湾ラーメン棒太郎",
+      "storeid": "gifu-9a5b82",
+      "shopid": "gifu-9a5b82-paypay"
+    },
+    {
+      "name": "とんかつ家かつ秀",
+      "storeid": "gifu-921ac2",
+      "shopid": "gifu-921ac2-paypay"
+    },
+    {
+      "name": "龍",
+      "storeid": "gifu-a09143",
+      "shopid": "gifu-a09143-paypay"
+    },
+    {
+      "name": "珈琲屋　らんぷ",
+      "storeid": "gifu-243e97",
+      "shopid": "gifu-243e97-paypay"
+    },
+    {
+      "name": "紅胡麻",
+      "storeid": "gifu-3f8721",
+      "shopid": "gifu-3f8721-paypay"
+    },
+    {
+      "name": "金生堂",
+      "storeid": "gifu-cfdb60",
+      "shopid": "gifu-cfdb60-paypay"
+    },
+    {
+      "name": "さざん珈琲",
+      "storeid": "gifu-faff07",
+      "shopid": "gifu-faff07-paypay"
+    },
+    {
+      "name": "一番軒×がブリチキン",
+      "storeid": "gifu-520bf2",
+      "shopid": "gifu-520bf2-paypay"
+    },
+    {
+      "name": "肉のはせ川",
+      "storeid": "gifu-a149a4",
+      "shopid": "gifu-a149a4-paypay"
+    },
+    {
+      "name": "ポムの樹　たまご物語",
+      "storeid": "gifu-d4a680",
+      "shopid": "gifu-d4a680-paypay"
+    },
+    {
+      "name": "麵屋　美鶏",
+      "storeid": "gifu-80ebb4",
+      "shopid": "gifu-80ebb4-paypay"
+    },
+    {
+      "name": "そば居酒屋楽",
+      "storeid": "gifu-4b526b",
+      "shopid": "gifu-4b526b-paypay"
+    }
+  ],
+  "ショッピング": [
+    {
+      "name": "グルマンヴィタル",
+      "storeid": "gifu-58ad73",
+      "shopid": "gifu-58ad73-paypay"
+    },
+    {
+      "name": "THE GIFTS SHOP",
+      "storeid": "gifu-85e656",
+      "shopid": "gifu-85e656-paypay"
+    },
+    {
+      "name": "日本トイザらス",
+      "storeid": "gifu-dee7c9",
+      "shopid": "gifu-dee7c9-paypay"
+    },
+    {
+      "name": "イシグロ",
+      "storeid": "gifu-5094f1",
+      "shopid": "gifu-5094f1-paypay"
+    },
+    {
+      "name": "ESPRIT",
+      "storeid": "gifu-635fac",
+      "shopid": "gifu-635fac-paypay"
+    },
+    {
+      "name": "フランボワーズ",
+      "storeid": "gifu-f0e5a5",
+      "shopid": "gifu-f0e5a5-paypay"
+    },
+    {
+      "name": "ツバメヤ",
+      "storeid": "gifu-2596e0",
+      "shopid": "gifu-2596e0-paypay"
+    },
+    {
+      "name": "くまざわ書店",
+      "storeid": "gifu-d2c992",
+      "shopid": "gifu-d2c992-paypay"
+    },
+    {
+      "name": "秋田屋",
+      "storeid": "gifu-caded4",
+      "shopid": "gifu-caded4-paypay"
+    },
+    {
+      "name": "唐揚げ専門店から助茜部",
+      "storeid": "gifu-032854",
+      "shopid": "gifu-032854-paypay"
+    },
+    {
+      "name": "お菓子の里もりや",
+      "storeid": "gifu-1989af",
+      "shopid": "gifu-1989af-paypay"
+    },
+    {
+      "name": "米乃家サンマートサカイ",
+      "storeid": "gifu-87e0b0",
+      "shopid": "gifu-87e0b0-paypay"
+    },
+    {
+      "name": "ベーカリーショップロンドン",
+      "storeid": "gifu-2b762c",
+      "shopid": "gifu-2b762c-paypay"
+    },
+    {
+      "name": "the Pan noritake",
+      "storeid": "gifu-55ce88",
+      "shopid": "gifu-55ce88-paypay"
+    },
+    {
+      "name": "アニメイト",
+      "storeid": "gifu-5a8c36",
+      "shopid": "gifu-5a8c36-paypay"
+    },
+    {
+      "name": "道の駅柳津",
+      "storeid": "gifu-dbe036",
+      "shopid": "gifu-dbe036-paypay"
+    },
+    {
+      "name": "le chame de ble",
+      "storeid": "gifu-4af041",
+      "shopid": "gifu-4af041-paypay"
+    },
+    {
+      "name": "米乃家",
+      "storeid": "gifu-2ba9aa",
+      "shopid": "gifu-2ba9aa-paypay"
+    },
+    {
+      "name": "有限会社棚橋ファーム",
+      "storeid": "gifu-5a437c",
+      "shopid": "gifu-5a437c-paypay"
+    },
+    {
+      "name": "おじゃま館",
+      "storeid": "gifu-ac1020",
+      "shopid": "gifu-ac1020-paypay"
+    },
+    {
+      "name": "岐阜っ子ピヨちゃん",
+      "storeid": "gifu-2a3ce6",
+      "shopid": "gifu-2a3ce6-paypay"
+    },
+    {
+      "name": "石窯パン工房ドゥマン",
+      "storeid": "gifu-6eca82",
+      "shopid": "gifu-6eca82-paypay"
+    },
+    {
+      "name": "RICO　DELCE",
+      "storeid": "gifu-364898",
+      "shopid": "gifu-364898-paypay"
+    }
+  ],
+  "リカーショップ・酒屋": [
+    {
+      "name": "リカーマウンテン",
+      "storeid": "gifu-9eda8f",
+      "shopid": "gifu-9eda8f-paypay"
+    },
+    {
+      "name": "酒ゃビック",
+      "storeid": "gifu-12c6ce",
+      "shopid": "gifu-12c6ce-paypay"
+    }
+  ]
+}
