@@ -116,6 +116,7 @@ export function getCityMetadata(
 
 //
 // ✅ ペイタイプページ（[city]/[pay]）
+//   → 開催中・終了・開催予定を自動判定
 //
 export function getPaytypeMetadata(
   prefectureSlug: string,
@@ -147,6 +148,11 @@ export function getPaytypeMetadata(
   const { city, prefecture, offer, startDate, endDate, paytype } = campaign;
   const paytypeLabel = PayTypeLabels[paytype as PayTypeId] || paytypeSlug;
 
+  const start = new Date(startDate);
+  const end = new Date(endDate);
+  const isEnded = end < now;
+  const isUpcoming = start > now;
+
   const formatDate = (d: string) => {
     const date = new Date(d);
     return `${date.getMonth() + 1}月${date.getDate()}日`;
@@ -155,9 +161,20 @@ export function getPaytypeMetadata(
   const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${paytypeSlug}`;
   const ogImageUrl = `https://paycancampaign.com/images/campaigns/ogp/${prefectureSlug}-${citySlug}-${paytype}-ogp.jpg?v=1`;
 
-  // ▼ ここがタイトル生成の新ロジック
-  const title = `${city}の${paytypeLabel}キャンペーン|対象店舗一覧 最大${offer}％還元-Payキャン`;
-  const description = `${prefecture}${city}の${paytypeLabel}${offer}％還元キャンペーン情報。${formatDate(startDate)}から${formatDate(endDate)}まで実施されます。最短で最大の還元を受け取れるように飲食店、スーパー・ドラッグストアなど対象店舗一覧で紹介。開催期間や付与上限も解説。`;
+  // ✅ 状態別タイトル／説明分岐
+  let title = "";
+  let description = "";
+
+  if (isEnded) {
+    title = `${city}で実施された${paytypeLabel}キャンペーン（最大${offer}%還元）-Payキャン`;
+    description = `${prefecture}${city}で開催された${paytypeLabel}キャンペーンの実績ページ。${formatDate(startDate)}〜${formatDate(endDate)}に実施された過去の${offer}%還元キャンペーンの概要を掲載。次回開催の参考に。`;
+  } else if (isUpcoming) {
+    title = `${city}で開催予定の${paytypeLabel}キャンペーン（最大${offer}%還元）-Payキャン`;
+    description = `${prefecture}${city}で${formatDate(startDate)}から開催予定の${paytypeLabel}${offer}%還元キャンペーンの情報。開催期間や上限額など、最新情報を先取り。`;
+  } else {
+    title = `${city}の${paytypeLabel}キャンペーン｜対象店舗一覧 最大${offer}%還元-Payキャン`;
+    description = `${prefecture}${city}で開催中の${paytypeLabel}${offer}%還元キャンペーン情報。${formatDate(startDate)}〜${formatDate(endDate)}まで実施。対象店舗や付与上限も紹介。`;
+  }
 
   return {
     title,
