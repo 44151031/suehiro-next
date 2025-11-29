@@ -1,46 +1,74 @@
 {
   "その他": [
     {
-      "name": "居酒屋いずみ"
+      "name": "居酒屋いずみ",
+      "storeid": "shiriuchi-aa5a35",
+      "shopid": "shiriuchi-aa5a35-aupay"
     },
     {
-      "name": "うめもも整体院"
+      "name": "うめもも整体院",
+      "storeid": "shiriuchi-7ff714",
+      "shopid": "shiriuchi-7ff714-aupay"
     },
     {
-      "name": "JAホクレン知内給油所(大手10%)"
+      "name": "JAホクレン知内給油所(大手10%)",
+      "storeid": "shiriuchi-2288f1",
+      "shopid": "shiriuchi-2288f1-aupay"
     },
     {
-      "name": "知内温泉旅館"
+      "name": "知内温泉旅館",
+      "storeid": "shiriuchi-527d66",
+      "shopid": "shiriuchi-527d66-aupay"
     },
     {
-      "name": "知内町道の駅（物産館）"
+      "name": "知内町道の駅（物産館）",
+      "storeid": "shiriuchi-9a322f",
+      "shopid": "shiriuchi-9a322f-aupay"
     },
     {
-      "name": "㈱沢岡石油"
+      "name": "㈱沢岡石油",
+      "storeid": "shiriuchi-0b5307",
+      "shopid": "shiriuchi-0b5307-aupay"
     },
     {
-      "name": "鮨旬"
+      "name": "鮨旬",
+      "storeid": "shiriuchi-6e5a9f",
+      "shopid": "shiriuchi-6e5a9f-aupay"
     },
     {
-      "name": "炭火焼肉・ビジネスホテル北都"
+      "name": "炭火焼肉・ビジネスホテル北都",
+      "storeid": "shiriuchi-8dcc59",
+      "shopid": "shiriuchi-8dcc59-aupay"
     },
     {
-      "name": "生活協同組合 コープさっぽろしりうち店(大手10%)"
+      "name": "生活協同組合 コープさっぽろしりうち店(大手10%)",
+      "storeid": "shiriuchi-2ed9e5",
+      "shopid": "shiriuchi-2ed9e5-aupay"
     },
     {
-      "name": "谷口商事 （apollostation知内SS）"
+      "name": "谷口商事 （apollostation知内SS）",
+      "storeid": "shiriuchi-c546a5",
+      "shopid": "shiriuchi-c546a5-aupay"
     },
     {
-      "name": "ニウロコ村上屋"
+      "name": "ニウロコ村上屋",
+      "storeid": "shiriuchi-6fc1c6",
+      "shopid": "shiriuchi-6fc1c6-aupay"
     },
     {
-      "name": "美容室髪物語"
+      "name": "美容室髪物語",
+      "storeid": "shiriuchi-4896d4",
+      "shopid": "shiriuchi-4896d4-aupay"
     },
     {
-      "name": "BAY BEE"
+      "name": "BAY BEE",
+      "storeid": "shiriuchi-96ce76",
+      "shopid": "shiriuchi-96ce76-aupay"
     },
     {
-      "name": "炉ばた  どんころ"
+      "name": "炉ばた  どんころ",
+      "storeid": "shiriuchi-76f8ca",
+      "shopid": "shiriuchi-76f8ca-aupay"
     }
   ]
 }

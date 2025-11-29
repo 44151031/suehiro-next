@@ -1,46 +1,74 @@
 {
   "その他": [
     {
-      "name": "居酒屋いずみ"
+      "name": "居酒屋いずみ",
+      "storeid": "shiriuchi-aa5a35",
+      "shopid": "shiriuchi-aa5a35-dbarai"
     },
     {
-      "name": "うめもも整体院"
+      "name": "うめもも整体院",
+      "storeid": "shiriuchi-7ff714",
+      "shopid": "shiriuchi-7ff714-dbarai"
     },
     {
-      "name": "JAホクレン知内給油所(大手10%)"
+      "name": "JAホクレン知内給油所(大手10%)",
+      "storeid": "shiriuchi-2288f1",
+      "shopid": "shiriuchi-2288f1-dbarai"
     },
     {
-      "name": "知内温泉旅館"
+      "name": "知内温泉旅館",
+      "storeid": "shiriuchi-527d66",
+      "shopid": "shiriuchi-527d66-dbarai"
     },
     {
-      "name": "知内町道の駅（物産館）"
+      "name": "知内町道の駅（物産館）",
+      "storeid": "shiriuchi-9a322f",
+      "shopid": "shiriuchi-9a322f-dbarai"
     },
     {
-      "name": "㈱沢岡石油"
+      "name": "㈱沢岡石油",
+      "storeid": "shiriuchi-0b5307",
+      "shopid": "shiriuchi-0b5307-dbarai"
     },
     {
-      "name": "鮨旬"
+      "name": "鮨旬",
+      "storeid": "shiriuchi-6e5a9f",
+      "shopid": "shiriuchi-6e5a9f-dbarai"
     },
     {
-      "name": "生活協同組合 コープさっぽろしりうち店(大手10%)"
+      "name": "生活協同組合 コープさっぽろしりうち店(大手10%)",
+      "storeid": "shiriuchi-2ed9e5",
+      "shopid": "shiriuchi-2ed9e5-dbarai"
     },
     {
-      "name": "セイコーマート二吉いとう店(大手10%)"
+      "name": "セイコーマート二吉いとう店(大手10%)",
+      "storeid": "shiriuchi-b949ee",
+      "shopid": "shiriuchi-b949ee-dbarai"
     },
     {
-      "name": "セイコーマート知内元町店(大手10%)"
+      "name": "セイコーマート知内元町店(大手10%)",
+      "storeid": "shiriuchi-ad101c",
+      "shopid": "shiriuchi-ad101c-dbarai"
     },
     {
-      "name": "谷口商事 （apollostation知内SS）"
+      "name": "谷口商事 （apollostation知内SS）",
+      "storeid": "shiriuchi-c546a5",
+      "shopid": "shiriuchi-c546a5-dbarai"
     },
     {
-      "name": "ニウロコ村上屋"
+      "name": "ニウロコ村上屋",
+      "storeid": "shiriuchi-6fc1c6",
+      "shopid": "shiriuchi-6fc1c6-dbarai"
     },
     {
-      "name": "BAY BEE"
+      "name": "BAY BEE",
+      "storeid": "shiriuchi-96ce76",
+      "shopid": "shiriuchi-96ce76-dbarai"
     },
     {
-      "name": "炉ばた  どんころ"
+      "name": "炉ばた  どんころ",
+      "storeid": "shiriuchi-76f8ca",
+      "shopid": "shiriuchi-76f8ca-dbarai"
     }
   ]
 }
