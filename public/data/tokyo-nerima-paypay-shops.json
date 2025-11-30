@@ -1,1502 +1,472 @@
 {
-  "その他": [
-    {
-      "name": "ALEXA",
-      "storeid": "nerima-ccf72b",
-      "shopid": "nerima-ccf72b-paypay"
-    },
-    {
-      "name": "barbar HOTATE",
-      "storeid": "nerima-2585a7",
-      "shopid": "nerima-2585a7-paypay"
-    },
-    {
-      "name": "BARBERLUCK",
-      "storeid": "nerima-4e37b5",
-      "shopid": "nerima-4e37b5-paypay"
-    },
-    {
-      "name": "BAssA",
-      "storeid": "nerima-f9e5d2",
-      "shopid": "nerima-f9e5d2-paypay"
-    },
-    {
-      "name": "BAZZSTORE",
-      "storeid": "nerima-b18975",
-      "shopid": "nerima-b18975-paypay"
-    },
-    {
-      "name": "BEASTforhair",
-      "storeid": "nerima-08ae6d",
-      "shopid": "nerima-08ae6d-paypay"
-    },
-    {
-      "name": "Clotho",
-      "storeid": "nerima-cffd2a",
-      "shopid": "nerima-cffd2a-paypay"
-    },
-    {
-      "name": "Color Room Lavie",
-      "storeid": "nerima-76ccfb",
-      "shopid": "nerima-76ccfb-paypay"
-    },
-    {
-      "name": "DANSHAKU PULS-3",
-      "storeid": "nerima-0024c4",
-      "shopid": "nerima-0024c4-paypay"
-    },
-    {
-      "name": "Dr.ストレッチ",
-      "storeid": "nerima-45aa0e",
-      "shopid": "nerima-45aa0e-paypay"
-    },
-    {
-      "name": "ENVY",
-      "storeid": "nerima-326408",
-      "shopid": "nerima-326408-paypay"
-    },
-    {
-      "name": "e-time MURAKAMI",
-      "storeid": "nerima-a025ed",
-      "shopid": "nerima-a025ed-paypay"
-    },
-    {
-      "name": "fleurir",
-      "storeid": "nerima-ce9a6e",
-      "shopid": "nerima-ce9a6e-paypay"
-    },
-    {
-      "name": "hair my time",
-      "storeid": "nerima-b2a2f4",
-      "shopid": "nerima-b2a2f4-paypay"
-    },
-    {
-      "name": "HAIR STAGE INPAR",
-      "storeid": "nerima-659756",
-      "shopid": "nerima-659756-paypay"
-    },
-    {
-      "name": "Hair&Make pleasure",
-      "storeid": "nerima-81b127",
-      "shopid": "nerima-81b127-paypay"
-    },
-    {
-      "name": "HOLIDAYS CORE&SPA",
-      "storeid": "nerima-9037b5",
-      "shopid": "nerima-9037b5-paypay"
-    },
-    {
-      "name": "H'sHAIRComingHS",
-      "storeid": "nerima-fd5930",
-      "shopid": "nerima-fd5930-paypay"
-    },
-    {
-      "name": "ito THE HAIR",
-      "storeid": "nerima-8ad927",
-      "shopid": "nerima-8ad927-paypay"
-    },
-    {
-      "name": "Lepus",
-      "storeid": "nerima-52face",
-      "shopid": "nerima-52face-paypay"
-    },
-    {
-      "name": "LUANA",
-      "storeid": "nerima-0deca0",
-      "shopid": "nerima-0deca0-paypay"
-    },
-    {
-      "name": "made'shair",
-      "storeid": "nerima-8b63de",
-      "shopid": "nerima-8b63de-paypay"
-    },
-    {
-      "name": "Nail&Co.",
-      "storeid": "nerima-d9d66d",
-      "shopid": "nerima-d9d66d-paypay"
-    },
-    {
-      "name": "Natural",
-      "storeid": "nerima-2bd8ab",
-      "shopid": "nerima-2bd8ab-paypay"
-    },
-    {
-      "name": "OKP STORE",
-      "storeid": "nerima-c6f588",
-      "shopid": "nerima-c6f588-paypay"
-    },
-    {
-      "name": "OPERA by ZINA",
-      "storeid": "nerima-9fc9b0",
-      "shopid": "nerima-9fc9b0-paypay"
-    },
-    {
-      "name": "papamama",
-      "storeid": "nerima-1ca581",
-      "shopid": "nerima-1ca581-paypay"
-    },
-    {
-      "name": "ramuuu.",
-      "storeid": "nerima-d2b871",
-      "shopid": "nerima-d2b871-paypay"
-    },
-    {
-      "name": "Rep 荒井店舗",
-      "storeid": "nerima-a131d0",
-      "shopid": "nerima-a131d0-paypay"
-    },
-    {
-      "name": "ROMANO",
-      "storeid": "nerima-c69257",
-      "shopid": "nerima-c69257-paypay"
-    },
-    {
-      "name": "sokit",
-      "storeid": "nerima-0211cb",
-      "shopid": "nerima-0211cb-paypay"
-    },
-    {
-      "name": "Strange garden",
-      "storeid": "nerima-3fcc88",
-      "shopid": "nerima-3fcc88-paypay"
-    },
-    {
-      "name": "Tokyocut Club kodama",
-      "storeid": "nerima-22eb5f",
-      "shopid": "nerima-22eb5f-paypay"
-    },
-    {
-      "name": "TOMBOY",
-      "storeid": "nerima-ac3f69",
-      "shopid": "nerima-ac3f69-paypay"
-    },
-    {
-      "name": "Y'sラーメン",
-      "storeid": "nerima-10bffa",
-      "shopid": "nerima-10bffa-paypay"
-    },
-    {
-      "name": "ZINA",
-      "storeid": "nerima-405e64",
-      "shopid": "nerima-405e64-paypay"
-    },
-    {
-      "name": "アーミーショップSAKURA",
-      "storeid": "nerima-70376b",
-      "shopid": "nerima-70376b-paypay"
-    },
-    {
-      "name": "あぐれい",
-      "storeid": "nerima-a96d32",
-      "shopid": "nerima-a96d32-paypay"
-    },
-    {
-      "name": "アジ好きですか",
-      "storeid": "nerima-e8220f",
-      "shopid": "nerima-e8220f-paypay"
-    },
-    {
-      "name": "アトリエ　シュクレカフェ",
-      "storeid": "nerima-76a4a8",
-      "shopid": "nerima-76a4a8-paypay"
-    },
-    {
-      "name": "アベニュー歯科クリニック",
-      "storeid": "nerima-eb5698",
-      "shopid": "nerima-eb5698-paypay"
-    },
-    {
-      "name": "嵐山",
-      "storeid": "nerima-18260c",
-      "shopid": "nerima-18260c-paypay"
-    },
-    {
-      "name": "アルカション",
-      "storeid": "nerima-113e7c",
-      "shopid": "nerima-113e7c-paypay"
-    },
-    {
-      "name": "アレコレット",
-      "storeid": "nerima-9fbd44",
-      "shopid": "nerima-9fbd44-paypay"
-    },
-    {
-      "name": "アンテンドゥ",
-      "storeid": "nerima-36a64c",
-      "shopid": "nerima-36a64c-paypay"
-    },
-    {
-      "name": "いしざき内科",
-      "storeid": "nerima-209562",
-      "shopid": "nerima-209562-paypay"
-    },
-    {
-      "name": "イズミ整骨院",
-      "storeid": "nerima-c3eacb",
-      "shopid": "nerima-c3eacb-paypay"
-    },
-    {
-      "name": "癒しの森メグリール",
-      "storeid": "nerima-a22f91",
-      "shopid": "nerima-a22f91-paypay"
-    },
-    {
-      "name": "ウェルビースパイン",
-      "storeid": "nerima-7f0ef0",
-      "shopid": "nerima-7f0ef0-paypay"
-    },
-    {
-      "name": "うん間違いないっ！",
-      "storeid": "nerima-bcb464",
-      "shopid": "nerima-bcb464-paypay"
-    },
-    {
-      "name": "エミタスヘアーアンドアイラッシュ",
-      "storeid": "nerima-838621",
-      "shopid": "nerima-838621-paypay"
-    },
-    {
-      "name": "大泉学園こども・思春期クリニック",
-      "storeid": "nerima-462dc5",
-      "shopid": "nerima-462dc5-paypay"
-    },
-    {
-      "name": "おおいずみ鍼灸整骨院",
-      "storeid": "nerima-b4419d",
-      "shopid": "nerima-b4419d-paypay"
-    },
-    {
-      "name": "おはしごはん",
-      "storeid": "nerima-1c3ebf",
-      "shopid": "nerima-1c3ebf-paypay"
-    },
-    {
-      "name": "カ行会館",
-      "storeid": "nerima-a169d0",
-      "shopid": "nerima-a169d0-paypay"
-    },
-    {
-      "name": "カゴ時々ひつじ",
-      "storeid": "nerima-c42c80",
-      "shopid": "nerima-c42c80-paypay"
-    },
-    {
-      "name": "がってん寿司",
-      "storeid": "nerima-b98087",
-      "shopid": "nerima-b98087-paypay"
-    },
-    {
-      "name": "カット専門店Neutral",
-      "storeid": "nerima-7fe265",
-      "shopid": "nerima-7fe265-paypay"
-    },
-    {
-      "name": "カットルームカラー",
-      "storeid": "nerima-f551da",
-      "shopid": "nerima-f551da-paypay"
-    },
-    {
-      "name": "カフェ　フェリーチェ",
-      "storeid": "nerima-04a177",
-      "shopid": "nerima-04a177-paypay"
-    },
-    {
-      "name": "株式会社FJM 富士見庵",
-      "storeid": "nerima-f90446",
-      "shopid": "nerima-f90446-paypay"
-    },
-    {
-      "name": "カラオケONE",
-      "storeid": "nerima-113d00",
-      "shopid": "nerima-113d00-paypay"
-    },
-    {
-      "name": "ガラクタ屋ネバーランド",
-      "storeid": "nerima-6efc29",
-      "shopid": "nerima-6efc29-paypay"
-    },
-    {
-      "name": "川場湯",
-      "storeid": "nerima-1a8120",
-      "shopid": "nerima-1a8120-paypay"
-    },
-    {
-      "name": "かわらい歯科医院",
-      "storeid": "nerima-ff8347",
-      "shopid": "nerima-ff8347-paypay"
-    },
-    {
-      "name": "元祖　札幌や",
-      "storeid": "nerima-016129",
-      "shopid": "nerima-016129-paypay"
-    },
-    {
-      "name": "キッチンきむら",
-      "storeid": "nerima-38f40b",
-      "shopid": "nerima-38f40b-paypay"
-    },
-    {
-      "name": "キュウィック",
-      "storeid": "nerima-233d6f",
-      "shopid": "nerima-233d6f-paypay"
-    },
-    {
-      "name": "京香ハウス",
-      "storeid": "nerima-9743c8",
-      "shopid": "nerima-9743c8-paypay"
-    },
-    {
-      "name": "共立ユニホーム",
-      "storeid": "nerima-d9ef98",
-      "shopid": "nerima-d9ef98-paypay"
-    },
-    {
-      "name": "クロスハウス",
-      "storeid": "nerima-5957b8",
-      "shopid": "nerima-5957b8-paypay"
-    },
-    {
-      "name": "ケララバワン",
-      "storeid": "nerima-c259ac",
-      "shopid": "nerima-c259ac-paypay"
-    },
-    {
-      "name": "酵素風呂Heets",
-      "storeid": "nerima-4366ac",
-      "shopid": "nerima-4366ac-paypay"
-    },
-    {
-      "name": "コゾノ靴屋",
-      "storeid": "nerima-d7799b",
-      "shopid": "nerima-d7799b-paypay"
-    },
-    {
-      "name": "こどもや呉服店",
-      "storeid": "nerima-37d64a",
-      "shopid": "nerima-37d64a-paypay"
-    },
-    {
-      "name": "米とひなた",
-      "storeid": "nerima-ece765",
-      "shopid": "nerima-ece765-paypay"
-    },
-    {
-      "name": "ザ・クロックハウス",
-      "storeid": "nerima-0c6a0c",
-      "shopid": "nerima-0c6a0c-paypay"
-    },
-    {
-      "name": "齋藤歯科医院",
-      "storeid": "nerima-f88d88",
-      "shopid": "nerima-f88d88-paypay"
-    },
-    {
-      "name": "さきやま歯科クリニック",
-      "storeid": "nerima-0cd627",
-      "shopid": "nerima-0cd627-paypay"
-    },
-    {
-      "name": "作業衣屋",
-      "storeid": "nerima-6c7ccf",
-      "shopid": "nerima-6c7ccf-paypay"
-    },
-    {
-      "name": "ジェイシティー歯科吉積",
-      "storeid": "nerima-a0cc4d",
-      "shopid": "nerima-a0cc4d-paypay"
-    },
-    {
-      "name": "ジオルノ",
-      "storeid": "nerima-df0e8d",
-      "shopid": "nerima-df0e8d-paypay"
-    },
-    {
-      "name": "シナノヤ",
-      "storeid": "nerima-1e28d4",
-      "shopid": "nerima-1e28d4-paypay"
-    },
-    {
-      "name": "シニあん訪問マッサージ治療院",
-      "storeid": "nerima-d72576",
-      "shopid": "nerima-d72576-paypay"
-    },
-    {
-      "name": "じねんじょ庵",
-      "storeid": "nerima-ddd080",
-      "shopid": "nerima-ddd080-paypay"
-    },
-    {
-      "name": "耳鼻咽喉科まちの医院",
-      "storeid": "nerima-05cf0f",
-      "shopid": "nerima-05cf0f-paypay"
-    },
-    {
-      "name": "志村電機珈琲焙煎所",
-      "storeid": "nerima-0541bf",
-      "shopid": "nerima-0541bf-paypay"
-    },
-    {
-      "name": "新江古田豊玉鍼灸院整骨院",
-      "storeid": "nerima-58b63c",
-      "shopid": "nerima-58b63c-paypay"
-    },
-    {
-      "name": "甚作",
-      "storeid": "nerima-54a454",
-      "shopid": "nerima-54a454-paypay"
-    },
-    {
-      "name": "健やか整骨院",
-      "storeid": "nerima-d398b3",
-      "shopid": "nerima-d398b3-paypay"
-    },
-    {
-      "name": "西洋菓子おだふじ",
-      "storeid": "nerima-cce301",
-      "shopid": "nerima-cce301-paypay"
-    },
-    {
-      "name": "ソルカノルカ",
-      "storeid": "nerima-b718af",
-      "shopid": "nerima-b718af-paypay"
-    },
-    {
-      "name": "高梨歯科クリニック",
-      "storeid": "nerima-2958d6",
-      "shopid": "nerima-2958d6-paypay"
-    },
-    {
-      "name": "たぐち整骨院",
-      "storeid": "nerima-1fb0cf",
-      "shopid": "nerima-1fb0cf-paypay"
-    },
-    {
-      "name": "たこ焼あきないTOKYO",
-      "storeid": "nerima-c70786",
-      "shopid": "nerima-c70786-paypay"
-    },
-    {
-      "name": "辰巳湯",
-      "storeid": "nerima-96f33c",
-      "shopid": "nerima-96f33c-paypay"
-    },
-    {
-      "name": "たんぽぽ",
-      "storeid": "nerima-0049ee",
-      "shopid": "nerima-0049ee-paypay"
-    },
-    {
-      "name": "ちぐさ",
-      "storeid": "nerima-0979e0",
-      "shopid": "nerima-0979e0-paypay"
-    },
-    {
-      "name": "中華そば青葉",
-      "storeid": "nerima-df256c",
-      "shopid": "nerima-df256c-paypay"
-    },
-    {
-      "name": "つかさクリニック",
-      "storeid": "nerima-376357",
-      "shopid": "nerima-376357-paypay"
-    },
-    {
-      "name": "津久井小児科内科医院",
-      "storeid": "nerima-860eef",
-      "shopid": "nerima-860eef-paypay"
-    },
-    {
-      "name": "つくし屋",
-      "storeid": "nerima-fadb95",
-      "shopid": "nerima-fadb95-paypay"
-    },
-    {
-      "name": "てらす鍼灸整骨院",
-      "storeid": "nerima-553b38",
-      "shopid": "nerima-553b38-paypay"
-    },
-    {
-      "name": "東京アトミック",
-      "storeid": "nerima-bfa7a9",
-      "shopid": "nerima-bfa7a9-paypay"
-    },
-    {
-      "name": "豊島園駅前接骨院",
-      "storeid": "nerima-eb4b6b",
-      "shopid": "nerima-eb4b6b-paypay"
-    },
-    {
-      "name": "とみながレディースクリニック",
-      "storeid": "nerima-22d5bb",
-      "shopid": "nerima-22d5bb-paypay"
-    },
-    {
-      "name": "とんかつ多酒多彩地蔵",
-      "storeid": "nerima-25cfbd",
-      "shopid": "nerima-25cfbd-paypay"
-    },
-    {
-      "name": "なおとデンタルオフィス",
-      "storeid": "nerima-eb74d3",
-      "shopid": "nerima-eb74d3-paypay"
-    },
-    {
-      "name": "中村医院",
-      "storeid": "nerima-bbe7c3",
-      "shopid": "nerima-bbe7c3-paypay"
-    },
-    {
-      "name": "中村橘のびのび整骨院",
-      "storeid": "nerima-dab132",
-      "shopid": "nerima-dab132-paypay"
-    },
-    {
-      "name": "なごみ・なごみやマッサージ整体院",
-      "storeid": "nerima-97f5a6",
-      "shopid": "nerima-97f5a6-paypay"
-    },
-    {
-      "name": "なごみ歯科",
-      "storeid": "nerima-834765",
-      "shopid": "nerima-834765-paypay"
-    },
-    {
-      "name": "練馬駅前メンタルクリニック",
-      "storeid": "nerima-98a808",
-      "shopid": "nerima-98a808-paypay"
-    },
-    {
-      "name": "練馬さくら歯科",
-      "storeid": "nerima-96ee3a",
-      "shopid": "nerima-96ee3a-paypay"
-    },
-    {
-      "name": "ネリマサンドレス",
-      "storeid": "nerima-0d47d5",
-      "shopid": "nerima-0d47d5-paypay"
-    },
-    {
-      "name": "練馬動物医療センターホンド動物病院",
-      "storeid": "nerima-b5086d",
-      "shopid": "nerima-b5086d-paypay"
-    },
-    {
-      "name": "のぎた皮ふ科クリニック",
-      "storeid": "nerima-544c36",
-      "shopid": "nerima-544c36-paypay"
-    },
-    {
-      "name": "はあとねいる",
-      "storeid": "nerima-9f06c3",
-      "shopid": "nerima-9f06c3-paypay"
-    },
-    {
-      "name": "パッケージプラザアベ",
-      "storeid": "nerima-3d6d14",
-      "shopid": "nerima-3d6d14-paypay"
-    },
-    {
-      "name": "パティスリープラネッツ",
-      "storeid": "nerima-8a92a1",
-      "shopid": "nerima-8a92a1-paypay"
-    },
-    {
-      "name": "はと工房。",
-      "storeid": "nerima-7a32b3",
-      "shopid": "nerima-7a32b3-paypay"
-    },
-    {
-      "name": "鍼灸サロンPAL",
-      "storeid": "nerima-7149d1",
-      "shopid": "nerima-7149d1-paypay"
-    },
-    {
-      "name": "パン工房　麦ふうせん",
-      "storeid": "nerima-1a202d",
-      "shopid": "nerima-1a202d-paypay"
-    },
-    {
-      "name": "ビジネス旅館　昭和館",
-      "storeid": "nerima-1664db",
-      "shopid": "nerima-1664db-paypay"
-    },
-    {
-      "name": "美容院アームズ",
-      "storeid": "nerima-cdb865",
-      "shopid": "nerima-cdb865-paypay"
-    },
-    {
-      "name": "福のから",
-      "storeid": "nerima-a93674",
-      "shopid": "nerima-a93674-paypay"
-    },
-    {
-      "name": "ふくふく食堂",
-      "storeid": "nerima-efe1ca",
-      "shopid": "nerima-efe1ca-paypay"
-    },
-    {
-      "name": "フルカワ時計店",
-      "storeid": "nerima-02dd2b",
-      "shopid": "nerima-02dd2b-paypay"
-    },
-    {
-      "name": "フレッシュネスバーガー",
-      "storeid": "nerima-b1e76b",
-      "shopid": "nerima-b1e76b-paypay"
-    },
-    {
-      "name": "フレンドリーカット",
-      "storeid": "nerima-5c0525",
-      "shopid": "nerima-5c0525-paypay"
-    },
-    {
-      "name": "ヘアーサロンコマツ",
-      "storeid": "nerima-27c68d",
-      "shopid": "nerima-27c68d-paypay"
-    },
-    {
-      "name": "ヘアリゾートマハロ",
-      "storeid": "nerima-6ba5aa",
-      "shopid": "nerima-6ba5aa-paypay"
-    },
-    {
-      "name": "平和湯",
-      "storeid": "nerima-87c1d0",
-      "shopid": "nerima-87c1d0-paypay"
-    },
-    {
-      "name": "ボディケアサロン　もみっくま",
-      "storeid": "nerima-071d03",
-      "shopid": "nerima-071d03-paypay"
-    },
-    {
-      "name": "ホテルカデンツァ東京",
-      "storeid": "nerima-b76110",
-      "shopid": "nerima-b76110-paypay"
-    },
-    {
-      "name": "保谷北口スポーツ接骨院",
-      "storeid": "nerima-e5befd",
-      "shopid": "nerima-e5befd-paypay"
-    },
-    {
-      "name": "まつ毛エクステサロン",
-      "storeid": "nerima-c51f56",
-      "shopid": "nerima-c51f56-paypay"
-    },
-    {
-      "name": "松山歯科医院",
-      "storeid": "nerima-52aa68",
-      "shopid": "nerima-52aa68-paypay"
-    },
-    {
-      "name": "マルキン",
-      "storeid": "nerima-6b77fa",
-      "shopid": "nerima-6b77fa-paypay"
-    },
-    {
-      "name": "麵処いのこ",
-      "storeid": "nerima-3fed1d",
-      "shopid": "nerima-3fed1d-paypay"
-    },
-    {
-      "name": "モノスタとしまえん",
-      "storeid": "nerima-92819e",
-      "shopid": "nerima-92819e-paypay"
-    },
-    {
-      "name": "揉みよし",
-      "storeid": "nerima-9939ce",
-      "shopid": "nerima-9939ce-paypay"
-    },
-    {
-      "name": "やきとりにしだ家",
-      "storeid": "nerima-7ed84e",
-      "shopid": "nerima-7ed84e-paypay"
-    },
-    {
-      "name": "焼肉平城苑",
-      "storeid": "nerima-1e3d04",
-      "shopid": "nerima-1e3d04-paypay"
-    },
-    {
-      "name": "ヤマヨ",
-      "storeid": "nerima-942fa1",
-      "shopid": "nerima-942fa1-paypay"
-    },
-    {
-      "name": "リサイクルショップカラー",
-      "storeid": "nerima-0d462c",
-      "shopid": "nerima-0d462c-paypay"
-    },
-    {
-      "name": "リペアワークス",
-      "storeid": "nerima-c798d7",
-      "shopid": "nerima-c798d7-paypay"
-    },
-    {
-      "name": "リラックス心心",
-      "storeid": "nerima-482547",
-      "shopid": "nerima-482547-paypay"
-    },
-    {
-      "name": "ローカスヘアサロン",
-      "storeid": "nerima-4cdbeb",
-      "shopid": "nerima-4cdbeb-paypay"
-    },
-    {
-      "name": "笑天やきとり　一輝",
-      "storeid": "nerima-fb4694",
-      "shopid": "nerima-fb4694-paypay"
-    }
-  ],
   "スーパーマーケット": [
     {
-      "name": "JA東京あおば",
-      "storeid": "nerima-3c27bb",
-      "shopid": "nerima-3c27bb-paypay"
+      "name": "三徳"
     },
     {
-      "name": "SainEよしや",
-      "storeid": "nerima-11a484",
-      "shopid": "nerima-11a484-paypay"
+      "name": "ユネスコ"
     },
     {
-      "name": "あかしや",
-      "storeid": "nerima-ae100b",
-      "shopid": "nerima-ae100b-paypay"
+      "name": "生鮮市場アキダイ"
     },
     {
-      "name": "あわさの中村屋",
-      "storeid": "nerima-6bb684",
-      "shopid": "nerima-6bb684-paypay"
+      "name": "フレッシュフーズひばり"
     },
     {
-      "name": "アンドリーフ",
-      "storeid": "nerima-d868ab",
-      "shopid": "nerima-d868ab-paypay"
+      "name": "スーパーみらべる"
     },
     {
-      "name": "石神井丸正食品株式会社まるマート",
-      "storeid": "nerima-3039d9",
-      "shopid": "nerima-3039d9-paypay"
+      "name": "光が丘IMA店"
     },
     {
-      "name": "エスカマーレ",
-      "storeid": "nerima-a9d496",
-      "shopid": "nerima-a9d496-paypay"
+      "name": "ところ青果"
     },
     {
-      "name": "咲菜",
-      "storeid": "nerima-cee581",
-      "shopid": "nerima-cee581-paypay"
+      "name": "新鮮市場フレッツ緑の牧場"
     },
     {
-      "name": "三徳",
-      "storeid": "nerima-48df20",
-      "shopid": "nerima-48df20-paypay"
+      "name": "SainEよしや"
     },
     {
-      "name": "新鮮市場フレッツ緑の牧場",
-      "storeid": "nerima-168103",
-      "shopid": "nerima-168103-paypay"
+      "name": "エスカマーレ"
     },
     {
-      "name": "スーパーフジヤマ",
-      "storeid": "nerima-a41cc7",
-      "shopid": "nerima-a41cc7-paypay"
+      "name": "うわさの中村屋"
     },
     {
-      "name": "スーパーみらべる",
-      "storeid": "nerima-6d5ce0",
-      "shopid": "nerima-6d5ce0-paypay"
+      "name": "JA東京あおば"
     },
     {
-      "name": "生鮮市場アキダイ",
-      "storeid": "nerima-72c2f0",
-      "shopid": "nerima-72c2f0-paypay"
+      "name": "あかしや真野商店"
     },
     {
-      "name": "ところ青果",
-      "storeid": "nerima-289e49",
-      "shopid": "nerima-289e49-paypay"
+      "name": "スーパーフジヤマ"
     },
     {
-      "name": "光が丘IMA",
-      "storeid": "nerima-a7d22c",
-      "shopid": "nerima-a7d22c-paypay"
+      "name": "アンドリーフ"
     },
     {
-      "name": "マルヤス",
-      "storeid": "nerima-85778e",
-      "shopid": "nerima-85778e-paypay"
+      "name": "マルヤス"
     },
     {
-      "name": "ユネスコ",
-      "storeid": "nerima-64d5c7",
-      "shopid": "nerima-64d5c7-paypay"
+      "name": "セーヌ"
     }
   ],
-  "ドラッグストア・薬局": [
+  "ショッピングセンター・百貨店": [
     {
-      "name": "(有)くすりの早宮",
-      "storeid": "nerima-dc6702",
-      "shopid": "nerima-dc6702-paypay"
+      "name": "プラザトキワ"
     },
     {
-      "name": "CMS調剤薬局",
-      "storeid": "nerima-2780eb",
-      "shopid": "nerima-2780eb-paypay"
+      "name": "光が丘IMA"
     },
     {
-      "name": "HPCみどり薬局",
-      "storeid": "nerima-41e843",
-      "shopid": "nerima-41e843-paypay"
+      "name": "しなのや"
     },
     {
-      "name": "アイム平和台薬局",
-      "storeid": "nerima-853f1e",
-      "shopid": "nerima-853f1e-paypay"
-    },
-    {
-      "name": "あおい薬局",
-      "storeid": "nerima-0ee3e4",
-      "shopid": "nerima-0ee3e4-paypay"
-    },
-    {
-      "name": "あおぞら薬局",
-      "storeid": "nerima-62cbf1",
-      "shopid": "nerima-62cbf1-paypay"
-    },
-    {
-      "name": "あかね薬局",
-      "storeid": "nerima-3118ec",
-      "shopid": "nerima-3118ec-paypay"
-    },
-    {
-      "name": "アップル薬局",
-      "storeid": "nerima-5e1656",
-      "shopid": "nerima-5e1656-paypay"
-    },
-    {
-      "name": "あなたの薬局",
-      "storeid": "nerima-725045",
-      "shopid": "nerima-725045-paypay"
-    },
-    {
-      "name": "イオックス薬局",
-      "storeid": "nerima-c9cd07",
-      "shopid": "nerima-c9cd07-paypay"
-    },
-    {
-      "name": "いずみ薬局",
-      "storeid": "nerima-8ef36b",
-      "shopid": "nerima-8ef36b-paypay"
-    },
-    {
-      "name": "いちょう薬局",
-      "storeid": "nerima-1d0feb",
-      "shopid": "nerima-1d0feb-paypay"
-    },
-    {
-      "name": "ウイングピュアスクエア薬局",
-      "storeid": "nerima-966af0",
-      "shopid": "nerima-966af0-paypay"
-    },
-    {
-      "name": "ヴェール薬局",
-      "storeid": "nerima-50bf53",
-      "shopid": "nerima-50bf53-paypay"
-    },
-    {
-      "name": "宇津薬局",
-      "storeid": "nerima-2bba37",
-      "shopid": "nerima-2bba37-paypay"
-    },
-    {
-      "name": "エース薬局",
-      "storeid": "nerima-3051f0",
-      "shopid": "nerima-3051f0-paypay"
-    },
-    {
-      "name": "えくぼ薬局",
-      "storeid": "nerima-b7adb9",
-      "shopid": "nerima-b7adb9-paypay"
-    },
-    {
-      "name": "えびす薬局",
-      "storeid": "nerima-d021b3",
-      "shopid": "nerima-d021b3-paypay"
-    },
-    {
-      "name": "おざわ薬局",
-      "storeid": "nerima-9bbb8e",
-      "shopid": "nerima-9bbb8e-paypay"
-    },
-    {
-      "name": "おひさま薬局",
-      "storeid": "nerima-32cd7d",
-      "shopid": "nerima-32cd7d-paypay"
-    },
-    {
-      "name": "オミノ薬局",
-      "storeid": "nerima-633e24",
-      "shopid": "nerima-633e24-paypay"
-    },
-    {
-      "name": "オリエンタル薬局",
-      "storeid": "nerima-85afe2",
-      "shopid": "nerima-85afe2-paypay"
-    },
-    {
-      "name": "オレンジプラス　オレンジ薬局",
-      "storeid": "nerima-afabdc",
-      "shopid": "nerima-afabdc-paypay"
-    },
-    {
-      "name": "かい薬局",
-      "storeid": "nerima-255582",
-      "shopid": "nerima-255582-paypay"
-    },
-    {
-      "name": "かける薬局",
-      "storeid": "nerima-3536fe",
-      "shopid": "nerima-3536fe-paypay"
-    },
-    {
-      "name": "カゾメディカル",
-      "storeid": "nerima-2957a8",
-      "shopid": "nerima-2957a8-paypay"
-    },
-    {
-      "name": "葛根堂薬局",
-      "storeid": "nerima-92281e",
-      "shopid": "nerima-92281e-paypay"
-    },
-    {
-      "name": "株式会社ミサワ薬局リボーン薬局",
-      "storeid": "nerima-c883e7",
-      "shopid": "nerima-c883e7-paypay"
-    },
-    {
-      "name": "株式会社宮本薬局　ミヤモトドラッグ",
-      "storeid": "nerima-6362e7",
-      "shopid": "nerima-6362e7-paypay"
-    },
-    {
-      "name": "上石神井薬局",
-      "storeid": "nerima-59d36f",
-      "shopid": "nerima-59d36f-paypay"
-    },
-    {
-      "name": "漢方ダイエットラボ-PONO-",
-      "storeid": "nerima-4ce1c8",
-      "shopid": "nerima-4ce1c8-paypay"
-    },
-    {
-      "name": "簡保薬局＋C",
-      "storeid": "nerima-c0aeb1",
-      "shopid": "nerima-c0aeb1-paypay"
-    },
-    {
-      "name": "きのみ薬局",
-      "storeid": "nerima-235eb7",
-      "shopid": "nerima-235eb7-paypay"
-    },
-    {
-      "name": "くすりの大勝堂",
-      "storeid": "nerima-334c4f",
-      "shopid": "nerima-334c4f-paypay"
-    },
-    {
-      "name": "くすりのダイイチ",
-      "storeid": "nerima-e23678",
-      "shopid": "nerima-e23678-paypay"
-    },
-    {
-      "name": "クレスト薬局",
-      "storeid": "nerima-d7dc23",
-      "shopid": "nerima-d7dc23-paypay"
-    },
-    {
-      "name": "コスモ薬局",
-      "storeid": "nerima-859575",
-      "shopid": "nerima-859575-paypay"
-    },
-    {
-      "name": "小花和薬局",
-      "storeid": "nerima-ff3187",
-      "shopid": "nerima-ff3187-paypay"
-    },
-    {
-      "name": "こもね薬局",
-      "storeid": "nerima-60c572",
-      "shopid": "nerima-60c572-paypay"
-    },
-    {
-      "name": "さくら調剤つる薬局",
-      "storeid": "nerima-7d947d",
-      "shopid": "nerima-7d947d-paypay"
-    },
-    {
-      "name": "さと薬局",
-      "storeid": "nerima-2b5524",
-      "shopid": "nerima-2b5524-paypay"
-    },
-    {
-      "name": "三山薬局",
-      "storeid": "nerima-7d3036",
-      "shopid": "nerima-7d3036-paypay"
-    },
-    {
-      "name": "新桜台調剤薬局",
-      "storeid": "nerima-0132e0",
-      "shopid": "nerima-0132e0-paypay"
-    },
-    {
-      "name": "しんせい薬局",
-      "storeid": "nerima-992cc9",
-      "shopid": "nerima-992cc9-paypay"
-    },
-    {
-      "name": "千利薬局",
-      "storeid": "nerima-19a711",
-      "shopid": "nerima-19a711-paypay"
-    },
-    {
-      "name": "たがら薬局",
-      "storeid": "nerima-d83ee8",
-      "shopid": "nerima-d83ee8-paypay"
-    },
-    {
-      "name": "たむら薬局",
-      "storeid": "nerima-427d07",
-      "shopid": "nerima-427d07-paypay"
-    },
-    {
-      "name": "だるま堂薬局",
-      "storeid": "nerima-6319cf",
-      "shopid": "nerima-6319cf-paypay"
-    },
-    {
-      "name": "力湧堂薬局",
-      "storeid": "nerima-fa8e03",
-      "shopid": "nerima-fa8e03-paypay"
-    },
-    {
-      "name": "竹林薬局",
-      "storeid": "nerima-682298",
-      "shopid": "nerima-682298-paypay"
-    },
-    {
-      "name": "デュ・アン漢方薬局",
-      "storeid": "nerima-3f729f",
-      "shopid": "nerima-3f729f-paypay"
-    },
-    {
-      "name": "東京メディエール",
-      "storeid": "nerima-904f8e",
-      "shopid": "nerima-904f8e-paypay"
-    },
-    {
-      "name": "としまえん薬局",
-      "storeid": "nerima-aeb3a6",
-      "shopid": "nerima-aeb3a6-paypay"
-    },
-    {
-      "name": "富沢薬品",
-      "storeid": "nerima-7e0bd7",
-      "shopid": "nerima-7e0bd7-paypay"
-    },
-    {
-      "name": "練馬漢方堂",
-      "storeid": "nerima-746675",
-      "shopid": "nerima-746675-paypay"
-    },
-    {
-      "name": "のぞみ薬局",
-      "storeid": "nerima-cee729",
-      "shopid": "nerima-cee729-paypay"
-    },
-    {
-      "name": "氷川台調剤薬局",
-      "storeid": "nerima-0b6f58",
-      "shopid": "nerima-0b6f58-paypay"
-    },
-    {
-      "name": "日の丸薬局",
-      "storeid": "nerima-b5444d",
-      "shopid": "nerima-b5444d-paypay"
-    },
-    {
-      "name": "ビューティーショップしみず",
-      "storeid": "nerima-57435b",
-      "shopid": "nerima-57435b-paypay"
-    },
-    {
-      "name": "ヒロ薬局",
-      "storeid": "nerima-4f6855",
-      "shopid": "nerima-4f6855-paypay"
-    },
-    {
-      "name": "ファイン薬局",
-      "storeid": "nerima-f48753",
-      "shopid": "nerima-f48753-paypay"
-    },
-    {
-      "name": "牡丹",
-      "storeid": "nerima-9fb5f5",
-      "shopid": "nerima-9fb5f5-paypay"
-    },
-    {
-      "name": "保谷調剤薬局",
-      "storeid": "nerima-bdd066",
-      "shopid": "nerima-bdd066-paypay"
-    },
-    {
-      "name": "まつみ薬局",
-      "storeid": "nerima-efebe6",
-      "shopid": "nerima-efebe6-paypay"
-    },
-    {
-      "name": "丸石化粧品",
-      "storeid": "nerima-798e63",
-      "shopid": "nerima-798e63-paypay"
-    },
-    {
-      "name": "まんまる薬局",
-      "storeid": "nerima-8b8eb1",
-      "shopid": "nerima-8b8eb1-paypay"
-    },
-    {
-      "name": "みけねこ薬局",
-      "storeid": "nerima-9fd960",
-      "shopid": "nerima-9fd960-paypay"
-    },
-    {
-      "name": "南堂薬局",
-      "storeid": "nerima-f328f4",
-      "shopid": "nerima-f328f4-paypay"
-    },
-    {
-      "name": "ミヤモトドラッグ",
-      "storeid": "nerima-1996cf",
-      "shopid": "nerima-1996cf-paypay"
-    },
-    {
-      "name": "むさしの森薬局",
-      "storeid": "nerima-c349ff",
-      "shopid": "nerima-c349ff-paypay"
-    },
-    {
-      "name": "メディカル薬局",
-      "storeid": "nerima-5042f7",
-      "shopid": "nerima-5042f7-paypay"
-    },
-    {
-      "name": "森田さんの生薬の力",
-      "storeid": "nerima-57be1e",
-      "shopid": "nerima-57be1e-paypay"
-    },
-    {
-      "name": "薬局ミドリファーマシー",
-      "storeid": "nerima-4a8c84",
-      "shopid": "nerima-4a8c84-paypay"
-    },
-    {
-      "name": "ゆうき薬局",
-      "storeid": "nerima-f433a1",
-      "shopid": "nerima-f433a1-paypay"
+      "name": "lumgo,se lumgo se"
     }
   ],
-  "ホームセンター・ショッピングセンター": [
+  "ドラッグストア": [
     {
-      "name": "lumgo,selumgo se",
-      "storeid": "nerima-58310e",
-      "shopid": "nerima-58310e-paypay"
+      "name": "ミヤモトドラッグ"
     },
     {
-      "name": "しなのや",
-      "storeid": "nerima-d6cc0a",
-      "shopid": "nerima-d6cc0a-paypay"
+      "name": "くすりのダイイチ"
     },
     {
-      "name": "光が丘IMA Gelato&Caffe MAHORO",
-      "storeid": "nerima-a99567",
-      "shopid": "nerima-a99567-paypay"
+      "name": "ミサワ薬局"
     },
     {
-      "name": "光が丘IMA ItaliankitchenVANSAN",
-      "storeid": "nerima-344b9b",
-      "shopid": "nerima-344b9b-paypay"
+      "name": "薬局ミドリファーマシー"
     },
     {
-      "name": "光が丘IMA アエナ",
-      "storeid": "nerima-e0a9de",
-      "shopid": "nerima-e0a9de-paypay"
+      "name": "小花和薬局"
     },
     {
-      "name": "光が丘IMA あまいけ",
-      "storeid": "nerima-babc39",
-      "shopid": "nerima-babc39-paypay"
+      "name": "たむら薬局"
     },
     {
-      "name": "光が丘IMA 銀座コージーコーナー",
-      "storeid": "nerima-ce4466",
-      "shopid": "nerima-ce4466-paypay"
+      "name": "上石神井薬局"
     },
     {
-      "name": "光が丘IMA 蕎麦処いなたや",
-      "storeid": "nerima-c8cd61",
-      "shopid": "nerima-c8cd61-paypay"
+      "name": "あおぞら薬局"
     },
     {
-      "name": "光が丘IMA 中華料理　唐苑",
-      "storeid": "nerima-3acfe0",
-      "shopid": "nerima-3acfe0-paypay"
+      "name": "たがら薬局"
     },
     {
-      "name": "光が丘IMA 肉巧房　日南",
-      "storeid": "nerima-71774a",
-      "shopid": "nerima-71774a-paypay"
+      "name": "かける薬局"
     },
     {
-      "name": "光が丘IMA 森田園",
-      "storeid": "nerima-6ced12",
-      "shopid": "nerima-6ced12-paypay"
+      "name": "Spinnaker あなたの薬局"
     },
     {
-      "name": "プラザトキワ",
-      "storeid": "nerima-19488f",
-      "shopid": "nerima-19488f-paypay"
+      "name": "しんせい薬局"
     },
     {
-      "name": "丸越ストアー",
-      "storeid": "nerima-2dbdd8",
-      "shopid": "nerima-2dbdd8-paypay"
+      "name": "光川台調剤薬局"
+    },
+    {
+      "name": "千利薬局"
+    },
+    {
+      "name": "さくら調剤"
+    },
+    {
+      "name": "いちょう薬局"
+    },
+    {
+      "name": "くすりの早宮"
+    },
+    {
+      "name": "としまえん薬局"
+    },
+    {
+      "name": "こもね薬局"
+    },
+    {
+      "name": "クレスト薬局"
     }
   ],
-  "家電": [
+  "ショッピング・小売": [
     {
-      "name": "(株)ヤマデン",
-      "storeid": "nerima-3b9185",
-      "shopid": "nerima-3b9185-paypay"
+      "name": "カルディコーヒー"
     },
     {
-      "name": "(有)でんきショップ",
-      "storeid": "nerima-74eb23",
-      "shopid": "nerima-74eb23-paypay"
+      "name": "丸十ベーカリー"
     },
     {
-      "name": "cotowa",
-      "storeid": "nerima-0fcfcd",
-      "shopid": "nerima-0fcfcd-paypay"
+      "name": "ベジワン"
     },
     {
-      "name": "danlabo。",
-      "storeid": "nerima-f9319d",
-      "shopid": "nerima-f9319d-paypay"
+      "name": "北京飯店"
     },
     {
-      "name": "HEMP SUPERB",
-      "storeid": "nerima-4acd5d",
-      "shopid": "nerima-4acd5d-paypay"
+      "name": "ブックファースト"
     },
     {
-      "name": "JSA営業用",
-      "storeid": "nerima-01f37a",
-      "shopid": "nerima-01f37a-paypay"
+      "name": "竹島書店"
     },
     {
-      "name": "knulpAA",
-      "storeid": "nerima-825216",
-      "shopid": "nerima-825216-paypay"
+      "name": "文教堂"
     },
     {
-      "name": "ofall",
-      "storeid": "nerima-eac580",
-      "shopid": "nerima-eac580-paypay"
+      "name": "まちのパーラー"
     },
     {
-      "name": "RC GEAR",
-      "storeid": "nerima-ab0dc5",
-      "shopid": "nerima-ab0dc5-paypay"
+      "name": "デンマークベーカリー"
     },
     {
-      "name": "Re:Re",
-      "storeid": "nerima-734cf6",
-      "shopid": "nerima-734cf6-paypay"
+      "name": "SELECT MART"
     },
     {
-      "name": "アートプリントジャパン特販部",
-      "storeid": "nerima-87f185",
-      "shopid": "nerima-87f185-paypay"
+      "name": "鳥勝"
     },
     {
-      "name": "青木塗料商会",
-      "storeid": "nerima-7d8796",
-      "shopid": "nerima-7d8796-paypay"
+      "name": "上州屋"
     },
     {
-      "name": "アトム電器",
-      "storeid": "nerima-7e7027",
-      "shopid": "nerima-7e7027-paypay"
+      "name": "ちよだ鮨"
     },
     {
-      "name": "あらい電機",
-      "storeid": "nerima-c21890",
-      "shopid": "nerima-c21890-paypay"
+      "name": "シャトレーゼ"
     },
     {
-      "name": "イノセント",
-      "storeid": "nerima-3d25be",
-      "shopid": "nerima-3d25be-paypay"
+      "name": "渋谷園芸"
     },
     {
-      "name": "イノセントアンティーク",
-      "storeid": "nerima-4a4308",
-      "shopid": "nerima-4a4308-paypay"
+      "name": "牛蔵"
     },
     {
-      "name": "イマイ電気",
-      "storeid": "nerima-7b8693",
-      "shopid": "nerima-7b8693-paypay"
+      "name": "くまざわ書店"
     },
     {
-      "name": "うつわ屋　よんなーよんなー",
-      "storeid": "nerima-4666eb",
-      "shopid": "nerima-4666eb-paypay"
+      "name": "オザキフラワーパーク"
     },
     {
-      "name": "株式会社ソリット・ナカノ",
-      "storeid": "nerima-70ec1c",
-      "shopid": "nerima-70ec1c-paypay"
+      "name": "肉巧房"
     },
     {
-      "name": "株式会社花園電気",
-      "storeid": "nerima-f1e6b4",
-      "shopid": "nerima-f1e6b4-paypay"
+      "name": "柴田屋酒店"
     },
     {
-      "name": "サウンドサカタ",
-      "storeid": "nerima-43b6fe",
-      "shopid": "nerima-43b6fe-paypay"
+      "name": "ベジタブルファーム"
     },
     {
-      "name": "さかた電気",
-      "storeid": "nerima-299f0f",
-      "shopid": "nerima-299f0f-paypay"
+      "name": "河内屋"
     },
     {
-      "name": "ソノベ電機",
-      "storeid": "nerima-37bca0",
-      "shopid": "nerima-37bca0-paypay"
+      "name": "パティスリー アンデルセン"
     },
     {
-      "name": "中央電化",
-      "storeid": "nerima-11c669",
-      "shopid": "nerima-11c669-paypay"
+      "name": "ジャンプ"
     },
     {
-      "name": "でんきのコトブキ",
-      "storeid": "nerima-1777c0",
-      "shopid": "nerima-1777c0-paypay"
+      "name": "石塚商店"
     },
     {
-      "name": "どりーむ館",
-      "storeid": "nerima-db491a",
-      "shopid": "nerima-db491a-paypay"
+      "name": "すずめ珈琲"
     },
     {
-      "name": "ナイトウでんき",
-      "storeid": "nerima-21ac75",
-      "shopid": "nerima-21ac75-paypay"
+      "name": "京樽"
     },
     {
-      "name": "中伸商店",
-      "storeid": "nerima-5eb823",
-      "shopid": "nerima-5eb823-paypay"
+      "name": "ペット専門店コジマ"
     },
     {
-      "name": "ニシムラでんき",
-      "storeid": "nerima-cfaa95",
-      "shopid": "nerima-cfaa95-paypay"
+      "name": "わだぱん"
     },
     {
-      "name": "ノジマ",
-      "storeid": "nerima-d6027b",
-      "shopid": "nerima-d6027b-paypay"
+      "name": "安井精肉店"
     },
     {
-      "name": "パークおおもり",
-      "storeid": "nerima-e4dda7",
-      "shopid": "nerima-e4dda7-paypay"
+      "name": "一本堂"
     },
     {
-      "name": "はれるや",
-      "storeid": "nerima-7ca1a4",
-      "shopid": "nerima-7ca1a4-paypay"
+      "name": "スフレパルヴァン"
+    }
+  ],
+  "飲食店": [
+    {
+      "name": "フレッシュネスバーガー"
     },
     {
-      "name": "パワーサポート",
-      "storeid": "nerima-9ff205",
-      "shopid": "nerima-9ff205-paypay"
+      "name": "ソルカノルカ"
     },
     {
-      "name": "フジ電気",
-      "storeid": "nerima-76b149",
-      "shopid": "nerima-76b149-paypay"
+      "name": "笑天やきとり 一輝"
     },
     {
-      "name": "ふとんのマキタ",
-      "storeid": "nerima-2bd294",
-      "shopid": "nerima-2bd294-paypay"
+      "name": "中華そば青葉"
     },
     {
-      "name": "ベルシア　アトリエ柴田",
-      "storeid": "nerima-171883",
-      "shopid": "nerima-171883-paypay"
+      "name": "アルカション"
     },
     {
-      "name": "マチダ電器",
-      "storeid": "nerima-157b14",
-      "shopid": "nerima-157b14-paypay"
+      "name": "志村電機珈琲焙煎所"
     },
     {
-      "name": "山賀電機株式会社ソニーショップ",
-      "storeid": "nerima-1cab91",
-      "shopid": "nerima-1cab91-paypay"
+      "name": "Y’ｓラーメン"
     },
     {
-      "name": "ヤマトでんき",
-      "storeid": "nerima-459378",
-      "shopid": "nerima-459378-paypay"
+      "name": "藤ノ木パン"
     },
     {
-      "name": "有限会社 田島電機商会",
-      "storeid": "nerima-a4402d",
-      "shopid": "nerima-a4402d-paypay"
+      "name": "とんかつ 多酒多彩 地蔵"
     },
     {
-      "name": "有限会社　マツダ電気",
-      "storeid": "nerima-ef1cb2",
-      "shopid": "nerima-ef1cb2-paypay"
+      "name": "西洋菓子おだふじ"
     },
     {
-      "name": "有限会社いわくらでんき",
-      "storeid": "nerima-e2cbf7",
-      "shopid": "nerima-e2cbf7-paypay"
+      "name": "福のから"
     },
     {
-      "name": "ヨシジマ電器",
-      "storeid": "nerima-6bd7b2",
-      "shopid": "nerima-6bd7b2-paypay"
+      "name": "アンテンドゥ"
     },
     {
-      "name": "ライフテックアトム",
-      "storeid": "nerima-542166",
-      "shopid": "nerima-542166-paypay"
+      "name": "ラーメン一圓"
+    },
+    {
+      "name": "カフェ フェリーチェ"
+    },
+    {
+      "name": "麺処いのこ"
+    },
+    {
+      "name": "うん間違いないっ！"
+    },
+    {
+      "name": "立ち喰いそば・うどん のじろう"
+    },
+    {
+      "name": "唐苑"
+    },
+    {
+      "name": "パン工房 麦ふうせん"
+    },
+    {
+      "name": "光陽桜"
+    },
+    {
+      "name": "甚作"
+    },
+    {
+      "name": "麵や 碧大将"
+    },
+    {
+      "name": "やきとり にしだ家"
+    },
+    {
+      "name": "ケララバワン"
+    },
+    {
+      "name": "ふくふく食堂"
+    },
+    {
+      "name": "かぶら屋"
+    },
+    {
+      "name": "つくし屋"
+    },
+    {
+      "name": "富士見庵"
+    },
+    {
+      "name": "café Escape"
+    },
+    {
+      "name": "燦燦"
+    },
+    {
+      "name": "四文屋"
+    },
+    {
+      "name": "居酒屋とおるちゃん"
+    },
+    {
+      "name": "SUNNY"
+    },
+    {
+      "name": "ラハメンヤマン"
+    },
+    {
+      "name": "米とひなた"
+    },
+    {
+      "name": "焼肉 平城苑"
+    },
+    {
+      "name": "カラオケONE"
+    },
+    {
+      "name": "真そば尾崎庵"
+    }
+  ],
+  "ファッション": [
+    {
+      "name": "シナノヤ"
+    },
+    {
+      "name": "COCO"
+    },
+    {
+      "name": "BAZZSTORE"
+    },
+    {
+      "name": "アレコレット"
+    },
+    {
+      "name": "アトリエ シュクレカフェ"
+    },
+    {
+      "name": "アーミーショップSAKURA SAKURA"
+    },
+    {
+      "name": "ザ・クロックハウス"
+    },
+    {
+      "name": "ガタクタ屋ネバーランド"
+    },
+    {
+      "name": "作業着屋"
+    },
+    {
+      "name": "tippi tokyo"
+    },
+    {
+      "name": "Strange garden"
+    },
+    {
+      "name": "コゾノ靴店"
+    },
+    {
+      "name": "パッケージプラザアベ"
+    },
+    {
+      "name": "リペアワークス"
+    },
+    {
+      "name": "マルキシ"
+    },
+    {
+      "name": "白井屋酒店"
+    },
+    {
+      "name": "ゆきのひとはり"
+    },
+    {
+      "name": "はと工房。"
+    },
+    {
+      "name": "Phu-an Phu-an"
+    },
+    {
+      "name": "モノスタとしまえん"
+    }
+  ],
+  "サロン・美容室": [
+    {
+      "name": "カットハウスCOM"
+    },
+    {
+      "name": "カット専門店 ankh"
+    },
+    {
+      "name": "アッシュ"
+    },
+    {
+      "name": "Smile hair BARNEYS BARBER"
+    },
+    {
+      "name": "楽の匠"
+    },
+    {
+      "name": "シーズン"
+    },
+    {
+      "name": "Cut3"
+    },
+    {
+      "name": "フレンドリーカット"
+    },
+    {
+      "name": "QUALIS"
+    },
+    {
+      "name": "Blossom"
+    },
+    {
+      "name": "カット専門店Neutral"
+    },
+    {
+      "name": "ヘアーサロンコマツ"
+    },
+    {
+      "name": "リラックス心心"
+    },
+    {
+      "name": "papamama"
+    },
+    {
+      "name": "ROMANO"
+    },
+    {
+      "name": "ALEXA"
+    },
+    {
+      "name": "Clotho"
+    },
+    {
+      "name": "Natural"
+    },
+    {
+      "name": "HAIR STAGE INPAR"
+    },
+    {
+      "name": "BAssA"
+    },
+    {
+      "name": "HOLIDAYS CARE&SPA"
     }
   ]
 }
