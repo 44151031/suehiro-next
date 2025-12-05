@@ -1,54 +1,46 @@
 // /src/lib/loadShopList.ts
-// ✅ Egress削減 + 全JSON構造対応 + ISR(24h) + ローカル動作対応 完全体
+// ✅ 完全刷新版：fetch を廃止し fs 読み込みに統一
+//    - Egress 0
+//    - 即時反映
+//    - Vercel / Dev 両対応
+//    - JSON 構造自動判別
 
-/**
- * 支払いタイプごとのショップリストJSONを読み込む（サーバーサイドfetch版）
- *
- * @param prefectureSlug - 例: "tokyo"
- * @param citySlug - 例: "shibuya"
- * @param paytype - 例: "paypay", "aupay", "rakutenpay", "dbarai", "aeonpay"
- * @returns Record<string, { name: string; address?: string }[]> （ジャンル別構造）
- */
+import fs from "fs/promises";
+import path from "path";
+
 export async function loadShopList(
   prefectureSlug: string,
   citySlug: string,
   paytype: string
 ): Promise<Record<string, { name: string; address?: string }[]>> {
   try {
-    const BASE_URL =
-      process.env.NEXT_PUBLIC_SITE_URL ??
-      (process.env.VERCEL_URL
-        ? `https://${process.env.VERCEL_URL}`
-        : "http://localhost:3000");
+    // 📌 public/data 内の JSON を直接読む
+    const fileName = `${prefectureSlug}-${citySlug}-${paytype}-shops.json`;
 
-    const filePath = `/data/${prefectureSlug}-${citySlug}-${paytype}-shops.json`;
-    const url = `${BASE_URL}${filePath}`;
+    const jsonPath = path.join(
+      process.cwd(),
+      "public",
+      "data",
+      fileName
+    );
 
+    // Dev のみログ表示
     if (process.env.NODE_ENV === "development") {
-      console.log(`🧭 [loadShopList] Fetching shop list from: ${url}`);
+      console.log(`📘 [loadShopList] reading local file: ${jsonPath}`);
     }
 
-    // ✅ ISR + CDNキャッシュ付きfetch
-    const res = await fetch(url, {
-      next: { revalidate: 86400 }, // 24時間キャッシュ
-      cache: "force-cache",
-    });
+    // JSON を直接読み込む（fetch より高速 & キャッシュ問題ゼロ）
+    const rawText = await fs.readFile(jsonPath, "utf8");
+    const raw = JSON.parse(rawText);
 
-    if (!res.ok) {
-      console.warn(`⚠️ 店舗リストJSONが見つかりません: ${url}`);
-      return {};
-    }
-
-    const raw = await res.json();
-
-    // ✅ 構造自動判別
     let result: Record<string, { name: string; address?: string }[]> = {};
 
+    // 📌 JSON 構造を自動判定
     if (Array.isArray(raw)) {
-      // 単配列 → "全て"キーにまとめる
+      // 単配列 → "全て"にまとめる
       result["全て"] = raw.filter((x) => x && x.name);
     } else if (typeof raw === "object" && raw !== null) {
-      // ジャンル別構造 → そのままコピー
+      // ジャンル別構造
       for (const key of Object.keys(raw)) {
         const arr = raw[key];
         if (Array.isArray(arr)) {
@@ -56,13 +48,15 @@ export async function loadShopList(
         }
       }
     } else {
-      console.warn("⚠️ 予期しないJSON構造:", raw);
+      console.warn("⚠ JSONの形式が想定外です:", raw);
       return {};
     }
 
     return result;
-  } catch (error) {
-    console.error("❌ 店舗リストの読み込みに失敗:", error);
+  } catch (err: any) {
+    console.warn(
+      `⚠ 店舗JSONが存在しません: public/data/${prefectureSlug}-${citySlug}-${paytype}-shops.json`
+    );
     return {};
   }
 }
