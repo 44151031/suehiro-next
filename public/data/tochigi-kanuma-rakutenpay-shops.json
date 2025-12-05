@@ -1,5 +1,5 @@
 {
-  "サービス": [
+  "美容/ヘアサロン/マッサージ": [
     {
       "name": "ビューティーサロン ウチヤマ",
       "address": "みなみ町",
@@ -17,12 +17,6 @@
       "address": "栄町",
       "storeid": "kanuma-0c6928",
       "shopid": "kanuma-0c6928-rakutenpay"
-    },
-    {
-      "name": "ブルースカイランドリー オフハウス鹿沼店",
-      "address": "栄町",
-      "storeid": "kanuma-741268",
-      "shopid": "kanuma-741268-rakutenpay"
     },
     {
       "name": "fino",
@@ -49,10 +43,16 @@
       "shopid": "kanuma-2c5f93-rakutenpay"
     },
     {
-      "name": "HOMEBASE",
-      "address": "下大久保",
-      "storeid": "kanuma-095e70",
-      "shopid": "kanuma-095e70-rakutenpay"
+      "name": "新川化粧品店",
+      "address": "下横町",
+      "storeid": "kanuma-2371bd",
+      "shopid": "kanuma-2371bd-rakutenpay"
+    },
+    {
+      "name": "アンリュ ペジブル",
+      "address": "下田町",
+      "storeid": "kanuma-47449c",
+      "shopid": "kanuma-47449c-rakutenpay"
     },
     {
       "name": "ビューティーケイ",
@@ -67,10 +67,10 @@
       "shopid": "kanuma-17a717-rakutenpay"
     },
     {
-      "name": "栃木ロイヤル交通",
+      "name": "飯塚指圧治療院",
       "address": "加園",
-      "storeid": "kanuma-477415",
-      "shopid": "kanuma-477415-rakutenpay"
+      "storeid": "kanuma-49ad7e",
+      "shopid": "kanuma-49ad7e-rakutenpay"
     },
     {
       "name": "mia",
@@ -127,22 +127,16 @@
       "shopid": "kanuma-7f7868-rakutenpay"
     },
     {
-      "name": "AceAutoService",
-      "address": "見野",
-      "storeid": "kanuma-dc405b",
-      "shopid": "kanuma-dc405b-rakutenpay"
-    },
-    {
       "name": "THREE＋(スリープラス)",
       "address": "御成橋町",
       "storeid": "kanuma-119161",
       "shopid": "kanuma-119161-rakutenpay"
     },
     {
-      "name": "ユーケンホーム",
-      "address": "晃望台",
-      "storeid": "kanuma-ca12f9",
-      "shopid": "kanuma-ca12f9-rakutenpay"
+      "name": "サロン トリート",
+      "address": "御成橋町",
+      "storeid": "kanuma-04108c",
+      "shopid": "kanuma-04108c-rakutenpay"
     },
     {
       "name": "コリとり処カチナ",
@@ -163,10 +157,28 @@
       "shopid": "kanuma-b22449-rakutenpay"
     },
     {
+      "name": "アールビューティバランス鹿沼本店",
+      "address": "今宮町",
+      "storeid": "kanuma-763d7e",
+      "shopid": "kanuma-763d7e-rakutenpay"
+    },
+    {
+      "name": "ヘアーサロンサイトウ",
+      "address": "今宮町",
+      "storeid": "kanuma-22e7db",
+      "shopid": "kanuma-22e7db-rakutenpay"
+    },
+    {
       "name": "Lino",
       "address": "坂田山",
       "storeid": "kanuma-a8315b",
       "shopid": "kanuma-a8315b-rakutenpay"
+    },
+    {
+      "name": "おうちサロン Sourire",
+      "address": "坂田山",
+      "storeid": "kanuma-4a7a0a",
+      "shopid": "kanuma-4a7a0a-rakutenpay"
     },
     {
       "name": "ふたば美容室上材木町店",
@@ -179,6 +191,12 @@
       "address": "上材木町",
       "storeid": "kanuma-17e3f9",
       "shopid": "kanuma-17e3f9-rakutenpay"
+    },
+    {
+      "name": "サロン・ド・シエール",
+      "address": "上石川",
+      "storeid": "kanuma-ed2b7f",
+      "shopid": "kanuma-ed2b7f-rakutenpay"
     },
     {
       "name": "CHERIR eyelash salon",
@@ -199,12 +217,6 @@
       "shopid": "kanuma-e5bdd5-rakutenpay"
     },
     {
-      "name": "ホワイト急便 ヨークベニマル上殿店",
-      "address": "上殿町",
-      "storeid": "kanuma-1c3653",
-      "shopid": "kanuma-1c3653-rakutenpay"
-    },
-    {
       "name": "adorer",
       "address": "上殿町",
       "storeid": "kanuma-61d98a",
@@ -215,18 +227,6 @@
       "address": "上殿町",
       "storeid": "kanuma-797199",
       "shopid": "kanuma-797199-rakutenpay"
-    },
-    {
-      "name": "個人 鷹箸タクシー",
-      "address": "上田町",
-      "storeid": "kanuma-05a6c9",
-      "shopid": "kanuma-05a6c9-rakutenpay"
-    },
-    {
-      "name": "ホワイト急便 ヤオハン北部店",
-      "address": "上田町",
-      "storeid": "kanuma-ce7c9c",
-      "shopid": "kanuma-ce7c9c-rakutenpay"
     },
     {
       "name": "美容室サニープレイスひなた",
@@ -253,12 +253,6 @@
       "shopid": "kanuma-4a893a-rakutenpay"
     },
     {
-      "name": "ホワイト急便 晃望台店",
-      "address": "上野町",
-      "storeid": "kanuma-b07509",
-      "shopid": "kanuma-b07509-rakutenpay"
-    },
-    {
       "name": "EyeSalon Ref",
       "address": "上野町",
       "storeid": "kanuma-49fcb5",
@@ -278,135 +272,141 @@
     },
     {
       "name": "Listen 憩いのぽぽベネ",
-      "address": "西茂呂",
-      "storeid": "kanuma-e30758",
-      "shopid": "kanuma-e30758-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-b63d82",
+      "shopid": "kanuma-b63d82-rakutenpay"
     },
     {
       "name": "REAL beauty salon",
-      "address": "西茂呂",
-      "storeid": "kanuma-7d5d6d",
-      "shopid": "kanuma-7d5d6d-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-73368d",
+      "shopid": "kanuma-73368d-rakutenpay"
     },
     {
       "name": "アロマスパRe:Poser鹿沼店",
-      "address": "西茂呂",
-      "storeid": "kanuma-730e98",
-      "shopid": "kanuma-730e98-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-de28b6",
+      "shopid": "kanuma-de28b6-rakutenpay"
+    },
+    {
+      "name": "癒し処-Repos-ルポ",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-e950b3",
+      "shopid": "kanuma-e950b3-rakutenpay"
     },
     {
       "name": "CROWN hair design",
-      "address": "西茂呂",
-      "storeid": "kanuma-2b3f69",
-      "shopid": "kanuma-2b3f69-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-324836",
+      "shopid": "kanuma-324836-rakutenpay"
     },
     {
       "name": "hair salon MOTENA",
-      "address": "西茂呂",
-      "storeid": "kanuma-fb50b6",
-      "shopid": "kanuma-fb50b6-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-5bb7c6",
+      "shopid": "kanuma-5bb7c6-rakutenpay"
     },
     {
       "name": "DAB.HAIR works",
-      "address": "西茂呂",
-      "storeid": "kanuma-5c1244",
-      "shopid": "kanuma-5c1244-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-14a9ab",
+      "shopid": "kanuma-14a9ab-rakutenpay"
     },
     {
       "name": "Pono hair",
-      "address": "西茂呂",
-      "storeid": "kanuma-3d094b",
-      "shopid": "kanuma-3d094b-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-190fd5",
+      "shopid": "kanuma-190fd5-rakutenpay"
     },
     {
       "name": "りらっくす整体 おおきな手",
-      "address": "西茂呂",
-      "storeid": "kanuma-131124",
-      "shopid": "kanuma-131124-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-312a67",
+      "shopid": "kanuma-312a67-rakutenpay"
     },
     {
       "name": "りらくる 鹿沼店",
-      "address": "西茂呂",
-      "storeid": "kanuma-be7dea",
-      "shopid": "kanuma-be7dea-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-3bf912",
+      "shopid": "kanuma-3bf912-rakutenpay"
     },
     {
       "name": "イン東京 鹿沼店",
-      "address": "西茂呂",
-      "storeid": "kanuma-3dc93c",
-      "shopid": "kanuma-3dc93c-rakutenpay"
-    },
-    {
-      "name": "フジドライ ヨークベニマル鹿沼店",
-      "address": "西茂呂",
-      "storeid": "kanuma-8a0cd3",
-      "shopid": "kanuma-8a0cd3-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-780c0c",
+      "shopid": "kanuma-780c0c-rakutenpay"
     },
     {
       "name": "ちとせや化粧品店",
-      "address": "西茂呂",
-      "storeid": "kanuma-52480d",
-      "shopid": "kanuma-52480d-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-fc2b47",
+      "shopid": "kanuma-fc2b47-rakutenpay"
     },
     {
       "name": "ZiP HAIR SALON",
-      "address": "西茂呂",
-      "storeid": "kanuma-ddb1f3",
-      "shopid": "kanuma-ddb1f3-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-86ec72",
+      "shopid": "kanuma-86ec72-rakutenpay"
     },
     {
       "name": "image.『想い』",
-      "address": "西茂呂",
-      "storeid": "kanuma-c7f9ae",
-      "shopid": "kanuma-c7f9ae-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-0682a0",
+      "shopid": "kanuma-0682a0-rakutenpay"
     },
     {
       "name": "presto",
-      "address": "西茂呂",
-      "storeid": "kanuma-917131",
-      "shopid": "kanuma-917131-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-f1e712",
+      "shopid": "kanuma-f1e712-rakutenpay"
     },
     {
       "name": "イエロービーム",
-      "address": "西茂呂",
-      "storeid": "kanuma-9c0b9b",
-      "shopid": "kanuma-9c0b9b-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-ff834c",
+      "shopid": "kanuma-ff834c-rakutenpay"
     },
     {
       "name": "COCO＿NAIL",
-      "address": "西茂呂",
-      "storeid": "kanuma-42cdf7",
-      "shopid": "kanuma-42cdf7-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-c71728",
+      "shopid": "kanuma-c71728-rakutenpay"
     },
     {
       "name": "美容室イーストインク",
-      "address": "西茂呂",
-      "storeid": "kanuma-338811",
-      "shopid": "kanuma-338811-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-bc5ce9",
+      "shopid": "kanuma-bc5ce9-rakutenpay"
     },
     {
       "name": "Hairsalon cuore",
-      "address": "西茂呂",
-      "storeid": "kanuma-6bed81",
-      "shopid": "kanuma-6bed81-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-7faec8",
+      "shopid": "kanuma-7faec8-rakutenpay"
     },
     {
-      "name": "EKEFAST",
-      "address": "石橋町",
-      "storeid": "kanuma-5ef4e6",
-      "shopid": "kanuma-5ef4e6-rakutenpay"
-    },
-    {
-      "name": "ラヴァーレ 千渡店",
+      "name": "Can hair",
       "address": "千渡",
-      "storeid": "kanuma-29cc7a",
-      "shopid": "kanuma-29cc7a-rakutenpay"
+      "storeid": "kanuma-4ccb58",
+      "shopid": "kanuma-4ccb58-rakutenpay"
     },
     {
-      "name": "三陽自動車整備工場",
+      "name": "Pothos coco",
       "address": "千渡",
-      "storeid": "kanuma-f63807",
-      "shopid": "kanuma-f63807-rakutenpay"
+      "storeid": "kanuma-a1a30b",
+      "shopid": "kanuma-a1a30b-rakutenpay"
+    },
+    {
+      "name": "BRT整体サロン栃木",
+      "address": "千渡",
+      "storeid": "kanuma-e1c8c9",
+      "shopid": "kanuma-e1c8c9-rakutenpay"
+    },
+    {
+      "name": "プライベートサロンMimosa",
+      "address": "千渡",
+      "storeid": "kanuma-9b5a6a",
+      "shopid": "kanuma-9b5a6a-rakutenpay"
     },
     {
       "name": "健康&美容サロンchacha",
@@ -415,16 +415,16 @@
       "shopid": "kanuma-d35090-rakutenpay"
     },
     {
+      "name": "eyelash salon ココプラス",
+      "address": "千渡",
+      "storeid": "kanuma-b6943d",
+      "shopid": "kanuma-b6943d-rakutenpay"
+    },
+    {
       "name": "Nail Salon Butterfly",
       "address": "千渡",
       "storeid": "kanuma-262e28",
       "shopid": "kanuma-262e28-rakutenpay"
-    },
-    {
-      "name": "グリフ 前日光店",
-      "address": "草久",
-      "storeid": "kanuma-ae6789",
-      "shopid": "kanuma-ae6789-rakutenpay"
     },
     {
       "name": "t'hair（ティーヘアー）",
@@ -437,6 +437,12 @@
       "address": "仲町",
       "storeid": "kanuma-e5b62b",
       "shopid": "kanuma-e5b62b-rakutenpay"
+    },
+    {
+      "name": "HOLiC（ホリック）",
+      "address": "仲町",
+      "storeid": "kanuma-1a1b56",
+      "shopid": "kanuma-1a1b56-rakutenpay"
     },
     {
       "name": "カイロプラクティックおおぬき",
@@ -457,16 +463,16 @@
       "shopid": "kanuma-2a1b02-rakutenpay"
     },
     {
-      "name": "住環境整理のユーカリ",
-      "address": "鳥居跡町",
-      "storeid": "kanuma-a4fd8d",
-      "shopid": "kanuma-a4fd8d-rakutenpay"
-    },
-    {
       "name": "カットハウス フリースタイル",
       "address": "鳥居跡町",
       "storeid": "kanuma-2dae1e",
       "shopid": "kanuma-2dae1e-rakutenpay"
+    },
+    {
+      "name": "PALM TREE",
+      "address": "東末広町",
+      "storeid": "kanuma-55ea26",
+      "shopid": "kanuma-55ea26-rakutenpay"
     },
     {
       "name": "salon coeur",
@@ -487,34 +493,10 @@
       "shopid": "kanuma-fcd0aa-rakutenpay"
     },
     {
-      "name": "ザランタン鹿沼",
-      "address": "入粟野",
-      "storeid": "kanuma-b0fe5a",
-      "shopid": "kanuma-b0fe5a-rakutenpay"
-    },
-    {
-      "name": "潮田自動車修理工場",
-      "address": "板荷",
-      "storeid": "kanuma-4f81c4",
-      "shopid": "kanuma-4f81c4-rakutenpay"
-    },
-    {
-      "name": "スズラン時計店",
-      "address": "蓬莱町",
-      "storeid": "kanuma-6ec610",
-      "shopid": "kanuma-6ec610-rakutenpay"
-    },
-    {
       "name": "スキップ つぼ&リンパマッサージ スキップ",
       "address": "万町",
       "storeid": "kanuma-32eddb",
       "shopid": "kanuma-32eddb-rakutenpay"
-    },
-    {
-      "name": "ホテルファリーナドルチェ",
-      "address": "茂呂",
-      "storeid": "kanuma-e66375",
-      "shopid": "kanuma-e66375-rakutenpay"
     },
     {
       "name": "モードサロン谷口",
@@ -527,6 +509,12 @@
       "address": "緑町",
       "storeid": "kanuma-2d0e24",
       "shopid": "kanuma-2d0e24-rakutenpay"
+    },
+    {
+      "name": "hair salon Blanc",
+      "address": "緑町",
+      "storeid": "kanuma-b902e4",
+      "shopid": "kanuma-b902e4-rakutenpay"
     },
     {
       "name": "ヘアーサロンココペリ",
@@ -551,12 +539,6 @@
       "address": "緑町",
       "storeid": "kanuma-0555be",
       "shopid": "kanuma-0555be-rakutenpay"
-    },
-    {
-      "name": "トータルビューティーサロンAmour",
-      "address": "緑町",
-      "storeid": "kanuma-36127e",
-      "shopid": "kanuma-36127e-rakutenpay"
     },
     {
       "name": "美容室かんかん",
@@ -589,120 +571,24 @@
       "shopid": "kanuma-0b2d89-rakutenpay"
     }
   ],
-  "小売": [
+  "その他サービス": [
     {
-      "name": "青空オート",
+      "name": "⻘空オート",
       "address": "旭が丘",
-      "storeid": "kanuma-552671",
-      "shopid": "kanuma-552671-rakutenpay"
+      "storeid": "kanuma-82cd0d",
+      "shopid": "kanuma-82cd0d-rakutenpay"
     },
     {
-      "name": "富士トロフィー",
-      "address": "引田",
-      "storeid": "kanuma-e3cc5f",
-      "shopid": "kanuma-e3cc5f-rakutenpay"
+      "name": "ヤナシマ自動車",
+      "address": "磯町",
+      "storeid": "kanuma-e1ff03",
+      "shopid": "kanuma-e1ff03-rakutenpay"
     },
     {
-      "name": "メガネ・補聴器のヤナセ",
+      "name": "こだち行政書士事務所",
       "address": "栄町",
-      "storeid": "kanuma-c69d6d",
-      "shopid": "kanuma-c69d6d-rakutenpay"
-    },
-    {
-      "name": "ウェルネススポーツクラブ",
-      "address": "栄町",
-      "storeid": "kanuma-3c56b8",
-      "shopid": "kanuma-3c56b8-rakutenpay"
-    },
-    {
-      "name": "apollostation セルフイン茂呂山SS",
-      "address": "栄町",
-      "storeid": "kanuma-0f1de8",
-      "shopid": "kanuma-0f1de8-rakutenpay"
-    },
-    {
-      "name": "JAかみつがサービス 鹿沼農機センター",
-      "address": "塩山町",
-      "storeid": "kanuma-9bef89",
-      "shopid": "kanuma-9bef89-rakutenpay"
-    },
-    {
-      "name": "野州麻紙工房",
-      "address": "下永野",
-      "storeid": "kanuma-c5cebb",
-      "shopid": "kanuma-c5cebb-rakutenpay"
-    },
-    {
-      "name": "新川化粧品店",
-      "address": "下横町",
-      "storeid": "kanuma-2371bd",
-      "shopid": "kanuma-2371bd-rakutenpay"
-    },
-    {
-      "name": "鹿沼市勤労者福祉共済会",
-      "address": "下横町",
-      "storeid": "kanuma-a6fc23",
-      "shopid": "kanuma-a6fc23-rakutenpay"
-    },
-    {
-      "name": "いわい生花 総本店",
-      "address": "下横町",
-      "storeid": "kanuma-0e640a",
-      "shopid": "kanuma-0e640a-rakutenpay"
-    },
-    {
-      "name": "大和屋 鹿沼店",
-      "address": "下横町",
-      "storeid": "kanuma-e82b90",
-      "shopid": "kanuma-e82b90-rakutenpay"
-    },
-    {
-      "name": "秋山商店",
-      "address": "下材木町",
-      "storeid": "kanuma-3bd6af",
-      "shopid": "kanuma-3bd6af-rakutenpay"
-    },
-    {
-      "name": "鱒渕木工所",
-      "address": "下田町",
-      "storeid": "kanuma-44040a",
-      "shopid": "kanuma-44040a-rakutenpay"
-    },
-    {
-      "name": "トムカ",
-      "address": "下田町",
-      "storeid": "kanuma-12a44d",
-      "shopid": "kanuma-12a44d-rakutenpay"
-    },
-    {
-      "name": "瀬谷新聞店",
-      "address": "下田町",
-      "storeid": "kanuma-dc1da7",
-      "shopid": "kanuma-dc1da7-rakutenpay"
-    },
-    {
-      "name": "かぬま里山わいん",
-      "address": "下奈良部町",
-      "storeid": "kanuma-12bb2d",
-      "shopid": "kanuma-12bb2d-rakutenpay"
-    },
-    {
-      "name": "伊佐野商店",
-      "address": "加園",
-      "storeid": "kanuma-af7520",
-      "shopid": "kanuma-af7520-rakutenpay"
-    },
-    {
-      "name": "澤屋酒店",
-      "address": "貝島町",
-      "storeid": "kanuma-8954fb",
-      "shopid": "kanuma-8954fb-rakutenpay"
-    },
-    {
-      "name": "宇賀神新聞店",
-      "address": "貝島町",
-      "storeid": "kanuma-420268",
-      "shopid": "kanuma-420268-rakutenpay"
+      "storeid": "kanuma-79fc27",
+      "shopid": "kanuma-79fc27-rakutenpay"
     },
     {
       "name": "晃南モータース",
@@ -711,112 +597,28 @@
       "shopid": "kanuma-056528-rakutenpay"
     },
     {
-      "name": "repos",
-      "address": "亀和田町",
-      "storeid": "kanuma-3b52d8",
-      "shopid": "kanuma-3b52d8-rakutenpay"
+      "name": "リフォームかぬま",
+      "address": "貝島町",
+      "storeid": "kanuma-afe28b",
+      "shopid": "kanuma-afe28b-rakutenpay"
     },
     {
-      "name": "GalleryshopPILE",
-      "address": "久野",
-      "storeid": "kanuma-d002cf",
-      "shopid": "kanuma-d002cf-rakutenpay"
-    },
-    {
-      "name": "木挽きねこ",
-      "address": "久野",
-      "storeid": "kanuma-a8b156",
-      "shopid": "kanuma-a8b156-rakutenpay"
-    },
-    {
-      "name": "鹿野精肉店",
-      "address": "玉田町",
-      "storeid": "kanuma-e8a1bc",
-      "shopid": "kanuma-e8a1bc-rakutenpay"
-    },
-    {
-      "name": "溶接造形工房トカシツナギ",
-      "address": "玉田町",
-      "storeid": "kanuma-025c62",
-      "shopid": "kanuma-025c62-rakutenpay"
-    },
-    {
-      "name": "屋台のまち中央公園物産コーナー",
-      "address": "銀座",
-      "storeid": "kanuma-a82546",
-      "shopid": "kanuma-a82546-rakutenpay"
-    },
-    {
-      "name": "鈴木屋",
-      "address": "銀座",
-      "storeid": "kanuma-9916d6",
-      "shopid": "kanuma-9916d6-rakutenpay"
-    },
-    {
-      "name": "花吉",
+      "name": "清美館",
       "address": "口粟野",
-      "storeid": "kanuma-61075a",
-      "shopid": "kanuma-61075a-rakutenpay"
+      "storeid": "kanuma-126436",
+      "shopid": "kanuma-126436-rakutenpay"
     },
     {
-      "name": "粟野合同運輸",
-      "address": "口粟野",
-      "storeid": "kanuma-6d0d9f",
-      "shopid": "kanuma-6d0d9f-rakutenpay"
-    },
-    {
-      "name": "フローレリア アネーロ",
-      "address": "幸町",
-      "storeid": "kanuma-797739",
-      "shopid": "kanuma-797739-rakutenpay"
-    },
-    {
-      "name": "TiPi",
+      "name": "ユーケンホーム",
       "address": "晃望台",
-      "storeid": "kanuma-3e68e9",
-      "shopid": "kanuma-3e68e9-rakutenpay"
+      "storeid": "kanuma-ca12f9",
+      "shopid": "kanuma-ca12f9-rakutenpay"
     },
     {
-      "name": "石川製麺所",
-      "address": "今宮町",
-      "storeid": "kanuma-5d5846",
-      "shopid": "kanuma-5d5846-rakutenpay"
-    },
-    {
-      "name": "下野乃国米菓處木村 鹿沼店",
-      "address": "坂田山",
-      "storeid": "kanuma-368b77",
-      "shopid": "kanuma-368b77-rakutenpay"
-    },
-    {
-      "name": "飯野薬房",
-      "address": "寺町",
-      "storeid": "kanuma-ffb7b7",
-      "shopid": "kanuma-ffb7b7-rakutenpay"
-    },
-    {
-      "name": "関東メディカル 栃木営業所",
-      "address": "松原",
-      "storeid": "kanuma-a6c303",
-      "shopid": "kanuma-a6c303-rakutenpay"
-    },
-    {
-      "name": "天空",
+      "name": "モーターサービス カネダ",
       "address": "上石川",
-      "storeid": "kanuma-665b84",
-      "shopid": "kanuma-665b84-rakutenpay"
-    },
-    {
-      "name": "WestMonroe",
-      "address": "上石川",
-      "storeid": "kanuma-33dee6",
-      "shopid": "kanuma-33dee6-rakutenpay"
-    },
-    {
-      "name": "田沼商店",
-      "address": "上石川",
-      "storeid": "kanuma-ddcd38",
-      "shopid": "kanuma-ddcd38-rakutenpay"
+      "storeid": "kanuma-5bfa7b",
+      "shopid": "kanuma-5bfa7b-rakutenpay"
     },
     {
       "name": "Second Line",
@@ -825,166 +627,16 @@
       "shopid": "kanuma-547e5c-rakutenpay"
     },
     {
-      "name": "鹿沼タイヤ",
-      "address": "上殿町",
-      "storeid": "kanuma-9786e9",
-      "shopid": "kanuma-9786e9-rakutenpay"
-    },
-    {
-      "name": "ベストコンディションワタナベ",
-      "address": "上殿町",
-      "storeid": "kanuma-8bfe4b",
-      "shopid": "kanuma-8bfe4b-rakutenpay"
-    },
-    {
-      "name": "きくや酒店 鹿沼店",
-      "address": "上殿町",
-      "storeid": "kanuma-2a45a7",
-      "shopid": "kanuma-2a45a7-rakutenpay"
-    },
-    {
-      "name": "あさきん モアメーム本店",
-      "address": "上田町",
-      "storeid": "kanuma-b0276e",
-      "shopid": "kanuma-b0276e-rakutenpay"
-    },
-    {
-      "name": "ヤオハンスーパー 北部店",
-      "address": "上田町",
-      "storeid": "kanuma-9f48e4",
-      "shopid": "kanuma-9f48e4-rakutenpay"
-    },
-    {
-      "name": "木工房嶺乃雲",
-      "address": "上日向",
-      "storeid": "kanuma-d3730b",
-      "shopid": "kanuma-d3730b-rakutenpay"
-    },
-    {
-      "name": "小林酒店 上粕尾店",
-      "address": "上粕尾",
-      "storeid": "kanuma-40ad91",
-      "shopid": "kanuma-40ad91-rakutenpay"
-    },
-    {
-      "name": "邦證堂薬局",
+      "name": "ITTO個別指導学院 栃木鹿沼上野町校",
       "address": "上野町",
-      "storeid": "kanuma-dbe51e",
-      "shopid": "kanuma-dbe51e-rakutenpay"
-    },
-    {
-      "name": "Trimming&dogspa U.m(ユーエム)",
-      "address": "上野町",
-      "storeid": "kanuma-b98697",
-      "shopid": "kanuma-b98697-rakutenpay"
-    },
-    {
-      "name": "Trimmingとことこ",
-      "address": "上野町",
-      "storeid": "kanuma-b02ee4",
-      "shopid": "kanuma-b02ee4-rakutenpay"
-    },
-    {
-      "name": "サトーカメラ 鹿沼晃望台店",
-      "address": "上野町",
-      "storeid": "kanuma-02ffea",
-      "shopid": "kanuma-02ffea-rakutenpay"
-    },
-    {
-      "name": "トラック市 鹿沼店",
-      "address": "深津",
-      "storeid": "kanuma-15c856",
-      "shopid": "kanuma-15c856-rakutenpay"
-    },
-    {
-      "name": "タイヤショップ ナカヤマ",
-      "address": "深津",
-      "storeid": "kanuma-4711b0",
-      "shopid": "kanuma-4711b0-rakutenpay"
-    },
-    {
-      "name": "コバヤシファーム",
-      "address": "深津",
-      "storeid": "kanuma-454510",
-      "shopid": "kanuma-454510-rakutenpay"
-    },
-    {
-      "name": "小林産業",
-      "address": "仁神堂町",
-      "storeid": "kanuma-a3e57c",
-      "shopid": "kanuma-a3e57c-rakutenpay"
+      "storeid": "kanuma-eb7262",
+      "shopid": "kanuma-eb7262-rakutenpay"
     },
     {
       "name": "阿久津自動車",
-      "address": "西鹿沼町",
-      "storeid": "kanuma-b979e8",
-      "shopid": "kanuma-b979e8-rakutenpay"
-    },
-    {
-      "name": "ヒーローオート",
-      "address": "西沢町",
-      "storeid": "kanuma-5a7483",
-      "shopid": "kanuma-5a7483-rakutenpay"
-    },
-    {
-      "name": "和光メガネ 鹿沼店",
-      "address": "西茂呂",
-      "storeid": "kanuma-ad4ca1",
-      "shopid": "kanuma-ad4ca1-rakutenpay"
-    },
-    {
-      "name": "エムネット",
-      "address": "西茂呂",
-      "storeid": "kanuma-1a9336",
-      "shopid": "kanuma-1a9336-rakutenpay"
-    },
-    {
-      "name": "ヒーローオート 鹿沼店",
-      "address": "西茂呂",
-      "storeid": "kanuma-abc9e2",
-      "shopid": "kanuma-abc9e2-rakutenpay"
-    },
-    {
-      "name": "ピュアぶらんち",
-      "address": "西茂呂",
-      "storeid": "kanuma-57cf4c",
-      "shopid": "kanuma-57cf4c-rakutenpay"
-    },
-    {
-      "name": "バギー&トライクショップ アイム",
-      "address": "西茂呂",
-      "storeid": "kanuma-3f20cc",
-      "shopid": "kanuma-3f20cc-rakutenpay"
-    },
-    {
-      "name": "ペットクリニック井上",
-      "address": "西茂呂",
-      "storeid": "kanuma-5b1d94",
-      "shopid": "kanuma-5b1d94-rakutenpay"
-    },
-    {
-      "name": "ペットサロンINOWAVE",
-      "address": "西茂呂",
-      "storeid": "kanuma-43ce44",
-      "shopid": "kanuma-43ce44-rakutenpay"
-    },
-    {
-      "name": "嶋田屋本店",
-      "address": "西茂呂",
-      "storeid": "kanuma-08d3b3",
-      "shopid": "kanuma-08d3b3-rakutenpay"
-    },
-    {
-      "name": "上州屋 鹿沼店",
-      "address": "西茂呂",
-      "storeid": "kanuma-8e11a5",
-      "shopid": "kanuma-8e11a5-rakutenpay"
-    },
-    {
-      "name": "高橋時計店",
-      "address": "石橋町",
-      "storeid": "kanuma-0e120f",
-      "shopid": "kanuma-0e120f-rakutenpay"
+      "address": "⻄鹿沼町",
+      "storeid": "kanuma-293a0e",
+      "shopid": "kanuma-293a0e-rakutenpay"
     },
     {
       "name": "カズ・ガレージ",
@@ -993,100 +645,22 @@
       "shopid": "kanuma-ab3f6c-rakutenpay"
     },
     {
-      "name": "ファルコンロード",
+      "name": "三陽自動車整備工場",
       "address": "千渡",
-      "storeid": "kanuma-07793e",
-      "shopid": "kanuma-07793e-rakutenpay"
+      "storeid": "kanuma-f63807",
+      "shopid": "kanuma-f63807-rakutenpay"
     },
     {
-      "name": "からあげ専門寺田商店鹿沼店",
-      "address": "千渡",
-      "storeid": "kanuma-7a8e77",
-      "shopid": "kanuma-7a8e77-rakutenpay"
+      "name": "古峯神社",
+      "address": "草久",
+      "storeid": "kanuma-e80412",
+      "shopid": "kanuma-e80412-rakutenpay"
     },
     {
-      "name": "タカマルオート",
-      "address": "池ノ森",
-      "storeid": "kanuma-337e27",
-      "shopid": "kanuma-337e27-rakutenpay"
-    },
-    {
-      "name": "フタバスポーツ",
-      "address": "中田町",
-      "storeid": "kanuma-481088",
-      "shopid": "kanuma-481088-rakutenpay"
-    },
-    {
-      "name": "stchristopher",
-      "address": "仲町",
-      "storeid": "kanuma-00e2f4",
-      "shopid": "kanuma-00e2f4-rakutenpay"
-    },
-    {
-      "name": "ヤマト写真館",
-      "address": "朝日町",
-      "storeid": "kanuma-4c7c6b",
-      "shopid": "kanuma-4c7c6b-rakutenpay"
-    },
-    {
-      "name": "卓球ショップエール",
+      "name": "大倉ホンダ販売/Okura bike",
       "address": "鳥居跡町",
-      "storeid": "kanuma-33ab80",
-      "shopid": "kanuma-33ab80-rakutenpay"
-    },
-    {
-      "name": "大関種苗園",
-      "address": "鳥居跡町",
-      "storeid": "kanuma-58db1d",
-      "shopid": "kanuma-58db1d-rakutenpay"
-    },
-    {
-      "name": "Okura bike(オオクラバイク)",
-      "address": "鳥居跡町",
-      "storeid": "kanuma-14ef6d",
-      "shopid": "kanuma-14ef6d-rakutenpay"
-    },
-    {
-      "name": "hanadocoro enn",
-      "address": "天神町",
-      "storeid": "kanuma-4f6a6d",
-      "shopid": "kanuma-4f6a6d-rakutenpay"
-    },
-    {
-      "name": "フレンチ×薬膳 オードヴィ",
-      "address": "天神町",
-      "storeid": "kanuma-c8b955",
-      "shopid": "kanuma-c8b955-rakutenpay"
-    },
-    {
-      "name": "カサハラ",
-      "address": "東町",
-      "storeid": "kanuma-41864d",
-      "shopid": "kanuma-41864d-rakutenpay"
-    },
-    {
-      "name": "フラワーヒルズ",
-      "address": "東町",
-      "storeid": "kanuma-b3930f",
-      "shopid": "kanuma-b3930f-rakutenpay"
-    },
-    {
-      "name": "上野文具 鹿沼店",
-      "address": "東末広町",
-      "storeid": "kanuma-e6e670",
-      "shopid": "kanuma-e6e670-rakutenpay"
-    },
-    {
-      "name": "大貫燃料",
-      "address": "東末広町",
-      "storeid": "kanuma-c72d0c",
-      "shopid": "kanuma-c72d0c-rakutenpay"
-    },
-    {
-      "name": "TNBファーム",
-      "address": "藤江町",
-      "storeid": "kanuma-ee2e05",
-      "shopid": "kanuma-ee2e05-rakutenpay"
+      "storeid": "kanuma-0b2553",
+      "shopid": "kanuma-0b2553-rakutenpay"
     },
     {
       "name": "宇賀神モータース",
@@ -1095,136 +669,40 @@
       "shopid": "kanuma-898273-rakutenpay"
     },
     {
-      "name": "渡辺りんご園",
-      "address": "栃窪",
-      "storeid": "kanuma-d30961",
-      "shopid": "kanuma-d30961-rakutenpay"
-    },
-    {
-      "name": "かぬまさつき鉢センターせきぐち",
-      "address": "奈佐原町",
-      "storeid": "kanuma-e1f084",
-      "shopid": "kanuma-e1f084-rakutenpay"
-    },
-    {
-      "name": "JAかみつがサービス",
-      "address": "奈佐原町",
-      "storeid": "kanuma-b96af5",
-      "shopid": "kanuma-b96af5-rakutenpay"
-    },
-    {
       "name": "ワタナベ自動車工業",
       "address": "奈佐原町",
       "storeid": "kanuma-772b84",
       "shopid": "kanuma-772b84-rakutenpay"
     },
     {
-      "name": "中條商店 富岡店",
-      "address": "富岡",
-      "storeid": "kanuma-db68ce",
-      "shopid": "kanuma-db68ce-rakutenpay"
+      "name": "潮田自動車修理工場",
+      "address": "板荷",
+      "storeid": "kanuma-4f81c4",
+      "shopid": "kanuma-4f81c4-rakutenpay"
     },
     {
-      "name": "文化堂書店",
-      "address": "蓬莱町",
-      "storeid": "kanuma-a5457e",
-      "shopid": "kanuma-a5457e-rakutenpay"
+      "name": "エスエスボディワークス",
+      "address": "板荷",
+      "storeid": "kanuma-55a20b",
+      "shopid": "kanuma-55a20b-rakutenpay"
     },
     {
-      "name": "天然石 Bang・Bang",
-      "address": "蓬莱町",
-      "storeid": "kanuma-9c2e28",
-      "shopid": "kanuma-9c2e28-rakutenpay"
+      "name": "総合通信",
+      "address": "府中町",
+      "storeid": "kanuma-8a699f",
+      "shopid": "kanuma-8a699f-rakutenpay"
     },
     {
-      "name": "文挟洋服店",
-      "address": "蓬莱町",
-      "storeid": "kanuma-bf0338",
-      "shopid": "kanuma-bf0338-rakutenpay"
+      "name": "荒川自動車工業",
+      "address": "府中町",
+      "storeid": "kanuma-c3c203",
+      "shopid": "kanuma-c3c203-rakutenpay"
     },
     {
-      "name": "カギしっぽ Ren",
-      "address": "睦町",
-      "storeid": "kanuma-3a9865",
-      "shopid": "kanuma-3a9865-rakutenpay"
-    },
-    {
-      "name": "渡辺カメラ店",
-      "address": "末広町",
-      "storeid": "kanuma-b0f207",
-      "shopid": "kanuma-b0f207-rakutenpay"
-    },
-    {
-      "name": "荒川家具",
-      "address": "末広町",
-      "storeid": "kanuma-e13beb",
-      "shopid": "kanuma-e13beb-rakutenpay"
-    },
-    {
-      "name": "リビングカマトク 鹿沼本店",
+      "name": "オートショップアラカワ",
       "address": "茂呂",
-      "storeid": "kanuma-014898",
-      "shopid": "kanuma-014898-rakutenpay"
-    },
-    {
-      "name": "コレクション・サンタ",
-      "address": "茂呂",
-      "storeid": "kanuma-0b0461",
-      "shopid": "kanuma-0b0461-rakutenpay"
-    },
-    {
-      "name": "タイヤサービス鹿沼",
-      "address": "茂呂",
-      "storeid": "kanuma-ac599b",
-      "shopid": "kanuma-ac599b-rakutenpay"
-    },
-    {
-      "name": "HondaCars 栃木中央 鹿沼インター店",
-      "address": "茂呂",
-      "storeid": "kanuma-f95f5b",
-      "shopid": "kanuma-f95f5b-rakutenpay"
-    },
-    {
-      "name": "グリーン アルファ",
-      "address": "茂呂",
-      "storeid": "kanuma-99aaeb",
-      "shopid": "kanuma-99aaeb-rakutenpay"
-    },
-    {
-      "name": "ミスタータイヤマン 鹿沼店",
-      "address": "茂呂",
-      "storeid": "kanuma-c741e2",
-      "shopid": "kanuma-c741e2-rakutenpay"
-    },
-    {
-      "name": "ダイヤオート",
-      "address": "茂呂",
-      "storeid": "kanuma-ff53bb",
-      "shopid": "kanuma-ff53bb-rakutenpay"
-    },
-    {
-      "name": "EscapeTempleMOTOR'S",
-      "address": "茂呂",
-      "storeid": "kanuma-61a239",
-      "shopid": "kanuma-61a239-rakutenpay"
-    },
-    {
-      "name": "つけもの樋山 鹿沼店",
-      "address": "茂呂",
-      "storeid": "kanuma-fa4f6a",
-      "shopid": "kanuma-fa4f6a-rakutenpay"
-    },
-    {
-      "name": "皐月 盆栽 渋谷園",
-      "address": "茂呂",
-      "storeid": "kanuma-9e7a3a",
-      "shopid": "kanuma-9e7a3a-rakutenpay"
-    },
-    {
-      "name": "Ladybird",
-      "address": "茂呂",
-      "storeid": "kanuma-135ba9",
-      "shopid": "kanuma-135ba9-rakutenpay"
+      "storeid": "kanuma-436db8",
+      "shopid": "kanuma-436db8-rakutenpay"
     },
     {
       "name": "コバヤシオート",
@@ -1233,22 +711,16 @@
       "shopid": "kanuma-931b12-rakutenpay"
     },
     {
-      "name": "鹿沼市花木センター",
-      "address": "茂呂",
-      "storeid": "kanuma-9a706c",
-      "shopid": "kanuma-9a706c-rakutenpay"
-    },
-    {
-      "name": "大栄ドレス",
-      "address": "茂呂",
-      "storeid": "kanuma-029585",
-      "shopid": "kanuma-029585-rakutenpay"
-    },
-    {
       "name": "宇都宮自動車",
       "address": "茂呂",
       "storeid": "kanuma-051458",
       "shopid": "kanuma-051458-rakutenpay"
+    },
+    {
+      "name": "ワイエスオートクラフト",
+      "address": "茂呂",
+      "storeid": "kanuma-4e33e7",
+      "shopid": "kanuma-4e33e7-rakutenpay"
     },
     {
       "name": "センド オートサービス",
@@ -1257,52 +729,22 @@
       "shopid": "kanuma-b1c0a4-rakutenpay"
     },
     {
-      "name": "Arreda 鹿沼店",
-      "address": "茂呂",
-      "storeid": "kanuma-157f0b",
-      "shopid": "kanuma-157f0b-rakutenpay"
-    },
-    {
-      "name": "SOU LABO",
-      "address": "茂呂",
-      "storeid": "kanuma-920ca2",
-      "shopid": "kanuma-920ca2-rakutenpay"
-    },
-    {
       "name": "福田自動車工業",
       "address": "野尻",
       "storeid": "kanuma-af6700",
       "shopid": "kanuma-af6700-rakutenpay"
     },
     {
-      "name": "Rose Medaka",
-      "address": "野沢町",
-      "storeid": "kanuma-fb3bac",
-      "shopid": "kanuma-fb3bac-rakutenpay"
+      "name": "パソコン回復工房おおの",
+      "address": "緑町",
+      "storeid": "kanuma-71d701",
+      "shopid": "kanuma-71d701-rakutenpay"
     },
     {
-      "name": "ACID CANDY",
-      "address": "緑町",
-      "storeid": "kanuma-c9e1d7",
-      "shopid": "kanuma-c9e1d7-rakutenpay"
-    },
-    {
-      "name": "MATSUYA OFFICE PORTAL",
-      "address": "緑町",
-      "storeid": "kanuma-301091",
-      "shopid": "kanuma-301091-rakutenpay"
-    },
-    {
-      "name": "金田建設",
-      "address": "緑町",
-      "storeid": "kanuma-476afc",
-      "shopid": "kanuma-476afc-rakutenpay"
-    },
-    {
-      "name": "ガレージジャパン",
-      "address": "緑町",
-      "storeid": "kanuma-5b34d5",
-      "shopid": "kanuma-5b34d5-rakutenpay"
+      "name": "伊藤自動車整備工場",
+      "address": "楡木町",
+      "storeid": "kanuma-7914e0",
+      "shopid": "kanuma-7914e0-rakutenpay"
     },
     {
       "name": "稲穂フィッシュファーム",
@@ -1319,18 +761,6 @@
       "shopid": "kanuma-bc9226-rakutenpay"
     },
     {
-      "name": "哈爾濱菜館",
-      "address": "栄町",
-      "storeid": "kanuma-1fd23b",
-      "shopid": "kanuma-1fd23b-rakutenpay"
-    },
-    {
-      "name": "3 SMILE",
-      "address": "栄町",
-      "storeid": "kanuma-fec9f3",
-      "shopid": "kanuma-fec9f3-rakutenpay"
-    },
-    {
       "name": "ごはんの扉",
       "address": "栄町",
       "storeid": "kanuma-51bdfa",
@@ -1343,10 +773,10 @@
       "shopid": "kanuma-f694c1-rakutenpay"
     },
     {
-      "name": "寿司長",
+      "name": "寿司⻑",
       "address": "栄町",
-      "storeid": "kanuma-f8d672",
-      "shopid": "kanuma-f8d672-rakutenpay"
+      "storeid": "kanuma-142db2",
+      "shopid": "kanuma-142db2-rakutenpay"
     },
     {
       "name": "手打ちラーメン蔵八 鹿沼店",
@@ -1361,12 +791,6 @@
       "shopid": "kanuma-f04edb-rakutenpay"
     },
     {
-      "name": "れすとらん フォンテーヌ",
-      "address": "下永野",
-      "storeid": "kanuma-f372a6",
-      "shopid": "kanuma-f372a6-rakutenpay"
-    },
-    {
       "name": "サウンドカフェなかじ",
       "address": "下田町",
       "storeid": "kanuma-4171a6",
@@ -1379,28 +803,10 @@
       "shopid": "kanuma-c80fba-rakutenpay"
     },
     {
-      "name": "叶実",
-      "address": "下南摩町",
-      "storeid": "kanuma-206ab8",
-      "shopid": "kanuma-206ab8-rakutenpay"
-    },
-    {
-      "name": "K'MAX",
-      "address": "貝島町",
-      "storeid": "kanuma-350f08",
-      "shopid": "kanuma-350f08-rakutenpay"
-    },
-    {
       "name": "豊商店",
       "address": "貝島町",
       "storeid": "kanuma-909fe5",
       "shopid": "kanuma-909fe5-rakutenpay"
-    },
-    {
-      "name": "ライオンスポーツ",
-      "address": "貝島町",
-      "storeid": "kanuma-1acd8e",
-      "shopid": "kanuma-1acd8e-rakutenpay"
     },
     {
       "name": "おもだか",
@@ -1410,27 +816,15 @@
     },
     {
       "name": "ボクらのひみつきち",
-      "address": "亀和田町",
-      "storeid": "kanuma-a32f25",
-      "shopid": "kanuma-a32f25-rakutenpay"
-    },
-    {
-      "name": "いせ茂 本店",
-      "address": "久保町",
-      "storeid": "kanuma-8d4e0e",
-      "shopid": "kanuma-8d4e0e-rakutenpay"
+      "address": "⻲和田町",
+      "storeid": "kanuma-9198d5",
+      "shopid": "kanuma-9198d5-rakutenpay"
     },
     {
       "name": "串カツJu-So",
       "address": "久保町",
       "storeid": "kanuma-04cd13",
       "shopid": "kanuma-04cd13-rakutenpay"
-    },
-    {
-      "name": "YAMAKOSHI TRADING",
-      "address": "玉田町",
-      "storeid": "kanuma-712b4b",
-      "shopid": "kanuma-712b4b-rakutenpay"
     },
     {
       "name": "ベイクショップ    カンタービレ",
@@ -1443,6 +837,12 @@
       "address": "銀座",
       "storeid": "kanuma-488acc",
       "shopid": "kanuma-488acc-rakutenpay"
+    },
+    {
+      "name": "ろ馬鹿",
+      "address": "銀座",
+      "storeid": "kanuma-0024c6",
+      "shopid": "kanuma-0024c6-rakutenpay"
     },
     {
       "name": "ずずギンザ",
@@ -1463,22 +863,10 @@
       "shopid": "kanuma-5f0317-rakutenpay"
     },
     {
-      "name": "KENNY'S TACOS",
-      "address": "御成橋町",
-      "storeid": "kanuma-a72962",
-      "shopid": "kanuma-a72962-rakutenpay"
-    },
-    {
       "name": "マレタケ荘喫茶室ソラソラ",
       "address": "口粟野",
       "storeid": "kanuma-2fab81",
       "shopid": "kanuma-2fab81-rakutenpay"
-    },
-    {
-      "name": "中華そば 田田",
-      "address": "幸町",
-      "storeid": "kanuma-893753",
-      "shopid": "kanuma-893753-rakutenpay"
     },
     {
       "name": "ベッカライ・ディ・シュトラーセ",
@@ -1493,18 +881,6 @@
       "shopid": "kanuma-d17bba-rakutenpay"
     },
     {
-      "name": "おうちサロン Sourire",
-      "address": "坂田山",
-      "storeid": "kanuma-4a7a0a",
-      "shopid": "kanuma-4a7a0a-rakutenpay"
-    },
-    {
-      "name": "なゆた庵",
-      "address": "上久我",
-      "storeid": "kanuma-71aee5",
-      "shopid": "kanuma-71aee5-rakutenpay"
-    },
-    {
       "name": "酒場食堂イナリノトナリ",
       "address": "上材木町",
       "storeid": "kanuma-7e87ea",
@@ -1515,12 +891,6 @@
       "address": "上石川",
       "storeid": "kanuma-df22d2",
       "shopid": "kanuma-df22d2-rakutenpay"
-    },
-    {
-      "name": "らーめんMOUKOKU",
-      "address": "上石川",
-      "storeid": "kanuma-ebe6c2",
-      "shopid": "kanuma-ebe6c2-rakutenpay"
     },
     {
       "name": "うなぎ 土用亭",
@@ -1553,16 +923,16 @@
       "shopid": "kanuma-81ffe7-rakutenpay"
     },
     {
-      "name": "上南摩そば竜がい",
-      "address": "上南摩町",
-      "storeid": "kanuma-fd578a",
-      "shopid": "kanuma-fd578a-rakutenpay"
-    },
-    {
       "name": "Nikko Coffee Roku",
       "address": "上南摩町沢口",
       "storeid": "kanuma-558341",
       "shopid": "kanuma-558341-rakutenpay"
+    },
+    {
+      "name": "上南摩そば⻯がい",
+      "address": "上南摩町",
+      "storeid": "kanuma-dba7e1",
+      "shopid": "kanuma-dba7e1-rakutenpay"
     },
     {
       "name": "パティスリーHANA",
@@ -1607,88 +977,100 @@
       "shopid": "kanuma-501670-rakutenpay"
     },
     {
-      "name": "黒子松屋本店",
+      "name": "⿊子松屋本店",
       "address": "深程",
-      "storeid": "kanuma-f51f78",
-      "shopid": "kanuma-f51f78-rakutenpay"
+      "storeid": "kanuma-05b752",
+      "shopid": "kanuma-05b752-rakutenpay"
     },
     {
-      "name": "こがねちゃん弁当 西鹿沼店",
-      "address": "西鹿沼町",
-      "storeid": "kanuma-b2144d",
-      "shopid": "kanuma-b2144d-rakutenpay"
+      "name": "こがねちゃん弁当 ⻄鹿沼店",
+      "address": "⻄鹿沼町",
+      "storeid": "kanuma-42fcf2",
+      "shopid": "kanuma-42fcf2-rakutenpay"
     },
     {
       "name": "一本杉農園 湯気",
-      "address": "西沢町",
-      "storeid": "kanuma-cc4403",
-      "shopid": "kanuma-cc4403-rakutenpay"
+      "address": "⻄沢町",
+      "storeid": "kanuma-446d9b",
+      "shopid": "kanuma-446d9b-rakutenpay"
     },
     {
       "name": "一本杉農園",
-      "address": "西沢町",
-      "storeid": "kanuma-64f38d",
-      "shopid": "kanuma-64f38d-rakutenpay"
+      "address": "⻄沢町",
+      "storeid": "kanuma-475058",
+      "shopid": "kanuma-475058-rakutenpay"
     },
     {
-      "name": "西沢町の農園焼きとうもろこし家さん",
-      "address": "西沢町",
-      "storeid": "kanuma-4786bf",
-      "shopid": "kanuma-4786bf-rakutenpay"
+      "name": "⻄沢町の農園焼きとうもろこし家さん",
+      "address": "⻄沢町",
+      "storeid": "kanuma-6338af",
+      "shopid": "kanuma-6338af-rakutenpay"
     },
     {
       "name": "ZERO",
-      "address": "西茂呂",
-      "storeid": "kanuma-df03f4",
-      "shopid": "kanuma-df03f4-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-0ad2a1",
+      "shopid": "kanuma-0ad2a1-rakutenpay"
     },
     {
       "name": "サウンドJUJU",
-      "address": "西茂呂",
-      "storeid": "kanuma-560149",
-      "shopid": "kanuma-560149-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-da6e5d",
+      "shopid": "kanuma-da6e5d-rakutenpay"
     },
     {
       "name": "BARMOONSHINE",
-      "address": "西茂呂",
-      "storeid": "kanuma-511dde",
-      "shopid": "kanuma-511dde-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-857be3",
+      "shopid": "kanuma-857be3-rakutenpay"
+    },
+    {
+      "name": "居酒屋 栞",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-ffb1a8",
+      "shopid": "kanuma-ffb1a8-rakutenpay"
+    },
+    {
+      "name": "Airon Bake Shop",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-fadb4f",
+      "shopid": "kanuma-fadb4f-rakutenpay"
     },
     {
       "name": "Maco Cafe",
-      "address": "西茂呂",
-      "storeid": "kanuma-79bcdb",
-      "shopid": "kanuma-79bcdb-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-16f262",
+      "shopid": "kanuma-16f262-rakutenpay"
     },
     {
       "name": "たこ焼き和",
-      "address": "西茂呂",
-      "storeid": "kanuma-23f71f",
-      "shopid": "kanuma-23f71f-rakutenpay"
-    },
-    {
-      "name": "芭莉PAN田",
-      "address": "西茂呂",
-      "storeid": "kanuma-614c94",
-      "shopid": "kanuma-614c94-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-047908",
+      "shopid": "kanuma-047908-rakutenpay"
     },
     {
       "name": "そば割烹 日晃",
-      "address": "西茂呂",
-      "storeid": "kanuma-85eee0",
-      "shopid": "kanuma-85eee0-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-8793c3",
+      "shopid": "kanuma-8793c3-rakutenpay"
     },
     {
       "name": "食と酒 穂乃花",
-      "address": "西茂呂",
-      "storeid": "kanuma-b2b214",
-      "shopid": "kanuma-b2b214-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-f2e9d5",
+      "shopid": "kanuma-f2e9d5-rakutenpay"
+    },
+    {
+      "name": "ラーメン 山いち",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-489e09",
+      "shopid": "kanuma-489e09-rakutenpay"
     },
     {
       "name": "お好み焼 道とん堀 鹿沼店",
-      "address": "西茂呂",
-      "storeid": "kanuma-cc17bf",
-      "shopid": "kanuma-cc17bf-rakutenpay"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-ae6e88",
+      "shopid": "kanuma-ae6e88-rakutenpay"
     },
     {
       "name": "コッペパン専門店 JOURNEY 鹿沼店",
@@ -1703,28 +1085,10 @@
       "shopid": "kanuma-baca61-rakutenpay"
     },
     {
-      "name": "復興食堂 ゆめ広場",
-      "address": "千渡",
-      "storeid": "kanuma-898323",
-      "shopid": "kanuma-898323-rakutenpay"
-    },
-    {
       "name": "キッチンCOMORE",
       "address": "千渡",
       "storeid": "kanuma-54f223",
       "shopid": "kanuma-54f223-rakutenpay"
-    },
-    {
-      "name": "古峯神社",
-      "address": "草久",
-      "storeid": "kanuma-e80412",
-      "shopid": "kanuma-e80412-rakutenpay"
-    },
-    {
-      "name": "居酒屋 陽の丸",
-      "address": "池ノ森",
-      "storeid": "kanuma-3c7eca",
-      "shopid": "kanuma-3c7eca-rakutenpay"
     },
     {
       "name": "KEYHOLE",
@@ -1733,16 +1097,16 @@
       "shopid": "kanuma-4d7dc0-rakutenpay"
     },
     {
-      "name": "ろ馬鹿",
-      "address": "仲町",
-      "storeid": "kanuma-61898b",
-      "shopid": "kanuma-61898b-rakutenpay"
-    },
-    {
       "name": "まちの駅弁 もうもう亭",
       "address": "仲町",
       "storeid": "kanuma-ed2678",
       "shopid": "kanuma-ed2678-rakutenpay"
+    },
+    {
+      "name": "鹿沼そば大越路",
+      "address": "仲町",
+      "storeid": "kanuma-0100cf",
+      "shopid": "kanuma-0100cf-rakutenpay"
     },
     {
       "name": "BAR DAIHOJI",
@@ -1757,34 +1121,22 @@
       "shopid": "kanuma-5f1c32-rakutenpay"
     },
     {
+      "name": "TRAIL BERRY",
+      "address": "鳥居跡町",
+      "storeid": "kanuma-ef1c09",
+      "shopid": "kanuma-ef1c09-rakutenpay"
+    },
+    {
       "name": "ずず新鹿沼駅前店",
       "address": "鳥居跡町",
       "storeid": "kanuma-5a7143",
       "shopid": "kanuma-5a7143-rakutenpay"
     },
     {
-      "name": "ピザーラ 鹿沼店",
-      "address": "天神町",
-      "storeid": "kanuma-bcb9b9",
-      "shopid": "kanuma-bcb9b9-rakutenpay"
-    },
-    {
       "name": "アジアンちゃんぷるぅムード東洋",
       "address": "東町",
       "storeid": "kanuma-34b057",
       "shopid": "kanuma-34b057-rakutenpay"
-    },
-    {
-      "name": "3匹のふくろう",
-      "address": "東末広町",
-      "storeid": "kanuma-33c5f3",
-      "shopid": "kanuma-33c5f3-rakutenpay"
-    },
-    {
-      "name": "PALM TREE",
-      "address": "東末広町",
-      "storeid": "kanuma-55ea26",
-      "shopid": "kanuma-55ea26-rakutenpay"
     },
     {
       "name": "カスケードガーデン",
@@ -1815,6 +1167,12 @@
       "address": "日吉町",
       "storeid": "kanuma-07e01c",
       "shopid": "kanuma-07e01c-rakutenpay"
+    },
+    {
+      "name": "ろばた御食事処 山里",
+      "address": "板荷",
+      "storeid": "kanuma-7fe9dd",
+      "shopid": "kanuma-7fe9dd-rakutenpay"
     },
     {
       "name": "HANGOUT",
@@ -1865,30 +1223,240 @@
       "shopid": "kanuma-93c22f-rakutenpay"
     },
     {
-      "name": "魚民 鹿沼晃望台店",
+      "name": "鹿沼市学校給食パン工房",
+      "address": "野沢町",
+      "storeid": "kanuma-5b562f",
+      "shopid": "kanuma-5b562f-rakutenpay"
+    },
+    {
+      "name": "魚⺠ 鹿沼晃望台店",
       "address": "緑町",
-      "storeid": "kanuma-151e31",
-      "shopid": "kanuma-151e31-rakutenpay"
+      "storeid": "kanuma-937004",
+      "shopid": "kanuma-937004-rakutenpay"
     }
   ],
-  "エンタメ・レジャー": [
+  "小売": [
     {
-      "name": "REDROCKキャンプ場",
-      "address": "下沢",
-      "storeid": "kanuma-2bb1d7",
-      "shopid": "kanuma-2bb1d7-rakutenpay"
+      "name": "富士トロフィー",
+      "address": "引田",
+      "storeid": "kanuma-e3cc5f",
+      "shopid": "kanuma-e3cc5f-rakutenpay"
     },
     {
-      "name": "牛屋の肉屋よこお",
+      "name": "Tiger Heart",
+      "address": "栄町",
+      "storeid": "kanuma-81da7b",
+      "shopid": "kanuma-81da7b-rakutenpay"
+    },
+    {
+      "name": "メガネ・補聴器のヤナセ",
+      "address": "栄町",
+      "storeid": "kanuma-c69d6d",
+      "shopid": "kanuma-c69d6d-rakutenpay"
+    },
+    {
+      "name": "JAかみつがサービス 鹿沼農機センター",
+      "address": "塩山町",
+      "storeid": "kanuma-9bef89",
+      "shopid": "kanuma-9bef89-rakutenpay"
+    },
+    {
+      "name": "野州麻紙工房",
+      "address": "下永野",
+      "storeid": "kanuma-c5cebb",
+      "shopid": "kanuma-c5cebb-rakutenpay"
+    },
+    {
+      "name": "鹿沼市勤労者福祉共済会",
+      "address": "下横町",
+      "storeid": "kanuma-a6fc23",
+      "shopid": "kanuma-a6fc23-rakutenpay"
+    },
+    {
+      "name": "いわい生花 総本店",
+      "address": "下横町",
+      "storeid": "kanuma-0e640a",
+      "shopid": "kanuma-0e640a-rakutenpay"
+    },
+    {
+      "name": "秋山商店",
+      "address": "下材木町",
+      "storeid": "kanuma-3bd6af",
+      "shopid": "kanuma-3bd6af-rakutenpay"
+    },
+    {
+      "name": "鱒渕木工所",
+      "address": "下田町",
+      "storeid": "kanuma-44040a",
+      "shopid": "kanuma-44040a-rakutenpay"
+    },
+    {
+      "name": "トムカ",
+      "address": "下田町",
+      "storeid": "kanuma-12a44d",
+      "shopid": "kanuma-12a44d-rakutenpay"
+    },
+    {
+      "name": "瀬谷新聞店",
+      "address": "下田町",
+      "storeid": "kanuma-dc1da7",
+      "shopid": "kanuma-dc1da7-rakutenpay"
+    },
+    {
+      "name": "パティスリーラフォセット",
+      "address": "下田町",
+      "storeid": "kanuma-9f601b",
+      "shopid": "kanuma-9f601b-rakutenpay"
+    },
+    {
+      "name": "かぬま里山わいん",
+      "address": "下奈良部町",
+      "storeid": "kanuma-12bb2d",
+      "shopid": "kanuma-12bb2d-rakutenpay"
+    },
+    {
+      "name": "叶実",
+      "address": "下南摩町",
+      "storeid": "kanuma-206ab8",
+      "shopid": "kanuma-206ab8-rakutenpay"
+    },
+    {
+      "name": "伊佐野商店",
+      "address": "加園",
+      "storeid": "kanuma-af7520",
+      "shopid": "kanuma-af7520-rakutenpay"
+    },
+    {
+      "name": "澤屋酒店",
+      "address": "貝島町",
+      "storeid": "kanuma-8954fb",
+      "shopid": "kanuma-8954fb-rakutenpay"
+    },
+    {
+      "name": "ライオンスポーツ",
+      "address": "貝島町",
+      "storeid": "kanuma-1acd8e",
+      "shopid": "kanuma-1acd8e-rakutenpay"
+    },
+    {
+      "name": "宇賀神新聞店",
+      "address": "貝島町",
+      "storeid": "kanuma-420268",
+      "shopid": "kanuma-420268-rakutenpay"
+    },
+    {
+      "name": "repos",
+      "address": "⻲和田町",
+      "storeid": "kanuma-2b2ec8",
+      "shopid": "kanuma-2b2ec8-rakutenpay"
+    },
+    {
+      "name": "いせ茂 本店",
+      "address": "久保町",
+      "storeid": "kanuma-8d4e0e",
+      "shopid": "kanuma-8d4e0e-rakutenpay"
+    },
+    {
+      "name": "GalleryshopPILE",
       "address": "久野",
-      "storeid": "kanuma-b0e163",
-      "shopid": "kanuma-b0e163-rakutenpay"
+      "storeid": "kanuma-d002cf",
+      "shopid": "kanuma-d002cf-rakutenpay"
     },
     {
-      "name": "サバゲランドTMD",
+      "name": "木挽きねこ",
+      "address": "久野",
+      "storeid": "kanuma-a8b156",
+      "shopid": "kanuma-a8b156-rakutenpay"
+    },
+    {
+      "name": "鹿野精肉店",
       "address": "玉田町",
-      "storeid": "kanuma-e0bf35",
-      "shopid": "kanuma-e0bf35-rakutenpay"
+      "storeid": "kanuma-e8a1bc",
+      "shopid": "kanuma-e8a1bc-rakutenpay"
+    },
+    {
+      "name": "溶接造形工房トカシツナギ",
+      "address": "玉田町",
+      "storeid": "kanuma-025c62",
+      "shopid": "kanuma-025c62-rakutenpay"
+    },
+    {
+      "name": "YAMAKOSHI TRADING",
+      "address": "玉田町",
+      "storeid": "kanuma-712b4b",
+      "shopid": "kanuma-712b4b-rakutenpay"
+    },
+    {
+      "name": "TB TAKA-BEN 高弁木工所",
+      "address": "玉田町",
+      "storeid": "kanuma-9ede4a",
+      "shopid": "kanuma-9ede4a-rakutenpay"
+    },
+    {
+      "name": "おこんにゃく茶屋",
+      "address": "銀座",
+      "storeid": "kanuma-9261bb",
+      "shopid": "kanuma-9261bb-rakutenpay"
+    },
+    {
+      "name": "屋台のまち中央公園物産コーナー",
+      "address": "銀座",
+      "storeid": "kanuma-a82546",
+      "shopid": "kanuma-a82546-rakutenpay"
+    },
+    {
+      "name": "鈴木屋",
+      "address": "銀座",
+      "storeid": "kanuma-9916d6",
+      "shopid": "kanuma-9916d6-rakutenpay"
+    },
+    {
+      "name": "AceAutoService",
+      "address": "見野",
+      "storeid": "kanuma-dc405b",
+      "shopid": "kanuma-dc405b-rakutenpay"
+    },
+    {
+      "name": "花吉",
+      "address": "口粟野",
+      "storeid": "kanuma-61075a",
+      "shopid": "kanuma-61075a-rakutenpay"
+    },
+    {
+      "name": "粟野合同運輸",
+      "address": "口粟野",
+      "storeid": "kanuma-6d0d9f",
+      "shopid": "kanuma-6d0d9f-rakutenpay"
+    },
+    {
+      "name": "フローレリア アネーロ",
+      "address": "幸町",
+      "storeid": "kanuma-797739",
+      "shopid": "kanuma-797739-rakutenpay"
+    },
+    {
+      "name": "TiPi",
+      "address": "晃望台",
+      "storeid": "kanuma-3e68e9",
+      "shopid": "kanuma-3e68e9-rakutenpay"
+    },
+    {
+      "name": "石川製麺所",
+      "address": "今宮町",
+      "storeid": "kanuma-5d5846",
+      "shopid": "kanuma-5d5846-rakutenpay"
+    },
+    {
+      "name": "下野乃国米菓處木村 鹿沼店",
+      "address": "坂田山",
+      "storeid": "kanuma-368b77",
+      "shopid": "kanuma-368b77-rakutenpay"
+    },
+    {
+      "name": "飯野薬房",
+      "address": "寺町",
+      "storeid": "kanuma-ffb7b7",
+      "shopid": "kanuma-ffb7b7-rakutenpay"
     },
     {
       "name": "出会いの森いちご園",
@@ -1897,18 +1465,706 @@
       "shopid": "kanuma-932264-rakutenpay"
     },
     {
+      "name": "関東メディカル 栃木営業所",
+      "address": "松原",
+      "storeid": "kanuma-a6c303",
+      "shopid": "kanuma-a6c303-rakutenpay"
+    },
+    {
+      "name": "KOIDE",
+      "address": "上久我",
+      "storeid": "kanuma-6a8ebe",
+      "shopid": "kanuma-6a8ebe-rakutenpay"
+    },
+    {
+      "name": "WestMonroe",
+      "address": "上石川",
+      "storeid": "kanuma-33dee6",
+      "shopid": "kanuma-33dee6-rakutenpay"
+    },
+    {
+      "name": "田沼商店",
+      "address": "上石川",
+      "storeid": "kanuma-ddcd38",
+      "shopid": "kanuma-ddcd38-rakutenpay"
+    },
+    {
+      "name": "鹿沼タイヤ",
+      "address": "上殿町",
+      "storeid": "kanuma-9786e9",
+      "shopid": "kanuma-9786e9-rakutenpay"
+    },
+    {
+      "name": "きくや酒店 鹿沼店",
+      "address": "上殿町",
+      "storeid": "kanuma-2a45a7",
+      "shopid": "kanuma-2a45a7-rakutenpay"
+    },
+    {
+      "name": "あさきん モアメーム本店",
+      "address": "上田町",
+      "storeid": "kanuma-b0276e",
+      "shopid": "kanuma-b0276e-rakutenpay"
+    },
+    {
+      "name": "小林酒店 上粕尾店",
+      "address": "上粕尾",
+      "storeid": "kanuma-40ad91",
+      "shopid": "kanuma-40ad91-rakutenpay"
+    },
+    {
+      "name": "邦證堂薬局",
+      "address": "上野町",
+      "storeid": "kanuma-dbe51e",
+      "shopid": "kanuma-dbe51e-rakutenpay"
+    },
+    {
+      "name": "Trimming&dogspa U.m(ユーエム)",
+      "address": "上野町",
+      "storeid": "kanuma-b98697",
+      "shopid": "kanuma-b98697-rakutenpay"
+    },
+    {
+      "name": "Trimmingとことこ",
+      "address": "上野町",
+      "storeid": "kanuma-b02ee4",
+      "shopid": "kanuma-b02ee4-rakutenpay"
+    },
+    {
+      "name": "お菓子の家うさちゃんち",
+      "address": "上野町",
+      "storeid": "kanuma-1536d7",
+      "shopid": "kanuma-1536d7-rakutenpay"
+    },
+    {
+      "name": "トラック市 鹿沼店",
+      "address": "深津",
+      "storeid": "kanuma-15c856",
+      "shopid": "kanuma-15c856-rakutenpay"
+    },
+    {
+      "name": "宇佐美 鹿沼インターSS",
+      "address": "深津字向ノ内",
+      "storeid": "kanuma-d6b358",
+      "shopid": "kanuma-d6b358-rakutenpay"
+    },
+    {
+      "name": "タイヤショップ ナカヤマ",
+      "address": "深津",
+      "storeid": "kanuma-4711b0",
+      "shopid": "kanuma-4711b0-rakutenpay"
+    },
+    {
+      "name": "コバヤシファーム",
+      "address": "深津",
+      "storeid": "kanuma-454510",
+      "shopid": "kanuma-454510-rakutenpay"
+    },
+    {
+      "name": "小林産業",
+      "address": "仁神堂町",
+      "storeid": "kanuma-a3e57c",
+      "shopid": "kanuma-a3e57c-rakutenpay"
+    },
+    {
+      "name": "カールーム",
+      "address": "⻄鹿沼町",
+      "storeid": "kanuma-880926",
+      "shopid": "kanuma-880926-rakutenpay"
+    },
+    {
+      "name": "ヒーローオート",
+      "address": "⻄沢町",
+      "storeid": "kanuma-9d092c",
+      "shopid": "kanuma-9d092c-rakutenpay"
+    },
+    {
+      "name": "エムネット",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-c06a0f",
+      "shopid": "kanuma-c06a0f-rakutenpay"
+    },
+    {
+      "name": "ヒーローオート 鹿沼店",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-4dd609",
+      "shopid": "kanuma-4dd609-rakutenpay"
+    },
+    {
+      "name": "ピュアぶらんち",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-c1bddf",
+      "shopid": "kanuma-c1bddf-rakutenpay"
+    },
+    {
+      "name": "バギー&トライクショップ アイム",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-a60cd8",
+      "shopid": "kanuma-a60cd8-rakutenpay"
+    },
+    {
+      "name": "Aroha",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-43297b",
+      "shopid": "kanuma-43297b-rakutenpay"
+    },
+    {
+      "name": "ペットクリニック井上",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-32347b",
+      "shopid": "kanuma-32347b-rakutenpay"
+    },
+    {
+      "name": "ペットサロンINOWAVE",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-d45c9f",
+      "shopid": "kanuma-d45c9f-rakutenpay"
+    },
+    {
+      "name": "嶋田屋本店",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-d66f36",
+      "shopid": "kanuma-d66f36-rakutenpay"
+    },
+    {
+      "name": "しのはら動物病院",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-02aa3e",
+      "shopid": "kanuma-02aa3e-rakutenpay"
+    },
+    {
+      "name": "上州屋 鹿沼店",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-9c1f25",
+      "shopid": "kanuma-9c1f25-rakutenpay"
+    },
+    {
+      "name": "Chri de printemps",
+      "address": "石橋町",
+      "storeid": "kanuma-08a4ff",
+      "shopid": "kanuma-08a4ff-rakutenpay"
+    },
+    {
+      "name": "高橋時計店",
+      "address": "石橋町",
+      "storeid": "kanuma-0e120f",
+      "shopid": "kanuma-0e120f-rakutenpay"
+    },
+    {
+      "name": "ファルコンロード",
+      "address": "千渡",
+      "storeid": "kanuma-07793e",
+      "shopid": "kanuma-07793e-rakutenpay"
+    },
+    {
+      "name": "玄印鹿沼店",
+      "address": "千渡",
+      "storeid": "kanuma-f841b0",
+      "shopid": "kanuma-f841b0-rakutenpay"
+    },
+    {
+      "name": "小林酒店",
+      "address": "千渡",
+      "storeid": "kanuma-1a59ce",
+      "shopid": "kanuma-1a59ce-rakutenpay"
+    },
+    {
+      "name": "わたり",
+      "address": "千渡",
+      "storeid": "kanuma-6461c0",
+      "shopid": "kanuma-6461c0-rakutenpay"
+    },
+    {
+      "name": "復興食堂 ゆめ広場",
+      "address": "千渡",
+      "storeid": "kanuma-898323",
+      "shopid": "kanuma-898323-rakutenpay"
+    },
+    {
+      "name": "からあげ専門寺田商店鹿沼店",
+      "address": "千渡",
+      "storeid": "kanuma-7a8e77",
+      "shopid": "kanuma-7a8e77-rakutenpay"
+    },
+    {
+      "name": "栄屋",
+      "address": "草久",
+      "storeid": "kanuma-7489bb",
+      "shopid": "kanuma-7489bb-rakutenpay"
+    },
+    {
+      "name": "タカマルオート",
+      "address": "池ノ森",
+      "storeid": "kanuma-337e27",
+      "shopid": "kanuma-337e27-rakutenpay"
+    },
+    {
+      "name": "小野口園",
+      "address": "中田町",
+      "storeid": "kanuma-14123c",
+      "shopid": "kanuma-14123c-rakutenpay"
+    },
+    {
+      "name": "フタバスポーツ",
+      "address": "中田町",
+      "storeid": "kanuma-481088",
+      "shopid": "kanuma-481088-rakutenpay"
+    },
+    {
+      "name": "stchristopher",
+      "address": "仲町",
+      "storeid": "kanuma-00e2f4",
+      "shopid": "kanuma-00e2f4-rakutenpay"
+    },
+    {
+      "name": "ヤマト写真館",
+      "address": "朝日町",
+      "storeid": "kanuma-4c7c6b",
+      "shopid": "kanuma-4c7c6b-rakutenpay"
+    },
+    {
+      "name": "M'sスポーツ",
+      "address": "朝日町",
+      "storeid": "kanuma-5362da",
+      "shopid": "kanuma-5362da-rakutenpay"
+    },
+    {
+      "name": "卓球ショップエール",
+      "address": "鳥居跡町",
+      "storeid": "kanuma-33ab80",
+      "shopid": "kanuma-33ab80-rakutenpay"
+    },
+    {
+      "name": "大関種苗園",
+      "address": "鳥居跡町",
+      "storeid": "kanuma-58db1d",
+      "shopid": "kanuma-58db1d-rakutenpay"
+    },
+    {
+      "name": "hanadocoro enn",
+      "address": "天神町",
+      "storeid": "kanuma-4f6a6d",
+      "shopid": "kanuma-4f6a6d-rakutenpay"
+    },
+    {
+      "name": "フレンチ×薬膳 オードヴィ",
+      "address": "天神町",
+      "storeid": "kanuma-c8b955",
+      "shopid": "kanuma-c8b955-rakutenpay"
+    },
+    {
+      "name": "ピザーラ 鹿沼店",
+      "address": "天神町",
+      "storeid": "kanuma-bcb9b9",
+      "shopid": "kanuma-bcb9b9-rakutenpay"
+    },
+    {
+      "name": "フロンティア 鹿沼店",
+      "address": "東町",
+      "storeid": "kanuma-ff9a27",
+      "shopid": "kanuma-ff9a27-rakutenpay"
+    },
+    {
+      "name": "カサハラ",
+      "address": "東町",
+      "storeid": "kanuma-41864d",
+      "shopid": "kanuma-41864d-rakutenpay"
+    },
+    {
+      "name": "フラワーヒルズ",
+      "address": "東町",
+      "storeid": "kanuma-b3930f",
+      "shopid": "kanuma-b3930f-rakutenpay"
+    },
+    {
+      "name": "上野文具 鹿沼店",
+      "address": "東末広町",
+      "storeid": "kanuma-e6e670",
+      "shopid": "kanuma-e6e670-rakutenpay"
+    },
+    {
+      "name": "大貫燃料",
+      "address": "東末広町",
+      "storeid": "kanuma-c72d0c",
+      "shopid": "kanuma-c72d0c-rakutenpay"
+    },
+    {
+      "name": "TNBファーム",
+      "address": "藤江町",
+      "storeid": "kanuma-ee2e05",
+      "shopid": "kanuma-ee2e05-rakutenpay"
+    },
+    {
+      "name": "渡辺りんご園",
+      "address": "栃窪",
+      "storeid": "kanuma-d30961",
+      "shopid": "kanuma-d30961-rakutenpay"
+    },
+    {
+      "name": "かぬまさつき鉢センターせきぐち",
+      "address": "奈佐原町",
+      "storeid": "kanuma-e1f084",
+      "shopid": "kanuma-e1f084-rakutenpay"
+    },
+    {
+      "name": "JAかみつがサービス",
+      "address": "奈佐原町",
+      "storeid": "kanuma-b96af5",
+      "shopid": "kanuma-b96af5-rakutenpay"
+    },
+    {
+      "name": "中條商店 富岡店",
+      "address": "富岡",
+      "storeid": "kanuma-db68ce",
+      "shopid": "kanuma-db68ce-rakutenpay"
+    },
+    {
+      "name": "文化堂書店",
+      "address": "蓬莱町",
+      "storeid": "kanuma-a5457e",
+      "shopid": "kanuma-a5457e-rakutenpay"
+    },
+    {
+      "name": "天然石 Bang・Bang",
+      "address": "蓬莱町",
+      "storeid": "kanuma-9c2e28",
+      "shopid": "kanuma-9c2e28-rakutenpay"
+    },
+    {
+      "name": "スズラン時計店",
+      "address": "蓬莱町",
+      "storeid": "kanuma-6ec610",
+      "shopid": "kanuma-6ec610-rakutenpay"
+    },
+    {
+      "name": "カギしっぽ Ren",
+      "address": "睦町",
+      "storeid": "kanuma-3a9865",
+      "shopid": "kanuma-3a9865-rakutenpay"
+    },
+    {
+      "name": "渡辺カメラ店",
+      "address": "末広町",
+      "storeid": "kanuma-b0f207",
+      "shopid": "kanuma-b0f207-rakutenpay"
+    },
+    {
+      "name": "平井生花店",
+      "address": "万町",
+      "storeid": "kanuma-5f0aa2",
+      "shopid": "kanuma-5f0aa2-rakutenpay"
+    },
+    {
+      "name": "すいーとほーむ いせも",
+      "address": "茂呂",
+      "storeid": "kanuma-213490",
+      "shopid": "kanuma-213490-rakutenpay"
+    },
+    {
+      "name": "リビングカマトク 鹿沼本店",
+      "address": "茂呂",
+      "storeid": "kanuma-014898",
+      "shopid": "kanuma-014898-rakutenpay"
+    },
+    {
+      "name": "コレクション・サンタ",
+      "address": "茂呂",
+      "storeid": "kanuma-0b0461",
+      "shopid": "kanuma-0b0461-rakutenpay"
+    },
+    {
+      "name": "タイヤサービス鹿沼",
+      "address": "茂呂",
+      "storeid": "kanuma-ac599b",
+      "shopid": "kanuma-ac599b-rakutenpay"
+    },
+    {
+      "name": "HondaCars 栃木中央 鹿沼インター店",
+      "address": "茂呂",
+      "storeid": "kanuma-f95f5b",
+      "shopid": "kanuma-f95f5b-rakutenpay"
+    },
+    {
+      "name": "グリーン アルファ",
+      "address": "茂呂",
+      "storeid": "kanuma-99aaeb",
+      "shopid": "kanuma-99aaeb-rakutenpay"
+    },
+    {
+      "name": "bluewash 鹿沼店",
+      "address": "茂呂東久保",
+      "storeid": "kanuma-dc740f",
+      "shopid": "kanuma-dc740f-rakutenpay"
+    },
+    {
+      "name": "ミスタータイヤマン 鹿沼店",
+      "address": "茂呂",
+      "storeid": "kanuma-c741e2",
+      "shopid": "kanuma-c741e2-rakutenpay"
+    },
+    {
+      "name": "EscapeTempleMOTOR'S",
+      "address": "茂呂",
+      "storeid": "kanuma-61a239",
+      "shopid": "kanuma-61a239-rakutenpay"
+    },
+    {
+      "name": "つけもの樋山 鹿沼店",
+      "address": "茂呂",
+      "storeid": "kanuma-fa4f6a",
+      "shopid": "kanuma-fa4f6a-rakutenpay"
+    },
+    {
+      "name": "皐月 盆栽 渋谷園",
+      "address": "茂呂",
+      "storeid": "kanuma-9e7a3a",
+      "shopid": "kanuma-9e7a3a-rakutenpay"
+    },
+    {
+      "name": "Ladybird",
+      "address": "茂呂",
+      "storeid": "kanuma-135ba9",
+      "shopid": "kanuma-135ba9-rakutenpay"
+    },
+    {
       "name": "ベリーちゃんハウス",
       "address": "茂呂",
       "storeid": "kanuma-2bf7c9",
       "shopid": "kanuma-2bf7c9-rakutenpay"
+    },
+    {
+      "name": "鹿沼市花木センター",
+      "address": "茂呂",
+      "storeid": "kanuma-9a706c",
+      "shopid": "kanuma-9a706c-rakutenpay"
+    },
+    {
+      "name": "大栄ドレス",
+      "address": "茂呂",
+      "storeid": "kanuma-029585",
+      "shopid": "kanuma-029585-rakutenpay"
+    },
+    {
+      "name": "荒川堂",
+      "address": "茂呂",
+      "storeid": "kanuma-389ee6",
+      "shopid": "kanuma-389ee6-rakutenpay"
+    },
+    {
+      "name": "Arreda 鹿沼店",
+      "address": "茂呂",
+      "storeid": "kanuma-157f0b",
+      "shopid": "kanuma-157f0b-rakutenpay"
+    },
+    {
+      "name": "SOU LABO",
+      "address": "茂呂",
+      "storeid": "kanuma-920ca2",
+      "shopid": "kanuma-920ca2-rakutenpay"
+    },
+    {
+      "name": "Rose Medaka",
+      "address": "野沢町",
+      "storeid": "kanuma-fb3bac",
+      "shopid": "kanuma-fb3bac-rakutenpay"
+    },
+    {
+      "name": "ACID CANDY",
+      "address": "緑町",
+      "storeid": "kanuma-c9e1d7",
+      "shopid": "kanuma-c9e1d7-rakutenpay"
+    },
+    {
+      "name": "MATSUYA OFFICE PORTAL",
+      "address": "緑町",
+      "storeid": "kanuma-301091",
+      "shopid": "kanuma-301091-rakutenpay"
+    },
+    {
+      "name": "金田建設",
+      "address": "緑町",
+      "storeid": "kanuma-476afc",
+      "shopid": "kanuma-476afc-rakutenpay"
+    },
+    {
+      "name": "ジャスブランチ",
+      "address": "緑町",
+      "storeid": "kanuma-65e285",
+      "shopid": "kanuma-65e285-rakutenpay"
+    },
+    {
+      "name": "ガレージジャパン",
+      "address": "緑町",
+      "storeid": "kanuma-5b34d5",
+      "shopid": "kanuma-5b34d5-rakutenpay"
+    },
+    {
+      "name": "オートガレージワイズ",
+      "address": "緑町",
+      "storeid": "kanuma-219a1a",
+      "shopid": "kanuma-219a1a-rakutenpay"
     }
   ],
-  "その他": [
+  "クリーニング/ハウスクリーニング/コインランドリー": [
     {
-      "name": "ITSupportパソコン太郎",
+      "name": "ブルースカイランドリー オフハウス鹿沼店",
+      "address": "栄町",
+      "storeid": "kanuma-741268",
+      "shopid": "kanuma-741268-rakutenpay"
+    },
+    {
+      "name": "ホワイト急便 下材木町店",
+      "address": "下材木町",
+      "storeid": "kanuma-b6285c",
+      "shopid": "kanuma-b6285c-rakutenpay"
+    },
+    {
+      "name": "HOMEBASE",
+      "address": "下大久保",
+      "storeid": "kanuma-095e70",
+      "shopid": "kanuma-095e70-rakutenpay"
+    },
+    {
+      "name": "ホワイト急便 御成橋ますや店",
+      "address": "御成橋町",
+      "storeid": "kanuma-e5a954",
+      "shopid": "kanuma-e5a954-rakutenpay"
+    },
+    {
+      "name": "ホワイト急便 ヨークベニマル上殿店",
+      "address": "上殿町",
+      "storeid": "kanuma-1c3653",
+      "shopid": "kanuma-1c3653-rakutenpay"
+    },
+    {
+      "name": "ホワイト急便 ヤオハン北部店",
+      "address": "上田町",
+      "storeid": "kanuma-ce7c9c",
+      "shopid": "kanuma-ce7c9c-rakutenpay"
+    },
+    {
+      "name": "ホワイト急便 日向店",
+      "address": "上日向",
+      "storeid": "kanuma-bffa14",
+      "shopid": "kanuma-bffa14-rakutenpay"
+    },
+    {
+      "name": "ホワイト急便 晃望台店",
+      "address": "上野町",
+      "storeid": "kanuma-b07509",
+      "shopid": "kanuma-b07509-rakutenpay"
+    },
+    {
+      "name": "フジドライ ヨークベニマル鹿沼店",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-082e08",
+      "shopid": "kanuma-082e08-rakutenpay"
+    },
+    {
+      "name": "EKEFAST",
+      "address": "石橋町",
+      "storeid": "kanuma-5ef4e6",
+      "shopid": "kanuma-5ef4e6-rakutenpay"
+    },
+    {
+      "name": "ホワイト急便 ヨークベニマル千渡店",
       "address": "千渡",
-      "storeid": "kanuma-dfdb9e",
-      "shopid": "kanuma-dfdb9e-rakutenpay"
+      "storeid": "kanuma-1e5beb",
+      "shopid": "kanuma-1e5beb-rakutenpay"
+    },
+    {
+      "name": "ラヴァーレ 千渡店",
+      "address": "千渡",
+      "storeid": "kanuma-29cc7a",
+      "shopid": "kanuma-29cc7a-rakutenpay"
+    },
+    {
+      "name": "住環境整理のユーカリ",
+      "address": "鳥居跡町",
+      "storeid": "kanuma-a4fd8d",
+      "shopid": "kanuma-a4fd8d-rakutenpay"
+    },
+    {
+      "name": "おそうじ本舗 鹿沼茂呂店",
+      "address": "板荷",
+      "storeid": "kanuma-d967d6",
+      "shopid": "kanuma-d967d6-rakutenpay"
+    },
+    {
+      "name": "ホワイト急便 府所店",
+      "address": "府所本町",
+      "storeid": "kanuma-4b5d18",
+      "shopid": "kanuma-4b5d18-rakutenpay"
+    },
+    {
+      "name": "ホワイト急便 蓬莱町店",
+      "address": "蓬莱町",
+      "storeid": "kanuma-907cb8",
+      "shopid": "kanuma-907cb8-rakutenpay"
+    },
+    {
+      "name": "ホワイト急便 赤塚店",
+      "address": "北赤塚町",
+      "storeid": "kanuma-a8b7bb",
+      "shopid": "kanuma-a8b7bb-rakutenpay"
+    }
+  ],
+  "エンタメ/レジャー": [
+    {
+      "name": "REDROCKキャンプ場",
+      "address": "下沢",
+      "storeid": "kanuma-2bb1d7",
+      "shopid": "kanuma-2bb1d7-rakutenpay"
+    },
+    {
+      "name": "サバゲランドTMD",
+      "address": "玉田町",
+      "storeid": "kanuma-e0bf35",
+      "shopid": "kanuma-e0bf35-rakutenpay"
+    },
+    {
+      "name": "グリフ 前日光店",
+      "address": "草久",
+      "storeid": "kanuma-ae6789",
+      "shopid": "kanuma-ae6789-rakutenpay"
+    },
+    {
+      "name": "ザランタン鹿沼",
+      "address": "入粟野",
+      "storeid": "kanuma-b0fe5a",
+      "shopid": "kanuma-b0fe5a-rakutenpay"
+    }
+  ],
+  "運転代行/タクシー": [
+    {
+      "name": "個人 堀井タクシー",
+      "address": "下田町",
+      "storeid": "kanuma-53703c",
+      "shopid": "kanuma-53703c-rakutenpay"
+    },
+    {
+      "name": "栃木ロイヤル交通",
+      "address": "加園",
+      "storeid": "kanuma-477415",
+      "shopid": "kanuma-477415-rakutenpay"
+    },
+    {
+      "name": "個人 福田タクシー",
+      "address": "見野",
+      "storeid": "kanuma-d88e02",
+      "shopid": "kanuma-d88e02-rakutenpay"
+    },
+    {
+      "name": "個人鈴木タクシー",
+      "address": "口粟野",
+      "storeid": "kanuma-9f04ec",
+      "shopid": "kanuma-9f04ec-rakutenpay"
+    },
+    {
+      "name": "個人 鷹箸タクシー",
+      "address": "上田町",
+      "storeid": "kanuma-05a6c9",
+      "shopid": "kanuma-05a6c9-rakutenpay"
     }
   ]
 }

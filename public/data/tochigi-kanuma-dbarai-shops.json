@@ -1,28 +1,10 @@
 {
-  "サービス": [
-    {
-      "name": "ビューティーサロン ウチヤマ",
-      "address": "みなみ町",
-      "storeid": "kanuma-897a36",
-      "shopid": "kanuma-897a36-dbarai"
-    },
+  "美容/ヘアサロン/マッサージ": [
     {
       "name": "ほぐし処くすのき",
       "address": "みなみ町",
       "storeid": "kanuma-b191a3",
       "shopid": "kanuma-b191a3-dbarai"
-    },
-    {
-      "name": "美顔ヒーリングエステ ゆらーな",
-      "address": "栄町",
-      "storeid": "kanuma-75ea28",
-      "shopid": "kanuma-75ea28-dbarai"
-    },
-    {
-      "name": "ヘアーファッションクラブ ル ナン",
-      "address": "栄町",
-      "storeid": "kanuma-221bfb",
-      "shopid": "kanuma-221bfb-dbarai"
     },
     {
       "name": "カットハウスひかり 鹿沼栄町店",
@@ -31,16 +13,22 @@
       "shopid": "kanuma-0c6928-dbarai"
     },
     {
-      "name": "ブルースカイランドリー オフハウス鹿沼店",
+      "name": "ほぐし処やぐち日和",
       "address": "栄町",
-      "storeid": "kanuma-741268",
-      "shopid": "kanuma-741268-dbarai"
+      "storeid": "kanuma-de8d1c",
+      "shopid": "kanuma-de8d1c-dbarai"
     },
     {
       "name": "エステとマッサージのマリーローズ",
       "address": "栄町",
       "storeid": "kanuma-49c780",
       "shopid": "kanuma-49c780-dbarai"
+    },
+    {
+      "name": "新川化粧品店",
+      "address": "下横町",
+      "storeid": "kanuma-2371bd",
+      "shopid": "kanuma-2371bd-dbarai"
     },
     {
       "name": "ビューティーケイ",
@@ -79,10 +67,16 @@
       "shopid": "kanuma-60048a-dbarai"
     },
     {
-      "name": "クリーニングハウスあべ",
-      "address": "戸張町",
-      "storeid": "kanuma-e102ce",
-      "shopid": "kanuma-e102ce-dbarai"
+      "name": "もみとほぐしのとんぼ",
+      "address": "貝島町",
+      "storeid": "kanuma-aaa108",
+      "shopid": "kanuma-aaa108-dbarai"
+    },
+    {
+      "name": "THREE＋(スリープラス)",
+      "address": "御成橋町",
+      "storeid": "kanuma-119161",
+      "shopid": "kanuma-119161-dbarai"
     },
     {
       "name": "美容室るーぷる",
@@ -91,10 +85,10 @@
       "shopid": "kanuma-cc0109-dbarai"
     },
     {
-      "name": "ユーケンホーム",
-      "address": "晃望台",
-      "storeid": "kanuma-ca12f9",
-      "shopid": "kanuma-ca12f9-dbarai"
+      "name": "サロン トリート",
+      "address": "御成橋町",
+      "storeid": "kanuma-04108c",
+      "shopid": "kanuma-04108c-dbarai"
     },
     {
       "name": "イマージュ",
@@ -109,12 +103,6 @@
       "shopid": "kanuma-7d7386-dbarai"
     },
     {
-      "name": "ピーチ",
-      "address": "晃望台",
-      "storeid": "kanuma-ae8a3c",
-      "shopid": "kanuma-ae8a3c-dbarai"
-    },
-    {
       "name": "ビロードアイ",
       "address": "晃望台",
       "storeid": "kanuma-26a561",
@@ -127,10 +115,34 @@
       "shopid": "kanuma-b22449-dbarai"
     },
     {
+      "name": "アールビューティバランス鹿沼本店",
+      "address": "今宮町",
+      "storeid": "kanuma-763d7e",
+      "shopid": "kanuma-763d7e-dbarai"
+    },
+    {
+      "name": "ヘアーサロンサイトウ",
+      "address": "今宮町",
+      "storeid": "kanuma-22e7db",
+      "shopid": "kanuma-22e7db-dbarai"
+    },
+    {
       "name": "Lino",
       "address": "坂田山",
       "storeid": "kanuma-a8315b",
       "shopid": "kanuma-a8315b-dbarai"
+    },
+    {
+      "name": "おうちサロン Sourire",
+      "address": "坂田山",
+      "storeid": "kanuma-4a7a0a",
+      "shopid": "kanuma-4a7a0a-dbarai"
+    },
+    {
+      "name": "Filo",
+      "address": "坂田山",
+      "storeid": "kanuma-78d971",
+      "shopid": "kanuma-78d971-dbarai"
     },
     {
       "name": "ビューティサロンアリス",
@@ -151,28 +163,16 @@
       "shopid": "kanuma-17e3f9-dbarai"
     },
     {
-      "name": "ホワイト急便 ヨークベニマル上殿店",
+      "name": "サロン・ド・シエール",
+      "address": "上石川",
+      "storeid": "kanuma-ed2b7f",
+      "shopid": "kanuma-ed2b7f-dbarai"
+    },
+    {
+      "name": "adorer",
       "address": "上殿町",
-      "storeid": "kanuma-1c3653",
-      "shopid": "kanuma-1c3653-dbarai"
-    },
-    {
-      "name": "ヒーリングハウス Poloka",
-      "address": "上殿町",
-      "storeid": "kanuma-797199",
-      "shopid": "kanuma-797199-dbarai"
-    },
-    {
-      "name": "ホワイト急便 ヤオハン北部店",
-      "address": "上田町",
-      "storeid": "kanuma-ce7c9c",
-      "shopid": "kanuma-ce7c9c-dbarai"
-    },
-    {
-      "name": "美容室サニープレイスひなた",
-      "address": "上日向",
-      "storeid": "kanuma-b71366",
-      "shopid": "kanuma-b71366-dbarai"
+      "storeid": "kanuma-61d98a",
+      "shopid": "kanuma-61d98a-dbarai"
     },
     {
       "name": "整体フットセラピー健",
@@ -181,10 +181,10 @@
       "shopid": "kanuma-0d2b1e-dbarai"
     },
     {
-      "name": "ホワイト急便 晃望台店",
+      "name": "Nika hair",
       "address": "上野町",
-      "storeid": "kanuma-b07509",
-      "shopid": "kanuma-b07509-dbarai"
+      "storeid": "kanuma-4a893a",
+      "shopid": "kanuma-4a893a-dbarai"
     },
     {
       "name": "美容室ベリーノーズ",
@@ -194,75 +194,63 @@
     },
     {
       "name": "Listen 憩いのぽぽベネ",
-      "address": "西茂呂",
-      "storeid": "kanuma-e30758",
-      "shopid": "kanuma-e30758-dbarai"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-b63d82",
+      "shopid": "kanuma-b63d82-dbarai"
     },
     {
-      "name": "hair salon MOTENA",
-      "address": "西茂呂",
-      "storeid": "kanuma-fb50b6",
-      "shopid": "kanuma-fb50b6-dbarai"
+      "name": "REAL beauty salon",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-73368d",
+      "shopid": "kanuma-73368d-dbarai"
     },
     {
       "name": "Pearl plus 鹿沼店",
-      "address": "西茂呂",
-      "storeid": "kanuma-60db9a",
-      "shopid": "kanuma-60db9a-dbarai"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-c49ce7",
+      "shopid": "kanuma-c49ce7-dbarai"
+    },
+    {
+      "name": "Pono hair",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-190fd5",
+      "shopid": "kanuma-190fd5-dbarai"
     },
     {
       "name": "りらっくす整体 おおきな手",
-      "address": "西茂呂",
-      "storeid": "kanuma-131124",
-      "shopid": "kanuma-131124-dbarai"
-    },
-    {
-      "name": "りらくる 鹿沼店",
-      "address": "西茂呂",
-      "storeid": "kanuma-be7dea",
-      "shopid": "kanuma-be7dea-dbarai"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-312a67",
+      "shopid": "kanuma-312a67-dbarai"
     },
     {
       "name": "イン東京 鹿沼店",
-      "address": "西茂呂",
-      "storeid": "kanuma-3dc93c",
-      "shopid": "kanuma-3dc93c-dbarai"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-780c0c",
+      "shopid": "kanuma-780c0c-dbarai"
     },
     {
-      "name": "パレットプラザ鹿沼店",
-      "address": "西茂呂",
-      "storeid": "kanuma-58826b",
-      "shopid": "kanuma-58826b-dbarai"
-    },
-    {
-      "name": "フジドライ ヨークベニマル鹿沼店",
-      "address": "西茂呂",
-      "storeid": "kanuma-8a0cd3",
-      "shopid": "kanuma-8a0cd3-dbarai"
+      "name": "ハッチ",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-f83acd",
+      "shopid": "kanuma-f83acd-dbarai"
     },
     {
       "name": "ちとせや化粧品店",
-      "address": "西茂呂",
-      "storeid": "kanuma-52480d",
-      "shopid": "kanuma-52480d-dbarai"
-    },
-    {
-      "name": "presto",
-      "address": "西茂呂",
-      "storeid": "kanuma-917131",
-      "shopid": "kanuma-917131-dbarai"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-fc2b47",
+      "shopid": "kanuma-fc2b47-dbarai"
     },
     {
       "name": "イエロービーム",
-      "address": "西茂呂",
-      "storeid": "kanuma-9c0b9b",
-      "shopid": "kanuma-9c0b9b-dbarai"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-ff834c",
+      "shopid": "kanuma-ff834c-dbarai"
     },
     {
-      "name": "Selfwash 西茂呂店",
-      "address": "西茂呂",
-      "storeid": "kanuma-5cf349",
-      "shopid": "kanuma-5cf349-dbarai"
+      "name": "Hairsalon cuore",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-7faec8",
+      "shopid": "kanuma-7faec8-dbarai"
     },
     {
       "name": "Beauty Salon HIMAWARI",
@@ -271,40 +259,28 @@
       "shopid": "kanuma-b3e396-dbarai"
     },
     {
-      "name": "ラヴァーレ 千渡店",
+      "name": "プライベートサロンMimosa",
       "address": "千渡",
-      "storeid": "kanuma-29cc7a",
-      "shopid": "kanuma-29cc7a-dbarai"
+      "storeid": "kanuma-9b5a6a",
+      "shopid": "kanuma-9b5a6a-dbarai"
     },
     {
-      "name": "鍵番長",
+      "name": "eyelash salon ココプラス",
       "address": "千渡",
-      "storeid": "kanuma-78b9c4",
-      "shopid": "kanuma-78b9c4-dbarai"
+      "storeid": "kanuma-b6943d",
+      "shopid": "kanuma-b6943d-dbarai"
     },
     {
-      "name": "三陽自動車整備工場",
-      "address": "千渡",
-      "storeid": "kanuma-f63807",
-      "shopid": "kanuma-f63807-dbarai"
-    },
-    {
-      "name": "健康&美容サロンchacha",
-      "address": "千渡",
-      "storeid": "kanuma-d35090",
-      "shopid": "kanuma-d35090-dbarai"
-    },
-    {
-      "name": "グリフ 前日光店",
-      "address": "草久",
-      "storeid": "kanuma-ae6789",
-      "shopid": "kanuma-ae6789-dbarai"
-    },
-    {
-      "name": "黒田養蜂園",
+      "name": "t'hair（ティーヘアー）",
       "address": "村井町",
-      "storeid": "kanuma-187915",
-      "shopid": "kanuma-187915-dbarai"
+      "storeid": "kanuma-cd9656",
+      "shopid": "kanuma-cd9656-dbarai"
+    },
+    {
+      "name": "HOLiC（ホリック）",
+      "address": "仲町",
+      "storeid": "kanuma-1a1b56",
+      "shopid": "kanuma-1a1b56-dbarai"
     },
     {
       "name": "カイロプラクティックおおぬき",
@@ -313,16 +289,16 @@
       "shopid": "kanuma-43ec2c-dbarai"
     },
     {
+      "name": "ふりいふらいと美容室",
+      "address": "鳥居跡町",
+      "storeid": "kanuma-2a1b02",
+      "shopid": "kanuma-2a1b02-dbarai"
+    },
+    {
       "name": "美容室コア",
       "address": "鳥居跡町",
       "storeid": "kanuma-4a400e",
       "shopid": "kanuma-4a400e-dbarai"
-    },
-    {
-      "name": "カットハウス フリースタイル",
-      "address": "鳥居跡町",
-      "storeid": "kanuma-2dae1e",
-      "shopid": "kanuma-2dae1e-dbarai"
     },
     {
       "name": "Hair resort VARILA",
@@ -331,10 +307,10 @@
       "shopid": "kanuma-2d9c66-dbarai"
     },
     {
-      "name": "潮田自動車修理工場",
-      "address": "板荷",
-      "storeid": "kanuma-4f81c4",
-      "shopid": "kanuma-4f81c4-dbarai"
+      "name": "Hair Room Antique",
+      "address": "日吉町",
+      "storeid": "kanuma-ebf065",
+      "shopid": "kanuma-ebf065-dbarai"
     },
     {
       "name": "スキップ つぼ&リンパマッサージ スキップ",
@@ -343,22 +319,10 @@
       "shopid": "kanuma-32eddb-dbarai"
     },
     {
-      "name": "ホテルファリーナドルチェ",
-      "address": "茂呂",
-      "storeid": "kanuma-e66375",
-      "shopid": "kanuma-e66375-dbarai"
-    },
-    {
       "name": "モードサロン谷口",
       "address": "茂呂",
       "storeid": "kanuma-89417c",
       "shopid": "kanuma-89417c-dbarai"
-    },
-    {
-      "name": "写真工房6maru8",
-      "address": "緑町",
-      "storeid": "kanuma-f5d23a",
-      "shopid": "kanuma-f5d23a-dbarai"
     },
     {
       "name": "ルビー美容室",
@@ -367,25 +331,207 @@
       "shopid": "kanuma-2d0e24-dbarai"
     },
     {
+      "name": "hair salon Blanc",
+      "address": "緑町",
+      "storeid": "kanuma-b902e4",
+      "shopid": "kanuma-b902e4-dbarai"
+    },
+    {
       "name": "癒し処Repos",
       "address": "緑町",
       "storeid": "kanuma-0555be",
       "shopid": "kanuma-0555be-dbarai"
     },
     {
+      "name": "美容室かんかん",
+      "address": "楡木町",
+      "storeid": "kanuma-e5c496",
+      "shopid": "kanuma-e5c496-dbarai"
+    },
+    {
       "name": "H.Cアカデミー",
       "address": "樅山町",
       "storeid": "kanuma-9b3451",
       "shopid": "kanuma-9b3451-dbarai"
+    },
+    {
+      "name": "PetitPrincess",
+      "address": "樅山町",
+      "storeid": "kanuma-3bcdb2",
+      "shopid": "kanuma-3bcdb2-dbarai"
+    }
+  ],
+  "その他サービス": [
+    {
+      "name": "⻘空オート",
+      "address": "旭が丘",
+      "storeid": "kanuma-82cd0d",
+      "shopid": "kanuma-82cd0d-dbarai"
+    },
+    {
+      "name": "阿久津獣医科医院",
+      "address": "塩山町",
+      "storeid": "kanuma-f5476a",
+      "shopid": "kanuma-f5476a-dbarai"
+    },
+    {
+      "name": "GOLD GARDEN",
+      "address": "下日向",
+      "storeid": "kanuma-8608f6",
+      "shopid": "kanuma-8608f6-dbarai"
+    },
+    {
+      "name": "リフォームかぬま",
+      "address": "貝島町",
+      "storeid": "kanuma-afe28b",
+      "shopid": "kanuma-afe28b-dbarai"
+    },
+    {
+      "name": "清美館",
+      "address": "口粟野",
+      "storeid": "kanuma-126436",
+      "shopid": "kanuma-126436-dbarai"
+    },
+    {
+      "name": "ユーケンホーム",
+      "address": "晃望台",
+      "storeid": "kanuma-ca12f9",
+      "shopid": "kanuma-ca12f9-dbarai"
+    },
+    {
+      "name": "369MIROKU",
+      "address": "松原",
+      "storeid": "kanuma-c287a3",
+      "shopid": "kanuma-c287a3-dbarai"
+    },
+    {
+      "name": "小林メンテ",
+      "address": "上石川",
+      "storeid": "kanuma-19c0ed",
+      "shopid": "kanuma-19c0ed-dbarai"
+    },
+    {
+      "name": "斎藤自動車",
+      "address": "上殿町",
+      "storeid": "kanuma-f3709f",
+      "shopid": "kanuma-f3709f-dbarai"
+    },
+    {
+      "name": "パレットプラザ鹿沼店",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-4551b4",
+      "shopid": "kanuma-4551b4-dbarai"
+    },
+    {
+      "name": "カズ・ガレージ",
+      "address": "千渡",
+      "storeid": "kanuma-ab3f6c",
+      "shopid": "kanuma-ab3f6c-dbarai"
+    },
+    {
+      "name": "鍵番⻑",
+      "address": "千渡",
+      "storeid": "kanuma-a77f1b",
+      "shopid": "kanuma-a77f1b-dbarai"
+    },
+    {
+      "name": "三陽自動車整備工場",
+      "address": "千渡",
+      "storeid": "kanuma-f63807",
+      "shopid": "kanuma-f63807-dbarai"
+    },
+    {
+      "name": "古峯神社",
+      "address": "草久",
+      "storeid": "kanuma-e80412",
+      "shopid": "kanuma-e80412-dbarai"
+    },
+    {
+      "name": "大倉ホンダ販売/Okura bike",
+      "address": "鳥居跡町",
+      "storeid": "kanuma-0b2553",
+      "shopid": "kanuma-0b2553-dbarai"
+    },
+    {
+      "name": "宇賀神モータース",
+      "address": "藤江町",
+      "storeid": "kanuma-898273",
+      "shopid": "kanuma-898273-dbarai"
+    },
+    {
+      "name": "潮田自動車修理工場",
+      "address": "板荷",
+      "storeid": "kanuma-4f81c4",
+      "shopid": "kanuma-4f81c4-dbarai"
+    },
+    {
+      "name": "荒川自動車工業",
+      "address": "府中町",
+      "storeid": "kanuma-c3c203",
+      "shopid": "kanuma-c3c203-dbarai"
+    },
+    {
+      "name": "カービューティープロアルファ",
+      "address": "武子",
+      "storeid": "kanuma-93778e",
+      "shopid": "kanuma-93778e-dbarai"
+    },
+    {
+      "name": "Lycoris-リコリスー",
+      "address": "睦町",
+      "storeid": "kanuma-824c6c",
+      "shopid": "kanuma-824c6c-dbarai"
+    },
+    {
+      "name": "コバヤシオート",
+      "address": "茂呂",
+      "storeid": "kanuma-931b12",
+      "shopid": "kanuma-931b12-dbarai"
+    },
+    {
+      "name": "カウンセリングスペース ヒーリングフォレスト",
+      "address": "茂呂",
+      "storeid": "kanuma-36af2b",
+      "shopid": "kanuma-36af2b-dbarai"
+    },
+    {
+      "name": "宇都宮自動車",
+      "address": "茂呂",
+      "storeid": "kanuma-051458",
+      "shopid": "kanuma-051458-dbarai"
+    },
+    {
+      "name": "センド オートサービス",
+      "address": "茂呂",
+      "storeid": "kanuma-b1c0a4",
+      "shopid": "kanuma-b1c0a4-dbarai"
+    },
+    {
+      "name": "福田自動車工業",
+      "address": "野尻",
+      "storeid": "kanuma-af6700",
+      "shopid": "kanuma-af6700-dbarai"
+    },
+    {
+      "name": "写真工房6maru8",
+      "address": "緑町",
+      "storeid": "kanuma-f5d23a",
+      "shopid": "kanuma-f5d23a-dbarai"
+    },
+    {
+      "name": "伊藤自動車整備工場",
+      "address": "楡木町",
+      "storeid": "kanuma-7914e0",
+      "shopid": "kanuma-7914e0-dbarai"
+    },
+    {
+      "name": "稲穂フィッシュファーム",
+      "address": "楡木町",
+      "storeid": "kanuma-c9e873",
+      "shopid": "kanuma-c9e873-dbarai"
     }
   ],
   "小売": [
-    {
-      "name": "青空オート",
-      "address": "旭が丘",
-      "storeid": "kanuma-552671",
-      "shopid": "kanuma-552671-dbarai"
-    },
     {
       "name": "富士トロフィー",
       "address": "引田",
@@ -399,10 +545,10 @@
       "shopid": "kanuma-c69d6d-dbarai"
     },
     {
-      "name": "ウェルネススポーツクラブ",
+      "name": "フードマーケットカスミ鹿沼店",
       "address": "栄町",
-      "storeid": "kanuma-3c56b8",
-      "shopid": "kanuma-3c56b8-dbarai"
+      "storeid": "kanuma-4ff152",
+      "shopid": "kanuma-4ff152-dbarai"
     },
     {
       "name": "JAかみつがサービス 鹿沼農機センター",
@@ -417,22 +563,16 @@
       "shopid": "kanuma-c5cebb-dbarai"
     },
     {
-      "name": "新川化粧品店",
-      "address": "下横町",
-      "storeid": "kanuma-2371bd",
-      "shopid": "kanuma-2371bd-dbarai"
-    },
-    {
-      "name": "大和屋 鹿沼店",
-      "address": "下横町",
-      "storeid": "kanuma-e82b90",
-      "shopid": "kanuma-e82b90-dbarai"
-    },
-    {
       "name": "協和塗料",
       "address": "下材木町",
       "storeid": "kanuma-3aa393",
       "shopid": "kanuma-3aa393-dbarai"
+    },
+    {
+      "name": "坪野谷紙業 鹿沼",
+      "address": "下石川大野原",
+      "storeid": "kanuma-7b4a42",
+      "shopid": "kanuma-7b4a42-dbarai"
     },
     {
       "name": "鱒渕木工所",
@@ -447,10 +587,64 @@
       "shopid": "kanuma-12a44d-dbarai"
     },
     {
+      "name": "瀬谷新聞店",
+      "address": "下田町",
+      "storeid": "kanuma-dc1da7",
+      "shopid": "kanuma-dc1da7-dbarai"
+    },
+    {
+      "name": "パティスリーラフォセット",
+      "address": "下田町",
+      "storeid": "kanuma-9f601b",
+      "shopid": "kanuma-9f601b-dbarai"
+    },
+    {
+      "name": "かぬま里山わいん",
+      "address": "下奈良部町",
+      "storeid": "kanuma-12bb2d",
+      "shopid": "kanuma-12bb2d-dbarai"
+    },
+    {
+      "name": "叶実",
+      "address": "下南摩町",
+      "storeid": "kanuma-206ab8",
+      "shopid": "kanuma-206ab8-dbarai"
+    },
+    {
+      "name": "ライオンスポーツ",
+      "address": "貝島町",
+      "storeid": "kanuma-1acd8e",
+      "shopid": "kanuma-1acd8e-dbarai"
+    },
+    {
+      "name": "宇賀神新聞店",
+      "address": "貝島町",
+      "storeid": "kanuma-420268",
+      "shopid": "kanuma-420268-dbarai"
+    },
+    {
       "name": "ヤオハンスーパー 貝島店",
       "address": "貝島町",
       "storeid": "kanuma-7a4e84",
       "shopid": "kanuma-7a4e84-dbarai"
+    },
+    {
+      "name": "repos",
+      "address": "⻲和田町",
+      "storeid": "kanuma-2b2ec8",
+      "shopid": "kanuma-2b2ec8-dbarai"
+    },
+    {
+      "name": "いせ茂 本店",
+      "address": "久保町",
+      "storeid": "kanuma-8d4e0e",
+      "shopid": "kanuma-8d4e0e-dbarai"
+    },
+    {
+      "name": "GalleryshopPILE",
+      "address": "久野",
+      "storeid": "kanuma-d002cf",
+      "shopid": "kanuma-d002cf-dbarai"
     },
     {
       "name": "ヤオハンスーパー 粟野店",
@@ -459,16 +653,28 @@
       "shopid": "kanuma-97261c-dbarai"
     },
     {
+      "name": "牛屋の肉屋よこお",
+      "address": "久野",
+      "storeid": "kanuma-b0e163",
+      "shopid": "kanuma-b0e163-dbarai"
+    },
+    {
       "name": "倉持タイヤ商会",
       "address": "玉田町",
       "storeid": "kanuma-a149d3",
       "shopid": "kanuma-a149d3-dbarai"
     },
     {
-      "name": "溶接造形工房トカシツナギ",
+      "name": "YAMAKOSHI TRADING",
       "address": "玉田町",
-      "storeid": "kanuma-025c62",
-      "shopid": "kanuma-025c62-dbarai"
+      "storeid": "kanuma-712b4b",
+      "shopid": "kanuma-712b4b-dbarai"
+    },
+    {
+      "name": "TB TAKA-BEN 高弁木工所",
+      "address": "玉田町",
+      "storeid": "kanuma-9ede4a",
+      "shopid": "kanuma-9ede4a-dbarai"
     },
     {
       "name": "鈴木屋",
@@ -507,24 +713,6 @@
       "shopid": "kanuma-368b77-dbarai"
     },
     {
-      "name": "飯野薬房",
-      "address": "寺町",
-      "storeid": "kanuma-ffb7b7",
-      "shopid": "kanuma-ffb7b7-dbarai"
-    },
-    {
-      "name": "ずずハナレヤ",
-      "address": "上材木町",
-      "storeid": "kanuma-d819e6",
-      "shopid": "kanuma-d819e6-dbarai"
-    },
-    {
-      "name": "小林メンテ",
-      "address": "上石川",
-      "storeid": "kanuma-19c0ed",
-      "shopid": "kanuma-19c0ed-dbarai"
-    },
-    {
       "name": "アクセス",
       "address": "上石川",
       "storeid": "kanuma-39661b",
@@ -535,24 +723,6 @@
       "address": "上石川",
       "storeid": "kanuma-33dee6",
       "shopid": "kanuma-33dee6-dbarai"
-    },
-    {
-      "name": "まるぜん",
-      "address": "上石川",
-      "storeid": "kanuma-2f7d94",
-      "shopid": "kanuma-2f7d94-dbarai"
-    },
-    {
-      "name": "鹿沼タイヤ",
-      "address": "上殿町",
-      "storeid": "kanuma-9786e9",
-      "shopid": "kanuma-9786e9-dbarai"
-    },
-    {
-      "name": "斎藤自動車",
-      "address": "上殿町",
-      "storeid": "kanuma-f3709f",
-      "shopid": "kanuma-f3709f-dbarai"
     },
     {
       "name": "きくや酒店 鹿沼店",
@@ -567,12 +737,6 @@
       "shopid": "kanuma-9f48e4-dbarai"
     },
     {
-      "name": "木工房嶺乃雲",
-      "address": "上日向",
-      "storeid": "kanuma-d3730b",
-      "shopid": "kanuma-d3730b-dbarai"
-    },
-    {
       "name": "邦證堂薬局",
       "address": "上野町",
       "storeid": "kanuma-dbe51e",
@@ -585,22 +749,10 @@
       "shopid": "kanuma-b98697-dbarai"
     },
     {
-      "name": "ホアンちゃん 鹿沼店",
+      "name": "お菓子の家うさちゃんち",
       "address": "上野町",
-      "storeid": "kanuma-397ed2",
-      "shopid": "kanuma-397ed2-dbarai"
-    },
-    {
-      "name": "サトーカメラ 鹿沼晃望台店",
-      "address": "上野町",
-      "storeid": "kanuma-02ffea",
-      "shopid": "kanuma-02ffea-dbarai"
-    },
-    {
-      "name": "上州屋スタンド",
-      "address": "深津",
-      "storeid": "kanuma-38267b",
-      "shopid": "kanuma-38267b-dbarai"
+      "storeid": "kanuma-1536d7",
+      "shopid": "kanuma-1536d7-dbarai"
     },
     {
       "name": "上州屋商店",
@@ -615,52 +767,82 @@
       "shopid": "kanuma-454510-dbarai"
     },
     {
-      "name": "ヒーローオート",
-      "address": "西沢町",
-      "storeid": "kanuma-5a7483",
-      "shopid": "kanuma-5a7483-dbarai"
+      "name": "カールーム",
+      "address": "⻄鹿沼町",
+      "storeid": "kanuma-880926",
+      "shopid": "kanuma-880926-dbarai"
     },
     {
-      "name": "和光メガネ 鹿沼店",
-      "address": "西茂呂",
-      "storeid": "kanuma-ad4ca1",
-      "shopid": "kanuma-ad4ca1-dbarai"
+      "name": "ヒーローオート",
+      "address": "⻄沢町",
+      "storeid": "kanuma-9d092c",
+      "shopid": "kanuma-9d092c-dbarai"
     },
     {
       "name": "さかい珈琲焙煎工房",
-      "address": "西茂呂",
-      "storeid": "kanuma-7c117b",
-      "shopid": "kanuma-7c117b-dbarai"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-0792ef",
+      "shopid": "kanuma-0792ef-dbarai"
     },
     {
-      "name": "ヒーローオート 鹿沼店",
-      "address": "西茂呂",
-      "storeid": "kanuma-abc9e2",
-      "shopid": "kanuma-abc9e2-dbarai"
+      "name": "エムネット",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-c06a0f",
+      "shopid": "kanuma-c06a0f-dbarai"
+    },
+    {
+      "name": "カトー 鹿沼",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-43b53b",
+      "shopid": "kanuma-43b53b-dbarai"
     },
     {
       "name": "ピュアぶらんち",
-      "address": "西茂呂",
-      "storeid": "kanuma-57cf4c",
-      "shopid": "kanuma-57cf4c-dbarai"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-c1bddf",
+      "shopid": "kanuma-c1bddf-dbarai"
     },
     {
       "name": "バギー&トライクショップ アイム",
-      "address": "西茂呂",
-      "storeid": "kanuma-3f20cc",
-      "shopid": "kanuma-3f20cc-dbarai"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-a60cd8",
+      "shopid": "kanuma-a60cd8-dbarai"
     },
     {
-      "name": "めがねのミノワ西茂呂店",
-      "address": "西茂呂",
-      "storeid": "kanuma-04979f",
-      "shopid": "kanuma-04979f-dbarai"
+      "name": "ペットクリニック井上",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-32347b",
+      "shopid": "kanuma-32347b-dbarai"
+    },
+    {
+      "name": "ペットサロンINOWAVE",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-d45c9f",
+      "shopid": "kanuma-d45c9f-dbarai"
+    },
+    {
+      "name": "めがねのミノワ⻄茂呂店",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-2ef637",
+      "shopid": "kanuma-2ef637-dbarai"
     },
     {
       "name": "嶋田屋本店",
-      "address": "西茂呂",
-      "storeid": "kanuma-08d3b3",
-      "shopid": "kanuma-08d3b3-dbarai"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-d66f36",
+      "shopid": "kanuma-d66f36-dbarai"
+    },
+    {
+      "name": "しのはら動物病院",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-02aa3e",
+      "shopid": "kanuma-02aa3e-dbarai"
+    },
+    {
+      "name": "上州屋 鹿沼店",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-9c1f25",
+      "shopid": "kanuma-9c1f25-dbarai"
     },
     {
       "name": "高橋時計店",
@@ -675,34 +857,52 @@
       "shopid": "kanuma-ff19e9-dbarai"
     },
     {
-      "name": "カズ・ガレージ",
-      "address": "千渡",
-      "storeid": "kanuma-ab3f6c",
-      "shopid": "kanuma-ab3f6c-dbarai"
-    },
-    {
       "name": "ファルコンロード",
       "address": "千渡",
       "storeid": "kanuma-07793e",
       "shopid": "kanuma-07793e-dbarai"
     },
     {
-      "name": "フジカンパニー",
+      "name": "玄印鹿沼店",
       "address": "千渡",
-      "storeid": "kanuma-f582a5",
-      "shopid": "kanuma-f582a5-dbarai"
+      "storeid": "kanuma-f841b0",
+      "shopid": "kanuma-f841b0-dbarai"
     },
     {
-      "name": "麺'sたぐち",
+      "name": "小林酒店",
       "address": "千渡",
-      "storeid": "kanuma-77a073",
-      "shopid": "kanuma-77a073-dbarai"
+      "storeid": "kanuma-1a59ce",
+      "shopid": "kanuma-1a59ce-dbarai"
+    },
+    {
+      "name": "わたり",
+      "address": "千渡",
+      "storeid": "kanuma-6461c0",
+      "shopid": "kanuma-6461c0-dbarai"
+    },
+    {
+      "name": "復興食堂 ゆめ広場",
+      "address": "千渡",
+      "storeid": "kanuma-898323",
+      "shopid": "kanuma-898323-dbarai"
     },
     {
       "name": "からあげ専門寺田商店鹿沼店",
       "address": "千渡",
       "storeid": "kanuma-7a8e77",
       "shopid": "kanuma-7a8e77-dbarai"
+    },
+    {
+      "name": "栄屋",
+      "address": "草久",
+      "storeid": "kanuma-7489bb",
+      "shopid": "kanuma-7489bb-dbarai"
+    },
+    {
+      "name": "⿊田養蜂園",
+      "address": "村井町",
+      "storeid": "kanuma-7b8fcf",
+      "shopid": "kanuma-7b8fcf-dbarai"
     },
     {
       "name": "タカマルオート",
@@ -723,16 +923,28 @@
       "shopid": "kanuma-481088-dbarai"
     },
     {
+      "name": "stchristopher",
+      "address": "仲町",
+      "storeid": "kanuma-00e2f4",
+      "shopid": "kanuma-00e2f4-dbarai"
+    },
+    {
+      "name": "ヤマト写真館",
+      "address": "朝日町",
+      "storeid": "kanuma-4c7c6b",
+      "shopid": "kanuma-4c7c6b-dbarai"
+    },
+    {
       "name": "卓球ショップエール",
       "address": "鳥居跡町",
       "storeid": "kanuma-33ab80",
       "shopid": "kanuma-33ab80-dbarai"
     },
     {
-      "name": "Okura bike(オオクラバイク)",
+      "name": "大関種苗園",
       "address": "鳥居跡町",
-      "storeid": "kanuma-14ef6d",
-      "shopid": "kanuma-14ef6d-dbarai"
+      "storeid": "kanuma-58db1d",
+      "shopid": "kanuma-58db1d-dbarai"
     },
     {
       "name": "ヤオハンスーパー 東町店",
@@ -771,6 +983,12 @@
       "shopid": "kanuma-c77f3a-dbarai"
     },
     {
+      "name": "上野文具 鹿沼店",
+      "address": "東末広町",
+      "storeid": "kanuma-e6e670",
+      "shopid": "kanuma-e6e670-dbarai"
+    },
+    {
       "name": "大貫燃料",
       "address": "東末広町",
       "storeid": "kanuma-c72d0c",
@@ -789,34 +1007,28 @@
       "shopid": "kanuma-d30961-dbarai"
     },
     {
-      "name": "かぬまさつき鉢センターせきぐち",
-      "address": "奈佐原町",
-      "storeid": "kanuma-e1f084",
-      "shopid": "kanuma-e1f084-dbarai"
-    },
-    {
       "name": "JAかみつがサービス",
       "address": "奈佐原町",
       "storeid": "kanuma-b96af5",
       "shopid": "kanuma-b96af5-dbarai"
     },
     {
-      "name": "ヤオハンスーパー 西店",
+      "name": "ヤオハンスーパー ⻄店",
       "address": "日吉町",
-      "storeid": "kanuma-4bbfdb",
-      "shopid": "kanuma-4bbfdb-dbarai"
+      "storeid": "kanuma-c3e81a",
+      "shopid": "kanuma-c3e81a-dbarai"
     },
     {
       "name": "飛行船 釜石物産店",
-      "address": "白桑田",
-      "storeid": "kanuma-75ed29",
-      "shopid": "kanuma-75ed29-dbarai"
+      "address": "⽩桑田",
+      "storeid": "kanuma-ececeb",
+      "shopid": "kanuma-ececeb-dbarai"
     },
     {
       "name": "Pro-Shop GUSTY",
-      "address": "白桑田",
-      "storeid": "kanuma-d28ff9",
-      "shopid": "kanuma-d28ff9-dbarai"
+      "address": "⽩桑田",
+      "storeid": "kanuma-3d2495",
+      "shopid": "kanuma-3d2495-dbarai"
     },
     {
       "name": "中條商店 富岡店",
@@ -849,18 +1061,6 @@
       "shopid": "kanuma-a5457e-dbarai"
     },
     {
-      "name": "天然石 Bang・Bang",
-      "address": "蓬莱町",
-      "storeid": "kanuma-9c2e28",
-      "shopid": "kanuma-9c2e28-dbarai"
-    },
-    {
-      "name": "文挟洋服店",
-      "address": "蓬莱町",
-      "storeid": "kanuma-bf0338",
-      "shopid": "kanuma-bf0338-dbarai"
-    },
-    {
       "name": "渡辺カメラ店",
       "address": "末広町",
       "storeid": "kanuma-b0f207",
@@ -871,6 +1071,24 @@
       "address": "末広町",
       "storeid": "kanuma-51316b",
       "shopid": "kanuma-51316b-dbarai"
+    },
+    {
+      "name": "平井生花店",
+      "address": "万町",
+      "storeid": "kanuma-5f0aa2",
+      "shopid": "kanuma-5f0aa2-dbarai"
+    },
+    {
+      "name": "カノヤ 人形販売店",
+      "address": "万町",
+      "storeid": "kanuma-89fd23",
+      "shopid": "kanuma-89fd23-dbarai"
+    },
+    {
+      "name": "すいーとほーむ いせも",
+      "address": "茂呂",
+      "storeid": "kanuma-213490",
+      "shopid": "kanuma-213490-dbarai"
     },
     {
       "name": "コレクション・サンタ",
@@ -891,12 +1109,6 @@
       "shopid": "kanuma-99aaeb-dbarai"
     },
     {
-      "name": "ダイヤオート",
-      "address": "茂呂",
-      "storeid": "kanuma-ff53bb",
-      "shopid": "kanuma-ff53bb-dbarai"
-    },
-    {
       "name": "EscapeTempleMOTOR'S",
       "address": "茂呂",
       "storeid": "kanuma-61a239",
@@ -915,10 +1127,10 @@
       "shopid": "kanuma-135ba9-dbarai"
     },
     {
-      "name": "コバヤシオート",
+      "name": "ベリーちゃんハウス",
       "address": "茂呂",
-      "storeid": "kanuma-931b12",
-      "shopid": "kanuma-931b12-dbarai"
+      "storeid": "kanuma-2bf7c9",
+      "shopid": "kanuma-2bf7c9-dbarai"
     },
     {
       "name": "鹿沼市花木センター",
@@ -933,16 +1145,10 @@
       "shopid": "kanuma-029585-dbarai"
     },
     {
-      "name": "宇都宮自動車",
+      "name": "栃木スバル自動車 鹿沼店",
       "address": "茂呂",
-      "storeid": "kanuma-051458",
-      "shopid": "kanuma-051458-dbarai"
-    },
-    {
-      "name": "センド オートサービス",
-      "address": "茂呂",
-      "storeid": "kanuma-b1c0a4",
-      "shopid": "kanuma-b1c0a4-dbarai"
+      "storeid": "kanuma-0b2233",
+      "shopid": "kanuma-0b2233-dbarai"
     },
     {
       "name": "SOU LABO",
@@ -951,34 +1157,22 @@
       "shopid": "kanuma-920ca2-dbarai"
     },
     {
-      "name": "福田自動車工業",
-      "address": "野尻",
-      "storeid": "kanuma-af6700",
-      "shopid": "kanuma-af6700-dbarai"
-    },
-    {
       "name": "Rose Medaka",
       "address": "野沢町",
       "storeid": "kanuma-fb3bac",
       "shopid": "kanuma-fb3bac-dbarai"
     },
     {
-      "name": "香味鮮",
+      "name": "MATSUYA OFFICE PORTAL",
       "address": "緑町",
-      "storeid": "kanuma-91f55e",
-      "shopid": "kanuma-91f55e-dbarai"
+      "storeid": "kanuma-301091",
+      "shopid": "kanuma-301091-dbarai"
     },
     {
       "name": "金田建設",
       "address": "緑町",
       "storeid": "kanuma-476afc",
       "shopid": "kanuma-476afc-dbarai"
-    },
-    {
-      "name": "4429",
-      "address": "緑町",
-      "storeid": "kanuma-dffb48",
-      "shopid": "kanuma-dffb48-dbarai"
     },
     {
       "name": "ガレージジャパン",
@@ -991,12 +1185,6 @@
       "address": "緑町",
       "storeid": "kanuma-b5eb2a",
       "shopid": "kanuma-b5eb2a-dbarai"
-    },
-    {
-      "name": "稲穂フィッシュファーム",
-      "address": "楡木町",
-      "storeid": "kanuma-c9e873",
-      "shopid": "kanuma-c9e873-dbarai"
     },
     {
       "name": "ヤオハンスーパー 樅山店",
@@ -1013,18 +1201,6 @@
   ],
   "飲食": [
     {
-      "name": "哈爾濱菜館",
-      "address": "栄町",
-      "storeid": "kanuma-1fd23b",
-      "shopid": "kanuma-1fd23b-dbarai"
-    },
-    {
-      "name": "3 SMILE",
-      "address": "栄町",
-      "storeid": "kanuma-fec9f3",
-      "shopid": "kanuma-fec9f3-dbarai"
-    },
-    {
       "name": "ごはんの扉",
       "address": "栄町",
       "storeid": "kanuma-51bdfa",
@@ -1037,10 +1213,10 @@
       "shopid": "kanuma-f694c1-dbarai"
     },
     {
-      "name": "寿司長",
+      "name": "寿司⻑",
       "address": "栄町",
-      "storeid": "kanuma-f8d672",
-      "shopid": "kanuma-f8d672-dbarai"
+      "storeid": "kanuma-142db2",
+      "shopid": "kanuma-142db2-dbarai"
     },
     {
       "name": "ラーメン＆らーめん一代元鹿沼栄店",
@@ -1055,10 +1231,10 @@
       "shopid": "kanuma-3806ad-dbarai"
     },
     {
-      "name": "ニルセン",
-      "address": "下田町",
-      "storeid": "kanuma-d9e9cd",
-      "shopid": "kanuma-d9e9cd-dbarai"
+      "name": "大和屋 鹿沼店",
+      "address": "下横町",
+      "storeid": "kanuma-e82b90",
+      "shopid": "kanuma-e82b90-dbarai"
     },
     {
       "name": "サウンドカフェなかじ",
@@ -1067,58 +1243,16 @@
       "shopid": "kanuma-4171a6-dbarai"
     },
     {
-      "name": "きそば金ます",
-      "address": "下田町",
-      "storeid": "kanuma-4efa8f",
-      "shopid": "kanuma-4efa8f-dbarai"
-    },
-    {
-      "name": "叶実",
-      "address": "下南摩町",
-      "storeid": "kanuma-206ab8",
-      "shopid": "kanuma-206ab8-dbarai"
-    },
-    {
-      "name": "GOLD GARDEN",
-      "address": "下日向",
-      "storeid": "kanuma-8608f6",
-      "shopid": "kanuma-8608f6-dbarai"
-    },
-    {
-      "name": "ライオンスポーツ",
-      "address": "貝島町",
-      "storeid": "kanuma-1acd8e",
-      "shopid": "kanuma-1acd8e-dbarai"
-    },
-    {
       "name": "おもだか",
       "address": "貝島町",
       "storeid": "kanuma-455a67",
       "shopid": "kanuma-455a67-dbarai"
     },
     {
-      "name": "日本料理 みしま",
-      "address": "貝島町",
-      "storeid": "kanuma-fc5648",
-      "shopid": "kanuma-fc5648-dbarai"
-    },
-    {
       "name": "ボクらのひみつきち",
-      "address": "亀和田町",
-      "storeid": "kanuma-a32f25",
-      "shopid": "kanuma-a32f25-dbarai"
-    },
-    {
-      "name": "いせ茂 本店",
-      "address": "久保町",
-      "storeid": "kanuma-8d4e0e",
-      "shopid": "kanuma-8d4e0e-dbarai"
-    },
-    {
-      "name": "YAMAKOSHI TRADING",
-      "address": "玉田町",
-      "storeid": "kanuma-712b4b",
-      "shopid": "kanuma-712b4b-dbarai"
+      "address": "⻲和田町",
+      "storeid": "kanuma-9198d5",
+      "shopid": "kanuma-9198d5-dbarai"
     },
     {
       "name": "ベイクショップ    カンタービレ",
@@ -1139,10 +1273,10 @@
       "shopid": "kanuma-ae5090-dbarai"
     },
     {
-      "name": "中華そば 田田",
-      "address": "幸町",
-      "storeid": "kanuma-893753",
-      "shopid": "kanuma-893753-dbarai"
+      "name": "居酒屋 大福",
+      "address": "御成橋町",
+      "storeid": "kanuma-772078",
+      "shopid": "kanuma-772078-dbarai"
     },
     {
       "name": "ベッカライ・ディ・シュトラーセ",
@@ -1157,12 +1291,6 @@
       "shopid": "kanuma-d17bba-dbarai"
     },
     {
-      "name": "Filo",
-      "address": "坂田山",
-      "storeid": "kanuma-78d971",
-      "shopid": "kanuma-78d971-dbarai"
-    },
-    {
       "name": "そば 山水",
       "address": "上永野",
       "storeid": "kanuma-e67f58",
@@ -1175,16 +1303,10 @@
       "shopid": "kanuma-71aee5-dbarai"
     },
     {
-      "name": "COFFEE STAND828",
-      "address": "上石川",
-      "storeid": "kanuma-df22d2",
-      "shopid": "kanuma-df22d2-dbarai"
-    },
-    {
-      "name": "らーめんMOUKOKU",
-      "address": "上石川",
-      "storeid": "kanuma-ebe6c2",
-      "shopid": "kanuma-ebe6c2-dbarai"
+      "name": "ずずハナレヤ",
+      "address": "上材木町",
+      "storeid": "kanuma-d819e6",
+      "shopid": "kanuma-d819e6-dbarai"
     },
     {
       "name": "うなぎ 土用亭",
@@ -1193,28 +1315,10 @@
       "shopid": "kanuma-e9cd32-dbarai"
     },
     {
-      "name": "ポタージュ",
-      "address": "上殿町",
-      "storeid": "kanuma-4cffec",
-      "shopid": "kanuma-4cffec-dbarai"
-    },
-    {
       "name": "キッチン 風熊",
       "address": "上殿町",
       "storeid": "kanuma-ef0b3f",
       "shopid": "kanuma-ef0b3f-dbarai"
-    },
-    {
-      "name": "麺 匠仁坊",
-      "address": "上殿町",
-      "storeid": "kanuma-272391",
-      "shopid": "kanuma-272391-dbarai"
-    },
-    {
-      "name": "THE DARTS BAR BIG HIP",
-      "address": "上田町",
-      "storeid": "kanuma-957ad6",
-      "shopid": "kanuma-957ad6-dbarai"
     },
     {
       "name": "Nikko Coffee Roku",
@@ -1253,34 +1357,70 @@
       "shopid": "kanuma-501670-dbarai"
     },
     {
-      "name": "黒子松屋本店",
-      "address": "深程",
-      "storeid": "kanuma-f51f78",
-      "shopid": "kanuma-f51f78-dbarai"
-    },
-    {
       "name": "一本杉農園 湯気",
-      "address": "西沢町",
-      "storeid": "kanuma-cc4403",
-      "shopid": "kanuma-cc4403-dbarai"
+      "address": "⻄沢町",
+      "storeid": "kanuma-446d9b",
+      "shopid": "kanuma-446d9b-dbarai"
     },
     {
-      "name": "西沢町の農園焼きとうもろこし家さん",
-      "address": "西沢町",
-      "storeid": "kanuma-4786bf",
-      "shopid": "kanuma-4786bf-dbarai"
+      "name": "⻄沢町の農園焼きとうもろこし家さん",
+      "address": "⻄沢町",
+      "storeid": "kanuma-6338af",
+      "shopid": "kanuma-6338af-dbarai"
+    },
+    {
+      "name": "BARMOONSHINE",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-857be3",
+      "shopid": "kanuma-857be3-dbarai"
+    },
+    {
+      "name": "居酒屋 栞",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-ffb1a8",
+      "shopid": "kanuma-ffb1a8-dbarai"
+    },
+    {
+      "name": "Airon Bake Shop",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-fadb4f",
+      "shopid": "kanuma-fadb4f-dbarai"
+    },
+    {
+      "name": "Maco Cafe",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-16f262",
+      "shopid": "kanuma-16f262-dbarai"
     },
     {
       "name": "たこ焼き和",
-      "address": "西茂呂",
-      "storeid": "kanuma-23f71f",
-      "shopid": "kanuma-23f71f-dbarai"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-047908",
+      "shopid": "kanuma-047908-dbarai"
+    },
+    {
+      "name": "食と酒 穂乃花",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-f2e9d5",
+      "shopid": "kanuma-f2e9d5-dbarai"
+    },
+    {
+      "name": "焼肉おおつか 鹿沼店",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-674278",
+      "shopid": "kanuma-674278-dbarai"
     },
     {
       "name": "お好み焼 道とん堀 鹿沼店",
-      "address": "西茂呂",
-      "storeid": "kanuma-cc17bf",
-      "shopid": "kanuma-cc17bf-dbarai"
+      "address": "⻄茂呂",
+      "storeid": "kanuma-ae6e88",
+      "shopid": "kanuma-ae6e88-dbarai"
+    },
+    {
+      "name": "コッペパン専門店 JOURNEY 鹿沼店",
+      "address": "千渡",
+      "storeid": "kanuma-6f8f04",
+      "shopid": "kanuma-6f8f04-dbarai"
     },
     {
       "name": "上海料理 大吉",
@@ -1295,22 +1435,10 @@
       "shopid": "kanuma-baca61-dbarai"
     },
     {
-      "name": "復興食堂 ゆめ広場",
-      "address": "千渡",
-      "storeid": "kanuma-898323",
-      "shopid": "kanuma-898323-dbarai"
-    },
-    {
       "name": "キッチンCOMORE",
       "address": "千渡",
       "storeid": "kanuma-54f223",
       "shopid": "kanuma-54f223-dbarai"
-    },
-    {
-      "name": "古峯神社",
-      "address": "草久",
-      "storeid": "kanuma-e80412",
-      "shopid": "kanuma-e80412-dbarai"
     },
     {
       "name": "天狗屋",
@@ -1331,22 +1459,22 @@
       "shopid": "kanuma-28b8ad-dbarai"
     },
     {
-      "name": "居酒屋 陽の丸",
-      "address": "池ノ森",
-      "storeid": "kanuma-3c7eca",
-      "shopid": "kanuma-3c7eca-dbarai"
-    },
-    {
-      "name": "ろ馬鹿",
+      "name": "鹿沼そば大越路",
       "address": "仲町",
-      "storeid": "kanuma-61898b",
-      "shopid": "kanuma-61898b-dbarai"
+      "storeid": "kanuma-0100cf",
+      "shopid": "kanuma-0100cf-dbarai"
     },
     {
       "name": "和の心 若駒",
       "address": "鳥居跡町",
       "storeid": "kanuma-5f1c32",
       "shopid": "kanuma-5f1c32-dbarai"
+    },
+    {
+      "name": "TRAIL BERRY",
+      "address": "鳥居跡町",
+      "storeid": "kanuma-ef1c09",
+      "shopid": "kanuma-ef1c09-dbarai"
     },
     {
       "name": "ずず新鹿沼駅前店",
@@ -1361,10 +1489,10 @@
       "shopid": "kanuma-36b37e-dbarai"
     },
     {
-      "name": "3匹のふくろう",
-      "address": "東末広町",
-      "storeid": "kanuma-33c5f3",
-      "shopid": "kanuma-33c5f3-dbarai"
+      "name": "アジアンちゃんぷるぅムード東洋",
+      "address": "東町",
+      "storeid": "kanuma-34b057",
+      "shopid": "kanuma-34b057-dbarai"
     },
     {
       "name": "たまのや",
@@ -1373,10 +1501,28 @@
       "shopid": "kanuma-b0f4bb-dbarai"
     },
     {
+      "name": "Cafe Maera",
+      "address": "日吉町",
+      "storeid": "kanuma-39f8e1",
+      "shopid": "kanuma-39f8e1-dbarai"
+    },
+    {
       "name": "とちぎアニマルセラピー協会",
       "address": "日吉町",
       "storeid": "kanuma-07e01c",
       "shopid": "kanuma-07e01c-dbarai"
+    },
+    {
+      "name": "ろばた御食事処 山里",
+      "address": "板荷",
+      "storeid": "kanuma-7fe9dd",
+      "shopid": "kanuma-7fe9dd-dbarai"
+    },
+    {
+      "name": "HANGOUT",
+      "address": "武子",
+      "storeid": "kanuma-afd326",
+      "shopid": "kanuma-afd326-dbarai"
     },
     {
       "name": "割烹きたやま",
@@ -1415,10 +1561,10 @@
       "shopid": "kanuma-93c22f-dbarai"
     },
     {
-      "name": "魚民 鹿沼晃望台店",
+      "name": "魚⺠ 鹿沼晃望台店",
       "address": "緑町",
-      "storeid": "kanuma-151e31",
-      "shopid": "kanuma-151e31-dbarai"
+      "storeid": "kanuma-937004",
+      "shopid": "kanuma-937004-dbarai"
     },
     {
       "name": "にれぎ裕鮨",
@@ -1427,32 +1573,110 @@
       "shopid": "kanuma-fa6fd3-dbarai"
     }
   ],
-  "その他": [
+  "クリーニング/ハウスクリーニング/コインランドリー": [
     {
-      "name": "阿久津獣医科医院",
-      "address": "塩山町",
-      "storeid": "kanuma-f5476a",
-      "shopid": "kanuma-f5476a-dbarai"
+      "name": "ブルースカイランドリー オフハウス鹿沼店",
+      "address": "栄町",
+      "storeid": "kanuma-741268",
+      "shopid": "kanuma-741268-dbarai"
     },
     {
-      "name": "カウンセリングスペース ヒーリングフォレスト",
-      "address": "茂呂",
-      "storeid": "kanuma-36af2b",
-      "shopid": "kanuma-36af2b-dbarai"
+      "name": "ホワイト急便 下材木町店",
+      "address": "下材木町",
+      "storeid": "kanuma-b6285c",
+      "shopid": "kanuma-b6285c-dbarai"
+    },
+    {
+      "name": "クリーニングハウスあべ",
+      "address": "⼾張町",
+      "storeid": "kanuma-fa9545",
+      "shopid": "kanuma-fa9545-dbarai"
+    },
+    {
+      "name": "ホワイト急便 御成橋ますや店",
+      "address": "御成橋町",
+      "storeid": "kanuma-e5a954",
+      "shopid": "kanuma-e5a954-dbarai"
+    },
+    {
+      "name": "ホワイト急便 ヨークベニマル上殿店",
+      "address": "上殿町",
+      "storeid": "kanuma-1c3653",
+      "shopid": "kanuma-1c3653-dbarai"
+    },
+    {
+      "name": "ホワイト急便 ヤオハン北部店",
+      "address": "上田町",
+      "storeid": "kanuma-ce7c9c",
+      "shopid": "kanuma-ce7c9c-dbarai"
+    },
+    {
+      "name": "ホワイト急便 日向店",
+      "address": "上日向",
+      "storeid": "kanuma-bffa14",
+      "shopid": "kanuma-bffa14-dbarai"
+    },
+    {
+      "name": "ホワイト急便 晃望台店",
+      "address": "上野町",
+      "storeid": "kanuma-b07509",
+      "shopid": "kanuma-b07509-dbarai"
+    },
+    {
+      "name": "フジドライ ヨークベニマル鹿沼店",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-082e08",
+      "shopid": "kanuma-082e08-dbarai"
+    },
+    {
+      "name": "Selfwash ⻄茂呂店",
+      "address": "⻄茂呂",
+      "storeid": "kanuma-a34a2c",
+      "shopid": "kanuma-a34a2c-dbarai"
+    },
+    {
+      "name": "EKEFAST",
+      "address": "石橋町",
+      "storeid": "kanuma-5ef4e6",
+      "shopid": "kanuma-5ef4e6-dbarai"
+    },
+    {
+      "name": "ラヴァーレ 千渡店",
+      "address": "千渡",
+      "storeid": "kanuma-29cc7a",
+      "shopid": "kanuma-29cc7a-dbarai"
+    },
+    {
+      "name": "ホワイト急便 府所店",
+      "address": "府所本町",
+      "storeid": "kanuma-4b5d18",
+      "shopid": "kanuma-4b5d18-dbarai"
+    },
+    {
+      "name": "ホワイト急便 蓬莱町店",
+      "address": "蓬莱町",
+      "storeid": "kanuma-907cb8",
+      "shopid": "kanuma-907cb8-dbarai"
+    },
+    {
+      "name": "ホワイト急便 赤塚店",
+      "address": "北赤塚町",
+      "storeid": "kanuma-a8b7bb",
+      "shopid": "kanuma-a8b7bb-dbarai"
     }
   ],
-  "エンタメ・レジャー": [
-    {
-      "name": "牛屋の肉屋よこお",
-      "address": "久野",
-      "storeid": "kanuma-b0e163",
-      "shopid": "kanuma-b0e163-dbarai"
-    },
+  "エンタメ/レジャー": [
     {
       "name": "サバゲランドTMD",
       "address": "玉田町",
       "storeid": "kanuma-e0bf35",
       "shopid": "kanuma-e0bf35-dbarai"
+    },
+    {
+      "name": "鹿沼市スケートボード",
+      "address": "緑町",
+      "storeid": "kanuma-2d072a",
+      "shopid": "kanuma-2d072a-dbarai"
     }
   ]
 }
