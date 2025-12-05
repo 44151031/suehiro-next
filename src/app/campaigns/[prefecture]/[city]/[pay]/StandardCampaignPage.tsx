@@ -1,4 +1,3 @@
-export const dynamic = "force-dynamic";
 // /app/campaigns/[prefecture]/[city]/[pay]/StandardCampaignPage.tsx
 // ✅ 最終完全版（楽天ペイ誘導ブロック追加）
 
