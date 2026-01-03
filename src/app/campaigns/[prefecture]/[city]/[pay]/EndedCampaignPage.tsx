@@ -1,10 +1,15 @@
 // /app/campaigns/[prefecture]/[city]/[pay]/EndedCampaignPage.tsx
-// 🏁 終了キャンペーン専用テンプレート（SEO最適化済み・インデックス維持対応）
+// 🏁 終了キャンペーン専用テンプレート（SEO最適化済み・StandardCampaignPage寄せ強化版）
 
 import { notFound } from "next/navigation";
 import { campaigns } from "@/lib/campaignMaster";
 import { PayTypeLabels, PayTypeId } from "@/lib/payType";
-import { formatJapaneseDate } from "@/lib/campaignUtils";
+import {
+  formatJapaneseDate,
+  getCampaignStatus,
+  getActiveCampaignsByPrefecture,
+  CampaignStatus,
+} from "@/lib/campaignUtils";
 import { generateShareContent } from "@/lib/generateShareContent";
 import { SNSShareButtons } from "@/components/common/SNSShareButtons";
 import PaytypeCampaignStructuredData from "@/components/structured/PaytypeCampaignStructuredData";
@@ -13,6 +18,28 @@ import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import CityCampaignFAQ from "@/components/sections/city/CampaignFAQ";
 import StoreRegistrationCTA from "@/components/common/StoreRegistrationCTA";
 import AdUnit from "@/components/common/AdUnit";
+
+// ▼ StandardCampaignPage 準拠の追加要素
+import CampaignSummaryCard from "@/components/sections/city/CampaignSummaryCard";
+import { CampaignOverviewTable } from "@/components/sections/city/CampaignOverviewTable";
+import CampaignNotice from "@/components/sections/city/CampaignNotice";
+import OtherPaytypesCampaigns from "@/components/sections/city/OtherPaytypesCampaigns";
+import CTAShopList from "@/components/sections/city/CTAShopList";
+import SampleShopExample from "@/components/sections/shop/SampleShopExample";
+
+// ▼ 商品券データ（県内の関連誘導）
+import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster";
+import VoucherCampaignCardList from "@/components/common/VoucherCampaignCardList";
+
+// ▼ 決済別アフィリエイトブロック
+import RakutenPayAffiliate from "@/components/affiliate/RakutenPayAffiliate";
+import PayPayAffiliate from "@/components/affiliate/PayPayAffiliate";
+import DbaraiAffiliate from "@/components/affiliate/DbaraiAffiliate";
+import AuPayAffiliate from "@/components/affiliate/AuPayAffiliate";
+import AeonPayAffiliate from "@/components/affiliate/AeonPayAffiliate";
+
+// ✅ 都道府県内キャンペーンカードリスト
+import { CampaignCardList } from "@/components/common/CampaignCardList";
 
 //
 // 🔹 終了月に基づく開催傾向メッセージを自動生成
@@ -72,6 +99,7 @@ export default async function EndedCampaignPage({
 
   const modified = dateModified ?? datePublished;
   const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${paytypeId}`;
+
   const { title: shareTitle, hashtags: shareHashtags } = generateShareContent({
     city,
     payLabel,
@@ -84,7 +112,6 @@ export default async function EndedCampaignPage({
 
   return (
     <>
-      {/* ✅ 終了済みでも意味のある構造化データを維持 */}
       <PaytypeCampaignStructuredData
         prefecture={prefecture}
         prefectureSlug={prefectureSlug}
@@ -107,25 +134,26 @@ export default async function EndedCampaignPage({
         url={pageUrl}
       />
 
-      {/* ✅ StandardCampaignPage と統一した背景・構造 */}
       <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
         <main className="max-w-[1200px] mx-auto px-4 py-10">
           <h1 className="headline1">
             {city}で実施された{payLabel}キャンペーンの開催実績（最大{offer}%還元）
           </h1>
 
-          <p className="m-1 text-sm text-right text-gray-700">
-            最終更新日：{formatJapaneseDate(modified)}｜公開：
-            {formatJapaneseDate(datePublished)}
-          </p>
+          {datePublished && (
+            <p className="m-1 text-sm text-right text-gray-700">
+              最終更新日：{formatJapaneseDate(modified)}｜公開：
+              {formatJapaneseDate(datePublished)}
+            </p>
+          )}
 
+          {/* 🔰 導入説明 */}
           <section className="mt-6 text-gray-800 leading-relaxed space-y-4">
             <p>
               本ページでは、<strong>{prefecture}{city}</strong>で開催された
               <strong>{payLabel}</strong>のポイント還元キャンペーンの詳細をアーカイブとして掲載しています。
               終了済みですが、<strong>次回開催の傾向</strong>や<strong>他の自治体の動向</strong>を把握する上で参考になります。
             </p>
-
             <div className="p-4 bg-yellow-50 border-l-4 border-yellow-400 rounded-md">
               <p className="font-semibold text-gray-900">
                 開催期間：{formatJapaneseDate(startDate)} 〜 {formatJapaneseDate(endDate)}
@@ -136,21 +164,61 @@ export default async function EndedCampaignPage({
             </div>
           </section>
 
+          <div className="mt-4">
+            <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
+          </div>
+
           <AdUnit />
 
-          <section className="mt-8">
-            <h2 className="headline2 mb-3">現在開催中のキャンペーンをチェック</h2>
-            <p className="text-sm text-gray-700 mb-2">
-              現在開催中の{prefecture}内キャンペーンはこちら：
-            </p>
-            <a
-              href={`/campaigns/${prefectureSlug}`}
-              className="text-brand-primary font-semibold underline"
-            >
-              ▶ {prefecture}の開催中キャンペーン一覧を見る
-            </a>
+          {/* ✅ 情報ブロック */}
+          <section className="mt-8 space-y-10">
+            <CampaignSummaryCard campaign={campaign} />
+            <CampaignOverviewTable campaign={campaign} />
+            <CampaignNotice campaign={campaign} />
+
+            {paytypeId === "rakutenpay" && <RakutenPayAffiliate />}
+            {paytypeId === "paypay" && <PayPayAffiliate />}
+            {paytypeId === "dbarai" && <DbaraiAffiliate />}
+            {paytypeId === "aupay" && <AuPayAffiliate />}
+            {paytypeId === "aeonpay" && <AeonPayAffiliate />}
           </section>
 
+          <AdUnit />
+
+          {/* 🗺️ 現在開催中の都道府県内キャンペーン */}
+          {(() => {
+            const prefectureActiveList = getActiveCampaignsByPrefecture(
+              prefectureSlug,
+              campaigns
+            ).filter(
+              (c) => getCampaignStatus(c.startDate, c.endDate) === "active"
+            );
+
+            return (
+              <section className="mt-10">
+                <h2 className="headline2 mb-3">{prefecture}で現在開催されているキャンペーンをチェック</h2>
+
+                {prefectureActiveList.length > 0 ? (
+                  <div className="prefecture-page-card-container mb-6">
+                    <CampaignCardList campaigns={prefectureActiveList} />
+                  </div>
+                ) : (
+                  <p className="text-gray-600 text-sm mb-6">
+                    現在、{prefecture}内で実施中のキャンペーンはありません。
+                  </p>
+                )}
+
+                <a
+                  href={`/campaigns/${prefectureSlug}`}
+                  className="text-brand-primary font-semibold underline"
+                >
+                  ▶ {prefecture}の開催中キャンペーン一覧を見る
+                </a>
+              </section>
+            );
+          })()}
+
+          {/* 🔮 次回開催の見通し */}
           <section className="mt-10">
             <h2 className="headline2 mb-3">次回開催の見通し・過去実績からわかる傾向</h2>
             <p className="text-sm md:text-base text-gray-800 leading-relaxed">
@@ -158,21 +226,53 @@ export default async function EndedCampaignPage({
               最新情報が発表され次第、このページでもお知らせします。
             </p>
           </section>
-          <div className="mt-12">
-            <RecommendedCampaigns
-              prefectureSlug={prefectureSlug}
-              citySlug={citySlug}
-              currentPaytype={paytypeId}
-              city={city}
-            />
-          </div>
-          <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
 
-          <div className="mt-12">
-            <CityCampaignFAQ prefecture={prefecture} city={city} payLabel={payLabel} />
+          {/* 🎫 同県内の商品券情報 */}
+          {(() => {
+            const now = new Date();
+            const prefectureVoucherCampaigns = voucherCampaignMaster
+              .filter(
+                (v) =>
+                  v.prefectureSlug === prefectureSlug &&
+                  now <= new Date(v.applyEndDate)
+              )
+              .sort(
+                (a, b) =>
+                  new Date(a.applyStartDate).getTime() -
+                  new Date(b.applyStartDate).getTime()
+              );
+
+            if (prefectureVoucherCampaigns.length === 0) return null;
+
+            return (
+              <section className="mt-12">
+                <h2 className="text-xl sm:text-2xl font-bold text-neutral-800 mb-6 border-l-4 border-brand-primary pl-4">
+                  {prefecture}のオトクなPayPay商品券の情報はこちら
+                </h2>
+                <VoucherCampaignCardList campaigns={prefectureVoucherCampaigns} />
+              </section>
+            );
+          })()}
+
+          {/* 🏪 CTA */}
+          <section className="mt-12 space-y-6">
+            <CTAShopList prefectureSlug={prefectureSlug} citySlug={citySlug} paytype={paytypeId} />
+            <StoreRegistrationCTA />
+            <SampleShopExample />
+          </section>
+
+          <div className="mt-10">
+            <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
           </div>
 
-          <StoreRegistrationCTA />
+          <RecommendedCampaigns
+            prefectureSlug={prefectureSlug}
+            citySlug={citySlug}
+            currentPaytype={paytypeId}
+            city={city}
+          />
+
+          <CityCampaignFAQ prefecture={prefecture} city={city} payLabel={payLabel} />
           <BackNavigationButtons prefecture={prefecture} prefectureSlug={prefectureSlug} />
         </main>
       </div>
