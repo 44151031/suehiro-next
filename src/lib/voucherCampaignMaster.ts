@@ -1555,24 +1555,25 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
 },
 {
   paytype: "paypay-voucher",
-  prefectureSlug: "shizuoka",
-  citySlug: "mishima",
-  prefecture: "静岡県",
-  city: "三島市",
-  campaigntitle: "三島市プレミアム付デジタル商品券 最大10,000円おトク！",
-  purchasePrice: 5000,
-  ticketAmount: 6000,
-  maxUnits: 10,
+  prefectureSlug: "hyogo",
+  citySlug: "akashi",
+  prefecture: "兵庫県",
+  city: "明石市",
+  campaigntitle: "あかしタコPay50！最大12,500円おトク！",
+  purchasePrice: 1000,
+  ticketAmount: 1500,
+  maxUnits: 25,
   applyStartDate: "2026-03-02T10:00:00",
-  applyEndDate: "2026-03-26T23:59:59",
-  resultAnnounceDate: "2026-03-27T15:00:00",
-  purchaseEndDate: "2026-04-27T23:59:59",
-  useEndDate: "2026-08-31T23:59:59",
+  applyEndDate: "2026-03-31T23:59:59",
+  resultAnnounceDate: "2026-04-01T15:00:00",
+  purchaseEndDate: "2026-04-30T23:59:59",
+  useEndDate: "2026-06-30T23:59:59",
   datePublished: "2026-02-25",
   dateModified: "2026-02-25",
-  eligiblePersons: "静岡県三島市に住所を有する12歳以上の方（本人確認必須・抽選方式）",
-  applicationUrl: "https://paypay.ne.jp/event/shizuoka-mishima-city-gift-vouchers-20260302/"
+  eligiblePersons: "兵庫県明石市に住所を有する16歳以上の方（本人確認必須・抽選方式）",
+  applicationUrl: "https://paypay.ne.jp/event/hyogo-akashi-city-gift-vouchers-20260302/"
 }
+
 ];
 
 /**
