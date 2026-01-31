@@ -1573,7 +1573,6 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
   eligiblePersons: "兵庫県明石市に住所を有する16歳以上の方（本人確認必須・抽選方式）",
   applicationUrl: "https://paypay.ne.jp/event/hyogo-akashi-city-gift-vouchers-20260302/"
 }
-
 ];
 
 /**
