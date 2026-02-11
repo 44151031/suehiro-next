@@ -1,0 +1,380 @@
+{
+  "飲食店": [
+    {
+      "name": "味処 竹吉",
+      "address": "西本町",
+      "storeid": "makurazaki-d24bb6",
+      "shopid": "makurazaki-d24bb6-dbarai"
+    },
+    {
+      "name": "味処 和幸",
+      "address": "中町",
+      "storeid": "makurazaki-f20878",
+      "shopid": "makurazaki-f20878-dbarai"
+    },
+    {
+      "name": "味のピカ一",
+      "address": "中町",
+      "storeid": "makurazaki-fc44c0",
+      "shopid": "makurazaki-fc44c0-dbarai"
+    },
+    {
+      "name": "AMUSEMENT BAR nine",
+      "address": "千代田町",
+      "storeid": "makurazaki-7a1e95",
+      "shopid": "makurazaki-7a1e95-dbarai"
+    },
+    {
+      "name": "居酒屋 食堂 つちふまず",
+      "address": "栄中町",
+      "storeid": "makurazaki-9c0525",
+      "shopid": "makurazaki-9c0525-dbarai"
+    },
+    {
+      "name": "うどん・そば ダイニング つむぎ",
+      "address": "大塚西町",
+      "storeid": "makurazaki-a68789",
+      "shopid": "makurazaki-a68789-dbarai"
+    },
+    {
+      "name": "お食事処 ゆう",
+      "address": "岩崎町",
+      "storeid": "makurazaki-2081b4",
+      "shopid": "makurazaki-2081b4-dbarai"
+    },
+    {
+      "name": "oto",
+      "address": "折口町",
+      "storeid": "makurazaki-fdd9f2",
+      "shopid": "makurazaki-fdd9f2-dbarai"
+    },
+    {
+      "name": "KarDiaBAKERY",
+      "address": "桜山本町",
+      "storeid": "makurazaki-de4bf4",
+      "shopid": "makurazaki-de4bf4-dbarai"
+    },
+    {
+      "name": "カラオケカフェ ユニコーン",
+      "address": "汐見町",
+      "storeid": "makurazaki-0b0253",
+      "shopid": "makurazaki-0b0253-dbarai"
+    },
+    {
+      "name": "カラオケ ひだまり",
+      "address": "大塚中町",
+      "storeid": "makurazaki-b9c4a0",
+      "shopid": "makurazaki-b9c4a0-dbarai"
+    },
+    {
+      "name": "カラオケ ぽっぽ",
+      "address": "板敷西町",
+      "storeid": "makurazaki-c4320e",
+      "shopid": "makurazaki-c4320e-dbarai"
+    },
+    {
+      "name": "カラオケ リバーサイド",
+      "address": "松之尾町",
+      "storeid": "makurazaki-52459d",
+      "shopid": "makurazaki-52459d-dbarai"
+    },
+    {
+      "name": "喜久家食堂",
+      "address": "折口町",
+      "storeid": "makurazaki-053c52",
+      "shopid": "makurazaki-053c52-dbarai"
+    },
+    {
+      "name": "くわはら農園",
+      "address": "大塚中町",
+      "storeid": "makurazaki-f08c01",
+      "shopid": "makurazaki-f08c01-dbarai"
+    },
+    {
+      "name": "魚処 まんぼう",
+      "address": "恵比須町",
+      "storeid": "makurazaki-08b1c4",
+      "shopid": "makurazaki-08b1c4-dbarai"
+    },
+    {
+      "name": "酒食堂 神神楽",
+      "address": "立神本町",
+      "storeid": "makurazaki-4eb674",
+      "shopid": "makurazaki-4eb674-dbarai"
+    },
+    {
+      "name": "焼酎庵 真鯛",
+      "address": "緑町",
+      "storeid": "makurazaki-20fd88",
+      "shopid": "makurazaki-20fd88-dbarai"
+    },
+    {
+      "name": "食工房・彩",
+      "address": "中央町",
+      "storeid": "makurazaki-5b3171",
+      "shopid": "makurazaki-5b3171-dbarai"
+    },
+    {
+      "name": "食楽厨房 歌留多",
+      "address": "桜木町",
+      "storeid": "makurazaki-d6d701",
+      "shopid": "makurazaki-d6d701-dbarai"
+    },
+    {
+      "name": "杉乃家",
+      "address": "港町",
+      "storeid": "makurazaki-eb3fb2",
+      "shopid": "makurazaki-eb3fb2-dbarai"
+    },
+    {
+      "name": "すし匠 五条",
+      "address": "岩戸町",
+      "storeid": "makurazaki-ae26bb",
+      "shopid": "makurazaki-ae26bb-dbarai"
+    },
+    {
+      "name": "SOPO",
+      "address": "千代田町",
+      "storeid": "makurazaki-11df16",
+      "shopid": "makurazaki-11df16-dbarai"
+    },
+    {
+      "name": "大衆酒場 チキンマン",
+      "address": "折口町",
+      "storeid": "makurazaki-dfcd0e",
+      "shopid": "makurazaki-dfcd0e-dbarai"
+    },
+    {
+      "name": "Dining Bar ENGINE",
+      "address": "寿町",
+      "storeid": "makurazaki-1d3a5b",
+      "shopid": "makurazaki-1d3a5b-dbarai"
+    },
+    {
+      "name": "タカララーメン",
+      "address": "汐見町",
+      "storeid": "makurazaki-350bc8",
+      "shopid": "makurazaki-350bc8-dbarai"
+    },
+    {
+      "name": "Tatsuカフェ",
+      "address": "折口町",
+      "storeid": "makurazaki-d1919b",
+      "shopid": "makurazaki-d1919b-dbarai"
+    },
+    {
+      "name": "タツジン弁当",
+      "address": "折口町",
+      "storeid": "makurazaki-01ed1f",
+      "shopid": "makurazaki-01ed1f-dbarai"
+    },
+    {
+      "name": "中華料理 グランド食堂",
+      "address": "岩崎町",
+      "storeid": "makurazaki-82bd2a",
+      "shopid": "makurazaki-82bd2a-dbarai"
+    },
+    {
+      "name": "月とくるみ",
+      "address": "日之出町",
+      "storeid": "makurazaki-da9ba5",
+      "shopid": "makurazaki-da9ba5-dbarai"
+    },
+    {
+      "name": "ツキミチ喫茶",
+      "address": "汐見町",
+      "storeid": "makurazaki-dd0a59",
+      "shopid": "makurazaki-dd0a59-dbarai"
+    },
+    {
+      "name": "ナイトアンドデイ／ミュージックハウスCoCo",
+      "address": "高見町",
+      "storeid": "makurazaki-7e1de2",
+      "shopid": "makurazaki-7e1de2-dbarai"
+    },
+    {
+      "name": "呑喰厨房 ふくろう",
+      "address": "中町",
+      "storeid": "makurazaki-876348",
+      "shopid": "makurazaki-876348-dbarai"
+    },
+    {
+      "name": "BAR 45",
+      "address": "折口町",
+      "storeid": "makurazaki-9e3a12",
+      "shopid": "makurazaki-9e3a12-dbarai"
+    },
+    {
+      "name": "好好飯店",
+      "address": "汐見町",
+      "storeid": "makurazaki-a6e87c",
+      "shopid": "makurazaki-a6e87c-dbarai"
+    },
+    {
+      "name": "ふぁみり庵はいから亭 寿司まどか 枕崎店",
+      "address": "平田町",
+      "storeid": "makurazaki-340d89",
+      "shopid": "makurazaki-340d89-dbarai"
+    },
+    {
+      "name": "福寿庵",
+      "address": "松之尾町",
+      "storeid": "makurazaki-f422fa",
+      "shopid": "makurazaki-f422fa-dbarai"
+    },
+    {
+      "name": "ぷくぷくカフェ",
+      "address": "松之尾町",
+      "storeid": "makurazaki-f7aef6",
+      "shopid": "makurazaki-f7aef6-dbarai"
+    },
+    {
+      "name": "花むらさき",
+      "address": "桜木町",
+      "storeid": "makurazaki-260cf4",
+      "shopid": "makurazaki-260cf4-dbarai"
+    },
+    {
+      "name": "枕崎の味処 一福",
+      "address": "東本町",
+      "storeid": "makurazaki-6ae3b5",
+      "shopid": "makurazaki-6ae3b5-dbarai"
+    },
+    {
+      "name": "枕崎みなと食堂",
+      "address": "松之尾町",
+      "storeid": "makurazaki-18ec37",
+      "shopid": "makurazaki-18ec37-dbarai"
+    },
+    {
+      "name": "枕崎名物料理 だいとく",
+      "address": "折口町",
+      "storeid": "makurazaki-e014b7",
+      "shopid": "makurazaki-e014b7-dbarai"
+    },
+    {
+      "name": "MARYQUANT",
+      "address": "港町",
+      "storeid": "makurazaki-4e8d64",
+      "shopid": "makurazaki-4e8d64-dbarai"
+    },
+    {
+      "name": "瑞穂寿し",
+      "address": "新町",
+      "storeid": "makurazaki-ca2fc2",
+      "shopid": "makurazaki-ca2fc2-dbarai"
+    },
+    {
+      "name": "みんなのゑびす家",
+      "address": "宮田町",
+      "storeid": "makurazaki-178c4f",
+      "shopid": "makurazaki-178c4f-dbarai"
+    },
+    {
+      "name": "麺遊記",
+      "address": "立神本町",
+      "storeid": "makurazaki-b8fafe",
+      "shopid": "makurazaki-b8fafe-dbarai"
+    },
+    {
+      "name": "森のパン 枕崎店",
+      "address": "中央町",
+      "storeid": "makurazaki-8de279",
+      "shopid": "makurazaki-8de279-dbarai"
+    },
+    {
+      "name": "焼肉のタツミ",
+      "address": "桜木町",
+      "storeid": "makurazaki-2b33b2",
+      "shopid": "makurazaki-2b33b2-dbarai"
+    },
+    {
+      "name": "焼肉・友",
+      "address": "宮前町",
+      "storeid": "makurazaki-57f4a6",
+      "shopid": "makurazaki-57f4a6-dbarai"
+    },
+    {
+      "name": "夜食屋 花・華",
+      "address": "汐見町",
+      "storeid": "makurazaki-dab4f1",
+      "shopid": "makurazaki-dab4f1-dbarai"
+    },
+    {
+      "name": "山猫瓶詰研究所",
+      "address": "金山町",
+      "storeid": "makurazaki-a73285",
+      "shopid": "makurazaki-a73285-dbarai"
+    },
+    {
+      "name": "LAFTEL",
+      "address": "汐見町",
+      "storeid": "makurazaki-6608a6",
+      "shopid": "makurazaki-6608a6-dbarai"
+    },
+    {
+      "name": "ろばた焼 かみなり",
+      "address": "岩崎町",
+      "storeid": "makurazaki-991714",
+      "shopid": "makurazaki-991714-dbarai"
+    },
+    {
+      "name": "和懐 おお田",
+      "address": "西本町",
+      "storeid": "makurazaki-961c42",
+      "shopid": "makurazaki-961c42-dbarai"
+    },
+    {
+      "name": "ONE",
+      "address": "岩戸町",
+      "storeid": "makurazaki-e67388",
+      "shopid": "makurazaki-e67388-dbarai"
+    }
+  ],
+  "宿泊": [
+    {
+      "name": "グリーンホテル福住",
+      "address": "岩戸町",
+      "storeid": "makurazaki-1d1165",
+      "shopid": "makurazaki-1d1165-dbarai"
+    },
+    {
+      "name": "GUESTHOUSE くわはら",
+      "address": "大塚中町",
+      "storeid": "makurazaki-3a7d30",
+      "shopid": "makurazaki-3a7d30-dbarai"
+    },
+    {
+      "name": "ゲストハウスKoToKoTo",
+      "address": "住吉町",
+      "storeid": "makurazaki-6f7f84",
+      "shopid": "makurazaki-6f7f84-dbarai"
+    },
+    {
+      "name": "シティホテル福住",
+      "address": "西本町",
+      "storeid": "makurazaki-3d3f04",
+      "shopid": "makurazaki-3d3f04-dbarai"
+    },
+    {
+      "name": "空と海を臨む宿 Ocean Hotel Iwato",
+      "address": "岩戸町",
+      "storeid": "makurazaki-3f045b",
+      "shopid": "makurazaki-3f045b-dbarai"
+    },
+    {
+      "name": "枕崎ステーションホテル",
+      "address": "住吉町",
+      "storeid": "makurazaki-1bf83d",
+      "shopid": "makurazaki-1bf83d-dbarai"
+    }
+  ],
+  "交通": [
+    {
+      "name": "枕崎運転代行",
+      "address": "折口町",
+      "storeid": "makurazaki-6316cc",
+      "shopid": "makurazaki-6316cc-dbarai"
+    }
+  ]
+}
