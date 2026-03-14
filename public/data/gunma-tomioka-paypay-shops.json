@@ -2,1543 +2,2253 @@
   "運転代行業": [
     {
       "name": "アース24時間運転代行",
-      "address": "宮崎647-1"
+      "address": "宮崎647-1",
+      "storeid": "tomioka-437ec0",
+      "shopid": "tomioka-437ec0-paypay"
     },
     {
       "name": "アップル代行",
-      "address": "田篠1238-2"
+      "address": "田篠1238-2",
+      "storeid": "tomioka-b563a0",
+      "shopid": "tomioka-b563a0-paypay"
     }
   ],
   "美容業": [
     {
       "name": "Eyelash  LOUIS",
-      "address": "中高瀬487"
+      "address": "中高瀬487",
+      "storeid": "tomioka-15ad3c",
+      "shopid": "tomioka-15ad3c-paypay"
     },
     {
       "name": "赤穂理容所",
-      "address": "七日市947"
+      "address": "七日市947",
+      "storeid": "tomioka-754f1b",
+      "shopid": "tomioka-754f1b-paypay"
     },
     {
       "name": "アップビート美容室 富岡店",
-      "address": "七日市262-8"
+      "address": "七日市262-8",
+      "storeid": "tomioka-ee25c9",
+      "shopid": "tomioka-ee25c9-paypay"
     },
     {
       "name": "Alli -hair&headspa-",
-      "address": "中高瀬776-14"
+      "address": "中高瀬776-14",
+      "storeid": "tomioka-9cc698",
+      "shopid": "tomioka-9cc698-paypay"
     },
     {
       "name": "いづみ理容所",
-      "address": "一ノ宮1526-2"
+      "address": "一ノ宮1526-2",
+      "storeid": "tomioka-9fe477",
+      "shopid": "tomioka-9fe477-paypay"
     },
     {
       "name": "ifuu",
-      "address": "富岡327-4"
+      "address": "富岡327-4",
+      "storeid": "tomioka-07a8d5",
+      "shopid": "tomioka-07a8d5-paypay"
     },
     {
       "name": "イマージン富岡店",
-      "address": "七日市1584-1"
+      "address": "七日市1584-1",
+      "storeid": "tomioka-b3c32b",
+      "shopid": "tomioka-b3c32b-paypay"
     },
     {
       "name": "エミール美容室",
-      "address": "富岡1926-3"
+      "address": "富岡1926-3",
+      "storeid": "tomioka-cc06be",
+      "shopid": "tomioka-cc06be-paypay"
     },
     {
       "name": "ＥＬＥＧＡＮＣＥ  ｃｉｅｌ",
-      "address": "富岡501"
+      "address": "富岡501",
+      "storeid": "tomioka-2baec1",
+      "shopid": "tomioka-2baec1-paypay"
     },
     {
       "name": "カットスタジオ・タムラ",
-      "address": "神農原837-1"
+      "address": "神農原837-1",
+      "storeid": "tomioka-1de5cc",
+      "shopid": "tomioka-1de5cc-paypay"
     },
     {
       "name": "久美子のパーマ屋",
-      "address": "神農原66"
+      "address": "神農原66",
+      "storeid": "tomioka-9b8b1b",
+      "shopid": "tomioka-9b8b1b-paypay"
     },
     {
       "name": "Sunday  富岡店",
-      "address": "一ノ宮1682"
+      "address": "一ノ宮1682",
+      "storeid": "tomioka-007e78",
+      "shopid": "tomioka-007e78-paypay"
     },
     {
       "name": "Shanti eye 〜まつげ＆まゆげ専門店〜",
-      "address": "内匠149-3"
+      "address": "内匠149-3",
+      "storeid": "tomioka-2df8fe",
+      "shopid": "tomioka-2df8fe-paypay"
     },
     {
       "name": "ダイニングバー辻ヶ華",
-      "address": "一ノ宮274-1"
+      "address": "一ノ宮274-1",
+      "storeid": "tomioka-969c38",
+      "shopid": "tomioka-969c38-paypay"
     },
     {
       "name": "toile] hair",
-      "address": "七日市346-1"
+      "address": "七日市346-1",
+      "storeid": "tomioka-d14190",
+      "shopid": "tomioka-d14190-paypay"
     },
     {
       "name": "ｐａｓ  ａ  ｐａｓ",
-      "address": "下高瀬405-1"
+      "address": "下高瀬405-1",
+      "storeid": "tomioka-63b8aa",
+      "shopid": "tomioka-63b8aa-paypay"
     },
     {
       "name": "HAPPI",
-      "address": "内匠233-1"
+      "address": "内匠233-1",
+      "storeid": "tomioka-4ead72",
+      "shopid": "tomioka-4ead72-paypay"
     },
     {
       "name": "ビューティーサロン  北川",
-      "address": "一ノ宮369-10"
+      "address": "一ノ宮369-10",
+      "storeid": "tomioka-6abc58",
+      "shopid": "tomioka-6abc58-paypay"
     },
     {
       "name": "美容室愛華夢",
-      "address": "七日市62-6"
+      "address": "七日市62-6",
+      "storeid": "tomioka-eb44a1",
+      "shopid": "tomioka-eb44a1-paypay"
     },
     {
       "name": "美容室センシュアス",
-      "address": "中高瀬383"
+      "address": "中高瀬383",
+      "storeid": "tomioka-a9ddee",
+      "shopid": "tomioka-a9ddee-paypay"
     },
     {
       "name": "Flower Colors  TOMIOKA",
-      "address": "黒川650"
+      "address": "黒川650",
+      "storeid": "tomioka-33f427",
+      "shopid": "tomioka-33f427-paypay"
     },
     {
       "name": "ヘアーサロン髮ing",
-      "address": "富岡19"
+      "address": "富岡19",
+      "storeid": "tomioka-5c03cb",
+      "shopid": "tomioka-5c03cb-paypay"
     },
     {
       "name": "ヘアーサロン・ミスズ理美容室",
-      "address": "下丹生151-1"
+      "address": "下丹生151-1",
+      "storeid": "tomioka-280509",
+      "shopid": "tomioka-280509-paypay"
     },
     {
       "name": "ヘアーサロンReason",
-      "address": "富岡1364"
+      "address": "富岡1364",
+      "storeid": "tomioka-72f877",
+      "shopid": "tomioka-72f877-paypay"
     },
     {
       "name": "hair sourire vis-à-vis",
-      "address": "下高瀬201-7"
+      "address": "下高瀬201-7",
+      "storeid": "tomioka-4d629d",
+      "shopid": "tomioka-4d629d-paypay"
     },
     {
       "name": "HAIR vision",
-      "address": "七日市419-12"
+      "address": "七日市419-12",
+      "storeid": "tomioka-bbbaac",
+      "shopid": "tomioka-bbbaac-paypay"
     },
     {
       "name": "Hair Room UNO",
-      "address": "野上2059-4"
+      "address": "野上2059-4",
+      "storeid": "tomioka-8776fa",
+      "shopid": "tomioka-8776fa-paypay"
     },
     {
       "name": "hair do poja  富岡本店",
-      "address": "宇田488-3"
+      "address": "宇田488-3",
+      "storeid": "tomioka-201c2e",
+      "shopid": "tomioka-201c2e-paypay"
     },
     {
       "name": "manahair",
-      "address": "内匠146ー7"
+      "address": "内匠146ー7",
+      "storeid": "tomioka-3ac0ed",
+      "shopid": "tomioka-3ac0ed-paypay"
     },
     {
       "name": "美容室GOD  富岡店",
-      "address": "七日市167-8"
+      "address": "七日市167-8",
+      "storeid": "tomioka-ef4ee3",
+      "shopid": "tomioka-ef4ee3-paypay"
     },
     {
       "name": "山岸ヘアーサロン at home space YAMAGISHI",
-      "address": "富岡1285-4"
+      "address": "富岡1285-4",
+      "storeid": "tomioka-d6be29",
+      "shopid": "tomioka-d6be29-paypay"
     },
     {
       "name": "理容タカハシ",
-      "address": "富岡1578-6"
+      "address": "富岡1578-6",
+      "storeid": "tomioka-84e990",
+      "shopid": "tomioka-84e990-paypay"
     },
     {
       "name": "loms eyelash",
-      "address": "七日市346-1"
+      "address": "七日市346-1",
+      "storeid": "tomioka-676743",
+      "shopid": "tomioka-676743-paypay"
     }
   ],
   "自動車整備": [
     {
       "name": "阿久津自動車整備工場",
-      "address": "桑原756"
+      "address": "桑原756",
+      "storeid": "tomioka-a7f7ee",
+      "shopid": "tomioka-a7f7ee-paypay"
     },
     {
       "name": "池田自動車工業",
-      "address": "富岡2409-2"
+      "address": "富岡2409-2",
+      "storeid": "tomioka-e0e340",
+      "shopid": "tomioka-e0e340-paypay"
     },
     {
       "name": "ＭＴタイヤサービス",
-      "address": "宇田573"
+      "address": "宇田573",
+      "storeid": "tomioka-8dbdcd",
+      "shopid": "tomioka-8dbdcd-paypay"
     },
     {
       "name": "おしゃれ工房  ヤオコー富岡店",
-      "address": "一ノ宮1682"
+      "address": "一ノ宮1682",
+      "storeid": "tomioka-63fd2d",
+      "shopid": "tomioka-63fd2d-paypay"
     },
     {
       "name": "神農原自動車整備工場",
-      "address": "神農原794"
+      "address": "神農原794",
+      "storeid": "tomioka-45b7ba",
+      "shopid": "tomioka-45b7ba-paypay"
     },
     {
       "name": "キモト自動車株式会社",
-      "address": "富岡1262-1"
+      "address": "富岡1262-1",
+      "storeid": "tomioka-b735ae",
+      "shopid": "tomioka-b735ae-paypay"
     },
     {
       "name": "kraft.wagen",
-      "address": "上高尾131-1"
+      "address": "上高尾131-1",
+      "storeid": "tomioka-a4a0aa",
+      "shopid": "tomioka-a4a0aa-paypay"
     },
     {
       "name": "須賀モータース",
-      "address": "富岡962"
+      "address": "富岡962",
+      "storeid": "tomioka-604fd2",
+      "shopid": "tomioka-604fd2-paypay"
     },
     {
       "name": "TR  Garage",
-      "address": "下高瀬217-1"
+      "address": "下高瀬217-1",
+      "storeid": "tomioka-902c17",
+      "shopid": "tomioka-902c17-paypay"
     },
     {
       "name": "株式会社中山自動車整備工場",
-      "address": "下黒岩628-1"
+      "address": "下黒岩628-1",
+      "storeid": "tomioka-52ff17",
+      "shopid": "tomioka-52ff17-paypay"
     },
     {
       "name": "ハートテック",
-      "address": "富岡962"
+      "address": "富岡962",
+      "storeid": "tomioka-c9918a",
+      "shopid": "tomioka-c9918a-paypay"
     },
     {
       "name": "フミオ自動車",
-      "address": "黒川1282"
+      "address": "黒川1282",
+      "storeid": "tomioka-213e2c",
+      "shopid": "tomioka-213e2c-paypay"
     },
     {
       "name": "PROグラスランド",
-      "address": "下高瀬238-1"
+      "address": "下高瀬238-1",
+      "storeid": "tomioka-0356e5",
+      "shopid": "tomioka-0356e5-paypay"
     },
     {
       "name": "細谷モータース",
-      "address": "内匠390"
+      "address": "内匠390",
+      "storeid": "tomioka-ebb987",
+      "shopid": "tomioka-ebb987-paypay"
     },
     {
       "name": "有限会社丸山自動車",
-      "address": "相野田479-1"
+      "address": "相野田479-1",
+      "storeid": "tomioka-e0f4f6",
+      "shopid": "tomioka-e0f4f6-paypay"
     },
     {
       "name": "茂木オート",
-      "address": "下高尾456"
+      "address": "下高尾456",
+      "storeid": "tomioka-9422e9",
+      "shopid": "tomioka-9422e9-paypay"
     },
     {
       "name": "ロッソモデロ",
-      "address": "田篠533"
+      "address": "田篠533",
+      "storeid": "tomioka-58b694",
+      "shopid": "tomioka-58b694-paypay"
     }
   ],
   "飲食店": [
     {
       "name": "あぐりキッチン富岡店",
-      "address": "富岡1878-1"
+      "address": "富岡1878-1",
+      "storeid": "tomioka-5dd6e7",
+      "shopid": "tomioka-5dd6e7-paypay"
     },
     {
       "name": "東鮨",
-      "address": "富岡29"
+      "address": "富岡29",
+      "storeid": "tomioka-09ce07",
+      "shopid": "tomioka-09ce07-paypay"
     },
     {
       "name": "アトリエ",
-      "address": "富岡1045"
+      "address": "富岡1045",
+      "storeid": "tomioka-4d9376",
+      "shopid": "tomioka-4d9376-paypay"
     },
     {
       "name": "あんことCAFE",
-      "address": "富岡1489-3"
+      "address": "富岡1489-3",
+      "storeid": "tomioka-ee73ed",
+      "shopid": "tomioka-ee73ed-paypay"
     },
     {
       "name": "居酒屋らいでん",
-      "address": "南後箇47-7"
+      "address": "南後箇47-7",
+      "storeid": "tomioka-c0474a",
+      "shopid": "tomioka-c0474a-paypay"
     },
     {
       "name": "伊勢屋",
-      "address": "富岡1031"
+      "address": "富岡1031",
+      "storeid": "tomioka-4be8ee",
+      "shopid": "tomioka-4be8ee-paypay"
     },
     {
       "name": "磯寿司",
-      "address": "宇田54-2"
+      "address": "宇田54-2",
+      "storeid": "tomioka-f3e88c",
+      "shopid": "tomioka-f3e88c-paypay"
     },
     {
       "name": "IL.Piatto",
-      "address": "内匠144"
+      "address": "内匠144",
+      "storeid": "tomioka-93e53c",
+      "shopid": "tomioka-93e53c-paypay"
     },
     {
       "name": "IL.PINO",
-      "address": "富岡1041"
+      "address": "富岡1041",
+      "storeid": "tomioka-b59bfb",
+      "shopid": "tomioka-b59bfb-paypay"
     },
     {
       "name": "IL.PINO  Panisse Kitchen",
-      "address": "内匠144"
+      "address": "内匠144",
+      "storeid": "tomioka-f326b8",
+      "shopid": "tomioka-f326b8-paypay"
     },
     {
       "name": "魚民  富岡バイパス店",
-      "address": "黒川729-2"
+      "address": "黒川729-2",
+      "storeid": "tomioka-a7173b",
+      "shopid": "tomioka-a7173b-paypay"
     },
     {
       "name": "唄える居酒屋  灯",
-      "address": "下高瀬638-1"
+      "address": "下高瀬638-1",
+      "storeid": "tomioka-e642aa",
+      "shopid": "tomioka-e642aa-paypay"
     },
     {
       "name": "梅もと",
-      "address": "富岡42"
+      "address": "富岡42",
+      "storeid": "tomioka-6e349d",
+      "shopid": "tomioka-6e349d-paypay"
     },
     {
       "name": "aim食堂  IHIエアロスペース七日市寮",
-      "address": "七日市54"
+      "address": "七日市54",
+      "storeid": "tomioka-3fea4b",
+      "shopid": "tomioka-3fea4b-paypay"
     },
     {
       "name": "ファミリー中華  大番",
-      "address": "曽木547-3"
+      "address": "曽木547-3",
+      "storeid": "tomioka-c22447",
+      "shopid": "tomioka-c22447-paypay"
     },
     {
       "name": "おとみ茶楽",
-      "address": "富岡373-1"
+      "address": "富岡373-1",
+      "storeid": "tomioka-cdb2a8",
+      "shopid": "tomioka-cdb2a8-paypay"
     },
     {
       "name": "カーリーグルメレストラン  富岡店",
-      "address": "黒川737-2"
+      "address": "黒川737-2",
+      "storeid": "tomioka-9304f8",
+      "shopid": "tomioka-9304f8-paypay"
     },
     {
       "name": "ガスト  群馬富岡店",
-      "address": "富岡2651-1"
+      "address": "富岡2651-1",
+      "storeid": "tomioka-781465",
+      "shopid": "tomioka-781465-paypay"
     },
     {
       "name": "がってん寿司  富岡店",
-      "address": "富岡1292-1"
+      "address": "富岡1292-1",
+      "storeid": "tomioka-ff26d7",
+      "shopid": "tomioka-ff26d7-paypay"
     },
     {
       "name": "かっぱ寿司  富岡店",
-      "address": "富岡2356"
+      "address": "富岡2356",
+      "storeid": "tomioka-5aec19",
+      "shopid": "tomioka-5aec19-paypay"
     },
     {
       "name": "割烹  竹乃花",
-      "address": "富岡2308-8"
+      "address": "富岡2308-8",
+      "storeid": "tomioka-b9ec90",
+      "shopid": "tomioka-b9ec90-paypay"
     },
     {
       "name": "かつ味",
-      "address": "一ノ宮1244-1"
+      "address": "一ノ宮1244-1",
+      "storeid": "tomioka-ec257c",
+      "shopid": "tomioka-ec257c-paypay"
     },
     {
       "name": "cafeCOVO",
-      "address": "黒川1800-13"
+      "address": "黒川1800-13",
+      "storeid": "tomioka-30e53a",
+      "shopid": "tomioka-30e53a-paypay"
     },
     {
       "name": "カフェ ドローム",
-      "address": "富岡51-4"
+      "address": "富岡51-4",
+      "storeid": "tomioka-1deb27",
+      "shopid": "tomioka-1deb27-paypay"
     },
     {
       "name": "かぶら苑",
-      "address": "中高瀬364－4"
+      "address": "中高瀬364－4",
+      "storeid": "tomioka-6945f6",
+      "shopid": "tomioka-6945f6-paypay"
     },
     {
       "name": "川崎屋食堂",
-      "address": "富岡1419-1"
+      "address": "富岡1419-1",
+      "storeid": "tomioka-44b791",
+      "shopid": "tomioka-44b791-paypay"
     },
     {
       "name": "韓国食品＆カフェYogiyo",
-      "address": "富岡267-1"
+      "address": "富岡267-1",
+      "storeid": "tomioka-422200",
+      "shopid": "tomioka-422200-paypay"
     },
     {
       "name": "甘味処鎌倉  富岡製糸場前店",
-      "address": "富岡51-2"
+      "address": "富岡51-2",
+      "storeid": "tomioka-e9dc05",
+      "shopid": "tomioka-e9dc05-paypay"
     },
     {
       "name": "絹の郷  富岡店",
-      "address": "富岡38-10"
+      "address": "富岡38-10",
+      "storeid": "tomioka-2003c5",
+      "shopid": "tomioka-2003c5-paypay"
     },
     {
       "name": "金家",
-      "address": "富岡1148-2"
+      "address": "富岡1148-2",
+      "storeid": "tomioka-7886c0",
+      "shopid": "tomioka-7886c0-paypay"
     },
     {
       "name": "急行食堂",
-      "address": "富岡1431"
+      "address": "富岡1431",
+      "storeid": "tomioka-34a6cc",
+      "shopid": "tomioka-34a6cc-paypay"
     },
     {
       "name": "くおぉれ。",
-      "address": "上高尾548"
+      "address": "上高尾548",
+      "storeid": "tomioka-a739cb",
+      "shopid": "tomioka-a739cb-paypay"
     },
     {
       "name": "くらさん家",
-      "address": "富岡104-3"
+      "address": "富岡104-3",
+      "storeid": "tomioka-554ec7",
+      "shopid": "tomioka-554ec7-paypay"
     },
     {
       "name": "くれ〜ぷ工房 Clin.Clin.  富岡店",
-      "address": "富岡42"
+      "address": "富岡42",
+      "storeid": "tomioka-1fae5f",
+      "shopid": "tomioka-1fae5f-paypay"
     },
     {
       "name": "ｃｒｅｐｅ  Ｔｏｔｔｏ",
-      "address": "神成131-3"
+      "address": "神成131-3",
+      "storeid": "tomioka-85e0aa",
+      "shopid": "tomioka-85e0aa-paypay"
     },
     {
       "name": "桑の恵ま〜ゆ",
-      "address": "富岡51"
+      "address": "富岡51",
+      "storeid": "tomioka-970d82",
+      "shopid": "tomioka-970d82-paypay"
     },
     {
       "name": "桂花房",
-      "address": "富岡1588-6"
+      "address": "富岡1588-6",
+      "storeid": "tomioka-ba6a89",
+      "shopid": "tomioka-ba6a89-paypay"
     },
     {
       "name": "ケンタッキーフライドチキン  富岡店",
-      "address": "一ノ宮1759-1"
+      "address": "一ノ宮1759-1",
+      "storeid": "tomioka-6a3a4a",
+      "shopid": "tomioka-6a3a4a-paypay"
     },
     {
       "name": "ゴクラクカリー",
-      "address": "妙義町諸戸1106"
+      "address": "妙義町諸戸1106",
+      "storeid": "tomioka-754acd",
+      "shopid": "tomioka-754acd-paypay"
     },
     {
       "name": "古民家カフェくいな",
-      "address": "上高瀬518"
+      "address": "上高瀬518",
+      "storeid": "tomioka-6d67ea",
+      "shopid": "tomioka-6d67ea-paypay"
     },
     {
       "name": "サンディーノ",
-      "address": "田篠1200-5"
+      "address": "田篠1200-5",
+      "storeid": "tomioka-47aa10",
+      "shopid": "tomioka-47aa10-paypay"
     },
     {
       "name": "秀味軒",
-      "address": "富岡1323-3"
+      "address": "富岡1323-3",
+      "storeid": "tomioka-ff98f3",
+      "shopid": "tomioka-ff98f3-paypay"
     },
     {
       "name": "旬の膳  白嘉賀",
-      "address": "中高瀬343"
+      "address": "中高瀬343",
+      "storeid": "tomioka-3aaabf",
+      "shopid": "tomioka-3aaabf-paypay"
     },
     {
       "name": "上州やなぎや",
-      "address": "富岡1031-3"
+      "address": "富岡1031-3",
+      "storeid": "tomioka-883fb8",
+      "shopid": "tomioka-883fb8-paypay"
     },
     {
       "name": "松竹飯店",
-      "address": "田島232-7"
+      "address": "田島232-7",
+      "storeid": "tomioka-4d73c5",
+      "shopid": "tomioka-4d73c5-paypay"
     },
     {
       "name": "シルクロード  富岡店",
-      "address": "曽木106"
+      "address": "曽木106",
+      "storeid": "tomioka-0f0641",
+      "shopid": "tomioka-0f0641-paypay"
     },
     {
       "name": "すき家  ２５４号富岡店",
-      "address": "富岡2364-5"
+      "address": "富岡2364-5",
+      "storeid": "tomioka-73af63",
+      "shopid": "tomioka-73af63-paypay"
     },
     {
       "name": "スターサンジ富岡店",
-      "address": "富岡1064"
+      "address": "富岡1064",
+      "storeid": "tomioka-e0abd1",
+      "shopid": "tomioka-e0abd1-paypay"
     },
     {
       "name": "スナック  キャラ",
-      "address": "富岡29-8"
+      "address": "富岡29-8",
+      "storeid": "tomioka-c86cb0",
+      "shopid": "tomioka-c86cb0-paypay"
     },
     {
       "name": "そば処杉乃家",
-      "address": "七日市480-2"
+      "address": "七日市480-2",
+      "storeid": "tomioka-8b3452",
+      "shopid": "tomioka-8b3452-paypay"
     },
     {
       "name": "そば処  ひさゑ",
-      "address": "妙義町妙義135-2"
+      "address": "妙義町妙義135-2",
+      "storeid": "tomioka-6ac461",
+      "shopid": "tomioka-6ac461-paypay"
     },
     {
       "name": "太鼓亭",
-      "address": "田篠326-7"
+      "address": "田篠326-7",
+      "storeid": "tomioka-937840",
+      "shopid": "tomioka-937840-paypay"
     },
     {
       "name": "大衆酒場アサヒ",
-      "address": "富岡22"
+      "address": "富岡22",
+      "storeid": "tomioka-b759f9",
+      "shopid": "tomioka-b759f9-paypay"
     },
     {
       "name": "大衆食堂アサヒ",
-      "address": "富岡1192-1"
+      "address": "富岡1192-1",
+      "storeid": "tomioka-a125d2",
+      "shopid": "tomioka-a125d2-paypay"
     },
     {
       "name": "たちばな源氏庵",
-      "address": "下黒岩595"
+      "address": "下黒岩595",
+      "storeid": "tomioka-cd5895",
+      "shopid": "tomioka-cd5895-paypay"
     },
     {
       "name": "だん家",
-      "address": "中高瀬525-3"
+      "address": "中高瀬525-3",
+      "storeid": "tomioka-bd2739",
+      "shopid": "tomioka-bd2739-paypay"
     },
     {
       "name": "だんらんや．isami．",
-      "address": "七日市1413-1"
+      "address": "七日市1413-1",
+      "storeid": "tomioka-26ab6b",
+      "shopid": "tomioka-26ab6b-paypay"
     },
     {
       "name": "チャーミング",
-      "address": "富岡17-3"
+      "address": "富岡17-3",
+      "storeid": "tomioka-f9648f",
+      "shopid": "tomioka-f9648f-paypay"
     },
     {
       "name": "茶フェ  ちゃきち",
-      "address": "一ノ宮264"
+      "address": "一ノ宮264",
+      "storeid": "tomioka-90066f",
+      "shopid": "tomioka-90066f-paypay"
     },
     {
       "name": "手打ちそば大村支店",
-      "address": "富岡1178-1"
+      "address": "富岡1178-1",
+      "storeid": "tomioka-24121b",
+      "shopid": "tomioka-24121b-paypay"
     },
     {
       "name": "デニーズ群馬富岡店",
-      "address": "富岡3043"
+      "address": "富岡3043",
+      "storeid": "tomioka-126f33",
+      "shopid": "tomioka-126f33-paypay"
     },
     {
       "name": "天流水舎",
-      "address": "富岡23-2"
+      "address": "富岡23-2",
+      "storeid": "tomioka-391e68",
+      "shopid": "tomioka-391e68-paypay"
     },
     {
       "name": "鶏輝  キッチンカー",
-      "address": "富岡373-1"
+      "address": "富岡373-1",
+      "storeid": "tomioka-03be68",
+      "shopid": "tomioka-03be68-paypay"
     },
     {
       "name": "ニコカフェ",
-      "address": "富岡1361-8"
+      "address": "富岡1361-8",
+      "storeid": "tomioka-68e30f",
+      "shopid": "tomioka-68e30f-paypay"
     },
     {
       "name": "NOCE",
-      "address": "富岡526-1"
+      "address": "富岡526-1",
+      "storeid": "tomioka-d76c02",
+      "shopid": "tomioka-d76c02-paypay"
     },
     {
       "name": "のがみ苑",
-      "address": "野上2568-2"
+      "address": "野上2568-2",
+      "storeid": "tomioka-46e849",
+      "shopid": "tomioka-46e849-paypay"
     },
     {
       "name": "BURGER LUANA",
-      "address": "七日市878-１"
+      "address": "七日市878-１",
+      "storeid": "tomioka-eb5d64",
+      "shopid": "tomioka-eb5d64-paypay"
     },
     {
       "name": "baimai",
-      "address": "上高尾29"
+      "address": "上高尾29",
+      "storeid": "tomioka-209425",
+      "shopid": "tomioka-209425-paypay"
     },
     {
       "name": "パスタバル  ミルティーロ",
-      "address": "富岡3053"
+      "address": "富岡3053",
+      "storeid": "tomioka-22bcee",
+      "shopid": "tomioka-22bcee-paypay"
     },
     {
       "name": "はなうらら",
-      "address": "曽木925-25"
+      "address": "曽木925-25",
+      "storeid": "tomioka-ff4179",
+      "shopid": "tomioka-ff4179-paypay"
     },
     {
       "name": "はなみずき",
-      "address": "富岡21-14"
+      "address": "富岡21-14",
+      "storeid": "tomioka-f88525",
+      "shopid": "tomioka-f88525-paypay"
     },
     {
       "name": "はま寿司  富岡店",
-      "address": "富岡2359-1"
+      "address": "富岡2359-1",
+      "storeid": "tomioka-399abb",
+      "shopid": "tomioka-399abb-paypay"
     },
     {
       "name": "はや味",
-      "address": "富岡51"
+      "address": "富岡51",
+      "storeid": "tomioka-59b666",
+      "shopid": "tomioka-59b666-paypay"
     },
     {
       "name": "ひそっぷ",
-      "address": "富岡1432-5"
+      "address": "富岡1432-5",
+      "storeid": "tomioka-255269",
+      "shopid": "tomioka-255269-paypay"
     },
     {
       "name": "藤乃屋",
-      "address": "内匠166-2"
+      "address": "内匠166-2",
+      "storeid": "tomioka-13be90",
+      "shopid": "tomioka-13be90-paypay"
     },
     {
       "name": "Betty",
-      "address": "富岡20-34"
+      "address": "富岡20-34",
+      "storeid": "tomioka-ef6a44",
+      "shopid": "tomioka-ef6a44-paypay"
     },
     {
       "name": "北海亭  富岡店",
-      "address": "富岡1035-1"
+      "address": "富岡1035-1",
+      "storeid": "tomioka-773e0e",
+      "shopid": "tomioka-773e0e-paypay"
     },
     {
       "name": "升川",
-      "address": "下黒岩819"
+      "address": "下黒岩819",
+      "storeid": "tomioka-4be239",
+      "shopid": "tomioka-4be239-paypay"
     },
     {
       "name": "日本料理  稀家",
-      "address": "内匠228-1"
+      "address": "内匠228-1",
+      "storeid": "tomioka-2836ad",
+      "shopid": "tomioka-2836ad-paypay"
     },
     {
       "name": "みの助茶屋",
-      "address": "富岡1038"
+      "address": "富岡1038",
+      "storeid": "tomioka-1a59fd",
+      "shopid": "tomioka-1a59fd-paypay"
     },
     {
       "name": "妙義自然の家プラス",
-      "address": "妙義町諸戸1106"
+      "address": "妙義町諸戸1106",
+      "storeid": "tomioka-7ad8b8",
+      "shopid": "tomioka-7ad8b8-paypay"
     },
     {
       "name": "味来",
-      "address": "富岡1052-10"
+      "address": "富岡1052-10",
+      "storeid": "tomioka-f65490",
+      "shopid": "tomioka-f65490-paypay"
     },
     {
       "name": "味味軒",
-      "address": "田島234-1"
+      "address": "田島234-1",
+      "storeid": "tomioka-fdfaa8",
+      "shopid": "tomioka-fdfaa8-paypay"
     },
     {
       "name": "Mulungi Coffee Room",
-      "address": "神農原759-3"
+      "address": "神農原759-3",
+      "storeid": "tomioka-0e281f",
+      "shopid": "tomioka-0e281f-paypay"
     },
     {
       "name": "麺家おとみ神農原店",
-      "address": "神農原605-8"
+      "address": "神農原605-8",
+      "storeid": "tomioka-fa725c",
+      "shopid": "tomioka-fa725c-paypay"
     },
     {
       "name": "焼肉 蒼",
-      "address": "富岡1120"
+      "address": "富岡1120",
+      "storeid": "tomioka-90a2e0",
+      "shopid": "tomioka-90a2e0-paypay"
     },
     {
       "name": "焼肉なかや",
-      "address": "七日市1292"
+      "address": "七日市1292",
+      "storeid": "tomioka-18435a",
+      "shopid": "tomioka-18435a-paypay"
     },
     {
       "name": "焼きまんじゅう 香萬",
-      "address": "七日市261-1"
+      "address": "七日市261-1",
+      "storeid": "tomioka-16de4e",
+      "shopid": "tomioka-16de4e-paypay"
     },
     {
       "name": "山カフェ妙義",
-      "address": "妙義町妙義1-5"
+      "address": "妙義町妙義1-5",
+      "storeid": "tomioka-ab8b1c",
+      "shopid": "tomioka-ab8b1c-paypay"
     },
     {
       "name": "ゆ〜なま〜な",
-      "address": "七日市711-1"
+      "address": "七日市711-1",
+      "storeid": "tomioka-2ed718",
+      "shopid": "tomioka-2ed718-paypay"
     },
     {
       "name": "酔い処  Ren",
-      "address": "富岡36-8"
+      "address": "富岡36-8",
+      "storeid": "tomioka-bc18c3",
+      "shopid": "tomioka-bc18c3-paypay"
     },
     {
       "name": "らい灯",
-      "address": "富岡1057"
+      "address": "富岡1057",
+      "storeid": "tomioka-b86dda",
+      "shopid": "tomioka-b86dda-paypay"
     },
     {
       "name": "ライブインヒロ",
-      "address": "富岡16-5"
+      "address": "富岡16-5",
+      "storeid": "tomioka-92d184",
+      "shopid": "tomioka-92d184-paypay"
     },
     {
       "name": "Ｌａｇｅｍｍａ",
-      "address": "一ノ宮425-1"
+      "address": "一ノ宮425-1",
+      "storeid": "tomioka-1f326d",
+      "shopid": "tomioka-1f326d-paypay"
     },
     {
       "name": "ランランカフェ富岡",
-      "address": "曽木217-1"
+      "address": "曽木217-1",
+      "storeid": "tomioka-b7b7b0",
+      "shopid": "tomioka-b7b7b0-paypay"
     },
     {
       "name": "料理屋しば遼",
-      "address": "富岡1583-4"
+      "address": "富岡1583-4",
+      "storeid": "tomioka-35eefb",
+      "shopid": "tomioka-35eefb-paypay"
     },
     {
       "name": "レストラン エル",
-      "address": "曽木31-1"
+      "address": "曽木31-1",
+      "storeid": "tomioka-730d6b",
+      "shopid": "tomioka-730d6b-paypay"
     },
     {
       "name": "和采屋 源氏",
-      "address": "富岡41"
+      "address": "富岡41",
+      "storeid": "tomioka-7f924c",
+      "shopid": "tomioka-7f924c-paypay"
     },
     {
       "name": "和の食  磯♛",
-      "address": "白岩164-3"
+      "address": "白岩164-3",
+      "storeid": "tomioka-0d3616",
+      "shopid": "tomioka-0d3616-paypay"
     }
   ],
   "呉服店": [
     {
       "name": "あさや呉服店",
-      "address": "富岡1058"
+      "address": "富岡1058",
+      "storeid": "tomioka-4598df",
+      "shopid": "tomioka-4598df-paypay"
     },
     {
       "name": "きもののむつみ",
-      "address": "富岡1158"
+      "address": "富岡1158",
+      "storeid": "tomioka-c4b404",
+      "shopid": "tomioka-c4b404-paypay"
     },
     {
       "name": "茂木呉服店",
-      "address": "富岡1051"
+      "address": "富岡1051",
+      "storeid": "tomioka-2b99f8",
+      "shopid": "tomioka-2b99f8-paypay"
     }
   ],
   "衣服・身の回り品小売業": [
     {
       "name": "アベイル  富岡店",
-      "address": "富岡1677-1"
+      "address": "富岡1677-1",
+      "storeid": "tomioka-5bbdc2",
+      "shopid": "tomioka-5bbdc2-paypay"
     },
     {
       "name": "Artesano",
-      "address": "黒川554"
+      "address": "黒川554",
+      "storeid": "tomioka-b5d8bf",
+      "shopid": "tomioka-b5d8bf-paypay"
     },
     {
       "name": "いりやま",
-      "address": "富岡1040"
+      "address": "富岡1040",
+      "storeid": "tomioka-f0d036",
+      "shopid": "tomioka-f0d036-paypay"
     },
     {
       "name": "ABC－MART富岡店",
-      "address": "富岡1890-1"
+      "address": "富岡1890-1",
+      "storeid": "tomioka-92b54c",
+      "shopid": "tomioka-92b54c-paypay"
     },
     {
       "name": "かさはら",
-      "address": "富岡1111"
+      "address": "富岡1111",
+      "storeid": "tomioka-335ab7",
+      "shopid": "tomioka-335ab7-paypay"
     },
     {
       "name": "絹工房  富岡製糸場前店",
-      "address": "富岡34-1"
+      "address": "富岡34-1",
+      "storeid": "tomioka-d6631a",
+      "shopid": "tomioka-d6631a-paypay"
     },
     {
       "name": "きものリサイクルセンター無二  富岡店",
-      "address": "富岡38"
+      "address": "富岡38",
+      "storeid": "tomioka-a44853",
+      "shopid": "tomioka-a44853-paypay"
     },
     {
       "name": "キリンヤ洋品店",
-      "address": "富岡1072-3"
+      "address": "富岡1072-3",
+      "storeid": "tomioka-b53fff",
+      "shopid": "tomioka-b53fff-paypay"
     },
     {
       "name": "草木屋",
-      "address": "妙義町行沢127-8"
+      "address": "妙義町行沢127-8",
+      "storeid": "tomioka-04f8eb",
+      "shopid": "tomioka-04f8eb-paypay"
     },
     {
       "name": "コナカ  富岡店",
-      "address": "黒川718-1"
+      "address": "黒川718-1",
+      "storeid": "tomioka-d8c30d",
+      "shopid": "tomioka-d8c30d-paypay"
     },
     {
       "name": "しまむら  富岡店",
-      "address": "一ノ宮1682"
+      "address": "一ノ宮1682",
+      "storeid": "tomioka-2e1c4b",
+      "shopid": "tomioka-2e1c4b-paypay"
     },
     {
       "name": "シャンブル  富岡店",
-      "address": "一ノ宮1682"
+      "address": "一ノ宮1682",
+      "storeid": "tomioka-e96c75",
+      "shopid": "tomioka-e96c75-paypay"
     },
     {
       "name": "鈴木屋",
-      "address": "一ノ宮1367-3"
+      "address": "一ノ宮1367-3",
+      "storeid": "tomioka-87b008",
+      "shopid": "tomioka-87b008-paypay"
     },
     {
       "name": "第一繊維",
-      "address": "富岡1018"
+      "address": "富岡1018",
+      "storeid": "tomioka-40a5b1",
+      "shopid": "tomioka-40a5b1-paypay"
     },
     {
       "name": "東京靴流通センター富岡店",
-      "address": "富岡2364-1"
+      "address": "富岡2364-1",
+      "storeid": "tomioka-a3fe6d",
+      "shopid": "tomioka-a3fe6d-paypay"
     },
     {
       "name": "富岡シルクギャラリー  富岡製糸場内",
-      "address": "富岡1-1"
+      "address": "富岡1-1",
+      "storeid": "tomioka-3517db",
+      "shopid": "tomioka-3517db-paypay"
     },
     {
       "name": "Nanafuku",
-      "address": "内匠232-1"
+      "address": "内匠232-1",
+      "storeid": "tomioka-ebd848",
+      "shopid": "tomioka-ebd848-paypay"
     },
     {
       "name": "西松屋  富岡バイパス店",
-      "address": "富岡市富岡1649-1"
+      "address": "富岡市富岡1649-1",
+      "storeid": "tomioka-5e2a5c",
+      "shopid": "tomioka-5e2a5c-paypay"
     },
     {
       "name": "ネッフル  ぐんま販社",
-      "address": "中高瀬329-2"
+      "address": "中高瀬329-2",
+      "storeid": "tomioka-d4725d",
+      "shopid": "tomioka-d4725d-paypay"
     },
     {
       "name": "バースデイ  富岡店",
-      "address": "富岡1677-1"
+      "address": "富岡1677-1",
+      "storeid": "tomioka-93b6d0",
+      "shopid": "tomioka-93b6d0-paypay"
     },
     {
       "name": "Harmonia ぐんまの手仕事",
-      "address": "富岡1041-2"
+      "address": "富岡1041-2",
+      "storeid": "tomioka-d77d73",
+      "shopid": "tomioka-d77d73-paypay"
     },
     {
       "name": "ファミリー衣料ヨコタ",
-      "address": "南蛇井270-6"
+      "address": "南蛇井270-6",
+      "storeid": "tomioka-3233c0",
+      "shopid": "tomioka-3233c0-paypay"
     },
     {
       "name": "フラワーますや",
-      "address": "富岡1308-1"
+      "address": "富岡1308-1",
+      "storeid": "tomioka-95be45",
+      "shopid": "tomioka-95be45-paypay"
     },
     {
       "name": "やまじん  富岡",
-      "address": "富岡50"
+      "address": "富岡50",
+      "storeid": "tomioka-5c8581",
+      "shopid": "tomioka-5c8581-paypay"
     },
     {
       "name": "ユニクロ  富岡店",
-      "address": "富岡1882-1"
+      "address": "富岡1882-1",
+      "storeid": "tomioka-b9f896",
+      "shopid": "tomioka-b9f896-paypay"
     },
     {
       "name": "洋服の青山  富岡店",
-      "address": "富岡3005"
+      "address": "富岡3005",
+      "storeid": "tomioka-999a6f",
+      "shopid": "tomioka-999a6f-paypay"
     }
   ],
   "飲食料品小売業": [
     {
       "name": "甘なっとうの小嶋屋",
-      "address": "七日市953"
+      "address": "七日市953",
+      "storeid": "tomioka-19773a",
+      "shopid": "tomioka-19773a-paypay"
     },
     {
       "name": "芋八千",
-      "address": "黒川629-1"
+      "address": "黒川629-1",
+      "storeid": "tomioka-08aae9",
+      "shopid": "tomioka-08aae9-paypay"
     },
     {
       "name": "大塚屋",
-      "address": "富岡1169"
+      "address": "富岡1169",
+      "storeid": "tomioka-dad9ca",
+      "shopid": "tomioka-dad9ca-paypay"
     },
     {
       "name": "お菓子の扇屋",
-      "address": "富岡1173-1"
+      "address": "富岡1173-1",
+      "storeid": "tomioka-f9df77",
+      "shopid": "tomioka-f9df77-paypay"
     },
     {
       "name": "おかって市場",
-      "address": "富岡1450"
+      "address": "富岡1450",
+      "storeid": "tomioka-5a855a",
+      "shopid": "tomioka-5a855a-paypay"
     },
     {
       "name": "荻野屋  富岡トレーラーハウス店",
-      "address": "富岡2273-1"
+      "address": "富岡2273-1",
+      "storeid": "tomioka-a9095a",
+      "shopid": "tomioka-a9095a-paypay"
     },
     {
       "name": "菓匠  星野",
-      "address": "七日市252-1"
+      "address": "七日市252-1",
+      "storeid": "tomioka-6188e2",
+      "shopid": "tomioka-6188e2-paypay"
     },
     {
       "name": "元祖からあげ本舗マルタカ  富岡店",
-      "address": "富岡914"
+      "address": "富岡914",
+      "storeid": "tomioka-86aaf8",
+      "shopid": "tomioka-86aaf8-paypay"
     },
     {
       "name": "創作菓子工房木の実",
-      "address": "富岡1926-1"
+      "address": "富岡1926-1",
+      "storeid": "tomioka-7055fb",
+      "shopid": "tomioka-7055fb-paypay"
     },
     {
       "name": "キリブチ製麺",
-      "address": "一ノ宮336-6"
+      "address": "一ノ宮336-6",
+      "storeid": "tomioka-85e9b7",
+      "shopid": "tomioka-85e9b7-paypay"
     },
     {
       "name": "高栄自動車",
-      "address": "宇田151"
+      "address": "宇田151",
+      "storeid": "tomioka-fc70cc",
+      "shopid": "tomioka-fc70cc-paypay"
     },
     {
       "name": "公立七日市病院売店",
-      "address": "七日市643"
+      "address": "七日市643",
+      "storeid": "tomioka-81fa2a",
+      "shopid": "tomioka-81fa2a-paypay"
     },
     {
       "name": "珈琲焙煎所月とゆふづつ",
-      "address": "妙義町岳127"
+      "address": "妙義町岳127",
+      "storeid": "tomioka-623819",
+      "shopid": "tomioka-623819-paypay"
     },
     {
       "name": "有限会社佐藤商店  コクヤ",
-      "address": "南蛇井430"
+      "address": "南蛇井430",
+      "storeid": "tomioka-9ed4b6",
+      "shopid": "tomioka-9ed4b6-paypay"
     },
     {
       "name": "栽桑園",
-      "address": "田篠1171"
+      "address": "田篠1171",
+      "storeid": "tomioka-9529c2",
+      "shopid": "tomioka-9529c2-paypay"
     },
     {
       "name": "サンライスさとう",
-      "address": "黒川713"
+      "address": "黒川713",
+      "storeid": "tomioka-053a08",
+      "shopid": "tomioka-053a08-paypay"
     },
     {
       "name": "シャトレーゼ  富岡店",
-      "address": "富岡3000"
+      "address": "富岡3000",
+      "storeid": "tomioka-96a39b",
+      "shopid": "tomioka-96a39b-paypay"
     },
     {
       "name": "せい",
-      "address": "妙義町上高田365"
+      "address": "妙義町上高田365",
+      "storeid": "tomioka-a50e5f",
+      "shopid": "tomioka-a50e5f-paypay"
     },
     {
       "name": "つばめベーグル",
-      "address": "下黒岩1833-2"
+      "address": "下黒岩1833-2",
+      "storeid": "tomioka-2c5ef2",
+      "shopid": "tomioka-2c5ef2-paypay"
     },
     {
       "name": "富岡おやき  いと",
-      "address": "富岡1070"
+      "address": "富岡1070",
+      "storeid": "tomioka-6ecaaa",
+      "shopid": "tomioka-6ecaaa-paypay"
     },
     {
       "name": "Patisserie  シェノン",
-      "address": "富岡2590-1"
+      "address": "富岡2590-1",
+      "storeid": "tomioka-10c3a4",
+      "shopid": "tomioka-10c3a4-paypay"
     },
     {
       "name": "花見せんべい",
-      "address": "富岡1060-4"
+      "address": "富岡1060-4",
+      "storeid": "tomioka-38292a",
+      "shopid": "tomioka-38292a-paypay"
     },
     {
       "name": "パンナ",
-      "address": "神成452-5"
+      "address": "神成452-5",
+      "storeid": "tomioka-27f573",
+      "shopid": "tomioka-27f573-paypay"
     },
     {
       "name": "ピザーラ  富岡店",
-      "address": "富岡1374-1"
+      "address": "富岡1374-1",
+      "storeid": "tomioka-e886fe",
+      "shopid": "tomioka-e886fe-paypay"
     },
     {
       "name": "ビストロユジェーヌ  富岡",
-      "address": "七日市456ー3"
+      "address": "七日市456ー3",
+      "storeid": "tomioka-0e5601",
+      "shopid": "tomioka-0e5601-paypay"
     },
     {
       "name": "富光堂",
-      "address": "一ノ宮 1346-6"
+      "address": "一ノ宮 1346-6",
+      "storeid": "tomioka-b0027a",
+      "shopid": "tomioka-b0027a-paypay"
     },
     {
       "name": "BELL．（キッチンカー）",
-      "address": "富岡1133-5"
+      "address": "富岡1133-5",
+      "storeid": "tomioka-a3dbfa",
+      "shopid": "tomioka-a3dbfa-paypay"
     },
     {
       "name": "HOLLY'S  富岡店",
-      "address": "富岡1036"
+      "address": "富岡1036",
+      "storeid": "tomioka-e2846c",
+      "shopid": "tomioka-e2846c-paypay"
     },
     {
       "name": "堀田屋商店",
-      "address": "富岡1422-1"
+      "address": "富岡1422-1",
+      "storeid": "tomioka-df8f29",
+      "shopid": "tomioka-df8f29-paypay"
     },
     {
       "name": "まゆ菓優田島屋",
-      "address": "内匠243-1"
+      "address": "内匠243-1",
+      "storeid": "tomioka-a38b0a",
+      "shopid": "tomioka-a38b0a-paypay"
     },
     {
       "name": "まゆ菓優 田島屋製糸場前店",
-      "address": "富岡34-1"
+      "address": "富岡34-1",
+      "storeid": "tomioka-cc0fb7",
+      "shopid": "tomioka-cc0fb7-paypay"
     },
     {
       "name": "和菓子匠みさきや",
-      "address": "一ノ宮1779−3"
+      "address": "一ノ宮1779−3",
+      "storeid": "tomioka-9e6a0e",
+      "shopid": "tomioka-9e6a0e-paypay"
     },
     {
       "name": "欧風菓子工房ムーラン",
-      "address": "内匠311-5"
+      "address": "内匠311-5",
+      "storeid": "tomioka-973501",
+      "shopid": "tomioka-973501-paypay"
     },
     {
       "name": "モスバーガー  富岡バイパス店",
-      "address": "七日市257-1"
+      "address": "七日市257-1",
+      "storeid": "tomioka-801f69",
+      "shopid": "tomioka-801f69-paypay"
     },
     {
       "name": "吉田七味店",
-      "address": "富岡1071-5"
+      "address": "富岡1071-5",
+      "storeid": "tomioka-6061bb",
+      "shopid": "tomioka-6061bb-paypay"
     }
   ],
   "電気工事業": [
     {
       "name": "新井原電気工事  富岡店",
-      "address": "上高瀬69-8"
+      "address": "上高瀬69-8",
+      "storeid": "tomioka-f04932",
+      "shopid": "tomioka-f04932-paypay"
     },
     {
       "name": "Y・S・P  澁澤電気",
-      "address": "蕨1031-1"
+      "address": "蕨1031-1",
+      "storeid": "tomioka-d88110",
+      "shopid": "tomioka-d88110-paypay"
     }
   ],
   "施術業": [
     {
       "name": "鍼灸 aroma salon RAY",
-      "address": "富岡1418"
+      "address": "富岡1418",
+      "storeid": "tomioka-80defc",
+      "shopid": "tomioka-80defc-paypay"
     },
     {
       "name": "整体はしもと",
-      "address": "桑原763-3"
+      "address": "桑原763-3",
+      "storeid": "tomioka-c69ed2",
+      "shopid": "tomioka-c69ed2-paypay"
     },
     {
       "name": "ナイン整骨院",
-      "address": "富岡1756-14"
+      "address": "富岡1756-14",
+      "storeid": "tomioka-0b5d68",
+      "shopid": "tomioka-0b5d68-paypay"
     },
     {
       "name": "ほさか鍼灸接骨院",
-      "address": "富岡604-1"
+      "address": "富岡604-1",
+      "storeid": "tomioka-d469b1",
+      "shopid": "tomioka-d469b1-paypay"
     }
   ],
   "時計小売業": [
     {
       "name": "有限会社いいづか時計店",
-      "address": "富岡1071-2"
+      "address": "富岡1071-2",
+      "storeid": "tomioka-7a9742",
+      "shopid": "tomioka-7a9742-paypay"
     },
     {
       "name": "吉村時計店",
-      "address": "富岡1052"
+      "address": "富岡1052",
+      "storeid": "tomioka-6995eb",
+      "shopid": "tomioka-6995eb-paypay"
     }
   ],
   "各種商品小売業": [
     {
       "name": "イエローハット  富岡店",
-      "address": "田篠1235-1"
+      "address": "田篠1235-1",
+      "storeid": "tomioka-d51208",
+      "shopid": "tomioka-d51208-paypay"
     },
     {
       "name": "オートウェイ  富岡バイパス店",
-      "address": "富岡2318"
+      "address": "富岡2318",
+      "storeid": "tomioka-1cd703",
+      "shopid": "tomioka-1cd703-paypay"
     },
     {
       "name": "カギの朝日屋",
-      "address": "富岡1149"
+      "address": "富岡1149",
+      "storeid": "tomioka-794074",
+      "shopid": "tomioka-794074-paypay"
     },
     {
       "name": "絹のヒロイン",
-      "address": "富岡34-2"
+      "address": "富岡34-2",
+      "storeid": "tomioka-95fe29",
+      "shopid": "tomioka-95fe29-paypay"
     },
     {
       "name": "ギフト&リビング  よこやま",
-      "address": "富岡1150"
+      "address": "富岡1150",
+      "storeid": "tomioka-686578",
+      "shopid": "tomioka-686578-paypay"
     },
     {
       "name": "キャンドゥ  ヤオコー富岡店",
-      "address": "一ノ宮1683"
+      "address": "一ノ宮1683",
+      "storeid": "tomioka-e2eb61",
+      "shopid": "tomioka-e2eb61-paypay"
     },
     {
       "name": "群馬GGワークス",
-      "address": "妙義町下高田3810-8"
+      "address": "妙義町下高田3810-8",
+      "storeid": "tomioka-50a954",
+      "shopid": "tomioka-50a954-paypay"
     },
     {
       "name": "製糸場売店",
-      "address": "富岡1-1"
+      "address": "富岡1-1",
+      "storeid": "tomioka-807c97",
+      "shopid": "tomioka-807c97-paypay"
     },
     {
       "name": "セリア  ベイシア富岡店",
-      "address": "黒川650"
+      "address": "黒川650",
+      "storeid": "tomioka-0ef9bf",
+      "shopid": "tomioka-0ef9bf-paypay"
     },
     {
       "name": "ダイソー  群馬富岡店",
-      "address": "富岡2266-1"
+      "address": "富岡2266-1",
+      "storeid": "tomioka-416e09",
+      "shopid": "tomioka-416e09-paypay"
     },
     {
       "name": "ダイソー  フォリオ富岡店",
-      "address": "富岡501"
+      "address": "富岡501",
+      "storeid": "tomioka-5be71b",
+      "shopid": "tomioka-5be71b-paypay"
     },
     {
       "name": "まちなか観光物産館",
-      "address": "富岡1151"
+      "address": "富岡1151",
+      "storeid": "tomioka-34ddd5",
+      "shopid": "tomioka-34ddd5-paypay"
     },
     {
       "name": "まちなか観光物産館 お富ちゃん家",
-      "address": "富岡1151-1"
+      "address": "富岡1151-1",
+      "storeid": "tomioka-31403d",
+      "shopid": "tomioka-31403d-paypay"
     },
     {
       "name": "道の駅みょうぎ",
-      "address": "妙義町岳322-7"
+      "address": "妙義町岳322-7",
+      "storeid": "tomioka-bfa80a",
+      "shopid": "tomioka-bfa80a-paypay"
     },
     {
       "name": "みやげ処  扇屋",
-      "address": "富岡38-12"
+      "address": "富岡38-12",
+      "storeid": "tomioka-caec8d",
+      "shopid": "tomioka-caec8d-paypay"
     },
     {
       "name": "宮本町まちなか交流館",
-      "address": "富岡1406-4"
+      "address": "富岡1406-4",
+      "storeid": "tomioka-fee944",
+      "shopid": "tomioka-fee944-paypay"
     },
     {
       "name": "ヤマザキYショップいりやま",
-      "address": "南後箇334-4"
+      "address": "南後箇334-4",
+      "storeid": "tomioka-904b2e",
+      "shopid": "tomioka-904b2e-paypay"
     },
     {
       "name": "Yショップヨコオ富岡工場店",
-      "address": "神農原1112"
+      "address": "神農原1112",
+      "storeid": "tomioka-0dc83b",
+      "shopid": "tomioka-0dc83b-paypay"
     }
   ],
   "スポーツ用品小売業": [
     {
       "name": "イチカワスポーツ",
-      "address": "七日市1083"
+      "address": "七日市1083",
+      "storeid": "tomioka-b502f8",
+      "shopid": "tomioka-b502f8-paypay"
     },
     {
       "name": "イワイゴルフ",
-      "address": "一ノ宮364-5"
+      "address": "一ノ宮364-5",
+      "storeid": "tomioka-691668",
+      "shopid": "tomioka-691668-paypay"
     },
     {
       "name": "イワイスポーツ",
-      "address": "富岡3095"
+      "address": "富岡3095",
+      "storeid": "tomioka-93beea",
+      "shopid": "tomioka-93beea-paypay"
     },
     {
       "name": "ヨシダスポーツ",
-      "address": "富岡1071"
+      "address": "富岡1071",
+      "storeid": "tomioka-b25538",
+      "shopid": "tomioka-b25538-paypay"
     }
   ],
   "電気機械器具小売業": [
     {
       "name": "岩井電機商会",
-      "address": "下丹生265-2"
+      "address": "下丹生265-2",
+      "storeid": "tomioka-f52b14",
+      "shopid": "tomioka-f52b14-paypay"
     },
     {
       "name": "ケーズデンキ  富岡店",
-      "address": "富岡2681"
+      "address": "富岡2681",
+      "storeid": "tomioka-0b148b",
+      "shopid": "tomioka-0b148b-paypay"
     },
     {
       "name": "ヤマダデンキ  New富岡店",
-      "address": "七日市173-3"
+      "address": "七日市173-3",
+      "storeid": "tomioka-9f434d",
+      "shopid": "tomioka-9f434d-paypay"
     }
   ],
   "エステティック業": [
     {
       "name": "うみ（トータルビューティー&リラクゼーション）",
-      "address": "妙義町下高田3446-3"
+      "address": "妙義町下高田3446-3",
+      "storeid": "tomioka-35e1fa",
+      "shopid": "tomioka-35e1fa-paypay"
     },
     {
       "name": "CEサロン Jurer プラス",
-      "address": "富岡1682-2"
+      "address": "富岡1682-2",
+      "storeid": "tomioka-07c776",
+      "shopid": "tomioka-07c776-paypay"
     },
     {
       "name": "トータルビューティLinoKino",
-      "address": "富岡1110"
+      "address": "富岡1110",
+      "storeid": "tomioka-507fa7",
+      "shopid": "tomioka-507fa7-paypay"
     },
     {
       "name": "Nail Kanomin",
-      "address": "富岡1767-1"
+      "address": "富岡1767-1",
+      "storeid": "tomioka-fbf94f",
+      "shopid": "tomioka-fbf94f-paypay"
     },
     {
       "name": "nailroom mrn",
-      "address": "七日市849-1"
+      "address": "七日市849-1",
+      "storeid": "tomioka-538f56",
+      "shopid": "tomioka-538f56-paypay"
     },
     {
       "name": "美肌サロンmirei",
-      "address": "七日市62-6"
+      "address": "七日市62-6",
+      "storeid": "tomioka-19e67f",
+      "shopid": "tomioka-19e67f-paypay"
     },
     {
       "name": "Rinen",
-      "address": "内匠233-4"
+      "address": "内匠233-4",
+      "storeid": "tomioka-815eb9",
+      "shopid": "tomioka-815eb9-paypay"
     },
     {
       "name": "Remove  Lab.  富岡店",
-      "address": "富岡1580−1"
+      "address": "富岡1580−1",
+      "storeid": "tomioka-46c620",
+      "shopid": "tomioka-46c620-paypay"
     }
   ],
   "食料品スーパーマーケット": [
     {
       "name": "Ａコープ  ハピネス店",
-      "address": "中高瀬400-1"
+      "address": "中高瀬400-1",
+      "storeid": "tomioka-badd07",
+      "shopid": "tomioka-badd07-paypay"
     },
     {
       "name": "JAファーマーズ富岡",
-      "address": "富岡1878-1"
+      "address": "富岡1878-1",
+      "storeid": "tomioka-617779",
+      "shopid": "tomioka-617779-paypay"
     },
     {
       "name": "フレッセイ  富岡店",
-      "address": "富岡501"
+      "address": "富岡501",
+      "storeid": "tomioka-46aa47",
+      "shopid": "tomioka-46aa47-paypay"
     },
     {
       "name": "ベイシア富岡店",
-      "address": "黒川650"
+      "address": "黒川650",
+      "storeid": "tomioka-34d3ab",
+      "shopid": "tomioka-34d3ab-paypay"
     }
   ],
   "リユース業": [
     {
       "name": "エキスパート  富岡店",
-      "address": "七日市171-1"
+      "address": "七日市171-1",
+      "storeid": "tomioka-1da16f",
+      "shopid": "tomioka-1da16f-paypay"
     },
     {
       "name": "リユースショップくるとも",
-      "address": "富岡1590ー4"
+      "address": "富岡1590ー4",
+      "storeid": "tomioka-e79ffd",
+      "shopid": "tomioka-e79ffd-paypay"
     }
   ],
   "ガソリンスタンド": [
     {
       "name": "ENEOS  富岡SS",
-      "address": "富岡1330"
+      "address": "富岡1330",
+      "storeid": "tomioka-056296",
+      "shopid": "tomioka-056296-paypay"
     },
     {
       "name": "ENEOS  富岡西CS",
-      "address": "上小林437"
+      "address": "上小林437",
+      "storeid": "tomioka-00bc8c",
+      "shopid": "tomioka-00bc8c-paypay"
     },
     {
       "name": "小出石油店  富岡七日市SS",
-      "address": "七日市1313"
+      "address": "七日市1313",
+      "storeid": "tomioka-cb1260",
+      "shopid": "tomioka-cb1260-paypay"
     },
     {
       "name": "コスモ石油  ニューなんじゃい",
-      "address": "上小林6-3"
+      "address": "上小林6-3",
+      "storeid": "tomioka-699ece",
+      "shopid": "tomioka-699ece-paypay"
     },
     {
       "name": "コスモ石油  プラザみょうぎ",
-      "address": "妙義町下高田398"
+      "address": "妙義町下高田398",
+      "storeid": "tomioka-884df8",
+      "shopid": "tomioka-884df8-paypay"
     },
     {
       "name": "JA-SS  富岡南部給油所",
-      "address": "中高瀬402-1"
+      "address": "中高瀬402-1",
+      "storeid": "tomioka-6bbe3a",
+      "shopid": "tomioka-6bbe3a-paypay"
     },
     {
       "name": "JA-SS  富岡バイパス給油所",
-      "address": "富岡2261-3"
+      "address": "富岡2261-3",
+      "storeid": "tomioka-bd5272",
+      "shopid": "tomioka-bd5272-paypay"
     },
     {
       "name": "玉屋商店  一の宮SS",
-      "address": "一ノ宮1499"
+      "address": "一ノ宮1499",
+      "storeid": "tomioka-7cd311",
+      "shopid": "tomioka-7cd311-paypay"
     }
   ],
   "製剤薬局": [
     {
       "name": "大井田薬局  富岡店",
-      "address": "七日市680-1"
+      "address": "七日市680-1",
+      "storeid": "tomioka-39ac65",
+      "shopid": "tomioka-39ac65-paypay"
     },
     {
       "name": "かのはら薬局",
-      "address": "神農原567-4"
+      "address": "神農原567-4",
+      "storeid": "tomioka-dabf54",
+      "shopid": "tomioka-dabf54-paypay"
     },
     {
       "name": "ファイン薬局 富岡",
-      "address": "富岡1436-5"
+      "address": "富岡1436-5",
+      "storeid": "tomioka-351a64",
+      "shopid": "tomioka-351a64-paypay"
     }
   ],
   "花・植木販売業": [
     {
       "name": "小田倉生花店",
-      "address": "田篠1439"
+      "address": "田篠1439",
+      "storeid": "tomioka-42d6e6",
+      "shopid": "tomioka-42d6e6-paypay"
     },
     {
       "name": "花泉",
-      "address": "七日市944-1"
+      "address": "七日市944-1",
+      "storeid": "tomioka-c197e8",
+      "shopid": "tomioka-c197e8-paypay"
     },
     {
       "name": "花の彩華",
-      "address": "富岡1153"
+      "address": "富岡1153",
+      "storeid": "tomioka-384867",
+      "shopid": "tomioka-384867-paypay"
     },
     {
       "name": "株式会社マルイ洋蘭開発センター",
-      "address": "妙義町下高田75"
+      "address": "妙義町下高田75",
+      "storeid": "tomioka-b5f49b",
+      "shopid": "tomioka-b5f49b-paypay"
     },
     {
       "name": "有花園  富岡店",
-      "address": "富岡2330-1"
+      "address": "富岡2330-1",
+      "storeid": "tomioka-674f58",
+      "shopid": "tomioka-674f58-paypay"
     }
   ],
   "心理カウンセラー": [
     {
       "name": "おやこ心理相談室",
-      "address": "星田383"
+      "address": "星田383",
+      "storeid": "tomioka-05145d",
+      "shopid": "tomioka-05145d-paypay"
     }
   ],
   "写真業": [
     {
       "name": "カナイ写真店",
-      "address": "七日市1086-3"
+      "address": "七日市1086-3",
+      "storeid": "tomioka-3aadad",
+      "shopid": "tomioka-3aadad-paypay"
     }
   ],
   "カラオケボックス業": [
     {
       "name": "カラオケキャビンファミリーボックス",
-      "address": "七日市878-1"
+      "address": "七日市878-1",
+      "storeid": "tomioka-11fea0",
+      "shopid": "tomioka-11fea0-paypay"
     },
     {
       "name": "まねきねこ  富岡店",
-      "address": "黒川729-2"
+      "address": "黒川729-2",
+      "storeid": "tomioka-95faca",
+      "shopid": "tomioka-95faca-paypay"
     }
   ],
   "ドラッグストア": [
     {
       "name": "カワチ薬品  富岡店",
-      "address": "富岡2106ー1"
+      "address": "富岡2106ー1",
+      "storeid": "tomioka-ec4904",
+      "shopid": "tomioka-ec4904-paypay"
     },
     {
       "name": "クスリのアオキ  富岡店",
-      "address": "富岡1346-6"
+      "address": "富岡1346-6",
+      "storeid": "tomioka-c183ad",
+      "shopid": "tomioka-c183ad-paypay"
     },
     {
       "name": "クスリのアオキ  七日市店",
-      "address": "七日市1400-1"
+      "address": "七日市1400-1",
+      "storeid": "tomioka-ff24a4",
+      "shopid": "tomioka-ff24a4-paypay"
     }
   ],
   "調剤薬局": [
     {
       "name": "共創未来 たかせ薬局",
-      "address": "中高瀬139-2"
+      "address": "中高瀬139-2",
+      "storeid": "tomioka-531432",
+      "shopid": "tomioka-531432-paypay"
     },
     {
       "name": "共創未来 七日市薬局",
-      "address": "七日市448-1"
+      "address": "七日市448-1",
+      "storeid": "tomioka-6f0beb",
+      "shopid": "tomioka-6f0beb-paypay"
     }
   ],
   "茶類小売業": [
     {
       "name": "有限会社きりぶち茶店",
-      "address": "七日市968"
+      "address": "七日市968",
+      "storeid": "tomioka-8ffc96",
+      "shopid": "tomioka-8ffc96-paypay"
     },
     {
       "name": "茶のまるいち園",
-      "address": "富岡1052"
+      "address": "富岡1052",
+      "storeid": "tomioka-3fe4a7",
+      "shopid": "tomioka-3fe4a7-paypay"
     }
   ],
   "クリーニング業": [
     {
       "name": "クリーニング  イチゴミルク  富岡店",
-      "address": "富岡1878-1"
+      "address": "富岡1878-1",
+      "storeid": "tomioka-0ad99f",
+      "shopid": "tomioka-0ad99f-paypay"
     },
     {
       "name": "ホワイト急便  Aコープハピネス店",
-      "address": "中高瀬401-1"
+      "address": "中高瀬401-1",
+      "storeid": "tomioka-eb01fd",
+      "shopid": "tomioka-eb01fd-paypay"
     },
     {
       "name": "ホワイト急便  上小林店",
-      "address": "上小林391-1"
+      "address": "上小林391-1",
+      "storeid": "tomioka-830690",
+      "shopid": "tomioka-830690-paypay"
     },
     {
       "name": "ホワイト急便  丸幸富岡BP店",
-      "address": "富岡2330-1"
+      "address": "富岡2330-1",
+      "storeid": "tomioka-607022",
+      "shopid": "tomioka-607022-paypay"
     }
   ],
   "サファリパーク": [
     {
       "name": "群馬サファリパーク",
-      "address": "岡本１"
+      "address": "岡本１",
+      "storeid": "tomioka-306f88",
+      "shopid": "tomioka-306f88-paypay"
     }
   ],
   "自動車小売業": [
     {
       "name": "群馬ダイハツ自動車  富岡店",
-      "address": "曽木34-1"
+      "address": "曽木34-1",
+      "storeid": "tomioka-37b6cf",
+      "shopid": "tomioka-37b6cf-paypay"
     },
     {
       "name": "群馬トヨタ自動車  富岡バイパス店",
-      "address": "黒川705"
+      "address": "黒川705",
+      "storeid": "tomioka-61ce44",
+      "shopid": "tomioka-61ce44-paypay"
     },
     {
       "name": "群馬トヨペット  とみおか店",
-      "address": "富岡2755"
+      "address": "富岡2755",
+      "storeid": "tomioka-97a841",
+      "shopid": "tomioka-97a841-paypay"
     },
     {
       "name": "トヨタカローラ高崎  富岡七日市店",
-      "address": "七日市370-1"
+      "address": "七日市370-1",
+      "storeid": "tomioka-10ee3a",
+      "shopid": "tomioka-10ee3a-paypay"
     },
     {
       "name": "ネッツトヨタ群馬  富岡いちのみや店",
-      "address": "一ノ宮1713-1"
+      "address": "一ノ宮1713-1",
+      "storeid": "tomioka-30951e",
+      "shopid": "tomioka-30951e-paypay"
     },
     {
       "name": "富士スバル富岡店",
-      "address": "曽木105"
+      "address": "曽木105",
+      "storeid": "tomioka-7e2f03",
+      "shopid": "tomioka-7e2f03-paypay"
     },
     {
       "name": "HondaCars富岡  富岡店",
-      "address": "七日市157-1"
+      "address": "七日市157-1",
+      "storeid": "tomioka-2b2818",
+      "shopid": "tomioka-2b2818-paypay"
     }
   ],
   "医療業": [
     {
       "name": "小泉医院",
-      "address": "富岡891"
+      "address": "富岡891",
+      "storeid": "tomioka-c84544",
+      "shopid": "tomioka-c84544-paypay"
     },
     {
       "name": "西富岡歯科医院",
-      "address": "七日市657"
+      "address": "七日市657",
+      "storeid": "tomioka-a95ef2",
+      "shopid": "tomioka-a95ef2-paypay"
     }
   ],
   "ホームセンター": [
     {
       "name": "コメリハード＆グリーン富岡店",
-      "address": "下高瀬201-11"
+      "address": "下高瀬201-11",
+      "storeid": "tomioka-ee34f4",
+      "shopid": "tomioka-ee34f4-paypay"
     },
     {
       "name": "セキチュー  富岡店",
-      "address": "富岡2273-1"
+      "address": "富岡2273-1",
+      "storeid": "tomioka-e720e4",
+      "shopid": "tomioka-e720e4-paypay"
     }
   ],
   "獣医業": [
     {
       "name": "さいとう動物病院",
-      "address": "富岡3058-1"
+      "address": "富岡3058-1",
+      "storeid": "tomioka-c87a1d",
+      "shopid": "tomioka-c87a1d-paypay"
     }
   ],
   "酒類・リカーショップ": [
     {
       "name": "酒伸",
-      "address": "岡本552"
+      "address": "岡本552",
+      "storeid": "tomioka-5f7e16",
+      "shopid": "tomioka-5f7e16-paypay"
     },
     {
       "name": "ヨロズヤ",
-      "address": "上高瀬670-2"
+      "address": "上高瀬670-2",
+      "storeid": "tomioka-c6ae7f",
+      "shopid": "tomioka-c6ae7f-paypay"
     }
   ],
   "宿泊業": [
     {
       "name": "sazarebyMYGround",
-      "address": "妙義町諸戸1187-4"
+      "address": "妙義町諸戸1187-4",
+      "storeid": "tomioka-c640e1",
+      "shopid": "tomioka-c640e1-paypay"
     },
     {
       "name": "ホテルアミューズ富岡  レストラン四季",
-      "address": "富岡245-1"
+      "address": "富岡245-1",
+      "storeid": "tomioka-17060c",
+      "shopid": "tomioka-17060c-paypay"
     }
   ],
   "ゴルフ場": [
     {
       "name": "シルクカントリー倶楽部",
-      "address": "上丹生3202"
+      "address": "上丹生3202",
+      "storeid": "tomioka-e46249",
+      "shopid": "tomioka-e46249-paypay"
     },
     {
       "name": "PGM富岡カントリークラブ  ノースコース",
-      "address": "小桑原432"
+      "address": "小桑原432",
+      "storeid": "tomioka-d8599e",
+      "shopid": "tomioka-d8599e-paypay"
     },
     {
       "name": "妙義カントリークラブ",
-      "address": "妙義町菅原2678"
+      "address": "妙義町菅原2678",
+      "storeid": "tomioka-5aff77",
+      "shopid": "tomioka-5aff77-paypay"
     }
   ],
   "眼鏡小売業": [
     {
       "name": "JINS 富岡店",
-      "address": "富岡1894-2"
+      "address": "富岡1894-2",
+      "storeid": "tomioka-207f63",
+      "shopid": "tomioka-207f63-paypay"
     },
     {
       "name": "ビジョンメガネ  セキチュー富岡店",
-      "address": "富岡2321-1"
+      "address": "富岡2321-1",
+      "storeid": "tomioka-c424db",
+      "shopid": "tomioka-c424db-paypay"
     },
     {
       "name": "眼鏡市場富岡バイパス店",
-      "address": "七日市251-1"
+      "address": "七日市251-1",
+      "storeid": "tomioka-4cff92",
+      "shopid": "tomioka-4cff92-paypay"
     },
     {
       "name": "メガネのイタガキ  富岡バイパス店",
-      "address": "黒川696-1"
+      "address": "黒川696-1",
+      "storeid": "tomioka-363d67",
+      "shopid": "tomioka-363d67-paypay"
     },
     {
       "name": "メガネのイタガキ  富岡本店",
-      "address": "富岡1330-1"
+      "address": "富岡1330-1",
+      "storeid": "tomioka-d5ca69",
+      "shopid": "tomioka-d5ca69-paypay"
     },
     {
       "name": "めがねのカムイ",
-      "address": "曽木239-3"
+      "address": "曽木239-3",
+      "storeid": "tomioka-35ead2",
+      "shopid": "tomioka-35ead2-paypay"
     }
   ],
   "衣服・雑貨小売業": [
     {
       "name": "SelectShopMARUTOMI",
-      "address": "富岡1110"
+      "address": "富岡1110",
+      "storeid": "tomioka-8586a9",
+      "shopid": "tomioka-8586a9-paypay"
     },
     {
       "name": "リトル・ペア",
-      "address": "富岡1655"
+      "address": "富岡1655",
+      "storeid": "tomioka-fb0643",
+      "shopid": "tomioka-fb0643-paypay"
     }
   ],
   "携帯電話小売業": [
     {
       "name": "ソフトバンク  富岡",
-      "address": "富岡1896-1"
+      "address": "富岡1896-1",
+      "storeid": "tomioka-c0c50a",
+      "shopid": "tomioka-c0c50a-paypay"
     },
     {
       "name": "モバイルステーション  ベイシア富岡店",
-      "address": "黒川650"
+      "address": "黒川650",
+      "storeid": "tomioka-00cc1f",
+      "shopid": "tomioka-00cc1f-paypay"
     }
   ],
   "自動車用品小売業": [
     {
       "name": "タイヤショップシバタ",
-      "address": "上高尾142-4"
+      "address": "上高尾142-4",
+      "storeid": "tomioka-518e6f",
+      "shopid": "tomioka-518e6f-paypay"
     }
   ],
   "観光業": [
     {
       "name": "高田いちご園",
-      "address": "上高瀬1136"
+      "address": "上高瀬1136",
+      "storeid": "tomioka-e48e19",
+      "shopid": "tomioka-e48e19-paypay"
     }
   ],
   "水道・ガス": [
     {
       "name": "有限会社タカネン",
-      "address": "富岡987"
+      "address": "富岡987",
+      "storeid": "tomioka-f9353e",
+      "shopid": "tomioka-f9353e-paypay"
     }
   ],
   "自転車小売業": [
     {
       "name": "髙野輪業",
-      "address": "富岡1432"
+      "address": "富岡1432",
+      "storeid": "tomioka-60f2ae",
+      "shopid": "tomioka-60f2ae-paypay"
     }
   ],
   "クリーンサービス事業": [
     {
       "name": "ダスキン山富  サービスマスター",
-      "address": "妙義町下高田772-2"
+      "address": "妙義町下高田772-2",
+      "storeid": "tomioka-a6d2ca",
+      "shopid": "tomioka-a6d2ca-paypay"
     }
   ],
   "自動車賃貸業": [
     {
       "name": "Choco-Rent",
-      "address": "富岡2035-1"
+      "address": "富岡2035-1",
+      "storeid": "tomioka-825b37",
+      "shopid": "tomioka-825b37-paypay"
     }
   ],
   "トリミングサロン": [
     {
       "name": "DOGSALON  Pero",
-      "address": "中高瀬712-1"
+      "address": "中高瀬712-1",
+      "storeid": "tomioka-e58d0c",
+      "shopid": "tomioka-e58d0c-paypay"
     }
   ],
   "冠婚葬祭業": [
     {
       "name": "富岡メモリードホール",
-      "address": "黒川740-1"
+      "address": "黒川740-1",
+      "storeid": "tomioka-86a629",
+      "shopid": "tomioka-86a629-paypay"
     }
   ],
   "リラクゼーション業": [
     {
       "name": "ドライヘッドスパ専門店  uni",
-      "address": "下高瀬29-7"
+      "address": "下高瀬29-7",
+      "storeid": "tomioka-a86457",
+      "shopid": "tomioka-a86457-paypay"
     },
     {
       "name": "フットこる ベイシア富岡店",
-      "address": "黒川650"
+      "address": "黒川650",
+      "storeid": "tomioka-f25ea9",
+      "shopid": "tomioka-f25ea9-paypay"
     },
     {
       "name": "ボディセラピー然",
-      "address": "妙義町上高田37-1"
+      "address": "妙義町上高田37-1",
+      "storeid": "tomioka-26036d",
+      "shopid": "tomioka-26036d-paypay"
     }
   ],
   "複合サービス事業": [
     {
       "name": "トリエル",
-      "address": "富岡1414-9"
+      "address": "富岡1414-9",
+      "storeid": "tomioka-647565",
+      "shopid": "tomioka-647565-paypay"
     }
   ],
   "工芸品小売業": [
     {
       "name": "NITAY妙義山麓",
-      "address": "妙義町菅原501-5"
+      "address": "妙義町菅原501-5",
+      "storeid": "tomioka-14bc6e",
+      "shopid": "tomioka-14bc6e-paypay"
     }
   ],
   "製造小売業": [
     {
       "name": "norimoku",
-      "address": "蕨52-6"
+      "address": "蕨52-6",
+      "storeid": "tomioka-f89858",
+      "shopid": "tomioka-f89858-paypay"
     }
   ],
   "ゴルフ練習場": [
     {
       "name": "パークゴルフ富岡",
-      "address": "上黒岩1703"
+      "address": "上黒岩1703",
+      "storeid": "tomioka-4c96b4",
+      "shopid": "tomioka-4c96b4-paypay"
     }
   ],
   "医薬品・化粧品小売業": [
     {
       "name": "パルやまき",
-      "address": "富岡1034"
+      "address": "富岡1034",
+      "storeid": "tomioka-77c957",
+      "shopid": "tomioka-77c957-paypay"
     },
     {
       "name": "マルエドラッグ富岡一ノ宮店",
-      "address": "一ノ宮1683"
+      "address": "一ノ宮1683",
+      "storeid": "tomioka-df1cbd",
+      "shopid": "tomioka-df1cbd-paypay"
     }
   ],
   "フィットネスクラブ": [
     {
       "name": "FITNESS GYM ARMY",
-      "address": "一ノ宮349-1"
+      "address": "一ノ宮349-1",
+      "storeid": "tomioka-ed980f",
+      "shopid": "tomioka-ed980f-paypay"
     }
   ],
   "ペットショップ": [
     {
       "name": "Fran boise",
-      "address": "七日市1246-20"
+      "address": "七日市1246-20",
+      "storeid": "tomioka-218b5c",
+      "shopid": "tomioka-218b5c-paypay"
     }
   ],
   "書籍・文房具小売業": [
     {
       "name": "文真堂書店ゲオ  一の宮店",
-      "address": "一ﾉ宮1725"
+      "address": "一ﾉ宮1725",
+      "storeid": "tomioka-21f567",
+      "shopid": "tomioka-21f567-paypay"
     },
     {
       "name": "よろずや文具店",
-      "address": "富岡1352"
+      "address": "富岡1352",
+      "storeid": "tomioka-850363",
+      "shopid": "tomioka-850363-paypay"
     },
     {
       "name": "WonderGOO  富岡店",
-      "address": "七日市1712-1"
+      "address": "七日市1712-1",
+      "storeid": "tomioka-726a81",
+      "shopid": "tomioka-726a81-paypay"
     }
   ],
   "宗教用具小売業": [
     {
       "name": "丸二仏壇ふれあい富岡店",
-      "address": "一ノ宮 167"
+      "address": "一ノ宮 167",
+      "storeid": "tomioka-13d78e",
+      "shopid": "tomioka-13d78e-paypay"
     }
   ],
   "食料品製造業": [
     {
       "name": "マンナンライフ  本社",
-      "address": "富岡2690-1"
+      "address": "富岡2690-1",
+      "storeid": "tomioka-9c0f0c",
+      "shopid": "tomioka-9c0f0c-paypay"
     },
     {
       "name": "マンナンライフ  曽木工場",
-      "address": "曽木208-1"
+      "address": "曽木208-1",
+      "storeid": "tomioka-5d4f11",
+      "shopid": "tomioka-5d4f11-paypay"
     }
   ],
   "公衆浴場業": [
     {
       "name": "妙義ふれあいプラザ もみじの湯",
-      "address": "妙義町妙義1-1"
+      "address": "妙義町妙義1-1",
+      "storeid": "tomioka-74f96a",
+      "shopid": "tomioka-74f96a-paypay"
     }
   ],
   "犬用フード開発販売": [
     {
       "name": "森と緑の研究社",
-      "address": "上小林144-3"
+      "address": "上小林144-3",
+      "storeid": "tomioka-6bfa52",
+      "shopid": "tomioka-6bfa52-paypay"
     }
   ],
   "教養・技能教授業": [
     {
       "name": "やさしいヨガ",
-      "address": "下丹生1350"
+      "address": "下丹生1350",
+      "storeid": "tomioka-4d5fbe",
+      "shopid": "tomioka-4d5fbe-paypay"
     },
     {
       "name": "山本ゴルフスクール",
-      "address": "中高瀬646-1"
+      "address": "中高瀬646-1",
+      "storeid": "tomioka-ac87b7",
+      "shopid": "tomioka-ac87b7-paypay"
     },
     {
       "name": "Reborn Space yoga",
-      "address": "田篠1150"
+      "address": "田篠1150",
+      "storeid": "tomioka-158686",
+      "shopid": "tomioka-158686-paypay"
     }
   ],
   "運輸業": [
     {
       "name": "ヤマト運輸  富岡営業所",
-      "address": "上小林223-1"
+      "address": "上小林223-1",
+      "storeid": "tomioka-9c7b1c",
+      "shopid": "tomioka-9c7b1c-paypay"
     }
   ],
   "洗濯業": [
     {
       "name": "LAUNDROMAT  LALA",
-      "address": "富岡3094-1"
+      "address": "富岡3094-1",
+      "storeid": "tomioka-b9f825",
+      "shopid": "tomioka-b9f825-paypay"
     }
   ]
 }

@@ -1,2212 +1,3516 @@
 {
   "雄和妙法糠塚": [
     {
-      "name": "Villaフローラ レストラン"
+      "name": "Villaフローラ レストラン",
+      "storeid": "akita-48b462",
+      "shopid": "akita-48b462-aupay"
     },
     {
-      "name": "味工房 秋田市雄和観光農産物加工所"
+      "name": "味工房 秋田市雄和観光農産物加工所",
+      "storeid": "akita-afd55e",
+      "shopid": "akita-afd55e-aupay"
     },
     {
-      "name": "GELATERIA yuwa"
+      "name": "GELATERIA yuwa",
+      "storeid": "akita-c7a022",
+      "shopid": "akita-c7a022-aupay"
     }
   ],
   "雄和椿   山籠": [
     {
-      "name": "おみやげ処 無限堂"
+      "name": "おみやげ処 無限堂",
+      "storeid": "akita-020117",
+      "shopid": "akita-020117-aupay"
     },
     {
-      "name": "稲庭本舗 明治佐助商店"
+      "name": "稲庭本舗 明治佐助商店",
+      "storeid": "akita-e95131",
+      "shopid": "akita-e95131-aupay"
     }
   ],
   "雄和椿   奥椿岱": [
     {
-      "name": "サイクリングターミナル レストラン"
+      "name": "サイクリングターミナル レストラン",
+      "storeid": "akita-375e0d",
+      "shopid": "akita-375e0d-aupay"
     },
     {
-      "name": "ダイニング&ラウンジ あえら"
+      "name": "ダイニング&ラウンジ あえら",
+      "storeid": "akita-1a840c",
+      "shopid": "akita-1a840c-aupay"
     },
     {
-      "name": "Cafe&Bar Camellia"
+      "name": "Cafe&Bar Camellia",
+      "storeid": "akita-677794",
+      "shopid": "akita-677794-aupay"
     }
   ],
   "雄和神ケ村舟卸": [
     {
-      "name": "ふるさと温泉ユアシス レストラン"
+      "name": "ふるさと温泉ユアシス レストラン",
+      "storeid": "akita-f82cfd",
+      "shopid": "akita-f82cfd-aupay"
     }
   ],
   "雄和下黒瀬湯ノ目": [
     {
-      "name": "食堂カフェ ノルン"
+      "name": "食堂カフェ ノルン",
+      "storeid": "akita-b32817",
+      "shopid": "akita-b32817-aupay"
     }
   ],
   "保戸野八丁": [
     {
-      "name": "札幌海鮮丸 保戸野店"
+      "name": "札幌海鮮丸 保戸野店",
+      "storeid": "akita-a89254",
+      "shopid": "akita-a89254-aupay"
     }
   ],
   "保戸野鉄砲町": [
     {
-      "name": "小若"
+      "name": "小若",
+      "storeid": "akita-2ffcb9",
+      "shopid": "akita-2ffcb9-aupay"
     }
   ],
   "保戸野通町": [
     {
-      "name": "高砂堂"
+      "name": "高砂堂",
+      "storeid": "akita-6ec5f8",
+      "shopid": "akita-6ec5f8-aupay"
     },
     {
-      "name": "和家 丼丸 秋田店"
+      "name": "和家 丼丸 秋田店",
+      "storeid": "akita-0b3392",
+      "shopid": "akita-0b3392-aupay"
     },
     {
-      "name": "Mogu."
+      "name": "Mogu.",
+      "storeid": "akita-137989",
+      "shopid": "akita-137989-aupay"
     },
     {
-      "name": "ワインバー夜間飛行"
+      "name": "ワインバー夜間飛行",
+      "storeid": "akita-7cd013",
+      "shopid": "akita-7cd013-aupay"
     }
   ],
   "保戸野千代田町": [
     {
-      "name": "回鮮 まぐろ亭"
+      "name": "回鮮 まぐろ亭",
+      "storeid": "akita-efe1b8",
+      "shopid": "akita-efe1b8-aupay"
     },
     {
-      "name": "シャトレーゼ 保戸野店"
+      "name": "シャトレーゼ 保戸野店",
+      "storeid": "akita-4e585d",
+      "shopid": "akita-4e585d-aupay"
     },
     {
-      "name": "酒菜や香蔵"
+      "name": "酒菜や香蔵",
+      "storeid": "akita-027aa4",
+      "shopid": "akita-027aa4-aupay"
     }
   ],
   "保戸野桜町": [
     {
-      "name": "創鮓 庵河豚"
+      "name": "創鮓 庵河豚",
+      "storeid": "akita-8308fd",
+      "shopid": "akita-8308fd-aupay"
     }
   ],
   "保戸野原の町": [
     {
-      "name": "珈琲工房ビーンズ"
+      "name": "珈琲工房ビーンズ",
+      "storeid": "akita-65dbfe",
+      "shopid": "akita-65dbfe-aupay"
     },
     {
-      "name": "日本料理 匠"
+      "name": "日本料理 匠",
+      "storeid": "akita-f9d9ff",
+      "shopid": "akita-f9d9ff-aupay"
     }
   ],
   "保戸野すわ町": [
     {
-      "name": "〜(から)"
+      "name": "〜(から)",
+      "storeid": "akita-e4c9e8",
+      "shopid": "akita-e4c9e8-aupay"
     },
     {
-      "name": "かのほのか"
+      "name": "かのほのか",
+      "storeid": "akita-2d115d",
+      "shopid": "akita-2d115d-aupay"
     }
   ],
   "飯島道東": [
     {
-      "name": "ピザテンフォー 秋田飯島店"
+      "name": "ピザテンフォー 秋田飯島店",
+      "storeid": "akita-3973a6",
+      "shopid": "akita-3973a6-aupay"
     },
     {
-      "name": "唄家 Music Life"
+      "name": "唄家 Music Life",
+      "storeid": "akita-67a008",
+      "shopid": "akita-67a008-aupay"
     }
   ],
   "飯島鼠田": [
     {
-      "name": "やき鳥たこまる"
+      "name": "やき鳥たこまる",
+      "storeid": "akita-e89275",
+      "shopid": "akita-e89275-aupay"
     }
   ],
   "八橋鯲沼町": [
     {
-      "name": "やきとりの扇屋 秋田新国道店"
+      "name": "やきとりの扇屋 秋田新国道店",
+      "storeid": "akita-110e8b",
+      "shopid": "akita-110e8b-aupay"
     },
     {
-      "name": "frukkly 新国道店"
+      "name": "frukkly 新国道店",
+      "storeid": "akita-e743be",
+      "shopid": "akita-e743be-aupay"
     }
   ],
   "八橋本町": [
     {
-      "name": "秋田 大勝軒"
+      "name": "秋田 大勝軒",
+      "storeid": "akita-c4e125",
+      "shopid": "akita-c4e125-aupay"
     },
     {
-      "name": "フランス料理レストランおいしんぼ"
+      "name": "フランス料理レストランおいしんぼ",
+      "storeid": "akita-cb8ff6",
+      "shopid": "akita-cb8ff6-aupay"
     },
     {
-      "name": "酉や喜兵衛 秋田山王本店"
+      "name": "酉や喜兵衛 秋田山王本店",
+      "storeid": "akita-47b42a",
+      "shopid": "akita-47b42a-aupay"
     }
   ],
   "八橋南": [
     {
-      "name": "Garden Kitchen COCONIWA"
+      "name": "Garden Kitchen COCONIWA",
+      "storeid": "akita-6e773e",
+      "shopid": "akita-6e773e-aupay"
     },
     {
-      "name": "久里庵"
+      "name": "久里庵",
+      "storeid": "akita-eb7e62",
+      "shopid": "akita-eb7e62-aupay"
     }
   ],
   "八橋田五郎": [
     {
-      "name": "VANSAN 秋田八橋店"
+      "name": "VANSAN 秋田八橋店",
+      "storeid": "akita-270535",
+      "shopid": "akita-270535-aupay"
     }
   ],
   "八橋大畑": [
     {
-      "name": "モスバーガー 秋田新国道店"
+      "name": "モスバーガー 秋田新国道店",
+      "storeid": "akita-1b58d0",
+      "shopid": "akita-1b58d0-aupay"
     }
   ],
   "八橋大道東": [
     {
-      "name": "コメダ珈琲店 秋田八橋店"
+      "name": "コメダ珈琲店 秋田八橋店",
+      "storeid": "akita-a61c1b",
+      "shopid": "akita-a61c1b-aupay"
     },
     {
-      "name": "南部家敷 八橋店"
+      "name": "南部家敷 八橋店",
+      "storeid": "akita-154639",
+      "shopid": "akita-154639-aupay"
     },
     {
-      "name": "ミスタードーナツ 八橋パブリ店"
+      "name": "ミスタードーナツ 八橋パブリ店",
+      "storeid": "akita-141172",
+      "shopid": "akita-141172-aupay"
     },
     {
-      "name": "三宝亭 八橋店"
+      "name": "三宝亭 八橋店",
+      "storeid": "akita-f38146",
+      "shopid": "akita-f38146-aupay"
     }
   ],
   "八橋新   向": [
     {
-      "name": "インドレストラン Peacock"
+      "name": "インドレストラン Peacock",
+      "storeid": "akita-b33921",
+      "shopid": "akita-b33921-aupay"
     },
     {
-      "name": "和・食 陽・食 伊豆屋"
+      "name": "和・食 陽・食 伊豆屋",
+      "storeid": "akita-ef3daa",
+      "shopid": "akita-ef3daa-aupay"
     }
   ],
   "八橋イサノ": [
     {
-      "name": "お食事処 かっぱ亭"
+      "name": "お食事処 かっぱ亭",
+      "storeid": "akita-ea096a",
+      "shopid": "akita-ea096a-aupay"
     }
   ],
   "南通築地": [
     {
-      "name": "甘味処 鎌倉秋田"
+      "name": "甘味処 鎌倉秋田",
+      "storeid": "akita-165273",
+      "shopid": "akita-165273-aupay"
     }
   ],
   "南通宮田": [
     {
-      "name": "MYROASTCOFFEE"
+      "name": "MYROASTCOFFEE",
+      "storeid": "akita-b0c12d",
+      "shopid": "akita-b0c12d-aupay"
     }
   ],
   "南通亀の町": [
     {
-      "name": "そば処たちそば"
+      "name": "そば処たちそば",
+      "storeid": "akita-3d592e",
+      "shopid": "akita-3d592e-aupay"
     },
     {
-      "name": "Bar潮"
+      "name": "Bar潮",
+      "storeid": "akita-34402d",
+      "shopid": "akita-34402d-aupay"
     },
     {
-      "name": "pasticci"
+      "name": "pasticci",
+      "storeid": "akita-83cef8",
+      "shopid": "akita-83cef8-aupay"
     },
     {
-      "name": "とっくりの木"
+      "name": "とっくりの木",
+      "storeid": "akita-34e47e",
+      "shopid": "akita-34e47e-aupay"
     },
     {
-      "name": "日本料理花鳥風月"
+      "name": "日本料理花鳥風月",
+      "storeid": "akita-8822de",
+      "shopid": "akita-8822de-aupay"
     },
     {
-      "name": "Roots"
+      "name": "Roots",
+      "storeid": "akita-3d3706",
+      "shopid": "akita-3d3706-aupay"
     },
     {
-      "name": "ソリレス"
+      "name": "ソリレス",
+      "storeid": "akita-4d6314",
+      "shopid": "akita-4d6314-aupay"
     },
     {
-      "name": "BEER FLIGHT"
+      "name": "BEER FLIGHT",
+      "storeid": "akita-d39f30",
+      "shopid": "akita-d39f30-aupay"
     },
     {
-      "name": "KAMENOCHOSTORE"
+      "name": "KAMENOCHOSTORE",
+      "storeid": "akita-493622",
+      "shopid": "akita-493622-aupay"
     },
     {
-      "name": "亀の町ベーカリー"
+      "name": "亀の町ベーカリー",
+      "storeid": "akita-a11a85",
+      "shopid": "akita-a11a85-aupay"
     },
     {
-      "name": "寿司 飄楽"
+      "name": "寿司 飄楽",
+      "storeid": "akita-f38018",
+      "shopid": "akita-f38018-aupay"
     },
     {
-      "name": "カメと夜のピエロ"
+      "name": "カメと夜のピエロ",
+      "storeid": "akita-c7cdf9",
+      "shopid": "akita-c7cdf9-aupay"
     },
     {
-      "name": "和しょく 徳"
+      "name": "和しょく 徳",
+      "storeid": "akita-b5fff6",
+      "shopid": "akita-b5fff6-aupay"
     },
     {
-      "name": "獬"
+      "name": "獬",
+      "storeid": "akita-d648ce",
+      "shopid": "akita-d648ce-aupay"
     },
     {
-      "name": "炭焼 大しま"
+      "name": "炭焼 大しま",
+      "storeid": "akita-704648",
+      "shopid": "akita-704648-aupay"
     }
   ],
   "楢山本町": [
     {
-      "name": "J&S agre"
+      "name": "J&S agre",
+      "storeid": "akita-419a2f",
+      "shopid": "akita-419a2f-aupay"
     }
   ],
   "楢山南中町": [
     {
-      "name": "マザー食堂 savu"
+      "name": "マザー食堂 savu",
+      "storeid": "akita-1a8185",
+      "shopid": "akita-1a8185-aupay"
     }
   ],
   "楢山登町": [
     {
-      "name": "CRYSTAL GARDEN"
+      "name": "CRYSTAL GARDEN",
+      "storeid": "akita-4f4901",
+      "shopid": "akita-4f4901-aupay"
     },
     {
-      "name": "青い鳥のレストラン"
+      "name": "青い鳥のレストラン",
+      "storeid": "akita-d345a4",
+      "shopid": "akita-d345a4-aupay"
     },
     {
-      "name": "翁屋 開運堂"
+      "name": "翁屋 開運堂",
+      "storeid": "akita-bf98b0",
+      "shopid": "akita-bf98b0-aupay"
     },
     {
-      "name": "コーヒー&ニットIVY"
+      "name": "コーヒー&ニットIVY",
+      "storeid": "akita-c29669",
+      "shopid": "akita-c29669-aupay"
     }
   ],
   "楢山大元町": [
     {
-      "name": "秋田杉"
+      "name": "秋田杉",
+      "storeid": "akita-4ca6d6",
+      "shopid": "akita-4ca6d6-aupay"
     }
   ],
   "楢山共和町": [
     {
-      "name": "うつつ菓子店"
+      "name": "うつつ菓子店",
+      "storeid": "akita-b20871",
+      "shopid": "akita-b20871-aupay"
     }
   ],
   "楢山愛宕下": [
     {
-      "name": "鶏笑 楢山店"
+      "name": "鶏笑 楢山店",
+      "storeid": "akita-1cec80",
+      "shopid": "akita-1cec80-aupay"
     }
   ],
   "楢山   口境": [
     {
-      "name": "ココス イオン秋田中央店"
+      "name": "ココス イオン秋田中央店",
+      "storeid": "akita-c2a767",
+      "shopid": "akita-c2a767-aupay"
     },
     {
-      "name": "モスバーガー イオン秋田中央店"
+      "name": "モスバーガー イオン秋田中央店",
+      "storeid": "akita-9483db",
+      "shopid": "akita-9483db-aupay"
     }
   ],
   "東通仲町": [
     {
-      "name": "千年の宴 秋田東口駅前店"
+      "name": "千年の宴 秋田東口駅前店",
+      "storeid": "akita-73237e",
+      "shopid": "akita-73237e-aupay"
     },
     {
-      "name": "トレンタ アルヴェ店"
+      "name": "トレンタ アルヴェ店",
+      "storeid": "akita-5a9dcd",
+      "shopid": "akita-5a9dcd-aupay"
     },
     {
-      "name": "まめまめハウス本店"
+      "name": "まめまめハウス本店",
+      "storeid": "akita-92bca0",
+      "shopid": "akita-92bca0-aupay"
     }
   ],
   "東通": [
     {
-      "name": "焼肉わかば 東通店"
+      "name": "焼肉わかば 東通店",
+      "storeid": "akita-4fddcc",
+      "shopid": "akita-4fddcc-aupay"
     },
     {
-      "name": "居酒屋 食堂 青空船"
+      "name": "居酒屋 食堂 青空船",
+      "storeid": "akita-e7664d",
+      "shopid": "akita-e7664d-aupay"
     },
     {
-      "name": "焼肉 コリアンダイニング 89"
+      "name": "焼肉 コリアンダイニング 89",
+      "storeid": "akita-41426e",
+      "shopid": "akita-41426e-aupay"
     },
     {
-      "name": "CoCo壱番屋 秋田東通店"
+      "name": "CoCo壱番屋 秋田東通店",
+      "storeid": "akita-d8060f",
+      "shopid": "akita-d8060f-aupay"
     },
     {
-      "name": "びっくりドンキー 広面店"
+      "name": "びっくりドンキー 広面店",
+      "storeid": "akita-c1dfd9",
+      "shopid": "akita-c1dfd9-aupay"
     },
     {
-      "name": "かつや 秋田東通店"
+      "name": "かつや 秋田東通店",
+      "storeid": "akita-b399f2",
+      "shopid": "akita-b399f2-aupay"
     },
     {
-      "name": "コメダ珈琲店 秋田東通店"
+      "name": "コメダ珈琲店 秋田東通店",
+      "storeid": "akita-d251f9",
+      "shopid": "akita-d251f9-aupay"
     }
   ],
   "土崎港北": [
     {
-      "name": "洋菓子のアンジェ"
+      "name": "洋菓子のアンジェ",
+      "storeid": "akita-e87247",
+      "shopid": "akita-e87247-aupay"
     },
     {
-      "name": "パナス 土崎店"
+      "name": "パナス 土崎店",
+      "storeid": "akita-f53cfb",
+      "shopid": "akita-f53cfb-aupay"
     },
     {
-      "name": "CoCo壱番屋 秋田土崎店"
+      "name": "CoCo壱番屋 秋田土崎店",
+      "storeid": "akita-9c6c39",
+      "shopid": "akita-9c6c39-aupay"
     },
     {
-      "name": "Umarin."
+      "name": "Umarin.",
+      "storeid": "akita-c1e158",
+      "shopid": "akita-c1e158-aupay"
     }
   ],
   "土崎港南": [
     {
-      "name": "海鮮居酒屋 若大将 土崎店"
+      "name": "海鮮居酒屋 若大将 土崎店",
+      "storeid": "akita-706f8c",
+      "shopid": "akita-706f8c-aupay"
     }
   ],
   "土崎港中央": [
     {
-      "name": "食の舘 香味"
+      "name": "食の舘 香味",
+      "storeid": "akita-e3179b",
+      "shopid": "akita-e3179b-aupay"
     },
     {
-      "name": "酒肴旬彩 白帆"
+      "name": "酒肴旬彩 白帆",
+      "storeid": "akita-1af48f",
+      "shopid": "akita-1af48f-aupay"
     },
     {
-      "name": "めしや"
+      "name": "めしや",
+      "storeid": "akita-798532",
+      "shopid": "akita-798532-aupay"
     },
     {
-      "name": "スナックピオン"
+      "name": "スナックピオン",
+      "storeid": "akita-706dd4",
+      "shopid": "akita-706dd4-aupay"
     },
     {
-      "name": "SELFISHBITCH"
+      "name": "SELFISHBITCH",
+      "storeid": "akita-48b9c7",
+      "shopid": "akita-48b9c7-aupay"
     },
     {
-      "name": "札幌海鮮丸 土崎店"
+      "name": "札幌海鮮丸 土崎店",
+      "storeid": "akita-a9abdb",
+      "shopid": "akita-a9abdb-aupay"
     },
     {
-      "name": "ホルもん あにー"
+      "name": "ホルもん あにー",
+      "storeid": "akita-49b86e",
+      "shopid": "akita-49b86e-aupay"
     },
     {
-      "name": "St Da Arc"
+      "name": "St Da Arc",
+      "storeid": "akita-1afd98",
+      "shopid": "akita-1afd98-aupay"
     },
     {
-      "name": "酔って家"
+      "name": "酔って家",
+      "storeid": "akita-ae8804",
+      "shopid": "akita-ae8804-aupay"
     },
     {
-      "name": "Lily"
+      "name": "Lily",
+      "storeid": "akita-951cef",
+      "shopid": "akita-951cef-aupay"
     },
     {
-      "name": "ゼッテリア 7号秋田土崎店"
+      "name": "ゼッテリア 7号秋田土崎店",
+      "storeid": "akita-4e390e",
+      "shopid": "akita-4e390e-aupay"
     },
     {
-      "name": "ロッテリア 7号秋田土崎店"
+      "name": "ロッテリア 7号秋田土崎店",
+      "storeid": "akita-65c457",
+      "shopid": "akita-65c457-aupay"
     },
     {
-      "name": "たこまる"
+      "name": "たこまる",
+      "storeid": "akita-cb384e",
+      "shopid": "akita-cb384e-aupay"
     },
     {
-      "name": "カフェ スマイルリング"
+      "name": "カフェ スマイルリング",
+      "storeid": "akita-38c365",
+      "shopid": "akita-38c365-aupay"
     },
     {
-      "name": "居酒屋 本舎"
+      "name": "居酒屋 本舎",
+      "storeid": "akita-ef2e31",
+      "shopid": "akita-ef2e31-aupay"
     }
   ],
   "土崎港相染町大谷地": [
     {
-      "name": "すき家 7号秋田土崎店"
+      "name": "すき家 7号秋田土崎店",
+      "storeid": "akita-ca5b54",
+      "shopid": "akita-ca5b54-aupay"
     }
   ],
   "土崎港相染町沼端": [
     {
-      "name": "焼肉ほむら家 土崎店"
+      "name": "焼肉ほむら家 土崎店",
+      "storeid": "akita-53203e",
+      "shopid": "akita-53203e-aupay"
     },
     {
-      "name": "幸楽苑 土崎店"
+      "name": "幸楽苑 土崎店",
+      "storeid": "akita-42a568",
+      "shopid": "akita-42a568-aupay"
     },
     {
-      "name": "なか卯 秋田土崎港店"
+      "name": "なか卯 秋田土崎港店",
+      "storeid": "akita-81cfd5",
+      "shopid": "akita-81cfd5-aupay"
     }
   ],
   "土崎港相染町家ノ下": [
     {
-      "name": "吉野家 7号線秋田土崎店"
+      "name": "吉野家 7号線秋田土崎店",
+      "storeid": "akita-1cf779",
+      "shopid": "akita-1cf779-aupay"
     }
   ],
   "土崎港西": [
     {
-      "name": "土崎湊屋"
+      "name": "土崎湊屋",
+      "storeid": "akita-ebce1e",
+      "shopid": "akita-ebce1e-aupay"
     },
     {
-      "name": "信楽"
+      "name": "信楽",
+      "storeid": "akita-f7bac0",
+      "shopid": "akita-f7bac0-aupay"
     },
     {
-      "name": "秀寿し"
+      "name": "秀寿し",
+      "storeid": "akita-31b9a6",
+      "shopid": "akita-31b9a6-aupay"
     },
     {
-      "name": "セジョンの食卓"
+      "name": "セジョンの食卓",
+      "storeid": "akita-6696b7",
+      "shopid": "akita-6696b7-aupay"
     },
     {
-      "name": "BOX COFFEE 土崎店"
+      "name": "BOX COFFEE 土崎店",
+      "storeid": "akita-6564bf",
+      "shopid": "akita-6564bf-aupay"
     },
     {
-      "name": "魚々苑"
+      "name": "魚々苑",
+      "storeid": "akita-64e84c",
+      "shopid": "akita-64e84c-aupay"
     }
   ],
   "添   添   沢": [
     {
-      "name": "自然食 そゑ"
+      "name": "自然食 そゑ",
+      "storeid": "akita-765209",
+      "shopid": "akita-765209-aupay"
     }
   ],
   "中通": [
     {
-      "name": "餃子 玖"
+      "name": "餃子 玖",
+      "storeid": "akita-a49bee",
+      "shopid": "akita-a49bee-aupay"
     },
     {
-      "name": "丿貫"
+      "name": "丿貫",
+      "storeid": "akita-7d13e1",
+      "shopid": "akita-7d13e1-aupay"
     },
     {
-      "name": "和食扇屋"
+      "name": "和食扇屋",
+      "storeid": "akita-40e0c6",
+      "shopid": "akita-40e0c6-aupay"
     },
     {
-      "name": "和食なり"
+      "name": "和食なり",
+      "storeid": "akita-73314d",
+      "shopid": "akita-73314d-aupay"
     },
     {
-      "name": "羊屋 Tocchi"
+      "name": "羊屋 Tocchi",
+      "storeid": "akita-580cfa",
+      "shopid": "akita-580cfa-aupay"
     },
     {
-      "name": "無限堂秋田駅前店"
+      "name": "無限堂秋田駅前店",
+      "storeid": "akita-426d52",
+      "shopid": "akita-426d52-aupay"
     },
     {
-      "name": "夢献 秋田"
+      "name": "夢献 秋田",
+      "storeid": "akita-c5b0a7",
+      "shopid": "akita-c5b0a7-aupay"
     },
     {
-      "name": "本家あべや 秋田店"
+      "name": "本家あべや 秋田店",
+      "storeid": "akita-d07d42",
+      "shopid": "akita-d07d42-aupay"
     },
     {
-      "name": "美・中🖃菜 武陵源"
+      "name": "美・中🖃菜 武陵源",
+      "storeid": "akita-d541be",
+      "shopid": "akita-d541be-aupay"
     },
     {
-      "name": "博多 どろんけん"
+      "name": "博多 どろんけん",
+      "storeid": "akita-e022d3",
+      "shopid": "akita-e022d3-aupay"
     },
     {
-      "name": "日本酒DiningKURO"
+      "name": "日本酒DiningKURO",
+      "storeid": "akita-8cd1e2",
+      "shopid": "akita-8cd1e2-aupay"
     },
     {
-      "name": "肉の久保田屋 秋田本店"
+      "name": "肉の久保田屋 秋田本店",
+      "storeid": "akita-1822df",
+      "shopid": "akita-1822df-aupay"
     },
     {
-      "name": "東天紅 秋田キャッスルホテル店"
+      "name": "東天紅 秋田キャッスルホテル店",
+      "storeid": "akita-d1b636",
+      "shopid": "akita-d1b636-aupay"
     },
     {
-      "name": "町家"
+      "name": "町家",
+      "storeid": "akita-5b29d8",
+      "shopid": "akita-5b29d8-aupay"
     },
     {
-      "name": "仲小路コーヒー&ワイン"
+      "name": "仲小路コーヒー&ワイン",
+      "storeid": "akita-27b3de",
+      "shopid": "akita-27b3de-aupay"
     },
     {
-      "name": "中通りサティスファクション"
+      "name": "中通りサティスファクション",
+      "storeid": "akita-56a066",
+      "shopid": "akita-56a066-aupay"
     },
     {
-      "name": "中通チルアウト"
+      "name": "中通チルアウト",
+      "storeid": "akita-af58cf",
+      "shopid": "akita-af58cf-aupay"
     },
     {
-      "name": "地酒BARU TSUBASA"
+      "name": "地酒BARU TSUBASA",
+      "storeid": "akita-96c0c3",
+      "shopid": "akita-96c0c3-aupay"
     },
     {
-      "name": "大昌園"
+      "name": "大昌園",
+      "storeid": "akita-650e84",
+      "shopid": "akita-650e84-aupay"
     },
     {
-      "name": "千秋"
+      "name": "千秋",
+      "storeid": "akita-94bca9",
+      "shopid": "akita-94bca9-aupay"
     },
     {
-      "name": "赤居文庫"
+      "name": "赤居文庫",
+      "storeid": "akita-2b1c25",
+      "shopid": "akita-2b1c25-aupay"
     },
     {
-      "name": "杉や"
+      "name": "杉や",
+      "storeid": "akita-d4f4c8",
+      "shopid": "akita-d4f4c8-aupay"
     },
     {
-      "name": "食・楽・酒 おおき"
+      "name": "食・楽・酒 おおき",
+      "storeid": "akita-85e919",
+      "shopid": "akita-85e919-aupay"
     },
     {
-      "name": "上海楼酒家"
+      "name": "上海楼酒家",
+      "storeid": "akita-ca25af",
+      "shopid": "akita-ca25af-aupay"
     },
     {
-      "name": "焼酎屋"
+      "name": "焼酎屋",
+      "storeid": "akita-ee8954",
+      "shopid": "akita-ee8954-aupay"
     },
     {
-      "name": "小料理 すず乃"
+      "name": "小料理 すず乃",
+      "storeid": "akita-72902d",
+      "shopid": "akita-72902d-aupay"
     },
     {
-      "name": "升屋 秋田駅前店"
+      "name": "升屋 秋田駅前店",
+      "storeid": "akita-b47e8b",
+      "shopid": "akita-b47e8b-aupay"
     },
     {
-      "name": "秋田長屋酒場"
+      "name": "秋田長屋酒場",
+      "storeid": "akita-94355a",
+      "shopid": "akita-94355a-aupay"
     },
     {
-      "name": "秋田牛玄亭 駅前本店"
+      "name": "秋田牛玄亭 駅前本店",
+      "storeid": "akita-3703c5",
+      "shopid": "akita-3703c5-aupay"
     },
     {
-      "name": "秋田駅前酒房 ぐらん炭"
+      "name": "秋田駅前酒房 ぐらん炭",
+      "storeid": "akita-be6ce6",
+      "shopid": "akita-be6ce6-aupay"
     },
     {
-      "name": "秋田きりたんぽ屋 駅前本店"
+      "name": "秋田きりたんぽ屋 駅前本店",
+      "storeid": "akita-ec7b24",
+      "shopid": "akita-ec7b24-aupay"
     },
     {
-      "name": "酒場 わんえいす"
+      "name": "酒場 わんえいす",
+      "storeid": "akita-7b0bad",
+      "shopid": "akita-7b0bad-aupay"
     },
     {
-      "name": "三松堂"
+      "name": "三松堂",
+      "storeid": "akita-c0bf44",
+      "shopid": "akita-c0bf44-aupay"
     },
     {
-      "name": "札幌かに本家 秋田店"
+      "name": "札幌かに本家 秋田店",
+      "storeid": "akita-a99eea",
+      "shopid": "akita-a99eea-aupay"
     },
     {
-      "name": "光月堂"
+      "name": "光月堂",
+      "storeid": "akita-acf49d",
+      "shopid": "akita-acf49d-aupay"
     },
     {
-      "name": "月あかり 秋田店"
+      "name": "月あかり 秋田店",
+      "storeid": "akita-066950",
+      "shopid": "akita-066950-aupay"
     },
     {
-      "name": "紀伊国屋"
+      "name": "紀伊国屋",
+      "storeid": "akita-ad1ba3",
+      "shopid": "akita-ad1ba3-aupay"
     },
     {
-      "name": "寛文五年堂 秋田店"
+      "name": "寛文五年堂 秋田店",
+      "storeid": "akita-46039a",
+      "shopid": "akita-46039a-aupay"
     },
     {
-      "name": "我楽"
+      "name": "我楽",
+      "storeid": "akita-754fbf",
+      "shopid": "akita-754fbf-aupay"
     },
     {
-      "name": "駅前あっちゃん"
+      "name": "駅前あっちゃん",
+      "storeid": "akita-09888d",
+      "shopid": "akita-09888d-aupay"
     },
     {
-      "name": "稲庭中華そば 秋田本店"
+      "name": "稲庭中華そば 秋田本店",
+      "storeid": "akita-d05302",
+      "shopid": "akita-d05302-aupay"
     },
     {
-      "name": "モンキーバナナ"
+      "name": "モンキーバナナ",
+      "storeid": "akita-6969a5",
+      "shopid": "akita-6969a5-aupay"
     },
     {
-      "name": "ミライザカ 秋田駅前店"
+      "name": "ミライザカ 秋田駅前店",
+      "storeid": "akita-6c120e",
+      "shopid": "akita-6c120e-aupay"
     },
     {
-      "name": "みなみ食堂"
+      "name": "みなみ食堂",
+      "storeid": "akita-646621",
+      "shopid": "akita-646621-aupay"
     },
     {
-      "name": "ブリュッコリー BREWCCOLY"
+      "name": "ブリュッコリー BREWCCOLY",
+      "storeid": "akita-39716c",
+      "shopid": "akita-39716c-aupay"
     },
     {
-      "name": "ひよこカレー 秋田駅前店"
+      "name": "ひよこカレー 秋田駅前店",
+      "storeid": "akita-8963a0",
+      "shopid": "akita-8963a0-aupay"
     },
     {
-      "name": "バーロータス"
+      "name": "バーロータス",
+      "storeid": "akita-933f97",
+      "shopid": "akita-933f97-aupay"
     },
     {
-      "name": "なべ勝"
+      "name": "なべ勝",
+      "storeid": "akita-4f6976",
+      "shopid": "akita-4f6976-aupay"
     },
     {
-      "name": "とんかつ いし"
+      "name": "とんかつ いし",
+      "storeid": "akita-93fc1b",
+      "shopid": "akita-93fc1b-aupay"
     },
     {
-      "name": "どるず珈琲店"
+      "name": "どるず珈琲店",
+      "storeid": "akita-66c637",
+      "shopid": "akita-66c637-aupay"
     },
     {
-      "name": "トリス軒"
+      "name": "トリス軒",
+      "storeid": "akita-71351f",
+      "shopid": "akita-71351f-aupay"
     },
     {
-      "name": "ティールーム陶"
+      "name": "ティールーム陶",
+      "storeid": "akita-52edca",
+      "shopid": "akita-52edca-aupay"
     },
     {
-      "name": "ダイニングレストラン ザキャッスル"
+      "name": "ダイニングレストラン ザキャッスル",
+      "storeid": "akita-0539ac",
+      "shopid": "akita-0539ac-aupay"
     },
     {
-      "name": "そば処 四季"
+      "name": "そば処 四季",
+      "storeid": "akita-c50e53",
+      "shopid": "akita-c50e53-aupay"
     },
     {
-      "name": "すし あかさか"
+      "name": "すし あかさか",
+      "storeid": "akita-4d62bf",
+      "shopid": "akita-4d62bf-aupay"
     },
     {
-      "name": "さかえ"
+      "name": "さかえ",
+      "storeid": "akita-6f3cf1",
+      "shopid": "akita-6f3cf1-aupay"
     },
     {
-      "name": "サーティワンアイスクリーム 秋田駅前店"
+      "name": "サーティワンアイスクリーム 秋田駅前店",
+      "storeid": "akita-1153b4",
+      "shopid": "akita-1153b4-aupay"
     },
     {
-      "name": "げんき屋 秋田駅前店"
+      "name": "げんき屋 秋田駅前店",
+      "storeid": "akita-193d1a",
+      "shopid": "akita-193d1a-aupay"
     },
     {
-      "name": "キャッスルデリカ"
+      "name": "キャッスルデリカ",
+      "storeid": "akita-bbe620",
+      "shopid": "akita-bbe620-aupay"
     },
     {
-      "name": "カラオケ広場 ジャンボ"
+      "name": "カラオケ広場 ジャンボ",
+      "storeid": "akita-be5348",
+      "shopid": "akita-be5348-aupay"
     },
     {
-      "name": "カラオケカムバック"
+      "name": "カラオケカムバック",
+      "storeid": "akita-dd20d5",
+      "shopid": "akita-dd20d5-aupay"
     },
     {
-      "name": "カラオケBanBan 秋田駅前店"
+      "name": "カラオケBanBan 秋田駅前店",
+      "storeid": "akita-9fe72f",
+      "shopid": "akita-9fe72f-aupay"
     },
     {
-      "name": "いろは"
+      "name": "いろは",
+      "storeid": "akita-b41287",
+      "shopid": "akita-b41287-aupay"
     },
     {
-      "name": "いいもんや酉二九秋田駅前店"
+      "name": "いいもんや酉二九秋田駅前店",
+      "storeid": "akita-ef9339",
+      "shopid": "akita-ef9339-aupay"
     },
     {
-      "name": "アジアグラ"
+      "name": "アジアグラ",
+      "storeid": "akita-e42da4",
+      "shopid": "akita-e42da4-aupay"
     },
     {
-      "name": "アーティーチョーク"
+      "name": "アーティーチョーク",
+      "storeid": "akita-d993b0",
+      "shopid": "akita-d993b0-aupay"
     },
     {
-      "name": "ZOT"
+      "name": "ZOT",
+      "storeid": "akita-e222eb",
+      "shopid": "akita-e222eb-aupay"
     },
     {
-      "name": "ZECCHINI PIZZA BANCARELLA（ゼッキーニ ピッツァ バンカレッラ）"
+      "name": "ZECCHINI PIZZA BANCARELLA（ゼッキーニ ピッツァ バンカレッラ）",
+      "storeid": "akita-3ce643",
+      "shopid": "akita-3ce643-aupay"
     },
     {
-      "name": "Wild Berry"
+      "name": "Wild Berry",
+      "storeid": "akita-ed79a2",
+      "shopid": "akita-ed79a2-aupay"
     },
     {
-      "name": "VISTA COFFEE ROASTERS"
+      "name": "VISTA COFFEE ROASTERS",
+      "storeid": "akita-c474eb",
+      "shopid": "akita-c474eb-aupay"
     },
     {
-      "name": "Pi Café 衣料の大高"
+      "name": "Pi Café 衣料の大高",
+      "storeid": "akita-f593c7",
+      "shopid": "akita-f593c7-aupay"
     },
     {
-      "name": "LOUNGE A.D"
+      "name": "LOUNGE A.D",
+      "storeid": "akita-c608f4",
+      "shopid": "akita-c608f4-aupay"
     },
     {
-      "name": "kissaten"
+      "name": "kissaten",
+      "storeid": "akita-1f6bc3",
+      "shopid": "akita-1f6bc3-aupay"
     },
     {
-      "name": "iーgatta"
+      "name": "iーgatta",
+      "storeid": "akita-059834",
+      "shopid": "akita-059834-aupay"
     },
     {
-      "name": "Dining集"
+      "name": "Dining集",
+      "storeid": "akita-212e6d",
+      "shopid": "akita-212e6d-aupay"
     },
     {
-      "name": "Branziーno Akita"
+      "name": "Branziーno Akita",
+      "storeid": "akita-40ec4d",
+      "shopid": "akita-40ec4d-aupay"
     },
     {
-      "name": "AZUKI BAR"
+      "name": "AZUKI BAR",
+      "storeid": "akita-610a76",
+      "shopid": "akita-610a76-aupay"
     },
     {
-      "name": "Avanti"
+      "name": "Avanti",
+      "storeid": "akita-516d47",
+      "shopid": "akita-516d47-aupay"
     },
     {
-      "name": "88BAR & Delicatessen"
+      "name": "88BAR & Delicatessen",
+      "storeid": "akita-fdbe60",
+      "shopid": "akita-fdbe60-aupay"
     },
     {
-      "name": "和食 神楽"
+      "name": "和食 神楽",
+      "storeid": "akita-042698",
+      "shopid": "akita-042698-aupay"
     },
     {
-      "name": "炭火焼鳥 鳥好"
+      "name": "炭火焼鳥 鳥好",
+      "storeid": "akita-3e83b8",
+      "shopid": "akita-3e83b8-aupay"
     },
     {
-      "name": "辛夷"
+      "name": "辛夷",
+      "storeid": "akita-87f4a7",
+      "shopid": "akita-87f4a7-aupay"
     },
     {
-      "name": "酒美DEグランチェ"
+      "name": "酒美DEグランチェ",
+      "storeid": "akita-a3775a",
+      "shopid": "akita-a3775a-aupay"
     },
     {
-      "name": "手打蕎麦かとう"
+      "name": "手打蕎麦かとう",
+      "storeid": "akita-35f139",
+      "shopid": "akita-35f139-aupay"
     },
     {
-      "name": "御廚光琳"
+      "name": "御廚光琳",
+      "storeid": "akita-c7eb98",
+      "shopid": "akita-c7eb98-aupay"
     },
     {
-      "name": "ももんが"
+      "name": "ももんが",
+      "storeid": "akita-2fc773",
+      "shopid": "akita-2fc773-aupay"
     },
     {
-      "name": "パセリ"
+      "name": "パセリ",
+      "storeid": "akita-68ff10",
+      "shopid": "akita-68ff10-aupay"
     },
     {
-      "name": "かりんここりんこ"
+      "name": "かりんここりんこ",
+      "storeid": "akita-d47bbf",
+      "shopid": "akita-d47bbf-aupay"
     },
     {
-      "name": "いかるが"
+      "name": "いかるが",
+      "storeid": "akita-5751a0",
+      "shopid": "akita-5751a0-aupay"
     },
     {
-      "name": "Cafe&BarPopcorn"
+      "name": "Cafe&BarPopcorn",
+      "storeid": "akita-c195d2",
+      "shopid": "akita-c195d2-aupay"
     }
   ],
   "大町": [
     {
-      "name": "莉莉"
+      "name": "莉莉",
+      "storeid": "akita-21944e",
+      "shopid": "akita-21944e-aupay"
     },
     {
-      "name": "和食処 まる"
+      "name": "和食処 まる",
+      "storeid": "akita-f3aa20",
+      "shopid": "akita-f3aa20-aupay"
     },
     {
-      "name": "六"
+      "name": "六",
+      "storeid": "akita-61b453",
+      "shopid": "akita-61b453-aupay"
     },
     {
-      "name": "路地裏ダイニング anaboco"
+      "name": "路地裏ダイニング anaboco",
+      "storeid": "akita-f9df0c",
+      "shopid": "akita-f9df0c-aupay"
     },
     {
-      "name": "炉端 海鮮 すずらん"
+      "name": "炉端 海鮮 すずらん",
+      "storeid": "akita-db45c4",
+      "shopid": "akita-db45c4-aupay"
     },
     {
-      "name": "利休"
+      "name": "利休",
+      "storeid": "akita-0ac406",
+      "shopid": "akita-0ac406-aupay"
     },
     {
-      "name": "洋食バル YABU"
+      "name": "洋食バル YABU",
+      "storeid": "akita-1f8e67",
+      "shopid": "akita-1f8e67-aupay"
     },
     {
-      "name": "優"
+      "name": "優",
+      "storeid": "akita-9b8418",
+      "shopid": "akita-9b8418-aupay"
     },
     {
-      "name": "無限堂大町本店"
+      "name": "無限堂大町本店",
+      "storeid": "akita-890079",
+      "shopid": "akita-890079-aupay"
     },
     {
-      "name": "福ト屋"
+      "name": "福ト屋",
+      "storeid": "akita-bbdd64",
+      "shopid": "akita-bbdd64-aupay"
     },
     {
-      "name": "百舌鳥"
+      "name": "百舌鳥",
+      "storeid": "akita-51ff5c",
+      "shopid": "akita-51ff5c-aupay"
     },
     {
-      "name": "美酒王国秋田 SakeーNavi"
+      "name": "美酒王国秋田 SakeーNavi",
+      "storeid": "akita-87107d",
+      "shopid": "akita-87107d-aupay"
     },
     {
-      "name": "薄利多賣半兵ヱ 秋田   反店"
+      "name": "薄利多賣半兵ヱ 秋田   反店",
+      "storeid": "akita-a7a94d",
+      "shopid": "akita-a7a94d-aupay"
     },
     {
-      "name": "日和"
+      "name": "日和",
+      "storeid": "akita-259293",
+      "shopid": "akita-259293-aupay"
     },
     {
-      "name": "道頓堀 味の饗宴"
+      "name": "道頓堀 味の饗宴",
+      "storeid": "akita-3ffe5b",
+      "shopid": "akita-3ffe5b-aupay"
     },
     {
-      "name": "天ぷら・酒菜 醍醐"
+      "name": "天ぷら・酒菜 醍醐",
+      "storeid": "akita-2fc1df",
+      "shopid": "akita-2fc1df-aupay"
     },
     {
-      "name": "中国菜館 一元"
+      "name": "中国菜館 一元",
+      "storeid": "akita-5e5511",
+      "shopid": "akita-5e5511-aupay"
     },
     {
-      "name": "竹嶋"
+      "name": "竹嶋",
+      "storeid": "akita-31d204",
+      "shopid": "akita-31d204-aupay"
     },
     {
-      "name": "炭火焼き鳥と秋田の肴 すみの蔵"
+      "name": "炭火焼き鳥と秋田の肴 すみの蔵",
+      "storeid": "akita-f97d44",
+      "shopid": "akita-f97d44-aupay"
     },
     {
-      "name": "炭やき 佐のいち"
+      "name": "炭やき 佐のいち",
+      "storeid": "akita-00864b",
+      "shopid": "akita-00864b-aupay"
     },
     {
-      "name": "大安吉日"
+      "name": "大安吉日",
+      "storeid": "akita-ad8a07",
+      "shopid": "akita-ad8a07-aupay"
     },
     {
-      "name": "赤から秋田   反店"
+      "name": "赤から秋田   反店",
+      "storeid": "akita-27c96b",
+      "shopid": "akita-27c96b-aupay"
     },
     {
-      "name": "星みや"
+      "name": "星みや",
+      "storeid": "akita-736d46",
+      "shopid": "akita-736d46-aupay"
     },
     {
-      "name": "新時代 秋田大町店"
+      "name": "新時代 秋田大町店",
+      "storeid": "akita-c6f469",
+      "shopid": "akita-c6f469-aupay"
     },
     {
-      "name": "笑福亭"
+      "name": "笑福亭",
+      "storeid": "akita-00d4b3",
+      "shopid": "akita-00d4b3-aupay"
     },
     {
-      "name": "焼肉牛車"
+      "name": "焼肉牛車",
+      "storeid": "akita-099e47",
+      "shopid": "akita-099e47-aupay"
     },
     {
-      "name": "焼肉コリアン"
+      "name": "焼肉コリアン",
+      "storeid": "akita-6c1f04",
+      "shopid": "akita-6c1f04-aupay"
     },
     {
-      "name": "焼肉 雷や"
+      "name": "焼肉 雷や",
+      "storeid": "akita-470939",
+      "shopid": "akita-470939-aupay"
     },
     {
-      "name": "焼きとん大国 秋田大町店"
+      "name": "焼きとん大国 秋田大町店",
+      "storeid": "akita-de93f1",
+      "shopid": "akita-de93f1-aupay"
     },
     {
-      "name": "秋田乃瀧"
+      "name": "秋田乃瀧",
+      "storeid": "akita-9053f6",
+      "shopid": "akita-9053f6-aupay"
     },
     {
-      "name": "秋田杉"
+      "name": "秋田杉",
+      "storeid": "akita-4ca6d6",
+      "shopid": "akita-4ca6d6-aupay"
     },
     {
-      "name": "秋田の食堂 やまと"
+      "name": "秋田の食堂 やまと",
+      "storeid": "akita-eb0b9b",
+      "shopid": "akita-eb0b9b-aupay"
     },
     {
-      "name": "秋田きりたんぽ屋 大町分店"
+      "name": "秋田きりたんぽ屋 大町分店",
+      "storeid": "akita-30e546",
+      "shopid": "akita-30e546-aupay"
     },
     {
-      "name": "秋田あくらビール／ビアカフェあくら"
+      "name": "秋田あくらビール／ビアカフェあくら",
+      "storeid": "akita-8e6094",
+      "shopid": "akita-8e6094-aupay"
     },
     {
-      "name": "秋田   反漁屋酒場"
+      "name": "秋田   反漁屋酒場",
+      "storeid": "akita-018051",
+      "shopid": "akita-018051-aupay"
     },
     {
-      "name": "酒蔵 熊親爺"
+      "name": "酒蔵 熊親爺",
+      "storeid": "akita-f84762",
+      "shopid": "akita-f84762-aupay"
     },
     {
-      "name": "酒場まほろば"
+      "name": "酒場まほろば",
+      "storeid": "akita-ef20f1",
+      "shopid": "akita-ef20f1-aupay"
     },
     {
-      "name": "酒菜まきうち"
+      "name": "酒菜まきうち",
+      "storeid": "akita-443ccd",
+      "shopid": "akita-443ccd-aupay"
     },
     {
-      "name": "串猿 秋田店"
+      "name": "串猿 秋田店",
+      "storeid": "akita-d5f7d7",
+      "shopid": "akita-d5f7d7-aupay"
     },
     {
-      "name": "串 ナナイチ"
+      "name": "串 ナナイチ",
+      "storeid": "akita-1ccf28",
+      "shopid": "akita-1ccf28-aupay"
     },
     {
-      "name": "京都互福庵 秋田店"
+      "name": "京都互福庵 秋田店",
+      "storeid": "akita-3670b0",
+      "shopid": "akita-3670b0-aupay"
     },
     {
-      "name": "居酒屋 たみすけ"
+      "name": "居酒屋 たみすけ",
+      "storeid": "akita-488944",
+      "shopid": "akita-488944-aupay"
     },
     {
-      "name": "居酒屋 こんの"
+      "name": "居酒屋 こんの",
+      "storeid": "akita-317eb3",
+      "shopid": "akita-317eb3-aupay"
     },
     {
-      "name": "喫茶久吉"
+      "name": "喫茶久吉",
+      "storeid": "akita-98f24a",
+      "shopid": "akita-98f24a-aupay"
     },
     {
-      "name": "割烹居酒屋いわや"
+      "name": "割烹居酒屋いわや",
+      "storeid": "akita-e240f7",
+      "shopid": "akita-e240f7-aupay"
     },
     {
-      "name": "火乃座"
+      "name": "火乃座",
+      "storeid": "akita-ff2b3c",
+      "shopid": "akita-ff2b3c-aupay"
     },
     {
-      "name": "隠れ家酒房うつつ"
+      "name": "隠れ家酒房うつつ",
+      "storeid": "akita-cf5213",
+      "shopid": "akita-cf5213-aupay"
     },
     {
-      "name": "一の酉     反店"
+      "name": "一の酉     反店",
+      "storeid": "akita-4aab98",
+      "shopid": "akita-4aab98-aupay"
     },
     {
-      "name": "杏"
+      "name": "杏",
+      "storeid": "akita-985709",
+      "shopid": "akita-985709-aupay"
     },
     {
-      "name": "🖃酒と料理 墨流し"
+      "name": "🖃酒と料理 墨流し",
+      "storeid": "akita-55e481",
+      "shopid": "akita-55e481-aupay"
     },
     {
-      "name": "ローストビーフ酒場 USHIMARU"
+      "name": "ローストビーフ酒場 USHIMARU",
+      "storeid": "akita-1369a4",
+      "shopid": "akita-1369a4-aupay"
     },
     {
-      "name": "レストランかなや"
+      "name": "レストランかなや",
+      "storeid": "akita-35c259",
+      "shopid": "akita-35c259-aupay"
     },
     {
-      "name": "ラララ"
+      "name": "ラララ",
+      "storeid": "akita-7aecd5",
+      "shopid": "akita-7aecd5-aupay"
     },
     {
-      "name": "フィッシャーマンズバル109"
+      "name": "フィッシャーマンズバル109",
+      "storeid": "akita-1aac71",
+      "shopid": "akita-1aac71-aupay"
     },
     {
-      "name": "パンプルムゥス 秋田店"
+      "name": "パンプルムゥス 秋田店",
+      "storeid": "akita-3b5c57",
+      "shopid": "akita-3b5c57-aupay"
     },
     {
-      "name": "ハチコオリ"
+      "name": "ハチコオリ",
+      "storeid": "akita-7b8fb4",
+      "shopid": "akita-7b8fb4-aupay"
     },
     {
-      "name": "はざど"
+      "name": "はざど",
+      "storeid": "akita-298b8c",
+      "shopid": "akita-298b8c-aupay"
     },
     {
-      "name": "にくえもん"
+      "name": "にくえもん",
+      "storeid": "akita-c80a38",
+      "shopid": "akita-c80a38-aupay"
     },
     {
-      "name": "ナイトシーザーペガサスNK"
+      "name": "ナイトシーザーペガサスNK",
+      "storeid": "akita-c24ef3",
+      "shopid": "akita-c24ef3-aupay"
     },
     {
-      "name": "デコパージュ"
+      "name": "デコパージュ",
+      "storeid": "akita-c671ee",
+      "shopid": "akita-c671ee-aupay"
     },
     {
-      "name": "ちょい飲み 悠"
+      "name": "ちょい飲み 悠",
+      "storeid": "akita-9511c2",
+      "shopid": "akita-9511c2-aupay"
     },
     {
-      "name": "たこやき宮ちゃん しらんけど"
+      "name": "たこやき宮ちゃん しらんけど",
+      "storeid": "akita-54f097",
+      "shopid": "akita-54f097-aupay"
     },
     {
-      "name": "ダイ屋"
+      "name": "ダイ屋",
+      "storeid": "akita-2e8ff1",
+      "shopid": "akita-2e8ff1-aupay"
     },
     {
-      "name": "ダイニングバーChoRaBi"
+      "name": "ダイニングバーChoRaBi",
+      "storeid": "akita-95145d",
+      "shopid": "akita-95145d-aupay"
     },
     {
-      "name": "スナック星野"
+      "name": "スナック星野",
+      "storeid": "akita-fce794",
+      "shopid": "akita-fce794-aupay"
     },
     {
-      "name": "スナック 美美"
+      "name": "スナック 美美",
+      "storeid": "akita-c9e4b5",
+      "shopid": "akita-c9e4b5-aupay"
     },
     {
-      "name": "ステーキしゃぶしゃぶ牛閣寺"
+      "name": "ステーキしゃぶしゃぶ牛閣寺",
+      "storeid": "akita-42e414",
+      "shopid": "akita-42e414-aupay"
     },
     {
-      "name": "すし暁"
+      "name": "すし暁",
+      "storeid": "akita-c0e889",
+      "shopid": "akita-c0e889-aupay"
     },
     {
-      "name": "さけ富"
+      "name": "さけ富",
+      "storeid": "akita-19a77d",
+      "shopid": "akita-19a77d-aupay"
     },
     {
-      "name": "こんがり屋"
+      "name": "こんがり屋",
+      "storeid": "akita-43dde9",
+      "shopid": "akita-43dde9-aupay"
     },
     {
-      "name": "ギンホル"
+      "name": "ギンホル",
+      "storeid": "akita-aa4130",
+      "shopid": "akita-aa4130-aupay"
     },
     {
-      "name": "キャンパスアルファ"
+      "name": "キャンパスアルファ",
+      "storeid": "akita-70dbaf",
+      "shopid": "akita-70dbaf-aupay"
     },
     {
-      "name": "きゃろんマイルド"
+      "name": "きゃろんマイルド",
+      "storeid": "akita-6ec986",
+      "shopid": "akita-6ec986-aupay"
     },
     {
-      "name": "カラオケBanBan 秋田大町店"
+      "name": "カラオケBanBan 秋田大町店",
+      "storeid": "akita-de34fc",
+      "shopid": "akita-de34fc-aupay"
     },
     {
-      "name": "カフェ&ランチボルデリ"
+      "name": "カフェ&ランチボルデリ",
+      "storeid": "akita-7d489c",
+      "shopid": "akita-7d489c-aupay"
     },
     {
-      "name": "カクテル&ウィスキーレディ"
+      "name": "カクテル&ウィスキーレディ",
+      "storeid": "akita-3f65a6",
+      "shopid": "akita-3f65a6-aupay"
     },
     {
-      "name": "かおる堂 大町店"
+      "name": "かおる堂 大町店",
+      "storeid": "akita-5d3b8c",
+      "shopid": "akita-5d3b8c-aupay"
     },
     {
-      "name": "お多福"
+      "name": "お多福",
+      "storeid": "akita-80c095",
+      "shopid": "akita-80c095-aupay"
     },
     {
-      "name": "オイスターダイニング せるふぃっしゅ"
+      "name": "オイスターダイニング せるふぃっしゅ",
+      "storeid": "akita-b03de0",
+      "shopid": "akita-b03de0-aupay"
     },
     {
-      "name": "いろり家"
+      "name": "いろり家",
+      "storeid": "akita-92ab84",
+      "shopid": "akita-92ab84-aupay"
     },
     {
-      "name": "イタリア厨房 ナガア"
+      "name": "イタリア厨房 ナガア",
+      "storeid": "akita-efaa83",
+      "shopid": "akita-efaa83-aupay"
     },
     {
-      "name": "いいもんや酉二九 大町店"
+      "name": "いいもんや酉二九 大町店",
+      "storeid": "akita-fe78ca",
+      "shopid": "akita-fe78ca-aupay"
     },
     {
-      "name": "アルファー"
+      "name": "アルファー",
+      "storeid": "akita-fb06dc",
+      "shopid": "akita-fb06dc-aupay"
     },
     {
-      "name": "あっぱれ寿司 大町本店"
+      "name": "あっぱれ寿司 大町本店",
+      "storeid": "akita-dd4ced",
+      "shopid": "akita-dd4ced-aupay"
     },
     {
-      "name": "TWOーB LOOZ"
+      "name": "TWOーB LOOZ",
+      "storeid": "akita-907848",
+      "shopid": "akita-907848-aupay"
     },
     {
-      "name": "TheBar1996"
+      "name": "TheBar1996",
+      "storeid": "akita-523422",
+      "shopid": "akita-523422-aupay"
     },
     {
-      "name": "TEPPANーYAKI ほら穴"
+      "name": "TEPPANーYAKI ほら穴",
+      "storeid": "akita-dd0c14",
+      "shopid": "akita-dd0c14-aupay"
     },
     {
-      "name": "Standing Wine Bar ARIADNE"
+      "name": "Standing Wine Bar ARIADNE",
+      "storeid": "akita-60fcb9",
+      "shopid": "akita-60fcb9-aupay"
     },
     {
-      "name": "STAND UP"
+      "name": "STAND UP",
+      "storeid": "akita-2fd857",
+      "shopid": "akita-2fd857-aupay"
     },
     {
-      "name": "Sousーsus"
+      "name": "Sousーsus",
+      "storeid": "akita-d0ae17",
+      "shopid": "akita-d0ae17-aupay"
     },
     {
-      "name": "Sideback"
+      "name": "Sideback",
+      "storeid": "akita-080a10",
+      "shopid": "akita-080a10-aupay"
     },
     {
-      "name": "Shan"
+      "name": "Shan",
+      "storeid": "akita-8f4d09",
+      "shopid": "akita-8f4d09-aupay"
     },
     {
-      "name": "RUGBY BAR TRY"
+      "name": "RUGBY BAR TRY",
+      "storeid": "akita-d8c63f",
+      "shopid": "akita-d8c63f-aupay"
     },
     {
-      "name": "Rose"
+      "name": "Rose",
+      "storeid": "akita-0df4dc",
+      "shopid": "akita-0df4dc-aupay"
     },
     {
-      "name": "RORO"
+      "name": "RORO",
+      "storeid": "akita-2a787e",
+      "shopid": "akita-2a787e-aupay"
     },
     {
-      "name": "RECETTE"
+      "name": "RECETTE",
+      "storeid": "akita-b186f6",
+      "shopid": "akita-b186f6-aupay"
     },
     {
-      "name": "Radio's Bar"
+      "name": "Radio's Bar",
+      "storeid": "akita-a1b633",
+      "shopid": "akita-a1b633-aupay"
     },
     {
-      "name": "Pゲームバー 海月"
+      "name": "Pゲームバー 海月",
+      "storeid": "akita-a4d57d",
+      "shopid": "akita-a4d57d-aupay"
     },
     {
-      "name": "POCO"
+      "name": "POCO",
+      "storeid": "akita-f42e0e",
+      "shopid": "akita-f42e0e-aupay"
     },
     {
-      "name": "No."
+      "name": "No.",
+      "storeid": "akita-fbd39f",
+      "shopid": "akita-fbd39f-aupay"
     },
     {
-      "name": "MusicBarCrawl"
+      "name": "MusicBarCrawl",
+      "storeid": "akita-0cecc8",
+      "shopid": "akita-0cecc8-aupay"
     },
     {
-      "name": "MixBarBigTree"
+      "name": "MixBarBigTree",
+      "storeid": "akita-78f639",
+      "shopid": "akita-78f639-aupay"
     },
     {
-      "name": "meat kitchen"
+      "name": "meat kitchen",
+      "storeid": "akita-61c945",
+      "shopid": "akita-61c945-aupay"
     },
     {
-      "name": "Lounge希"
+      "name": "Lounge希",
+      "storeid": "akita-3ae80c",
+      "shopid": "akita-3ae80c-aupay"
     },
     {
-      "name": "LOTUS"
+      "name": "LOTUS",
+      "storeid": "akita-93e42a",
+      "shopid": "akita-93e42a-aupay"
     },
     {
-      "name": "K食キジトラ"
+      "name": "K食キジトラ",
+      "storeid": "akita-b6cd91",
+      "shopid": "akita-b6cd91-aupay"
     },
     {
-      "name": "Kana"
+      "name": "Kana",
+      "storeid": "akita-3713cb",
+      "shopid": "akita-3713cb-aupay"
     },
     {
-      "name": "Jazz&Live THE CATWALK"
+      "name": "Jazz&Live THE CATWALK",
+      "storeid": "akita-17b0aa",
+      "shopid": "akita-17b0aa-aupay"
     },
     {
-      "name": "IKOI"
+      "name": "IKOI",
+      "storeid": "akita-1794bf",
+      "shopid": "akita-1794bf-aupay"
     },
     {
-      "name": "Happy Time"
+      "name": "Happy Time",
+      "storeid": "akita-65e287",
+      "shopid": "akita-65e287-aupay"
     },
     {
-      "name": "HAGURE"
+      "name": "HAGURE",
+      "storeid": "akita-8bc73c",
+      "shopid": "akita-8bc73c-aupay"
     },
     {
-      "name": "girlsbarCoco"
+      "name": "girlsbarCoco",
+      "storeid": "akita-8fc27d",
+      "shopid": "akita-8fc27d-aupay"
     },
     {
-      "name": "Girl's bar 華蓮"
+      "name": "Girl's bar 華蓮",
+      "storeid": "akita-b679d8",
+      "shopid": "akita-b679d8-aupay"
     },
     {
-      "name": "Dining 想"
+      "name": "Dining 想",
+      "storeid": "akita-5d3630",
+      "shopid": "akita-5d3630-aupay"
     },
     {
-      "name": "Club Lycoris"
+      "name": "Club Lycoris",
+      "storeid": "akita-33182c",
+      "shopid": "akita-33182c-aupay"
     },
     {
-      "name": "Clair"
+      "name": "Clair",
+      "storeid": "akita-c7e206",
+      "shopid": "akita-c7e206-aupay"
     },
     {
-      "name": "ChanzBar"
+      "name": "ChanzBar",
+      "storeid": "akita-282bd4",
+      "shopid": "akita-282bd4-aupay"
     },
     {
-      "name": "Cafe Epice"
+      "name": "Cafe Epice",
+      "storeid": "akita-1cc8bb",
+      "shopid": "akita-1cc8bb-aupay"
     },
     {
-      "name": "BR&CO"
+      "name": "BR&CO",
+      "storeid": "akita-026f75",
+      "shopid": "akita-026f75-aupay"
     },
     {
-      "name": "BOOM BOOM"
+      "name": "BOOM BOOM",
+      "storeid": "akita-871d1a",
+      "shopid": "akita-871d1a-aupay"
     },
     {
-      "name": "Believe秋田店"
+      "name": "Believe秋田店",
+      "storeid": "akita-94ff26",
+      "shopid": "akita-94ff26-aupay"
     },
     {
-      "name": "Bar・monsoon"
+      "name": "Bar・monsoon",
+      "storeid": "akita-db1b68",
+      "shopid": "akita-db1b68-aupay"
     },
     {
-      "name": "bar.commit"
+      "name": "bar.commit",
+      "storeid": "akita-f38bd4",
+      "shopid": "akita-f38bd4-aupay"
     },
     {
-      "name": "BAR ル・ヴェール"
+      "name": "BAR ル・ヴェール",
+      "storeid": "akita-14229e",
+      "shopid": "akita-14229e-aupay"
     },
     {
-      "name": "BAR アラジン"
+      "name": "BAR アラジン",
+      "storeid": "akita-e90760",
+      "shopid": "akita-e90760-aupay"
     },
     {
-      "name": "BAR IZAYOI"
+      "name": "BAR IZAYOI",
+      "storeid": "akita-6973ae",
+      "shopid": "akita-6973ae-aupay"
     },
     {
-      "name": "BAIRO CAFE"
+      "name": "BAIRO CAFE",
+      "storeid": "akita-402c78",
+      "shopid": "akita-402c78-aupay"
     },
     {
-      "name": "AQUA"
+      "name": "AQUA",
+      "storeid": "akita-136690",
+      "shopid": "akita-136690-aupay"
     },
     {
-      "name": "ANDY'S"
+      "name": "ANDY'S",
+      "storeid": "akita-5e61a4",
+      "shopid": "akita-5e61a4-aupay"
     },
     {
-      "name": "Amour"
+      "name": "Amour",
+      "storeid": "akita-39fa46",
+      "shopid": "akita-39fa46-aupay"
     },
     {
-      "name": "1997ジャニス"
+      "name": "1997ジャニス",
+      "storeid": "akita-c7dc52",
+      "shopid": "akita-c7dc52-aupay"
     },
     {
-      "name": "108 ONE EIGHT"
+      "name": "108 ONE EIGHT",
+      "storeid": "akita-2ec5f2",
+      "shopid": "akita-2ec5f2-aupay"
     },
     {
-      "name": "和dining光琳"
+      "name": "和dining光琳",
+      "storeid": "akita-c22dea",
+      "shopid": "akita-c22dea-aupay"
     },
     {
-      "name": "味治"
+      "name": "味治",
+      "storeid": "akita-4835ff",
+      "shopid": "akita-4835ff-aupay"
     },
     {
-      "name": "福ノ助"
+      "name": "福ノ助",
+      "storeid": "akita-d4e421",
+      "shopid": "akita-d4e421-aupay"
     },
     {
-      "name": "日本酒とワインとお番菜 翔"
+      "name": "日本酒とワインとお番菜 翔",
+      "storeid": "akita-9db14b",
+      "shopid": "akita-9db14b-aupay"
     },
     {
-      "name": "肉バル NORICHANG"
+      "name": "肉バル NORICHANG",
+      "storeid": "akita-ad9709",
+      "shopid": "akita-ad9709-aupay"
     },
     {
-      "name": "天駒"
+      "name": "天駒",
+      "storeid": "akita-549a82",
+      "shopid": "akita-549a82-aupay"
     },
     {
-      "name": "小料理いしだ"
+      "name": "小料理いしだ",
+      "storeid": "akita-a080cb",
+      "shopid": "akita-a080cb-aupay"
     },
     {
-      "name": "秋田屋台村なかや"
+      "name": "秋田屋台村なかや",
+      "storeid": "akita-9209be",
+      "shopid": "akita-9209be-aupay"
     },
     {
-      "name": "秋月"
+      "name": "秋月",
+      "storeid": "akita-8f0406",
+      "shopid": "akita-8f0406-aupay"
     },
     {
-      "name": "酒季亭 比内や"
+      "name": "酒季亭 比内や",
+      "storeid": "akita-d9e540",
+      "shopid": "akita-d9e540-aupay"
     },
     {
-      "name": "子子"
+      "name": "子子",
+      "storeid": "akita-94715e",
+      "shopid": "akita-94715e-aupay"
     },
     {
-      "name": "京都互福庵 御影"
+      "name": "京都互福庵 御影",
+      "storeid": "akita-fb20a2",
+      "shopid": "akita-fb20a2-aupay"
     },
     {
-      "name": "ろらん"
+      "name": "ろらん",
+      "storeid": "akita-1b85c4",
+      "shopid": "akita-1b85c4-aupay"
     },
     {
-      "name": "るぱん"
+      "name": "るぱん",
+      "storeid": "akita-a81dae",
+      "shopid": "akita-a81dae-aupay"
     },
     {
-      "name": "る・ぱん"
+      "name": "る・ぱん",
+      "storeid": "akita-0813d7",
+      "shopid": "akita-0813d7-aupay"
     },
     {
-      "name": "ラウンジimoco"
+      "name": "ラウンジimoco",
+      "storeid": "akita-2e5611",
+      "shopid": "akita-2e5611-aupay"
     },
     {
-      "name": "ミュージックバーポルト"
+      "name": "ミュージックバーポルト",
+      "storeid": "akita-25be6c",
+      "shopid": "akita-25be6c-aupay"
     },
     {
-      "name": "まる   反"
+      "name": "まる   反",
+      "storeid": "akita-95ca38",
+      "shopid": "akita-95ca38-aupay"
     },
     {
-      "name": "まめでらかじの"
+      "name": "まめでらかじの",
+      "storeid": "akita-f8b085",
+      "shopid": "akita-f8b085-aupay"
     },
     {
-      "name": "ポアロ"
+      "name": "ポアロ",
+      "storeid": "akita-5ce279",
+      "shopid": "akita-5ce279-aupay"
     },
     {
-      "name": "ベリーローズ"
+      "name": "ベリーローズ",
+      "storeid": "akita-a0e473",
+      "shopid": "akita-a0e473-aupay"
     },
     {
-      "name": "バー 清乃介"
+      "name": "バー 清乃介",
+      "storeid": "akita-261b0b",
+      "shopid": "akita-261b0b-aupay"
     },
     {
-      "name": "のの2"
+      "name": "のの2",
+      "storeid": "akita-eb550e",
+      "shopid": "akita-eb550e-aupay"
     },
     {
-      "name": "ダルセーニョ"
+      "name": "ダルセーニョ",
+      "storeid": "akita-0cbd60",
+      "shopid": "akita-0cbd60-aupay"
     },
     {
-      "name": "スリーナイン"
+      "name": "スリーナイン",
+      "storeid": "akita-3ee57c",
+      "shopid": "akita-3ee57c-aupay"
     },
     {
-      "name": "スナック竹葉"
+      "name": "スナック竹葉",
+      "storeid": "akita-23e1a6",
+      "shopid": "akita-23e1a6-aupay"
     },
     {
-      "name": "スナック エル"
+      "name": "スナック エル",
+      "storeid": "akita-d6d0ab",
+      "shopid": "akita-d6d0ab-aupay"
     },
     {
-      "name": "スナック Stone"
+      "name": "スナック Stone",
+      "storeid": "akita-b73d21",
+      "shopid": "akita-b73d21-aupay"
     },
     {
-      "name": "くしやもつや"
+      "name": "くしやもつや",
+      "storeid": "akita-a57781",
+      "shopid": "akita-a57781-aupay"
     },
     {
-      "name": "ガネーシャ"
+      "name": "ガネーシャ",
+      "storeid": "akita-1ec305",
+      "shopid": "akita-1ec305-aupay"
     },
     {
-      "name": "オルゴール"
+      "name": "オルゴール",
+      "storeid": "akita-0b1721",
+      "shopid": "akita-0b1721-aupay"
     },
     {
-      "name": "いいもんや酉二九"
+      "name": "いいもんや酉二九",
+      "storeid": "akita-b5c3fb",
+      "shopid": "akita-b5c3fb-aupay"
     },
     {
-      "name": "Usagi"
+      "name": "Usagi",
+      "storeid": "akita-47dc79",
+      "shopid": "akita-47dc79-aupay"
     },
     {
-      "name": "Shiva"
+      "name": "Shiva",
+      "storeid": "akita-3fbff0",
+      "shopid": "akita-3fbff0-aupay"
     },
     {
-      "name": "Rapis"
+      "name": "Rapis",
+      "storeid": "akita-2283ea",
+      "shopid": "akita-2283ea-aupay"
     },
     {
-      "name": "night rainbow"
+      "name": "night rainbow",
+      "storeid": "akita-b5f13e",
+      "shopid": "akita-b5f13e-aupay"
     },
     {
-      "name": "mix bar Eden"
+      "name": "mix bar Eden",
+      "storeid": "akita-5bdc73",
+      "shopid": "akita-5bdc73-aupay"
     },
     {
-      "name": "Michelle Next Sta"
+      "name": "Michelle Next Sta",
+      "storeid": "akita-8f9c69",
+      "shopid": "akita-8f9c69-aupay"
     },
     {
-      "name": "loungebarひなみ"
+      "name": "loungebarひなみ",
+      "storeid": "akita-5fd1c6",
+      "shopid": "akita-5fd1c6-aupay"
     },
     {
-      "name": "Lounge 姫"
+      "name": "Lounge 姫",
+      "storeid": "akita-9a2dcb",
+      "shopid": "akita-9a2dcb-aupay"
     },
     {
-      "name": "KiKi"
+      "name": "KiKi",
+      "storeid": "akita-0ba937",
+      "shopid": "akita-0ba937-aupay"
     },
     {
-      "name": "Kaori"
+      "name": "Kaori",
+      "storeid": "akita-c63c7e",
+      "shopid": "akita-c63c7e-aupay"
     },
     {
-      "name": "Jiji"
+      "name": "Jiji",
+      "storeid": "akita-ec68c2",
+      "shopid": "akita-ec68c2-aupay"
     },
     {
-      "name": "familia"
+      "name": "familia",
+      "storeid": "akita-2a9480",
+      "shopid": "akita-2a9480-aupay"
     },
     {
-      "name": "Dios"
+      "name": "Dios",
+      "storeid": "akita-8a91ce",
+      "shopid": "akita-8a91ce-aupay"
     },
     {
-      "name": "D"
+      "name": "D",
+      "storeid": "akita-f623e7",
+      "shopid": "akita-f623e7-aupay"
     },
     {
-      "name": "coloriche"
+      "name": "coloriche",
+      "storeid": "akita-3fcd4e",
+      "shopid": "akita-3fcd4e-aupay"
     },
     {
-      "name": "CLUB S"
+      "name": "CLUB S",
+      "storeid": "akita-69ee59",
+      "shopid": "akita-69ee59-aupay"
     },
     {
-      "name": "Club Question"
+      "name": "Club Question",
+      "storeid": "akita-247ded",
+      "shopid": "akita-247ded-aupay"
     },
     {
-      "name": "CLUB LIPS"
+      "name": "CLUB LIPS",
+      "storeid": "akita-7cdeda",
+      "shopid": "akita-7cdeda-aupay"
     },
     {
-      "name": "CLUB GRANDE"
+      "name": "CLUB GRANDE",
+      "storeid": "akita-4ba8d4",
+      "shopid": "akita-4ba8d4-aupay"
     },
     {
-      "name": "CLUB Dea"
+      "name": "CLUB Dea",
+      "storeid": "akita-d55063",
+      "shopid": "akita-d55063-aupay"
     },
     {
-      "name": "BOSS"
+      "name": "BOSS",
+      "storeid": "akita-f0523b",
+      "shopid": "akita-f0523b-aupay"
     },
     {
-      "name": "BAR EUUVA"
+      "name": "BAR EUUVA",
+      "storeid": "akita-fc3e9c",
+      "shopid": "akita-fc3e9c-aupay"
     },
     {
-      "name": "ARSHA"
+      "name": "ARSHA",
+      "storeid": "akita-991639",
+      "shopid": "akita-991639-aupay"
     },
     {
-      "name": "Amusementbar BroS"
+      "name": "Amusementbar BroS",
+      "storeid": "akita-3ab19b",
+      "shopid": "akita-3ab19b-aupay"
     },
     {
-      "name": "3Rose"
+      "name": "3Rose",
+      "storeid": "akita-ab73b3",
+      "shopid": "akita-ab73b3-aupay"
     }
   ],
   "大住": [
     {
-      "name": "奥寿し"
+      "name": "奥寿し",
+      "storeid": "akita-7da931",
+      "shopid": "akita-7da931-aupay"
     }
   ],
   "泉北": [
     {
-      "name": "弾岩ラーメン"
+      "name": "弾岩ラーメン",
+      "storeid": "akita-ca2963",
+      "shopid": "akita-ca2963-aupay"
     },
     {
-      "name": "小さな焼き菓子屋 Petit Bonheur"
+      "name": "小さな焼き菓子屋 Petit Bonheur",
+      "storeid": "akita-d391e9",
+      "shopid": "akita-d391e9-aupay"
     },
     {
-      "name": "牛角 泉北秋田店"
+      "name": "牛角 泉北秋田店",
+      "storeid": "akita-61e7fc",
+      "shopid": "akita-61e7fc-aupay"
     },
     {
-      "name": "カラオケ アクア 新国道店"
+      "name": "カラオケ アクア 新国道店",
+      "storeid": "akita-d34ac7",
+      "shopid": "akita-d34ac7-aupay"
     },
     {
-      "name": "アラジン珈琲"
+      "name": "アラジン珈琲",
+      "storeid": "akita-e27a50",
+      "shopid": "akita-e27a50-aupay"
     }
   ],
   "泉南": [
     {
-      "name": "寧々家 秋田泉店"
+      "name": "寧々家 秋田泉店",
+      "storeid": "akita-d44494",
+      "shopid": "akita-d44494-aupay"
     },
     {
-      "name": "スイーツマーケット 秋田店"
+      "name": "スイーツマーケット 秋田店",
+      "storeid": "akita-ab6d22",
+      "shopid": "akita-ab6d22-aupay"
     },
     {
-      "name": "Aloha Kitchen Makalea"
+      "name": "Aloha Kitchen Makalea",
+      "storeid": "akita-f3c017",
+      "shopid": "akita-f3c017-aupay"
     }
   ],
   "泉登木": [
     {
-      "name": "ケンタッキーフライドチキン 秋田新国道店"
+      "name": "ケンタッキーフライドチキン 秋田新国道店",
+      "storeid": "akita-96e12f",
+      "shopid": "akita-96e12f-aupay"
     },
     {
-      "name": "あっぱれ いなせ家"
+      "name": "あっぱれ いなせ家",
+      "storeid": "akita-6ef869",
+      "shopid": "akita-6ef869-aupay"
     }
   ],
   "泉中央": [
     {
-      "name": "酒庵 田なか"
+      "name": "酒庵 田なか",
+      "storeid": "akita-1d5455",
+      "shopid": "akita-1d5455-aupay"
     },
     {
-      "name": "すき家 秋田泉店"
+      "name": "すき家 秋田泉店",
+      "storeid": "akita-694475",
+      "shopid": "akita-694475-aupay"
     },
     {
-      "name": "すうる どぅ しゃ"
+      "name": "すうる どぅ しゃ",
+      "storeid": "akita-d7ee30",
+      "shopid": "akita-d7ee30-aupay"
     },
     {
-      "name": "グランシェフ"
+      "name": "グランシェフ",
+      "storeid": "akita-1c13ca",
+      "shopid": "akita-1c13ca-aupay"
     },
     {
-      "name": "HerbalCafe PRANA"
+      "name": "HerbalCafe PRANA",
+      "storeid": "akita-b9b07e",
+      "shopid": "akita-b9b07e-aupay"
     }
   ],
   "泉菅野": [
     {
-      "name": "BOXCOFFEE泉店"
+      "name": "BOXCOFFEE泉店",
+      "storeid": "akita-bfb233",
+      "shopid": "akita-bfb233-aupay"
     }
   ],
   "泉三嶽根": [
     {
-      "name": "ロングポテト"
+      "name": "ロングポテト",
+      "storeid": "akita-26a0a5",
+      "shopid": "akita-26a0a5-aupay"
     }
   ],
   "千秋矢留町": [
     {
-      "name": "寿し 大和"
+      "name": "寿し 大和",
+      "storeid": "akita-252034",
+      "shopid": "akita-252034-aupay"
     }
   ],
   "千秋明徳町": [
     {
-      "name": "ハンバーグ&ステーキの店ポッポ"
+      "name": "ハンバーグ&ステーキの店ポッポ",
+      "storeid": "akita-da5507",
+      "shopid": "akita-da5507-aupay"
     },
     {
-      "name": "シアターカフェシーズ"
+      "name": "シアターカフェシーズ",
+      "storeid": "akita-b20e02",
+      "shopid": "akita-b20e02-aupay"
     },
     {
-      "name": "2ー77"
+      "name": "2ー77",
+      "storeid": "akita-cc50f8",
+      "shopid": "akita-cc50f8-aupay"
     },
     {
-      "name": "BeMellow cafe&roastery"
+      "name": "BeMellow cafe&roastery",
+      "storeid": "akita-deff13",
+      "shopid": "akita-deff13-aupay"
     }
   ],
   "千秋公園": [
     {
-      "name": "フレンチレストラン 千秋亭"
+      "name": "フレンチレストラン 千秋亭",
+      "storeid": "akita-7a3a01",
+      "shopid": "akita-7a3a01-aupay"
     }
   ],
   "千秋久保田町": [
     {
-      "name": "弥助そば 秋田総本店"
+      "name": "弥助そば 秋田総本店",
+      "storeid": "akita-475ffb",
+      "shopid": "akita-475ffb-aupay"
     },
     {
-      "name": "薄利多賣半兵ヱ 秋田駅前店"
+      "name": "薄利多賣半兵ヱ 秋田駅前店",
+      "storeid": "akita-6913e6",
+      "shopid": "akita-6913e6-aupay"
     },
     {
-      "name": "白木屋 秋田西口駅前店"
+      "name": "白木屋 秋田西口駅前店",
+      "storeid": "akita-67fcba",
+      "shopid": "akita-67fcba-aupay"
     },
     {
-      "name": "秋田番屋酒場"
+      "name": "秋田番屋酒場",
+      "storeid": "akita-be9f71",
+      "shopid": "akita-be9f71-aupay"
     },
     {
-      "name": "串カツ田中 秋田駅前店"
+      "name": "串カツ田中 秋田駅前店",
+      "storeid": "akita-507c69",
+      "shopid": "akita-507c69-aupay"
     },
     {
-      "name": "横濱魚萬 秋田西口駅前店"
+      "name": "横濱魚萬 秋田西口駅前店",
+      "storeid": "akita-80c6f6",
+      "shopid": "akita-80c6f6-aupay"
     },
     {
-      "name": "茜屋秋田駅前店"
+      "name": "茜屋秋田駅前店",
+      "storeid": "akita-337655",
+      "shopid": "akita-337655-aupay"
     },
     {
-      "name": "とっぴんぱらりのぷ"
+      "name": "とっぴんぱらりのぷ",
+      "storeid": "akita-59ca2d",
+      "shopid": "akita-59ca2d-aupay"
     },
     {
-      "name": "いろはにほへと 秋田駅前店"
+      "name": "いろはにほへと 秋田駅前店",
+      "storeid": "akita-6b1a81",
+      "shopid": "akita-6b1a81-aupay"
     },
     {
-      "name": "PRONTO 秋田オーパ店"
+      "name": "PRONTO 秋田オーパ店",
+      "storeid": "akita-a02dea",
+      "shopid": "akita-a02dea-aupay"
     },
     {
-      "name": "3・6・5酒場 秋田駅前店"
+      "name": "3・6・5酒場 秋田駅前店",
+      "storeid": "akita-c8ea43",
+      "shopid": "akita-c8ea43-aupay"
     }
   ],
   "仁別粟畑台": [
     {
-      "name": "ファーマーズキッチン 旬"
+      "name": "ファーマーズキッチン 旬",
+      "storeid": "akita-3cb0d0",
+      "shopid": "akita-3cb0d0-aupay"
     }
   ],
   "仁井田本町": [
     {
-      "name": "不二家 マルダイおのば店"
+      "name": "不二家 マルダイおのば店",
+      "storeid": "akita-c2923d",
+      "shopid": "akita-c2923d-aupay"
     },
     {
-      "name": "十六房"
+      "name": "十六房",
+      "storeid": "akita-c17a6b",
+      "shopid": "akita-c17a6b-aupay"
     },
     {
-      "name": "トレザイールベース"
+      "name": "トレザイールベース",
+      "storeid": "akita-8e1a4f",
+      "shopid": "akita-8e1a4f-aupay"
     },
     {
-      "name": "タリーズコーヒー ナイスガーデン秋田"
+      "name": "タリーズコーヒー ナイスガーデン秋田",
+      "storeid": "akita-e7ba63",
+      "shopid": "akita-e7ba63-aupay"
     },
     {
-      "name": "しゃぶしゃぶ温野菜 秋田仁井田店"
+      "name": "しゃぶしゃぶ温野菜 秋田仁井田店",
+      "storeid": "akita-fce520",
+      "shopid": "akita-fce520-aupay"
     },
     {
-      "name": "シャトレーゼ 仁井田店"
+      "name": "シャトレーゼ 仁井田店",
+      "storeid": "akita-2b2c93",
+      "shopid": "akita-2b2c93-aupay"
     },
     {
-      "name": "カラオケ アクア 仁井田店"
+      "name": "カラオケ アクア 仁井田店",
+      "storeid": "akita-af5eb7",
+      "shopid": "akita-af5eb7-aupay"
     }
   ],
   "仁井田蕗見町": [
     {
-      "name": "山岡家 秋田仁井田店"
+      "name": "山岡家 秋田仁井田店",
+      "storeid": "akita-4bb8fc",
+      "shopid": "akita-4bb8fc-aupay"
     },
     {
-      "name": "札幌海鮮丸 仁井田店"
+      "name": "札幌海鮮丸 仁井田店",
+      "storeid": "akita-233af8",
+      "shopid": "akita-233af8-aupay"
     }
   ],
   "仁井田二ツ屋": [
     {
-      "name": "煙〜KEMURI〜"
+      "name": "煙〜KEMURI〜",
+      "storeid": "akita-e998df",
+      "shopid": "akita-e998df-aupay"
     }
   ],
   "仁井田新田": [
     {
-      "name": "ホルモン厨房 暖団家"
+      "name": "ホルモン厨房 暖団家",
+      "storeid": "akita-75e199",
+      "shopid": "akita-75e199-aupay"
     },
     {
-      "name": "かぐら堂"
+      "name": "かぐら堂",
+      "storeid": "akita-af484a",
+      "shopid": "akita-af484a-aupay"
     }
   ],
   "仁井田栄町": [
     {
-      "name": "酒肴 烏山"
+      "name": "酒肴 烏山",
+      "storeid": "akita-855edc",
+      "shopid": "akita-855edc-aupay"
     },
     {
-      "name": "幸楽苑 仁井田店"
+      "name": "幸楽苑 仁井田店",
+      "storeid": "akita-4bc147",
+      "shopid": "akita-4bc147-aupay"
     }
   ],
   "新屋表町": [
     {
-      "name": "machiya cafe WAWAWA"
+      "name": "machiya cafe WAWAWA",
+      "storeid": "akita-377bf5",
+      "shopid": "akita-377bf5-aupay"
     }
   ],
   "新屋田尻沢西町": [
     {
-      "name": "由利屋"
+      "name": "由利屋",
+      "storeid": "akita-66d341",
+      "shopid": "akita-66d341-aupay"
     }
   ],
   "新屋町": [
     {
-      "name": "Sugarsalt"
+      "name": "Sugarsalt",
+      "storeid": "akita-9ebefd",
+      "shopid": "akita-9ebefd-aupay"
     }
   ],
   "新屋朝日町": [
     {
-      "name": "博多ラーメン ぞんたく"
+      "name": "博多ラーメン ぞんたく",
+      "storeid": "akita-f677fe",
+      "shopid": "akita-f677fe-aupay"
     }
   ],
   "新屋寿町": [
     {
-      "name": "焼肉コリアン"
+      "name": "焼肉コリアン",
+      "storeid": "akita-6c1f04",
+      "shopid": "akita-6c1f04-aupay"
     }
   ],
   "新屋沖田町": [
     {
-      "name": "あらや食堂"
+      "name": "あらや食堂",
+      "storeid": "akita-2038db",
+      "shopid": "akita-2038db-aupay"
     },
     {
-      "name": "スウィーツガーデンセレステ翔"
+      "name": "スウィーツガーデンセレステ翔",
+      "storeid": "akita-3a229e",
+      "shopid": "akita-3a229e-aupay"
     }
   ],
   "尻大   町": [
     {
-      "name": "ハングリータイガー"
+      "name": "ハングリータイガー",
+      "storeid": "akita-8031b3",
+      "shopid": "akita-8031b3-aupay"
     }
   ],
   "尻若葉町": [
     {
-      "name": "吉野家 13号線秋田   尻若葉町店"
+      "name": "吉野家 13号線秋田   尻若葉町店",
+      "storeid": "akita-cd9600",
+      "shopid": "akita-cd9600-aupay"
     },
     {
-      "name": "とりのや"
+      "name": "とりのや",
+      "storeid": "akita-10a6ca",
+      "shopid": "akita-10a6ca-aupay"
     },
     {
-      "name": "ラーメン錦秋田分店"
+      "name": "ラーメン錦秋田分店",
+      "storeid": "akita-42835b",
+      "shopid": "akita-42835b-aupay"
     }
   ],
   "将軍野南": [
     {
-      "name": "かっぱ寿司 秋田将軍野店"
+      "name": "かっぱ寿司 秋田将軍野店",
+      "storeid": "akita-a8b086",
+      "shopid": "akita-a8b086-aupay"
     },
     {
-      "name": "豆腐百景"
+      "name": "豆腐百景",
+      "storeid": "akita-a781e2",
+      "shopid": "akita-a781e2-aupay"
     }
   ],
   "将軍野青山町": [
     {
-      "name": "コンディトライジン"
+      "name": "コンディトライジン",
+      "storeid": "akita-b7310c",
+      "shopid": "akita-b7310c-aupay"
     }
   ],
   "手形西谷地": [
     {
-      "name": "酉や喜兵衛 秋田駅東口店"
+      "name": "酉や喜兵衛 秋田駅東口店",
+      "storeid": "akita-d4a2fa",
+      "shopid": "akita-d4a2fa-aupay"
     },
     {
-      "name": "赤から 秋田駅東店"
+      "name": "赤から 秋田駅東店",
+      "storeid": "akita-31fd56",
+      "shopid": "akita-31fd56-aupay"
     },
     {
-      "name": "あっぱれ寿司 秋田駅東口店"
+      "name": "あっぱれ寿司 秋田駅東口店",
+      "storeid": "akita-ad7895",
+      "shopid": "akita-ad7895-aupay"
     }
   ],
   "手形山崎町": [
     {
-      "name": "サムギョプサル バリチェゴ"
+      "name": "サムギョプサル バリチェゴ",
+      "storeid": "akita-865801",
+      "shopid": "akita-865801-aupay"
     },
     {
-      "name": "trattoriadaelmo"
+      "name": "trattoriadaelmo",
+      "storeid": "akita-4c87ff",
+      "shopid": "akita-4c87ff-aupay"
     }
   ],
   "寺内油田": [
     {
-      "name": "ならや"
+      "name": "ならや",
+      "storeid": "akita-05a262",
+      "shopid": "akita-05a262-aupay"
     }
   ],
   "寺内蛭根": [
     {
-      "name": "うさみ家寿し"
+      "name": "うさみ家寿し",
+      "storeid": "akita-6d3917",
+      "shopid": "akita-6d3917-aupay"
     }
   ],
   "寺内堂ノ沢": [
     {
-      "name": "鰻の成瀬 秋田店"
+      "name": "鰻の成瀬 秋田店",
+      "storeid": "akita-984c97",
+      "shopid": "akita-984c97-aupay"
     }
   ],
   "寺内神屋敷": [
     {
-      "name": "レストラン アオパル"
+      "name": "レストラン アオパル",
+      "storeid": "akita-d0657f",
+      "shopid": "akita-d0657f-aupay"
     }
   ],
   "寺内三千刈": [
     {
-      "name": "カラオケ合衆国 秋田店"
+      "name": "カラオケ合衆国 秋田店",
+      "storeid": "akita-61bbfe",
+      "shopid": "akita-61bbfe-aupay"
     },
     {
-      "name": "お菓子なcoto"
+      "name": "お菓子なcoto",
+      "storeid": "akita-c511f5",
+      "shopid": "akita-c511f5-aupay"
     }
   ],
   "寺内高野": [
     {
-      "name": "山岡家 秋田寺内店"
+      "name": "山岡家 秋田寺内店",
+      "storeid": "akita-d01e5b",
+      "shopid": "akita-d01e5b-aupay"
     },
     {
-      "name": "スタジオ ペコリーナ"
+      "name": "スタジオ ペコリーナ",
+      "storeid": "akita-0e82a9",
+      "shopid": "akita-0e82a9-aupay"
     }
   ],
   "寺内イサノ": [
     {
-      "name": "日乃屋カレー 秋田新国道店"
+      "name": "日乃屋カレー 秋田新国道店",
+      "storeid": "akita-e8b29e",
+      "shopid": "akita-e8b29e-aupay"
     },
     {
-      "name": "幸楽苑 秋田寺内店"
+      "name": "幸楽苑 秋田寺内店",
+      "storeid": "akita-c421c0",
+      "shopid": "akita-c421c0-aupay"
     }
   ],
   "山手台": [
     {
-      "name": "とんかつ藤よし 秋田山手台店"
+      "name": "とんかつ藤よし 秋田山手台店",
+      "storeid": "akita-bbc293",
+      "shopid": "akita-bbc293-aupay"
     }
   ],
   "山王中園町": [
     {
-      "name": "中華ドラゴン食堂"
+      "name": "中華ドラゴン食堂",
+      "storeid": "akita-5b919c",
+      "shopid": "akita-5b919c-aupay"
     },
     {
-      "name": "とんかつ藤よし 山王店"
+      "name": "とんかつ藤よし 山王店",
+      "storeid": "akita-5d3b60",
+      "shopid": "akita-5d3b60-aupay"
     }
   ],
   "山王沼田町": [
     {
-      "name": "生はちみつ食パン専門店 ROSEMAY 秋田本店"
+      "name": "生はちみつ食パン専門店 ROSEMAY 秋田本店",
+      "storeid": "akita-4d55cd",
+      "shopid": "akita-4d55cd-aupay"
     }
   ],
   "山王": [
     {
-      "name": "鮨 小じま"
+      "name": "鮨 小じま",
+      "storeid": "akita-26653a",
+      "shopid": "akita-26653a-aupay"
     },
     {
-      "name": "和食 てつ也"
+      "name": "和食 てつ也",
+      "storeid": "akita-ebb876",
+      "shopid": "akita-ebb876-aupay"
     },
     {
-      "name": "鳥若圓山王店"
+      "name": "鳥若圓山王店",
+      "storeid": "akita-936ec0",
+      "shopid": "akita-936ec0-aupay"
     },
     {
-      "name": "食堂ももふく"
+      "name": "食堂ももふく",
+      "storeid": "akita-7b5d85",
+      "shopid": "akita-7b5d85-aupay"
     },
     {
-      "name": "焼きとん大国 秋田山王店"
+      "name": "焼きとん大国 秋田山王店",
+      "storeid": "akita-5e6d6e",
+      "shopid": "akita-5e6d6e-aupay"
     },
     {
-      "name": "小料理 茂八"
+      "name": "小料理 茂八",
+      "storeid": "akita-68693a",
+      "shopid": "akita-68693a-aupay"
     },
     {
-      "name": "旬季 ぷくぷく"
+      "name": "旬季 ぷくぷく",
+      "storeid": "akita-7503d5",
+      "shopid": "akita-7503d5-aupay"
     },
     {
-      "name": "秋田牛玄亭 山王別館"
+      "name": "秋田牛玄亭 山王別館",
+      "storeid": "akita-d17057",
+      "shopid": "akita-d17057-aupay"
     },
     {
-      "name": "酒場戸隠"
+      "name": "酒場戸隠",
+      "storeid": "akita-cc3087",
+      "shopid": "akita-cc3087-aupay"
     },
     {
-      "name": "酒肴楽飲 くろだるま"
+      "name": "酒肴楽飲 くろだるま",
+      "storeid": "akita-b75de6",
+      "shopid": "akita-b75de6-aupay"
     },
     {
-      "name": "喰らい亭"
+      "name": "喰らい亭",
+      "storeid": "akita-62f8ee",
+      "shopid": "akita-62f8ee-aupay"
     },
     {
-      "name": "郷土料理 芝良久"
+      "name": "郷土料理 芝良久",
+      "storeid": "akita-d7fdfb",
+      "shopid": "akita-d7fdfb-aupay"
     },
     {
-      "name": "居酒屋 なごや"
+      "name": "居酒屋 なごや",
+      "storeid": "akita-22114b",
+      "shopid": "akita-22114b-aupay"
     },
     {
-      "name": "丸源食堂"
+      "name": "丸源食堂",
+      "storeid": "akita-051552",
+      "shopid": "akita-051552-aupay"
     },
     {
-      "name": "海味"
+      "name": "海味",
+      "storeid": "akita-fc48aa",
+      "shopid": "akita-fc48aa-aupay"
     },
     {
-      "name": "海鮮食堂さあべ"
+      "name": "海鮮食堂さあべ",
+      "storeid": "akita-86c37e",
+      "shopid": "akita-86c37e-aupay"
     },
     {
-      "name": "磯料理夢幻海"
+      "name": "磯料理夢幻海",
+      "storeid": "akita-800edd",
+      "shopid": "akita-800edd-aupay"
     },
     {
-      "name": "リストランテYAMANOE"
+      "name": "リストランテYAMANOE",
+      "storeid": "akita-fe8855",
+      "shopid": "akita-fe8855-aupay"
     },
     {
-      "name": "ラムだっちゃ"
+      "name": "ラムだっちゃ",
+      "storeid": "akita-fe852b",
+      "shopid": "akita-fe852b-aupay"
     },
     {
-      "name": "ラストショー"
+      "name": "ラストショー",
+      "storeid": "akita-8bb491",
+      "shopid": "akita-8bb491-aupay"
     },
     {
-      "name": "メルカートわかば 山王店"
+      "name": "メルカートわかば 山王店",
+      "storeid": "akita-fcd57a",
+      "shopid": "akita-fcd57a-aupay"
     },
     {
-      "name": "ぶんしち食堂"
+      "name": "ぶんしち食堂",
+      "storeid": "akita-48f48e",
+      "shopid": "akita-48f48e-aupay"
     },
     {
-      "name": "ふうき"
+      "name": "ふうき",
+      "storeid": "akita-9d4618",
+      "shopid": "akita-9d4618-aupay"
     },
     {
-      "name": "びすとろ南蛮や"
+      "name": "びすとろ南蛮や",
+      "storeid": "akita-624da4",
+      "shopid": "akita-624da4-aupay"
     },
     {
-      "name": "ハラールレストランDERA本店"
+      "name": "ハラールレストランDERA本店",
+      "storeid": "akita-6f3e0a",
+      "shopid": "akita-6f3e0a-aupay"
     },
     {
-      "name": "パブレストラン サガン"
+      "name": "パブレストラン サガン",
+      "storeid": "akita-287050",
+      "shopid": "akita-287050-aupay"
     },
     {
-      "name": "デリカトガクシ"
+      "name": "デリカトガクシ",
+      "storeid": "akita-5ce8ae",
+      "shopid": "akita-5ce8ae-aupay"
     },
     {
-      "name": "ティーランカ"
+      "name": "ティーランカ",
+      "storeid": "akita-b01e86",
+      "shopid": "akita-b01e86-aupay"
     },
     {
-      "name": "そば処 いちゑ"
+      "name": "そば処 いちゑ",
+      "storeid": "akita-5b16eb",
+      "shopid": "akita-5b16eb-aupay"
     },
     {
-      "name": "スナック ムスタング"
+      "name": "スナック ムスタング",
+      "storeid": "akita-23b202",
+      "shopid": "akita-23b202-aupay"
     },
     {
-      "name": "ステーキ宮 秋田山王店"
+      "name": "ステーキ宮 秋田山王店",
+      "storeid": "akita-61f0d4",
+      "shopid": "akita-61f0d4-aupay"
     },
     {
-      "name": "しゃぶしゃぶ あざみ亭"
+      "name": "しゃぶしゃぶ あざみ亭",
+      "storeid": "akita-4ed7de",
+      "shopid": "akita-4ed7de-aupay"
     },
     {
-      "name": "コンカドール"
+      "name": "コンカドール",
+      "storeid": "akita-a050c8",
+      "shopid": "akita-a050c8-aupay"
     },
     {
-      "name": "ケンタッキーフライドチキン イオンスタイル秋田山王店"
+      "name": "ケンタッキーフライドチキン イオンスタイル秋田山王店",
+      "storeid": "akita-fc3d4c",
+      "shopid": "akita-fc3d4c-aupay"
     },
     {
-      "name": "くらた 山王店"
+      "name": "くらた 山王店",
+      "storeid": "akita-b3b322",
+      "shopid": "akita-b3b322-aupay"
     },
     {
-      "name": "ガスト 秋田山王店"
+      "name": "ガスト 秋田山王店",
+      "storeid": "akita-35a5ef",
+      "shopid": "akita-35a5ef-aupay"
     },
     {
-      "name": "インドレストラン GAJ RAAJ"
+      "name": "インドレストラン GAJ RAAJ",
+      "storeid": "akita-fb420c",
+      "shopid": "akita-fb420c-aupay"
     },
     {
-      "name": "あきた食菜 館"
+      "name": "あきた食菜 館",
+      "storeid": "akita-bca573",
+      "shopid": "akita-bca573-aupay"
     },
     {
-      "name": "アキタパークホテル   レストランニューパーク"
+      "name": "アキタパークホテル   レストランニューパーク",
+      "storeid": "akita-95b95c",
+      "shopid": "akita-95b95c-aupay"
     },
     {
-      "name": "SUMMIT"
+      "name": "SUMMIT",
+      "storeid": "akita-e8292e",
+      "shopid": "akita-e8292e-aupay"
     },
     {
-      "name": "S.HOLIC BAR"
+      "name": "S.HOLIC BAR",
+      "storeid": "akita-a70532",
+      "shopid": "akita-a70532-aupay"
     },
     {
-      "name": "Rotary"
+      "name": "Rotary",
+      "storeid": "akita-cd81a4",
+      "shopid": "akita-cd81a4-aupay"
     },
     {
-      "name": "Ichi"
+      "name": "Ichi",
+      "storeid": "akita-8a0dff",
+      "shopid": "akita-8a0dff-aupay"
     },
     {
-      "name": "DININGとんま"
+      "name": "DININGとんま",
+      "storeid": "akita-347a77",
+      "shopid": "akita-347a77-aupay"
     },
     {
-      "name": "Cucina Miura Salute"
+      "name": "Cucina Miura Salute",
+      "storeid": "akita-037cbf",
+      "shopid": "akita-037cbf-aupay"
     },
     {
-      "name": "BIVIO"
+      "name": "BIVIO",
+      "storeid": "akita-3e323c",
+      "shopid": "akita-3e323c-aupay"
     },
     {
-      "name": "禁煙ばー縁"
+      "name": "禁煙ばー縁",
+      "storeid": "akita-17616e",
+      "shopid": "akita-17616e-aupay"
     },
     {
-      "name": "居酒屋 もぐら"
+      "name": "居酒屋 もぐら",
+      "storeid": "akita-58142e",
+      "shopid": "akita-58142e-aupay"
     },
     {
-      "name": "だいにんぐ葉笑輪"
+      "name": "だいにんぐ葉笑輪",
+      "storeid": "akita-5482d8",
+      "shopid": "akita-5482d8-aupay"
     },
     {
-      "name": "カラオケLounge Buddies"
+      "name": "カラオケLounge Buddies",
+      "storeid": "akita-64f808",
+      "shopid": "akita-64f808-aupay"
     },
     {
-      "name": "UNITY"
+      "name": "UNITY",
+      "storeid": "akita-d1999e",
+      "shopid": "akita-d1999e-aupay"
     },
     {
-      "name": "Grill&Wine SOLEIL"
+      "name": "Grill&Wine SOLEIL",
+      "storeid": "akita-b0246d",
+      "shopid": "akita-b0246d-aupay"
     }
   ],
   "桜": [
     {
-      "name": "すき家 秋田桜店"
+      "name": "すき家 秋田桜店",
+      "storeid": "akita-9bee38",
+      "shopid": "akita-9bee38-aupay"
     },
     {
-      "name": "Hanamizuki Cafe 秋田店"
+      "name": "Hanamizuki Cafe 秋田店",
+      "storeid": "akita-2c5f43",
+      "shopid": "akita-2c5f43-aupay"
     }
   ],
   "高陽青柳町": [
     {
-      "name": "緞貴鵬亭"
+      "name": "緞貴鵬亭",
+      "storeid": "akita-aa6da8",
+      "shopid": "akita-aa6da8-aupay"
     },
     {
-      "name": "天酔"
+      "name": "天酔",
+      "storeid": "akita-17ad7e",
+      "shopid": "akita-17ad7e-aupay"
     },
     {
-      "name": "かず家"
+      "name": "かず家",
+      "storeid": "akita-0d2e3f",
+      "shopid": "akita-0d2e3f-aupay"
     },
     {
-      "name": "CASUALBAR BONGO"
+      "name": "CASUALBAR BONGO",
+      "storeid": "akita-9030e0",
+      "shopid": "akita-9030e0-aupay"
     },
     {
-      "name": "AQA 山王店"
+      "name": "AQA 山王店",
+      "storeid": "akita-5f08ab",
+      "shopid": "akita-5f08ab-aupay"
     },
     {
-      "name": "優"
+      "name": "優",
+      "storeid": "akita-9b8418",
+      "shopid": "akita-9b8418-aupay"
     },
     {
-      "name": "藤"
+      "name": "藤",
+      "storeid": "akita-7b879a",
+      "shopid": "akita-7b879a-aupay"
     },
     {
-      "name": "焼鳥dining とりたか"
+      "name": "焼鳥dining とりたか",
+      "storeid": "akita-67d090",
+      "shopid": "akita-67d090-aupay"
     },
     {
-      "name": "手品家 秋田店"
+      "name": "手品家 秋田店",
+      "storeid": "akita-19c075",
+      "shopid": "akita-19c075-aupay"
     }
   ],
   "高陽幸町": [
     {
-      "name": "金の茶室"
+      "name": "金の茶室",
+      "storeid": "akita-011fd7",
+      "shopid": "akita-011fd7-aupay"
     },
     {
-      "name": "サブウェイ 秋田いとく新国道店"
+      "name": "サブウェイ 秋田いとく新国道店",
+      "storeid": "akita-e9b670",
+      "shopid": "akita-e9b670-aupay"
     },
     {
-      "name": "あわい"
+      "name": "あわい",
+      "storeid": "akita-b28c53",
+      "shopid": "akita-b28c53-aupay"
     },
     {
-      "name": "PIZZA NDANO"
+      "name": "PIZZA NDANO",
+      "storeid": "akita-11ca07",
+      "shopid": "akita-11ca07-aupay"
     },
     {
-      "name": "Bar cots"
+      "name": "Bar cots",
+      "storeid": "akita-7c7931",
+      "shopid": "akita-7c7931-aupay"
     }
   ],
   "広面蓮沼": [
     {
-      "name": "暖や 秋田大学病院前店"
+      "name": "暖や 秋田大学病院前店",
+      "storeid": "akita-55e073",
+      "shopid": "akita-55e073-aupay"
     }
   ],
   "広面樋ノ下": [
     {
-      "name": "ラーメン飯店 来華"
+      "name": "ラーメン飯店 来華",
+      "storeid": "akita-240646",
+      "shopid": "akita-240646-aupay"
     }
   ],
   "広面樋ノ沖": [
     {
-      "name": "松屋 秋田広面店"
+      "name": "松屋 秋田広面店",
+      "storeid": "akita-369242",
+      "shopid": "akita-369242-aupay"
     },
     {
-      "name": "吉野家 秋田広面店"
+      "name": "吉野家 秋田広面店",
+      "storeid": "akita-fd934c",
+      "shopid": "akita-fd934c-aupay"
     },
     {
-      "name": "ほっとまん企画"
+      "name": "ほっとまん企画",
+      "storeid": "akita-fe9757",
+      "shopid": "akita-fe9757-aupay"
     },
     {
-      "name": "しゃぶ葉 秋田広面店"
+      "name": "しゃぶ葉 秋田広面店",
+      "storeid": "akita-00953e",
+      "shopid": "akita-00953e-aupay"
     }
   ],
   "広面鍋沼": [
     {
-      "name": "はま寿司 秋田広面店"
+      "name": "はま寿司 秋田広面店",
+      "storeid": "akita-4b50bc",
+      "shopid": "akita-4b50bc-aupay"
     }
   ],
   "広面土手下": [
     {
-      "name": "ねじまき屋"
+      "name": "ねじまき屋",
+      "storeid": "akita-ec7693",
+      "shopid": "akita-ec7693-aupay"
     },
     {
-      "name": "ORDINAIRE CHOCOLAT"
+      "name": "ORDINAIRE CHOCOLAT",
+      "storeid": "akita-0bf387",
+      "shopid": "akita-0bf387-aupay"
     },
     {
-      "name": "モン高砂堂"
+      "name": "モン高砂堂",
+      "storeid": "akita-0f6317",
+      "shopid": "akita-0f6317-aupay"
     }
   ],
   "広面碇": [
     {
-      "name": "花だんご信濃や"
+      "name": "花だんご信濃や",
+      "storeid": "akita-da036e",
+      "shopid": "akita-da036e-aupay"
     }
   ],
   "広面堤敷": [
     {
-      "name": "幸楽苑 広面店"
+      "name": "幸楽苑 広面店",
+      "storeid": "akita-3a98e2",
+      "shopid": "akita-3a98e2-aupay"
     },
     {
-      "name": "ミスタードーナツ 秋田広面ショップ店"
+      "name": "ミスタードーナツ 秋田広面ショップ店",
+      "storeid": "akita-cc924e",
+      "shopid": "akita-cc924e-aupay"
     },
     {
-      "name": "ひょうたん 秋田広面店"
+      "name": "ひょうたん 秋田広面店",
+      "storeid": "akita-b299a7",
+      "shopid": "akita-b299a7-aupay"
     },
     {
-      "name": "さんサンTheCoffee"
+      "name": "さんサンTheCoffee",
+      "storeid": "akita-87ed51",
+      "shopid": "akita-87ed51-aupay"
     },
     {
-      "name": "かっぱ寿司 秋田広面店"
+      "name": "かっぱ寿司 秋田広面店",
+      "storeid": "akita-676e96",
+      "shopid": "akita-676e96-aupay"
     }
   ],
   "広面釣瓶町": [
     {
-      "name": "八幡平ポークの直売所BU太"
+      "name": "八幡平ポークの直売所BU太",
+      "storeid": "akita-dc2d5c",
+      "shopid": "akita-dc2d5c-aupay"
     }
   ],
   "広面昼寝": [
     {
-      "name": "焼肉ひるね／和食えちごや"
+      "name": "焼肉ひるね／和食えちごや",
+      "storeid": "akita-72192b",
+      "shopid": "akita-72192b-aupay"
     },
     {
-      "name": "アフター ザ サンセット"
+      "name": "アフター ザ サンセット",
+      "storeid": "akita-af5d90",
+      "shopid": "akita-af5d90-aupay"
     },
     {
-      "name": "Maison de chou chou"
+      "name": "Maison de chou chou",
+      "storeid": "akita-7548eb",
+      "shopid": "akita-7548eb-aupay"
     },
     {
-      "name": "柳麺多むら 広面店"
+      "name": "柳麺多むら 広面店",
+      "storeid": "akita-706ae7",
+      "shopid": "akita-706ae7-aupay"
     },
     {
-      "name": "豚泥棒"
+      "name": "豚泥棒",
+      "storeid": "akita-d7e62c",
+      "shopid": "akita-d7e62c-aupay"
     }
   ],
   "広面谷地田": [
     {
-      "name": "日本料理 御山"
+      "name": "日本料理 御山",
+      "storeid": "akita-e1e0c1",
+      "shopid": "akita-e1e0c1-aupay"
     }
   ],
   "広面谷地沖": [
     {
-      "name": "ステーキガスト 秋田広面店"
+      "name": "ステーキガスト 秋田広面店",
+      "storeid": "akita-23f68a",
+      "shopid": "akita-23f68a-aupay"
     }
   ],
   "広面小沼古   端": [
     {
-      "name": "モスバーガー 秋田広面店"
+      "name": "モスバーガー 秋田広面店",
+      "storeid": "akita-843cfb",
+      "shopid": "akita-843cfb-aupay"
     }
   ],
   "広面宮田": [
     {
-      "name": "シャトレーゼ 広面店"
+      "name": "シャトレーゼ 広面店",
+      "storeid": "akita-793e77",
+      "shopid": "akita-793e77-aupay"
     }
   ],
   "広面屋敷田": [
     {
-      "name": "楽味"
+      "name": "楽味",
+      "storeid": "akita-7d49cd",
+      "shopid": "akita-7d49cd-aupay"
     }
   ],
   "御野場": [
     {
-      "name": "フレンドフーズMIYU"
+      "name": "フレンドフーズMIYU",
+      "storeid": "akita-003380",
+      "shopid": "akita-003380-aupay"
     }
   ],
   "御所野堤台": [
     {
-      "name": "すたみな太郎 秋田御所野店"
+      "name": "すたみな太郎 秋田御所野店",
+      "storeid": "akita-a6e2a4",
+      "shopid": "akita-a6e2a4-aupay"
     },
     {
-      "name": "かっぱ寿司 秋田御所野店"
+      "name": "かっぱ寿司 秋田御所野店",
+      "storeid": "akita-149195",
+      "shopid": "akita-149195-aupay"
     }
   ],
   "御所野地蔵田": [
     {
-      "name": "大戸屋 イオンモール秋田店"
+      "name": "大戸屋 イオンモール秋田店",
+      "storeid": "akita-fe915d",
+      "shopid": "akita-fe915d-aupay"
     },
     {
-      "name": "四六時中 秋田御所野店"
+      "name": "四六時中 秋田御所野店",
+      "storeid": "akita-95fc09",
+      "shopid": "akita-95fc09-aupay"
     },
     {
-      "name": "銀座惣菜店 イオンモール秋田店"
+      "name": "銀座惣菜店 イオンモール秋田店",
+      "storeid": "akita-7f9057",
+      "shopid": "akita-7f9057-aupay"
     },
     {
-      "name": "牛角 焼肉食堂 イオンモール秋田店"
+      "name": "牛角 焼肉食堂 イオンモール秋田店",
+      "storeid": "akita-4d3705",
+      "shopid": "akita-4d3705-aupay"
     },
     {
-      "name": "牛たん炭焼 利久 イオンモール秋田店"
+      "name": "牛たん炭焼 利久 イオンモール秋田店",
+      "storeid": "akita-a1cbc6",
+      "shopid": "akita-a1cbc6-aupay"
     },
     {
-      "name": "宮崎肉処 霧峰 秋田店"
+      "name": "宮崎肉処 霧峰 秋田店",
+      "storeid": "akita-af7d32",
+      "shopid": "akita-af7d32-aupay"
     },
     {
-      "name": "鎌倉パスタ イオンモール秋田店"
+      "name": "鎌倉パスタ イオンモール秋田店",
+      "storeid": "akita-8fd9bf",
+      "shopid": "akita-8fd9bf-aupay"
     },
     {
-      "name": "リンガーハット イオンモール秋田店"
+      "name": "リンガーハット イオンモール秋田店",
+      "storeid": "akita-135531",
+      "shopid": "akita-135531-aupay"
     },
     {
-      "name": "モスバーガー イオンモール秋田店"
+      "name": "モスバーガー イオンモール秋田店",
+      "storeid": "akita-0673b0",
+      "shopid": "akita-0673b0-aupay"
     },
     {
-      "name": "ミスタードーナツ 御所野ショップ店"
+      "name": "ミスタードーナツ 御所野ショップ店",
+      "storeid": "akita-f1e4e7",
+      "shopid": "akita-f1e4e7-aupay"
     },
     {
-      "name": "トレンタ 御所野店"
+      "name": "トレンタ 御所野店",
+      "storeid": "akita-b1607f",
+      "shopid": "akita-b1607f-aupay"
     },
     {
-      "name": "すき家 イオンモール秋田店"
+      "name": "すき家 イオンモール秋田店",
+      "storeid": "akita-01ac85",
+      "shopid": "akita-01ac85-aupay"
     },
     {
-      "name": "サンマルクカフェ イオンモール秋田店"
+      "name": "サンマルクカフェ イオンモール秋田店",
+      "storeid": "akita-b0bd92",
+      "shopid": "akita-b0bd92-aupay"
     },
     {
-      "name": "サーティワンアイスクリーム イオンモール秋田店"
+      "name": "サーティワンアイスクリーム イオンモール秋田店",
+      "storeid": "akita-386be8",
+      "shopid": "akita-386be8-aupay"
     },
     {
-      "name": "ケンタッキーフライドチキン イオンモール秋田店"
+      "name": "ケンタッキーフライドチキン イオンモール秋田店",
+      "storeid": "akita-f30d7c",
+      "shopid": "akita-f30d7c-aupay"
     },
     {
-      "name": "pia Sapido 秋田店"
+      "name": "pia Sapido 秋田店",
+      "storeid": "akita-c4853b",
+      "shopid": "akita-c4853b-aupay"
     },
     {
-      "name": "Cafe de CoCo 南太平洋"
+      "name": "Cafe de CoCo 南太平洋",
+      "storeid": "akita-31443a",
+      "shopid": "akita-31443a-aupay"
     }
   ],
   "御所野元町": [
     {
-      "name": "地酒やおおた"
+      "name": "地酒やおおた",
+      "storeid": "akita-230200",
+      "shopid": "akita-230200-aupay"
     },
     {
-      "name": "三宝亭 御所野店"
+      "name": "三宝亭 御所野店",
+      "storeid": "akita-3dd5b3",
+      "shopid": "akita-3dd5b3-aupay"
     },
     {
-      "name": "ワールボンボン フレスポ御所野店"
+      "name": "ワールボンボン フレスポ御所野店",
+      "storeid": "akita-467d87",
+      "shopid": "akita-467d87-aupay"
     },
     {
-      "name": "びっくりドンキー 秋田御所野店"
+      "name": "びっくりドンキー 秋田御所野店",
+      "storeid": "akita-46e1eb",
+      "shopid": "akita-46e1eb-aupay"
     },
     {
-      "name": "KEY'SCAFEフレスポ御所野店"
+      "name": "KEY'SCAFEフレスポ御所野店",
+      "storeid": "akita-6055eb",
+      "shopid": "akita-6055eb-aupay"
     }
   ],
   "元山下町": [
     {
-      "name": "アラジン珈琲 山王店"
+      "name": "アラジン珈琲 山王店",
+      "storeid": "akita-d88879",
+      "shopid": "akita-d88879-aupay"
     }
   ],
   "元開和町": [
     {
-      "name": "はなまるうどん 秋田   元店"
+      "name": "はなまるうどん 秋田   元店",
+      "storeid": "akita-cd4658",
+      "shopid": "akita-cd4658-aupay"
     }
   ],
   "元むつみ町": [
     {
-      "name": "佐々木家 秋田本店"
+      "name": "佐々木家 秋田本店",
+      "storeid": "akita-5508cf",
+      "shopid": "akita-5508cf-aupay"
     }
   ],
   "金足追分海老穴": [
     {
-      "name": "空の木Garden"
+      "name": "空の木Garden",
+      "storeid": "akita-b1f61d",
+      "shopid": "akita-b1f61d-aupay"
     },
     {
-      "name": "ポニーテール"
+      "name": "ポニーテール",
+      "storeid": "akita-fd17e2",
+      "shopid": "akita-fd17e2-aupay"
     }
   ],
   "牛島東": [
     {
-      "name": "味よし 秋田店"
+      "name": "味よし 秋田店",
+      "storeid": "akita-00e5fc",
+      "shopid": "akita-00e5fc-aupay"
     },
     {
-      "name": "すき家 13号秋田牛島店"
+      "name": "すき家 13号秋田牛島店",
+      "storeid": "akita-a46fed",
+      "shopid": "akita-a46fed-aupay"
     },
     {
-      "name": "クドウクレープ"
+      "name": "クドウクレープ",
+      "storeid": "akita-c68ea2",
+      "shopid": "akita-c68ea2-aupay"
     },
     {
-      "name": "カフェ・まーぶる"
+      "name": "カフェ・まーぶる",
+      "storeid": "akita-ee0602",
+      "shopid": "akita-ee0602-aupay"
     }
   ],
   "牛島西": [
     {
-      "name": "ミュージックバーポルト"
+      "name": "ミュージックバーポルト",
+      "storeid": "akita-25be6c",
+      "shopid": "akita-25be6c-aupay"
     },
     {
-      "name": "allpy"
+      "name": "allpy",
+      "storeid": "akita-be6bf9",
+      "shopid": "akita-be6bf9-aupay"
     }
   ],
   "外旭   八柳": [
     {
-      "name": "肉のわかば マイスター外旭   店"
+      "name": "肉のわかば マイスター外旭   店",
+      "storeid": "akita-221ffa",
+      "shopid": "akita-221ffa-aupay"
     },
     {
-      "name": "cafe&kitchen ふわりずむ"
+      "name": "cafe&kitchen ふわりずむ",
+      "storeid": "akita-eb1ef1",
+      "shopid": "akita-eb1ef1-aupay"
     }
   ],
   "外旭   八幡田": [
     {
-      "name": "食堂 ぽめ。"
+      "name": "食堂 ぽめ。",
+      "storeid": "akita-140937",
+      "shopid": "akita-140937-aupay"
     },
     {
-      "name": "焼肉ほるもん蒼"
+      "name": "焼肉ほるもん蒼",
+      "storeid": "akita-aa2ef7",
+      "shopid": "akita-aa2ef7-aupay"
     },
     {
-      "name": "ふくまる堂"
+      "name": "ふくまる堂",
+      "storeid": "akita-38f543",
+      "shopid": "akita-38f543-aupay"
     },
     {
-      "name": "すしのあすか"
+      "name": "すしのあすか",
+      "storeid": "akita-ef9cc2",
+      "shopid": "akita-ef9cc2-aupay"
     },
     {
-      "name": "スイーツパーラー シバハマ"
+      "name": "スイーツパーラー シバハマ",
+      "storeid": "akita-6b3a68",
+      "shopid": "akita-6b3a68-aupay"
     },
     {
-      "name": "お好み焼 とんぼ亭"
+      "name": "お好み焼 とんぼ亭",
+      "storeid": "akita-befd8b",
+      "shopid": "akita-befd8b-aupay"
     },
     {
-      "name": "インド料理ラクスミ"
+      "name": "インド料理ラクスミ",
+      "storeid": "akita-7876e8",
+      "shopid": "akita-7876e8-aupay"
     }
   ],
   "外旭   大谷地": [
     {
-      "name": "くら寿司 秋田外旭   店"
+      "name": "くら寿司 秋田外旭   店",
+      "storeid": "akita-aea12a",
+      "shopid": "akita-aea12a-aupay"
     }
   ],
   "外旭   前谷地": [
     {
-      "name": "K'sファストフードサービス"
+      "name": "K'sファストフードサービス",
+      "storeid": "akita-b9a41a",
+      "shopid": "akita-b9a41a-aupay"
     }
   ],
   "外旭   小谷地": [
     {
-      "name": "お菓子のくらた グランマート外旭   店"
+      "name": "お菓子のくらた グランマート外旭   店",
+      "storeid": "akita-cb4022",
+      "shopid": "akita-cb4022-aupay"
     }
   ],
   "外旭   四百刈": [
     {
-      "name": "トレンタ 外旭   店"
+      "name": "トレンタ 外旭   店",
+      "storeid": "akita-fe2eb0",
+      "shopid": "akita-fe2eb0-aupay"
     },
     {
-      "name": "シャトレーゼ 秋田外旭   店"
+      "name": "シャトレーゼ 秋田外旭   店",
+      "storeid": "akita-8f9168",
+      "shopid": "akita-8f9168-aupay"
     }
   ],
   "外旭   三後田": [
     {
-      "name": "よりどころ親子"
+      "name": "よりどころ親子",
+      "storeid": "akita-ef8bae",
+      "shopid": "akita-ef8bae-aupay"
     },
     {
-      "name": "ガスト 秋田外旭   店"
+      "name": "ガスト 秋田外旭   店",
+      "storeid": "akita-b54001",
+      "shopid": "akita-b54001-aupay"
     },
     {
-      "name": "CRAFT BEER BAR"
+      "name": "CRAFT BEER BAR",
+      "storeid": "akita-7b632a",
+      "shopid": "akita-7b632a-aupay"
     }
   ],
   "外旭   梶ノ目": [
     {
-      "name": "屋台ラーメン 影武者"
+      "name": "屋台ラーメン 影武者",
+      "storeid": "akita-f1efa8",
+      "shopid": "akita-f1efa8-aupay"
     }
   ],
   "下北手松崎家ノ前": [
     {
-      "name": "Shalm"
+      "name": "Shalm",
+      "storeid": "akita-82a7d6",
+      "shopid": "akita-82a7d6-aupay"
     }
   ],
   "下新城中野琵琶沼": [
     {
-      "name": "太助寿司本店"
+      "name": "太助寿司本店",
+      "storeid": "akita-93f787",
+      "shopid": "akita-93f787-aupay"
     },
     {
-      "name": "煮干そば専門店 まると 中野分店"
+      "name": "煮干そば専門店 まると 中野分店",
+      "storeid": "akita-d8ebc0",
+      "shopid": "akita-d8ebc0-aupay"
     }
   ],
   "卸町": [
     {
-      "name": "無限堂卸町店"
+      "name": "無限堂卸町店",
+      "storeid": "akita-a385fe",
+      "shopid": "akita-a385fe-aupay"
     },
     {
-      "name": "ほっかほっか亭 秋田卸町店"
+      "name": "ほっかほっか亭 秋田卸町店",
+      "storeid": "akita-8a10e2",
+      "shopid": "akita-8a10e2-aupay"
     },
     {
-      "name": "なか卯 ラウンドワン秋田卸町店"
+      "name": "なか卯 ラウンドワン秋田卸町店",
+      "storeid": "akita-7be083",
+      "shopid": "akita-7be083-aupay"
     },
     {
-      "name": "ジャパリアーノ"
+      "name": "ジャパリアーノ",
+      "storeid": "akita-d2cdfd",
+      "shopid": "akita-d2cdfd-aupay"
     },
     {
-      "name": "CoCo壱番屋 ラウンドワン秋田店"
+      "name": "CoCo壱番屋 ラウンドワン秋田店",
+      "storeid": "akita-0b7eb4",
+      "shopid": "akita-0b7eb4-aupay"
     }
   ],
   "横森": [
     {
-      "name": "あっけらかん"
+      "name": "あっけらかん",
+      "storeid": "akita-8ec273",
+      "shopid": "akita-8ec273-aupay"
     }
   ],
   "茨島": [
     {
-      "name": "笑幸"
+      "name": "笑幸",
+      "storeid": "akita-73203e",
+      "shopid": "akita-73203e-aupay"
     },
     {
-      "name": "幸楽苑 茨島店"
+      "name": "幸楽苑 茨島店",
+      "storeid": "akita-8d6fd0",
+      "shopid": "akita-8d6fd0-aupay"
     },
     {
-      "name": "牛角 イオンタウン茨島店"
+      "name": "牛角 イオンタウン茨島店",
+      "storeid": "akita-401ad0",
+      "shopid": "akita-401ad0-aupay"
     },
     {
-      "name": "やきとりの扇屋 秋田茨島店"
+      "name": "やきとりの扇屋 秋田茨島店",
+      "storeid": "akita-69ad3e",
+      "shopid": "akita-69ad3e-aupay"
     },
     {
-      "name": "スシロー 秋田茨島店"
+      "name": "スシロー 秋田茨島店",
+      "storeid": "akita-9457c0",
+      "shopid": "akita-9457c0-aupay"
     },
     {
-      "name": "サーティワンアイスクリーム イオンスタイル茨島店"
+      "name": "サーティワンアイスクリーム イオンスタイル茨島店",
+      "storeid": "akita-0dd0dc",
+      "shopid": "akita-0dd0dc-aupay"
     },
     {
-      "name": "くら寿司 秋田茨島店"
+      "name": "くら寿司 秋田茨島店",
+      "storeid": "akita-8e898b",
+      "shopid": "akita-8e898b-aupay"
     },
     {
-      "name": "ガスト 秋田茨島店"
+      "name": "ガスト 秋田茨島店",
+      "storeid": "akita-009833",
+      "shopid": "akita-009833-aupay"
     }
   ],
   "旭北錦町": [
     {
-      "name": "麺屋そうじゅん"
+      "name": "麺屋そうじゅん",
+      "storeid": "akita-e856f6",
+      "shopid": "akita-e856f6-aupay"
     },
     {
-      "name": "大阪王将 秋田ドンキホーテ店"
+      "name": "大阪王将 秋田ドンキホーテ店",
+      "storeid": "akita-69ec39",
+      "shopid": "akita-69ec39-aupay"
     },
     {
-      "name": "ミスタードーナツ 秋田山王ショップ店"
+      "name": "ミスタードーナツ 秋田山王ショップ店",
+      "storeid": "akita-930ce9",
+      "shopid": "akita-930ce9-aupay"
     },
     {
-      "name": "まるまつ 秋田中央店"
+      "name": "まるまつ 秋田中央店",
+      "storeid": "akita-3a67a8",
+      "shopid": "akita-3a67a8-aupay"
     }
   ],
   "旭北栄町": [
     {
-      "name": "虎穴"
+      "name": "虎穴",
+      "storeid": "akita-16df9e",
+      "shopid": "akita-16df9e-aupay"
     },
     {
-      "name": "菓子工房ぜんげつ"
+      "name": "菓子工房ぜんげつ",
+      "storeid": "akita-c92fd6",
+      "shopid": "akita-c92fd6-aupay"
     }
   ],
   "旭南": [
     {
-      "name": "喫茶WAI"
+      "name": "喫茶WAI",
+      "storeid": "akita-f38b43",
+      "shopid": "akita-f38b43-aupay"
     },
     {
-      "name": "バーミヤン 秋田旭南店"
+      "name": "バーミヤン 秋田旭南店",
+      "storeid": "akita-35128f",
+      "shopid": "akita-35128f-aupay"
     },
     {
-      "name": "デリカミリオン"
+      "name": "デリカミリオン",
+      "storeid": "akita-cda637",
+      "shopid": "akita-cda637-aupay"
     },
     {
-      "name": "Witchen"
+      "name": "Witchen",
+      "storeid": "akita-994acf",
+      "shopid": "akita-994acf-aupay"
     },
     {
-      "name": "Patchwork Cafe"
+      "name": "Patchwork Cafe",
+      "storeid": "akita-b4dda0",
+      "shopid": "akita-b4dda0-aupay"
     }
   ]
 }

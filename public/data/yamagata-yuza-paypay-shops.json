@@ -2,549 +2,797 @@
   "サービス / エステティックサロン": [
     {
       "name": "エステサロンふたば",
-      "address": "菅里字十里塚193-279"
+      "address": "菅里字十里塚193-279",
+      "storeid": "yuza-5631a9",
+      "shopid": "yuza-5631a9-paypay"
     }
   ],
   "サービス / その他": [
     {
       "name": "庄内アニマル倶楽部",
-      "address": "遊佐字舞鶴14"
+      "address": "遊佐字舞鶴14",
+      "storeid": "yuza-088194",
+      "shopid": "yuza-088194-paypay"
     },
     {
       "name": "西浜コテージ村・キャンプ場",
-      "address": "吹浦字西浜2-62"
+      "address": "吹浦字西浜2-62",
+      "storeid": "yuza-713d95",
+      "shopid": "yuza-713d95-paypay"
     },
     {
       "name": "BeautySalon   ito",
-      "address": "大蕨岡字大淵38"
+      "address": "大蕨岡字大淵38",
+      "storeid": "yuza-bd6435",
+      "shopid": "yuza-bd6435-paypay"
     },
     {
       "name": "ヒーリングサロン brillar",
-      "address": "小原田字沼田8-8"
+      "address": "小原田字沼田8-8",
+      "storeid": "yuza-7429bb",
+      "shopid": "yuza-7429bb-paypay"
     },
     {
       "name": "環清工業",
-      "address": "藤崎字茂り松61-120"
+      "address": "藤崎字茂り松61-120",
+      "storeid": "yuza-df1ed9",
+      "shopid": "yuza-df1ed9-paypay"
     },
     {
       "name": "服部商会",
-      "address": "菅里字菅野11-60"
+      "address": "菅里字菅野11-60",
+      "storeid": "yuza-6ccba6",
+      "shopid": "yuza-6ccba6-paypay"
     },
     {
       "name": "ボディケアサロン Canana",
-      "address": "小原田字沼田12-1"
+      "address": "小原田字沼田12-1",
+      "storeid": "yuza-c2e9c5",
+      "shopid": "yuza-c2e9c5-paypay"
     }
   ],
   "サービス / ハウスクリーニング（衣服洗濯業以外）": [
     {
       "name": "うさちゃんクリーニング",
-      "address": "小原田字道の下5-9"
+      "address": "小原田字道の下5-9",
+      "storeid": "yuza-fbe17c",
+      "shopid": "yuza-fbe17c-paypay"
     }
   ],
   "サービス / ホテル・旅館・レジャー・浴場": [
     {
       "name": "鳥海自然文化館   遊楽里",
-      "address": "吹浦字西浜2-76"
+      "address": "吹浦字西浜2-76",
+      "storeid": "yuza-310793",
+      "shopid": "yuza-310793-paypay"
     },
     {
       "name": "鶴屋旅館",
-      "address": "遊佐字舞鶴30"
+      "address": "遊佐字舞鶴30",
+      "storeid": "yuza-44926f",
+      "shopid": "yuza-44926f-paypay"
     },
     {
       "name": "鳥海温泉保養センター   あぽん西浜",
-      "address": "吹浦字西浜2-70"
+      "address": "吹浦字西浜2-70",
+      "storeid": "yuza-7e6968",
+      "shopid": "yuza-7e6968-paypay"
     },
     {
       "name": "四季の森「しらい自然館」",
-      "address": "白井新田字見晴野21"
+      "address": "白井新田字見晴野21",
+      "storeid": "yuza-68630d",
+      "shopid": "yuza-68630d-paypay"
     },
     {
       "name": "鳥海山四合目雲上の宿   大平山荘",
-      "address": "吹浦字鳥海山1"
+      "address": "吹浦字鳥海山1",
+      "storeid": "yuza-95c0e0",
+      "shopid": "yuza-95c0e0-paypay"
     },
     {
       "name": "酒田屋旅館",
-      "address": "吹浦湯ノ田９－４"
+      "address": "吹浦湯ノ田９－４",
+      "storeid": "yuza-158537",
+      "shopid": "yuza-158537-paypay"
     }
   ],
   "サービス / 冠婚葬祭": [
     {
       "name": "鶴岡メモリアルガーデン",
-      "address": "比子字白木1-223"
+      "address": "比子字白木1-223",
+      "storeid": "yuza-3b4cf9",
+      "shopid": "yuza-3b4cf9-paypay"
     }
   ],
   "サービス / 自動車整備・各種修理": [
     {
       "name": "GF",
-      "address": "白井新田字村下1-24"
+      "address": "白井新田字村下1-24",
+      "storeid": "yuza-70e375",
+      "shopid": "yuza-70e375-paypay"
     },
     {
       "name": "斎藤モータース",
-      "address": "庄泉字大谷地447-8"
+      "address": "庄泉字大谷地447-8",
+      "storeid": "yuza-598690",
+      "shopid": "yuza-598690-paypay"
     },
     {
       "name": "遊佐自動車",
-      "address": "小原田字沼田5"
+      "address": "小原田字沼田5",
+      "storeid": "yuza-b3e4c5",
+      "shopid": "yuza-b3e4c5-paypay"
     },
     {
       "name": "オートパル遊佐",
-      "address": "遊佐字鶴田56-1"
+      "address": "遊佐字鶴田56-1",
+      "storeid": "yuza-17b60a",
+      "shopid": "yuza-17b60a-paypay"
     },
     {
       "name": "オートサービスオオバ",
-      "address": "藤崎字茂り松61-72"
+      "address": "藤崎字茂り松61-72",
+      "storeid": "yuza-cadb97",
+      "shopid": "yuza-cadb97-paypay"
     },
     {
       "name": "サトウ商会",
-      "address": "遊佐字川端27-1"
+      "address": "遊佐字川端27-1",
+      "storeid": "yuza-ce6937",
+      "shopid": "yuza-ce6937-paypay"
     },
     {
       "name": "西浜オートサービス",
-      "address": "菅里字菅野318-21"
+      "address": "菅里字菅野318-21",
+      "storeid": "yuza-9c6421",
+      "shopid": "yuza-9c6421-paypay"
     },
     {
       "name": "（有）ユザオートサービス",
-      "address": "遊佐字舞鶴81-2"
+      "address": "遊佐字舞鶴81-2",
+      "storeid": "yuza-5be161",
+      "shopid": "yuza-5be161-paypay"
     },
     {
       "name": "Garage310",
-      "address": "豊岡新田13-1"
+      "address": "豊岡新田13-1",
+      "storeid": "yuza-4c2e85",
+      "shopid": "yuza-4c2e85-paypay"
     }
   ],
   "サービス / 住宅建設・リフォーム": [
     {
       "name": "株式会社藤本",
-      "address": "遊佐字舞鶴76"
+      "address": "遊佐字舞鶴76",
+      "storeid": "yuza-82955c",
+      "shopid": "yuza-82955c-paypay"
     },
     {
       "name": "福増建具店",
-      "address": "増穂字前田59"
+      "address": "増穂字前田59",
+      "storeid": "yuza-fb1594",
+      "shopid": "yuza-fb1594-paypay"
     },
     {
       "name": "スガノ製畳",
-      "address": "北目字菅野谷地37-15"
+      "address": "北目字菅野谷地37-15",
+      "storeid": "yuza-14522f",
+      "shopid": "yuza-14522f-paypay"
     },
     {
       "name": "有限会社アルミ工房サイト",
-      "address": "吉出字金俣155"
+      "address": "吉出字金俣155",
+      "storeid": "yuza-1fca73",
+      "shopid": "yuza-1fca73-paypay"
     },
     {
       "name": "ユザ内装",
-      "address": "遊佐字神子免10-1"
+      "address": "遊佐字神子免10-1",
+      "storeid": "yuza-3c3545",
+      "shopid": "yuza-3c3545-paypay"
     },
     {
       "name": "利功",
-      "address": "豊岡字茨田39-4"
+      "address": "豊岡字茨田39-4",
+      "storeid": "yuza-c3a072",
+      "shopid": "yuza-c3a072-paypay"
     }
   ],
   "サービス / 美容業": [
     {
       "name": "理美容髙橋",
-      "address": "遊佐字舞鶴40"
+      "address": "遊佐字舞鶴40",
+      "storeid": "yuza-a04ec4",
+      "shopid": "yuza-a04ec4-paypay"
     },
     {
       "name": "美容室金魚",
-      "address": "遊佐字向田8-3"
+      "address": "遊佐字向田8-3",
+      "storeid": "yuza-83ca9e",
+      "shopid": "yuza-83ca9e-paypay"
     },
     {
       "name": "金野美容室",
-      "address": "豊岡字上川原21"
+      "address": "豊岡字上川原21",
+      "storeid": "yuza-059710",
+      "shopid": "yuza-059710-paypay"
     },
     {
       "name": "ヘアーサロンいとう",
-      "address": "菅里字菅野310-23"
+      "address": "菅里字菅野310-23",
+      "storeid": "yuza-0ab63a",
+      "shopid": "yuza-0ab63a-paypay"
     },
     {
       "name": "HAIR   SALON   Eike",
-      "address": "遊佐字鶴田33-2"
+      "address": "遊佐字鶴田33-2",
+      "storeid": "yuza-c9b4b2",
+      "shopid": "yuza-c9b4b2-paypay"
     },
     {
       "name": "アトリエ・リズ",
-      "address": "吉出字境田11-3"
+      "address": "吉出字境田11-3",
+      "storeid": "yuza-f8b79d",
+      "shopid": "yuza-f8b79d-paypay"
     },
     {
       "name": "Hair Salon EVIS",
-      "address": "北目字蟻塚78-1"
+      "address": "北目字蟻塚78-1",
+      "storeid": "yuza-756b47",
+      "shopid": "yuza-756b47-paypay"
     },
     {
       "name": "ヘアーランド   ヨイチ",
-      "address": "遊佐字鶴田53-9"
+      "address": "遊佐字鶴田53-9",
+      "storeid": "yuza-e4c717",
+      "shopid": "yuza-e4c717-paypay"
     },
     {
       "name": "ヘアーサロン ワタナベ",
-      "address": "豊岡字南三川50-4"
+      "address": "豊岡字南三川50-4",
+      "storeid": "yuza-9cb02f",
+      "shopid": "yuza-9cb02f-paypay"
     },
     {
       "name": "髪美館(ヘアーサロン) TAKAHASHI",
-      "address": "遊佐字丸の内5-内2"
+      "address": "遊佐字丸の内5-内2",
+      "storeid": "yuza-841f78",
+      "shopid": "yuza-841f78-paypay"
     },
     {
       "name": "Hair Stadio Oranjii",
-      "address": "遊佐新ラ田5-14"
+      "address": "遊佐新ラ田5-14",
+      "storeid": "yuza-dd56e9",
+      "shopid": "yuza-dd56e9-paypay"
     }
   ],
   "サービス / 旅行代理店・旅行業": [
     {
       "name": "遊佐鳥海観光協会",
-      "address": "遊佐字石田19-18"
+      "address": "遊佐字石田19-18",
+      "storeid": "yuza-b15aaf",
+      "shopid": "yuza-b15aaf-paypay"
     },
     {
       "name": "ひまわり旅行",
-      "address": "江地字田地下29-3"
+      "address": "江地字田地下29-3",
+      "storeid": "yuza-3fdf31",
+      "shopid": "yuza-3fdf31-paypay"
     }
   ],
   "医療・保険・公共サービス / 施術所（鍼灸院、治療院、接骨院・整骨院）": [
     {
       "name": "ひな鍼灸院",
-      "address": "遊佐字前田8-11"
+      "address": "遊佐字前田8-11",
+      "storeid": "yuza-420fd7",
+      "shopid": "yuza-420fd7-paypay"
     },
     {
       "name": "ふたば接骨院",
-      "address": "菅里字十里塚193-279"
+      "address": "菅里字十里塚193-279",
+      "storeid": "yuza-35b825",
+      "shopid": "yuza-35b825-paypay"
     }
   ],
   "医療・保険・公共サービス / 病院・医院": [
     {
       "name": "大滝歯科医院",
-      "address": "遊佐字高砂47-1"
+      "address": "遊佐字高砂47-1",
+      "storeid": "yuza-c9082b",
+      "shopid": "yuza-c9082b-paypay"
     }
   ],
   "飲食 / ファーストフード": [
     {
       "name": "Bon!Buono",
-      "address": "遊佐字丸ノ内29-6"
+      "address": "遊佐字丸ノ内29-6",
+      "storeid": "yuza-40362f",
+      "shopid": "yuza-40362f-paypay"
     },
     {
       "name": "ジューシーさんの焼ぎそば屋",
-      "address": "比子字白木35-1"
+      "address": "比子字白木35-1",
+      "storeid": "yuza-0bd05f",
+      "shopid": "yuza-0bd05f-paypay"
     }
   ],
   "飲食 / 飲食店・喫茶店": [
     {
       "name": "華み寿喜",
-      "address": "遊佐字舞鶴114－1"
+      "address": "遊佐字舞鶴114－1",
+      "storeid": "yuza-c09349",
+      "shopid": "yuza-c09349-paypay"
     },
     {
       "name": "サンセット十六羅漢",
-      "address": "吹浦字西楯7-30"
+      "address": "吹浦字西楯7-30",
+      "storeid": "yuza-fa2d29",
+      "shopid": "yuza-fa2d29-paypay"
     },
     {
       "name": "栄軒",
-      "address": "遊佐字舞鶴135-19"
+      "address": "遊佐字舞鶴135-19",
+      "storeid": "yuza-4e24ac",
+      "shopid": "yuza-4e24ac-paypay"
     },
     {
       "name": "すし海道",
-      "address": "小原田字道ノ下5-9"
+      "address": "小原田字道ノ下5-9",
+      "storeid": "yuza-6af46b",
+      "shopid": "yuza-6af46b-paypay"
     },
     {
       "name": "鳥海ラーメン",
-      "address": "遊佐字上曽根田2"
+      "address": "遊佐字上曽根田2",
+      "storeid": "yuza-3a23e6",
+      "shopid": "yuza-3a23e6-paypay"
     },
     {
       "name": "お食事処とりみ亭",
-      "address": "吹浦字西浜2-69"
+      "address": "吹浦字西浜2-69",
+      "storeid": "yuza-ce27f4",
+      "shopid": "yuza-ce27f4-paypay"
     },
     {
       "name": "割烹   富士屋",
-      "address": "遊佐字京田15"
+      "address": "遊佐字京田15",
+      "storeid": "yuza-c46842",
+      "shopid": "yuza-c46842-paypay"
     },
     {
       "name": "酔う縁",
-      "address": "遊佐字舞鶴58"
+      "address": "遊佐字舞鶴58",
+      "storeid": "yuza-81826e",
+      "shopid": "yuza-81826e-paypay"
     },
     {
       "name": "やきとり専門店   鈴",
-      "address": "遊佐字鶴田33-3"
+      "address": "遊佐字鶴田33-3",
+      "storeid": "yuza-8009a7",
+      "shopid": "yuza-8009a7-paypay"
     },
     {
       "name": "桃花苑",
-      "address": "遊佐字舞鶴140-3"
+      "address": "遊佐字舞鶴140-3",
+      "storeid": "yuza-c0db24",
+      "shopid": "yuza-c0db24-paypay"
     },
     {
       "name": "ちどり食堂",
-      "address": "豊岡字下和田19-1"
+      "address": "豊岡字下和田19-1",
+      "storeid": "yuza-806b31",
+      "shopid": "yuza-806b31-paypay"
     },
     {
       "name": "道の駅   鳥海ふらっとフードコート",
-      "address": "菅里字菅野308-1"
+      "address": "菅里字菅野308-1",
+      "storeid": "yuza-edd36e",
+      "shopid": "yuza-edd36e-paypay"
     },
     {
       "name": "道の駅   鳥海ふらっと（ラーメン＆パン屋",
-      "address": "菅里字菅野308-1"
+      "address": "菅里字菅野308-1",
+      "storeid": "yuza-a8756b",
+      "shopid": "yuza-a8756b-paypay"
     },
     {
       "name": "遊佐カレー",
-      "address": "遊佐字石田19-18"
+      "address": "遊佐字石田19-18",
+      "storeid": "yuza-6b8302",
+      "shopid": "yuza-6b8302-paypay"
     },
     {
       "name": "メリー牧場カフェ",
-      "address": "北目字家ノ前4-2"
+      "address": "北目字家ノ前4-2",
+      "storeid": "yuza-1769a9",
+      "shopid": "yuza-1769a9-paypay"
     },
     {
       "name": "Fuuten kitchen 八兵衛",
-      "address": "豊岡大内129"
+      "address": "豊岡大内129",
+      "storeid": "yuza-74135b",
+      "shopid": "yuza-74135b-paypay"
     },
     {
       "name": "中華そば   七郎",
-      "address": "北目蟻塚80"
+      "address": "北目蟻塚80",
+      "storeid": "yuza-02d2e7",
+      "shopid": "yuza-02d2e7-paypay"
     }
   ],
   "飲食 / 居酒屋・パブ・バー": [
     {
       "name": "BAR  BLUES CATS",
-      "address": "遊佐字古川166-2"
+      "address": "遊佐字古川166-2",
+      "storeid": "yuza-37ee80",
+      "shopid": "yuza-37ee80-paypay"
     },
     {
       "name": "居酒屋ふくろう",
-      "address": "遊佐字南田筋19-9"
+      "address": "遊佐字南田筋19-9",
+      "storeid": "yuza-80f7d8",
+      "shopid": "yuza-80f7d8-paypay"
     },
     {
       "name": "Hi-Ho",
-      "address": "遊佐字南田筋9-6"
+      "address": "遊佐字南田筋9-6",
+      "storeid": "yuza-86c7be",
+      "shopid": "yuza-86c7be-paypay"
     },
     {
       "name": "パートナー",
-      "address": "遊佐字田子28"
+      "address": "遊佐字田子28",
+      "storeid": "yuza-6483f7",
+      "shopid": "yuza-6483f7-paypay"
     },
     {
       "name": "蕎麦家   たちかわ製麺所",
-      "address": "吹浦字西浜2-52"
+      "address": "吹浦字西浜2-52",
+      "storeid": "yuza-1fbc45",
+      "shopid": "yuza-1fbc45-paypay"
     }
   ],
   "各種小売 / ガソリンスタンド": [
     {
       "name": "遊来夢西浜SS",
-      "address": "菅里字菅野2"
+      "address": "菅里字菅野2",
+      "storeid": "yuza-23a888",
+      "shopid": "yuza-23a888-paypay"
     },
     {
       "name": "みどり遊YOUSS",
-      "address": "遊佐字55－2"
+      "address": "遊佐字55－2",
+      "storeid": "yuza-ce036c",
+      "shopid": "yuza-ce036c-paypay"
     },
     {
       "name": "ほっとセルフエルパ遊佐SS",
-      "address": "小原田字沼田15-1"
+      "address": "小原田字沼田15-1",
+      "storeid": "yuza-cf5d20",
+      "shopid": "yuza-cf5d20-paypay"
     }
   ],
   "各種小売 / その他": [
     {
       "name": "有限会社西浜タイヤ",
-      "address": "菅里字十里塚193-292"
+      "address": "菅里字十里塚193-292",
+      "storeid": "yuza-8ca020",
+      "shopid": "yuza-8ca020-paypay"
     },
     {
       "name": "髙橋石材店",
-      "address": "吉出字一口下9-38"
+      "address": "吉出字一口下9-38",
+      "storeid": "yuza-6581cd",
+      "shopid": "yuza-6581cd-paypay"
     },
     {
       "name": "コクボ商店",
-      "address": "遊佐字京田65"
+      "address": "遊佐字京田65",
+      "storeid": "yuza-c39760",
+      "shopid": "yuza-c39760-paypay"
     },
     {
       "name": "丸勝金物店",
-      "address": "遊佐字舞鶴227-5"
+      "address": "遊佐字舞鶴227-5",
+      "storeid": "yuza-ba1048",
+      "shopid": "yuza-ba1048-paypay"
     },
     {
       "name": "フトンのいとう",
-      "address": "遊佐字石田2-2"
+      "address": "遊佐字石田2-2",
+      "storeid": "yuza-96add4",
+      "shopid": "yuza-96add4-paypay"
     },
     {
       "name": "オランダせんべいFACTORY",
-      "address": "小原田字道ノ↓5-9"
+      "address": "小原田字道ノ↓5-9",
+      "storeid": "yuza-8a3b98",
+      "shopid": "yuza-8a3b98-paypay"
     },
     {
       "name": "梅津商店",
-      "address": "遊佐字舞鶴135-7"
+      "address": "遊佐字舞鶴135-7",
+      "storeid": "yuza-4cc3ff",
+      "shopid": "yuza-4cc3ff-paypay"
     }
   ],
   "各種小売 / リサイクル・中古品": [
     {
       "name": "オートショップ今野",
-      "address": "比子字白木22-60"
+      "address": "比子字白木22-60",
+      "storeid": "yuza-5dd80a",
+      "shopid": "yuza-5dd80a-paypay"
     },
     {
       "name": "タイヤショップ エルパ",
-      "address": "小原田沼田15-1"
+      "address": "小原田沼田15-1",
+      "storeid": "yuza-c00eab",
+      "shopid": "yuza-c00eab-paypay"
     }
   ],
   "各種小売 / 衣服・靴・服飾品・カバン・バッグ": [
     {
       "name": "かどや",
-      "address": "遊佐字舞鶴200"
+      "address": "遊佐字舞鶴200",
+      "storeid": "yuza-5bb328",
+      "shopid": "yuza-5bb328-paypay"
     },
     {
       "name": "Oriori-japan",
-      "address": "遊佐字向田19"
+      "address": "遊佐字向田19",
+      "storeid": "yuza-ff76b5",
+      "shopid": "yuza-ff76b5-paypay"
     },
     {
       "name": "M木工",
-      "address": "遊佐字前田2-11"
+      "address": "遊佐字前田2-11",
+      "storeid": "yuza-fedf7f",
+      "shopid": "yuza-fedf7f-paypay"
     },
     {
       "name": "斎太郎",
-      "address": "遊佐字下高砂10ー2"
+      "address": "遊佐字下高砂10ー2",
+      "storeid": "yuza-4ddb73",
+      "shopid": "yuza-4ddb73-paypay"
     },
     {
       "name": "オビヤ",
-      "address": "遊佐字京田14-6"
+      "address": "遊佐字京田14-6",
+      "storeid": "yuza-c185f2",
+      "shopid": "yuza-c185f2-paypay"
     },
     {
       "name": "ファミリーファッションB-ハウス",
-      "address": "小原田字沼田12-1"
+      "address": "小原田字沼田12-1",
+      "storeid": "yuza-add236",
+      "shopid": "yuza-add236-paypay"
     }
   ],
   "各種小売 / 医薬品・化粧品・ドラッグストア": [
     {
       "name": "あおやまびじん遊佐店",
-      "address": "遊佐字新ラ田5-8"
+      "address": "遊佐字新ラ田5-8",
+      "storeid": "yuza-7db310",
+      "shopid": "yuza-7db310-paypay"
     }
   ],
   "各種小売 / 家電・家具・寝具・キッチン用品": [
     {
       "name": "あい電 こんの",
-      "address": "江地字出戸188"
+      "address": "江地字出戸188",
+      "storeid": "yuza-eba341",
+      "shopid": "yuza-eba341-paypay"
     },
     {
       "name": "マルトモ電器店",
-      "address": "遊佐字舞鶴135-23"
+      "address": "遊佐字舞鶴135-23",
+      "storeid": "yuza-00469e",
+      "shopid": "yuza-00469e-paypay"
     },
     {
       "name": "M木工",
-      "address": "遊佐字前田2-11"
+      "address": "遊佐字前田2-11",
+      "storeid": "yuza-fedf7f",
+      "shopid": "yuza-fedf7f-paypay"
     },
     {
       "name": "奥山電器",
-      "address": "遊佐字前田30-2"
+      "address": "遊佐字前田30-2",
+      "storeid": "yuza-c1656f",
+      "shopid": "yuza-c1656f-paypay"
     }
   ],
   "各種小売 / 花・植木・農耕具・ペット": [
     {
       "name": "JA庄内みどり遊佐園芸店舗",
-      "address": "遊佐字広表8"
+      "address": "遊佐字広表8",
+      "storeid": "yuza-cf2381",
+      "shopid": "yuza-cf2381-paypay"
     },
     {
       "name": "JA庄内みどり遊佐園芸資材センター",
-      "address": "庄泉字堅田35-2"
+      "address": "庄泉字堅田35-2",
+      "storeid": "yuza-ec4a77",
+      "shopid": "yuza-ec4a77-paypay"
     }
   ],
   "各種小売 / 酒類・リカーショップ": [
     {
       "name": "渋谷酒店",
-      "address": "遊佐字丸ノ内45-1"
+      "address": "遊佐字丸ノ内45-1",
+      "storeid": "yuza-9f2965",
+      "shopid": "yuza-9f2965-paypay"
     },
     {
       "name": "酒田醗酵",
-      "address": "藤崎字茂り松2-1174"
+      "address": "藤崎字茂り松2-1174",
+      "storeid": "yuza-a2cb31",
+      "shopid": "yuza-a2cb31-paypay"
     },
     {
       "name": "月光川蒸留所",
-      "address": "菅里字菅野37-14"
+      "address": "菅里字菅野37-14",
+      "storeid": "yuza-bbc191",
+      "shopid": "yuza-bbc191-paypay"
     }
   ],
   "各種小売 / 書籍・文具・楽器・スポーツ・自転車・おもちゃ・CD・DVD": [
     {
       "name": "シブヤ風〜工房",
-      "address": "遊佐字川端9"
+      "address": "遊佐字川端9",
+      "storeid": "yuza-2ab14b",
+      "shopid": "yuza-2ab14b-paypay"
     },
     {
       "name": "ユザスポーツ",
-      "address": "遊佐字高砂40"
+      "address": "遊佐字高砂40",
+      "storeid": "yuza-75ae99",
+      "shopid": "yuza-75ae99-paypay"
     },
     {
       "name": "ブックスほんま",
-      "address": "小原田字沼田12-1"
+      "address": "小原田字沼田12-1",
+      "storeid": "yuza-5d170f",
+      "shopid": "yuza-5d170f-paypay"
     }
   ],
   "各種小売 / 食品スーパー": [
     {
       "name": "Aコープ遊佐支店",
-      "address": "吹浦字苗代37"
+      "address": "吹浦字苗代37",
+      "storeid": "yuza-241d92",
+      "shopid": "yuza-241d92-paypay"
     },
     {
       "name": "Aコープ吹浦支店",
-      "address": "遊佐字広表6-1"
+      "address": "遊佐字広表6-1",
+      "storeid": "yuza-f8af54",
+      "shopid": "yuza-f8af54-paypay"
     },
     {
       "name": "遊佐FUN菜彩マルシェ",
-      "address": "比子字青塚31-38"
+      "address": "比子字青塚31-38",
+      "storeid": "yuza-100ef2",
+      "shopid": "yuza-100ef2-paypay"
     }
   ],
   "各種小売 / 食品販売店": [
     {
       "name": "すまいる・みるくステーション",
-      "address": "遊佐字南田筋53-3"
+      "address": "遊佐字南田筋53-3",
+      "storeid": "yuza-a5f419",
+      "shopid": "yuza-a5f419-paypay"
     },
     {
       "name": "グリーンストア",
-      "address": "遊佐字京田90-1"
+      "address": "遊佐字京田90-1",
+      "storeid": "yuza-201ebc",
+      "shopid": "yuza-201ebc-paypay"
     },
     {
       "name": "ヤマサ鮮魚",
-      "address": "菅里字菅野310-3"
+      "address": "菅里字菅野310-3",
+      "storeid": "yuza-4ba307",
+      "shopid": "yuza-4ba307-paypay"
     },
     {
       "name": "庄内米産直店   土門商店",
-      "address": "小原田字沼田9-2"
+      "address": "小原田字沼田9-2",
+      "storeid": "yuza-f8d218",
+      "shopid": "yuza-f8d218-paypay"
     },
     {
       "name": "庄内ライス",
-      "address": "藤崎字茂り松2-1168"
+      "address": "藤崎字茂り松2-1168",
+      "storeid": "yuza-f7113e",
+      "shopid": "yuza-f7113e-paypay"
     },
     {
       "name": "つつい米穀店",
-      "address": "吹浦字横町27"
+      "address": "吹浦字横町27",
+      "storeid": "yuza-ef994f",
+      "shopid": "yuza-ef994f-paypay"
     },
     {
       "name": "さんゆう",
-      "address": "吉出字金俣239-5"
+      "address": "吉出字金俣239-5",
+      "storeid": "yuza-d38436",
+      "shopid": "yuza-d38436-paypay"
     },
     {
       "name": "斎藤鮮魚店",
-      "address": "遊佐吉出字和田6"
+      "address": "遊佐吉出字和田6",
+      "storeid": "yuza-e086ac",
+      "shopid": "yuza-e086ac-paypay"
     },
     {
       "name": "道の駅   鳥海ふらっと   元気な浜店",
-      "address": "菅里字菅野308-1"
+      "address": "菅里字菅野308-1",
+      "storeid": "yuza-bd1de8",
+      "shopid": "yuza-bd1de8-paypay"
     },
     {
       "name": "道の駅   鳥海ふらっと   ひまわりの会",
-      "address": "菅里字菅野308-1"
+      "address": "菅里字菅野308-1",
+      "storeid": "yuza-c887ca",
+      "shopid": "yuza-c887ca-paypay"
     },
     {
       "name": "マルジン",
-      "address": "菅里字菅野308-8"
+      "address": "菅里字菅野308-8",
+      "storeid": "yuza-e08c84",
+      "shopid": "yuza-e08c84-paypay"
     },
     {
       "name": "まえむき。FARM＆SHOP",
-      "address": "遊佐高砂22-1"
+      "address": "遊佐高砂22-1",
+      "storeid": "yuza-41a090",
+      "shopid": "yuza-41a090-paypay"
     },
     {
       "name": "たむちゃん農園",
-      "address": "藤崎字家ノ上13番地"
+      "address": "藤崎字家ノ上13番地",
+      "storeid": "yuza-ab153d",
+      "shopid": "yuza-ab153d-paypay"
     },
     {
       "name": "Re:amicale",
-      "address": "比子字青塚31-38"
+      "address": "比子字青塚31-38",
+      "storeid": "yuza-cdda8b",
+      "shopid": "yuza-cdda8b-paypay"
     },
     {
       "name": "じろべ農園",
-      "address": "遊佐字上曽根田56"
+      "address": "遊佐字上曽根田56",
+      "storeid": "yuza-b9277b",
+      "shopid": "yuza-b9277b-paypay"
     },
     {
       "name": "ハーモニー農園",
-      "address": "比子服部興野99"
+      "address": "比子服部興野99",
+      "storeid": "yuza-0ee23d",
+      "shopid": "yuza-0ee23d-paypay"
     }
   ],
   "交通・宅配・運転代行 / タクシー": [
     {
       "name": "介護タクシー   美助っ人",
-      "address": "富岡字道内54"
+      "address": "富岡字道内54",
+      "storeid": "yuza-48f90d",
+      "shopid": "yuza-48f90d-paypay"
     },
     {
       "name": "酒田合同タクシー",
-      "address": "遊佐京田52-1"
+      "address": "遊佐京田52-1",
+      "storeid": "yuza-0dd547",
+      "shopid": "yuza-0dd547-paypay"
     },
     {
       "name": "酒田第一タクシー",
-      "address": "遊佐字京田61"
+      "address": "遊佐字京田61",
+      "storeid": "yuza-5912d7",
+      "shopid": "yuza-5912d7-paypay"
     }
   ]
 }
