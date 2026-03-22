@@ -1,0 +1,2934 @@
+{
+  "サービス / エステティックサロン": [
+    {
+      "name": "Brillio",
+      "address": "南台2-12-3",
+      "storeid": "ishioka-144dad",
+      "shopid": "ishioka-144dad-paypay"
+    },
+    {
+      "name": "Fleur",
+      "address": "旭台2-8-9",
+      "storeid": "ishioka-c35206",
+      "shopid": "ishioka-c35206-paypay"
+    },
+    {
+      "name": "Total Beauty Salon oluolu",
+      "address": "国府2-5-31",
+      "storeid": "ishioka-1f44b7",
+      "shopid": "ishioka-1f44b7-paypay"
+    },
+    {
+      "name": "イヤーエステサロン MONTY",
+      "address": "東石岡5-1-12",
+      "storeid": "ishioka-2bfd9c",
+      "shopid": "ishioka-2bfd9c-paypay"
+    },
+    {
+      "name": "エステサロンクオン",
+      "address": "茨城1-4-35",
+      "storeid": "ishioka-172755",
+      "shopid": "ishioka-172755-paypay"
+    },
+    {
+      "name": "エステティックカレン",
+      "address": "東石岡3-1-30",
+      "storeid": "ishioka-612513",
+      "shopid": "ishioka-612513-paypay"
+    },
+    {
+      "name": "サボテンの花。by VTG 石岡店",
+      "address": "南台2-15-1",
+      "storeid": "ishioka-dd9c9e",
+      "shopid": "ishioka-dd9c9e-paypay"
+    },
+    {
+      "name": "サロンエステティック Rouge",
+      "address": "若宮3-2-41",
+      "storeid": "ishioka-3e063e",
+      "shopid": "ishioka-3e063e-paypay"
+    },
+    {
+      "name": "ネイルサロンティファニー石岡店",
+      "address": "柿岡3235-1",
+      "storeid": "ishioka-5bf2db",
+      "shopid": "ishioka-5bf2db-paypay"
+    },
+    {
+      "name": "美・空間 Yuwabi",
+      "address": "旭台2-15-3",
+      "storeid": "ishioka-8cc259",
+      "shopid": "ishioka-8cc259-paypay"
+    }
+  ],
+  "サービス / スポーツ施設・フィットネスクラブ": [
+    {
+      "name": "カーブス 石岡杉並",
+      "address": "杉並4-5-43",
+      "storeid": "ishioka-fffb9a",
+      "shopid": "ishioka-fffb9a-paypay"
+    },
+    {
+      "name": "パーソナル  トレーニング  ジム  body-one DAHLIA",
+      "address": "茨城1-5-2",
+      "storeid": "ishioka-da2bc3",
+      "shopid": "ishioka-da2bc3-paypay"
+    },
+    {
+      "name": "フラーダマナ",
+      "address": "三村",
+      "storeid": "ishioka-dcfe39",
+      "shopid": "ishioka-dcfe39-paypay"
+    },
+    {
+      "name": "ポークたまごおにぎり専門店  South Point",
+      "address": "茨城1-5-2",
+      "storeid": "ishioka-4ed4f3",
+      "shopid": "ishioka-4ed4f3-paypay"
+    },
+    {
+      "name": "梟",
+      "address": "国府5-8-25",
+      "storeid": "ishioka-8f4d51",
+      "shopid": "ishioka-8f4d51-paypay"
+    }
+  ],
+  "サービス / その他": [
+    {
+      "name": "（有）広瀬石材店 本店",
+      "address": "府中1-6-11",
+      "storeid": "ishioka-d21da0",
+      "shopid": "ishioka-d21da0-paypay"
+    },
+    {
+      "name": "（有）広瀬石材店 鹿の子事務所",
+      "address": "鹿の子1-2-4",
+      "storeid": "ishioka-3b8229",
+      "shopid": "ishioka-3b8229-paypay"
+    },
+    {
+      "name": "*n-youga",
+      "address": "旭台1-11-8",
+      "storeid": "ishioka-f4f413",
+      "shopid": "ishioka-f4f413-paypay"
+    },
+    {
+      "name": "AlohaBody",
+      "address": "石岡2378-19",
+      "storeid": "ishioka-cbc1cc",
+      "shopid": "ishioka-cbc1cc-paypay"
+    },
+    {
+      "name": "Cheerful  Smile VIELISS",
+      "address": "石岡14004-4",
+      "storeid": "ishioka-e3fcfe",
+      "shopid": "ishioka-e3fcfe-paypay"
+    },
+    {
+      "name": "FITNESS STUDIO Pignon",
+      "address": "石岡13906−10",
+      "storeid": "ishioka-4568f7",
+      "shopid": "ishioka-4568f7-paypay"
+    },
+    {
+      "name": "INVISIBLE",
+      "address": "山崎2247-97",
+      "storeid": "ishioka-20e3ce",
+      "shopid": "ishioka-20e3ce-paypay"
+    },
+    {
+      "name": "五感を癒すリトリートサロン Nana-la",
+      "address": "碁石沢10864−1",
+      "storeid": "ishioka-9d55f7",
+      "shopid": "ishioka-9d55f7-paypay"
+    },
+    {
+      "name": "Salon apaiser",
+      "address": "府中1-7-5",
+      "storeid": "ishioka-dcddc2",
+      "shopid": "ishioka-dcddc2-paypay"
+    },
+    {
+      "name": "Soratopia",
+      "address": "小屋576-1",
+      "storeid": "ishioka-bfe242",
+      "shopid": "ishioka-bfe242-paypay"
+    },
+    {
+      "name": "SHARE SPACE SUZU",
+      "address": "総社2-5-22",
+      "storeid": "ishioka-e56513",
+      "shopid": "ishioka-e56513-paypay"
+    },
+    {
+      "name": "Total Beauty cocochii",
+      "address": "旭台1-5-10",
+      "storeid": "ishioka-32fc90",
+      "shopid": "ishioka-32fc90-paypay"
+    },
+    {
+      "name": "VTG eyelash 石岡店",
+      "address": "南台2-15-1",
+      "storeid": "ishioka-4ca157",
+      "shopid": "ishioka-4ca157-paypay"
+    },
+    {
+      "name": "YASATO   Base",
+      "address": "半田940-2",
+      "storeid": "ishioka-d1d733",
+      "shopid": "ishioka-d1d733-paypay"
+    },
+    {
+      "name": "アイビックラルーチェ",
+      "address": "石岡13462-13",
+      "storeid": "ishioka-341779",
+      "shopid": "ishioka-341779-paypay"
+    },
+    {
+      "name": "ウインドスポーツ",
+      "address": "大増280",
+      "storeid": "ishioka-0e9df7",
+      "shopid": "ishioka-0e9df7-paypay"
+    },
+    {
+      "name": "エアパークCOOパラグライダースクール",
+      "address": "上曽1698-1",
+      "storeid": "ishioka-3c50cb",
+      "shopid": "ishioka-3c50cb-paypay"
+    },
+    {
+      "name": "カラオケ館 石岡店",
+      "address": "石岡3055-10",
+      "storeid": "ishioka-8a1983",
+      "shopid": "ishioka-8a1983-paypay"
+    },
+    {
+      "name": "ここりら石岡",
+      "address": "八軒台2-28",
+      "storeid": "ishioka-27f016",
+      "shopid": "ishioka-27f016-paypay"
+    },
+    {
+      "name": "スークチャイ",
+      "address": "大砂10402-4",
+      "storeid": "ishioka-11b867",
+      "shopid": "ishioka-11b867-paypay"
+    },
+    {
+      "name": "ツリードクターメーリング",
+      "address": "石岡13918-10",
+      "storeid": "ishioka-0cea81",
+      "shopid": "ishioka-0cea81-paypay"
+    },
+    {
+      "name": "アン・フルール",
+      "address": "国府6-1-2",
+      "storeid": "ishioka-8d61f6",
+      "shopid": "ishioka-8d61f6-paypay"
+    },
+    {
+      "name": "バンハオ  タイ古式",
+      "address": "石岡2-8-4",
+      "storeid": "ishioka-bd7371",
+      "shopid": "ishioka-bd7371-paypay"
+    },
+    {
+      "name": "フィジカル  ウェル  ビーイング",
+      "address": "東大橋1517-5",
+      "storeid": "ishioka-a80bb4",
+      "shopid": "ishioka-a80bb4-paypay"
+    },
+    {
+      "name": "りらくる 石岡店",
+      "address": "旭台1-12-12",
+      "storeid": "ishioka-0f1c29",
+      "shopid": "ishioka-0f1c29-paypay"
+    },
+    {
+      "name": "縁咲く",
+      "address": "碁石沢10864-1",
+      "storeid": "ishioka-730659",
+      "shopid": "ishioka-730659-paypay"
+    },
+    {
+      "name": "（株）シンコーシステム",
+      "address": "北府中1-7-71",
+      "storeid": "ishioka-5d0a8d",
+      "shopid": "ishioka-5d0a8d-paypay"
+    },
+    {
+      "name": "肩こりらく～ん",
+      "address": "東光台3-8-4",
+      "storeid": "ishioka-fe269d",
+      "shopid": "ishioka-fe269d-paypay"
+    },
+    {
+      "name": "黒沢カイロプラクティック院",
+      "address": "国府2-2-9",
+      "storeid": "ishioka-03d53f",
+      "shopid": "ishioka-03d53f-paypay"
+    },
+    {
+      "name": "骨盤調整＆美容整体ふくまる",
+      "address": "石岡2383-1",
+      "storeid": "ishioka-d8b5f0",
+      "shopid": "ishioka-d8b5f0-paypay"
+    },
+    {
+      "name": "整体サロン ウッドベル",
+      "address": "瓦谷2480",
+      "storeid": "ishioka-bd3729",
+      "shopid": "ishioka-bd3729-paypay"
+    },
+    {
+      "name": "石岡サロン  アンジェラ",
+      "address": "柿岡1637-11",
+      "storeid": "ishioka-fda007",
+      "shopid": "ishioka-fda007-paypay"
+    },
+    {
+      "name": "中村写真館",
+      "address": "国府2-1-11",
+      "storeid": "ishioka-8911f0",
+      "shopid": "ishioka-8911f0-paypay"
+    },
+    {
+      "name": "嶋村観光果樹園",
+      "address": "小幡1977-1",
+      "storeid": "ishioka-070316",
+      "shopid": "ishioka-070316-paypay"
+    },
+    {
+      "name": "南台カイロプラクティック",
+      "address": "南台3-31-7",
+      "storeid": "ishioka-db55b7",
+      "shopid": "ishioka-db55b7-paypay"
+    },
+    {
+      "name": "馬小屋  風来里",
+      "address": "小屋716-16",
+      "storeid": "ishioka-d47125",
+      "shopid": "ishioka-d47125-paypay"
+    },
+    {
+      "name": "八郷葦穂窯",
+      "address": "小屋727-9",
+      "storeid": "ishioka-b859eb",
+      "shopid": "ishioka-b859eb-paypay"
+    }
+  ],
+  "サービス / ハウスクリーニング（衣服洗濯業以外）": [
+    {
+      "name": "MIXMAXFACTORY ピアシティ石岡店",
+      "address": "石岡2222-2",
+      "storeid": "ishioka-cc1838",
+      "shopid": "ishioka-cc1838-paypay"
+    },
+    {
+      "name": "アサヒクリーニング",
+      "address": "東光台5-11-24",
+      "storeid": "ishioka-6c3ed3",
+      "shopid": "ishioka-6c3ed3-paypay"
+    },
+    {
+      "name": "うさちゃんクリーニング ヨークベニマル石岡店",
+      "address": "東大橋1937-1",
+      "storeid": "ishioka-4dc51b",
+      "shopid": "ishioka-4dc51b-paypay"
+    },
+    {
+      "name": "クリーニング専科石岡運動公園前店",
+      "address": "東石岡4-10-36",
+      "storeid": "ishioka-5a9d45",
+      "shopid": "ishioka-5a9d45-paypay"
+    },
+    {
+      "name": "クリーニング専科八郷下林店",
+      "address": "下林321",
+      "storeid": "ishioka-ef4534",
+      "shopid": "ishioka-ef4534-paypay"
+    },
+    {
+      "name": "モリ幸クリーニング",
+      "address": "国府1-5-18",
+      "storeid": "ishioka-0d081c",
+      "shopid": "ishioka-0d081c-paypay"
+    },
+    {
+      "name": "ランドリー専科石岡運動公園店",
+      "address": "東田中1322-8",
+      "storeid": "ishioka-3b1c7c",
+      "shopid": "ishioka-3b1c7c-paypay"
+    }
+  ],
+  "サービス / ホテル・旅館・レジャー・浴場": [
+    {
+      "name": "Dane＆KerryDogResort",
+      "address": "国府1-6-33",
+      "storeid": "ishioka-4c7eda",
+      "shopid": "ishioka-4c7eda-paypay"
+    },
+    {
+      "name": "HOTEL SOSHA",
+      "address": "府中1-10-11",
+      "storeid": "ishioka-0de610",
+      "shopid": "ishioka-0de610-paypay"
+    },
+    {
+      "name": "ホテル橋本楼",
+      "address": "府中2-1-29",
+      "storeid": "ishioka-18e19b",
+      "shopid": "ishioka-18e19b-paypay"
+    },
+    {
+      "name": "やさとの湯  石岡健康センター",
+      "address": "真家2633-3",
+      "storeid": "ishioka-77db8b",
+      "shopid": "ishioka-77db8b-paypay"
+    },
+    {
+      "name": "花やさと山",
+      "address": "下青柳282-1",
+      "storeid": "ishioka-c8694f",
+      "shopid": "ishioka-c8694f-paypay"
+    },
+    {
+      "name": "割烹旅館いづみ荘",
+      "address": "高浜735",
+      "storeid": "ishioka-1c7637",
+      "shopid": "ishioka-1c7637-paypay"
+    },
+    {
+      "name": "古民家ゲストハウスjicca",
+      "address": "加生野392-1",
+      "storeid": "ishioka-cdacca",
+      "shopid": "ishioka-cdacca-paypay"
+    }
+  ],
+  "サービス / リース・レンタル": [
+    {
+      "name": "筑波山つつじヶ丘駐車場",
+      "address": "小幡2133-12",
+      "storeid": "ishioka-8042e0",
+      "shopid": "ishioka-8042e0-paypay"
+    }
+  ],
+  "サービス / 医療相談、法律相談": [
+    {
+      "name": "若山行政書士事務所",
+      "address": "柿岡2323",
+      "storeid": "ishioka-7d23ce",
+      "shopid": "ishioka-7d23ce-paypay"
+    }
+  ],
+  "サービス / 学習塾・語学教室・パソコン教室・カルチャースクール": [
+    {
+      "name": "Chimney Music Room",
+      "address": "旭台3-3-13",
+      "storeid": "ishioka-5f96dc",
+      "shopid": "ishioka-5f96dc-paypay"
+    },
+    {
+      "name": "English Adventureえいごあそび 石岡教室",
+      "address": "杉並3-3-15",
+      "storeid": "ishioka-2b0adc",
+      "shopid": "ishioka-2b0adc-paypay"
+    },
+    {
+      "name": "おとのわスタジオ",
+      "address": "上林834",
+      "storeid": "ishioka-177f44",
+      "shopid": "ishioka-177f44-paypay"
+    }
+  ],
+  "サービス / 自動車整備・各種修理": [
+    {
+      "name": "ミスタータイヤマンオオツカ",
+      "address": "鹿の子1-14-20",
+      "storeid": "ishioka-df7c4b",
+      "shopid": "ishioka-df7c4b-paypay"
+    },
+    {
+      "name": "（株）荒野自動車",
+      "address": "貝地2-5-12",
+      "storeid": "ishioka-a7b2db",
+      "shopid": "ishioka-a7b2db-paypay"
+    },
+    {
+      "name": "（有）エースボディ",
+      "address": "山崎2232",
+      "storeid": "ishioka-e62f43",
+      "shopid": "ishioka-e62f43-paypay"
+    },
+    {
+      "name": "（有）反町自動車商会",
+      "address": "若宮3-2-17",
+      "storeid": "ishioka-1e6ff6",
+      "shopid": "ishioka-1e6ff6-paypay"
+    },
+    {
+      "name": "（株）tocowaka",
+      "address": "並木1-1",
+      "storeid": "ishioka-e6cc3c",
+      "shopid": "ishioka-e6cc3c-paypay"
+    },
+    {
+      "name": "（株）カーペインターズ",
+      "address": "中津川131-3",
+      "storeid": "ishioka-9e533a",
+      "shopid": "ishioka-9e533a-paypay"
+    },
+    {
+      "name": "（株）新治自動車",
+      "address": "鹿の子2-8-10",
+      "storeid": "ishioka-b447a7",
+      "shopid": "ishioka-b447a7-paypay"
+    },
+    {
+      "name": "（株）新治自動車 ペットセレモニー天使のつばさ石岡店",
+      "address": "鹿の子2-8-10",
+      "storeid": "ishioka-dc6a08",
+      "shopid": "ishioka-dc6a08-paypay"
+    },
+    {
+      "name": "（有）横山自動車工業所",
+      "address": "国府7-2-44",
+      "storeid": "ishioka-592b41",
+      "shopid": "ishioka-592b41-paypay"
+    },
+    {
+      "name": "C・H・Kレーシングサービス",
+      "address": "大砂10381-14",
+      "storeid": "ishioka-c57782",
+      "shopid": "ishioka-c57782-paypay"
+    },
+    {
+      "name": "Hammar Design",
+      "address": "谷向町3-36",
+      "storeid": "ishioka-7e7fdd",
+      "shopid": "ishioka-7e7fdd-paypay"
+    },
+    {
+      "name": "MC   FACTORY",
+      "address": "小見630-2",
+      "storeid": "ishioka-622860",
+      "shopid": "ishioka-622860-paypay"
+    },
+    {
+      "name": "MTMタイヤハウスしばやま",
+      "address": "東大橋3195-17",
+      "storeid": "ishioka-5e7487",
+      "shopid": "ishioka-5e7487-paypay"
+    },
+    {
+      "name": "SKY  WORK   AGRISS",
+      "address": "鹿の子1-7-44",
+      "storeid": "ishioka-665c33",
+      "shopid": "ishioka-665c33-paypay"
+    },
+    {
+      "name": "アイカーズ石岡",
+      "address": "正上内30-10",
+      "storeid": "ishioka-ce3f76",
+      "shopid": "ishioka-ce3f76-paypay"
+    },
+    {
+      "name": "アトリエステラ",
+      "address": "府中2-7-3",
+      "storeid": "ishioka-1e2d5c",
+      "shopid": "ishioka-1e2d5c-paypay"
+    },
+    {
+      "name": "エムズファクトリー",
+      "address": "貝地1-10-33",
+      "storeid": "ishioka-4dbc0d",
+      "shopid": "ishioka-4dbc0d-paypay"
+    },
+    {
+      "name": "オートガレージイレブン",
+      "address": "東光台4-12-1",
+      "storeid": "ishioka-57a442",
+      "shopid": "ishioka-57a442-paypay"
+    },
+    {
+      "name": "オートサービスイタコ（株） 石岡店",
+      "address": "石岡14034",
+      "storeid": "ishioka-444731",
+      "shopid": "ishioka-444731-paypay"
+    },
+    {
+      "name": "オートサービスカムカム",
+      "address": "柴間411-1",
+      "storeid": "ishioka-a10839",
+      "shopid": "ishioka-a10839-paypay"
+    },
+    {
+      "name": "カーリペア  プライム",
+      "address": "東光台4-1-17",
+      "storeid": "ishioka-351f64",
+      "shopid": "ishioka-351f64-paypay"
+    },
+    {
+      "name": "スズキアリーナ 石岡",
+      "address": "石岡13462-34",
+      "storeid": "ishioka-a6a00e",
+      "shopid": "ishioka-a6a00e-paypay"
+    },
+    {
+      "name": "タイヤステーション",
+      "address": "谷向町20-37",
+      "storeid": "ishioka-268057",
+      "shopid": "ishioka-268057-paypay"
+    },
+    {
+      "name": "タガミオートワークス",
+      "address": "鯨岡900",
+      "storeid": "ishioka-144b35",
+      "shopid": "ishioka-144b35-paypay"
+    },
+    {
+      "name": "テーオー商会",
+      "address": "北根本688",
+      "storeid": "ishioka-2a4402",
+      "shopid": "ishioka-2a4402-paypay"
+    },
+    {
+      "name": "花和自動車",
+      "address": "東成井558",
+      "storeid": "ishioka-71bb7b",
+      "shopid": "ishioka-71bb7b-paypay"
+    },
+    {
+      "name": "柿岡自動車",
+      "address": "柿岡1595-7",
+      "storeid": "ishioka-79b77c",
+      "shopid": "ishioka-79b77c-paypay"
+    },
+    {
+      "name": "関川タイヤ商会",
+      "address": "鹿の子2-14-4",
+      "storeid": "ishioka-a11a2e",
+      "shopid": "ishioka-a11a2e-paypay"
+    },
+    {
+      "name": "久保田自動車整備工場",
+      "address": "柿岡2281-3",
+      "storeid": "ishioka-8e81b9",
+      "shopid": "ishioka-8e81b9-paypay"
+    },
+    {
+      "name": "若山自動車",
+      "address": "杉の井10-3",
+      "storeid": "ishioka-65f7ac",
+      "shopid": "ishioka-65f7ac-paypay"
+    },
+    {
+      "name": "秋山自動車工業所",
+      "address": "瓦谷1135",
+      "storeid": "ishioka-74098e",
+      "shopid": "ishioka-74098e-paypay"
+    },
+    {
+      "name": "出張洗車粋洗",
+      "address": "東石岡5-4-10",
+      "storeid": "ishioka-bc9441",
+      "shopid": "ishioka-bc9441-paypay"
+    },
+    {
+      "name": "小林自動車整備工場",
+      "address": "川又421-4",
+      "storeid": "ishioka-c9171f",
+      "shopid": "ishioka-c9171f-paypay"
+    },
+    {
+      "name": "石橋自動車商会",
+      "address": "貝地１-１-44",
+      "storeid": "ishioka-f14d3c",
+      "shopid": "ishioka-f14d3c-paypay"
+    },
+    {
+      "name": "石塚自動車整備工場",
+      "address": "川又759-3",
+      "storeid": "ishioka-eaebac",
+      "shopid": "ishioka-eaebac-paypay"
+    },
+    {
+      "name": "長谷川自動車整備工場",
+      "address": "柿岡2720-2",
+      "storeid": "ishioka-2f3ea0",
+      "shopid": "ishioka-2f3ea0-paypay"
+    },
+    {
+      "name": "塚本自動車工業",
+      "address": "小幡3404-2",
+      "storeid": "ishioka-92e570",
+      "shopid": "ishioka-92e570-paypay"
+    },
+    {
+      "name": "島田モータース",
+      "address": "若松1-10-2",
+      "storeid": "ishioka-311b4c",
+      "shopid": "ishioka-311b4c-paypay"
+    },
+    {
+      "name": "二輪駆楽舞",
+      "address": "若松2-2-26",
+      "storeid": "ishioka-550c3a",
+      "shopid": "ishioka-550c3a-paypay"
+    },
+    {
+      "name": "鈴木自動車整備工場",
+      "address": "小幡3242",
+      "storeid": "ishioka-f52a78",
+      "shopid": "ishioka-f52a78-paypay"
+    }
+  ],
+  "サービス / 住宅建設・リフォーム": [
+    {
+      "name": "Art Forest",
+      "address": "中津川631",
+      "storeid": "ishioka-c2f37b",
+      "shopid": "ishioka-c2f37b-paypay"
+    },
+    {
+      "name": "FLOWIZM",
+      "address": "東石岡2-4-16",
+      "storeid": "ishioka-d3c7a9",
+      "shopid": "ishioka-d3c7a9-paypay"
+    },
+    {
+      "name": "Function",
+      "address": "若松3-7-55",
+      "storeid": "ishioka-544f5b",
+      "shopid": "ishioka-544f5b-paypay"
+    },
+    {
+      "name": "イシイ畳リフォーム",
+      "address": "大谷津3-10",
+      "storeid": "ishioka-8b2843",
+      "shopid": "ishioka-8b2843-paypay"
+    },
+    {
+      "name": "リフォームの関川",
+      "address": "旭台2-18-11",
+      "storeid": "ishioka-3565b7",
+      "shopid": "ishioka-3565b7-paypay"
+    },
+    {
+      "name": "霞美装",
+      "address": "国府4-3-24",
+      "storeid": "ishioka-c64b1a",
+      "shopid": "ishioka-c64b1a-paypay"
+    },
+    {
+      "name": "建築工房陽向",
+      "address": "半田1034-1",
+      "storeid": "ishioka-5618f2",
+      "shopid": "ishioka-5618f2-paypay"
+    },
+    {
+      "name": "根本総業 石岡小美玉店",
+      "address": "東石岡3-15-5",
+      "storeid": "ishioka-9f8afb",
+      "shopid": "ishioka-9f8afb-paypay"
+    },
+    {
+      "name": "松本電工",
+      "address": "石岡2523-7",
+      "storeid": "ishioka-ef3010",
+      "shopid": "ishioka-ef3010-paypay"
+    },
+    {
+      "name": "島田住設（有）",
+      "address": "府中2-4-38",
+      "storeid": "ishioka-68612b",
+      "shopid": "ishioka-68612b-paypay"
+    }
+  ],
+  "サービス / 美容業": [
+    {
+      "name": "anthos",
+      "address": "東大橋2039-1",
+      "storeid": "ishioka-57fb8e",
+      "shopid": "ishioka-57fb8e-paypay"
+    },
+    {
+      "name": "At's salon",
+      "address": "府中1-8-17",
+      "storeid": "ishioka-6d94d6",
+      "shopid": "ishioka-6d94d6-paypay"
+    },
+    {
+      "name": "BARBER   ANGLERS",
+      "address": "石岡13462-22",
+      "storeid": "ishioka-2ae8ec",
+      "shopid": "ishioka-2ae8ec-paypay"
+    },
+    {
+      "name": "Beauty&Life Style Spot Mahalo",
+      "address": "八軒台11-16",
+      "storeid": "ishioka-6c04b9",
+      "shopid": "ishioka-6c04b9-paypay"
+    },
+    {
+      "name": "Belle   Sweet",
+      "address": "東石岡5-2-35",
+      "storeid": "ishioka-ed413e",
+      "shopid": "ishioka-ed413e-paypay"
+    },
+    {
+      "name": "BivitNail",
+      "address": "根当11778-40",
+      "storeid": "ishioka-d731d5",
+      "shopid": "ishioka-d731d5-paypay"
+    },
+    {
+      "name": "Bloom",
+      "address": "東大橋3194-5",
+      "storeid": "ishioka-be54c1",
+      "shopid": "ishioka-be54c1-paypay"
+    },
+    {
+      "name": "CHARIS   HairSalon",
+      "address": "東石岡5-7-22",
+      "storeid": "ishioka-896f41",
+      "shopid": "ishioka-896f41-paypay"
+    },
+    {
+      "name": "Color Hair 石岡店",
+      "address": "東光台5-11-30",
+      "storeid": "ishioka-c2b587",
+      "shopid": "ishioka-c2b587-paypay"
+    },
+    {
+      "name": "Color Hair 石岡店",
+      "address": "南台3-21-36",
+      "storeid": "ishioka-38dd1c",
+      "shopid": "ishioka-38dd1c-paypay"
+    },
+    {
+      "name": "DAHLIA",
+      "address": "茨城1-5-2",
+      "storeid": "ishioka-2d9762",
+      "shopid": "ishioka-2d9762-paypay"
+    },
+    {
+      "name": "Esthe & Nail  Facil",
+      "address": "東大橋2001-12",
+      "storeid": "ishioka-80bc96",
+      "shopid": "ishioka-80bc96-paypay"
+    },
+    {
+      "name": "freak 石岡店",
+      "address": "国府4-3-26",
+      "storeid": "ishioka-4c9895",
+      "shopid": "ishioka-4c9895-paypay"
+    },
+    {
+      "name": "GALAXY 石岡店",
+      "address": "南台2-9-3",
+      "storeid": "ishioka-fd986f",
+      "shopid": "ishioka-fd986f-paypay"
+    },
+    {
+      "name": "GRANSHEL",
+      "address": "若松2-13-24",
+      "storeid": "ishioka-a3e2d0",
+      "shopid": "ishioka-a3e2d0-paypay"
+    },
+    {
+      "name": "hair   room   acies",
+      "address": "山崎967-234",
+      "storeid": "ishioka-d530a3",
+      "shopid": "ishioka-d530a3-paypay"
+    },
+    {
+      "name": "Hair Salon Charme",
+      "address": "石岡2312-2",
+      "storeid": "ishioka-9cc84c",
+      "shopid": "ishioka-9cc84c-paypay"
+    },
+    {
+      "name": "JAYA",
+      "address": "東光台2-6-6",
+      "storeid": "ishioka-3aa178",
+      "shopid": "ishioka-3aa178-paypay"
+    },
+    {
+      "name": "Legare 本店",
+      "address": "府中4-6-4",
+      "storeid": "ishioka-f765e6",
+      "shopid": "ishioka-f765e6-paypay"
+    },
+    {
+      "name": "LILYHairSalon",
+      "address": "東大橋1977-1",
+      "storeid": "ishioka-960632",
+      "shopid": "ishioka-960632-paypay"
+    },
+    {
+      "name": "MAQUIA 石岡店",
+      "address": "東大橋3194-5",
+      "storeid": "ishioka-9a0f92",
+      "shopid": "ishioka-9a0f92-paypay"
+    },
+    {
+      "name": "MARU",
+      "address": "東成井2770-4-2",
+      "storeid": "ishioka-0aa4e2",
+      "shopid": "ishioka-0aa4e2-paypay"
+    },
+    {
+      "name": "NailsalonRaffine",
+      "address": "東田中1505-17",
+      "storeid": "ishioka-3053b6",
+      "shopid": "ishioka-3053b6-paypay"
+    },
+    {
+      "name": "organic salon Nicole",
+      "address": "南台1-37-15",
+      "storeid": "ishioka-cbff24",
+      "shopid": "ishioka-cbff24-paypay"
+    },
+    {
+      "name": "Rible",
+      "address": "石岡13446-2",
+      "storeid": "ishioka-3ba5db",
+      "shopid": "ishioka-3ba5db-paypay"
+    },
+    {
+      "name": "Riyohこまつ",
+      "address": "瓦谷414-2",
+      "storeid": "ishioka-c9e8f0",
+      "shopid": "ishioka-c9e8f0-paypay"
+    },
+    {
+      "name": "salondesoA",
+      "address": "東光台3-1-16",
+      "storeid": "ishioka-22f91b",
+      "shopid": "ishioka-22f91b-paypay"
+    },
+    {
+      "name": "SKILL 石岡店",
+      "address": "石岡1-8-5",
+      "storeid": "ishioka-9c0b9c",
+      "shopid": "ishioka-9c0b9c-paypay"
+    },
+    {
+      "name": "UNISON",
+      "address": "国府3-5-3",
+      "storeid": "ishioka-6eb2c1",
+      "shopid": "ishioka-6eb2c1-paypay"
+    },
+    {
+      "name": "ursus by HEADLIGHT 石岡6号線店",
+      "address": "石岡14046-2",
+      "storeid": "ishioka-92cded",
+      "shopid": "ishioka-92cded-paypay"
+    },
+    {
+      "name": "ursus hair Design by HEADLIGHT 石岡店",
+      "address": "東府中1-13",
+      "storeid": "ishioka-8b6405",
+      "shopid": "ishioka-8b6405-paypay"
+    },
+    {
+      "name": "アクセスムーン石岡店",
+      "address": "石岡2222-2",
+      "storeid": "ishioka-5427c1",
+      "shopid": "ishioka-5427c1-paypay"
+    },
+    {
+      "name": "いなせ 石岡店",
+      "address": "南台2-9-3",
+      "storeid": "ishioka-d3bfe5",
+      "shopid": "ishioka-d3bfe5-paypay"
+    },
+    {
+      "name": "ウイングハーツ",
+      "address": "鹿の子1-18-34",
+      "storeid": "ishioka-27231c",
+      "shopid": "ishioka-27231c-paypay"
+    },
+    {
+      "name": "エスカットショップ 石岡店",
+      "address": "八軒台3170-20",
+      "storeid": "ishioka-158e42",
+      "shopid": "ishioka-158e42-paypay"
+    },
+    {
+      "name": "エルフ石岡店",
+      "address": "東石岡3-13-3",
+      "storeid": "ishioka-fff1ab",
+      "shopid": "ishioka-fff1ab-paypay"
+    },
+    {
+      "name": "カットハウス・メイト",
+      "address": "国府2-4-26",
+      "storeid": "ishioka-722682",
+      "shopid": "ishioka-722682-paypay"
+    },
+    {
+      "name": "カットハウスひかり 石岡中央店",
+      "address": "石岡2-1-10",
+      "storeid": "ishioka-f759af",
+      "shopid": "ishioka-f759af-paypay"
+    },
+    {
+      "name": "コンティニューヘアーデザイン",
+      "address": "石岡13462-16",
+      "storeid": "ishioka-30d7ed",
+      "shopid": "ishioka-30d7ed-paypay"
+    },
+    {
+      "name": "サロンスポット  PASHA",
+      "address": "池の台10049-15",
+      "storeid": "ishioka-058be7",
+      "shopid": "ishioka-058be7-paypay"
+    },
+    {
+      "name": "ヘアーアルチザン  ナカジマ",
+      "address": "柿岡1939",
+      "storeid": "ishioka-2268e0",
+      "shopid": "ishioka-2268e0-paypay"
+    },
+    {
+      "name": "ヘアーサロン feel",
+      "address": "旭台3-1-27",
+      "storeid": "ishioka-89dcc2",
+      "shopid": "ishioka-89dcc2-paypay"
+    },
+    {
+      "name": "ヘアースタジオ・ブロス",
+      "address": "東石岡5-4-25",
+      "storeid": "ishioka-4a3286",
+      "shopid": "ishioka-4a3286-paypay"
+    },
+    {
+      "name": "ヘアーメイクTEN",
+      "address": "東田中1322-5",
+      "storeid": "ishioka-88b696",
+      "shopid": "ishioka-88b696-paypay"
+    },
+    {
+      "name": "総合サロン  みれーゆ",
+      "address": "八軒台8-12",
+      "storeid": "ishioka-f2fc45",
+      "shopid": "ishioka-f2fc45-paypay"
+    },
+    {
+      "name": "大久保理容室",
+      "address": "石岡2666-6",
+      "storeid": "ishioka-38ec4f",
+      "shopid": "ishioka-38ec4f-paypay"
+    },
+    {
+      "name": "仲田美容室",
+      "address": "国府2-2-8",
+      "storeid": "ishioka-e44e21",
+      "shopid": "ishioka-e44e21-paypay"
+    },
+    {
+      "name": "髪・メンズ脱毛  HAIKARASAN",
+      "address": "東石岡5-3-52",
+      "storeid": "ishioka-ad5a1c",
+      "shopid": "ishioka-ad5a1c-paypay"
+    },
+    {
+      "name": "美容プラージュ  石岡店",
+      "address": "東大橋3214-4",
+      "storeid": "ishioka-193683",
+      "shopid": "ishioka-193683-paypay"
+    },
+    {
+      "name": "美容室 つぼみ",
+      "address": "杉並1-5-60",
+      "storeid": "ishioka-292a68",
+      "shopid": "ishioka-292a68-paypay"
+    },
+    {
+      "name": "美容室ティアラ",
+      "address": "府中5-9-3",
+      "storeid": "ishioka-be9302",
+      "shopid": "ishioka-be9302-paypay"
+    },
+    {
+      "name": "美容室ドルチェ",
+      "address": "東光台4-4-17",
+      "storeid": "ishioka-316d2b",
+      "shopid": "ishioka-316d2b-paypay"
+    },
+    {
+      "name": "理容 ことぶき",
+      "address": "国府1-2-28",
+      "storeid": "ishioka-3912e0",
+      "shopid": "ishioka-3912e0-paypay"
+    },
+    {
+      "name": "理容  クワムラ",
+      "address": "小幡3182",
+      "storeid": "ishioka-6a83a5",
+      "shopid": "ishioka-6a83a5-paypay"
+    },
+    {
+      "name": "澪",
+      "address": "東光台2-11-13",
+      "storeid": "ishioka-c573ce",
+      "shopid": "ishioka-c573ce-paypay"
+    }
+  ],
+  "サービス / 不動産賃貸・家賃": [
+    {
+      "name": "（株）野口物産",
+      "address": "国府1-2-28−301",
+      "storeid": "ishioka-aca44e",
+      "shopid": "ishioka-aca44e-paypay"
+    }
+  ],
+  "サービス / 保育施設": [
+    {
+      "name": "ひかり保育園",
+      "address": "茨城1-12-21",
+      "storeid": "ishioka-df0abb",
+      "shopid": "ishioka-df0abb-paypay"
+    },
+    {
+      "name": "病児保育所えんじゅ",
+      "address": "茨城1-12-16",
+      "storeid": "ishioka-1ceb79",
+      "shopid": "ishioka-1ceb79-paypay"
+    }
+  ],
+  "スクール / 学習塾": [
+    {
+      "name": "学び舎SUZU",
+      "address": "総社2-5-22",
+      "storeid": "ishioka-6bc5a0",
+      "shopid": "ishioka-6bc5a0-paypay"
+    },
+    {
+      "name": "石岡寺子屋塾",
+      "address": "府中1-3-3",
+      "storeid": "ishioka-993c64",
+      "shopid": "ishioka-993c64-paypay"
+    }
+  ],
+  "ビューティ・リラクゼーション / エステティックサロン": [
+    {
+      "name": "エステココ 石岡店",
+      "address": "東大橋3215-1",
+      "storeid": "ishioka-c854fe",
+      "shopid": "ishioka-c854fe-paypay"
+    },
+    {
+      "name": "美肌・脱毛BIANCA",
+      "address": "東石岡5-3-52",
+      "storeid": "ishioka-b56d7b",
+      "shopid": "ishioka-b56d7b-paypay"
+    }
+  ],
+  "医療・保険・公共サービス / 施術所（鍼灸院、治療院、接骨院・整骨院）": [
+    {
+      "name": "あさひ接骨院",
+      "address": "東光台2-11-1",
+      "storeid": "ishioka-f0df5b",
+      "shopid": "ishioka-f0df5b-paypay"
+    },
+    {
+      "name": "カイロプラクティック  ネクサス",
+      "address": "東石岡3-4-36",
+      "storeid": "ishioka-10d5ae",
+      "shopid": "ishioka-10d5ae-paypay"
+    },
+    {
+      "name": "コンフォート鍼灸院",
+      "address": "柿岡4778-2",
+      "storeid": "ishioka-aa920d",
+      "shopid": "ishioka-aa920d-paypay"
+    },
+    {
+      "name": "石岡駅東口整骨院",
+      "address": "石岡1-17-29",
+      "storeid": "ishioka-f9d49b",
+      "shopid": "ishioka-f9d49b-paypay"
+    },
+    {
+      "name": "梅室整骨院",
+      "address": "杉並2-2-28",
+      "storeid": "ishioka-c36cb9",
+      "shopid": "ishioka-c36cb9-paypay"
+    },
+    {
+      "name": "来風接骨院＋Rebody",
+      "address": "旭台3-15-6",
+      "storeid": "ishioka-ea2f3a",
+      "shopid": "ishioka-ea2f3a-paypay"
+    }
+  ],
+  "医療・保険・公共サービス / 病院・医院": [
+    {
+      "name": "えだ歯科医院",
+      "address": "柿岡1860-4",
+      "storeid": "ishioka-ad0a99",
+      "shopid": "ishioka-ad0a99-paypay"
+    },
+    {
+      "name": "石岡中央動物病院",
+      "address": "石岡13446-35",
+      "storeid": "ishioka-75896d",
+      "shopid": "ishioka-75896d-paypay"
+    }
+  ],
+  "飲食 / ファーストフード": [
+    {
+      "name": "かね㐂回転寿司  石岡店",
+      "address": "東石岡5-3-50",
+      "storeid": "ishioka-e319c4",
+      "shopid": "ishioka-e319c4-paypay"
+    },
+    {
+      "name": "ピザーラ 石岡店",
+      "address": "南台2-15-1",
+      "storeid": "ishioka-98ea79",
+      "shopid": "ishioka-98ea79-paypay"
+    },
+    {
+      "name": "リバティ",
+      "address": "若松2-11-30",
+      "storeid": "ishioka-366cd1",
+      "shopid": "ishioka-366cd1-paypay"
+    },
+    {
+      "name": "本田商店",
+      "address": "三村7622",
+      "storeid": "ishioka-411bca",
+      "shopid": "ishioka-411bca-paypay"
+    }
+  ],
+  "飲食 / 飲食店・喫茶店": [
+    {
+      "name": "AND BURGER",
+      "address": "東石岡4-10-36",
+      "storeid": "ishioka-0e6260",
+      "shopid": "ishioka-0e6260-paypay"
+    },
+    {
+      "name": "Cafe&Restaurant狭霧",
+      "address": "須釜1149-3",
+      "storeid": "ishioka-b7a34f",
+      "shopid": "ishioka-b7a34f-paypay"
+    },
+    {
+      "name": "Forno a legna  panezza",
+      "address": "弓弦688",
+      "storeid": "ishioka-99dd8b",
+      "shopid": "ishioka-99dd8b-paypay"
+    },
+    {
+      "name": "French Bistro Longtemps",
+      "address": "国府1-1892-3",
+      "storeid": "ishioka-59bf2b",
+      "shopid": "ishioka-59bf2b-paypay"
+    },
+    {
+      "name": "GINGER   FARM   KITCHEN",
+      "address": "東石岡4-11-29",
+      "storeid": "ishioka-432f80",
+      "shopid": "ishioka-432f80-paypay"
+    },
+    {
+      "name": "haumeria kitchen&claytherapy",
+      "address": "石岡2181-2",
+      "storeid": "ishioka-c5b594",
+      "shopid": "ishioka-c5b594-paypay"
+    },
+    {
+      "name": "JAゆりの郷紫峰",
+      "address": "小幡1416",
+      "storeid": "ishioka-b29348",
+      "shopid": "ishioka-b29348-paypay"
+    },
+    {
+      "name": "Ka-mame-na   果豆菜",
+      "address": "東石岡5-1-12",
+      "storeid": "ishioka-633e2b",
+      "shopid": "ishioka-633e2b-paypay"
+    },
+    {
+      "name": "Manchester Caffe",
+      "address": "国府3−4−7",
+      "storeid": "ishioka-393ffc",
+      "shopid": "ishioka-393ffc-paypay"
+    },
+    {
+      "name": "M's Tea Room",
+      "address": "府中2-3-19",
+      "storeid": "ishioka-3a29b3",
+      "shopid": "ishioka-3a29b3-paypay"
+    },
+    {
+      "name": "Trattoria Grano",
+      "address": "府中1-2-5",
+      "storeid": "ishioka-8c659f",
+      "shopid": "ishioka-8c659f-paypay"
+    },
+    {
+      "name": "YARN",
+      "address": "鹿の子2-1-25",
+      "storeid": "ishioka-053944",
+      "shopid": "ishioka-053944-paypay"
+    },
+    {
+      "name": "yasato de トレタ",
+      "address": "下青柳200",
+      "storeid": "ishioka-68b28b",
+      "shopid": "ishioka-68b28b-paypay"
+    },
+    {
+      "name": "あげやま 本店",
+      "address": "八軒台3213-8",
+      "storeid": "ishioka-eedbc1",
+      "shopid": "ishioka-eedbc1-paypay"
+    },
+    {
+      "name": "うどん茶寮のほほん亭",
+      "address": "大砂10527-6",
+      "storeid": "ishioka-ad0eb2",
+      "shopid": "ishioka-ad0eb2-paypay"
+    },
+    {
+      "name": "おいしい肉  炭火焼肉 風々亭",
+      "address": "東石岡4-6-30",
+      "storeid": "ishioka-810b4a",
+      "shopid": "ishioka-810b4a-paypay"
+    },
+    {
+      "name": "ベビーカステラカーズ",
+      "address": "総社2-1-40",
+      "storeid": "ishioka-301d2e",
+      "shopid": "ishioka-301d2e-paypay"
+    },
+    {
+      "name": "キッチンさくら",
+      "address": "国府4-4-20",
+      "storeid": "ishioka-df575b",
+      "shopid": "ishioka-df575b-paypay"
+    },
+    {
+      "name": "キッチンどんぐり",
+      "address": "下青柳200",
+      "storeid": "ishioka-016f9f",
+      "shopid": "ishioka-016f9f-paypay"
+    },
+    {
+      "name": "サムギョプサル雅",
+      "address": "東光台4-10-23",
+      "storeid": "ishioka-304ef4",
+      "shopid": "ishioka-304ef4-paypay"
+    },
+    {
+      "name": "シャンティ洋菓子店",
+      "address": "国府3-2-4",
+      "storeid": "ishioka-c082dd",
+      "shopid": "ishioka-c082dd-paypay"
+    },
+    {
+      "name": "すし処 大石家 南台店",
+      "address": "南台2-9-10",
+      "storeid": "ishioka-6a34c2",
+      "shopid": "ishioka-6a34c2-paypay"
+    },
+    {
+      "name": "そば処  中津川",
+      "address": "上曽1080-1",
+      "storeid": "ishioka-39a09e",
+      "shopid": "ishioka-39a09e-paypay"
+    },
+    {
+      "name": "ターリー屋  石岡東光台店",
+      "address": "東光台4-1-25",
+      "storeid": "ishioka-1c8bb2",
+      "shopid": "ishioka-1c8bb2-paypay"
+    },
+    {
+      "name": "タイ王国料理レストラン  キャオチャイ",
+      "address": "東光台2-3-1",
+      "storeid": "ishioka-a8c6bf",
+      "shopid": "ishioka-a8c6bf-paypay"
+    },
+    {
+      "name": "タイ料理タイバン",
+      "address": "旭台3-19-20",
+      "storeid": "ishioka-e2a1aa",
+      "shopid": "ishioka-e2a1aa-paypay"
+    },
+    {
+      "name": "たこ焼  有楽",
+      "address": "国府3-3-14",
+      "storeid": "ishioka-db3f61",
+      "shopid": "ishioka-db3f61-paypay"
+    },
+    {
+      "name": "トラットリア・アグレステ",
+      "address": "鹿の子4-1-3",
+      "storeid": "ishioka-c00f97",
+      "shopid": "ishioka-c00f97-paypay"
+    },
+    {
+      "name": "ビジノール",
+      "address": "石岡3055",
+      "storeid": "ishioka-0d48f6",
+      "shopid": "ishioka-0d48f6-paypay"
+    },
+    {
+      "name": "ピッツェリア トラットリア レプロット",
+      "address": "東石岡4-10-36",
+      "storeid": "ishioka-0d487f",
+      "shopid": "ishioka-0d487f-paypay"
+    },
+    {
+      "name": "フィッシングパークつくば園",
+      "address": "小幡2119-33",
+      "storeid": "ishioka-3120bd",
+      "shopid": "ishioka-3120bd-paypay"
+    },
+    {
+      "name": "べこ助",
+      "address": "国府2-4-31",
+      "storeid": "ishioka-037f97",
+      "shopid": "ishioka-037f97-paypay"
+    },
+    {
+      "name": "みのる鮨",
+      "address": "東石岡5-3-61",
+      "storeid": "ishioka-d71592",
+      "shopid": "ishioka-d71592-paypay"
+    },
+    {
+      "name": "もつ煮もッち",
+      "address": "国府1-1892-3",
+      "storeid": "ishioka-ccd9dc",
+      "shopid": "ishioka-ccd9dc-paypay"
+    },
+    {
+      "name": "やきいも&かき氷専門店  海東園",
+      "address": "村上107-1",
+      "storeid": "ishioka-dc9b27",
+      "shopid": "ishioka-dc9b27-paypay"
+    },
+    {
+      "name": "やさとブルーベリーファーム",
+      "address": "中戸103-3",
+      "storeid": "ishioka-aad87d",
+      "shopid": "ishioka-aad87d-paypay"
+    },
+    {
+      "name": "ラーメンキッチン元氣",
+      "address": "下青柳421-2",
+      "storeid": "ishioka-f06f68",
+      "shopid": "ishioka-f06f68-paypay"
+    },
+    {
+      "name": "レストラン  クシーナ",
+      "address": "東光台1-2-1",
+      "storeid": "ishioka-bfc504",
+      "shopid": "ishioka-bfc504-paypay"
+    },
+    {
+      "name": "レストラン&喫茶  ティアラ",
+      "address": "国府1-1-33",
+      "storeid": "ishioka-a88f49",
+      "shopid": "ishioka-a88f49-paypay"
+    },
+    {
+      "name": "レストランティアラ",
+      "address": "国府1-1-33",
+      "storeid": "ishioka-899aab",
+      "shopid": "ishioka-899aab-paypay"
+    },
+    {
+      "name": "鰻の成瀬 フォレストモール石岡店",
+      "address": "石岡12886",
+      "storeid": "ishioka-880ac5",
+      "shopid": "ishioka-880ac5-paypay"
+    },
+    {
+      "name": "家族レストラン坂東太郎 石岡総本店",
+      "address": "東田中1062-4",
+      "storeid": "ishioka-72ddb8",
+      "shopid": "ishioka-72ddb8-paypay"
+    },
+    {
+      "name": "N°8画廊カフェＮ8",
+      "address": "府中1-1-7",
+      "storeid": "ishioka-41356e",
+      "shopid": "ishioka-41356e-paypay"
+    },
+    {
+      "name": "丸三そば店",
+      "address": "国府3-4-10",
+      "storeid": "ishioka-bfc004",
+      "shopid": "ishioka-bfc004-paypay"
+    },
+    {
+      "name": "喫茶セインツ",
+      "address": "府中1-8-28",
+      "storeid": "ishioka-adc96e",
+      "shopid": "ishioka-adc96e-paypay"
+    },
+    {
+      "name": "極み焼肉ホルモン清司",
+      "address": "石岡2-20-7",
+      "storeid": "ishioka-b62901",
+      "shopid": "ishioka-b62901-paypay"
+    },
+    {
+      "name": "結",
+      "address": "旭台1-11-8",
+      "storeid": "ishioka-735e07",
+      "shopid": "ishioka-735e07-paypay"
+    },
+    {
+      "name": "古民家カフェ  岡野ファーム",
+      "address": "吉生303",
+      "storeid": "ishioka-b0df1b",
+      "shopid": "ishioka-b0df1b-paypay"
+    },
+    {
+      "name": "三藤 石岡店",
+      "address": "東光台3-1336-24",
+      "storeid": "ishioka-060c2b",
+      "shopid": "ishioka-060c2b-paypay"
+    },
+    {
+      "name": "手しごと創菜 はんなりや",
+      "address": "南台3-21-36",
+      "storeid": "ishioka-bb0e58",
+      "shopid": "ishioka-bb0e58-paypay"
+    },
+    {
+      "name": "酒バルじょんのび",
+      "address": "東府中5-52",
+      "storeid": "ishioka-e0968c",
+      "shopid": "ishioka-e0968c-paypay"
+    },
+    {
+      "name": "旬彩 杉の子",
+      "address": "府中3-10-15",
+      "storeid": "ishioka-acda72",
+      "shopid": "ishioka-acda72-paypay"
+    },
+    {
+      "name": "旬菜ichiba   陣屋門",
+      "address": "石岡3202",
+      "storeid": "ishioka-d2d909",
+      "shopid": "ishioka-d2d909-paypay"
+    },
+    {
+      "name": "焼肉  石岡苑",
+      "address": "貝地2-11-17",
+      "storeid": "ishioka-44420b",
+      "shopid": "ishioka-44420b-paypay"
+    },
+    {
+      "name": "焼肉なみき",
+      "address": "石岡2230",
+      "storeid": "ishioka-e15a64",
+      "shopid": "ishioka-e15a64-paypay"
+    },
+    {
+      "name": "焼肉まん平",
+      "address": "下林361-2",
+      "storeid": "ishioka-930c11",
+      "shopid": "ishioka-930c11-paypay"
+    },
+    {
+      "name": "常陸秋そば そば処手打 心芯",
+      "address": "茨城1-17-2",
+      "storeid": "ishioka-499d99",
+      "shopid": "ishioka-499d99-paypay"
+    },
+    {
+      "name": "食彩ダイニング Sako",
+      "address": "国府1-4-20",
+      "storeid": "ishioka-8cb175",
+      "shopid": "ishioka-8cb175-paypay"
+    },
+    {
+      "name": "石岡ホルモン",
+      "address": "東石岡5-3-61",
+      "storeid": "ishioka-c61ed3",
+      "shopid": "ishioka-c61ed3-paypay"
+    },
+    {
+      "name": "千りゅう",
+      "address": "東石岡4-6-37",
+      "storeid": "ishioka-cf73b0",
+      "shopid": "ishioka-cf73b0-paypay"
+    },
+    {
+      "name": "台湾タンパオ 石岡店",
+      "address": "国府1-3-3",
+      "storeid": "ishioka-5904a9",
+      "shopid": "ishioka-5904a9-paypay"
+    },
+    {
+      "name": "大衆焼肉 つばき苑",
+      "address": "国府2-1-29",
+      "storeid": "ishioka-f9275f",
+      "shopid": "ishioka-f9275f-paypay"
+    },
+    {
+      "name": "炭火焼鳥Buzz",
+      "address": "貝地2-3-26",
+      "storeid": "ishioka-200f4c",
+      "shopid": "ishioka-200f4c-paypay"
+    },
+    {
+      "name": "筑波山ゲルグランピング",
+      "address": "小幡2124-18",
+      "storeid": "ishioka-9671ae",
+      "shopid": "ishioka-9671ae-paypay"
+    },
+    {
+      "name": "茶和〜和むくらし〜",
+      "address": "国府3−5−22",
+      "storeid": "ishioka-900442",
+      "shopid": "ishioka-900442-paypay"
+    },
+    {
+      "name": "中華料理 日日紅",
+      "address": "柿岡2373",
+      "storeid": "ishioka-e39fd2",
+      "shopid": "ishioka-e39fd2-paypay"
+    },
+    {
+      "name": "中国料理  稲吉屋",
+      "address": "国府2-2-5",
+      "storeid": "ishioka-bc084c",
+      "shopid": "ishioka-bc084c-paypay"
+    },
+    {
+      "name": "なかなかや",
+      "address": "石岡2524-4",
+      "storeid": "ishioka-d85a5a",
+      "shopid": "ishioka-d85a5a-paypay"
+    },
+    {
+      "name": "椿姫苑",
+      "address": "東府中5-57",
+      "storeid": "ishioka-0b82ec",
+      "shopid": "ishioka-0b82ec-paypay"
+    },
+    {
+      "name": "天然氷AMO",
+      "address": "若松2-13-24",
+      "storeid": "ishioka-d24922",
+      "shopid": "ishioka-d24922-paypay"
+    },
+    {
+      "name": "徳樹庵",
+      "address": "東大橋1975-5",
+      "storeid": "ishioka-454b28",
+      "shopid": "ishioka-454b28-paypay"
+    },
+    {
+      "name": "二八そば",
+      "address": "山崎2247-30",
+      "storeid": "ishioka-237499",
+      "shopid": "ishioka-237499-paypay"
+    },
+    {
+      "name": "福福",
+      "address": "石岡3165-21",
+      "storeid": "ishioka-1310d1",
+      "shopid": "ishioka-1310d1-paypay"
+    },
+    {
+      "name": "（有）石岡苑",
+      "address": "東光台5-2-3",
+      "storeid": "ishioka-551040",
+      "shopid": "ishioka-551040-paypay"
+    },
+    {
+      "name": "料理茶屋  芭蕉",
+      "address": "東光台5-10-7",
+      "storeid": "ishioka-43a4a5",
+      "shopid": "ishioka-43a4a5-paypay"
+    },
+    {
+      "name": "恋瀬屋",
+      "address": "国府1-1892-3",
+      "storeid": "ishioka-e29de2",
+      "shopid": "ishioka-e29de2-paypay"
+    }
+  ],
+  "飲食 / 居酒屋・パブ・バー": [
+    {
+      "name": "Ange",
+      "address": "国府1-2-28",
+      "storeid": "ishioka-288f2c",
+      "shopid": "ishioka-288f2c-paypay"
+    },
+    {
+      "name": "Bar   Vault",
+      "address": "府中2-1-34",
+      "storeid": "ishioka-61f1ac",
+      "shopid": "ishioka-61f1ac-paypay"
+    },
+    {
+      "name": "Bar R’s",
+      "address": "東石岡4-6-36",
+      "storeid": "ishioka-25c7d7",
+      "shopid": "ishioka-25c7d7-paypay"
+    },
+    {
+      "name": "BarEdel",
+      "address": "東光台4-12-7",
+      "storeid": "ishioka-e0aa06",
+      "shopid": "ishioka-e0aa06-paypay"
+    },
+    {
+      "name": "base",
+      "address": "小幡3397",
+      "storeid": "ishioka-429bec",
+      "shopid": "ishioka-429bec-paypay"
+    },
+    {
+      "name": "Bell   Flower",
+      "address": "東石岡1-9-21",
+      "storeid": "ishioka-62f2f3",
+      "shopid": "ishioka-62f2f3-paypay"
+    },
+    {
+      "name": "Blue   Sky",
+      "address": "旭台3-1-5",
+      "storeid": "ishioka-2cbe51",
+      "shopid": "ishioka-2cbe51-paypay"
+    },
+    {
+      "name": "Dining Bar Blue Tears",
+      "address": "国府1-2-32",
+      "storeid": "ishioka-08f3b2",
+      "shopid": "ishioka-08f3b2-paypay"
+    },
+    {
+      "name": "lounge葵",
+      "address": "国府1-2-3",
+      "storeid": "ishioka-b342fa",
+      "shopid": "ishioka-b342fa-paypay"
+    },
+    {
+      "name": "mokumoku山ishioka",
+      "address": "小幡3185-1",
+      "storeid": "ishioka-38f51a",
+      "shopid": "ishioka-38f51a-paypay"
+    },
+    {
+      "name": "PUB ダイヤモンド",
+      "address": "国府1-2-8",
+      "storeid": "ishioka-38cb06",
+      "shopid": "ishioka-38cb06-paypay"
+    },
+    {
+      "name": "R’s",
+      "address": "東石岡2-4-44",
+      "storeid": "ishioka-4193a5",
+      "shopid": "ishioka-4193a5-paypay"
+    },
+    {
+      "name": "THE   OPEN   FORK",
+      "address": "東石岡3-13-3",
+      "storeid": "ishioka-827fdd",
+      "shopid": "ishioka-827fdd-paypay"
+    },
+    {
+      "name": "Wishing",
+      "address": "鹿の子2-3-18",
+      "storeid": "ishioka-6bca20",
+      "shopid": "ishioka-6bca20-paypay"
+    },
+    {
+      "name": "あぽろ2号kitchen＆bar",
+      "address": "下青柳421-2",
+      "storeid": "ishioka-30a687",
+      "shopid": "ishioka-30a687-paypay"
+    },
+    {
+      "name": "うおやす",
+      "address": "旭台3-4-6",
+      "storeid": "ishioka-e935e4",
+      "shopid": "ishioka-e935e4-paypay"
+    },
+    {
+      "name": "カラオケ  ひとみ",
+      "address": "東光台1-1-1",
+      "storeid": "ishioka-eb970f",
+      "shopid": "ishioka-eb970f-paypay"
+    },
+    {
+      "name": "カラオケ  居酒屋  パートナー",
+      "address": "東光台5-2-2",
+      "storeid": "ishioka-d6ff9b",
+      "shopid": "ishioka-d6ff9b-paypay"
+    },
+    {
+      "name": "スナックスティル",
+      "address": "下林187",
+      "storeid": "ishioka-ebfb24",
+      "shopid": "ishioka-ebfb24-paypay"
+    },
+    {
+      "name": "デン＆ケリー  カフェ＆バー",
+      "address": "国府1-6-33",
+      "storeid": "ishioka-739458",
+      "shopid": "ishioka-739458-paypay"
+    },
+    {
+      "name": "とんかつ紫峰",
+      "address": "東石岡4-6-37",
+      "storeid": "ishioka-a60e99",
+      "shopid": "ishioka-a60e99-paypay"
+    },
+    {
+      "name": "はなの山",
+      "address": "東光台4-10-24",
+      "storeid": "ishioka-dca194",
+      "shopid": "ishioka-dca194-paypay"
+    },
+    {
+      "name": "ミライエ",
+      "address": "旭台1-13-24",
+      "storeid": "ishioka-a2f26a",
+      "shopid": "ishioka-a2f26a-paypay"
+    },
+    {
+      "name": "やきとん  いのこ",
+      "address": "府中1-2-5",
+      "storeid": "ishioka-14f020",
+      "shopid": "ishioka-14f020-paypay"
+    },
+    {
+      "name": "ワンズダイナー",
+      "address": "貝地2-3-26",
+      "storeid": "ishioka-e61669",
+      "shopid": "ishioka-e61669-paypay"
+    },
+    {
+      "name": "異風園",
+      "address": "貝地2-2-25",
+      "storeid": "ishioka-185de7",
+      "shopid": "ishioka-185de7-paypay"
+    },
+    {
+      "name": "一酔",
+      "address": "東石岡4-6-37",
+      "storeid": "ishioka-11fd6a",
+      "shopid": "ishioka-11fd6a-paypay"
+    },
+    {
+      "name": "宴処  山平",
+      "address": "国府1-2-7",
+      "storeid": "ishioka-e7f090",
+      "shopid": "ishioka-e7f090-paypay"
+    },
+    {
+      "name": "牡蠣小屋漁遊丸＆炭火やきとり勝吉",
+      "address": "東石岡5-2910-1",
+      "storeid": "ishioka-e7d8f3",
+      "shopid": "ishioka-e7d8f3-paypay"
+    },
+    {
+      "name": "華都恵",
+      "address": "府中1-1-29",
+      "storeid": "ishioka-c71f58",
+      "shopid": "ishioka-c71f58-paypay"
+    },
+    {
+      "name": "海東園",
+      "address": "村上105-4",
+      "storeid": "ishioka-dbafc1",
+      "shopid": "ishioka-dbafc1-paypay"
+    },
+    {
+      "name": "楽酒楽食  神立屋",
+      "address": "国府2-4-5",
+      "storeid": "ishioka-26210b",
+      "shopid": "ishioka-26210b-paypay"
+    },
+    {
+      "name": "喜楽",
+      "address": "東石岡4-6-41",
+      "storeid": "ishioka-c640f0",
+      "shopid": "ishioka-c640f0-paypay"
+    },
+    {
+      "name": "居酒屋わがまま",
+      "address": "東光台5-2-1",
+      "storeid": "ishioka-d77e46",
+      "shopid": "ishioka-d77e46-paypay"
+    },
+    {
+      "name": "居酒屋横町",
+      "address": "国府1-6-33",
+      "storeid": "ishioka-fd4c5a",
+      "shopid": "ishioka-fd4c5a-paypay"
+    },
+    {
+      "name": "居酒屋花ごころ",
+      "address": "東光台3-1-14",
+      "storeid": "ishioka-0c6fb4",
+      "shopid": "ishioka-0c6fb4-paypay"
+    },
+    {
+      "name": "魚忠水産",
+      "address": "国府1-3-17",
+      "storeid": "ishioka-ebaba4",
+      "shopid": "ishioka-ebaba4-paypay"
+    },
+    {
+      "name": "魚民",
+      "address": "国府1-2-32",
+      "storeid": "ishioka-367511",
+      "shopid": "ishioka-367511-paypay"
+    },
+    {
+      "name": "京兵衛鮨",
+      "address": "茨城1-10-14",
+      "storeid": "ishioka-750de3",
+      "shopid": "ishioka-750de3-paypay"
+    },
+    {
+      "name": "志摩",
+      "address": "鹿の子1-11-4",
+      "storeid": "ishioka-ae56fd",
+      "shopid": "ishioka-ae56fd-paypay"
+    },
+    {
+      "name": "酒と肴のたか木",
+      "address": "石岡13961-7",
+      "storeid": "ishioka-283fd0",
+      "shopid": "ishioka-283fd0-paypay"
+    },
+    {
+      "name": "酒菜工房HeiSon",
+      "address": "石岡3202",
+      "storeid": "ishioka-14e007",
+      "shopid": "ishioka-14e007-paypay"
+    },
+    {
+      "name": "千年の宴",
+      "address": "国府1-2-28",
+      "storeid": "ishioka-0de7d9",
+      "shopid": "ishioka-0de7d9-paypay"
+    },
+    {
+      "name": "鳥ひつじ",
+      "address": "国府1−2−2",
+      "storeid": "ishioka-80f765",
+      "shopid": "ishioka-80f765-paypay"
+    },
+    {
+      "name": "鉄板ダイニングやきやきや",
+      "address": "石岡13466-4",
+      "storeid": "ishioka-a46c38",
+      "shopid": "ishioka-a46c38-paypay"
+    },
+    {
+      "name": "田舎の味  ほうろく屋",
+      "address": "小見935-1",
+      "storeid": "ishioka-84446a",
+      "shopid": "ishioka-84446a-paypay"
+    },
+    {
+      "name": "呑喜",
+      "address": "国府2-2-14",
+      "storeid": "ishioka-aecae1",
+      "shopid": "ishioka-aecae1-paypay"
+    },
+    {
+      "name": "日の丸ウィスキー  石岡  Tasting  Room",
+      "address": "国府1-1892-3",
+      "storeid": "ishioka-23f512",
+      "shopid": "ishioka-23f512-paypay"
+    },
+    {
+      "name": "日の丸ウイスキー 八郷蒸溜所",
+      "address": "須釜1300-8",
+      "storeid": "ishioka-481d9b",
+      "shopid": "ishioka-481d9b-paypay"
+    },
+    {
+      "name": "府中壱丁目",
+      "address": "府中1-1-2",
+      "storeid": "ishioka-23cfc1",
+      "shopid": "ishioka-23cfc1-paypay"
+    },
+    {
+      "name": "蔵＋かつ  八郷店",
+      "address": "下青柳200",
+      "storeid": "ishioka-e60547",
+      "shopid": "ishioka-e60547-paypay"
+    },
+    {
+      "name": "洋風居酒屋いしおか邸",
+      "address": "石岡3165-1",
+      "storeid": "ishioka-868c98",
+      "shopid": "ishioka-868c98-paypay"
+    },
+    {
+      "name": "龍屋",
+      "address": "国府1-2-30",
+      "storeid": "ishioka-3b8a4d",
+      "shopid": "ishioka-3b8a4d-paypay"
+    },
+    {
+      "name": "林平舎",
+      "address": "柿岡3247-1",
+      "storeid": "ishioka-9a5fdf",
+      "shopid": "ishioka-9a5fdf-paypay"
+    },
+    {
+      "name": "和彩創菜 癒和美",
+      "address": "旭台2-15-3",
+      "storeid": "ishioka-81811d",
+      "shopid": "ishioka-81811d-paypay"
+    },
+    {
+      "name": "和処さぶ",
+      "address": "東石岡1-9-21",
+      "storeid": "ishioka-77613d",
+      "shopid": "ishioka-77613d-paypay"
+    }
+  ],
+  "各種小売 / その他": [
+    {
+      "name": "”connect”~infinity~",
+      "address": "石岡2650-17",
+      "storeid": "ishioka-793a8e",
+      "shopid": "ishioka-793a8e-paypay"
+    },
+    {
+      "name": "Aroma ricoo88",
+      "address": "南台4-15-2",
+      "storeid": "ishioka-29c57b",
+      "shopid": "ishioka-29c57b-paypay"
+    },
+    {
+      "name": "ICTプログラマーズ",
+      "address": "東大橋3186-17",
+      "storeid": "ishioka-24bf80",
+      "shopid": "ishioka-24bf80-paypay"
+    },
+    {
+      "name": "MARUKO 石岡店",
+      "address": "石岡14046-2",
+      "storeid": "ishioka-81cf69",
+      "shopid": "ishioka-81cf69-paypay"
+    },
+    {
+      "name": "O.K_FARM",
+      "address": "川又930",
+      "storeid": "ishioka-e90e07",
+      "shopid": "ishioka-e90e07-paypay"
+    },
+    {
+      "name": "アトリエFUJI",
+      "address": "石川1138-4",
+      "storeid": "ishioka-0de515",
+      "shopid": "ishioka-0de515-paypay"
+    },
+    {
+      "name": "いちご家のむのむ",
+      "address": "小倉345",
+      "storeid": "ishioka-673fd6",
+      "shopid": "ishioka-673fd6-paypay"
+    },
+    {
+      "name": "オートランドテクノ",
+      "address": "半ノ木11210-1",
+      "storeid": "ishioka-e51d29",
+      "shopid": "ishioka-e51d29-paypay"
+    },
+    {
+      "name": "プロショップオオゼキ",
+      "address": "正上内15-32",
+      "storeid": "ishioka-1ea012",
+      "shopid": "ishioka-1ea012-paypay"
+    },
+    {
+      "name": "まち蔵  藍",
+      "address": "国府3-5-6",
+      "storeid": "ishioka-bc7a6d",
+      "shopid": "ishioka-bc7a6d-paypay"
+    },
+    {
+      "name": "果じゅまる園",
+      "address": "東成井1988-1",
+      "storeid": "ishioka-000afa",
+      "shopid": "ishioka-000afa-paypay"
+    },
+    {
+      "name": "駒村清明堂",
+      "address": "小幡1899",
+      "storeid": "ishioka-b39732",
+      "shopid": "ishioka-b39732-paypay"
+    },
+    {
+      "name": "広瀬スポーツ店",
+      "address": "柿岡1996-2",
+      "storeid": "ishioka-a175ad",
+      "shopid": "ishioka-a175ad-paypay"
+    },
+    {
+      "name": "高栖石材工業（有）",
+      "address": "府中4-7-5",
+      "storeid": "ishioka-1c2517",
+      "shopid": "ishioka-1c2517-paypay"
+    },
+    {
+      "name": "紫山堂",
+      "address": "小幡1632-8",
+      "storeid": "ishioka-82ea34",
+      "shopid": "ishioka-82ea34-paypay"
+    },
+    {
+      "name": "水谷農園",
+      "address": "三村5475",
+      "storeid": "ishioka-3c937c",
+      "shopid": "ishioka-3c937c-paypay"
+    },
+    {
+      "name": "石岡ハイヤー 鍵屋",
+      "address": "国府6-1-22",
+      "storeid": "ishioka-1ea6d1",
+      "shopid": "ishioka-1ea6d1-paypay"
+    },
+    {
+      "name": "石岡市観光案内所",
+      "address": "国府1-1-17",
+      "storeid": "ishioka-e3c437",
+      "shopid": "ishioka-e3c437-paypay"
+    },
+    {
+      "name": "泰山窯 渡辺兼次郎",
+      "address": "菖蒲沢336",
+      "storeid": "ishioka-4bf5e1",
+      "shopid": "ishioka-4bf5e1-paypay"
+    },
+    {
+      "name": "池田釣具 本店笑魚堂",
+      "address": "国府2-1-15",
+      "storeid": "ishioka-d9443d",
+      "shopid": "ishioka-d9443d-paypay"
+    },
+    {
+      "name": "姫ねこ",
+      "address": "下林2077-29",
+      "storeid": "ishioka-708bc8",
+      "shopid": "ishioka-708bc8-paypay"
+    }
+  ],
+  "各種小売 / リサイクル・中古品": [
+    {
+      "name": "BowMotorWorks",
+      "address": "石岡2525-2",
+      "storeid": "ishioka-a6e2eb",
+      "shopid": "ishioka-a6e2eb-paypay"
+    },
+    {
+      "name": "BUGMAX",
+      "address": "貝地2-14-31",
+      "storeid": "ishioka-170e66",
+      "shopid": "ishioka-170e66-paypay"
+    },
+    {
+      "name": "Nemoto Jewelry & Toys",
+      "address": "旭台3-15-5",
+      "storeid": "ishioka-084a05",
+      "shopid": "ishioka-084a05-paypay"
+    },
+    {
+      "name": "オオテデンキ",
+      "address": "北府中2-11-7",
+      "storeid": "ishioka-17b2ba",
+      "shopid": "ishioka-17b2ba-paypay"
+    },
+    {
+      "name": "カメラのキタムラ",
+      "address": "東石岡3-4-1",
+      "storeid": "ishioka-fcff3f",
+      "shopid": "ishioka-fcff3f-paypay"
+    },
+    {
+      "name": "ゲーム王国 石岡店",
+      "address": "石岡2819-5",
+      "storeid": "ishioka-8930c1",
+      "shopid": "ishioka-8930c1-paypay"
+    },
+    {
+      "name": "シークオートモービル",
+      "address": "大砂10456-6",
+      "storeid": "ishioka-5188cb",
+      "shopid": "ishioka-5188cb-paypay"
+    },
+    {
+      "name": "リサイクル百貨センター",
+      "address": "三村2509-6",
+      "storeid": "ishioka-53cebc",
+      "shopid": "ishioka-53cebc-paypay"
+    },
+    {
+      "name": "ロックボトム",
+      "address": "石岡3197-13",
+      "storeid": "ishioka-e498fe",
+      "shopid": "ishioka-e498fe-paypay"
+    },
+    {
+      "name": "車好オート",
+      "address": "柿岡2353-2",
+      "storeid": "ishioka-26a815",
+      "shopid": "ishioka-26a815-paypay"
+    },
+    {
+      "name": "釣具 菱屋",
+      "address": "石岡2755-15",
+      "storeid": "ishioka-8468ae",
+      "shopid": "ishioka-8468ae-paypay"
+    },
+    {
+      "name": "満商会",
+      "address": "府中3-11-18",
+      "storeid": "ishioka-ad4708",
+      "shopid": "ishioka-ad4708-paypay"
+    }
+  ],
+  "各種小売 / 衣服・靴・服飾品・カバン・バッグ": [
+    {
+      "name": "chapshop",
+      "address": "南台4-18-4",
+      "storeid": "ishioka-4af582",
+      "shopid": "ishioka-4af582-paypay"
+    },
+    {
+      "name": "Makana",
+      "address": "宮ケ崎739-2",
+      "storeid": "ishioka-a729b1",
+      "shopid": "ishioka-a729b1-paypay"
+    },
+    {
+      "name": "tikmak",
+      "address": "石岡2181-2",
+      "storeid": "ishioka-b4ebc7",
+      "shopid": "ishioka-b4ebc7-paypay"
+    },
+    {
+      "name": "あじさい工房",
+      "address": "下青柳332-1",
+      "storeid": "ishioka-833ec2",
+      "shopid": "ishioka-833ec2-paypay"
+    },
+    {
+      "name": "すずめや",
+      "address": "国府3-4-21",
+      "storeid": "ishioka-6483f4",
+      "shopid": "ishioka-6483f4-paypay"
+    },
+    {
+      "name": "ナカタイ",
+      "address": "若宮1-1-36",
+      "storeid": "ishioka-7ded05",
+      "shopid": "ishioka-7ded05-paypay"
+    },
+    {
+      "name": "ミラクルストーン",
+      "address": "北府中2-10-35",
+      "storeid": "ishioka-9b8a36",
+      "shopid": "ishioka-9b8a36-paypay"
+    },
+    {
+      "name": "ロコレディ 石岡グランミロアール店",
+      "address": "東大橋3194-5",
+      "storeid": "ishioka-b7ba99",
+      "shopid": "ishioka-b7ba99-paypay"
+    },
+    {
+      "name": "我妻陶房",
+      "address": "瓦谷1752−2",
+      "storeid": "ishioka-34508c",
+      "shopid": "ishioka-34508c-paypay"
+    },
+    {
+      "name": "器や  小林  伸光",
+      "address": "真家1064-1",
+      "storeid": "ishioka-84a8ae",
+      "shopid": "ishioka-84a8ae-paypay"
+    },
+    {
+      "name": "雑貨屋ぴんくねこ",
+      "address": "山崎1086-41",
+      "storeid": "ishioka-ad5588",
+      "shopid": "ishioka-ad5588-paypay"
+    },
+    {
+      "name": "仕事場センチコ つむりんぐ",
+      "address": "太田1494",
+      "storeid": "ishioka-cca9e0",
+      "shopid": "ishioka-cca9e0-paypay"
+    },
+    {
+      "name": "手作り雑貨りんく",
+      "address": "旭台1-13-24",
+      "storeid": "ishioka-aeb0bc",
+      "shopid": "ishioka-aeb0bc-paypay"
+    },
+    {
+      "name": "晴飛",
+      "address": "小塙1265",
+      "storeid": "ishioka-850b50",
+      "shopid": "ishioka-850b50-paypay"
+    }
+  ],
+  "各種小売 / 医薬品・化粧品・ドラッグストア": [
+    {
+      "name": "ビューティーショップカワムラ",
+      "address": "府中1-1-1",
+      "storeid": "ishioka-3445f3",
+      "shopid": "ishioka-3445f3-paypay"
+    }
+  ],
+  "各種小売 / 家電・家具・寝具・キッチン用品": [
+    {
+      "name": "トチモト電機商会",
+      "address": "若宮1-2-5",
+      "storeid": "ishioka-848a6c",
+      "shopid": "ishioka-848a6c-paypay"
+    },
+    {
+      "name": "ひととせと",
+      "address": "国府4-6-1",
+      "storeid": "ishioka-2f57f6",
+      "shopid": "ishioka-2f57f6-paypay"
+    },
+    {
+      "name": "フォーエスつくばシオタ",
+      "address": "若松1-8-14",
+      "storeid": "ishioka-fdb095",
+      "shopid": "ishioka-fdb095-paypay"
+    },
+    {
+      "name": "橘吉也",
+      "address": "国府3-4-25",
+      "storeid": "ishioka-ecb626",
+      "shopid": "ishioka-ecb626-paypay"
+    },
+    {
+      "name": "高安桐工芸",
+      "address": "村上280-2",
+      "storeid": "ishioka-ae329c",
+      "shopid": "ishioka-ae329c-paypay"
+    },
+    {
+      "name": "相川畳店",
+      "address": "旭台1-15-1",
+      "storeid": "ishioka-6717c8",
+      "shopid": "ishioka-6717c8-paypay"
+    },
+    {
+      "name": "朝倉塑象",
+      "address": "佐久294-6",
+      "storeid": "ishioka-124d20",
+      "shopid": "ishioka-124d20-paypay"
+    }
+  ],
+  "各種小売 / 花・植木・農耕具・ペット": [
+    {
+      "name": "Bunny&Bear Kennel",
+      "address": "三村5878",
+      "storeid": "ishioka-2b663f",
+      "shopid": "ishioka-2b663f-paypay"
+    },
+    {
+      "name": "COO&RIKU石岡店",
+      "address": "東大橋3151-11",
+      "storeid": "ishioka-fa7ddd",
+      "shopid": "ishioka-fa7ddd-paypay"
+    },
+    {
+      "name": "CuddlyAnimal",
+      "address": "山崎3745-6",
+      "storeid": "ishioka-85b38c",
+      "shopid": "ishioka-85b38c-paypay"
+    },
+    {
+      "name": "Joanneflower",
+      "address": "真家2502-6",
+      "storeid": "ishioka-d63f51",
+      "shopid": "ishioka-d63f51-paypay"
+    },
+    {
+      "name": "titahata683",
+      "address": "東大橋2066-10",
+      "storeid": "ishioka-afdd84",
+      "shopid": "ishioka-afdd84-paypay"
+    },
+    {
+      "name": "えだ動物病院",
+      "address": "下林325-3",
+      "storeid": "ishioka-cfc6c2",
+      "shopid": "ishioka-cfc6c2-paypay"
+    },
+    {
+      "name": "ドッグラン  あいるらんど",
+      "address": "山崎2246-20",
+      "storeid": "ishioka-ad5861",
+      "shopid": "ishioka-ad5861-paypay"
+    },
+    {
+      "name": "ニュアンス",
+      "address": "柿岡3698-1",
+      "storeid": "ishioka-3a6ade",
+      "shopid": "ishioka-3a6ade-paypay"
+    },
+    {
+      "name": "みむら動物病院",
+      "address": "東光台3-5-8",
+      "storeid": "ishioka-eda013",
+      "shopid": "ishioka-eda013-paypay"
+    },
+    {
+      "name": "ムカカ",
+      "address": "石岡2181-2",
+      "storeid": "ishioka-9adfdc",
+      "shopid": "ishioka-9adfdc-paypay"
+    },
+    {
+      "name": "ムラタナーセリー",
+      "address": "三村6413-4",
+      "storeid": "ishioka-6ec7ec",
+      "shopid": "ishioka-6ec7ec-paypay"
+    },
+    {
+      "name": "犬の美容室レインボー",
+      "address": "弓弦695",
+      "storeid": "ishioka-16fba3",
+      "shopid": "ishioka-16fba3-paypay"
+    },
+    {
+      "name": "犬爛美泊ヴェル",
+      "address": "国府2-1-4",
+      "storeid": "ishioka-d36c4f",
+      "shopid": "ishioka-d36c4f-paypay"
+    },
+    {
+      "name": "高中生花店",
+      "address": "国府2-1-26",
+      "storeid": "ishioka-d45bdd",
+      "shopid": "ishioka-d45bdd-paypay"
+    },
+    {
+      "name": "沼田生花 下林店",
+      "address": "下林282",
+      "storeid": "ishioka-bda762",
+      "shopid": "ishioka-bda762-paypay"
+    },
+    {
+      "name": "沼田生花 柿岡店",
+      "address": "柿岡1937-6",
+      "storeid": "ishioka-e78054",
+      "shopid": "ishioka-e78054-paypay"
+    },
+    {
+      "name": "神生バラ園",
+      "address": "吉生3113",
+      "storeid": "ishioka-657ef5",
+      "shopid": "ishioka-657ef5-paypay"
+    },
+    {
+      "name": "本田生花苑",
+      "address": "杉並1-1-26",
+      "storeid": "ishioka-603c9f",
+      "shopid": "ishioka-603c9f-paypay"
+    },
+    {
+      "name": "木村生花店",
+      "address": "府中2-7-20",
+      "storeid": "ishioka-a3ddd1",
+      "shopid": "ishioka-a3ddd1-paypay"
+    }
+  ],
+  "各種小売 / 呉服": [
+    {
+      "name": "京扇石岡店",
+      "address": "東光台2-1-5",
+      "storeid": "ishioka-79ff02",
+      "shopid": "ishioka-79ff02-paypay"
+    },
+    {
+      "name": "写楽石岡店",
+      "address": "東光台2-1-5",
+      "storeid": "ishioka-4a1bda",
+      "shopid": "ishioka-4a1bda-paypay"
+    }
+  ],
+  "各種小売 / 時計・貴金属・メガネ・カメラ": [
+    {
+      "name": "ジュエリーハグ",
+      "address": "真家2733",
+      "storeid": "ishioka-51974b",
+      "shopid": "ishioka-51974b-paypay"
+    },
+    {
+      "name": "メガネショップネモト",
+      "address": "石岡1–1−11",
+      "storeid": "ishioka-72d82d",
+      "shopid": "ishioka-72d82d-paypay"
+    },
+    {
+      "name": "メガネストアーフォレストモール石岡",
+      "address": "石岡12886",
+      "storeid": "ishioka-0d6371",
+      "shopid": "ishioka-0d6371-paypay"
+    },
+    {
+      "name": "メガネのトミオカ",
+      "address": "国府2-2-19-101",
+      "storeid": "ishioka-93ea5e",
+      "shopid": "ishioka-93ea5e-paypay"
+    },
+    {
+      "name": "萩原時計店",
+      "address": "柿岡1993-3",
+      "storeid": "ishioka-8bd1c9",
+      "shopid": "ishioka-8bd1c9-paypay"
+    }
+  ],
+  "各種小売 / 酒類・リカーショップ": [
+    {
+      "name": "リカーワールド古木屋",
+      "address": "柿岡1938",
+      "storeid": "ishioka-d49f54",
+      "shopid": "ishioka-d49f54-paypay"
+    },
+    {
+      "name": "酒の志筑屋",
+      "address": "鹿の子1-14-30",
+      "storeid": "ishioka-bfa529",
+      "shopid": "ishioka-bfa529-paypay"
+    },
+    {
+      "name": "酒の冷水",
+      "address": "府中2-2-35",
+      "storeid": "ishioka-9ce74d",
+      "shopid": "ishioka-9ce74d-paypay"
+    },
+    {
+      "name": "鍋源酒店",
+      "address": "柿岡1933-2",
+      "storeid": "ishioka-18ee0b",
+      "shopid": "ishioka-18ee0b-paypay"
+    },
+    {
+      "name": "八郷蒸留所ビジターセンター",
+      "address": "須釜1310-1",
+      "storeid": "ishioka-527667",
+      "shopid": "ishioka-527667-paypay"
+    }
+  ],
+  "各種小売 / 書籍・文具・楽器・スポーツ・自転車・おもちゃ・CD・DVD": [
+    {
+      "name": "GoodDays 朝日里山",
+      "address": "柴内630-1",
+      "storeid": "ishioka-1db831",
+      "shopid": "ishioka-1db831-paypay"
+    },
+    {
+      "name": "GoodDays 八郷総合支所前",
+      "address": "柿岡5680",
+      "storeid": "ishioka-e00c67",
+      "shopid": "ishioka-e00c67-paypay"
+    },
+    {
+      "name": "muu",
+      "address": "石岡13939-4",
+      "storeid": "ishioka-ad6db4",
+      "shopid": "ishioka-ad6db4-paypay"
+    },
+    {
+      "name": "nasa",
+      "address": "上曽1389-1",
+      "storeid": "ishioka-b7b640",
+      "shopid": "ishioka-b7b640-paypay"
+    },
+    {
+      "name": "snegl．wood",
+      "address": "小幡1262-99",
+      "storeid": "ishioka-7e8c03",
+      "shopid": "ishioka-7e8c03-paypay"
+    },
+    {
+      "name": "Sports Opa kite 板敷ショップ",
+      "address": "大増1900",
+      "storeid": "ishioka-5b9802",
+      "shopid": "ishioka-5b9802-paypay"
+    },
+    {
+      "name": "TFSURF",
+      "address": "若松1-2-16",
+      "storeid": "ishioka-ae418e",
+      "shopid": "ishioka-ae418e-paypay"
+    },
+    {
+      "name": "アキヤマ書店",
+      "address": "東石岡4-11-23",
+      "storeid": "ishioka-47ebfb",
+      "shopid": "ishioka-47ebfb-paypay"
+    },
+    {
+      "name": "カギヤ楽器",
+      "address": "府中2-1-38",
+      "storeid": "ishioka-288888",
+      "shopid": "ishioka-288888-paypay"
+    },
+    {
+      "name": "サン・スポーツかみの",
+      "address": "旭台3-16-21",
+      "storeid": "ishioka-f1aeab",
+      "shopid": "ishioka-f1aeab-paypay"
+    },
+    {
+      "name": "ナガヤマスポーツ",
+      "address": "東石岡1-9-33",
+      "storeid": "ishioka-2eca8e",
+      "shopid": "ishioka-2eca8e-paypay"
+    },
+    {
+      "name": "（株）大塚屋商店",
+      "address": "府中5-10-22",
+      "storeid": "ishioka-778485",
+      "shopid": "ishioka-778485-paypay"
+    },
+    {
+      "name": "富士書店",
+      "address": "八軒台3214-1",
+      "storeid": "ishioka-730068",
+      "shopid": "ishioka-730068-paypay"
+    }
+  ],
+  "各種小売 / 食品スーパー": [
+    {
+      "name": "JAやさと やさと温泉ゆりの郷物産館",
+      "address": "小幡1416",
+      "storeid": "ishioka-81700c",
+      "shopid": "ishioka-81700c-paypay"
+    },
+    {
+      "name": "JAやさと 園部直売所",
+      "address": "宮ケ崎472-2",
+      "storeid": "ishioka-e77fae",
+      "shopid": "ishioka-e77fae-paypay"
+    },
+    {
+      "name": "JAやさと 柿岡直売所",
+      "address": "柿岡3638-1",
+      "storeid": "ishioka-59cfa1",
+      "shopid": "ishioka-59cfa1-paypay"
+    },
+    {
+      "name": "JA新ひたち野 農産物直売所  大地のめぐみ",
+      "address": "南台3-21-14",
+      "storeid": "ishioka-67485b",
+      "shopid": "ishioka-67485b-paypay"
+    },
+    {
+      "name": "フレンドリーマートすずき",
+      "address": "井関963-1",
+      "storeid": "ishioka-2aaae7",
+      "shopid": "ishioka-2aaae7-paypay"
+    },
+    {
+      "name": "マルサストアー",
+      "address": "月岡852-2",
+      "storeid": "ishioka-1e3a93",
+      "shopid": "ishioka-1e3a93-paypay"
+    }
+  ],
+  "各種小売 / 食品販売店": [
+    {
+      "name": "（光）本多果樹園",
+      "address": "真家1576",
+      "storeid": "ishioka-2c4090",
+      "shopid": "ishioka-2c4090-paypay"
+    },
+    {
+      "name": "BERRYVERYGOOD",
+      "address": "辻62",
+      "storeid": "ishioka-4adef7",
+      "shopid": "ishioka-4adef7-paypay"
+    },
+    {
+      "name": "GREEN LEAF",
+      "address": "柿岡1669-3",
+      "storeid": "ishioka-5fea87",
+      "shopid": "ishioka-5fea87-paypay"
+    },
+    {
+      "name": "Phuong Anh Quan",
+      "address": "東光台3-10-9",
+      "storeid": "ishioka-5b20c3",
+      "shopid": "ishioka-5b20c3-paypay"
+    },
+    {
+      "name": "Rafすとろべりーふぁーむ",
+      "address": "辻56-1",
+      "storeid": "ishioka-558f26",
+      "shopid": "ishioka-558f26-paypay"
+    },
+    {
+      "name": "Rocune Bakery",
+      "address": "鹿の子2-1-22",
+      "storeid": "ishioka-821821",
+      "shopid": "ishioka-821821-paypay"
+    },
+    {
+      "name": "WC   SPICE＆HALAL   FOOD",
+      "address": "旭台3-21-9",
+      "storeid": "ishioka-3adf9c",
+      "shopid": "ishioka-3adf9c-paypay"
+    },
+    {
+      "name": "YtoI",
+      "address": "茨城1-4-35",
+      "storeid": "ishioka-a43da7",
+      "shopid": "ishioka-a43da7-paypay"
+    },
+    {
+      "name": "アンファミーユ  石岡店",
+      "address": "東石岡2-13-27",
+      "storeid": "ishioka-f25b51",
+      "shopid": "ishioka-f25b51-paypay"
+    },
+    {
+      "name": "お菓子工房  プティグリオ",
+      "address": "八軒台3167-8",
+      "storeid": "ishioka-9b4abc",
+      "shopid": "ishioka-9b4abc-paypay"
+    },
+    {
+      "name": "カトウ精肉店",
+      "address": "若松1-5-23",
+      "storeid": "ishioka-86a42b",
+      "shopid": "ishioka-86a42b-paypay"
+    },
+    {
+      "name": "シャノワール",
+      "address": "東光台3-1-1",
+      "storeid": "ishioka-4ae665",
+      "shopid": "ishioka-4ae665-paypay"
+    },
+    {
+      "name": "ダヤール",
+      "address": "小屋344",
+      "storeid": "ishioka-7b1b43",
+      "shopid": "ishioka-7b1b43-paypay"
+    },
+    {
+      "name": "つくばハーブカフェルートやさと店",
+      "address": "柿岡1669-3",
+      "storeid": "ishioka-8a727b",
+      "shopid": "ishioka-8a727b-paypay"
+    },
+    {
+      "name": "とやま荘ハム",
+      "address": "東田中1498-17",
+      "storeid": "ishioka-5b8e27",
+      "shopid": "ishioka-5b8e27-paypay"
+    },
+    {
+      "name": "フルーツランド外塚農園",
+      "address": "三村2260-1",
+      "storeid": "ishioka-bf22c6",
+      "shopid": "ishioka-bf22c6-paypay"
+    },
+    {
+      "name": "まちかど情報センター",
+      "address": "国府3-1-16",
+      "storeid": "ishioka-fc9824",
+      "shopid": "ishioka-fc9824-paypay"
+    },
+    {
+      "name": "むらやま",
+      "address": "国府3-4-24",
+      "storeid": "ishioka-72ba1b",
+      "shopid": "ishioka-72ba1b-paypay"
+    },
+    {
+      "name": "めいファーム",
+      "address": "須釜1409",
+      "storeid": "ishioka-c4ad8d",
+      "shopid": "ishioka-c4ad8d-paypay"
+    },
+    {
+      "name": "開田ぶどう園",
+      "address": "片岡47",
+      "storeid": "ishioka-88a5f1",
+      "shopid": "ishioka-88a5f1-paypay"
+    },
+    {
+      "name": "（株）小倉味噌店",
+      "address": "高浜831",
+      "storeid": "ishioka-8d04cd",
+      "shopid": "ishioka-8d04cd-paypay"
+    },
+    {
+      "name": "甘藷農園 燈屋",
+      "address": "東田中1328-1",
+      "storeid": "ishioka-8e60e0",
+      "shopid": "ishioka-8e60e0-paypay"
+    },
+    {
+      "name": "丸坂いちご園",
+      "address": "辻108",
+      "storeid": "ishioka-20a57b",
+      "shopid": "ishioka-20a57b-paypay"
+    },
+    {
+      "name": "久月 石岡店",
+      "address": "東石岡5-1-17",
+      "storeid": "ishioka-aabbed",
+      "shopid": "ishioka-aabbed-paypay"
+    },
+    {
+      "name": "久月 石岡鹿の子店",
+      "address": "鹿の子1-13-1",
+      "storeid": "ishioka-337680",
+      "shopid": "ishioka-337680-paypay"
+    },
+    {
+      "name": "栗夢堂",
+      "address": "鹿の子2-16-15",
+      "storeid": "ishioka-5f8eb0",
+      "shopid": "ishioka-5f8eb0-paypay"
+    },
+    {
+      "name": "好文だんご本舗",
+      "address": "山崎2244-46",
+      "storeid": "ishioka-ce0678",
+      "shopid": "ishioka-ce0678-paypay"
+    },
+    {
+      "name": "山城屋米店",
+      "address": "柿岡1896-1",
+      "storeid": "ishioka-a9e053",
+      "shopid": "ishioka-a9e053-paypay"
+    },
+    {
+      "name": "石川園",
+      "address": "府中3-9-20",
+      "storeid": "ishioka-0d1a65",
+      "shopid": "ishioka-0d1a65-paypay"
+    },
+    {
+      "name": "雪村餃子  無人直売所",
+      "address": "東光台3-7-2",
+      "storeid": "ishioka-8b64a6",
+      "shopid": "ishioka-8b64a6-paypay"
+    },
+    {
+      "name": "扇屋 石岡店",
+      "address": "東大橋3194-5",
+      "storeid": "ishioka-ffeaff",
+      "shopid": "ishioka-ffeaff-paypay"
+    },
+    {
+      "name": "大貫精肉店",
+      "address": "東光台1-9-1",
+      "storeid": "ishioka-b1061a",
+      "shopid": "ishioka-b1061a-paypay"
+    },
+    {
+      "name": "炭火くしやき鳥専亭",
+      "address": "東光台4-12-34",
+      "storeid": "ishioka-817c97",
+      "shopid": "ishioka-817c97-paypay"
+    },
+    {
+      "name": "土田製菓",
+      "address": "柿岡1980-2",
+      "storeid": "ishioka-b11fc4",
+      "shopid": "ishioka-b11fc4-paypay"
+    },
+    {
+      "name": "東屋糀味噌店",
+      "address": "柿岡2966",
+      "storeid": "ishioka-1b7b1c",
+      "shopid": "ishioka-1b7b1c-paypay"
+    },
+    {
+      "name": "藤枝いちご園",
+      "address": "東大橋474",
+      "storeid": "ishioka-afbf5a",
+      "shopid": "ishioka-afbf5a-paypay"
+    },
+    {
+      "name": "飯田屋",
+      "address": "国府1-2-30",
+      "storeid": "ishioka-420e33",
+      "shopid": "ishioka-420e33-paypay"
+    },
+    {
+      "name": "不二家 柿岡店",
+      "address": "柿岡1980",
+      "storeid": "ishioka-e54001",
+      "shopid": "ishioka-e54001-paypay"
+    },
+    {
+      "name": "和菓子工房おじま",
+      "address": "府中2-2-9",
+      "storeid": "ishioka-66b165",
+      "shopid": "ishioka-66b165-paypay"
+    }
+  ],
+  "娯楽 / テーマパーク・遊園地・水族館・博物館": [
+    {
+      "name": "ダチョウ王国 石岡ファーム",
+      "address": "半ノ木14052",
+      "storeid": "ishioka-59e11d",
+      "shopid": "ishioka-59e11d-paypay"
+    },
+    {
+      "name": "ミッドクリークフィッシングエリア",
+      "address": "菖蒲沢80",
+      "storeid": "ishioka-c172d1",
+      "shopid": "ishioka-c172d1-paypay"
+    },
+    {
+      "name": "東筑波ユートピア",
+      "address": "吉生2729-1",
+      "storeid": "ishioka-52f768",
+      "shopid": "ishioka-52f768-paypay"
+    },
+    {
+      "name": "野遊びひとりじめ",
+      "address": "根小屋1029-24",
+      "storeid": "ishioka-708276",
+      "shopid": "ishioka-708276-paypay"
+    }
+  ],
+  "交通・宅配・運転代行 / タクシー": [
+    {
+      "name": "京成タクシー茨城石岡営業所",
+      "address": "府中1-2-6",
+      "storeid": "ishioka-25b899",
+      "shopid": "ishioka-25b899-paypay"
+    }
+  ],
+  "交通・宅配・運転代行 / 運転代行業": [
+    {
+      "name": "KC運転代行サービス",
+      "address": "旭台3-3-13",
+      "storeid": "ishioka-885079",
+      "shopid": "ishioka-885079-paypay"
+    }
+  ]
+}
