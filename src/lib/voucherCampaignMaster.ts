@@ -1792,6 +1792,46 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
   dateModified: "2026-03-02",
   eligiblePersons: "兵庫県明石市に住所を有する16歳以上の方（本人確認必須・抽選方式）",
   applicationUrl: ""
+},
+{
+  paytype: "paypay-voucher",
+  prefectureSlug: "toyama",
+  citySlug: "takaoka",
+  prefecture: "富山県",
+  city: "高岡市",
+  campaigntitle: "高岡市プレミアム付デジタル商品券",
+  purchasePrice: 5000,
+  ticketAmount: 6000,
+  maxUnits: 10,
+  applyStartDate: "2026-04-13T10:00:00",
+  applyEndDate: "2026-05-06T23:59:59",
+  resultAnnounceDate: "2026-05-07T15:00:00",
+  purchaseEndDate: "2026-06-30T23:59:59",
+  useEndDate: "2026-09-30T23:59:59",
+  datePublished: "2026-04-13",
+  dateModified: "2026-04-13",
+  eligiblePersons: "富山県高岡市に住所を有する12歳以上の方（本人確認必須・抽選方式）",
+  applicationUrl: "https://paypay.ne.jp/event/toyama-takaoka-city-gift-vouchers-20260413/"
+},
+{
+  paytype: "paypay-voucher",
+  prefectureSlug: "tokyo",
+  citySlug: "kita",
+  prefecture: "東京都",
+  city: "北区",
+  campaigntitle: "しぶさわくんPay！第2弾 プレミアム付北区内共通デジタル商品券",
+  purchasePrice: 5000,
+  ticketAmount: 6000,
+  maxUnits: 4,
+  applyStartDate: "2025-11-08T10:00:00",
+  applyEndDate: "2025-12-31T23:59:59",
+  /* resultAnnounceDate: null, */ // 先着順
+  purchaseEndDate: "2025-12-31T23:59:59",
+  useEndDate: "2026-04-30T23:59:59",
+  datePublished: "2025-11-08",
+  dateModified: "2025-11-08",
+  eligiblePersons: "東京都北区に住所を有する12歳以上の方（本人確認必須・先着順）",
+  applicationUrl: "https://paypay.ne.jp/event/tokyo-kita-city-gift-vouchers-20251108/"
 }
 ];
 
