@@ -8,25 +8,26 @@ import type { ShopDetail } from "@/hooks/useShopDetails";
 type Props = {
   genre: string;
   shops: Shop[];
-  sortMode: "default" | "support";
   /** SSRから渡される店舗詳細データ */
   detailsMap: Record<string, ShopDetail>;
-  /** Supabaseから取得した応援ランキング */
-  ranking: { shopid: string; likes_total: number }[];
+  /** shopid → いいね数マップ（SupportButton の初期値用） */
+  likesMap: Record<string, number>;
+  /** 今日すでに押し済みの shopid セット（SupportButton の初期値用） */
+  likedShopIds: Set<string>;
 };
 
 /**
  * ✅ Egress削減対応版 ShopList
  * - `useShopDetails` を削除（クライアントfetchなし）
  * - detailsMap（SSR取得済）から詳細を参照
- * - ♥応援数順のソート対応
+ * - likesMap / likedShopIds を各 ShopCard に渡し、SupportButton のクエリを0にする
  */
 export default function ShopList({
   genre,
   shops,
-  sortMode,
   detailsMap,
-  ranking,
+  likesMap,
+  likedShopIds,
 }: Props) {
   const [expanded, setExpanded] = useState(false);
   const [isClient, setIsClient] = useState(false);
@@ -37,20 +38,6 @@ export default function ShopList({
   const threshold = 12;
   const showToggle = shops?.length > threshold;
   const visibleShops = isClient && !expanded ? shops.slice(0, threshold) : shops;
-
-  // ✅ 並び替え処理（♥応援順 or デフォルト）
-  const sortedShops =
-    sortMode === "support"
-      ? [...visibleShops].sort((a, b) => {
-          const rankA = a.shopid
-            ? ranking.find((r) => r.shopid === a.shopid)?.likes_total ?? 0
-            : 0;
-          const rankB = b.shopid
-            ? ranking.find((r) => r.shopid === b.shopid)?.likes_total ?? 0
-            : 0;
-          return rankB - rankA;
-        })
-      : visibleShops;
 
   const toggleExpanded = () => {
     if (expanded && headingRef.current) {
@@ -76,8 +63,10 @@ export default function ShopList({
       ) : (
         <>
           <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 sm:gap-3 text-sm">
-            {sortedShops.map((shop, idx) => {
+            {visibleShops.map((shop, idx) => {
               const detail = shop.shopid ? detailsMap?.[shop.shopid] : undefined;
+              const initialLikes = shop.shopid ? (likesMap[shop.shopid] ?? 0) : 0;
+              const initialLiked = shop.shopid ? likedShopIds.has(shop.shopid) : false;
 
               return (
                 <ShopCard
@@ -85,6 +74,8 @@ export default function ShopList({
                   shop={shop}
                   detail={detail}
                   onClick={() => {}}
+                  initialLikes={initialLikes}
+                  initialLiked={initialLiked}
                 />
               );
             })}

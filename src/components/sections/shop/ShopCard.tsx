@@ -6,17 +6,21 @@ import { cn } from "@/lib/utils";
 import SupportButton from "@/components/common/SupportButton";
 
 type Props = {
-  shop: Shop & { likes?: number }; // ✅ likes を受け取れるように拡張
+  shop: Shop & { likes?: number };
   detail?: ShopDetail;
   onClick?: () => void;
+  /** 親（ShopList）から渡す初期いいね数 */
+  initialLikes?: number;
+  /** 親（ShopList）から渡す今日押し済みフラグ */
+  initialLiked?: boolean;
 };
 
-export default function ShopCard({ shop, detail, onClick }: Props) {
+export default function ShopCard({ shop, detail, onClick, initialLikes, initialLiked }: Props) {
   const isModalLink = !!detail;
   return isModalLink ? (
-    <DummyLinkCard shop={shop} detail={detail} />
+    <DummyLinkCard shop={shop} detail={detail} initialLikes={initialLikes} initialLiked={initialLiked} />
   ) : (
-    <NormalShopCard shop={shop} onClick={onClick} />
+    <NormalShopCard shop={shop} onClick={onClick} initialLikes={initialLikes} initialLiked={initialLiked} />
   );
 }
 
@@ -24,9 +28,13 @@ export default function ShopCard({ shop, detail, onClick }: Props) {
 function DummyLinkCard({
   shop,
   detail,
+  initialLikes,
+  initialLiked,
 }: {
   shop: Shop & { likes?: number };
   detail: ShopDetail;
+  initialLikes?: number;
+  initialLiked?: boolean;
 }) {
   const baseClass =
     "rounded-lg px-3 py-[6px] sm:px-4 sm:py-3 mb-1 sm:mb-0 border-2 border-pink-300 bg-white transition duration-200";
@@ -49,7 +57,7 @@ function DummyLinkCard({
             )}
           </div>
           {shop.shopid && (
-            <SupportButton shopid={shop.shopid} initialLikes={shop.likes ?? 0} />
+            <SupportButton shopid={shop.shopid} initialLikes={initialLikes} initialLiked={initialLiked} />
           )}
         </div>
 
@@ -106,7 +114,7 @@ function DummyLinkCard({
         {/* PC用 ❤️ 応援ボタン */}
         {shop.shopid && (
           <div className="hidden sm:block mt-2">
-            <SupportButton shopid={shop.shopid} initialLikes={shop.likes ?? 0} />
+            <SupportButton shopid={shop.shopid} initialLikes={initialLikes} initialLiked={initialLiked} />
           </div>
         )}
       </div>
@@ -118,9 +126,13 @@ function DummyLinkCard({
 function NormalShopCard({
   shop,
   onClick,
+  initialLikes,
+  initialLiked,
 }: {
   shop: Shop & { likes?: number };
   onClick?: () => void;
+  initialLikes?: number;
+  initialLiked?: boolean;
 }) {
   const baseClass = `rounded-lg px-3 py-[5px] sm:px-4 sm:py-3 mb-1 sm:mb-0 border bg-white border-gray-200 cursor-default`;
 
@@ -135,7 +147,7 @@ function NormalShopCard({
           )}
         </div>
         {shop.shopid && (
-          <SupportButton shopid={shop.shopid} initialLikes={shop.likes ?? 0} />
+          <SupportButton shopid={shop.shopid} initialLikes={initialLikes} initialLiked={initialLiked} />
         )}
       </div>
 
@@ -147,7 +159,7 @@ function NormalShopCard({
         </p>
         {shop.shopid && (
           <div className="mt-1">
-            <SupportButton shopid={shop.shopid} initialLikes={shop.likes ?? 0} />
+            <SupportButton shopid={shop.shopid} initialLikes={initialLikes} initialLiked={initialLiked} />
           </div>
         )}
       </div>

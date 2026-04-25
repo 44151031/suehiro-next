@@ -12,6 +12,10 @@ type Props = {
   detailsMap: Record<string, ShopDetail>;
   /** Supabaseから取得した応援ランキング */
   ranking: { shopid: string; likes: number }[];
+  /** shopid → いいね数マップ（SupportButton の初期値用） */
+  likesMap: Record<string, number>;
+  /** 今日すでに押し済みの shopid セット（SupportButton の初期値用） */
+  likedShopIds: Set<string>;
 };
 
 /**
@@ -24,6 +28,8 @@ export default function GenreShopLists({
   shopListByGenre,
   detailsMap,
   ranking,
+  likesMap,
+  likedShopIds,
 }: Props) {
   if (!shopListByGenre || Object.keys(shopListByGenre).length === 0) {
     return (
@@ -43,8 +49,8 @@ export default function GenreShopLists({
 
         // ✅ 応援数順に並び替え（♥が多い順）
         const sortedShops = [...shops].sort((a, b) => {
-          const likesA = ranking.find((r) => r.shopid === a.shopid)?.likes ?? 0;
-          const likesB = ranking.find((r) => r.shopid === b.shopid)?.likes ?? 0;
+          const likesA = a.shopid ? (likesMap[a.shopid] ?? 0) : 0;
+          const likesB = b.shopid ? (likesMap[b.shopid] ?? 0) : 0;
           return likesB - likesA;
         });
 
@@ -54,7 +60,8 @@ export default function GenreShopLists({
             genre={genre}
             shops={sortedShops}
             detailsMap={detailsMap}
-            ranking={ranking}
+            likesMap={likesMap}
+            likedShopIds={likedShopIds}
           />
         );
       })}

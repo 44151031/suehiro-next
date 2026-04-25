@@ -6,14 +6,20 @@ import { toast } from "sonner";
 import { supabaseClient } from "@/lib/supabase/client";
 import { getOrSetSessionId } from "@/lib/sessionClient";
 
-type Props = { shopid: string };
+type Props = {
+  shopid: string;
+  /** 親から渡す初期いいね数（渡された場合 shop_stats クエリをスキップ） */
+  initialLikes?: number;
+  /** 親から渡す今日押し済みフラグ（渡された場合 support_events クエリをスキップ） */
+  initialLiked?: boolean;
+};
 
-export default function SupportButton({ shopid }: Props) {
-  const [likes, setLikes] = useState<number>(0);
-  const [liked, setLiked] = useState<boolean>(false);
+export default function SupportButton({ shopid, initialLikes, initialLiked }: Props) {
+  const [likes, setLikes] = useState<number>(initialLikes ?? 0);
+  const [liked, setLiked] = useState<boolean>(initialLiked ?? false);
   const [pending, setPending] = useState<boolean>(false);
   const [ready, setReady] = useState<boolean>(false);
-  const [isLimit, setIsLimit] = useState<boolean>(false); // ← 上限フラグ
+  const [isLimit, setIsLimit] = useState<boolean>((initialLikes ?? 0) >= 10);
 
   // JST 0:00～翌日0:00 を UTC に変換
   const getJSTRangeUTC = () => {
@@ -44,34 +50,43 @@ export default function SupportButton({ shopid }: Props) {
 
   // 初期ロード
   useEffect(() => {
+    // 両方の初期値が親から渡された場合、Supabase クエリを完全スキップ
+    if (initialLikes !== undefined && initialLiked !== undefined) {
+      setReady(true);
+      return;
+    }
+
     const init = async () => {
       try {
-        const sid = await getOrSetSessionId();
+        const sid = getOrSetSessionId();
         if (!sid) throw new Error("session id 未生成");
 
-        // ❤️ 店舗の「総いいね数」を取得（集計テーブル）
-        const { data: stat } = await supabaseClient
-          .from("shop_stats")
-          .select("likes_total")
-          .eq("shopid", shopid)
-          .maybeSingle();
+        // initialLikes が未提供の場合のみ shop_stats を取得
+        if (initialLikes === undefined) {
+          const { data: stat } = await supabaseClient
+            .from("shop_stats")
+            .select("likes_total")
+            .eq("shopid", shopid)
+            .maybeSingle();
+          const total = stat?.likes_total ?? 0;
+          setLikes(total);
+          setIsLimit(total >= 10);
+        }
 
-        const total = stat?.likes_total ?? 0;
-        setLikes(total);
-        setIsLimit(total >= 10); // ❤️ 上限到達判定
+        // initialLiked が未提供の場合のみ今日押し済みを確認
+        if (initialLiked === undefined) {
+          const { start, end } = getJSTRangeUTC();
+          const { data: existing } = await supabaseClient
+            .from("support_events")
+            .select("id")
+            .eq("session_id", sid)
+            .eq("shopid", shopid)
+            .gte("created_at", start)
+            .lt("created_at", end)
+            .maybeSingle();
+          setLiked(!!existing);
+        }
 
-        // 今日すでに押したか？
-        const { start, end } = getJSTRangeUTC();
-        const { data: existing } = await supabaseClient
-          .from("support_events")
-          .select("id")
-          .eq("session_id", sid)
-          .eq("shopid", shopid)
-          .gte("created_at", start)
-          .lt("created_at", end)
-          .maybeSingle();
-
-        setLiked(!!existing);
         setReady(true);
       } catch (_) {
         setTimeout(() => setReady(true), 3000);
