@@ -2072,6 +2072,26 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
   dateModified: "2026-06-01",
   eligiblePersons: "兵庫県西脇市に住所を有する方（申込制・本人確認必須）",
   applicationUrl: ""
+},
+{
+  paytype: "paypay-voucher",
+  prefectureSlug: "osaka",
+  citySlug: "kadoma",
+  prefecture: "大阪府",
+  city: "門真市",
+  campaigntitle: "門真市プレミアム付デジタル商品券！最大5,000円おトク！",
+  purchasePrice: 5000,
+  ticketAmount: 7500,
+  maxUnits: 2,
+  applyStartDate: "2026-06-29T10:00:00",
+  applyEndDate: "2026-08-31T23:59:59",
+  /* resultAnnounceDate: null, */ // 先着順
+  purchaseEndDate: "2026-08-31T23:59:59",
+  useEndDate: "2026-12-25T23:59:59",
+  datePublished: "2026-06-29",
+  dateModified: "2026-06-29",
+  eligiblePersons: "大阪府門真市に住所を有する12歳以上の方（先着順・本人確認必須）",
+  applicationUrl: ""
 }
 ];
 
