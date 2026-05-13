@@ -65,7 +65,7 @@ export default function ShopList({
           <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 sm:gap-3 text-sm">
             {visibleShops.map((shop, idx) => {
               const detail = shop.shopid ? detailsMap?.[shop.shopid] : undefined;
-              const initialLikes = shop.shopid ? (likesMap[shop.shopid] ?? 0) : 0;
+              const initialLikes = shop.shopid ? likesMap[shop.shopid] : undefined;
               const initialLiked = shop.shopid ? likedShopIds.has(shop.shopid) : false;
 
               return (

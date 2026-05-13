@@ -122,12 +122,16 @@ export default function SupportButton({ shopid, initialLikes, initialLiked }: Pr
           if (next >= 10) setIsLimit(true);
           return next;
         });
+        // ランキングキャッシュを無効化（次のリロード時に最新データを取得する）
+        localStorage.removeItem("shop_ranking_cache");
         trackSupportEvent("added");
         toast.success("応援ありがとう！明日になれば同じお店を応援できるよ！");
 
       } else if (result.status === "removed") {
         setLiked(false);
         setLikes((prev) => Math.max(0, prev - 1));
+        // ランキングキャッシュを無効化
+        localStorage.removeItem("shop_ranking_cache");
         trackSupportEvent("removed");
       } else if (result.status === "daily_limit") {
         toast.error("応援は1日3回までです。明日になれば、同じお店も応援できます！");
