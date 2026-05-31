@@ -1,6 +1,7 @@
 import type { Campaign } from "@/types/campaign";
 
 export const campaignsA: Campaign[] = [
+    { paytype: "paypay", prefectureSlug: "shimane", citySlug: "oda", prefecture: "島根県", city: "大田市", offer: 20, startDate: "2026-07-01", endDate: "2026-08-10", onepoint: "2000", fullpoint: "5000", campaigntitle: "おおだキャッシュレスキャンペーン", notice: "", datePublished: "2026-05-29", dateModified: "2026-05-29", officialUrl: "https://www.city.oda.lg.jp/" },
     { paytype: "paypay", prefectureSlug: "iwate", citySlug: "oshu", prefecture: "岩手県", city: "奥州市", offer: 20, startDate: "2026-07-01", endDate: "2026-07-31", onepoint: "5000", fullpoint: "10000", campaigntitle: "物価高騰に負けるな奥州！～対象店舗でPayPayを利用すると最大20％が戻ってくるキャンペーン～", notice: "", datePublished: "2026-05-15", dateModified: "2026-05-15", officialUrl: "https://www.city.oshu.iwate.jp/index.html" },
     { paytype: "paypay", prefectureSlug: "akita", citySlug: "yuzawa", prefecture: "秋田県", city: "湯沢市", offer: 10, startDate: "2026-07-01", endDate: "2026-09-30", onepoint: "3000", fullpoint: "5000", campaigntitle: "湯沢市でお買い物！キャッシュレス決済で最大10％戻ってくる湯沢市キャッシュレスキャンペーン！", notice: "", datePublished: "2026-05-15", dateModified: "2026-05-15", officialUrl: "https://www.city-yuzawa.jp/" },
     { paytype: "paypay", prefectureSlug: "kanagawa", citySlug: "zeniki", prefecture: "神奈川県", city: "全域", offer: 20, startDate: "2026-06-19", endDate: "2026-07-31", onepoint: "1000", fullpoint: "2500", campaigntitle: "かながわトクトクキャンペーン！『かなトク！』", notice: "", datePublished: "2026-05-15", dateModified: "2026-05-15", officialUrl: "https://www.pref.kanagawa.jp/" },
