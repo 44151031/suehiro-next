@@ -1,6 +1,7 @@
 import type { Campaign } from "@/types/campaign";
 
 export const campaignsA: Campaign[] = [
+    { paytype: "paypay", prefectureSlug: "osaka", citySlug: "matsubara", prefecture: "大阪府", city: "松原市", offer: 20, startDate: "2026-08-01", endDate: "2026-09-30", onepoint: "1000", fullpoint: "5000", campaigntitle: "まつばらキャッシュレスキャンペーン　最大20％戻ってくる！", notice: "", datePublished: "2026-07-01", dateModified: "2026-07-01", officialUrl: "https://www.city.matsubara.lg.jp/" },
     { paytype: "paypay", prefectureSlug: "chiba", citySlug: "zeniki", prefecture: "千葉県", city: "全域", offer: 10, startDate: "2026-08-07", endDate: "2026-08-30", onepoint: "3000", fullpoint: "3000", campaigntitle: "使うたび、めぐるたび、千葉の楽しさが広がっていく！千葉県キャッシュレス決済キャンペーン！", notice: "", datePublished: "2026-06-15", dateModified: "2026-06-15", officialUrl: "https://www.pref.chiba.lg.jp/" },
 { paytype: "paypay", prefectureSlug: "chiba", citySlug: "chiba-shi", prefecture: "千葉県", city: "千葉市", offer: 5, startDate: "2026-08-07", endDate: "2026-08-30", onepoint: "1500", fullpoint: "3000", campaigntitle: "千葉市でさらにおトクにお買い物！キャッシュレス決済で最大5％戻ってくるキャンペーン", notice: "", datePublished: "2026-06-15", dateModified: "2026-06-15", officialUrl: "https://www.city.chiba.jp/" },
 { paytype: "paypay", prefectureSlug: "gifu", citySlug: "gifu", prefecture: "岐阜県", city: "岐阜市", offer: 20, startDate: "2026-08-01", endDate: "2026-08-31", onepoint: "1000", fullpoint: "5000", campaigntitle: "令和8年度 岐阜市物価高騰支援事業20％還元キャンペーン", notice: "", datePublished: "2026-06-15", dateModified: "2026-06-15", officialUrl: "https://www.city.gifu.lg.jp/" },

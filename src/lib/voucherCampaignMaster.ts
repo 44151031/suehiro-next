@@ -2259,6 +2259,68 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
   dateModified: "2026-07-01",
   eligiblePersons: "居住地に関係なく12歳以上の全ての方（申込制・本人確認必須）",
   applicationUrl: ""
+},
+{
+  paytype: "paypay-voucher",
+  prefectureSlug: "tokyo",
+  citySlug: "bunkyo",
+  prefecture: "東京都",
+  city: "文京区",
+  campaigntitle: "文京区共通デジタル商品券",
+  purchasePrice: 5000,
+  ticketAmount: 6500,
+  maxUnits: 4,
+  applyStartDate: "2026-08-17T10:00:00",
+  applyEndDate: "2026-09-30T23:59:59",
+  /* resultAnnounceDate: null, */ // 先着順
+  purchaseEndDate: "2026-09-30T23:59:59",
+  useEndDate: "2027-01-15T23:59:59",
+  datePublished: "2026-08-17",
+  dateModified: "2026-08-17",
+  eligiblePersons: "東京都文京区に住所を有する12歳以上の方（先着順・本人確認必須）",
+  applicationUrl: ""
+},
+
+{
+  paytype: "paypay-voucher",
+  prefectureSlug: "nagano",
+  citySlug: "matsukawa",
+  prefecture: "長野県",
+  city: "松川町",
+  campaigntitle: "長野県松川町プレミアム商品券",
+  purchasePrice: 5000,
+  ticketAmount: 6500,
+  maxUnits: 20,
+  applyStartDate: "2026-08-03T10:00:00",
+  applyEndDate: "2026-08-31T23:59:59",
+  resultAnnounceDate: "2026-09-01T15:00:00",
+  purchaseEndDate: "2026-10-31T23:59:59",
+  useEndDate: "2027-01-31T23:59:59",
+  datePublished: "2026-08-03",
+  dateModified: "2026-08-03",
+  eligiblePersons: "長野県松川町に住所を有する12歳以上の方（申込制・本人確認必須）",
+  applicationUrl: ""
+},
+
+{
+  paytype: "paypay-voucher",
+  prefectureSlug: "oita",
+  citySlug: "bungoono",
+  prefecture: "大分県",
+  city: "豊後大野市",
+  campaigntitle: "豊後大野市プレミアム付デジタル商品券",
+  purchasePrice: 5000,
+  ticketAmount: 7000,
+  maxUnits: 4,
+  applyStartDate: "2026-08-17T10:00:00",
+  applyEndDate: "2026-09-13T23:59:59",
+  resultAnnounceDate: "2026-09-14T15:00:00",
+  purchaseEndDate: "2026-10-14T23:59:59",
+  useEndDate: "2026-12-31T23:59:59",
+  datePublished: "2026-08-17",
+  dateModified: "2026-08-17",
+  eligiblePersons: "大分県豊後大野市に住所を有する12歳以上の方（申込制・本人確認必須）",
+  applicationUrl: ""
 }
 ];
 
