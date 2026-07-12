@@ -1,10 +1,23 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { toggleSupport } from "@/lib/supportService";
+import { toggleSupport as toggleSupportAction } from "@/app/actions/support";
 import { toast } from "sonner";
 import { supabaseClient } from "@/lib/supabase/client";
 import { getOrSetSessionId } from "@/lib/sessionClient";
+
+declare global {
+  interface Window {
+    dataLayer?: Array<Record<string, unknown>>;
+  }
+}
+
+type SupportActionResult = {
+  ok: boolean;
+  liked: boolean;
+  likes: number;
+  message: string;
+};
 
 type Props = {
   shopid: string;
@@ -37,8 +50,8 @@ export default function SupportButton({ shopid, initialLikes, initialLiked }: Pr
 
   // GTM イベント送信
   const trackSupportEvent = (action: "added" | "removed") => {
-    if (typeof window !== "undefined" && (window as any).dataLayer) {
-      (window as any).dataLayer.push({
+    if (typeof window !== "undefined" && window.dataLayer) {
+      window.dataLayer.push({
         event: action === "added" ? "support_added" : "support_removed",
         shop_id: shopid,
         event_category: "support",
@@ -88,13 +101,13 @@ export default function SupportButton({ shopid, initialLikes, initialLiked }: Pr
         }
 
         setReady(true);
-      } catch (_) {
+      } catch {
         setTimeout(() => setReady(true), 3000);
       }
     };
 
     init();
-  }, [shopid]);
+  }, [shopid, initialLikes, initialLiked]);
 
   // ❤️ ボタン押下処理
   const handleClick = async () => {
@@ -113,33 +126,24 @@ export default function SupportButton({ shopid, initialLikes, initialLiked }: Pr
     setPending(true);
 
     try {
-      const result = await toggleSupport(shopid);
+      const result = (await toggleSupportAction(shopid)) as SupportActionResult;
 
-      if (result.status === "added") {
-        setLiked(true);
-        setLikes((prev) => {
-          const next = prev + 1;
-          if (next >= 10) setIsLimit(true);
-          return next;
-        });
-        // ランキングキャッシュを無効化（次のリロード時に最新データを取得する）
-        localStorage.removeItem("shop_ranking_cache");
-        trackSupportEvent("added");
-        toast.success("応援ありがとう！明日になれば同じお店を応援できるよ！");
-
-      } else if (result.status === "removed") {
-        setLiked(false);
-        setLikes((prev) => Math.max(0, prev - 1));
-        // ランキングキャッシュを無効化
-        localStorage.removeItem("shop_ranking_cache");
-        trackSupportEvent("removed");
-      } else if (result.status === "daily_limit") {
-        toast.error("応援は1日3回までです。明日になれば、同じお店も応援できます！");
-      } else if (result.status === "shop_limit") {
-        setIsLimit(true);
-        toast.error("このお店は応援上限に達しています。他のお店を応援してね。");
+      if (!result.ok) {
+        toast.error(result.message || "応援を更新できませんでした");
+        return;
       }
-    } catch (e) {
+
+      const wasLiked = liked;
+      setLiked(result.liked);
+      setLikes(result.likes);
+      setIsLimit(result.likes >= 10);
+      localStorage.removeItem("shop_ranking_cache");
+      trackSupportEvent(result.liked ? "added" : "removed");
+
+      if (!wasLiked && result.liked) {
+        toast.success(result.message || "応援ありがとうございます！");
+      }
+    } catch {
       toast.error("通信エラーが発生しました");
     } finally {
       setPending(false);
