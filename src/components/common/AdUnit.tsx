@@ -8,7 +8,15 @@ declare global {
   }
 }
 
-export default function AdUnit() {
+type AdUnitProps = {
+  responsive?: boolean;
+  placement?: string;
+};
+
+export default function AdUnit({
+  responsive = false,
+  placement = "standard",
+}: AdUnitProps) {
   const adRef = useRef<HTMLModElement>(null); // ✅ 修正：insタグに適した型
   const initialized = useRef(false);
 
@@ -16,7 +24,6 @@ export default function AdUnit() {
     if (!initialized.current && typeof window !== "undefined") {
       try {
         if (window.adsbygoogle && adRef.current) {
-          // @ts-ignore
           (window.adsbygoogle = window.adsbygoogle || []).push({});
           initialized.current = true;
         }
@@ -27,15 +34,22 @@ export default function AdUnit() {
   }, []);
 
   return (
-    <div className="flex justify-center items-center my-8 w-full">
+    <div
+      className="flex justify-center items-center my-8 w-full min-h-[250px]"
+      data-ad-placement={placement}
+    >
       <ins
         ref={adRef}
         className="adsbygoogle"
-        style={{ display: "block", width: "300px", height: "250px" }}
+        style={
+          responsive
+            ? { display: "block", width: "100%", minHeight: "250px" }
+            : { display: "block", width: "300px", height: "250px" }
+        }
         data-ad-client="ca-pub-6887407803306740"
         data-ad-slot="3186493931"
-        data-ad-format=""
-        // data-full-width-responsive="true"
+        data-ad-format={responsive ? "auto" : ""}
+        data-full-width-responsive={responsive ? "true" : undefined}
       />
     </div>
   );

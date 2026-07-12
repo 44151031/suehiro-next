@@ -20,6 +20,7 @@ export function getVoucherMetadata(
   citySlug: string,
   _paySlug?: VoucherPaySlug // 受け取っても無視して固定運用
 ): Metadata {
+  void _paySlug;
   const paySlug: VoucherPaySlug = "paypay-voucher";
   const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${paySlug}`;
   const ogImageUrl = `https://paycancampaign.com/images/campaigns/ogp/${prefectureSlug}-${citySlug}-${paySlug}-ogp.jpg?v=1`;
@@ -66,16 +67,14 @@ export function getVoucherMetadata(
 
   const ticketAmount = Number(v.ticketAmount ?? 0);
   const purchasePrice = Number(v.purchasePrice ?? 0);
-  const maxUnits = Number(v.maxUnits ?? 0);
   const rate = calculateVoucherDiscountRate(ticketAmount, purchasePrice);
-  const benefit = Math.max(ticketAmount - purchasePrice, 0) * maxUnits;
-
   const year = new Date(start || Date.now()).getFullYear();
 
   // 商品券は PayPay 固定
   const payLabel = "PayPay";
 
-  const title = `${city}の${payLabel}商品券${year}｜最大${rate}%お得！申込方法と概要–Payキャン`;
+  const applicationDeadline = formatJP(end);
+  const title = `${city}の${payLabel}商品券${year}｜申込は${applicationDeadline}まで・最大${rate}%お得–Payキャン`;
   const description = `${prefecture}${city}の${payLabel}商品券は、最大${rate}%お得に購入できるプレミアム商品券です。申込期間、購入上限、対象者、利用方法をわかりやすく解説します。地域で賢く節約できるチャンスをチェックしてください。`;
 
   return {

@@ -56,6 +56,7 @@ export default function VoucherCampaignPage({
 
   const modified = dateModified ?? datePublished;
   const discountRate = calculateVoucherDiscountRate(ticketAmount, purchasePrice);
+  const campaignYear = new Date(applyStartDate).getFullYear();
   const maxDiscount = (ticketAmount - purchasePrice) * maxUnits;
   const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${pay}`;
 
@@ -96,7 +97,7 @@ export default function VoucherCampaignPage({
         <main className="max-w-[1200px] mx-auto px-4 py-10">
           {/* ✅ H1：対象店舗は出さず、「お得・申込・利用」に寄せる */}
           <h1 className="headline1">
-            {cityName}のPayPay商品券2025｜最大{discountRate}％お得！（{maxUnits}
+            {cityName}のPayPay商品券{campaignYear}｜最大{discountRate}％お得！（{maxUnits}
             口購入で最大{formatNumber(maxDiscount)}円）
           </h1>
 
@@ -163,7 +164,7 @@ export default function VoucherCampaignPage({
             />
           </div>
 
-          <AdUnit />
+          <AdUnit placement="voucher-after-summary" />
 
           {/* ===== H2：概要（商品券とは？） ===== */}
           <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">

@@ -2,8 +2,8 @@
 // ✅ 最終完全版（楽天ペイ誘導ブロック追加）
 
 import { notFound } from "next/navigation";
-import { Metadata } from "next";
 import { campaigns } from "@/lib/campaignMaster";
+import type { Campaign } from "@/types/campaign";
 import { PayTypeLabels, PayTypeId } from "@/lib/payType";
 import { formatJapaneseDate } from "@/lib/campaignUtils";
 import { loadShopList } from "@/lib/loadShopList";
@@ -97,7 +97,7 @@ export default async function CityPaytypePage({
     datePublished,
     dateModified,
     lastUpdated,
-  } = campaign as Record<string, any>;
+  } = campaign as Campaign;
 
   const modified = dateModified ?? lastUpdated ?? datePublished;
 
@@ -187,7 +187,7 @@ export default async function CityPaytypePage({
             title={shareTitle}
             hashtags={shareHashtags}
           />
-          <AdUnit />
+          <AdUnit placement="after-share" />
 
           <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
             <h2 className="headline2">
@@ -236,7 +236,7 @@ export default async function CityPaytypePage({
           <h2 id="shop-list-section" className="headline2 mb-4 scroll-mt-34">
             {payLabel}が使える{city}の{offer}%還元対象店舗一覧
           </h2>
-          <AdUnit />
+          <AdUnit responsive placement="before-shop-list" />
 
           {shopListByGenre && (
             <p className="mb-4 text-sm text-gray-700">
