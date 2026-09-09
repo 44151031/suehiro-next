@@ -1,4 +1,8 @@
 // /app/campaigns/[prefecture]/[city]/[pay]/VoucherCampaignPage.tsx
+import { loadShopList } from "@/lib/loadShopList";
+import { loadShopDetails } from "@/lib/loadShopDetails";
+import ClientShopLists from "@/components/sections/shop/ClientShopLists";
+import ShopListSource from "@/components/sections/shop/ShopListSource";
 import { notFound } from "next/navigation";
 import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster";
 import { generateShareContent } from "@/lib/generateShareContent";
@@ -19,7 +23,7 @@ export { generateVoucherMetadata as generateMetadata } from "@/lib/voucherMetada
 
 const formatNumber = (num: number) => Number(num).toLocaleString("ja-JP");
 
-export default function VoucherCampaignPage({
+export default async function VoucherCampaignPage({
   params,
 }: {
   params: { prefecture: string; city: string; pay: string };
@@ -53,6 +57,9 @@ export default function VoucherCampaignPage({
     eligiblePersons,
     applicationUrl,
   } = campaign;
+
+  const shopListByGenre = await loadShopList(prefectureSlug, citySlug, pay);
+  const detailsMap = loadShopDetails(prefectureSlug, citySlug);
 
   const modified = dateModified ?? datePublished;
   const discountRate = calculateVoucherDiscountRate(ticketAmount, purchasePrice);
@@ -198,6 +205,15 @@ export default function VoucherCampaignPage({
             useEndDate={useEndDate}
             applicationUrl={applicationUrl}
           />
+
+          {Object.keys(shopListByGenre).length > 0 && (
+            <section className="mt-10 space-y-4" id="voucher-shops">
+              <h2 className="headline2">PayPay商品券が使える対象店舗</h2>
+              <p>通常のPayPay加盟店でも、この商品券を利用できない場合があります。券種ごとの条件と店頭・アプリの最新表示をご確認ください。♡を押すと店舗を応援できます。</p>
+              <ShopListSource listKey={`${prefectureSlug}-${citySlug}-${pay}`} />
+              <ClientShopLists shopListByGenre={shopListByGenre} detailsMap={detailsMap} />
+            </section>
+          )}
 
           {/* ===== H2：申込フロー ===== */}
           <section className="mt-10">

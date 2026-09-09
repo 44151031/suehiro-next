@@ -1,7 +1,7 @@
 "use client";
 
 import { Shop } from "@/types/shop";
-import { ShopDetail } from "@/types/shopDetails";
+import type { ShopDetail } from "@/hooks/useShopDetails";
 import { cn } from "@/lib/utils";
 import SupportButton from "@/components/common/SupportButton";
 
@@ -52,6 +52,7 @@ function DummyLinkCard({
         <div className="sm:hidden flex items-center justify-between">
           <div className="flex flex-col">
             <p className="font-semibold text-gray-900 text-xs">{shop.name}</p>
+            {shop.note && <p className="text-xs text-amber-900 mt-1">{shop.note}</p>}
             {shop.address && (
               <p className="text-gray-600 text-[11px] leading-normal">{shop.address}</p>
             )}
@@ -65,6 +66,7 @@ function DummyLinkCard({
         <div className="hidden sm:block">
           <div className="flex flex-wrap items-center gap-x-1 leading-normal">
             <p className="font-semibold text-gray-900 text-sm">{shop.name}</p>
+            {shop.note && <p className="text-xs text-amber-900 mt-1">{shop.note}</p>}
             <span className="text-xs text-gray-600">[詳細]</span>
           </div>
           <p className="text-gray-600 text-sm leading-normal pb-[2px]">
@@ -142,6 +144,7 @@ function NormalShopCard({
       <div className="sm:hidden flex items-center justify-between">
         <div className="flex flex-col">
           <p className="font-semibold text-gray-800 text-xs">{shop.name}</p>
+            {shop.note && <p className="text-xs text-amber-900 mt-1">{shop.note}</p>}
           {shop.address && (
             <p className="text-gray-600 text-[11px] leading-normal">{shop.address}</p>
           )}
@@ -154,6 +157,7 @@ function NormalShopCard({
       {/* PC: 店名（下にハートが出る） */}
       <div className="hidden sm:block">
         <p className="font-semibold text-gray-800 text-sm">{shop.name}</p>
+            {shop.note && <p className="text-xs text-amber-900 mt-1">{shop.note}</p>}
         <p className="text-gray-600 text-sm leading-normal pb-[2px]">
           {shop.address}
         </p>

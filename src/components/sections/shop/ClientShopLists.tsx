@@ -1,135 +1,61 @@
-// /src/components/sections/shop/ClientShopLists.tsx
-// ✅ Egress削減版（詳細データfetch廃止、SSRから受け取り）
-
 "use client";
 
-import { useState, useEffect } from "react";
-import { createClient } from "@supabase/supabase-js";
-import GenreShopLists from "@/components/sections/shop/GenreShopLists";
+import { useState, useEffect, useMemo } from "react";
+import { supabaseClient } from "@/lib/supabase/client";
+import GenreShopLists from "./GenreShopLists";
 import type { Shop } from "@/types/shop";
 import type { ShopDetail } from "@/hooks/useShopDetails";
-import { getOrSetSessionId } from "@/lib/sessionClient";
 
-// ✅ Supabaseクライアント
-const supabase = createClient(
-  process.env.NEXT_PUBLIC_SUPABASE_URL!,
-  process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
-);
+type Props = { shopListByGenre: Record<string, Shop[]>; detailsMap: Record<string, ShopDetail> };
 
-type Props = {
-  /** ジャンル別の店舗リスト */
-  shopListByGenre: Record<string, Shop[]>;
-  /** SSRで取得済みの店舗詳細マップ */
-  detailsMap: Record<string, ShopDetail>;
-};
-
-/** JST の今日 00:00〜明日 00:00 を UTC ISO 文字列で返す */
-function getJSTTodayRangeUTC() {
-  const now = new Date();
-  const jst = new Date(now.getTime() + 9 * 60 * 60 * 1000);
-  const startJST = new Date(jst.getFullYear(), jst.getMonth(), jst.getDate());
-  const endJST = new Date(startJST);
-  endJST.setDate(endJST.getDate() + 1);
-  return {
-    start: new Date(startJST.getTime() - 9 * 60 * 60 * 1000).toISOString(),
-    end: new Date(endJST.getTime() - 9 * 60 * 60 * 1000).toISOString(),
-  };
-}
-
-/**
- * ✅ Egress削減対応版
- * - Supabaseクエリを2本に削減：ランキング取得 + 今日押し済み一括取得
- * - 店舗詳細データはSSR側から受け取る（クライアントfetchなし）
- * - ランキングは24h localStorage キャッシュ
- */
 export default function ClientShopLists({ shopListByGenre, detailsMap }: Props) {
-  const [ranking, setRanking] = useState<{ shopid: string; likes: number }[]>([]);
   const [likesMap, setLikesMap] = useState<Record<string, number>>({});
   const [likedShopIds, setLikedShopIds] = useState<Set<string>>(new Set());
-  const [isLoading, setIsLoading] = useState(true);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(false);
+  const [attempt, setAttempt] = useState(0);
+  const ids = useMemo(() => [...new Set(Object.values(shopListByGenre).flat().flatMap(s => s.shopid ? [s.shopid] : []))], [shopListByGenre]);
 
   useEffect(() => {
-    const init = async () => {
-      setIsLoading(true);
+    let cancelled = false;
+    async function init() {
+      setLoading(true);
+      setError(false);
       try {
-        // ── 1. ランキング取得（24h localStorage キャッシュ）──────────────────
-        let rankingData: { shopid: string; likes: number }[] = [];
-        const cache = localStorage.getItem("shop_ranking_cache");
-
-        if (cache) {
-          try {
-            const parsed = JSON.parse(cache);
-            const isExpired = Date.now() - parsed.timestamp > 24 * 60 * 60 * 1000;
-            if (!isExpired && Array.isArray(parsed.data)) {
-              rankingData = parsed.data;
-            }
-          } catch {
-            console.warn("⚠️ ローカルキャッシュ破損、再取得します");
-          }
-        }
-
-        if (rankingData.length === 0) {
-          const { data, error } = await supabase.rpc("get_shop_ranking");
-          if (error) {
-            console.error("❌ 応援数ランキングの取得に失敗:", error);
-          } else if (data) {
-            rankingData = data;
-            localStorage.setItem(
-              "shop_ranking_cache",
-              JSON.stringify({ timestamp: Date.now(), data: rankingData })
-            );
-          }
-        }
-
-        setRanking(rankingData);
-
-        // likesMap を構築（shopid → likes 数）
+        // Fetch this page in bounded batches, never one request per button.
+        // The cookie endpoint shares its session with the toggle action.
         const map: Record<string, number> = {};
-        rankingData.forEach((r) => { map[r.shopid] = r.likes; });
-        setLikesMap(map);
-
-        // ── 2. 今日押し済み店舗を一括取得（1クエリ）───────────────────────────
-        const sid = getOrSetSessionId();
-        if (sid) {
-          const { start, end } = getJSTTodayRangeUTC();
-          const { data: todayData, error: todayError } = await supabase
-            .from("support_events")
-            .select("shopid")
-            .eq("session_id", sid)
-            .gte("created_at", start)
-            .lt("created_at", end);
-
-          if (todayError) {
-            console.error("❌ 今日の応援取得に失敗:", todayError);
-          } else if (todayData) {
-            setLikedShopIds(new Set(todayData.map((r) => r.shopid)));
-          }
+        for (let i = 0; i < ids.length; i += 100) {
+          const { data, error } = await supabaseClient.from("shop_stats")
+            .select("shopid,likes_total").in("shopid", ids.slice(i, i + 100));
+          if (error) throw error;
+          for (const row of data ?? []) map[row.shopid] = row.likes_total ?? 0;
         }
-      } catch (e) {
-        console.error("❌ 初期化エラー:", e);
+        const res = await fetch("/api/shops/likes/today", { cache: "no-store" });
+        if (!res.ok) throw new Error("support state unavailable");
+        const liked: string[] = await res.json();
+        if (!cancelled) {
+          setLikesMap(map);
+          setLikedShopIds(new Set(liked));
+        }
+      } catch {
+        if (!cancelled) setError(true);
       } finally {
-        setIsLoading(false);
+        if (!cancelled) setLoading(false);
       }
-    };
-
-    init();
-  }, []);
+    }
+    if (ids.length) init();
+    else setLoading(false);
+    return () => { cancelled = true; };
+  }, [ids, attempt]);
 
   return (
     <>
-      {isLoading && (
-        <p className="text-sm text-gray-600 mb-3 text-right">
-          🔄 応援ランキングを取得中…
-        </p>
-      )}
-
-      <GenreShopLists
-        shopListByGenre={shopListByGenre}
-        detailsMap={detailsMap}
-        ranking={ranking}
-        likesMap={likesMap}
-        likedShopIds={likedShopIds}
-      />
+      {loading && <p className="text-sm text-gray-600" role="status">応援情報を読み込み中…</p>}
+      {error && <p role="alert">応援情報を取得できませんでした。<button className="underline" onClick={() => setAttempt(x => x + 1)}>再試行</button></p>}
+      <fieldset disabled={loading || error} className="min-w-0">
+        <GenreShopLists shopListByGenre={shopListByGenre} detailsMap={detailsMap} ranking={[]} likesMap={likesMap} likedShopIds={likedShopIds} />
+      </fieldset>
     </>
   );
 }

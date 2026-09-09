@@ -1,0 +1,124 @@
+{
+  "akita-yurihonjo-paypay": {
+    "url": "https://yurihonjo-cashless.jp/wp-content/uploads/2026/09/storelist-2026-09-09.pdf",
+    "checkedAt": "2026-09-10",
+    "note": "公式一覧の対象決済サービスで絞り込んでいます。未掲載の対象店もあります。一般店と大型店では還元率が異なります。",
+    "count": 502,
+    "sourceDate": "2026-09-09"
+  },
+  "akita-yurihonjo-dbarai": {
+    "url": "https://yurihonjo-cashless.jp/wp-content/uploads/2026/09/storelist-2026-09-09.pdf",
+    "checkedAt": "2026-09-10",
+    "note": "公式一覧の対象決済サービスで絞り込んでいます。未掲載の対象店もあります。一般店と大型店では還元率が異なります。",
+    "count": 373,
+    "sourceDate": "2026-09-09"
+  },
+  "akita-yurihonjo-aupay": {
+    "url": "https://yurihonjo-cashless.jp/wp-content/uploads/2026/09/storelist-2026-09-09.pdf",
+    "checkedAt": "2026-09-10",
+    "note": "公式一覧の対象決済サービスで絞り込んでいます。未掲載の対象店もあります。一般店と大型店では還元率が異なります。",
+    "count": 394,
+    "sourceDate": "2026-09-09"
+  },
+  "akita-yurihonjo-aeonpay": {
+    "url": "https://yurihonjo-cashless.jp/wp-content/uploads/2026/09/storelist-2026-09-09.pdf",
+    "checkedAt": "2026-09-10",
+    "note": "公式一覧の対象決済サービスで絞り込んでいます。未掲載の対象店もあります。一般店と大型店では還元率が異なります。",
+    "count": 156,
+    "sourceDate": "2026-09-09"
+  },
+  "akita-yurihonjo-rakutenpay": {
+    "url": "https://yurihonjo-cashless.jp/wp-content/uploads/2026/09/storelist-2026-09-09.pdf",
+    "checkedAt": "2026-09-10",
+    "note": "公式一覧の対象決済サービスで絞り込んでいます。未掲載の対象店もあります。一般店と大型店では還元率が異なります。",
+    "count": 164,
+    "sourceDate": "2026-09-09"
+  },
+  "kagoshima-makurazaki-dbarai": {
+    "url": "https://www.city.makurazaki.lg.jp/uploaded/attachment/22891.pdf",
+    "checkedAt": "2026-09-10",
+    "note": "各決済の対応マークがある店舗のみ掲載。所在地は公式一覧に記載された町名までです。",
+    "count": 68,
+    "sourceDate": "2026-08-31"
+  },
+  "kagoshima-makurazaki-paypay": {
+    "url": "https://www.city.makurazaki.lg.jp/uploaded/attachment/22891.pdf",
+    "checkedAt": "2026-09-10",
+    "note": "各決済の対応マークがある店舗のみ掲載。所在地は公式一覧に記載された町名までです。",
+    "count": 92,
+    "sourceDate": "2026-08-31"
+  },
+  "kagoshima-makurazaki-aupay": {
+    "url": "https://www.city.makurazaki.lg.jp/uploaded/attachment/22891.pdf",
+    "checkedAt": "2026-09-10",
+    "note": "各決済の対応マークがある店舗のみ掲載。所在地は公式一覧に記載された町名までです。",
+    "count": 61,
+    "sourceDate": "2026-08-31"
+  },
+  "kagoshima-makurazaki-rakutenpay": {
+    "url": "https://www.city.makurazaki.lg.jp/uploaded/attachment/22891.pdf",
+    "checkedAt": "2026-09-10",
+    "note": "各決済の対応マークがある店舗のみ掲載。所在地は公式一覧に記載された町名までです。",
+    "count": 53,
+    "sourceDate": "2026-08-31"
+  },
+  "kagoshima-makurazaki-paydon": {
+    "url": "https://www.city.makurazaki.lg.jp/uploaded/attachment/22891.pdf",
+    "checkedAt": "2026-09-10",
+    "note": "各決済の対応マークがある店舗のみ掲載。所在地は公式一覧に記載された町名までです。",
+    "count": 61,
+    "sourceDate": "2026-08-31"
+  },
+  "hiroshima-takehara-paypay": {
+    "url": "https://www.city.takehara.lg.jp/material/files/group/6/dai7dan-rist.pdf",
+    "checkedAt": "2026-09-10",
+    "note": "公式の第7弾対象店舗一覧を掲載。所在地は地域名までです。未掲載の対象店もあります。",
+    "count": 216
+  },
+  "saitama-misato-paypay-voucher": {
+    "url": "https://www.city.misato.lg.jp/material/files/group/21/20260901_tenpoichiran.pdf",
+    "checkedAt": "2026-09-10",
+    "note": "個別の店舗名が確認できる店舗を掲載。ららぽーと新三郷・ANNEXの館内店舗は公式PDFの対象外条件をご確認ください。",
+    "count": 798,
+    "sourceDate": "2026-09-01"
+  },
+  "osaka-tondabayashi-paypay-voucher": {
+    "url": "https://www.city.tondabayashi.lg.jp/uploaded/attachment/115818.pdf",
+    "checkedAt": "2026-09-10",
+    "note": "とっぴーPAY対象店。共通券と地元応援券の区分を店舗ごとに表示しています。",
+    "count": 537
+  },
+  "hyogo-ako-paypay-voucher": {
+    "url": "https://www.city.ako.lg.jp/sangyoshinko/shoukou/documents/0901tennporisuto.pdf",
+    "checkedAt": "2026-09-10",
+    "note": "あこう地域応援デジタル商品券の対象店。公式一覧にも未掲載の店舗があります。",
+    "count": 291,
+    "sourceDate": "2026-09-01"
+  },
+  "wakayama-kinokawa-paypay-voucher": {
+    "url": "https://kinokawa-digi.com/list.html",
+    "checkedAt": "2026-09-10",
+    "note": "紀の川市プレミアム付デジタル商品券の公式取扱店一覧から掲載しています。",
+    "count": 197
+  },
+  "hyogo-nishiwaki-paypay-voucher": {
+    "url": "https://nishiwaki-premium-2026.com/stores/",
+    "checkedAt": "2026-09-10",
+    "note": "公式一覧の「デジタル商品券」対応店のみ掲載。紙商品券のみ対応する店舗は含みません。",
+    "count": 332
+  },
+  "aichi-tokai-paypay-voucher": {
+    "url": "https://www.city.tokai.aichi.jp/_res/projects/default_project/_page_/001/010/762/shoplist4.pdf",
+    "checkedAt": "2026-09-10",
+    "note": "市が紹介する主な店舗の一部です。専門店街の一括記載は省略しています。アピタ直営店・ラスパ太田川のドンキやスタバ等は対象外。最新の対象店はアプリでご確認ください。",
+    "count": 118,
+    "sourceDate": "2026-06-12"
+  },
+  "nagano-matsukawa-paypay-voucher": {
+    "url": "https://r.goope.jp/matsukawa-sci/diary/244363",
+    "checkedAt": "2026-09-10",
+    "note": "商工会の利用可能店舗一覧で「デジタル」に対応マークがある店舗のみ掲載。冊子・マーくんのみ対応する店舗は含みません。",
+    "count": 66,
+    "sourceDate": "2026-08-17"
+  }
+}

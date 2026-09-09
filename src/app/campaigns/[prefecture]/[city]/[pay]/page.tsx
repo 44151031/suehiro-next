@@ -12,18 +12,18 @@ import { getPaytypeMetadata } from "@/lib/metadataGenerators";
 import { campaigns } from "@/lib/campaignMaster";
 
 type Props = {
-  params: {
+  params: Promise<{
     prefecture: string;
     city: string;
     pay: string;
-  };
+  }>;
 };
 
 // ✅ generateMetadata：paypay-voucher のみ別処理
 export async function generateMetadata({
   params,
 }: Props): Promise<Metadata> {
-  const { prefecture, city, pay } = params;
+  const { prefecture, city, pay } = await params;
 
   if (pay === "paypay-voucher") {
     return getVoucherMetadata(prefecture, city, "paypay-voucher");
@@ -34,12 +34,13 @@ export async function generateMetadata({
 }
 
 // ✅ 開催状況に応じてページを自動切り替え
-export default function Page({ params }: Props) {
-  const { prefecture, city, pay } = params;
+export default async function Page({ params }: Props) {
+  const resolvedParams = await params;
+  const { prefecture, city, pay } = resolvedParams;
 
   // 商品券（Voucher）の場合
   if (pay === "paypay-voucher") {
-    return <VoucherCampaignPage params={params} />;
+    return <VoucherCampaignPage params={{ prefecture, city, pay }} />;
   }
 
   // キャンペーンデータを抽出（終了判定に使用）
@@ -57,18 +58,18 @@ export default function Page({ params }: Props) {
 
   // データが存在しない場合は404
   if (!campaign) {
-    return <StandardCampaignPage params={params} />;
+    return <StandardCampaignPage params={{ prefecture, city, pay }} />;
   }
 
   // ✅ 終了判定
   const now = new Date();
-  const end = new Date(campaign.endDate);
+  const end = new Date(`${campaign.endDate}T23:59:59+09:00`);
 
   // 終了日を過ぎていれば EndedCampaignPage に切り替え
   if (end < now) {
-    return <EndedCampaignPage params={params} />;
+    return <EndedCampaignPage params={{ prefecture, city, pay }} />;
   }
 
   // 開催中は通常ページを表示
-  return <StandardCampaignPage params={params} />;
+  return <StandardCampaignPage params={{ prefecture, city, pay }} />;
 }

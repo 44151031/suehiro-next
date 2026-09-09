@@ -2,6 +2,7 @@ export type Shop = {
   name: string;
   address: string;
   shopid?: string;
+  note?: string;
 };
 
 export type ShopDetail = {

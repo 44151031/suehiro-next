@@ -35,6 +35,7 @@ const brandPriority: Record<string, number> = {
   dbarai: 3,
   aupay: 4,
   aeonpay: 5,
+  paydon: 6,
 };
 
 export default function CityCampaignsPage({ params }: Props) {

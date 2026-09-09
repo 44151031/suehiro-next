@@ -6,6 +6,8 @@ import { campaigns } from "@/lib/campaignMaster";
 import type { Campaign } from "@/types/campaign";
 import { PayTypeLabels, PayTypeId } from "@/lib/payType";
 import { formatJapaneseDate } from "@/lib/campaignUtils";
+import { loadShopDetails } from "@/lib/loadShopDetails";
+import ShopListSource from "@/components/sections/shop/ShopListSource";
 import { loadShopList } from "@/lib/loadShopList";
 import { loadGenres } from "@/lib/loadGenres";
 import { CampaignOverviewTable } from "@/components/sections/city/CampaignOverviewTable";
@@ -102,7 +104,7 @@ export default async function CityPaytypePage({
   const modified = dateModified ?? lastUpdated ?? datePublished;
 
   const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${paytypeId}`;
-  const detailsJsonPath = `/data/shopsdetails/${prefectureSlug}-${citySlug}-shops-details.json`;
+  const detailsMap = loadShopDetails(prefectureSlug, citySlug);
 
   const { title: shareTitle, hashtags: shareHashtags } = generateShareContent({
     city,
@@ -243,6 +245,7 @@ export default async function CityPaytypePage({
               ♡のついている気になるお店を♥で応援しよう。♥の多いお店は今後いいことが…(開発中)
             </p>
           )}
+          <ShopListSource listKey={`${prefectureSlug}-${citySlug}-${paytypeId}`} />
           {!shopListByGenre ? (
             <p className="mt-10 text-gray-700 text-base">
               現時点では対象店舗情報が公表されていません。
@@ -252,7 +255,7 @@ export default async function CityPaytypePage({
           ) : (
             <ClientShopLists
               shopListByGenre={shopListByGenre}
-              detailsJsonPath={detailsJsonPath}
+              detailsMap={detailsMap}
             />
           )}
 

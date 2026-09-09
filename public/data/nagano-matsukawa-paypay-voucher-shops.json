@@ -1,0 +1,400 @@
+{
+  "掲載店舗": [
+    {
+      "name": "茜屋",
+      "address": "",
+      "storeid": "matsukawa-123b6b",
+      "shopid": "matsukawa-123b6b-paypay-voucher"
+    },
+    {
+      "name": "粋な居酒屋よかよか",
+      "address": "",
+      "storeid": "matsukawa-96aa18",
+      "shopid": "matsukawa-96aa18-paypay-voucher"
+    },
+    {
+      "name": "粋な焼肉 真",
+      "address": "",
+      "storeid": "matsukawa-00c627",
+      "shopid": "matsukawa-00c627-paypay-voucher"
+    },
+    {
+      "name": "居酒屋ちゃんや",
+      "address": "",
+      "storeid": "matsukawa-3498b1",
+      "shopid": "matsukawa-3498b1-paypay-voucher"
+    },
+    {
+      "name": "NPO法人 Hug",
+      "address": "",
+      "storeid": "matsukawa-928e5f",
+      "shopid": "matsukawa-928e5f-paypay-voucher"
+    },
+    {
+      "name": "こころ",
+      "address": "",
+      "storeid": "matsukawa-e4902b",
+      "shopid": "matsukawa-e4902b-paypay-voucher"
+    },
+    {
+      "name": "さんさんファーム 森の家",
+      "address": "",
+      "storeid": "matsukawa-873a0c",
+      "shopid": "matsukawa-873a0c-paypay-voucher"
+    },
+    {
+      "name": "旬処 寿司政",
+      "address": "",
+      "storeid": "matsukawa-4733b0",
+      "shopid": "matsukawa-4733b0-paypay-voucher"
+    },
+    {
+      "name": "大受",
+      "address": "",
+      "storeid": "matsukawa-4598c2",
+      "shopid": "matsukawa-4598c2-paypay-voucher"
+    },
+    {
+      "name": "梅松苑",
+      "address": "",
+      "storeid": "matsukawa-3bbcd2",
+      "shopid": "matsukawa-3bbcd2-paypay-voucher"
+    },
+    {
+      "name": "Bistroたなやんち",
+      "address": "",
+      "storeid": "matsukawa-d1d02c",
+      "shopid": "matsukawa-d1d02c-paypay-voucher"
+    },
+    {
+      "name": "MILK BOX",
+      "address": "",
+      "storeid": "matsukawa-d6012c",
+      "shopid": "matsukawa-d6012c-paypay-voucher"
+    },
+    {
+      "name": "麺屋やんちゃ",
+      "address": "",
+      "storeid": "matsukawa-141f0c",
+      "shopid": "matsukawa-141f0c-paypay-voucher"
+    },
+    {
+      "name": "焼肉 雅山",
+      "address": "",
+      "storeid": "matsukawa-3af034",
+      "shopid": "matsukawa-3af034-paypay-voucher"
+    },
+    {
+      "name": "レストハウス ポニー",
+      "address": "",
+      "storeid": "matsukawa-b11761",
+      "shopid": "matsukawa-b11761-paypay-voucher"
+    },
+    {
+      "name": "レストラン梨花",
+      "address": "",
+      "storeid": "matsukawa-ef53f5",
+      "shopid": "matsukawa-ef53f5-paypay-voucher"
+    },
+    {
+      "name": "わァ食キッチンEAT",
+      "address": "",
+      "storeid": "matsukawa-0ad047",
+      "shopid": "matsukawa-0ad047-paypay-voucher"
+    },
+    {
+      "name": "Welina",
+      "address": "",
+      "storeid": "matsukawa-b798dd",
+      "shopid": "matsukawa-b798dd-paypay-voucher"
+    },
+    {
+      "name": "ドライヘッドマッサージ mer",
+      "address": "",
+      "storeid": "matsukawa-80bb25",
+      "shopid": "matsukawa-80bb25-paypay-voucher"
+    },
+    {
+      "name": "美容室ふくしま",
+      "address": "",
+      "storeid": "matsukawa-e31e0d",
+      "shopid": "matsukawa-e31e0d-paypay-voucher"
+    },
+    {
+      "name": "美容室まつざか",
+      "address": "",
+      "storeid": "matsukawa-eb371c",
+      "shopid": "matsukawa-eb371c-paypay-voucher"
+    },
+    {
+      "name": "Hair&Make Honey Bee",
+      "address": "",
+      "storeid": "matsukawa-27f4b5",
+      "shopid": "matsukawa-27f4b5-paypay-voucher"
+    },
+    {
+      "name": "ヘアーサロン カキギ",
+      "address": "",
+      "storeid": "matsukawa-6d39c1",
+      "shopid": "matsukawa-6d39c1-paypay-voucher"
+    },
+    {
+      "name": "ボディケアサロンYakko",
+      "address": "",
+      "storeid": "matsukawa-a5b7fe",
+      "shopid": "matsukawa-a5b7fe-paypay-voucher"
+    },
+    {
+      "name": "Maison de TSUKI",
+      "address": "",
+      "storeid": "matsukawa-afebac",
+      "shopid": "matsukawa-afebac-paypay-voucher"
+    },
+    {
+      "name": "愛犬の美容室たんぽぽ",
+      "address": "",
+      "storeid": "matsukawa-dc1b28",
+      "shopid": "matsukawa-dc1b28-paypay-voucher"
+    },
+    {
+      "name": "Mstudio",
+      "address": "",
+      "storeid": "matsukawa-eb4619",
+      "shopid": "matsukawa-eb4619-paypay-voucher"
+    },
+    {
+      "name": "イケノスポーツ",
+      "address": "",
+      "storeid": "matsukawa-90d12d",
+      "shopid": "matsukawa-90d12d-paypay-voucher"
+    },
+    {
+      "name": "イサワ薬局",
+      "address": "",
+      "storeid": "matsukawa-94f69c",
+      "shopid": "matsukawa-94f69c-paypay-voucher"
+    },
+    {
+      "name": "コインランドリー桜ウォッシュ",
+      "address": "",
+      "storeid": "matsukawa-fbefed",
+      "shopid": "matsukawa-fbefed-paypay-voucher"
+    },
+    {
+      "name": "VinVie ワイナリーショップ",
+      "address": "",
+      "storeid": "matsukawa-a8a4df",
+      "shopid": "matsukawa-a8a4df-paypay-voucher"
+    },
+    {
+      "name": "こじまクリーニング",
+      "address": "",
+      "storeid": "matsukawa-9f353d",
+      "shopid": "matsukawa-9f353d-paypay-voucher"
+    },
+    {
+      "name": "Aコープリカまつかわ店",
+      "address": "",
+      "storeid": "matsukawa-0bd2a7",
+      "shopid": "matsukawa-0bd2a7-paypay-voucher"
+    },
+    {
+      "name": "信州まつかわ温泉 清流苑",
+      "address": "",
+      "storeid": "matsukawa-f37e6a",
+      "shopid": "matsukawa-f37e6a-paypay-voucher"
+    },
+    {
+      "name": "菅沼ライス",
+      "address": "",
+      "storeid": "matsukawa-fd7449",
+      "shopid": "matsukawa-fd7449-paypay-voucher"
+    },
+    {
+      "name": "恵比寿屋商店",
+      "address": "",
+      "storeid": "matsukawa-b88898",
+      "shopid": "matsukawa-b88898-paypay-voucher"
+    },
+    {
+      "name": "剛憇接骨院",
+      "address": "",
+      "storeid": "matsukawa-eabdc0",
+      "shopid": "matsukawa-eabdc0-paypay-voucher"
+    },
+    {
+      "name": "ドッグサロンムーミン",
+      "address": "",
+      "storeid": "matsukawa-83cc66",
+      "shopid": "matsukawa-83cc66-paypay-voucher"
+    },
+    {
+      "name": "からあげ専門店 鶏笑松川店",
+      "address": "",
+      "storeid": "matsukawa-08f273",
+      "shopid": "matsukawa-08f273-paypay-voucher"
+    },
+    {
+      "name": "キラヤ大島店",
+      "address": "",
+      "storeid": "matsukawa-02f3bf",
+      "shopid": "matsukawa-02f3bf-paypay-voucher"
+    },
+    {
+      "name": "くすりのサンロード松川店",
+      "address": "",
+      "storeid": "matsukawa-a54819",
+      "shopid": "matsukawa-a54819-paypay-voucher"
+    },
+    {
+      "name": "フォレストアドベンチャー・松川",
+      "address": "",
+      "storeid": "matsukawa-1f4a09",
+      "shopid": "matsukawa-1f4a09-paypay-voucher"
+    },
+    {
+      "name": "星灯りの森キャンプ場",
+      "address": "",
+      "storeid": "matsukawa-c1c067",
+      "shopid": "matsukawa-c1c067-paypay-voucher"
+    },
+    {
+      "name": "けーきや ペパン",
+      "address": "",
+      "storeid": "matsukawa-1d883d",
+      "shopid": "matsukawa-1d883d-paypay-voucher"
+    },
+    {
+      "name": "糀屋石油",
+      "address": "",
+      "storeid": "matsukawa-ceb2b0",
+      "shopid": "matsukawa-ceb2b0-paypay-voucher"
+    },
+    {
+      "name": "マルモタクシー",
+      "address": "",
+      "storeid": "matsukawa-7c04df",
+      "shopid": "matsukawa-7c04df-paypay-voucher"
+    },
+    {
+      "name": "酒のメガテン 松川店",
+      "address": "",
+      "storeid": "matsukawa-6c9123",
+      "shopid": "matsukawa-6c9123-paypay-voucher"
+    },
+    {
+      "name": "ヤマト運輸",
+      "address": "",
+      "storeid": "matsukawa-e8b740",
+      "shopid": "matsukawa-e8b740-paypay-voucher"
+    },
+    {
+      "name": "斉藤モータース",
+      "address": "",
+      "storeid": "matsukawa-7a524b",
+      "shopid": "matsukawa-7a524b-paypay-voucher"
+    },
+    {
+      "name": "下伊那赤十字病院 売店",
+      "address": "",
+      "storeid": "matsukawa-667dca",
+      "shopid": "matsukawa-667dca-paypay-voucher"
+    },
+    {
+      "name": "しまむら",
+      "address": "",
+      "storeid": "matsukawa-e04c62",
+      "shopid": "matsukawa-e04c62-paypay-voucher"
+    },
+    {
+      "name": "スズキオートカヤマ",
+      "address": "",
+      "storeid": "matsukawa-f5a9a5",
+      "shopid": "matsukawa-f5a9a5-paypay-voucher"
+    },
+    {
+      "name": "菅沼米穀店",
+      "address": "",
+      "storeid": "matsukawa-6b8b2f",
+      "shopid": "matsukawa-6b8b2f-paypay-voucher"
+    },
+    {
+      "name": "テラダパーツ",
+      "address": "",
+      "storeid": "matsukawa-6503cf",
+      "shopid": "matsukawa-6503cf-paypay-voucher"
+    },
+    {
+      "name": "ツルハドラッグ松川大島店",
+      "address": "",
+      "storeid": "matsukawa-cae444",
+      "shopid": "matsukawa-cae444-paypay-voucher"
+    },
+    {
+      "name": "ナインヤード",
+      "address": "",
+      "storeid": "matsukawa-43c9e0",
+      "shopid": "matsukawa-43c9e0-paypay-voucher"
+    },
+    {
+      "name": "パティスリーアンサンブル",
+      "address": "",
+      "storeid": "matsukawa-15f90c",
+      "shopid": "matsukawa-15f90c-paypay-voucher"
+    },
+    {
+      "name": "Honda Next One 甲信",
+      "address": "",
+      "storeid": "matsukawa-c6e5a0",
+      "shopid": "matsukawa-c6e5a0-paypay-voucher"
+    },
+    {
+      "name": "松川サービス",
+      "address": "",
+      "storeid": "matsukawa-12175e",
+      "shopid": "matsukawa-12175e-paypay-voucher"
+    },
+    {
+      "name": "松川自動車整備工場",
+      "address": "",
+      "storeid": "matsukawa-1e53b6",
+      "shopid": "matsukawa-1e53b6-paypay-voucher"
+    },
+    {
+      "name": "フカツ",
+      "address": "",
+      "storeid": "matsukawa-e7d4ad",
+      "shopid": "matsukawa-e7d4ad-paypay-voucher"
+    },
+    {
+      "name": "ホームセンターすまいる",
+      "address": "",
+      "storeid": "matsukawa-50263c",
+      "shopid": "matsukawa-50263c-paypay-voucher"
+    },
+    {
+      "name": "三河屋商店",
+      "address": "",
+      "storeid": "matsukawa-1b4f24",
+      "shopid": "matsukawa-1b4f24-paypay-voucher"
+    },
+    {
+      "name": "マルカメ果樹園",
+      "address": "",
+      "storeid": "matsukawa-c1eb4f",
+      "shopid": "matsukawa-c1eb4f-paypay-voucher"
+    },
+    {
+      "name": "輸入石油 松川SS",
+      "address": "",
+      "storeid": "matsukawa-1a176a",
+      "shopid": "matsukawa-1a176a-paypay-voucher"
+    },
+    {
+      "name": "まるもと大場農園",
+      "address": "",
+      "storeid": "matsukawa-d5c09a",
+      "shopid": "matsukawa-d5c09a-paypay-voucher"
+    }
+  ]
+}

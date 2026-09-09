@@ -1,0 +1,374 @@
+{
+  "飲食": [
+    {
+      "name": "味処 和幸",
+      "address": "枕崎市中町",
+      "storeid": "makurazaki-1343b2",
+      "shopid": "makurazaki-1343b2-paydon"
+    },
+    {
+      "name": "味のピカ一",
+      "address": "枕崎市中町",
+      "storeid": "makurazaki-50c5e1",
+      "shopid": "makurazaki-50c5e1-paydon"
+    },
+    {
+      "name": "東寿司",
+      "address": "枕崎市港町",
+      "storeid": "makurazaki-b57322",
+      "shopid": "makurazaki-b57322-paydon"
+    },
+    {
+      "name": "あねkitchen",
+      "address": "枕崎市折口町",
+      "storeid": "makurazaki-cb4dcf",
+      "shopid": "makurazaki-cb4dcf-paydon"
+    },
+    {
+      "name": "居酒屋 食堂 つちふまず",
+      "address": "枕崎市栄中町",
+      "storeid": "makurazaki-d24a20",
+      "shopid": "makurazaki-d24a20-paydon"
+    },
+    {
+      "name": "うさぎや菓子店",
+      "address": "枕崎市西本町",
+      "storeid": "makurazaki-375012",
+      "shopid": "makurazaki-375012-paydon"
+    },
+    {
+      "name": "うどん そば ダイニング つむぎ",
+      "address": "枕崎市大塚西町",
+      "storeid": "makurazaki-2b71bc",
+      "shopid": "makurazaki-2b71bc-paydon"
+    },
+    {
+      "name": "お菓子とパンの店 のどか",
+      "address": "枕崎市緑町",
+      "storeid": "makurazaki-e3faa2",
+      "shopid": "makurazaki-e3faa2-paydon"
+    },
+    {
+      "name": "お食事処 ゆう",
+      "address": "枕崎市岩崎町",
+      "storeid": "makurazaki-6d3711",
+      "shopid": "makurazaki-6d3711-paydon"
+    },
+    {
+      "name": "KarDiaBAKERY",
+      "address": "枕崎市桜山本町",
+      "storeid": "makurazaki-95e333",
+      "shopid": "makurazaki-95e333-paydon"
+    },
+    {
+      "name": "菓子工房 だるまや",
+      "address": "枕崎市山手町",
+      "storeid": "makurazaki-58cd6f",
+      "shopid": "makurazaki-58cd6f-paydon"
+    },
+    {
+      "name": "金山食堂",
+      "address": "枕崎市金山町",
+      "storeid": "makurazaki-5a8869",
+      "shopid": "makurazaki-5a8869-paydon"
+    },
+    {
+      "name": "カラオケ喫茶ジャングル",
+      "address": "枕崎市中町",
+      "storeid": "makurazaki-637f00",
+      "shopid": "makurazaki-637f00-paydon"
+    },
+    {
+      "name": "カラオケパブ oto",
+      "address": "枕崎市折口町",
+      "storeid": "makurazaki-8a34d7",
+      "shopid": "makurazaki-8a34d7-paydon"
+    },
+    {
+      "name": "カラオケ リバーサイド",
+      "address": "枕崎市松之尾町",
+      "storeid": "makurazaki-05e2e2",
+      "shopid": "makurazaki-05e2e2-paydon"
+    },
+    {
+      "name": "喜久家食堂",
+      "address": "枕崎市折口町",
+      "storeid": "makurazaki-60e51f",
+      "shopid": "makurazaki-60e51f-paydon"
+    },
+    {
+      "name": "くわはら農園",
+      "address": "枕崎市大塚中町",
+      "storeid": "makurazaki-9e1f84",
+      "shopid": "makurazaki-9e1f84-paydon"
+    },
+    {
+      "name": "魚処 まんぼう",
+      "address": "枕崎市恵比須町",
+      "storeid": "makurazaki-9b85fb",
+      "shopid": "makurazaki-9b85fb-paydon"
+    },
+    {
+      "name": "さかなや食堂",
+      "address": "枕崎市緑町",
+      "storeid": "makurazaki-59f2f6",
+      "shopid": "makurazaki-59f2f6-paydon"
+    },
+    {
+      "name": "酒食堂 神神楽",
+      "address": "枕崎市立神本町",
+      "storeid": "makurazaki-31452d",
+      "shopid": "makurazaki-31452d-paydon"
+    },
+    {
+      "name": "焼酎庵 真鯛",
+      "address": "枕崎市緑町",
+      "storeid": "makurazaki-e6cf5f",
+      "shopid": "makurazaki-e6cf5f-paydon"
+    },
+    {
+      "name": "食堂町頭",
+      "address": "枕崎市高見町",
+      "storeid": "makurazaki-9a09ff",
+      "shopid": "makurazaki-9a09ff-paydon"
+    },
+    {
+      "name": "杉乃家",
+      "address": "枕崎市港町",
+      "storeid": "makurazaki-959858",
+      "shopid": "makurazaki-959858-paydon"
+    },
+    {
+      "name": "すし匠 五条",
+      "address": "枕崎市岩戸町",
+      "storeid": "makurazaki-e49113",
+      "shopid": "makurazaki-e49113-paydon"
+    },
+    {
+      "name": "大衆酒場 チキンマン",
+      "address": "枕崎市折口町",
+      "storeid": "makurazaki-46d4a8",
+      "shopid": "makurazaki-46d4a8-paydon"
+    },
+    {
+      "name": "Dining Bar ENGINE",
+      "address": "枕崎市寿町",
+      "storeid": "makurazaki-4aa299",
+      "shopid": "makurazaki-4aa299-paydon"
+    },
+    {
+      "name": "タカララーメン",
+      "address": "枕崎市汐見町",
+      "storeid": "makurazaki-a2570c",
+      "shopid": "makurazaki-a2570c-paydon"
+    },
+    {
+      "name": "TATSUカフェ",
+      "address": "枕崎市折口町",
+      "storeid": "makurazaki-239702",
+      "shopid": "makurazaki-239702-paydon"
+    },
+    {
+      "name": "タツジン弁当",
+      "address": "枕崎市折口町",
+      "storeid": "makurazaki-5de9d2",
+      "shopid": "makurazaki-5de9d2-paydon"
+    },
+    {
+      "name": "ツキミチ喫茶",
+      "address": "枕崎市汐見町",
+      "storeid": "makurazaki-290833",
+      "shopid": "makurazaki-290833-paydon"
+    },
+    {
+      "name": "呑喰厨房 ふくろう",
+      "address": "枕崎市中町",
+      "storeid": "makurazaki-e67ef8",
+      "shopid": "makurazaki-e67ef8-paydon"
+    },
+    {
+      "name": "BAR 45",
+      "address": "枕崎市折口町",
+      "storeid": "makurazaki-df913e",
+      "shopid": "makurazaki-df913e-paydon"
+    },
+    {
+      "name": "好好飯店",
+      "address": "枕崎市汐見町",
+      "storeid": "makurazaki-09f942",
+      "shopid": "makurazaki-09f942-paydon"
+    },
+    {
+      "name": "HEAT",
+      "address": "枕崎市折口町",
+      "storeid": "makurazaki-82ce5c",
+      "shopid": "makurazaki-82ce5c-paydon"
+    },
+    {
+      "name": "ふぁみり庵はいから亭 寿司まどか 枕崎店",
+      "address": "枕崎市平田町",
+      "storeid": "makurazaki-4d82aa",
+      "shopid": "makurazaki-4d82aa-paydon"
+    },
+    {
+      "name": "福寿庵",
+      "address": "枕崎市松之尾町",
+      "storeid": "makurazaki-b6edca",
+      "shopid": "makurazaki-b6edca-paydon"
+    },
+    {
+      "name": "ぷくぷくCAFE",
+      "address": "枕崎市松之尾町",
+      "storeid": "makurazaki-484de9",
+      "shopid": "makurazaki-484de9-paydon"
+    },
+    {
+      "name": "枕崎の味処 一福",
+      "address": "枕崎市東本町",
+      "storeid": "makurazaki-3a4035",
+      "shopid": "makurazaki-3a4035-paydon"
+    },
+    {
+      "name": "枕崎名物料理 だいとく",
+      "address": "枕崎市折口町",
+      "storeid": "makurazaki-8fcfdc",
+      "shopid": "makurazaki-8fcfdc-paydon"
+    },
+    {
+      "name": "松野下蒲鉾",
+      "address": "枕崎市桜山本町",
+      "storeid": "makurazaki-e7eb09",
+      "shopid": "makurazaki-e7eb09-paydon"
+    },
+    {
+      "name": "まつのしたdelica",
+      "address": "枕崎市千代田町",
+      "storeid": "makurazaki-02e048",
+      "shopid": "makurazaki-02e048-paydon"
+    },
+    {
+      "name": "瑞穂寿し",
+      "address": "枕崎市新町",
+      "storeid": "makurazaki-3bd271",
+      "shopid": "makurazaki-3bd271-paydon"
+    },
+    {
+      "name": "ミュージックハウスCoCo",
+      "address": "枕崎市高見町",
+      "storeid": "makurazaki-30dd81",
+      "shopid": "makurazaki-30dd81-paydon"
+    },
+    {
+      "name": "みんなのゑびす家",
+      "address": "枕崎市宮田町",
+      "storeid": "makurazaki-8e3f21",
+      "shopid": "makurazaki-8e3f21-paydon"
+    },
+    {
+      "name": "明治屋アイビ-フ-ズ",
+      "address": "枕崎市桜山東町",
+      "storeid": "makurazaki-9ff8e5",
+      "shopid": "makurazaki-9ff8e5-paydon"
+    },
+    {
+      "name": "明治屋",
+      "address": "枕崎市西本町",
+      "storeid": "makurazaki-10abe4",
+      "shopid": "makurazaki-10abe4-paydon"
+    },
+    {
+      "name": "森のパン 枕崎店",
+      "address": "枕崎市中央町",
+      "storeid": "makurazaki-202305",
+      "shopid": "makurazaki-202305-paydon"
+    },
+    {
+      "name": "焼肉 伍右衛門",
+      "address": "枕崎市立神本町",
+      "storeid": "makurazaki-8252d3",
+      "shopid": "makurazaki-8252d3-paydon"
+    },
+    {
+      "name": "焼肉のタツミ",
+      "address": "枕崎市桜木町",
+      "storeid": "makurazaki-c3de02",
+      "shopid": "makurazaki-c3de02-paydon"
+    },
+    {
+      "name": "焼肉のなかさき",
+      "address": "枕崎市岩戸町",
+      "storeid": "makurazaki-4ef4b5",
+      "shopid": "makurazaki-4ef4b5-paydon"
+    },
+    {
+      "name": "夜食屋 花・華",
+      "address": "枕崎市汐見町",
+      "storeid": "makurazaki-c68e2a",
+      "shopid": "makurazaki-c68e2a-paydon"
+    },
+    {
+      "name": "山猫瓶詰研究所",
+      "address": "枕崎市金山町",
+      "storeid": "makurazaki-5abeff",
+      "shopid": "makurazaki-5abeff-paydon"
+    },
+    {
+      "name": "LAFTEL",
+      "address": "枕崎市汐見町",
+      "storeid": "makurazaki-6d545c",
+      "shopid": "makurazaki-6d545c-paydon"
+    },
+    {
+      "name": "Le Petit Bois",
+      "address": "枕崎市塩屋北町",
+      "storeid": "makurazaki-ade7c1",
+      "shopid": "makurazaki-ade7c1-paydon"
+    },
+    {
+      "name": "和懐 おお田",
+      "address": "枕崎市西本町",
+      "storeid": "makurazaki-fad3be",
+      "shopid": "makurazaki-fad3be-paydon"
+    },
+    {
+      "name": "ONE",
+      "address": "枕崎市岩戸町",
+      "storeid": "makurazaki-c3e66a",
+      "shopid": "makurazaki-c3e66a-paydon"
+    }
+  ],
+  "宿泊": [
+    {
+      "name": "Ocean Hotel Iwato",
+      "address": "枕崎市岩戸町",
+      "storeid": "makurazaki-6d7335",
+      "shopid": "makurazaki-6d7335-paydon"
+    },
+    {
+      "name": "GUESTHOUSE くわはら",
+      "address": "枕崎市大塚中町",
+      "storeid": "makurazaki-247df1",
+      "shopid": "makurazaki-247df1-paydon"
+    },
+    {
+      "name": "枕崎ステーションホテル",
+      "address": "枕崎市住吉町",
+      "storeid": "makurazaki-1e4853",
+      "shopid": "makurazaki-1e4853-paydon"
+    }
+  ],
+  "その他": [
+    {
+      "name": "カラオケプラザ唄王",
+      "address": "枕崎市中央町",
+      "storeid": "makurazaki-86fdd4",
+      "shopid": "makurazaki-86fdd4-paydon"
+    },
+    {
+      "name": "カラオケ ぽっぽ",
+      "address": "枕崎市板敷西町",
+      "storeid": "makurazaki-a29960",
+      "shopid": "makurazaki-a29960-paydon"
+    }
+  ]
+}

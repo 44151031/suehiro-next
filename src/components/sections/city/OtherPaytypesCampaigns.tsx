@@ -24,6 +24,7 @@ const brandPriority: Record<string, number> = {
   dbarai: 3,
   aupay: 4,
   aeonpay: 5,
+  paydon: 6,
 };
 
 // ✅ ソート関数: 開催中 > 未来、開始日順、同日ならブランド順

@@ -1,1530 +1,2615 @@
 {
-  "20%還元対象店舗": [
+  "掲載店舗": [
     {
-      "name": "ａｐｏｌｌｏｓｔａｔｉｏｎ  矢島ＳＳ",
-      "address": "由利本荘市矢島町元町大川原175",
-      "storeid": "yurihonjo-7d7b87",
-      "shopid": "yurihonjo-7d7b87-dbarai"
+      "name": "5縁日",
+      "address": "由利本荘市花畑町1丁目95 2階",
+      "storeid": "yurihonjo-9341c0",
+      "shopid": "yurihonjo-9341c0-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "Ａｙｕｋａ＋",
-      "address": "由利本荘市前郷前郷172",
+      "name": "apollostation セルフ本荘東SS",
+      "address": "由利本荘市一番堰187-1",
+      "storeid": "yurihonjo-e8dc77",
+      "shopid": "yurihonjo-e8dc77-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "apollostation 本荘バイパスSS",
+      "address": "由利本荘市水林28-10",
+      "storeid": "yurihonjo-6e86a3",
+      "shopid": "yurihonjo-6e86a3-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "apollostation 本荘栄町SS",
+      "address": "由利本荘市給人町32-1",
+      "storeid": "yurihonjo-ebee05",
+      "shopid": "yurihonjo-ebee05-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "apollostation 本荘栗山SS",
+      "address": "由利本荘市浜三川字栗山104-57",
+      "storeid": "yurihonjo-05dbd1",
+      "shopid": "yurihonjo-05dbd1-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "Ayuka+",
+      "address": "由利本荘市前郷字前郷172",
       "storeid": "yurihonjo-1657cb",
-      "shopid": "yurihonjo-1657cb-dbarai"
+      "shopid": "yurihonjo-1657cb-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "Ａコープやしま",
-      "address": "由利本荘市矢島町七日町熊之堂131ー1",
+      "name": "Aコープおおうち",
+      "address": "由利本荘市大内三川字三川38",
+      "storeid": "yurihonjo-686af5",
+      "shopid": "yurihonjo-686af5-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "Aコープやしま",
+      "address": "由利本荘市矢島町七日町字熊之堂131-1",
       "storeid": "yurihonjo-0f6487",
-      "shopid": "yurihonjo-0f6487-dbarai"
+      "shopid": "yurihonjo-0f6487-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "Ｂａｃｋ  Ｓｔａｇｅ",
+      "name": "Aコープ子吉",
+      "address": "由利本荘市埋田字小館81-3",
+      "storeid": "yurihonjo-9fd5b1",
+      "shopid": "yurihonjo-9fd5b1-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "Back Stage",
       "address": "由利本荘市東町31-3",
       "storeid": "yurihonjo-d000de",
-      "shopid": "yurihonjo-d000de-dbarai"
+      "shopid": "yurihonjo-d000de-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ＢＡＲ  ＪＵＮＧＬＥ",
-      "address": "由利本荘市裏尾崎町57-4ＦＭ２ビル２Ｆ",
+      "name": "Bar EIGHT",
+      "address": "由利本荘市裏尾崎町57-4 FMビル2階",
+      "storeid": "yurihonjo-e3881c",
+      "shopid": "yurihonjo-e3881c-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "Bar Jungle",
+      "address": "由利本荘市裏尾崎町57-4 FM2ビル2F",
       "storeid": "yurihonjo-f232f7",
-      "shopid": "yurihonjo-f232f7-dbarai"
+      "shopid": "yurihonjo-f232f7-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "Ｂａｒ  エイト",
-      "address": "由利本荘市裏尾崎町57ー4Ｆ Ｍビル２階-２０３",
-      "storeid": "yurihonjo-ebe9b8",
-      "shopid": "yurihonjo-ebe9b8-dbarai"
-    },
-    {
-      "name": "ｂｅａｕｔｙ＆ｈｅａｌｉｎｇ  ｓａｌｏｎ  ｌｅｃｉｅｌ",
-      "address": "由利本荘市西目町沼田弁天前40-380",
+      "name": "beauty&healing salon le ciel",
+      "address": "由利本荘市石脇田中57-1 ピアシティ 3",
       "storeid": "yurihonjo-63660c",
-      "shopid": "yurihonjo-63660c-dbarai"
+      "shopid": "yurihonjo-63660c-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "Ｂｅｌｌ  Ｅｐｏｃ  イオンスーパーセンター本荘店",
-      "address": "由利本荘市石脇田中138イオンスーパーセンター本荘店１Ｆ",
+      "name": "Bell Epoc イオンスーパーセンター本荘店",
+      "address": "由利本荘市石脇田中138 イオン本荘SC内",
       "storeid": "yurihonjo-15ae8f",
-      "shopid": "yurihonjo-15ae8f-dbarai"
+      "shopid": "yurihonjo-15ae8f-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ＣＡＢＩＮ",
-      "address": "由利本荘市裏尾崎町57-4ＦＭ第二ビル １Ｆ",
-      "storeid": "yurihonjo-71f1cc",
-      "shopid": "yurihonjo-71f1cc-dbarai"
+      "name": "BENsBarberShop",
+      "address": "由利本荘市赤沼下102-9",
+      "storeid": "yurihonjo-b77375",
+      "shopid": "yurihonjo-b77375-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ＣＨＩＣ  ｄｅ  Ｈｏｎｊｏ",
-      "address": "由利本荘市鍛冶町13",
+      "name": "B-Rサーティワンアイスクリーム イオンスーパーセンター本荘店",
+      "address": "由利本荘市石脇字田中138 イオン本荘SC内",
+      "storeid": "yurihonjo-142951",
+      "shopid": "yurihonjo-142951-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "CHIC de Honjo",
+      "address": "由利本荘市鍛治町13",
       "storeid": "yurihonjo-76de56",
-      "shopid": "yurihonjo-76de56-dbarai"
+      "shopid": "yurihonjo-76de56-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ＣＬＵＢ  Ｔｒａｖｉｓ",
-      "address": "由利本荘市大門89Ｍビル ２Ｆ",
+      "name": "CHICCA.",
+      "address": "由利本荘市万願寺字本田町147",
+      "storeid": "yurihonjo-066834",
+      "shopid": "yurihonjo-066834-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "CLUB Travis",
+      "address": "由利本荘市大門89Mビル2F",
       "storeid": "yurihonjo-955e55",
-      "shopid": "yurihonjo-955e55-dbarai"
+      "shopid": "yurihonjo-955e55-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ｅ−ＣＲＥＡ",
-      "address": "由利本荘市西目町沼田弁天前40-15",
-      "storeid": "yurihonjo-997c23",
-      "shopid": "yurihonjo-997c23-dbarai"
+      "name": "CRUSTサテライトショップ本荘",
+      "address": "由利本荘市岩渕下12",
+      "storeid": "yurihonjo-4a63b1",
+      "shopid": "yurihonjo-4a63b1-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "Ｆｒｅｅｓｉａ",
-      "address": "由利本荘市西目町出戸浜山6-304",
-      "storeid": "yurihonjo-fc8af8",
-      "shopid": "yurihonjo-fc8af8-dbarai"
+      "name": "D.クラインキーファー",
+      "address": "由利本荘市柳生字金山12",
+      "storeid": "yurihonjo-97254e",
+      "shopid": "yurihonjo-97254e-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ｆｕｕｕｋｅｉ",
-      "address": "由利本荘市新田壱ノ台41",
+      "name": "DCMニコット岩城店",
+      "address": "由利本荘市岩城二古字向村44-2",
+      "storeid": "yurihonjo-1746f6",
+      "shopid": "yurihonjo-1746f6-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "DCMニコット鳥海店",
+      "address": "由利本荘市鳥海町伏見字高平72-3",
+      "storeid": "yurihonjo-053945",
+      "shopid": "yurihonjo-053945-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "DCMニコット由利前郷店",
+      "address": "由利本荘市前郷字寺ノ下137-1",
+      "storeid": "yurihonjo-d79af3",
+      "shopid": "yurihonjo-d79af3-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "DCM本荘店",
+      "address": "由利本荘市東梵天183-1",
+      "storeid": "yurihonjo-a4a491",
+      "shopid": "yurihonjo-a4a491-dbarai",
+      "note": "最大5%還元"
+    },
+    {
+      "name": "e-CREA",
+      "address": "由利本荘市⻄目町沼田字弁天前40-15",
+      "storeid": "yurihonjo-a6facd",
+      "shopid": "yurihonjo-a6facd-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ENEOSニュー矢島SS",
+      "address": "由利本荘市矢島町七日町字熊之堂56-1",
+      "storeid": "yurihonjo-209e23",
+      "shopid": "yurihonjo-209e23-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "fuuukei",
+      "address": "由利本荘市新田字壱ノ台41",
       "storeid": "yurihonjo-5fac89",
-      "shopid": "yurihonjo-5fac89-dbarai"
+      "shopid": "yurihonjo-5fac89-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "Ｇｒｏｗｔｈ",
-      "address": "由利本荘市石脇田尻28-272",
+      "name": "GOaikyoDELICA",
+      "address": "由利本荘市花畑町1-55",
+      "storeid": "yurihonjo-64a310",
+      "shopid": "yurihonjo-64a310-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "Growth",
+      "address": "由利本荘市石脇字田尻28-272",
       "storeid": "yurihonjo-1832bf",
-      "shopid": "yurihonjo-1832bf-dbarai"
+      "shopid": "yurihonjo-1832bf-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "Hair bambu",
+      "name": "Hair bamb",
       "address": "由利本荘市大堤下4",
-      "storeid": "yurihonjo-63f534",
-      "shopid": "yurihonjo-63f534-dbarai"
+      "storeid": "yurihonjo-882f3b",
+      "shopid": "yurihonjo-882f3b-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ｈａｉｒ  ｍａｋｅ  ｃｏｃｏｒｏ",
-      "address": "由利本荘市一番堰117-２４",
+      "name": "hair make cocoro",
+      "address": "由利本荘市一番堰117-24",
       "storeid": "yurihonjo-4bd90c",
-      "shopid": "yurihonjo-4bd90c-dbarai"
+      "shopid": "yurihonjo-4bd90c-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ＨＡＩＲ  Ｐｏｓｉｔｉｏｎ  本荘",
-      "address": "由利本荘市堤脇15",
+      "name": "HAIR Position本荘",
+      "address": "由利本荘市堤脇15 グランマート本荘南店敷地内",
       "storeid": "yurihonjo-bbdda7",
-      "shopid": "yurihonjo-bbdda7-dbarai"
+      "shopid": "yurihonjo-bbdda7-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ＨＡＩＲ  Ｐｏｓｉｔｉｏｎ  本荘東",
-      "address": "由利本荘市東梵天１３７-１",
+      "name": "HAIR Position本荘東",
+      "address": "由利本荘市東梵天137-1",
       "storeid": "yurihonjo-cfe263",
-      "shopid": "yurihonjo-cfe263-dbarai"
+      "shopid": "yurihonjo-cfe263-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "Ｈａｉｒ  ｒｏｏｍ  ＨＩＲＯ",
-      "address": "由利本荘市西目町沼田新道下2-614",
+      "name": "Hair room HIRO",
+      "address": "由利本荘市⻄目町沼田字新道下2ー614",
       "storeid": "yurihonjo-93186e",
-      "shopid": "yurihonjo-93186e-dbarai"
+      "shopid": "yurihonjo-93186e-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ＨＡＬＯｏｕｔｄｏｏｒ",
-      "address": "由利本荘市谷地町１３１",
+      "name": "Hair studio FINE",
+      "address": "由利本荘市表尾崎町14-7",
+      "storeid": "yurihonjo-9b1e25",
+      "shopid": "yurihonjo-9b1e25-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "HALO outdoor",
+      "address": "由利本荘市谷地町131",
       "storeid": "yurihonjo-ab9bfe",
-      "shopid": "yurihonjo-ab9bfe-dbarai"
+      "shopid": "yurihonjo-ab9bfe-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ＨＡＮＡＮＡ",
+      "name": "HANANA",
       "address": "由利本荘市中竪町7",
       "storeid": "yurihonjo-03ddbe",
-      "shopid": "yurihonjo-03ddbe-dbarai"
+      "shopid": "yurihonjo-03ddbe-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ｉｉｅｎ",
-      "address": "由利本荘市川口新田２０-３",
+      "name": "Hello Mellow Yellow",
+      "address": "由利本荘市東由利老方38-1",
+      "storeid": "yurihonjo-d57929",
+      "shopid": "yurihonjo-d57929-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "Hondacars秋田 本荘中央店",
+      "address": "由利本荘市石脇字田尻野22-28",
+      "storeid": "yurihonjo-bb75cd",
+      "shopid": "yurihonjo-bb75cd-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "Hondacars秋田県央 本荘北店",
+      "address": "由利本荘市石脇字田尻野4-18",
+      "storeid": "yurihonjo-b27f8b",
+      "shopid": "yurihonjo-b27f8b-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "HondaCars本荘 本荘南店",
+      "address": "由利本荘市石脇字尾花沢57-95",
+      "storeid": "yurihonjo-c4240a",
+      "shopid": "yurihonjo-c4240a-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "iien",
+      "address": "由利本荘市川口字新田20ー3",
       "storeid": "yurihonjo-c48ea8",
-      "shopid": "yurihonjo-c48ea8-dbarai"
+      "shopid": "yurihonjo-c48ea8-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ＪＯＫＥＲ",
+      "name": "JA-SS 鮎川給油センター",
+      "address": "由利本荘市東鮎川字石垣327",
+      "storeid": "yurihonjo-30cd42",
+      "shopid": "yurihonjo-30cd42-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "JA-SS 岩城給油センター",
+      "address": "由利本荘市岩城勝手字鳥ヶ森27-10",
+      "storeid": "yurihonjo-1ef8f1",
+      "shopid": "yurihonjo-1ef8f1-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "JA-SS 笹子給油センター",
+      "address": "由利本荘市鳥海町上笹子字堺台109-1",
+      "storeid": "yurihonjo-2c69c6",
+      "shopid": "yurihonjo-2c69c6-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "JA-SS 大内給油センター",
+      "address": "由利本荘市大内三川字三川41",
+      "storeid": "yurihonjo-6c8b24",
+      "shopid": "yurihonjo-6c8b24-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "JA-SS 鳥海給油センター",
+      "address": "由利本荘市鳥海町下川内字大谷地平97-1",
+      "storeid": "yurihonjo-05c794",
+      "shopid": "yurihonjo-05c794-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "JA-SS 東由利給油センター",
+      "address": "由利本荘市東由利老方字両前寺71-2",
+      "storeid": "yurihonjo-52ab65",
+      "shopid": "yurihonjo-52ab65-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "JA-SS 本荘中央給油センター",
+      "address": "由利本荘市荒町字塒台64",
+      "storeid": "yurihonjo-80a7f3",
+      "shopid": "yurihonjo-80a7f3-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "JA-SS 矢島給油センター",
+      "address": "由利本荘市矢島町七日町字羽坂49-1",
+      "storeid": "yurihonjo-63595e",
+      "shopid": "yurihonjo-63595e-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "JOKER",
       "address": "由利本荘市桶屋町104",
       "storeid": "yurihonjo-492c81",
-      "shopid": "yurihonjo-492c81-dbarai"
+      "shopid": "yurihonjo-492c81-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ｋｉｉｔｏｓ",
+      "name": "kiitos",
       "address": "由利本荘市赤沼下420-1",
       "storeid": "yurihonjo-a275fe",
-      "shopid": "yurihonjo-a275fe-dbarai"
+      "shopid": "yurihonjo-a275fe-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "Ｋｏｆｕｅｎ",
-      "address": "由利本荘市花畑町4丁目45滝川テナント ２階",
-      "storeid": "yurihonjo-1eb573",
-      "shopid": "yurihonjo-1eb573-dbarai"
-    },
-    {
-      "name": "ＫＺＴ．ｃｒｅａｔｉｏｎ",
+      "name": "KZT.creation",
       "address": "由利本荘市後町32-3",
       "storeid": "yurihonjo-c14864",
-      "shopid": "yurihonjo-c14864-dbarai"
+      "shopid": "yurihonjo-c14864-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "Ｌａｕｇｈ  Ｈｏｍｅ  ｆａｖｏ．",
-      "address": "由利本荘市川口家後190-1",
-      "storeid": "yurihonjo-f56882",
-      "shopid": "yurihonjo-f56882-dbarai"
+      "name": "Laugh home favo",
+      "address": "由利本荘市川口字家後190-1",
+      "storeid": "yurihonjo-22e7da",
+      "shopid": "yurihonjo-22e7da-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ＬＰＧセンターＬＰＧセンター",
-      "address": "由利本荘市埋田小館81ー16",
-      "storeid": "yurihonjo-416538",
-      "shopid": "yurihonjo-416538-dbarai"
+      "name": "Lounge小春",
+      "address": "由利本荘市大門91 Vinビルディング 105",
+      "storeid": "yurihonjo-4e43c7",
+      "shopid": "yurihonjo-4e43c7-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "Ｌｕｃｉｌｌｅ",
+      "name": "Lucille",
       "address": "由利本荘市東梵天38-11",
       "storeid": "yurihonjo-475865",
-      "shopid": "yurihonjo-475865-dbarai"
+      "shopid": "yurihonjo-475865-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ｍａ  ｃｈｅｒｉｅ",
-      "address": "由利本荘市本荘64ＡＩＢ Ａビル２Ｆ-２０２",
+      "name": "ma cherie",
+      "address": "由利本荘市本荘64 AIBAビル2F202号室",
       "storeid": "yurihonjo-d323d5",
-      "shopid": "yurihonjo-d323d5-dbarai"
+      "shopid": "yurihonjo-d323d5-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ｍｅｍｏｍｉ",
-      "address": "由利本荘市東鮎川岡田233-１１",
+      "name": "memomi",
+      "address": "由利本荘市東鮎川字岡田233-11",
       "storeid": "yurihonjo-7b087d",
-      "shopid": "yurihonjo-7b087d-dbarai"
+      "shopid": "yurihonjo-7b087d-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ｏｏｐｓｈａｉｒｃｏｍｐａｎｙ",
-      "address": "由利本荘市東梵天１２３-１０",
-      "storeid": "yurihonjo-b044ce",
-      "shopid": "yurihonjo-b044ce-dbarai"
+      "name": "MONCHAN RAMEN SHUN",
+      "address": "由利本荘市川口下川原84-1",
+      "storeid": "yurihonjo-85dd3a",
+      "shopid": "yurihonjo-85dd3a-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ｐｒｉｖａｔｅ  ｓａｌｏｎ  Ｂｅｌｌ",
-      "address": "由利本荘市本荘81",
-      "storeid": "yurihonjo-26f470",
-      "shopid": "yurihonjo-26f470-dbarai"
+      "name": "MONDE",
+      "address": "由利本荘市花畑町1-38",
+      "storeid": "yurihonjo-8359b2",
+      "shopid": "yurihonjo-8359b2-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ｐｒｉｖａｔｅ  ｓａｌｏｎ  ＳＯＳＯ",
-      "address": "由利本荘市水林429-1オフィスビルアドバンス １Ｆ",
+      "name": "naikara.plus",
+      "address": "由利本荘市鶴沼28-1 マルカンプラザ 103",
+      "storeid": "yurihonjo-4a7a43",
+      "shopid": "yurihonjo-4a7a43-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "PETIT GRAIN",
+      "address": "由利本荘市美倉町57",
+      "storeid": "yurihonjo-f9ac90",
+      "shopid": "yurihonjo-f9ac90-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "private salon SOSO",
+      "address": "由利本荘市水林429-1",
       "storeid": "yurihonjo-ee29fc",
-      "shopid": "yurihonjo-ee29fc-dbarai"
+      "shopid": "yurihonjo-ee29fc-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ＲｅｆｒｅｓｈＳａｌｏｎＶｅｒｒｙ",
-      "address": "由利本荘市出戸町字赤沼下道215-1",
+      "name": "PuaLea",
+      "address": "由利本荘市花畑町1-27",
+      "storeid": "yurihonjo-2ac5e3",
+      "shopid": "yurihonjo-2ac5e3-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "publichouse KATE",
+      "address": "由利本荘市谷地町125",
+      "storeid": "yurihonjo-d1c732",
+      "shopid": "yurihonjo-d1c732-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "RefreshSalonVerry",
+      "address": "由利本荘市出戶町赤沼下道215-1",
       "storeid": "yurihonjo-f5e528",
-      "shopid": "yurihonjo-f5e528-dbarai"
+      "shopid": "yurihonjo-f5e528-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ＲｅｎＣｏｆｆｅｅ",
-      "address": "由利本荘市西目町出戸浜山1-72",
+      "name": "Reine Azalea",
+      "address": "由利本荘市本田仲町72",
+      "storeid": "yurihonjo-dae697",
+      "shopid": "yurihonjo-dae697-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "RenCoffee",
+      "address": "由利本荘市⻄目町出戶字浜山1ー72",
       "storeid": "yurihonjo-a0afac",
-      "shopid": "yurihonjo-a0afac-dbarai"
+      "shopid": "yurihonjo-a0afac-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ＳＡＮＲＩＴＳＵ  本荘店",
-      "address": "由利本荘市二十六木岡本38-1",
-      "storeid": "yurihonjo-b567a3",
-      "shopid": "yurihonjo-b567a3-dbarai"
+      "name": "REVIVEcreatestudio",
+      "address": "由利本荘市一番堰47-6",
+      "storeid": "yurihonjo-21cc4f",
+      "shopid": "yurihonjo-21cc4f-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ｓｕｎ",
-      "address": "由利本荘市赤沼下182ー17",
-      "storeid": "yurihonjo-bf79a3",
-      "shopid": "yurihonjo-bf79a3-dbarai"
+      "name": "SELAササヤ",
+      "address": "由利本荘市矢島町七日町字七日町15",
+      "storeid": "yurihonjo-984562",
+      "shopid": "yurihonjo-984562-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ＳｕｎｎｙＰｌａｃｅ．",
-      "address": "由利本荘市川口家妻244ー8",
+      "name": "SELAササヤ本荘店",
+      "address": "由利本荘市美倉町3-2",
+      "storeid": "yurihonjo-0b3631",
+      "shopid": "yurihonjo-0b3631-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "song BAR YAMATO",
+      "address": "由利本荘市裏尾崎町57ー4 FM2ビル",
+      "storeid": "yurihonjo-aff021",
+      "shopid": "yurihonjo-aff021-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "SunnyPlace.",
+      "address": "由利本荘市川口字家妻244-8",
       "storeid": "yurihonjo-54e875",
-      "shopid": "yurihonjo-54e875-dbarai"
+      "shopid": "yurihonjo-54e875-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "Ｔｉａｒａ",
-      "address": "由利本荘市八幡下151Ｍ２ビル２Ｆ",
-      "storeid": "yurihonjo-7288cc",
-      "shopid": "yurihonjo-7288cc-dbarai"
+      "name": "tavern calm",
+      "address": "由利本荘市本荘3",
+      "storeid": "yurihonjo-cfefa7",
+      "shopid": "yurihonjo-cfefa7-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ＴＯＹＯＳＨＩＭＡ  ＦＡＲＭ",
-      "address": "由利本荘市矢島町元町郷内39",
-      "storeid": "yurihonjo-7c6f96",
-      "shopid": "yurihonjo-7c6f96-dbarai"
+      "name": "TOMOKO理容室/Chinail",
+      "address": "由利本荘市浜ノ町4-6",
+      "storeid": "yurihonjo-3d6f54",
+      "shopid": "yurihonjo-3d6f54-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "Ｔｓ  ＴＲＡＣＫ",
+      "name": "TOYOSHIMA FARM/醸造所",
+      "address": "由利本荘市矢島町七日町熊之堂131-1",
+      "storeid": "yurihonjo-3e4687",
+      "shopid": "yurihonjo-3e4687-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "Ts TRACK",
       "address": "由利本荘市中竪町7",
       "storeid": "yurihonjo-fd9342",
-      "shopid": "yurihonjo-fd9342-dbarai"
+      "shopid": "yurihonjo-fd9342-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "Ｙｕｕ",
-      "address": "由利本荘市表尾崎町115ほまれビル ２Ｆ",
+      "name": "vol-fee美容室",
+      "address": "由利本荘市川口字家後88-1",
+      "storeid": "yurihonjo-9becdd",
+      "shopid": "yurihonjo-9becdd-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "WhiteHorse",
+      "address": "由利本荘市桶屋町104",
+      "storeid": "yurihonjo-9960df",
+      "shopid": "yurihonjo-9960df-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "Yuu",
+      "address": "由利本荘市表尾崎町115 ほまれビル2F",
       "storeid": "yurihonjo-2cda6f",
-      "shopid": "yurihonjo-2cda6f-dbarai"
+      "shopid": "yurihonjo-2cda6f-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "アカネヤ  エブリー",
-      "address": "由利本荘市川口家後151ー2",
+      "name": "アカネヤ エブリー",
+      "address": "由利本荘市川口字家後151-2",
       "storeid": "yurihonjo-f4dd42",
-      "shopid": "yurihonjo-f4dd42-dbarai"
+      "shopid": "yurihonjo-f4dd42-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "あべでんき",
-      "address": "由利本荘市薬師堂谷地181-8",
-      "storeid": "yurihonjo-af7cfd",
-      "shopid": "yurihonjo-af7cfd-dbarai"
+      "name": "アゼル ヘアー&エステ",
+      "address": "由利本荘市一番堰110-14",
+      "storeid": "yurihonjo-9e15ee",
+      "shopid": "yurihonjo-9e15ee-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "あ道川",
-      "address": "由利本荘市岩城内道川３-１２",
-      "storeid": "yurihonjo-981dc8",
-      "shopid": "yurihonjo-981dc8-dbarai"
+      "name": "アトリエ・タケシ",
+      "address": "由利本荘市東町2-3",
+      "storeid": "yurihonjo-fde880",
+      "shopid": "yurihonjo-fde880-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "いっぷく食堂  ちゃん",
+      "name": "アベイル 本荘店",
+      "address": "由利本荘市出戶町赤沼下道39",
+      "storeid": "yurihonjo-77bea2",
+      "shopid": "yurihonjo-77bea2-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "あ~道川",
+      "address": "由利本荘市岩城内道川3-12",
+      "storeid": "yurihonjo-290bee",
+      "shopid": "yurihonjo-290bee-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "イエローハット秋田本荘店",
+      "address": "由利本荘市一番堰239",
+      "storeid": "yurihonjo-d501f0",
+      "shopid": "yurihonjo-d501f0-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "いっぷく食堂ちゃん",
       "address": "由利本荘市桜小路27-1",
       "storeid": "yurihonjo-f7886b",
-      "shopid": "yurihonjo-f7886b-dbarai"
+      "shopid": "yurihonjo-f7886b-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "インテリアスガノ",
-      "address": "由利本荘市薬師堂谷地204-4",
+      "address": "由利本荘市薬師堂字谷地204-4",
       "storeid": "yurihonjo-6ffbae",
-      "shopid": "yurihonjo-6ffbae-dbarai"
+      "shopid": "yurihonjo-6ffbae-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "うさちゃんクリーニング イオンスタイル本荘店",
+      "address": "由利本荘市東梵天257",
+      "storeid": "yurihonjo-fb35ec",
+      "shopid": "yurihonjo-fb35ec-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "うさちゃんクリーニング グランマート本荘南店",
+      "address": "由利本荘市堤脇15",
+      "storeid": "yurihonjo-5c7e8a",
+      "shopid": "yurihonjo-5c7e8a-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "うさちゃんクリーニング フレスポ本荘店",
+      "address": "由利本荘市石脇字田頭175-1",
+      "storeid": "yurihonjo-378e04",
+      "shopid": "yurihonjo-378e04-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "うさちゃんクリーニング マックスバリュ新川口店",
+      "address": "由利本荘市川口字八幡前3-196",
+      "storeid": "yurihonjo-c8e0df",
+      "shopid": "yurihonjo-c8e0df-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "うさちゃんクリーニング 本荘店",
+      "address": "由利本荘市石脇字赤冗1-234",
+      "storeid": "yurihonjo-eb0a23",
+      "shopid": "yurihonjo-eb0a23-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "うどんの双葉食堂",
-      "address": "由利本荘市岩谷町西越45-1",
+      "address": "由利本荘市岩谷町字⻄越45-1",
       "storeid": "yurihonjo-e62f5b",
-      "shopid": "yurihonjo-e62f5b-dbarai"
+      "shopid": "yurihonjo-e62f5b-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "エステティックサロン  ラヴィール",
-      "address": "由利本荘市川口家後148",
+      "name": "うりた看板",
+      "address": "由利本荘市石脇字山ノ神11ー446",
+      "storeid": "yurihonjo-b63edf",
+      "shopid": "yurihonjo-b63edf-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "エステティックサロンラヴィール",
+      "address": "由利本荘市川口字家後148",
       "storeid": "yurihonjo-46f86e",
-      "shopid": "yurihonjo-46f86e-dbarai"
-    },
-    {
-      "name": "エネオスニュー矢島ｓｓ",
-      "address": "由利本荘市矢島町七日町熊之堂56-1",
-      "storeid": "yurihonjo-35155e",
-      "shopid": "yurihonjo-35155e-dbarai"
+      "shopid": "yurihonjo-46f86e-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "オートクラフトシマダ",
-      "address": "由利本荘市石脇山ノ神16-９２",
+      "address": "由利本荘市石脇字山ノ神16-92",
       "storeid": "yurihonjo-2a0a2c",
-      "shopid": "yurihonjo-2a0a2c-dbarai"
-    },
-    {
-      "name": "オートサービスイノ",
-      "address": "由利本荘市石脇田中88-3",
-      "storeid": "yurihonjo-5aeda3",
-      "shopid": "yurihonjo-5aeda3-dbarai"
+      "shopid": "yurihonjo-2a0a2c-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "オートステージ",
-      "address": "由利本荘市石脇田尻3-12",
+      "address": "由利本荘市石脇字田尻3-12",
       "storeid": "yurihonjo-68945c",
-      "shopid": "yurihonjo-68945c-dbarai"
+      "shopid": "yurihonjo-68945c-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "おしゃれの店  ばら",
-      "address": "由利本荘市八幡下151-1",
+      "name": "オートバックス由利本荘店",
+      "address": "由利本荘市一番堰160-1-2",
+      "storeid": "yurihonjo-8bf7e1",
+      "shopid": "yurihonjo-8bf7e1-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "おしゃれの店ばら",
+      "address": "由利本荘市八幡下151ー1",
       "storeid": "yurihonjo-b63161",
-      "shopid": "yurihonjo-b63161-dbarai"
+      "shopid": "yurihonjo-b63161-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "オフィスビル  アドバンス",
+      "name": "オフィスビル アドバンス",
       "address": "由利本荘市水林429-1",
       "storeid": "yurihonjo-4a3f59",
-      "shopid": "yurihonjo-4a3f59-dbarai"
+      "shopid": "yurihonjo-4a3f59-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "オリエ商会",
       "address": "由利本荘市本田仲町106",
       "storeid": "yurihonjo-b026fc",
-      "shopid": "yurihonjo-b026fc-dbarai"
+      "shopid": "yurihonjo-b026fc-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "おれんじはうす  トコ家",
-      "address": "由利本荘市川口後野96",
+      "name": "おれんじはうす トコ家",
+      "address": "由利本荘市川口字後野96",
       "storeid": "yurihonjo-82a2f1",
-      "shopid": "yurihonjo-82a2f1-dbarai"
+      "shopid": "yurihonjo-82a2f1-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "オンデーズイオン本荘店",
-      "address": "由利本荘市石脇田中138イオンスーパーセンター本荘店１Ｆ",
+      "address": "由利本荘市石脇字田中136 イオン本荘SC内",
       "storeid": "yurihonjo-7e738b",
-      "shopid": "yurihonjo-7e738b-dbarai"
+      "shopid": "yurihonjo-7e738b-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "お食事処  彦",
-      "address": "由利本荘市岩城内道川新鶴潟192-43道の駅岩城内",
+      "name": "お食事処 彦",
+      "address": "由利本荘市岩城内道川字新鶴潟192-43",
       "storeid": "yurihonjo-4c7d94",
-      "shopid": "yurihonjo-4c7d94-dbarai"
+      "shopid": "yurihonjo-4c7d94-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "カーウェーブ",
-      "address": "由利本荘市岩城二古   刈道25-1",
+      "address": "由利本荘市岩城二古字草刈道25ー1",
       "storeid": "yurihonjo-3843d0",
-      "shopid": "yurihonjo-3843d0-dbarai"
+      "shopid": "yurihonjo-3843d0-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "かがちゅうスポーツ",
       "address": "由利本荘市谷地町108",
       "storeid": "yurihonjo-13eb68",
-      "shopid": "yurihonjo-13eb68-dbarai"
+      "shopid": "yurihonjo-13eb68-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "カスガイ電器",
       "address": "由利本荘市裏尾崎町56",
       "storeid": "yurihonjo-8a5086",
-      "shopid": "yurihonjo-8a5086-dbarai"
+      "shopid": "yurihonjo-8a5086-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ガスト羽後本荘店",
+      "address": "由利本荘市一番堰260",
+      "storeid": "yurihonjo-37cf0d",
+      "shopid": "yurihonjo-37cf0d-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "カットサロン・カントリー",
-      "address": "由利本荘市上大野33ー1",
+      "address": "由利本荘市上大野33-1",
       "storeid": "yurihonjo-f6a3e1",
-      "shopid": "yurihonjo-f6a3e1-dbarai"
+      "shopid": "yurihonjo-f6a3e1-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "カットサロンセントラル",
-      "address": "由利本荘市一番堰219-７",
+      "address": "由利本荘市一番堰219-7",
       "storeid": "yurihonjo-94a9f1",
-      "shopid": "yurihonjo-94a9f1-dbarai"
+      "shopid": "yurihonjo-94a9f1-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "カットスペースふじわら顔剃り倶楽部",
-      "address": "由利本荘市石脇田尻野7-23",
-      "storeid": "yurihonjo-8a1905",
-      "shopid": "yurihonjo-8a1905-dbarai"
-    },
-    {
-      "name": "カットハウスＢＥＮ",
-      "address": "由利本荘市雪車町新川原２-２",
+      "name": "カットハウスBEN",
+      "address": "由利本荘市雪車町字新川原2-2",
       "storeid": "yurihonjo-cea15d",
-      "shopid": "yurihonjo-cea15d-dbarai"
+      "shopid": "yurihonjo-cea15d-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "カットハウスヌーマ",
-      "address": "由利本荘市石脇田尻野24-6",
+      "address": "由利本荘市石脇字田尻野24ー6",
       "storeid": "yurihonjo-584aaf",
-      "shopid": "yurihonjo-584aaf-dbarai"
+      "shopid": "yurihonjo-584aaf-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "かつ喜  本店",
-      "address": "由利本荘市表尾崎町1ー1",
-      "storeid": "yurihonjo-2594bd",
-      "shopid": "yurihonjo-2594bd-dbarai"
+      "name": "かっぱ寿司由利本荘店",
+      "address": "由利本荘市石脇字尾花沢8-3",
+      "storeid": "yurihonjo-c0b4eb",
+      "shopid": "yurihonjo-c0b4eb-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ギフトスィード",
-      "address": "由利本荘市西目町沼田新道下1-1",
-      "storeid": "yurihonjo-e2d20a",
-      "shopid": "yurihonjo-e2d20a-dbarai"
+      "name": "かなこ",
+      "address": "由利本荘市花畑町2-67-1",
+      "storeid": "yurihonjo-2b7c57",
+      "shopid": "yurihonjo-2b7c57-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "カラオケアクア本荘店",
+      "address": "由利本荘市岩渕下46",
+      "storeid": "yurihonjo-0c7e5a",
+      "shopid": "yurihonjo-0c7e5a-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "キッチンカフェkino",
+      "address": "由利本荘市町村字鳴瀬台65-1 鳥海山木のおもちゃ館",
+      "storeid": "yurihonjo-212f56",
+      "shopid": "yurihonjo-212f56-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "ギルバート",
-      "address": "由利本荘市東由利老方畑田38ー1ショッピングプラザぷれっそ",
+      "address": "由利本荘市東由利老方字畑田38-1",
       "storeid": "yurihonjo-46eae7",
-      "shopid": "yurihonjo-46eae7-dbarai"
-    },
-    {
-      "name": "クラッシー",
-      "address": "由利本荘市裏尾崎町8-２つつじ堂１Ｆ",
-      "storeid": "yurihonjo-9b1641",
-      "shopid": "yurihonjo-9b1641-dbarai"
-    },
-    {
-      "name": "グリーンアクサス  東由利営業所",
-      "address": "由利本荘市東由利舘合五海保13-2",
-      "storeid": "yurihonjo-569c4d",
-      "shopid": "yurihonjo-569c4d-dbarai"
-    },
-    {
-      "name": "ケントモービル",
-      "address": "由利本荘市矢島町川辺田中29",
-      "storeid": "yurihonjo-9bf864",
-      "shopid": "yurihonjo-9bf864-dbarai"
-    },
-    {
-      "name": "コシカワ整体院",
-      "address": "由利本荘市川口八幡前59-3",
-      "storeid": "yurihonjo-ad7fac",
-      "shopid": "yurihonjo-ad7fac-dbarai"
-    },
-    {
-      "name": "サイクルショップ  カトー",
-      "address": "由利本荘市大門58",
-      "storeid": "yurihonjo-50232f",
-      "shopid": "yurihonjo-50232f-dbarai"
-    },
-    {
-      "name": "サイクルショップクラハシ",
-      "address": "由利本荘市美倉町19",
-      "storeid": "yurihonjo-390156",
-      "shopid": "yurihonjo-390156-dbarai"
-    },
-    {
-      "name": "サンライトチェーン本庄店  福岡電機",
-      "address": "由利本荘市花畑町1丁目75",
-      "storeid": "yurihonjo-cf7dae",
-      "shopid": "yurihonjo-cf7dae-dbarai"
-    },
-    {
-      "name": "シブヤスタジオ",
-      "address": "由利本荘市中梵天78ー3",
-      "storeid": "yurihonjo-b3f9bf",
-      "shopid": "yurihonjo-b3f9bf-dbarai"
-    },
-    {
-      "name": "ジムワン",
-      "address": "由利本荘市東由利老方畑田38-1",
-      "storeid": "yurihonjo-61a0d1",
-      "shopid": "yurihonjo-61a0d1-dbarai"
-    },
-    {
-      "name": "スナックＪａｄｅ",
-      "address": "由利本荘市大門８９Ｍビル１Ｆ",
-      "storeid": "yurihonjo-874a49",
-      "shopid": "yurihonjo-874a49-dbarai"
-    },
-    {
-      "name": "スナックｐａｒｏｐａｒｏ",
-      "address": "由利本荘市中竪町59-3",
-      "storeid": "yurihonjo-241444",
-      "shopid": "yurihonjo-241444-dbarai"
-    },
-    {
-      "name": "スナックさくら",
-      "address": "由利本荘市谷山小路2-9リッチビル １Ｆ",
-      "storeid": "yurihonjo-867eba",
-      "shopid": "yurihonjo-867eba-dbarai"
-    },
-    {
-      "name": "せいび屋コンノ",
-      "address": "由利本荘市岩城内道川人山13-2",
-      "storeid": "yurihonjo-f8ad49",
-      "shopid": "yurihonjo-f8ad49-dbarai"
-    },
-    {
-      "name": "セゾンふうげつ  本荘店",
-      "address": "由利本荘市中梵天1-4",
-      "storeid": "yurihonjo-dd2a16",
-      "shopid": "yurihonjo-dd2a16-dbarai"
-    },
-    {
-      "name": "ソルティエラブランコ",
-      "address": "由利本荘市西目町沼田新道下490-5ハーブワールドアキタ",
-      "storeid": "yurihonjo-36eccf",
-      "shopid": "yurihonjo-36eccf-dbarai"
-    },
-    {
-      "name": "タイヤ館  本荘",
-      "address": "由利本荘市石脇田中74-1",
-      "storeid": "yurihonjo-50a804",
-      "shopid": "yurihonjo-50a804-dbarai"
-    },
-    {
-      "name": "タグチ靴店",
-      "address": "由利本荘市大町26",
-      "storeid": "yurihonjo-c07c29",
-      "shopid": "yurihonjo-c07c29-dbarai"
-    },
-    {
-      "name": "ちびすけ堂",
-      "address": "由利本荘市石脇田尻野36-89浜松ハイツ２ ２０１",
-      "storeid": "yurihonjo-2903e3",
-      "shopid": "yurihonjo-2903e3-dbarai"
-    },
-    {
-      "name": "チャコール",
-      "address": "由利本荘市岩城内道川馬道25-1",
-      "storeid": "yurihonjo-ab3579",
-      "shopid": "yurihonjo-ab3579-dbarai"
-    },
-    {
-      "name": "ちょう丸",
-      "address": "由利本荘市谷山小路2-2",
-      "storeid": "yurihonjo-ad7f33",
-      "shopid": "yurihonjo-ad7f33-dbarai"
-    },
-    {
-      "name": "ちろりん村",
-      "address": "由利本荘市矢島町田中町92",
-      "storeid": "yurihonjo-292fa5",
-      "shopid": "yurihonjo-292fa5-dbarai"
-    },
-    {
-      "name": "つりショップ本荘",
-      "address": "由利本荘市石脇尾花沢45",
-      "storeid": "yurihonjo-871b94",
-      "shopid": "yurihonjo-871b94-dbarai"
-    },
-    {
-      "name": "テ．アモ",
-      "address": "由利本荘市谷地町126ＳＫビル １Ｆ",
-      "storeid": "yurihonjo-f51c6a",
-      "shopid": "yurihonjo-f51c6a-dbarai"
-    },
-    {
-      "name": "ドゥーベスト",
-      "address": "由利本荘市深沢苗代沢18",
-      "storeid": "yurihonjo-97f749",
-      "shopid": "yurihonjo-97f749-dbarai"
-    },
-    {
-      "name": "ドライブイン広場",
-      "address": "由利本荘市西目町出戸浜山6-53",
-      "storeid": "yurihonjo-f5994b",
-      "shopid": "yurihonjo-f5994b-dbarai"
-    },
-    {
-      "name": "ドリームテテ",
-      "address": "由利本荘市美倉町25-1",
-      "storeid": "yurihonjo-f177fb",
-      "shopid": "yurihonjo-f177fb-dbarai"
-    },
-    {
-      "name": "とりのトリコ本荘店",
-      "address": "由利本荘市石脇田尻野22-１５",
-      "storeid": "yurihonjo-acd9a0",
-      "shopid": "yurihonjo-acd9a0-dbarai"
-    },
-    {
-      "name": "トレンタ本荘店",
-      "address": "由利本荘市石脇田頭206-21",
-      "storeid": "yurihonjo-a8f9ee",
-      "shopid": "yurihonjo-a8f9ee-dbarai"
-    },
-    {
-      "name": "にしめ物産",
-      "address": "由利本荘市西目町沼田新道下1112-2",
-      "storeid": "yurihonjo-6cec89",
-      "shopid": "yurihonjo-6cec89-dbarai"
-    },
-    {
-      "name": "ネパールダイニングポカラ",
-      "address": "由利本荘市川口八幡前38-1",
-      "storeid": "yurihonjo-23bfa8",
-      "shopid": "yurihonjo-23bfa8-dbarai"
-    },
-    {
-      "name": "ハーブワールドＡＫＩＴＡ",
-      "address": "由利本荘市西目町沼田新道下490-5",
-      "storeid": "yurihonjo-770bdc",
-      "shopid": "yurihonjo-770bdc-dbarai"
-    },
-    {
-      "name": "パッケージプラザ由利本荘店",
-      "address": "由利本荘市花畑町4丁目１９番地",
-      "storeid": "yurihonjo-fc4c3f",
-      "shopid": "yurihonjo-fc4c3f-dbarai"
-    },
-    {
-      "name": "はなえにし",
-      "address": "由利本荘市内黒瀬前田表８５７",
-      "storeid": "yurihonjo-52888e",
-      "shopid": "yurihonjo-52888e-dbarai"
-    },
-    {
-      "name": "パブレストランハウスブツ",
-      "address": "由利本荘市東由利老方２４",
-      "storeid": "yurihonjo-ea738d",
-      "shopid": "yurihonjo-ea738d-dbarai"
-    },
-    {
-      "name": "ビクトリアカラー",
-      "address": "由利本荘市御門274-1",
-      "storeid": "yurihonjo-f0321e",
-      "shopid": "yurihonjo-f0321e-dbarai"
-    },
-    {
-      "name": "ピザテンフォー秋田由利本荘店",
-      "address": "由利本荘市岩渕下39-4",
-      "storeid": "yurihonjo-7130a1",
-      "shopid": "yurihonjo-7130a1-dbarai"
-    },
-    {
-      "name": "フェロー美容室",
-      "address": "由利本荘市花畑町1丁目3",
-      "storeid": "yurihonjo-360e3a",
-      "shopid": "yurihonjo-360e3a-dbarai"
-    },
-    {
-      "name": "プランジングサーフ",
-      "address": "由利本荘市谷地町89-2",
-      "storeid": "yurihonjo-0f6959",
-      "shopid": "yurihonjo-0f6959-dbarai"
-    },
-    {
-      "name": "ぶんねんレッカー",
-      "address": "由利本荘市山本家岸28-1",
-      "storeid": "yurihonjo-5419c4",
-      "shopid": "yurihonjo-5419c4-dbarai"
-    },
-    {
-      "name": "ヘアーサロン  すずき",
-      "address": "由利本荘市薬師堂堂ノ下6ー1",
-      "storeid": "yurihonjo-87c51e",
-      "shopid": "yurihonjo-87c51e-dbarai"
-    },
-    {
-      "name": "ヘアサロンみうら",
-      "address": "由利本荘市東町88",
-      "storeid": "yurihonjo-0c4ce1",
-      "shopid": "yurihonjo-0c4ce1-dbarai"
-    },
-    {
-      "name": "べこ助",
-      "address": "由利本荘市岩渕下46",
-      "storeid": "yurihonjo-4e2a76",
-      "shopid": "yurihonjo-4e2a76-dbarai"
-    },
-    {
-      "name": "ヘッドセラピー  ソルティエラ",
-      "address": "由利本荘市西目町沼田新道下490-5",
-      "storeid": "yurihonjo-938e44",
-      "shopid": "yurihonjo-938e44-dbarai"
-    },
-    {
-      "name": "べりーず",
-      "address": "由利本荘市矢島町七日町羽坂21-6",
-      "storeid": "yurihonjo-182c7d",
-      "shopid": "yurihonjo-182c7d-dbarai"
-    },
-    {
-      "name": "マーニー",
-      "address": "由利本荘市裏尾崎町8-２つつじ堂２Ｆ",
-      "storeid": "yurihonjo-540a93",
-      "shopid": "yurihonjo-540a93-dbarai"
-    },
-    {
-      "name": "まつむら商店西目店",
-      "address": "由利本荘市西目町沼田新道下2ー619",
-      "storeid": "yurihonjo-155d1b",
-      "shopid": "yurihonjo-155d1b-dbarai"
-    },
-    {
-      "name": "マリンフィッシングショップマルダイ",
-      "address": "由利本荘市水林28-7",
-      "storeid": "yurihonjo-bf8741",
-      "shopid": "yurihonjo-bf8741-dbarai"
-    },
-    {
-      "name": "マルフジ種苗店",
-      "address": "由利本荘市大鍬町338",
-      "storeid": "yurihonjo-56f442",
-      "shopid": "yurihonjo-56f442-dbarai"
-    },
-    {
-      "name": "丸市洋品店",
-      "address": "由利本荘市中町17ー1",
-      "storeid": "yurihonjo-a7fc40",
-      "shopid": "yurihonjo-a7fc40-dbarai"
-    },
-    {
-      "name": "みくら屋  美倉町店",
-      "address": "由利本荘市美倉町14",
-      "storeid": "yurihonjo-522acf",
-      "shopid": "yurihonjo-522acf-dbarai"
-    },
-    {
-      "name": "ミッキーのクリーニング",
-      "address": "由利本荘市鶴沼108-7",
-      "storeid": "yurihonjo-502a5c",
-      "shopid": "yurihonjo-502a5c-dbarai"
-    },
-    {
-      "name": "ミッドナイトえいちゃん",
-      "address": "由利本荘市本田仲町124",
-      "storeid": "yurihonjo-6e73ff",
-      "shopid": "yurihonjo-6e73ff-dbarai"
-    },
-    {
-      "name": "ムーラン",
-      "address": "由利本荘市大町２８",
-      "storeid": "yurihonjo-686ee9",
-      "shopid": "yurihonjo-686ee9-dbarai"
-    },
-    {
-      "name": "むつ電器",
-      "address": "由利本荘市小人町26-2",
-      "storeid": "yurihonjo-7ff0a4",
-      "shopid": "yurihonjo-7ff0a4-dbarai"
-    },
-    {
-      "name": "メナードフェイシャルサロン  谷地町",
-      "address": "由利本荘市谷地町53",
-      "storeid": "yurihonjo-741cae",
-      "shopid": "yurihonjo-741cae-dbarai"
-    },
-    {
-      "name": "メナードフェイシャルサロン  本荘カトマンズ",
-      "address": "由利本荘市赤田代官免１-１",
-      "storeid": "yurihonjo-34a09d",
-      "shopid": "yurihonjo-34a09d-dbarai"
-    },
-    {
-      "name": "メナードフェイシャルサロン薬師堂",
-      "address": "由利本荘市薬師堂字谷地72-49",
-      "storeid": "yurihonjo-eb14b3",
-      "shopid": "yurihonjo-eb14b3-dbarai"
-    },
-    {
-      "name": "モードポテチーノじゅん",
-      "address": "由利本荘市表尾崎町4-3",
-      "storeid": "yurihonjo-2c2a09",
-      "shopid": "yurihonjo-2c2a09-dbarai"
-    },
-    {
-      "name": "モード四季",
-      "address": "由利本荘市田町25",
-      "storeid": "yurihonjo-f57535",
-      "shopid": "yurihonjo-f57535-dbarai"
-    },
-    {
-      "name": "もりもり食堂  食楽々",
-      "address": "由利本荘市小栗山森ノ腰80-2",
-      "storeid": "yurihonjo-b641d5",
-      "shopid": "yurihonjo-b641d5-dbarai"
-    },
-    {
-      "name": "やきとり元気",
-      "address": "由利本荘市花畑町1丁目53",
-      "storeid": "yurihonjo-e9f0ac",
-      "shopid": "yurihonjo-e9f0ac-dbarai"
-    },
-    {
-      "name": "ヤマサボデー",
-      "address": "由利本荘市西目町海士剥御月森1ー403",
-      "storeid": "yurihonjo-9cddc9",
-      "shopid": "yurihonjo-9cddc9-dbarai"
-    },
-    {
-      "name": "ゆにこん堂",
-      "address": "由利本荘市花畑町4丁目48",
-      "storeid": "yurihonjo-991442",
-      "shopid": "yurihonjo-991442-dbarai"
-    },
-    {
-      "name": "ラーメンいちばん星",
-      "address": "由利本荘市鶴沼89-2",
-      "storeid": "yurihonjo-e8f37b",
-      "shopid": "yurihonjo-e8f37b-dbarai"
-    },
-    {
-      "name": "ラーメンキッチンＫａｉ",
-      "address": "由利本荘市谷地町１３４",
-      "storeid": "yurihonjo-4038f3",
-      "shopid": "yurihonjo-4038f3-dbarai"
-    },
-    {
-      "name": "ラーメン勝負",
-      "address": "由利本荘市川口堂ノ腰111-1",
-      "storeid": "yurihonjo-46323a",
-      "shopid": "yurihonjo-46323a-dbarai"
-    },
-    {
-      "name": "ライフファッションアカネヤ",
-      "address": "由利本荘市大門４８",
-      "storeid": "yurihonjo-3fef13",
-      "shopid": "yurihonjo-3fef13-dbarai"
-    },
-    {
-      "name": "ラウンジ  アリス",
-      "address": "由利本荘市谷地町126ＳＫビル ２Ｆ",
-      "storeid": "yurihonjo-df280a",
-      "shopid": "yurihonjo-df280a-dbarai"
-    },
-    {
-      "name": "リストランテ  クロ",
-      "address": "由利本荘市石脇田尻野4-109",
-      "storeid": "yurihonjo-052d7a",
-      "shopid": "yurihonjo-052d7a-dbarai"
-    },
-    {
-      "name": "リバーロード",
-      "address": "由利本荘市岩城内道川新鶴潟3ー4",
-      "storeid": "yurihonjo-29884e",
-      "shopid": "yurihonjo-29884e-dbarai"
-    },
-    {
-      "name": "リラックス工房蒼風",
-      "address": "由利本荘市岩城内道川新鶴潟192ー43",
-      "storeid": "yurihonjo-106a79",
-      "shopid": "yurihonjo-106a79-dbarai"
-    },
-    {
-      "name": "ルチルファンタジー",
-      "address": "由利本荘市谷地町107",
-      "storeid": "yurihonjo-be9d7c",
-      "shopid": "yurihonjo-be9d7c-dbarai"
-    },
-    {
-      "name": "ルピナス",
-      "address": "由利本荘市花畑町1丁目15",
-      "storeid": "yurihonjo-c59458",
-      "shopid": "yurihonjo-c59458-dbarai"
-    },
-    {
-      "name": "レイネアザレア",
-      "address": "由利本荘市本田仲町72",
-      "storeid": "yurihonjo-6d7d2e",
-      "shopid": "yurihonjo-6d7d2e-dbarai"
-    },
-    {
-      "name": "ロータス東幸",
-      "address": "由利本荘市二十六木２３-３",
-      "storeid": "yurihonjo-e670cb",
-      "shopid": "yurihonjo-e670cb-dbarai"
-    },
-    {
-      "name": "亜美の店",
-      "address": "由利本荘市美倉町22-2",
-      "storeid": "yurihonjo-5bde8d",
-      "shopid": "yurihonjo-5bde8d-dbarai"
-    },
-    {
-      "name": "阿部精肉店",
-      "address": "由利本荘市大町23",
-      "storeid": "yurihonjo-792b58",
-      "shopid": "yurihonjo-792b58-dbarai"
-    },
-    {
-      "name": "壱燈餞",
-      "address": "由利本荘市東町7ー6",
-      "storeid": "yurihonjo-31bd7b",
-      "shopid": "yurihonjo-31bd7b-dbarai"
-    },
-    {
-      "name": "遠藤電機",
-      "address": "由利本荘市岩谷町川端100-1",
-      "storeid": "yurihonjo-02618f",
-      "shopid": "yurihonjo-02618f-dbarai"
-    },
-    {
-      "name": "沖縄カフェ  結まーる",
-      "address": "由利本荘市岩野目沢上長瀬野119",
-      "storeid": "yurihonjo-3493d5",
-      "shopid": "yurihonjo-3493d5-dbarai"
-    },
-    {
-      "name": "温活サロンふわり",
-      "address": "由利本荘市川口川原１１６-２",
-      "storeid": "yurihonjo-153a58",
-      "shopid": "yurihonjo-153a58-dbarai"
-    },
-    {
-      "name": "花友Ｐｒｉｍａｖｅｒａ",
-      "address": "由利本荘市赤沼下59-３３",
-      "storeid": "yurihonjo-bef949",
-      "shopid": "yurihonjo-bef949-dbarai"
-    },
-    {
-      "name": "海鮮居酒屋  北前  由利本荘店",
-      "address": "由利本荘市岩渕下46",
-      "storeid": "yurihonjo-8bc46d",
-      "shopid": "yurihonjo-8bc46d-dbarai"
-    },
-    {
-      "name": "割烹    勝山",
-      "address": "由利本荘市後町70ー2",
-      "storeid": "yurihonjo-74ca08",
-      "shopid": "yurihonjo-74ca08-dbarai"
-    },
-    {
-      "name": "岩城自動車",
-      "address": "由利本荘市岩城冨田字板敷361",
-      "storeid": "yurihonjo-b45636",
-      "shopid": "yurihonjo-b45636-dbarai"
-    },
-    {
-      "name": "希空",
-      "address": "由利本荘市桜小路40",
-      "storeid": "yurihonjo-b937ee",
-      "shopid": "yurihonjo-b937ee-dbarai"
-    },
-    {
-      "name": "居酒屋  勘乃",
-      "address": "由利本荘市西梵天12-1",
-      "storeid": "yurihonjo-e9b2aa",
-      "shopid": "yurihonjo-e9b2aa-dbarai"
-    },
-    {
-      "name": "居酒屋  酒仙",
-      "address": "由利本荘市花畑町1丁目36-1",
-      "storeid": "yurihonjo-8a2d64",
-      "shopid": "yurihonjo-8a2d64-dbarai"
-    },
-    {
-      "name": "居酒屋ささちゃん",
-      "address": "由利本荘市川口八幡前34-7",
-      "storeid": "yurihonjo-00792c",
-      "shopid": "yurihonjo-00792c-dbarai"
-    },
-    {
-      "name": "居酒屋とみ屋",
-      "address": "由利本荘市花畑町1丁目54",
-      "storeid": "yurihonjo-394362",
-      "shopid": "yurihonjo-394362-dbarai"
-    },
-    {
-      "name": "居酒屋ふくろう",
-      "address": "由利本荘市給人町１-５",
-      "storeid": "yurihonjo-881385",
-      "shopid": "yurihonjo-881385-dbarai"
-    },
-    {
-      "name": "居酒屋みりす",
-      "address": "由利本荘市花畑町1丁目10２-２",
-      "storeid": "yurihonjo-9f4aeb",
-      "shopid": "yurihonjo-9f4aeb-dbarai"
-    },
-    {
-      "name": "興真ボデー",
-      "address": "由利本荘市薬師堂山崎88",
-      "storeid": "yurihonjo-1a0b93",
-      "shopid": "yurihonjo-1a0b93-dbarai"
-    },
-    {
-      "name": "九州堂生花店",
-      "address": "由利本荘市矢島町七日町七日町30-１",
-      "storeid": "yurihonjo-6eb9d8",
-      "shopid": "yurihonjo-6eb9d8-dbarai"
-    },
-    {
-      "name": "熊谷自動車整備工場",
-      "address": "由利本荘市一番堰227-1",
-      "storeid": "yurihonjo-f73165",
-      "shopid": "yurihonjo-f73165-dbarai"
-    },
-    {
-      "name": "元祖瓦焼きの里",
-      "address": "由利本荘市西目町沼田１１１２-２",
-      "storeid": "yurihonjo-23eade",
-      "shopid": "yurihonjo-23eade-dbarai"
-    },
-    {
-      "name": "吾愛郷  矢島店",
-      "address": "由利本荘市矢島町七日町七日町53",
-      "storeid": "yurihonjo-ebd447",
-      "shopid": "yurihonjo-ebd447-dbarai"
-    },
-    {
-      "name": "吾愛郷Ｄｅｌｉｃａ",
-      "address": "由利本荘市花畑町1丁目55",
-      "storeid": "yurihonjo-8f29ad",
-      "shopid": "yurihonjo-8f29ad-dbarai"
-    },
-    {
-      "name": "御月森自動車整備工場",
-      "address": "由利本荘市西目町海士剥御月森1ー77",
-      "storeid": "yurihonjo-d2879e",
-      "shopid": "yurihonjo-d2879e-dbarai"
-    },
-    {
-      "name": "江戸前寿司  日本料理  寿司竹",
-      "address": "由利本荘市表尾崎町6-10",
-      "storeid": "yurihonjo-cfbafb",
-      "shopid": "yurihonjo-cfbafb-dbarai"
-    },
-    {
-      "name": "今野商会",
-      "address": "由利本荘市薬師堂堤下41-23",
-      "storeid": "yurihonjo-10a69a",
-      "shopid": "yurihonjo-10a69a-dbarai"
-    },
-    {
-      "name": "佐々木電器",
-      "address": "由利本荘市西目町沼田新道下2-424",
-      "storeid": "yurihonjo-ea8412",
-      "shopid": "yurihonjo-ea8412-dbarai"
-    },
-    {
-      "name": "佐藤電機",
-      "address": "由利本荘市大鍬町292-2",
-      "storeid": "yurihonjo-ca9baf",
-      "shopid": "yurihonjo-ca9baf-dbarai"
-    },
-    {
-      "name": "沙羅",
-      "address": "由利本荘市中竪町59-3",
-      "storeid": "yurihonjo-8e3432",
-      "shopid": "yurihonjo-8e3432-dbarai"
-    },
-    {
-      "name": "三ヶ月クリーニング",
-      "address": "由利本荘市本田仲町88-4",
-      "storeid": "yurihonjo-42215f",
-      "shopid": "yurihonjo-42215f-dbarai"
-    },
-    {
-      "name": "三ヶ月クリーニング  薬師堂店",
-      "address": "由利本荘市薬師堂中道237-6",
-      "storeid": "yurihonjo-f99cc9",
-      "shopid": "yurihonjo-f99cc9-dbarai"
-    },
-    {
-      "name": "三浦酒店",
-      "address": "由利本荘市矢島町城内八森下170-1",
-      "storeid": "yurihonjo-59c8b1",
-      "shopid": "yurihonjo-59c8b1-dbarai"
-    },
-    {
-      "name": "三尺堂石油販売  ＥＮＥＯＳ本荘ＳＳ",
-      "address": "由利本荘市表尾崎町23",
-      "storeid": "yurihonjo-bb3469",
-      "shopid": "yurihonjo-bb3469-dbarai"
-    },
-    {
-      "name": "三船商店",
-      "address": "由利本荘市矢島町七日町七日町39-17",
-      "storeid": "yurihonjo-0bcb8d",
-      "shopid": "yurihonjo-0bcb8d-dbarai"
-    },
-    {
-      "name": "三立自動車整備工場",
-      "address": "由利本荘市東由利蔵新田52-1",
-      "storeid": "yurihonjo-7f7c40",
-      "shopid": "yurihonjo-7f7c40-dbarai"
-    },
-    {
-      "name": "山科運輸整備工場",
-      "address": "由利本荘市矢島町元町間木86",
-      "storeid": "yurihonjo-452c25",
-      "shopid": "yurihonjo-452c25-dbarai"
-    },
-    {
-      "name": "山口菓子店",
-      "address": "由利本荘市矢島町城内八森下163",
-      "storeid": "yurihonjo-1430ca",
-      "shopid": "yurihonjo-1430ca-dbarai"
-    },
-    {
-      "name": "四季料理  松が谷",
-      "address": "由利本荘市谷地町75",
-      "storeid": "yurihonjo-e6d989",
-      "shopid": "yurihonjo-e6d989-dbarai"
-    },
-    {
-      "name": "自由食堂",
-      "address": "由利本荘市花畑町2丁目48本荘駅前市場内",
-      "storeid": "yurihonjo-ba7ffe",
-      "shopid": "yurihonjo-ba7ffe-dbarai"
-    },
-    {
-      "name": "寿し処加津美",
-      "address": "由利本荘市東由利蔵新田53",
-      "storeid": "yurihonjo-a6ead2",
-      "shopid": "yurihonjo-a6ead2-dbarai"
-    },
-    {
-      "name": "小松園芸",
-      "address": "由利本荘市裏尾崎町53-2",
-      "storeid": "yurihonjo-bb7fdf",
-      "shopid": "yurihonjo-bb7fdf-dbarai"
-    },
-    {
-      "name": "小川石油",
-      "address": "由利本荘市川口八幡前237-4 ２Ｆ",
-      "storeid": "yurihonjo-4090dd",
-      "shopid": "yurihonjo-4090dd-dbarai"
-    },
-    {
-      "name": "小料理屋雪原",
-      "address": "由利本荘市東町58-２",
-      "storeid": "yurihonjo-a9c272",
-      "shopid": "yurihonjo-a9c272-dbarai"
-    },
-    {
-      "name": "松月園",
-      "address": "由利本荘市岩谷町川端76-2",
-      "storeid": "yurihonjo-114023",
-      "shopid": "yurihonjo-114023-dbarai"
-    },
-    {
-      "name": "焼肉  じゅうじゅう亭",
-      "address": "由利本荘市砂子下9-3",
-      "storeid": "yurihonjo-45fa71",
-      "shopid": "yurihonjo-45fa71-dbarai"
-    },
-    {
-      "name": "焼肉牛和華",
-      "address": "由利本荘市本荘69",
-      "storeid": "yurihonjo-9c6d44",
-      "shopid": "yurihonjo-9c6d44-dbarai"
-    },
-    {
-      "name": "笑や",
-      "address": "由利本荘市花畑町2丁目67-1",
-      "storeid": "yurihonjo-df0057",
-      "shopid": "yurihonjo-df0057-dbarai"
-    },
-    {
-      "name": "食堂とり・とん",
-      "address": "由利本荘市薬師堂中道263-1",
-      "storeid": "yurihonjo-407ebd",
-      "shopid": "yurihonjo-407ebd-dbarai"
-    },
-    {
-      "name": "酔処  和さ美",
-      "address": "由利本荘市谷地町1",
-      "storeid": "yurihonjo-54fca9",
-      "shopid": "yurihonjo-54fca9-dbarai"
-    },
-    {
-      "name": "西目販売所０１",
-      "address": "由利本荘市谷地町108",
-      "storeid": "yurihonjo-c4a7b7",
-      "shopid": "yurihonjo-c4a7b7-dbarai"
-    },
-    {
-      "name": "村上ケンネル",
-      "address": "由利本荘市一番堰139",
-      "storeid": "yurihonjo-3a965b",
-      "shopid": "yurihonjo-3a965b-dbarai"
-    },
-    {
-      "name": "村上酒店",
-      "address": "由利本荘市鳥海町下直根石神4-1",
-      "storeid": "yurihonjo-afd320",
-      "shopid": "yurihonjo-afd320-dbarai"
-    },
-    {
-      "name": "大黒屋",
-      "address": "由利本荘市花畑町1丁目30",
-      "storeid": "yurihonjo-4354c4",
-      "shopid": "yurihonjo-4354c4-dbarai"
-    },
-    {
-      "name": "大島クリーニング",
-      "address": "由利本荘市谷地町84",
-      "storeid": "yurihonjo-9c11a5",
-      "shopid": "yurihonjo-9c11a5-dbarai"
-    },
-    {
-      "name": "中古楽器専門店ジプシーワゴン",
-      "address": "由利本荘市花畑町4丁目５０-２Ｆ",
-      "storeid": "yurihonjo-83d8d8",
-      "shopid": "yurihonjo-83d8d8-dbarai"
-    },
-    {
-      "name": "中国料理こうらく",
-      "address": "由利本荘市西目町沼田新道下2-637",
-      "storeid": "yurihonjo-45c40b",
-      "shopid": "yurihonjo-45c40b-dbarai"
-    },
-    {
-      "name": "猪股自動車整備工場",
-      "address": "由利本荘市万願寺ビンツル２６-２",
-      "storeid": "yurihonjo-1fd071",
-      "shopid": "yurihonjo-1fd071-dbarai"
-    },
-    {
-      "name": "長沢芝石堂印舗",
-      "address": "由利本荘市本荘113",
-      "storeid": "yurihonjo-f49f28",
-      "shopid": "yurihonjo-f49f28-dbarai"
-    },
-    {
-      "name": "直根販売所０１",
-      "address": "由利本荘市鳥海町下直根石神4ー1",
-      "storeid": "yurihonjo-213c72",
-      "shopid": "yurihonjo-213c72-dbarai"
-    },
-    {
-      "name": "鶴屋亀治郎",
-      "address": "由利本荘市田町13",
-      "storeid": "yurihonjo-b6dbf5",
-      "shopid": "yurihonjo-b6dbf5-dbarai"
-    },
-    {
-      "name": "電脳工房",
-      "address": "由利本荘市小菅野上小菅野１",
-      "storeid": "yurihonjo-d2d0d4",
-      "shopid": "yurihonjo-d2d0d4-dbarai"
-    },
-    {
-      "name": "呑み処せっちゃん",
-      "address": "由利本荘市桶屋町104",
-      "storeid": "yurihonjo-c9641e",
-      "shopid": "yurihonjo-c9641e-dbarai"
-    },
-    {
-      "name": "南部家敷本荘店",
-      "address": "由利本荘市一番堰193-1",
-      "storeid": "yurihonjo-d4909e",
-      "shopid": "yurihonjo-d4909e-dbarai"
-    },
-    {
-      "name": "猫カフェ  柚の家",
-      "address": "由利本荘市一番堰34-13",
-      "storeid": "yurihonjo-08c05b",
-      "shopid": "yurihonjo-08c05b-dbarai"
-    },
-    {
-      "name": "美ゆき食堂",
-      "address": "由利本荘市谷地町107",
-      "storeid": "yurihonjo-f427c1",
-      "shopid": "yurihonjo-f427c1-dbarai"
-    },
-    {
-      "name": "美酔酒縁  吾愛郷",
-      "address": "由利本荘市谷地町2",
-      "storeid": "yurihonjo-1b5df8",
-      "shopid": "yurihonjo-1b5df8-dbarai"
-    },
-    {
-      "name": "美容室Ｔｏｐｓ岩渕店",
-      "address": "由利本荘市岩渕下21",
-      "storeid": "yurihonjo-3c5721",
-      "shopid": "yurihonjo-3c5721-dbarai"
-    },
-    {
-      "name": "美容室Ｔｏｐｓ石脇店",
-      "address": "由利本荘市石脇田頭151",
-      "storeid": "yurihonjo-9a5446",
-      "shopid": "yurihonjo-9a5446-dbarai"
-    },
-    {
-      "name": "美容室バオバブ",
-      "address": "由利本荘市御門288-1",
-      "storeid": "yurihonjo-9da78f",
-      "shopid": "yurihonjo-9da78f-dbarai"
-    },
-    {
-      "name": "美容室フューチャ",
-      "address": "由利本荘市川口八幡前246-1",
-      "storeid": "yurihonjo-55cabf",
-      "shopid": "yurihonjo-55cabf-dbarai"
-    },
-    {
-      "name": "美容室リップス",
-      "address": "由利本荘市岩城勝手堂ノ後ロ20",
-      "storeid": "yurihonjo-59e1ae",
-      "shopid": "yurihonjo-59e1ae-dbarai"
-    },
-    {
-      "name": "冨章衣料店",
-      "address": "由利本荘市鳥海町上笹子下野111",
-      "storeid": "yurihonjo-613196",
-      "shopid": "yurihonjo-613196-dbarai"
-    },
-    {
-      "name": "伏見自動車整備工場",
-      "address": "由利本荘市鳥海町上川内山崎34-1",
-      "storeid": "yurihonjo-cb987a",
-      "shopid": "yurihonjo-cb987a-dbarai"
-    },
-    {
-      "name": "便利屋ゆあーず",
-      "address": "由利本荘市西目町出戸浜山7-51",
-      "storeid": "yurihonjo-27314a",
-      "shopid": "yurihonjo-27314a-dbarai"
-    },
-    {
-      "name": "暮らしの道具と紅茶みつばち",
-      "address": "由利本荘市東梵天67ー1",
-      "storeid": "yurihonjo-e37e8f",
-      "shopid": "yurihonjo-e37e8f-dbarai"
-    },
-    {
-      "name": "堀商店",
-      "address": "由利本荘市岩谷町日渡42-2",
-      "storeid": "yurihonjo-00ca9c",
-      "shopid": "yurihonjo-00ca9c-dbarai"
-    },
-    {
-      "name": "民芸さいとう",
-      "address": "由利本荘市裏尾崎町1-21",
-      "storeid": "yurihonjo-6309b0",
-      "shopid": "yurihonjo-6309b0-dbarai"
-    },
-    {
-      "name": "麺、工房  まんがんや",
-      "address": "由利本荘市荒町真城202-1",
-      "storeid": "yurihonjo-35d940",
-      "shopid": "yurihonjo-35d940-dbarai"
-    },
-    {
-      "name": "麺．喰い．工房なかみち",
-      "address": "由利本荘市薬師堂山崎74-1",
-      "storeid": "yurihonjo-8081ef",
-      "shopid": "yurihonjo-8081ef-dbarai"
-    },
-    {
-      "name": "麺屋鼓志",
-      "address": "由利本荘市石脇田尻野4-25",
-      "storeid": "yurihonjo-840ed4",
-      "shopid": "yurihonjo-840ed4-dbarai"
-    },
-    {
-      "name": "麺屋新月",
-      "address": "由利本荘市薬師堂中道121-1",
-      "storeid": "yurihonjo-e9b6c9",
-      "shopid": "yurihonjo-e9b6c9-dbarai"
-    },
-    {
-      "name": "茂吉整骨院",
-      "address": "由利本荘市中竪町44-6",
-      "storeid": "yurihonjo-2e01bd",
-      "shopid": "yurihonjo-2e01bd-dbarai"
-    },
-    {
-      "name": "木島酒店",
-      "address": "由利本荘市三条三条谷地32",
-      "storeid": "yurihonjo-69d1fd",
-      "shopid": "yurihonjo-69d1fd-dbarai"
-    },
-    {
-      "name": "洋装店ありさか",
-      "address": "由利本荘市中町1-1",
-      "storeid": "yurihonjo-16da01",
-      "shopid": "yurihonjo-16da01-dbarai"
-    },
-    {
-      "name": "理容ミウラ",
-      "address": "由利本荘市二番堰246ー1",
-      "storeid": "yurihonjo-4ab968",
-      "shopid": "yurihonjo-4ab968-dbarai"
-    },
-    {
-      "name": "緑栄寿司",
-      "address": "由利本荘市石脇石脇141",
-      "storeid": "yurihonjo-0ee8f5",
-      "shopid": "yurihonjo-0ee8f5-dbarai"
-    },
-    {
-      "name": "鈴木商店",
-      "address": "由利本荘市給人町20ー8",
-      "storeid": "yurihonjo-4e76f6",
-      "shopid": "yurihonjo-4e76f6-dbarai"
-    },
-    {
-      "name": "鈴木不動産",
-      "address": "由利本荘市表尾崎町22-4",
-      "storeid": "yurihonjo-7d1923",
-      "shopid": "yurihonjo-7d1923-dbarai"
-    },
-    {
-      "name": "鮨  福助",
-      "address": "由利本荘市谷地町94",
-      "storeid": "yurihonjo-04c7ed",
-      "shopid": "yurihonjo-04c7ed-dbarai"
-    },
-    {
-      "name": "鮨・創作馳走  肴菜や",
-      "address": "由利本荘市御門110",
-      "storeid": "yurihonjo-4ba355",
-      "shopid": "yurihonjo-4ba355-dbarai"
-    }
-  ],
-  "5%還元対象店舗": [
-    {
-      "name": "ＨｏｎｄａＣａｒｓ秋田  本荘中央店",
-      "address": "由利本荘市石脇田尻野22-28",
-      "storeid": "yurihonjo-bb75cd",
-      "shopid": "yurihonjo-bb75cd-dbarai"
+      "shopid": "yurihonjo-46eae7-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "グランマート一番堰店",
+      "address": "由利本荘市一番堰135",
+      "storeid": "yurihonjo-3bdb0b",
+      "shopid": "yurihonjo-3bdb0b-dbarai",
+      "note": "最大5%還元"
     },
     {
       "name": "グランマート石脇店",
-      "address": "由利本荘市石脇田尻野2ー4",
+      "address": "由利本荘市石脇田尻野2-4",
       "storeid": "yurihonjo-3dc7a7",
-      "shopid": "yurihonjo-3dc7a7-dbarai"
+      "shopid": "yurihonjo-3dc7a7-dbarai",
+      "note": "最大5%還元"
+    },
+    {
+      "name": "グランマート本荘南店",
+      "address": "由利本荘市堤脇15",
+      "storeid": "yurihonjo-f21bb7",
+      "shopid": "yurihonjo-f21bb7-dbarai",
+      "note": "最大5%還元"
+    },
+    {
+      "name": "くら寿司 由利本荘",
+      "address": "由利本荘市石脇字尾花沢16",
+      "storeid": "yurihonjo-2276db",
+      "shopid": "yurihonjo-2276db-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "グリーンアクサス",
+      "address": "由利本荘市川口字下野248-4",
+      "storeid": "yurihonjo-2b2c50",
+      "shopid": "yurihonjo-2b2c50-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "ケーズデンキ本荘店",
       "address": "由利本荘市東梵天141",
       "storeid": "yurihonjo-1dc004",
-      "shopid": "yurihonjo-1dc004-dbarai"
+      "shopid": "yurihonjo-1dc004-dbarai",
+      "note": "最大5%還元"
+    },
+    {
+      "name": "ケントモービル",
+      "address": "由利本荘市矢島町川辺字田中29",
+      "storeid": "yurihonjo-9bf864",
+      "shopid": "yurihonjo-9bf864-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ココス由利本荘店",
+      "address": "由利本荘市一番堰146-1",
+      "storeid": "yurihonjo-42a10b",
+      "shopid": "yurihonjo-42a10b-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "コシカワ整体院",
+      "address": "由利本荘市川口字八幡前59-3",
+      "storeid": "yurihonjo-ad7fac",
+      "shopid": "yurihonjo-ad7fac-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "コスモ石油 セルフステーション本荘",
+      "address": "由利本荘市石脇字田頭206-22",
+      "storeid": "yurihonjo-2533e3",
+      "shopid": "yurihonjo-2533e3-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "コメリH&G⻄目店",
+      "address": "由利本荘市⻄目町沼田字新道下2-148",
+      "storeid": "yurihonjo-ff8714",
+      "shopid": "yurihonjo-ff8714-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "コメリH&G大内店",
+      "address": "由利本荘市大内三川字三川26",
+      "storeid": "yurihonjo-c09ab9",
+      "shopid": "yurihonjo-c09ab9-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "コメリH&G本荘店",
+      "address": "由利本荘市出戶町字赤沼下道58",
+      "storeid": "yurihonjo-fcdaad",
+      "shopid": "yurihonjo-fcdaad-dbarai",
+      "note": "最大5%還元"
+    },
+    {
+      "name": "コメリH&G矢島店",
+      "address": "由利本荘市矢島町七日町字曲り渕112-1",
+      "storeid": "yurihonjo-5311e5",
+      "shopid": "yurihonjo-5311e5-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "コメリPW本荘インター店",
+      "address": "由利本荘市薬師堂36",
+      "storeid": "yurihonjo-6b6fbe",
+      "shopid": "yurihonjo-6b6fbe-dbarai",
+      "note": "最大5%還元"
+    },
+    {
+      "name": "ゴルフガーデンナイスイン",
+      "address": "由利本荘市浜三川字⻄大台101-34",
+      "storeid": "yurihonjo-865ed4",
+      "shopid": "yurihonjo-865ed4-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "コンノ楽器 /音楽教室",
+      "address": "由利本荘市大門50",
+      "storeid": "yurihonjo-183b9f",
+      "shopid": "yurihonjo-183b9f-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "サイクルショップ クラハシ",
+      "address": "由利本荘市美倉町19",
+      "storeid": "yurihonjo-390156",
+      "shopid": "yurihonjo-390156-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "サイクルショップカトー",
+      "address": "由利本荘市大門58",
+      "storeid": "yurihonjo-50232f",
+      "shopid": "yurihonjo-50232f-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "サイシン商事",
+      "address": "由利本荘市薬師堂谷地91-8",
+      "storeid": "yurihonjo-25a168",
+      "shopid": "yurihonjo-25a168-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "サンネムホテルイン本荘",
+      "address": "由利本荘市薬師堂字谷地256-1",
+      "storeid": "yurihonjo-6cb836",
+      "shopid": "yurihonjo-6cb836-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "サンベンディング本荘",
+      "address": "由利本荘市東鮎川字岡田1ー1",
+      "storeid": "yurihonjo-5ba7e2",
+      "shopid": "yurihonjo-5ba7e2-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "サンライトチェーン本荘店 福岡電機",
+      "address": "由利本荘市花畑町1-75",
+      "storeid": "yurihonjo-042a5d",
+      "shopid": "yurihonjo-042a5d-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ジェイエイ秋田しんせいサービス LPGセンター",
+      "address": "由利本荘市埋田字小館81-16",
+      "storeid": "yurihonjo-3e8fec",
+      "shopid": "yurihonjo-3e8fec-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ジェイエイ秋田しんせいサービス 大内自動車センター",
+      "address": "由利本荘市大内三川字三川41",
+      "storeid": "yurihonjo-72e218",
+      "shopid": "yurihonjo-72e218-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ジェイエイ秋田しんせいサービス 由利自動車センター",
+      "address": "由利本荘市荒町字塒台76",
+      "storeid": "yurihonjo-627811",
+      "shopid": "yurihonjo-627811-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "しまむら 本荘店",
+      "address": "由利本荘市東梵天100-1",
+      "storeid": "yurihonjo-18074d",
+      "shopid": "yurihonjo-18074d-dbarai",
+      "note": "最大5%還元"
+    },
+    {
+      "name": "ジムワン",
+      "address": "由利本荘市東由利老方字畑田38-1",
+      "storeid": "yurihonjo-61a0d1",
+      "shopid": "yurihonjo-61a0d1-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "シャトレーゼ 由利本荘店",
+      "address": "由利本荘市鶴沼107ー7",
+      "storeid": "yurihonjo-611c45",
+      "shopid": "yurihonjo-611c45-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "しゃぶしゃぶ温野菜 秋田本荘店",
+      "address": "由利本荘市表尾崎町20-21",
+      "storeid": "yurihonjo-f3d5f1",
+      "shopid": "yurihonjo-f3d5f1-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "シュープラザアクロス本荘",
+      "address": "由利本荘市東梵天175",
+      "storeid": "yurihonjo-d56481",
+      "shopid": "yurihonjo-d56481-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "すき家105号 由利本荘店",
+      "address": "由利本荘市御門228-1",
+      "storeid": "yurihonjo-eb7b89",
+      "shopid": "yurihonjo-eb7b89-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "スダキ商事",
+      "address": "由利本荘市裏尾崎町55-4",
+      "storeid": "yurihonjo-1b3996",
+      "shopid": "yurihonjo-1b3996-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "スナックJade",
+      "address": "由利本荘市大門89Mビル1F",
+      "storeid": "yurihonjo-874a49",
+      "shopid": "yurihonjo-874a49-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "スナックparoparo",
+      "address": "由利本荘市中竪町59-3",
+      "storeid": "yurihonjo-241444",
+      "shopid": "yurihonjo-241444-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "スナックさくら",
+      "address": "由利本荘市谷山小路2ー9",
+      "storeid": "yurihonjo-867eba",
+      "shopid": "yurihonjo-867eba-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "スマホ修理SHOP本荘店",
+      "address": "由利本荘市石脇田中138イオン本荘SC内",
+      "storeid": "yurihonjo-f4f690",
+      "shopid": "yurihonjo-f4f690-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "セゾンふうげつ 本荘店",
+      "address": "由利本荘市中梵天1-4",
+      "storeid": "yurihonjo-dd2a16",
+      "shopid": "yurihonjo-dd2a16-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ソルティエラ",
+      "address": "由利本荘市⻄目町沼田字新道下2-745",
+      "storeid": "yurihonjo-b1b951",
+      "shopid": "yurihonjo-b1b951-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ダイソー フレスポ本荘店",
+      "address": "由利本荘市石脇字田頭195-2 フレスポ本荘店内2階",
+      "storeid": "yurihonjo-0cc100",
+      "shopid": "yurihonjo-0cc100-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ダイソー 本荘薬師堂店",
+      "address": "由利本荘市薬師堂字谷地68-1",
+      "storeid": "yurihonjo-4535e1",
+      "shopid": "yurihonjo-4535e1-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ダイニング GR BuLL",
+      "address": "由利本荘市谷地町125 2F",
+      "storeid": "yurihonjo-f1a1af",
+      "shopid": "yurihonjo-f1a1af-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "タイヤ館本荘",
+      "address": "由利本荘市石脇字田中74-1",
+      "storeid": "yurihonjo-50a804",
+      "shopid": "yurihonjo-50a804-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "タグチ靴店",
+      "address": "由利本荘市大町26",
+      "storeid": "yurihonjo-c07c29",
+      "shopid": "yurihonjo-c07c29-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ダスキン薬師堂サービスマスター",
+      "address": "由利本荘市薬師堂字山崎141-1 工藤ビル",
+      "storeid": "yurihonjo-853be2",
+      "shopid": "yurihonjo-853be2-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ちょう丸",
+      "address": "由利本荘市谷山小路2-2",
+      "storeid": "yurihonjo-ad7f33",
+      "shopid": "yurihonjo-ad7f33-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ちろりん村",
+      "address": "由利本荘市矢島町田中町92",
+      "storeid": "yurihonjo-292fa5",
+      "shopid": "yurihonjo-292fa5-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "つりショップ本荘",
+      "address": "由利本荘市石脇字尾花沢45",
+      "storeid": "yurihonjo-871b94",
+      "shopid": "yurihonjo-871b94-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "ツルハドラッグフレスポ本荘店",
-      "address": "由利本荘市石脇田頭195ー2",
+      "address": "由利本荘市石脇字田頭195-2",
       "storeid": "yurihonjo-df64a9",
-      "shopid": "yurihonjo-df64a9-dbarai"
+      "shopid": "yurihonjo-df64a9-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "ツルハドラッグ大内店",
-      "address": "由利本荘市大内三川三川34ー2",
+      "address": "由利本荘市大内三川字三川34-2",
       "storeid": "yurihonjo-2dfc96",
-      "shopid": "yurihonjo-2dfc96-dbarai"
+      "shopid": "yurihonjo-2dfc96-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "ツルハドラッグ本荘中央店",
       "address": "由利本荘市岩渕下18",
       "storeid": "yurihonjo-7d5544",
-      "shopid": "yurihonjo-7d5544-dbarai"
+      "shopid": "yurihonjo-7d5544-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ツルハドラッグ本荘店  ※調剤除く",
+      "name": "ツルハドラッグ本荘店",
       "address": "由利本荘市中梵天108",
-      "storeid": "yurihonjo-df46db",
-      "shopid": "yurihonjo-df46db-dbarai"
+      "storeid": "yurihonjo-954e20",
+      "shopid": "yurihonjo-954e20-dbarai",
+      "note": "最大5%還元"
     },
     {
       "name": "ツルハドラッグ本荘南店",
       "address": "由利本荘市二番堰54",
       "storeid": "yurihonjo-67d796",
-      "shopid": "yurihonjo-67d796-dbarai"
+      "shopid": "yurihonjo-67d796-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "てっぱん屋台たこすけ",
+      "address": "由利本荘市大門70",
+      "storeid": "yurihonjo-dfefe5",
+      "shopid": "yurihonjo-dfefe5-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "ドコモショップ本荘店",
-      "address": "由利本荘市岩渕下１２１-１",
+      "address": "由利本荘市岩渕下121-1",
       "storeid": "yurihonjo-5e5a34",
-      "shopid": "yurihonjo-5e5a34-dbarai"
+      "shopid": "yurihonjo-5e5a34-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ドラッグセイムス  本荘大門店",
-      "address": "由利本荘市裏尾崎町50ー4",
+      "name": "トヨテック",
+      "address": "由利本荘市上大野31-4",
+      "storeid": "yurihonjo-715644",
+      "shopid": "yurihonjo-715644-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ドライブイン広場",
+      "address": "由利本荘市⻄目町出戶字浜山6-53",
+      "storeid": "yurihonjo-f5994b",
+      "shopid": "yurihonjo-f5994b-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ドラッグセイムス 本荘大門店",
+      "address": "由利本荘市裏尾崎町50-4",
       "storeid": "yurihonjo-d6e1d6",
-      "shopid": "yurihonjo-d6e1d6-dbarai"
+      "shopid": "yurihonjo-d6e1d6-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "ドラッグセイムス  本荘中梵天店",
+      "name": "ドラッグセイムス 本荘中梵天店",
       "address": "由利本荘市中梵天132",
       "storeid": "yurihonjo-e4e243",
-      "shopid": "yurihonjo-e4e243-dbarai"
+      "shopid": "yurihonjo-e4e243-dbarai",
+      "note": "最大5%還元"
+    },
+    {
+      "name": "ドリームテテ",
+      "address": "由利本荘市美倉町25-1",
+      "storeid": "yurihonjo-f177fb",
+      "shopid": "yurihonjo-f177fb-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "とりのトリコ本荘店",
+      "address": "由利本荘市石脇字田尻野22ー15",
+      "storeid": "yurihonjo-acd9a0",
+      "shopid": "yurihonjo-acd9a0-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "トレンタ 本荘店",
+      "address": "由利本荘市石脇字田頭206-21",
+      "storeid": "yurihonjo-a8f9ee",
+      "shopid": "yurihonjo-a8f9ee-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "ハクジュプラザ本荘店",
-      "address": "由利本荘市石脇田頭１４７ フレスポ本荘内",
+      "address": "由利本荘市石脇字田頭147 フレスポ本荘内",
       "storeid": "yurihonjo-588d62",
-      "shopid": "yurihonjo-588d62-dbarai"
+      "shopid": "yurihonjo-588d62-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "パッケージプラザ由利本荘店",
+      "address": "由利本荘市花畑町4-19",
+      "storeid": "yurihonjo-fc4c3f",
+      "shopid": "yurihonjo-fc4c3f-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "ハッピー・ドラッグ由利本荘石脇店",
-      "address": "由利本荘市石脇田尻野22-１３",
+      "address": "由利本荘市石脇字田尻野22-13",
       "storeid": "yurihonjo-74606a",
-      "shopid": "yurihonjo-74606a-dbarai"
+      "shopid": "yurihonjo-74606a-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "はなえにし",
+      "address": "由利本荘市内黑瀬前田表857",
+      "storeid": "yurihonjo-52888e",
+      "shopid": "yurihonjo-52888e-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ハニーズ由利本荘店",
+      "address": "由利本荘市石脇田中138 イオンスーパーセンター本荘店1F",
+      "storeid": "yurihonjo-73f7f5",
+      "shopid": "yurihonjo-73f7f5-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "パブレストランハウスブツ",
+      "address": "由利本荘市東由利老方字老方24",
+      "storeid": "yurihonjo-ea738d",
+      "shopid": "yurihonjo-ea738d-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ビクトリアカラー",
+      "address": "由利本荘市葛法字滝ノ沢15-1",
+      "storeid": "yurihonjo-f0321e",
+      "shopid": "yurihonjo-f0321e-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ピザテンフォー秋田由利本荘店",
+      "address": "由利本荘市岩渕下39-4",
+      "storeid": "yurihonjo-7130a1",
+      "shopid": "yurihonjo-7130a1-dbarai",
+      "note": "最大20%還元"
     },
     {
       "name": "ピザハット由利本荘",
-      "address": "由利本荘市東梵天134-１",
+      "address": "由利本荘市東梵天134-1",
       "storeid": "yurihonjo-1f7adb",
-      "shopid": "yurihonjo-1f7adb-dbarai"
+      "shopid": "yurihonjo-1f7adb-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "鶴舞温泉",
-      "address": "由利本荘市西小人町23-1",
-      "storeid": "yurihonjo-c83a86",
-      "shopid": "yurihonjo-c83a86-dbarai"
+      "name": "ひまわり",
+      "address": "由利本荘市花畑町2-9",
+      "storeid": "yurihonjo-0b4932",
+      "shopid": "yurihonjo-0b4932-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "鶴舞温泉  別館休憩棟",
-      "address": "由利本荘市西小人町23-２",
-      "storeid": "yurihonjo-2155ab",
-      "shopid": "yurihonjo-2155ab-dbarai"
+      "name": "ビューティーショップさとう",
+      "address": "由利本荘市表尾崎町19-1",
+      "storeid": "yurihonjo-625c47",
+      "shopid": "yurihonjo-625c47-dbarai",
+      "note": "最大20%還元"
     },
     {
-      "name": "本荘キャンパス売店",
-      "address": "由利本荘市土谷海老ノ口84ー4",
-      "storeid": "yurihonjo-83e94b",
-      "shopid": "yurihonjo-83e94b-dbarai"
+      "name": "フェロー美容室",
+      "address": "由利本荘市花畑町1-3",
+      "storeid": "yurihonjo-360e3a",
+      "shopid": "yurihonjo-360e3a-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "フラワーショップ牧野",
+      "address": "由利本荘市美倉町24",
+      "storeid": "yurihonjo-f8d3fd",
+      "shopid": "yurihonjo-f8d3fd-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "プランジングサーフ",
+      "address": "由利本荘市谷地町89-2",
+      "storeid": "yurihonjo-0f6959",
+      "shopid": "yurihonjo-0f6959-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ぶんねん自動車 /ぶんねんレッカー",
+      "address": "由利本荘市山本字家岸28-1",
+      "storeid": "yurihonjo-6c6da0",
+      "shopid": "yurihonjo-6c6da0-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ヘアーグルービン .boo",
+      "address": "由利本荘市出戶町字赤沼下道57-1",
+      "storeid": "yurihonjo-f1d42c",
+      "shopid": "yurihonjo-f1d42c-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ヘアーサロンすずき",
+      "address": "由利本荘市薬師堂字堂の下6-1",
+      "storeid": "yurihonjo-87c51e",
+      "shopid": "yurihonjo-87c51e-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ヘアーサロンみうら",
+      "address": "由利本荘市東町88",
+      "storeid": "yurihonjo-fcd5a5",
+      "shopid": "yurihonjo-fcd5a5-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "べこ助",
+      "address": "由利本荘市岩渕下46",
+      "storeid": "yurihonjo-4e2a76",
+      "shopid": "yurihonjo-4e2a76-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ボーテ",
+      "address": "由利本荘市瓦谷地1(※詳細は予約時にSMS等でお伝えします)",
+      "storeid": "yurihonjo-dc7748",
+      "shopid": "yurihonjo-dc7748-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ほぐし処猫の手",
+      "address": "由利本荘市桜小路27-1",
+      "storeid": "yurihonjo-818d68",
+      "shopid": "yurihonjo-818d68-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ほっともっと本荘インター店",
+      "address": "由利本荘市上大野1-1",
+      "storeid": "yurihonjo-dab1d3",
+      "shopid": "yurihonjo-dab1d3-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ボナンザクリエイト",
+      "address": "由利本荘市石脇字山ノ神11-449",
+      "storeid": "yurihonjo-e8e846",
+      "shopid": "yurihonjo-e8e846-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "まるいち洋品店",
+      "address": "由利本荘市中町17-1",
+      "storeid": "yurihonjo-56ad86",
+      "shopid": "yurihonjo-56ad86-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "マルフジ種苗店",
+      "address": "由利本荘市大鍬町338",
+      "storeid": "yurihonjo-56f442",
+      "shopid": "yurihonjo-56f442-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "まるまつ 本荘店",
+      "address": "由利本荘市石脇字田中138",
+      "storeid": "yurihonjo-d19277",
+      "shopid": "yurihonjo-d19277-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "まんぷく処 田吾作",
+      "address": "由利本荘市東由利老方字畑田38-1",
+      "storeid": "yurihonjo-d05347",
+      "shopid": "yurihonjo-d05347-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "みくら屋",
+      "address": "由利本荘市石脇字田尻28-119",
+      "storeid": "yurihonjo-834cb2",
+      "shopid": "yurihonjo-834cb2-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "みくら屋 美倉町店",
+      "address": "由利本荘市美倉町14",
+      "storeid": "yurihonjo-522acf",
+      "shopid": "yurihonjo-522acf-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "みちのくキヤンテイーン 秋田県立大学本莊キャンパス店",
+      "address": "由利本荘市土谷字海老の口84-4",
+      "storeid": "yurihonjo-12f11f",
+      "shopid": "yurihonjo-12f11f-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ミッキーの高橋クリーニング",
+      "address": "由利本荘市鶴沼108ー7",
+      "storeid": "yurihonjo-0aad25",
+      "shopid": "yurihonjo-0aad25-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ミッドナイトえいちゃん",
+      "address": "由利本荘市本田仲町124",
+      "storeid": "yurihonjo-6e73ff",
+      "shopid": "yurihonjo-6e73ff-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ムーラン大町店",
+      "address": "由利本荘市本荘25",
+      "storeid": "yurihonjo-53b5a1",
+      "shopid": "yurihonjo-53b5a1-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "むつ電器",
+      "address": "由利本荘市小人町26-2",
+      "storeid": "yurihonjo-7ff0a4",
+      "shopid": "yurihonjo-7ff0a4-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "メガネの和光 本店",
+      "address": "由利本荘市裏尾崎町3-4",
+      "storeid": "yurihonjo-4c5501",
+      "shopid": "yurihonjo-4c5501-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "メナードフェイシャルサロン谷地町",
+      "address": "由利本荘市谷地町53",
+      "storeid": "yurihonjo-741cae",
+      "shopid": "yurihonjo-741cae-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "メナードフェイシャルサロン本荘カトマンズ",
+      "address": "由利本荘市赤田字代官免1-1",
+      "storeid": "yurihonjo-34a09d",
+      "shopid": "yurihonjo-34a09d-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "モードポテチーノじゅん",
+      "address": "由利本荘市表尾崎町4-3",
+      "storeid": "yurihonjo-2c2a09",
+      "shopid": "yurihonjo-2c2a09-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "モード四季",
+      "address": "由利本荘市田町25",
+      "storeid": "yurihonjo-f57535",
+      "shopid": "yurihonjo-f57535-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "モスバーガー 羽後本荘店",
+      "address": "由利本荘市東梵天180-2",
+      "storeid": "yurihonjo-079f2e",
+      "shopid": "yurihonjo-079f2e-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "もりもり食堂 食楽々",
+      "address": "由利本荘市小栗山字森ノ腰80-2",
+      "storeid": "yurihonjo-b641d5",
+      "shopid": "yurihonjo-b641d5-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "やきとり元気",
+      "address": "由利本荘市花畑町1-53",
+      "storeid": "yurihonjo-e9f0ac",
+      "shopid": "yurihonjo-e9f0ac-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ヤマサボデー",
+      "address": "由利本荘市⻄目町海士剥字御月森1-403",
+      "storeid": "yurihonjo-9cddc9",
+      "shopid": "yurihonjo-9cddc9-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ヤマダデンキ テックランド由利本荘店",
+      "address": "由利本荘市上大野117-1",
+      "storeid": "yurihonjo-c4d00f",
+      "shopid": "yurihonjo-c4d00f-dbarai",
+      "note": "最大5%還元"
+    },
+    {
+      "name": "ヤマト運輸 秋田本荘営業所",
+      "address": "由利本荘市赤沼下道51",
+      "storeid": "yurihonjo-d504c0",
+      "shopid": "yurihonjo-d504c0-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "やまや 由利本荘店",
+      "address": "由利本荘市東梵天144",
+      "storeid": "yurihonjo-04e1d8",
+      "shopid": "yurihonjo-04e1d8-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ヨシダスポーツ",
+      "address": "由利本荘市本荘42",
+      "storeid": "yurihonjo-89dbfa",
+      "shopid": "yurihonjo-89dbfa-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ラーメンいちばん星",
+      "address": "由利本荘市鶴沼89-2",
+      "storeid": "yurihonjo-e8f37b",
+      "shopid": "yurihonjo-e8f37b-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ラーメンキッチンKai",
+      "address": "由利本荘市谷地町134",
+      "storeid": "yurihonjo-4038f3",
+      "shopid": "yurihonjo-4038f3-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ラーメンと定食 献の家",
+      "address": "由利本荘市岩城内道川字新鶴潟192-43",
+      "storeid": "yurihonjo-f880f5",
+      "shopid": "yurihonjo-f880f5-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ラーメン勝負",
+      "address": "由利本荘市川口字堂の腰111-1",
+      "storeid": "yurihonjo-46323a",
+      "shopid": "yurihonjo-46323a-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ライフファッションアカネヤ",
+      "address": "由利本荘市大門48",
+      "storeid": "yurihonjo-3fef13",
+      "shopid": "yurihonjo-3fef13-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ラウンジ アリス",
+      "address": "由利本荘市谷地町126SKビル",
+      "storeid": "yurihonjo-df280a",
+      "shopid": "yurihonjo-df280a-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "リストランテクロ",
+      "address": "由利本荘市石脇田尻野4-109",
+      "storeid": "yurihonjo-052d7a",
+      "shopid": "yurihonjo-052d7a-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "リバーロード",
+      "address": "由利本荘市岩城内道川字新鶴潟3ー4",
+      "storeid": "yurihonjo-29884e",
+      "shopid": "yurihonjo-29884e-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "リラックス工房 蒼風",
+      "address": "由利本荘市岩城内道川字新鶴潟192-43",
+      "storeid": "yurihonjo-106a79",
+      "shopid": "yurihonjo-106a79-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ルアーショップ ゆにこん堂",
+      "address": "由利本荘市花畑町4-48",
+      "storeid": "yurihonjo-61cc1f",
+      "shopid": "yurihonjo-61cc1f-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ルチルファンタジー",
+      "address": "由利本荘市東町69",
+      "storeid": "yurihonjo-be9d7c",
+      "shopid": "yurihonjo-be9d7c-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "ルピナス",
+      "address": "由利本荘市花畑町1-15",
+      "storeid": "yurihonjo-c59458",
+      "shopid": "yurihonjo-c59458-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "レストランすぎの木",
+      "address": "由利本荘市大堤下4",
+      "storeid": "yurihonjo-d380c4",
+      "shopid": "yurihonjo-d380c4-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "亜美の店",
+      "address": "由利本荘市美倉町22-2",
+      "storeid": "yurihonjo-5bde8d",
+      "shopid": "yurihonjo-5bde8d-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "阿部精肉店",
+      "address": "由利本荘市大町23",
+      "storeid": "yurihonjo-792b58",
+      "shopid": "yurihonjo-792b58-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "阿部電機 あべでんき",
+      "address": "由利本荘市薬師堂字谷地181-8",
+      "storeid": "yurihonjo-7908cb",
+      "shopid": "yurihonjo-7908cb-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "葵工業株式会社 本荘栗山SS",
+      "address": "由利本荘市浜三川字栗山104番地57",
+      "storeid": "yurihonjo-3ac795",
+      "shopid": "yurihonjo-3ac795-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "安楽温泉",
+      "address": "由利本荘市大堤下4",
+      "storeid": "yurihonjo-0477c4",
+      "shopid": "yurihonjo-0477c4-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "壱燈餞",
+      "address": "由利本荘市東町7-6",
+      "storeid": "yurihonjo-31bd7b",
+      "shopid": "yurihonjo-31bd7b-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "遠藤電機",
+      "address": "由利本荘市岩谷町字川端100-1",
+      "storeid": "yurihonjo-02618f",
+      "shopid": "yurihonjo-02618f-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "沖縄カフェ 結まーる",
+      "address": "由利本荘市岩野目沢字上⻑瀬野119",
+      "storeid": "yurihonjo-3493d5",
+      "shopid": "yurihonjo-3493d5-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "温活サロン ふわり",
+      "address": "由利本荘市川口字川原116-2",
+      "storeid": "yurihonjo-153a58",
+      "shopid": "yurihonjo-153a58-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "花友Primavera",
+      "address": "由利本荘市赤沼下59-33",
+      "storeid": "yurihonjo-bef949",
+      "shopid": "yurihonjo-bef949-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "海鮮居酒屋 北前 由利本荘店",
+      "address": "由利本荘市岩渕下46",
+      "storeid": "yurihonjo-8bc46d",
+      "shopid": "yurihonjo-8bc46d-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "割烹勝山",
+      "address": "由利本荘市後町70ー2",
+      "storeid": "yurihonjo-74ca08",
+      "shopid": "yurihonjo-74ca08-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "眼鏡市場 由利本荘一番堰",
+      "address": "由利本荘市一番堰259",
+      "storeid": "yurihonjo-c3a149",
+      "shopid": "yurihonjo-c3a149-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "岩城の燻製屋チャコール",
+      "address": "由利本荘市岩城内道川字馬道25-1",
+      "storeid": "yurihonjo-2a0fb9",
+      "shopid": "yurihonjo-2a0fb9-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "岩城温泉港の湯",
+      "address": "由利本荘市岩城内道川字新鶴潟192-43",
+      "storeid": "yurihonjo-969511",
+      "shopid": "yurihonjo-969511-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "岩城自動車",
+      "address": "由利本荘市岩城富田字板敷361",
+      "storeid": "yurihonjo-b45636",
+      "shopid": "yurihonjo-b45636-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "希空",
+      "address": "由利本荘市桜小路40",
+      "storeid": "yurihonjo-b937ee",
+      "shopid": "yurihonjo-b937ee-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "機舎つきのわ",
+      "address": "由利本荘市平岫字牛王瀬14",
+      "storeid": "yurihonjo-ed6dc4",
+      "shopid": "yurihonjo-ed6dc4-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "吉野家 105号線由利本荘",
+      "address": "由利本荘市一番堰155-1",
+      "storeid": "yurihonjo-e65522",
+      "shopid": "yurihonjo-e65522-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "牛角 由利本荘店",
+      "address": "由利本荘市一番堰194-1",
+      "storeid": "yurihonjo-8d1017",
+      "shopid": "yurihonjo-8d1017-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "居酒屋 ささちゃん",
+      "address": "由利本荘市川口字八幡前34-7",
+      "storeid": "yurihonjo-00792c",
+      "shopid": "yurihonjo-00792c-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "居酒屋 勘乃",
+      "address": "由利本荘市⻄梵天12-1",
+      "storeid": "yurihonjo-e9b2aa",
+      "shopid": "yurihonjo-e9b2aa-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "居酒屋 酒仙",
+      "address": "由利本荘市花畑町1ー36",
+      "storeid": "yurihonjo-8a2d64",
+      "shopid": "yurihonjo-8a2d64-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "居酒屋とみ屋",
+      "address": "由利本荘市花畑町1-54",
+      "storeid": "yurihonjo-394362",
+      "shopid": "yurihonjo-394362-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "居酒屋ふくろう",
+      "address": "由利本荘市給人町1-5",
+      "storeid": "yurihonjo-881385",
+      "shopid": "yurihonjo-881385-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "居酒屋みりす",
+      "address": "由利本荘市花畑町1-10-22",
+      "storeid": "yurihonjo-9f4aeb",
+      "shopid": "yurihonjo-9f4aeb-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "居酒屋唐変木",
+      "address": "由利本荘市鍛治町103",
+      "storeid": "yurihonjo-68b38f",
+      "shopid": "yurihonjo-68b38f-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "京呉服べに屋",
+      "address": "由利本荘市中町31",
+      "storeid": "yurihonjo-0a8217",
+      "shopid": "yurihonjo-0a8217-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "共生カフェポレポレ",
+      "address": "由利本荘市石脇字田中124-1",
+      "storeid": "yurihonjo-40b8b2",
+      "shopid": "yurihonjo-40b8b2-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "吾愛郷",
+      "address": "由利本荘市谷地町2",
+      "storeid": "yurihonjo-02489d",
+      "shopid": "yurihonjo-02489d-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "吾愛郷 矢島店",
+      "address": "由利本荘市矢島町七日町字七日町53",
+      "storeid": "yurihonjo-ebd447",
+      "shopid": "yurihonjo-ebd447-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "御月森自動車整備工場",
+      "address": "由利本荘市⻄目町海士剥字御月森1-77",
+      "storeid": "yurihonjo-d2879e",
+      "shopid": "yurihonjo-d2879e-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "黑木自動車工業",
+      "address": "由利本荘市石脇字田頭71-2",
+      "storeid": "yurihonjo-c7bdb4",
+      "shopid": "yurihonjo-c7bdb4-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "今野ボデー せいび屋コンノ",
+      "address": "由利本荘市岩城内道川字人山13-2",
+      "storeid": "yurihonjo-3fec32",
+      "shopid": "yurihonjo-3fec32-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "今野商会",
+      "address": "由利本荘市薬師堂字堤下41-23",
+      "storeid": "yurihonjo-10a69a",
+      "shopid": "yurihonjo-10a69a-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "佐々木電器",
+      "address": "由利本荘市⻄目町沼田字新道下2-424",
+      "storeid": "yurihonjo-ea8412",
+      "shopid": "yurihonjo-ea8412-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "佐々木旅館",
+      "address": "由利本荘市岩渕下64-2",
+      "storeid": "yurihonjo-683ad4",
+      "shopid": "yurihonjo-683ad4-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "佐藤電機",
+      "address": "由利本荘市大鍬町292-2",
+      "storeid": "yurihonjo-ca9baf",
+      "shopid": "yurihonjo-ca9baf-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "沙羅",
+      "address": "由利本荘市中竪町59-3",
+      "storeid": "yurihonjo-8e3432",
+      "shopid": "yurihonjo-8e3432-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "三ヶ月クリーニング店",
+      "address": "由利本荘市本田仲町88-4",
+      "storeid": "yurihonjo-732e47",
+      "shopid": "yurihonjo-732e47-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "三ヶ月クリーニング店 薬師堂店",
+      "address": "由利本荘市薬師堂中道237-6",
+      "storeid": "yurihonjo-0080af",
+      "shopid": "yurihonjo-0080af-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "三浦ガレージ",
+      "address": "由利本荘市石脇字赤はげ1-279",
+      "storeid": "yurihonjo-8339ed",
+      "shopid": "yurihonjo-8339ed-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "三浦酒店",
+      "address": "由利本荘市矢島町城内字八森下170-1",
+      "storeid": "yurihonjo-59c8b1",
+      "shopid": "yurihonjo-59c8b1-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "三共整備工場 大内店",
+      "address": "由利本荘市大谷鍋倉39",
+      "storeid": "yurihonjo-7188ed",
+      "shopid": "yurihonjo-7188ed-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "三尺堂石油販売本荘SS",
+      "address": "由利本荘市表尾崎町23",
+      "storeid": "yurihonjo-d98226",
+      "shopid": "yurihonjo-d98226-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "三船商店 三船プロパンガス店",
+      "address": "由利本荘市矢島町七日町字七日町39-17",
+      "storeid": "yurihonjo-5314ca",
+      "shopid": "yurihonjo-5314ca-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "三立自動車整備工場/SANRITSUWRECKER",
+      "address": "由利本荘市東由利蔵字新田52-1",
+      "storeid": "yurihonjo-d397d4",
+      "shopid": "yurihonjo-d397d4-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "山科運輸 整備工場",
+      "address": "由利本荘市矢島町元町間木86",
+      "storeid": "yurihonjo-452c25",
+      "shopid": "yurihonjo-452c25-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "山科運輸 輸送部",
+      "address": "由利本荘市矢島町七日町158-1",
+      "storeid": "yurihonjo-fe0ad1",
+      "shopid": "yurihonjo-fe0ad1-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "山口菓子店",
+      "address": "由利本荘市矢島町城内字八森下163",
+      "storeid": "yurihonjo-1430ca",
+      "shopid": "yurihonjo-1430ca-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "自家焙煎珈琲豆専門 彩豆",
+      "address": "由利本荘市出戶町字赤沼下道72ー17",
+      "storeid": "yurihonjo-c8f690",
+      "shopid": "yurihonjo-c8f690-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "寿し処加津美",
+      "address": "由利本荘市東由利蔵字新田53",
+      "storeid": "yurihonjo-a6ead2",
+      "shopid": "yurihonjo-a6ead2-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "秋田ダイハツ販売本荘店",
+      "address": "由利本荘市石脇字田頭71-1",
+      "storeid": "yurihonjo-116152",
+      "shopid": "yurihonjo-116152-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "秋田トヨタ自動車",
+      "address": "由利本荘市石脇田頭77",
+      "storeid": "yurihonjo-b002e3",
+      "shopid": "yurihonjo-b002e3-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "渋谷写真館 シブヤスタジオ",
+      "address": "由利本荘市中梵天78-3",
+      "storeid": "yurihonjo-8c5726",
+      "shopid": "yurihonjo-8c5726-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "小松園芸",
+      "address": "由利本荘市裏尾崎町53-2",
+      "storeid": "yurihonjo-bb7fdf",
+      "shopid": "yurihonjo-bb7fdf-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "小川石油",
+      "address": "由利本荘市川口字八幡前237-4",
+      "storeid": "yurihonjo-4090dd",
+      "shopid": "yurihonjo-4090dd-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "小料理屋 雪原",
+      "address": "由利本荘市東町58-2",
+      "storeid": "yurihonjo-a9c272",
+      "shopid": "yurihonjo-a9c272-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "焼き鳥一平",
+      "address": "由利本荘市本荘6",
+      "storeid": "yurihonjo-3b2d77",
+      "shopid": "yurihonjo-3b2d77-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "焼肉 じゅうじゅう亭",
+      "address": "由利本荘市砂子下9-3",
+      "storeid": "yurihonjo-45fa71",
+      "shopid": "yurihonjo-45fa71-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "焼肉牛和華",
+      "address": "由利本荘市本荘69",
+      "storeid": "yurihonjo-9c6d44",
+      "shopid": "yurihonjo-9c6d44-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "笑や",
+      "address": "由利本荘市花畑町2-67-1",
+      "storeid": "yurihonjo-df0057",
+      "shopid": "yurihonjo-df0057-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "食堂とり・とん",
+      "address": "由利本荘市薬師堂字中道263-1",
+      "storeid": "yurihonjo-407ebd",
+      "shopid": "yurihonjo-407ebd-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "深謳",
+      "address": "由利本荘市花畑町1丁目10-1",
+      "storeid": "yurihonjo-393595",
+      "shopid": "yurihonjo-393595-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "真坂自動車工場",
+      "address": "由利本荘市石脇字赤⺎1-176",
+      "storeid": "yurihonjo-4d8915",
+      "shopid": "yurihonjo-4d8915-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "酔処・和さ美",
+      "address": "由利本荘市谷地町1",
+      "storeid": "yurihonjo-f8414c",
+      "shopid": "yurihonjo-f8414c-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "清水タイヤ工業",
+      "address": "由利本荘市矢島町七日町字曲り渕142-1",
+      "storeid": "yurihonjo-e358c7",
+      "shopid": "yurihonjo-e358c7-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "⻄松屋チェーン フレスポ本荘店",
+      "address": "由利本荘市石脇字田頭159-1",
+      "storeid": "yurihonjo-7ba357",
+      "shopid": "yurihonjo-7ba357-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "足つぼ 整体 フリージア",
+      "address": "由利本荘市⻄目町出戶字浜山6-304",
+      "storeid": "yurihonjo-f1cc1c",
+      "shopid": "yurihonjo-f1cc1c-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "村岡酒店",
+      "address": "由利本荘市後町6",
+      "storeid": "yurihonjo-239d6b",
+      "shopid": "yurihonjo-239d6b-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "村上ケンネル",
+      "address": "由利本荘市一番堰139",
+      "storeid": "yurihonjo-3a965b",
+      "shopid": "yurihonjo-3a965b-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "村上酒店",
+      "address": "由利本荘市鳥海町下直根字石神4-1",
+      "storeid": "yurihonjo-afd320",
+      "shopid": "yurihonjo-afd320-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "大黑屋",
+      "address": "由利本荘市花畑町1-30",
+      "storeid": "yurihonjo-4c8486",
+      "shopid": "yurihonjo-4c8486-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "大島クリーニング",
+      "address": "由利本荘市谷地町84",
+      "storeid": "yurihonjo-9c11a5",
+      "shopid": "yurihonjo-9c11a5-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "大友商店 自由食堂",
+      "address": "由利本荘市花畑町2-48",
+      "storeid": "yurihonjo-a80c6a",
+      "shopid": "yurihonjo-a80c6a-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "炭火の居酒屋 マナイタ",
+      "address": "由利本荘市本田仲町72",
+      "storeid": "yurihonjo-78bdc2",
+      "shopid": "yurihonjo-78bdc2-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "中華そば 肴 yamago",
+      "address": "由利本荘市砂子下10ー1",
+      "storeid": "yurihonjo-00a249",
+      "shopid": "yurihonjo-00a249-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "中華そば 肴 yamago2号店",
+      "address": "由利本荘市花畑町1-95",
+      "storeid": "yurihonjo-a42b07",
+      "shopid": "yurihonjo-a42b07-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "中古楽器ジプシーワゴン /スタジオ ジプシーワゴン",
+      "address": "由利本荘市花畑町4-50",
+      "storeid": "yurihonjo-f2a617",
+      "shopid": "yurihonjo-f2a617-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "中国料理 こうらく",
+      "address": "由利本荘市⻄目町沼田字新道下2-637",
+      "storeid": "yurihonjo-45c40b",
+      "shopid": "yurihonjo-45c40b-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "猪股自動車整備工場",
+      "address": "由利本荘市万願寺字ビンツル26ー2",
+      "storeid": "yurihonjo-1fd071",
+      "shopid": "yurihonjo-1fd071-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "⻑澤芝石堂印舗",
+      "address": "由利本荘市本荘113",
+      "storeid": "yurihonjo-bf5ea9",
+      "shopid": "yurihonjo-bf5ea9-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "鳥海山木のおもちゃ館",
+      "address": "由利本荘市町村字鳴瀬台65-1",
+      "storeid": "yurihonjo-771e6c",
+      "shopid": "yurihonjo-771e6c-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "鳥海山木のおもちゃ館トイショップ",
+      "address": "由利本荘市町村字鳴瀬台65-1",
+      "storeid": "yurihonjo-f984ce",
+      "shopid": "yurihonjo-f984ce-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "津野商店",
+      "address": "由利本荘市中町42",
+      "storeid": "yurihonjo-1e646f",
+      "shopid": "yurihonjo-1e646f-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "鶴屋⻲治郎",
+      "address": "由利本荘市田町13",
+      "storeid": "yurihonjo-b82c32",
+      "shopid": "yurihonjo-b82c32-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "天寿酒造",
+      "address": "由利本荘市矢島町城内字八森下117",
+      "storeid": "yurihonjo-2038e6",
+      "shopid": "yurihonjo-2038e6-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "電脳工房",
+      "address": "由利本荘市小菅野字上小菅野1",
+      "storeid": "yurihonjo-d2d0d4",
+      "shopid": "yurihonjo-d2d0d4-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "東由利ショッピングプラザぷれっそ",
+      "address": "由利本荘市東由利老方字畑田38-1",
+      "storeid": "yurihonjo-e87481",
+      "shopid": "yurihonjo-e87481-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "藤内輪店",
+      "address": "由利本荘市内越平岡563",
+      "storeid": "yurihonjo-2b97b4",
+      "shopid": "yurihonjo-2b97b4-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "道の駅にしめ 物産館",
+      "address": "由利本荘市⻄目町沼田新道下1112-2",
+      "storeid": "yurihonjo-a91825",
+      "shopid": "yurihonjo-a91825-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "呑み処せっちゃん",
+      "address": "由利本荘市桶屋町104",
+      "storeid": "yurihonjo-c9641e",
+      "shopid": "yurihonjo-c9641e-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "南部家敷本荘店",
+      "address": "由利本荘市一番堰193-1",
+      "storeid": "yurihonjo-d4909e",
+      "shopid": "yurihonjo-d4909e-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "猫カフェ 柚の家",
+      "address": "由利本荘市一番堰34-13",
+      "storeid": "yurihonjo-08c05b",
+      "shopid": "yurihonjo-08c05b-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "発酵小路田屋",
+      "address": "由利本荘市石脇字石脇279-1",
+      "storeid": "yurihonjo-b97585",
+      "shopid": "yurihonjo-b97585-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "板金塗装 trick",
+      "address": "由利本荘市⻄目町沼田字新道下231-5",
+      "storeid": "yurihonjo-060d2e",
+      "shopid": "yurihonjo-060d2e-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "美容室Tops岩渕店",
+      "address": "由利本荘市岩渕下21",
+      "storeid": "yurihonjo-3c5721",
+      "shopid": "yurihonjo-3c5721-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "美容室Tops石脇店",
+      "address": "由利本荘市石脇字田頭151",
+      "storeid": "yurihonjo-9a5446",
+      "shopid": "yurihonjo-9a5446-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "美容室バオバブ",
+      "address": "由利本荘市御門288-1",
+      "storeid": "yurihonjo-9da78f",
+      "shopid": "yurihonjo-9da78f-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "不二家 グランマート一番堰店",
+      "address": "由利本荘市一番堰135 グランマート一番堰店内",
+      "storeid": "yurihonjo-40c21c",
+      "shopid": "yurihonjo-40c21c-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "富士不動産",
+      "address": "由利本荘市岩渕下50",
+      "storeid": "yurihonjo-4d3e94",
+      "shopid": "yurihonjo-4d3e94-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "冨章衣料店",
+      "address": "由利本荘市鳥海町上笹子字下野111",
+      "storeid": "yurihonjo-613196",
+      "shopid": "yurihonjo-613196-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "伏見自動車整備工場",
+      "address": "由利本荘市鳥海町上川内字山崎34ー1",
+      "storeid": "yurihonjo-cb987a",
+      "shopid": "yurihonjo-cb987a-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "便利屋ゆあーず",
+      "address": "由利本荘市⻄目町出戶字浜山7-51",
+      "storeid": "yurihonjo-27314a",
+      "shopid": "yurihonjo-27314a-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "暮らしの道具と紅茶 みつばち",
+      "address": "由利本荘市東梵天67-1",
+      "storeid": "yurihonjo-e37e8f",
+      "shopid": "yurihonjo-e37e8f-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "堀商店",
+      "address": "由利本荘市岩谷町字日渡42-2",
+      "storeid": "yurihonjo-00ca9c",
+      "shopid": "yurihonjo-00ca9c-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "本荘グランドホテル",
+      "address": "由利本荘市岩渕下254",
+      "storeid": "yurihonjo-58c74b",
+      "shopid": "yurihonjo-58c74b-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "本荘グランドホテル TSUBAKI",
+      "address": "由利本荘市岩渕下254",
+      "storeid": "yurihonjo-7841e6",
+      "shopid": "yurihonjo-7841e6-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "本荘ステーションホテル",
+      "address": "由利本荘市花畑町1丁目29",
+      "storeid": "yurihonjo-24e109",
+      "shopid": "yurihonjo-24e109-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "満月館",
+      "address": "由利本荘市桜小路37ー9",
+      "storeid": "yurihonjo-1b902b",
+      "shopid": "yurihonjo-1b902b-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "⺠芸さいとう",
+      "address": "由利本荘市裏尾崎町1-21",
+      "storeid": "yurihonjo-dee990",
+      "shopid": "yurihonjo-dee990-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "麺、喰い、工房 なかみち",
+      "address": "由利本荘市薬師堂字山崎74-1",
+      "storeid": "yurihonjo-74f179",
+      "shopid": "yurihonjo-74f179-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "麺、工房まんがんや",
+      "address": "由利本荘市荒町字真城202-1",
+      "storeid": "yurihonjo-35d940",
+      "shopid": "yurihonjo-35d940-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "麺屋 新月",
+      "address": "由利本荘市薬師堂字中道121-1",
+      "storeid": "yurihonjo-e9b6c9",
+      "shopid": "yurihonjo-e9b6c9-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "麺屋鼓志",
+      "address": "由利本荘市石脇字田尻野4-25",
+      "storeid": "yurihonjo-840ed4",
+      "shopid": "yurihonjo-840ed4-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "茂吉整骨院",
+      "address": "由利本荘市中竪町44-6",
+      "storeid": "yurihonjo-2e01bd",
+      "shopid": "yurihonjo-2e01bd-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "木島酒店",
+      "address": "由利本荘市三条字三条谷地32",
+      "storeid": "yurihonjo-69d1fd",
+      "shopid": "yurihonjo-69d1fd-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "薬王堂 由利本荘荒町店",
+      "address": "由利本荘市荒町字真城20-1",
+      "storeid": "yurihonjo-02d0bb",
+      "shopid": "yurihonjo-02d0bb-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "薬王堂 由利本荘⻄目店",
+      "address": "由利本荘市⻄目町沼田字新道下2-538",
+      "storeid": "yurihonjo-6474cd",
+      "shopid": "yurihonjo-6474cd-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "薬王堂 由利本荘石脇店",
+      "address": "由利本荘市石脇字田中94-2",
+      "storeid": "yurihonjo-efdabe",
+      "shopid": "yurihonjo-efdabe-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "薬王堂 由利本荘大内店",
+      "address": "由利本荘市岩谷町字⻄越94-3",
+      "storeid": "yurihonjo-e217e0",
+      "shopid": "yurihonjo-e217e0-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "薬王堂 由利本荘矢島店",
+      "address": "由利本荘市矢島町城内字築館159-1",
+      "storeid": "yurihonjo-94c994",
+      "shopid": "yurihonjo-94c994-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "薬王堂 由利本荘薬師堂店",
+      "address": "由利本荘市薬師堂字谷地45",
+      "storeid": "yurihonjo-558da2",
+      "shopid": "yurihonjo-558da2-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "薬王堂 由利本荘裏尾崎店",
+      "address": "由利本荘市裏尾崎町7",
+      "storeid": "yurihonjo-cbdf1d",
+      "shopid": "yurihonjo-cbdf1d-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "由利本荘整体院",
+      "address": "由利本荘市⻄目町沼田新道下2-697",
+      "storeid": "yurihonjo-692f80",
+      "shopid": "yurihonjo-692f80-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "洋装店ありさか",
+      "address": "由利本荘市中町1-1",
+      "storeid": "yurihonjo-16da01",
+      "shopid": "yurihonjo-16da01-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "洋服の⻘山 フレスポ本荘店",
+      "address": "由利本荘市石脇字田頭197",
+      "storeid": "yurihonjo-443674",
+      "shopid": "yurihonjo-443674-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "理容ミウラ",
+      "address": "由利本荘市二番堰246-1",
+      "storeid": "yurihonjo-4ab968",
+      "shopid": "yurihonjo-4ab968-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "緑栄寿司",
+      "address": "由利本荘市石脇字石脇141",
+      "storeid": "yurihonjo-0ee8f5",
+      "shopid": "yurihonjo-0ee8f5-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "鈴木不動産",
+      "address": "由利本荘市表尾崎町22-4",
+      "storeid": "yurihonjo-7d1923",
+      "shopid": "yurihonjo-7d1923-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "鮨 福助",
+      "address": "由利本荘市谷地町94",
+      "storeid": "yurihonjo-04c7ed",
+      "shopid": "yurihonjo-04c7ed-dbarai",
+      "note": "最大20%還元"
+    },
+    {
+      "name": "鮨・創作馳走 肴菜や",
+      "address": "由利本荘市御門110",
+      "storeid": "yurihonjo-4ba355",
+      "shopid": "yurihonjo-4ba355-dbarai",
+      "note": "最大20%還元"
     }
   ]
 }

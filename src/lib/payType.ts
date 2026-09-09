@@ -16,6 +16,10 @@ export const PayTypes = {
     label: "d払い",
     badge: { label: "d", bg: "#b11f27" },
   },
+  paydon: {
+    label: "Payどん",
+    badge: { label: "ど", bg: "#007b43" },
+  },
   aeonpay: {
     label: "AEON Pay",
     badge: { label: "イ", bg: "#524fa5" },

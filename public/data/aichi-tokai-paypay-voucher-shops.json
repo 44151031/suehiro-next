@@ -1,0 +1,724 @@
+{
+  "食品・スーパー": [
+    {
+      "name": "アミカ 東海名和店",
+      "address": "",
+      "storeid": "tokai-ebd95b",
+      "shopid": "tokai-ebd95b-paypay-voucher"
+    },
+    {
+      "name": "フィール エクボスタイル新名和店",
+      "address": "",
+      "storeid": "tokai-db4c3e",
+      "shopid": "tokai-db4c3e-paypay-voucher"
+    },
+    {
+      "name": "フィールホームタウン",
+      "address": "",
+      "storeid": "tokai-f234b3",
+      "shopid": "tokai-f234b3-paypay-voucher"
+    },
+    {
+      "name": "フィール 太田川店",
+      "address": "",
+      "storeid": "tokai-69e031",
+      "shopid": "tokai-69e031-paypay-voucher"
+    },
+    {
+      "name": "ヤマナカ 東海店",
+      "address": "",
+      "storeid": "tokai-0ba130",
+      "shopid": "tokai-0ba130-paypay-voucher"
+    },
+    {
+      "name": "ヤマナカ 高横須賀店",
+      "address": "",
+      "storeid": "tokai-d33ed3",
+      "shopid": "tokai-d33ed3-paypay-voucher"
+    },
+    {
+      "name": "アオキスーパー 加木屋店",
+      "address": "",
+      "storeid": "tokai-d3570c",
+      "shopid": "tokai-d3570c-paypay-voucher"
+    }
+  ],
+  "飲食店": [
+    {
+      "name": "はま寿司 東海荒尾店",
+      "address": "",
+      "storeid": "tokai-384806",
+      "shopid": "tokai-384806-paypay-voucher"
+    },
+    {
+      "name": "あきんどスシロー 東海店",
+      "address": "",
+      "storeid": "tokai-46469c",
+      "shopid": "tokai-46469c-paypay-voucher"
+    },
+    {
+      "name": "くら寿司 東海荒尾店",
+      "address": "",
+      "storeid": "tokai-089f6e",
+      "shopid": "tokai-089f6e-paypay-voucher"
+    },
+    {
+      "name": "にぎりの徳兵衛 東海店",
+      "address": "",
+      "storeid": "tokai-7af845",
+      "shopid": "tokai-7af845-paypay-voucher"
+    },
+    {
+      "name": "焼肉きんぐ 東海名和店",
+      "address": "",
+      "storeid": "tokai-b1833a",
+      "shopid": "tokai-b1833a-paypay-voucher"
+    },
+    {
+      "name": "牛ざんまい 東海店",
+      "address": "",
+      "storeid": "tokai-661e62",
+      "shopid": "tokai-661e62-paypay-voucher"
+    },
+    {
+      "name": "元祖台湾まぜそば はなび 東海荒尾店",
+      "address": "",
+      "storeid": "tokai-530711",
+      "shopid": "tokai-530711-paypay-voucher"
+    },
+    {
+      "name": "CoCo壱番屋 東海名和店",
+      "address": "",
+      "storeid": "tokai-0000cd",
+      "shopid": "tokai-0000cd-paypay-voucher"
+    },
+    {
+      "name": "CoCo壱番屋 東海加木屋店",
+      "address": "",
+      "storeid": "tokai-cb915b",
+      "shopid": "tokai-cb915b-paypay-voucher"
+    },
+    {
+      "name": "ジョリーパスタ 東海店",
+      "address": "",
+      "storeid": "tokai-1986c8",
+      "shopid": "tokai-1986c8-paypay-voucher"
+    },
+    {
+      "name": "ガスト 東海店",
+      "address": "",
+      "storeid": "tokai-b463b6",
+      "shopid": "tokai-b463b6-paypay-voucher"
+    },
+    {
+      "name": "ケンタッキーフライドチキン アピタ東海荒尾店",
+      "address": "",
+      "storeid": "tokai-c5d16b",
+      "shopid": "tokai-c5d16b-paypay-voucher"
+    },
+    {
+      "name": "ケンタッキーフライドチキン 東海店",
+      "address": "",
+      "storeid": "tokai-afae26",
+      "shopid": "tokai-afae26-paypay-voucher"
+    },
+    {
+      "name": "コメダ珈琲店 東海荒尾店",
+      "address": "",
+      "storeid": "tokai-4d5807",
+      "shopid": "tokai-4d5807-paypay-voucher"
+    },
+    {
+      "name": "コメダ珈琲店 太田川店",
+      "address": "",
+      "storeid": "tokai-769161",
+      "shopid": "tokai-769161-paypay-voucher"
+    },
+    {
+      "name": "帆季珈琲テラス 太田川店",
+      "address": "",
+      "storeid": "tokai-78ccc4",
+      "shopid": "tokai-78ccc4-paypay-voucher"
+    },
+    {
+      "name": "鳥貴族 太田川店",
+      "address": "",
+      "storeid": "tokai-957107",
+      "shopid": "tokai-957107-paypay-voucher"
+    },
+    {
+      "name": "サーティワンアイスクリーム アピタ東海荒尾店",
+      "address": "",
+      "storeid": "tokai-0a2542",
+      "shopid": "tokai-0a2542-paypay-voucher"
+    },
+    {
+      "name": "カフェヨシノ 東海太田川店",
+      "address": "",
+      "storeid": "tokai-4afdbd",
+      "shopid": "tokai-4afdbd-paypay-voucher"
+    },
+    {
+      "name": "シャトレーゼ 愛知東海店",
+      "address": "",
+      "storeid": "tokai-09a898",
+      "shopid": "tokai-09a898-paypay-voucher"
+    },
+    {
+      "name": "すき家 東海荒尾店",
+      "address": "",
+      "storeid": "tokai-b4df3b",
+      "shopid": "tokai-b4df3b-paypay-voucher"
+    },
+    {
+      "name": "すき家 東海大池公園店",
+      "address": "",
+      "storeid": "tokai-ed270e",
+      "shopid": "tokai-ed270e-paypay-voucher"
+    },
+    {
+      "name": "すき家 東海加木屋店",
+      "address": "",
+      "storeid": "tokai-05a8c4",
+      "shopid": "tokai-05a8c4-paypay-voucher"
+    },
+    {
+      "name": "吉野家 247号線名和店",
+      "address": "",
+      "storeid": "tokai-ccff68",
+      "shopid": "tokai-ccff68-paypay-voucher"
+    },
+    {
+      "name": "なか卯 東海名和店",
+      "address": "",
+      "storeid": "tokai-766b22",
+      "shopid": "tokai-766b22-paypay-voucher"
+    },
+    {
+      "name": "かにざんまい 東海店",
+      "address": "",
+      "storeid": "tokai-5bb823",
+      "shopid": "tokai-5bb823-paypay-voucher"
+    },
+    {
+      "name": "ミスタードーナツ アピタ東海荒尾ショップ",
+      "address": "",
+      "storeid": "tokai-f34702",
+      "shopid": "tokai-f34702-paypay-voucher"
+    },
+    {
+      "name": "モスバーガー 東海中央店",
+      "address": "",
+      "storeid": "tokai-1cea5a",
+      "shopid": "tokai-1cea5a-paypay-voucher"
+    },
+    {
+      "name": "築地銀だこ アピタ東海荒尾店",
+      "address": "",
+      "storeid": "tokai-2949a3",
+      "shopid": "tokai-2949a3-paypay-voucher"
+    },
+    {
+      "name": "夢庵 愛知東海店",
+      "address": "",
+      "storeid": "tokai-41f035",
+      "shopid": "tokai-41f035-paypay-voucher"
+    },
+    {
+      "name": "餃子の王将 東海店",
+      "address": "",
+      "storeid": "tokai-480ad7",
+      "shopid": "tokai-480ad7-paypay-voucher"
+    },
+    {
+      "name": "一刻魁堂 東海店",
+      "address": "",
+      "storeid": "tokai-0a0199",
+      "shopid": "tokai-0a0199-paypay-voucher"
+    },
+    {
+      "name": "ブロンコビリー 東海店",
+      "address": "",
+      "storeid": "tokai-55f9dc",
+      "shopid": "tokai-55f9dc-paypay-voucher"
+    },
+    {
+      "name": "来来亭 東海店",
+      "address": "",
+      "storeid": "tokai-59be25",
+      "shopid": "tokai-59be25-paypay-voucher"
+    },
+    {
+      "name": "岐阜タンメン 東海店",
+      "address": "",
+      "storeid": "tokai-0ae91f",
+      "shopid": "tokai-0ae91f-paypay-voucher"
+    },
+    {
+      "name": "和食麺処サガミ 東海店",
+      "address": "",
+      "storeid": "tokai-9c98cb",
+      "shopid": "tokai-9c98cb-paypay-voucher"
+    },
+    {
+      "name": "ステーキのあさくま 富木島店",
+      "address": "",
+      "storeid": "tokai-0ee130",
+      "shopid": "tokai-0ee130-paypay-voucher"
+    },
+    {
+      "name": "ステーキのあさくま 加木屋店",
+      "address": "",
+      "storeid": "tokai-f693e8",
+      "shopid": "tokai-f693e8-paypay-voucher"
+    },
+    {
+      "name": "しゃぶ葉 東海南加木屋店",
+      "address": "",
+      "storeid": "tokai-689ff6",
+      "shopid": "tokai-689ff6-paypay-voucher"
+    },
+    {
+      "name": "焼肉水谷",
+      "address": "",
+      "storeid": "tokai-691734",
+      "shopid": "tokai-691734-paypay-voucher"
+    },
+    {
+      "name": "焼肉純ちゃん 上野台本店",
+      "address": "",
+      "storeid": "tokai-fe4210",
+      "shopid": "tokai-fe4210-paypay-voucher"
+    },
+    {
+      "name": "焼肉純ちゃん 名和店",
+      "address": "",
+      "storeid": "tokai-fb36c1",
+      "shopid": "tokai-fb36c1-paypay-voucher"
+    },
+    {
+      "name": "昭和のホルモン焼きまさきち 名和店",
+      "address": "",
+      "storeid": "tokai-dae359",
+      "shopid": "tokai-dae359-paypay-voucher"
+    },
+    {
+      "name": "焼肉菜包 久鐡 東海店",
+      "address": "",
+      "storeid": "tokai-a5c321",
+      "shopid": "tokai-a5c321-paypay-voucher"
+    },
+    {
+      "name": "焼肉ホルモン とりとん",
+      "address": "",
+      "storeid": "tokai-c6d24e",
+      "shopid": "tokai-c6d24e-paypay-voucher"
+    },
+    {
+      "name": "HELLO KID 東海店",
+      "address": "",
+      "storeid": "tokai-782d68",
+      "shopid": "tokai-782d68-paypay-voucher"
+    },
+    {
+      "name": "煙力 東海荒尾店",
+      "address": "",
+      "storeid": "tokai-08ca40",
+      "shopid": "tokai-08ca40-paypay-voucher"
+    },
+    {
+      "name": "あみやき亭 東海横須賀店",
+      "address": "",
+      "storeid": "tokai-0cae9a",
+      "shopid": "tokai-0cae9a-paypay-voucher"
+    },
+    {
+      "name": "カルビ大将 高横須賀店",
+      "address": "",
+      "storeid": "tokai-553420",
+      "shopid": "tokai-553420-paypay-voucher"
+    },
+    {
+      "name": "ほっともっと 東海名和店",
+      "address": "",
+      "storeid": "tokai-2a4f03",
+      "shopid": "tokai-2a4f03-paypay-voucher"
+    },
+    {
+      "name": "ほっともっと 東海富貴ノ台店",
+      "address": "",
+      "storeid": "tokai-1ebd01",
+      "shopid": "tokai-1ebd01-paypay-voucher"
+    },
+    {
+      "name": "ほっともっと 東海富木島店",
+      "address": "",
+      "storeid": "tokai-a576d9",
+      "shopid": "tokai-a576d9-paypay-voucher"
+    },
+    {
+      "name": "ゆず庵 東海店",
+      "address": "",
+      "storeid": "tokai-bc80bd",
+      "shopid": "tokai-bc80bd-paypay-voucher"
+    },
+    {
+      "name": "くいどん 東海店",
+      "address": "",
+      "storeid": "tokai-8bdce7",
+      "shopid": "tokai-8bdce7-paypay-voucher"
+    },
+    {
+      "name": "木曽路 東海店",
+      "address": "",
+      "storeid": "tokai-3c4971",
+      "shopid": "tokai-3c4971-paypay-voucher"
+    },
+    {
+      "name": "焼肉源蔵 東海店",
+      "address": "",
+      "storeid": "tokai-4b6d06",
+      "shopid": "tokai-4b6d06-paypay-voucher"
+    }
+  ],
+  "ドラッグストア": [
+    {
+      "name": "スギ薬局グループ 名和店",
+      "address": "",
+      "storeid": "tokai-14e315",
+      "shopid": "tokai-14e315-paypay-voucher"
+    },
+    {
+      "name": "スギ薬局グループ 荒尾店",
+      "address": "",
+      "storeid": "tokai-04b83d",
+      "shopid": "tokai-04b83d-paypay-voucher"
+    },
+    {
+      "name": "スギ薬局グループ 高横須賀店",
+      "address": "",
+      "storeid": "tokai-e1fa82",
+      "shopid": "tokai-e1fa82-paypay-voucher"
+    },
+    {
+      "name": "スギ薬局グループ 尾張横須賀店",
+      "address": "",
+      "storeid": "tokai-a30eb8",
+      "shopid": "tokai-a30eb8-paypay-voucher"
+    },
+    {
+      "name": "スギ薬局グループ 加木屋店",
+      "address": "",
+      "storeid": "tokai-b00b70",
+      "shopid": "tokai-b00b70-paypay-voucher"
+    },
+    {
+      "name": "クスリのアオキ 荒尾店",
+      "address": "",
+      "storeid": "tokai-3e40f2",
+      "shopid": "tokai-3e40f2-paypay-voucher"
+    },
+    {
+      "name": "クスリのアオキ 元浜店",
+      "address": "",
+      "storeid": "tokai-616fbc",
+      "shopid": "tokai-616fbc-paypay-voucher"
+    },
+    {
+      "name": "サンドラッグ 富木島店",
+      "address": "",
+      "storeid": "tokai-be4830",
+      "shopid": "tokai-be4830-paypay-voucher"
+    },
+    {
+      "name": "サンドラッグ フォレストモール東海太田川店",
+      "address": "",
+      "storeid": "tokai-f2819b",
+      "shopid": "tokai-f2819b-paypay-voucher"
+    },
+    {
+      "name": "サンドラッグ 加木屋店",
+      "address": "",
+      "storeid": "tokai-0b3bca",
+      "shopid": "tokai-0b3bca-paypay-voucher"
+    },
+    {
+      "name": "V・ドラッグ 荒尾店",
+      "address": "",
+      "storeid": "tokai-c25356",
+      "shopid": "tokai-c25356-paypay-voucher"
+    },
+    {
+      "name": "V・ドラッグ 富貴ノ台店",
+      "address": "",
+      "storeid": "tokai-c80801",
+      "shopid": "tokai-c80801-paypay-voucher"
+    },
+    {
+      "name": "V・ドラッグ 上野台店",
+      "address": "",
+      "storeid": "tokai-9f77ac",
+      "shopid": "tokai-9f77ac-paypay-voucher"
+    },
+    {
+      "name": "マツモトキヨシ ラスパ太田川店",
+      "address": "",
+      "storeid": "tokai-faf38e",
+      "shopid": "tokai-faf38e-paypay-voucher"
+    },
+    {
+      "name": "ウエルシア 東海荒尾店",
+      "address": "",
+      "storeid": "tokai-153d2b",
+      "shopid": "tokai-153d2b-paypay-voucher"
+    },
+    {
+      "name": "ウエルシア 東海大田町店",
+      "address": "",
+      "storeid": "tokai-37d561",
+      "shopid": "tokai-37d561-paypay-voucher"
+    },
+    {
+      "name": "ウエルシア 東海加木屋店",
+      "address": "",
+      "storeid": "tokai-67fdc7",
+      "shopid": "tokai-67fdc7-paypay-voucher"
+    },
+    {
+      "name": "ドラッグセイムス 東海名和店",
+      "address": "",
+      "storeid": "tokai-4704ae",
+      "shopid": "tokai-4704ae-paypay-voucher"
+    },
+    {
+      "name": "ドラッグセイムス 東海富木島店",
+      "address": "",
+      "storeid": "tokai-3b2be9",
+      "shopid": "tokai-3b2be9-paypay-voucher"
+    },
+    {
+      "name": "ドラッグセイムス 東海加木屋店",
+      "address": "",
+      "storeid": "tokai-7806c0",
+      "shopid": "tokai-7806c0-paypay-voucher"
+    },
+    {
+      "name": "ドラッグスギヤマ 加木屋店",
+      "address": "",
+      "storeid": "tokai-17b776",
+      "shopid": "tokai-17b776-paypay-voucher"
+    }
+  ],
+  "電器・ホームセンター": [
+    {
+      "name": "エディオン 東海店",
+      "address": "",
+      "storeid": "tokai-187a7b",
+      "shopid": "tokai-187a7b-paypay-voucher"
+    },
+    {
+      "name": "ケーズデンキ 東海店",
+      "address": "",
+      "storeid": "tokai-3fb967",
+      "shopid": "tokai-3fb967-paypay-voucher"
+    },
+    {
+      "name": "ヤマダデンキ 東海店",
+      "address": "",
+      "storeid": "tokai-18b5ca",
+      "shopid": "tokai-18b5ca-paypay-voucher"
+    },
+    {
+      "name": "カインズ 東海店",
+      "address": "",
+      "storeid": "tokai-62d77e",
+      "shopid": "tokai-62d77e-paypay-voucher"
+    },
+    {
+      "name": "DCM 東海店",
+      "address": "",
+      "storeid": "tokai-ffe0ac",
+      "shopid": "tokai-ffe0ac-paypay-voucher"
+    }
+  ],
+  "ファッション": [
+    {
+      "name": "ユニクロ 東海店",
+      "address": "",
+      "storeid": "tokai-2b6ef2",
+      "shopid": "tokai-2b6ef2-paypay-voucher"
+    },
+    {
+      "name": "しまむら 荒尾店",
+      "address": "",
+      "storeid": "tokai-a37695",
+      "shopid": "tokai-a37695-paypay-voucher"
+    },
+    {
+      "name": "西松屋チェーン 東海荒尾店",
+      "address": "",
+      "storeid": "tokai-32703c",
+      "shopid": "tokai-32703c-paypay-voucher"
+    },
+    {
+      "name": "洋服の青山 東海店",
+      "address": "",
+      "storeid": "tokai-f09eb7",
+      "shopid": "tokai-f09eb7-paypay-voucher"
+    },
+    {
+      "name": "AOKI 東海荒尾店",
+      "address": "",
+      "storeid": "tokai-2ea91e",
+      "shopid": "tokai-2ea91e-paypay-voucher"
+    },
+    {
+      "name": "シュープラザ 東海荒尾アピタ店",
+      "address": "",
+      "storeid": "tokai-31a238",
+      "shopid": "tokai-31a238-paypay-voucher"
+    },
+    {
+      "name": "東京靴流通センター 東海店",
+      "address": "",
+      "storeid": "tokai-dc63a5",
+      "shopid": "tokai-dc63a5-paypay-voucher"
+    }
+  ],
+  "ガソリンスタンド・洗車": [
+    {
+      "name": "apollostation セルフ東海SS",
+      "address": "",
+      "storeid": "tokai-6917c9",
+      "shopid": "tokai-6917c9-paypay-voucher"
+    },
+    {
+      "name": "apollostation セルフ東海市役所前SS",
+      "address": "",
+      "storeid": "tokai-e845fe",
+      "shopid": "tokai-e845fe-paypay-voucher"
+    },
+    {
+      "name": "ENEOS 加木屋町SS",
+      "address": "",
+      "storeid": "tokai-6316b2",
+      "shopid": "tokai-6316b2-paypay-voucher"
+    },
+    {
+      "name": "八千代産業(有) ENEOS 知多SS",
+      "address": "",
+      "storeid": "tokai-160f77",
+      "shopid": "tokai-160f77-paypay-voucher"
+    },
+    {
+      "name": "鈴安石油店 ENEOS 富木島SS",
+      "address": "",
+      "storeid": "tokai-42304b",
+      "shopid": "tokai-42304b-paypay-voucher"
+    },
+    {
+      "name": "宇佐美 247号伊勢湾岸東海インター(ENEOS)",
+      "address": "",
+      "storeid": "tokai-cd8cdf",
+      "shopid": "tokai-cd8cdf-paypay-voucher"
+    },
+    {
+      "name": "キグナス オブリステーション東海荒尾",
+      "address": "",
+      "storeid": "tokai-420f29",
+      "shopid": "tokai-420f29-paypay-voucher"
+    },
+    {
+      "name": "田中石油",
+      "address": "",
+      "storeid": "tokai-cdd042",
+      "shopid": "tokai-cdd042-paypay-voucher"
+    },
+    {
+      "name": "KeePer LABO 東海店",
+      "address": "",
+      "storeid": "tokai-49264d",
+      "shopid": "tokai-49264d-paypay-voucher"
+    },
+    {
+      "name": "KeePer 東海太田川店",
+      "address": "",
+      "storeid": "tokai-35eb8d",
+      "shopid": "tokai-35eb8d-paypay-voucher"
+    },
+    {
+      "name": "キーパープロショップ 東海名和店",
+      "address": "",
+      "storeid": "tokai-570f2c",
+      "shopid": "tokai-570f2c-paypay-voucher"
+    }
+  ],
+  "その他": [
+    {
+      "name": "ダイソー ラスパ太田川店",
+      "address": "",
+      "storeid": "tokai-38b6c6",
+      "shopid": "tokai-38b6c6-paypay-voucher"
+    },
+    {
+      "name": "ダイソー 愛知東海店",
+      "address": "",
+      "storeid": "tokai-06a698",
+      "shopid": "tokai-06a698-paypay-voucher"
+    },
+    {
+      "name": "ダイソー FM東海太田川店",
+      "address": "",
+      "storeid": "tokai-78c518",
+      "shopid": "tokai-78c518-paypay-voucher"
+    },
+    {
+      "name": "セリア 荒尾店",
+      "address": "",
+      "storeid": "tokai-fb4918",
+      "shopid": "tokai-fb4918-paypay-voucher"
+    },
+    {
+      "name": "セリア ヤマナカ東海店",
+      "address": "",
+      "storeid": "tokai-c9302b",
+      "shopid": "tokai-c9302b-paypay-voucher"
+    },
+    {
+      "name": "セリア 東海加木屋店",
+      "address": "",
+      "storeid": "tokai-c3b6c3",
+      "shopid": "tokai-c3b6c3-paypay-voucher"
+    },
+    {
+      "name": "Can★Do アピタ東海荒尾店",
+      "address": "",
+      "storeid": "tokai-eecdda",
+      "shopid": "tokai-eecdda-paypay-voucher"
+    },
+    {
+      "name": "酒ゃビック 東海店",
+      "address": "",
+      "storeid": "tokai-51e0ae",
+      "shopid": "tokai-51e0ae-paypay-voucher"
+    },
+    {
+      "name": "精文館書店 荒尾店",
+      "address": "",
+      "storeid": "tokai-06c82a",
+      "shopid": "tokai-06c82a-paypay-voucher"
+    },
+    {
+      "name": "三洋堂書店 太田川店",
+      "address": "",
+      "storeid": "tokai-2f27bc",
+      "shopid": "tokai-2f27bc-paypay-voucher"
+    },
+    {
+      "name": "福寿の湯",
+      "address": "",
+      "storeid": "tokai-734b9e",
+      "shopid": "tokai-734b9e-paypay-voucher"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 //types/campaign.ts
-export type PayTypeId = "paypay" | "aupay" | "rakutenpay" | "dbarai" | "aeonpay";
+export type PayTypeId = "paypay" | "aupay" | "rakutenpay" | "dbarai" | "aeonpay" | "paydon";
 
 export type Campaign = {
   paytype: PayTypeId;

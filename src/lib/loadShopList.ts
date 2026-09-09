@@ -5,6 +5,7 @@
 //    - Vercel / Dev 両対応
 //    - JSON 構造自動判別
 
+import type { Shop } from "@/types/shop";
 import fs from "fs/promises";
 import path from "path";
 
@@ -12,7 +13,7 @@ export async function loadShopList(
   prefectureSlug: string,
   citySlug: string,
   paytype: string
-): Promise<Record<string, { name: string; address?: string }[]>> {
+): Promise<Record<string, Shop[]>> {
   try {
     // 📌 public/data 内の JSON を直接読む
     const fileName = `${prefectureSlug}-${citySlug}-${paytype}-shops.json`;
@@ -33,7 +34,7 @@ export async function loadShopList(
     const rawText = await fs.readFile(jsonPath, "utf8");
     const raw = JSON.parse(rawText);
 
-    let result: Record<string, { name: string; address?: string }[]> = {};
+    let result: Record<string, Shop[]> = {};
 
     // 📌 JSON 構造を自動判定
     if (Array.isArray(raw)) {

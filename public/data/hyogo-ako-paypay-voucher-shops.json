@@ -1,0 +1,1750 @@
+{
+  "掲載店舗": [
+    {
+      "name": "アグロガーデン新赤穂店",
+      "address": "赤穂市 中広2 アグロガーデン新赤穂店",
+      "storeid": "ako-86f122",
+      "shopid": "ako-86f122-paypay-voucher"
+    },
+    {
+      "name": "華水&スウィング",
+      "address": "赤穂市 加里屋 44-15 アーバンビル",
+      "storeid": "ako-e8121a",
+      "shopid": "ako-e8121a-paypay-voucher"
+    },
+    {
+      "name": "赤穂海浜スポーツセンター",
+      "address": "赤穂市 海浜町141",
+      "storeid": "ako-9da295",
+      "shopid": "ako-9da295-paypay-voucher"
+    },
+    {
+      "name": "赤穂観光協会",
+      "address": "赤穂市 加里屋328",
+      "storeid": "ako-d1ee3c",
+      "shopid": "ako-d1ee3c-paypay-voucher"
+    },
+    {
+      "name": "Akokitchen",
+      "address": "赤穂市 加里屋中洲4-11",
+      "storeid": "ako-6db54f",
+      "shopid": "ako-6db54f-paypay-voucher"
+    },
+    {
+      "name": "赤穂市の美容室『Lian(リアン)』",
+      "address": "赤穂市 尾崎 3129-14",
+      "storeid": "ako-1d2eec",
+      "shopid": "ako-1d2eec-paypay-voucher"
+    },
+    {
+      "name": "赤穂神姫タクシー",
+      "address": "赤穂市 山手町2-8",
+      "storeid": "ako-35bc27",
+      "shopid": "ako-35bc27-paypay-voucher"
+    },
+    {
+      "name": "赤穂瀬戸内窯桃井ミュージアム",
+      "address": "赤穂市 御崎 634",
+      "storeid": "ako-cc9412",
+      "shopid": "ako-cc9412-paypay-voucher"
+    },
+    {
+      "name": "赤穂タクシー001",
+      "address": "赤穂市 加里屋 68‐8",
+      "storeid": "ako-029792",
+      "shopid": "ako-029792-paypay-voucher"
+    },
+    {
+      "name": "あこう典礼館 花みずき",
+      "address": "赤穂市砂子 245番地1",
+      "storeid": "ako-a7f751",
+      "shopid": "ako-a7f751-paypay-voucher"
+    },
+    {
+      "name": "赤穂のお菓子・プリエール",
+      "address": "赤穂市 上仮屋南 1-5",
+      "storeid": "ako-e443a9",
+      "shopid": "ako-e443a9-paypay-voucher"
+    },
+    {
+      "name": "中華料理 赤穂飯店",
+      "address": "赤穂市 黒崎町 148",
+      "storeid": "ako-b4111c",
+      "shopid": "ako-b4111c-paypay-voucher"
+    },
+    {
+      "name": "赤穂バッティングセンター餃子屋",
+      "address": "赤穂市 鷆和 1120",
+      "storeid": "ako-99bfbd",
+      "shopid": "ako-99bfbd-paypay-voucher"
+    },
+    {
+      "name": "赤穂パークホテル",
+      "address": "赤穂市 さつき町 36番地の12",
+      "storeid": "ako-dee17e",
+      "shopid": "ako-dee17e-paypay-voucher"
+    },
+    {
+      "name": "あこうビジネスホテル桜館",
+      "address": "赤穂市 黒崎町 148",
+      "storeid": "ako-7c5b66",
+      "shopid": "ako-7c5b66-paypay-voucher"
+    },
+    {
+      "name": "赤穂らーめん 麺坊",
+      "address": "赤穂市 加里屋290‐10 プラット赤穂2F",
+      "storeid": "ako-e1abcf",
+      "shopid": "ako-e1abcf-paypay-voucher"
+    },
+    {
+      "name": "赤穂ロイヤルホテル",
+      "address": "赤穂市 加里屋中洲 3250",
+      "storeid": "ako-4f909c",
+      "shopid": "ako-4f909c-paypay-voucher"
+    },
+    {
+      "name": "アコール",
+      "address": "赤穂市 坂越 333",
+      "storeid": "ako-6a4710",
+      "shopid": "ako-6a4710-paypay-voucher"
+    },
+    {
+      "name": "あこまる商店",
+      "address": "赤穂市 加里屋 2188-46",
+      "storeid": "ako-d03448",
+      "shopid": "ako-d03448-paypay-voucher"
+    },
+    {
+      "name": "アサヒフーズ",
+      "address": "赤穂市 有年楢原 255番地",
+      "storeid": "ako-ef44d5",
+      "shopid": "ako-ef44d5-paypay-voucher"
+    },
+    {
+      "name": "味くらぶ まさや",
+      "address": "赤穂市 加里屋 42-15",
+      "storeid": "ako-2c7362",
+      "shopid": "ako-2c7362-paypay-voucher"
+    },
+    {
+      "name": "からあげBon",
+      "address": "赤穂市 加里屋2159",
+      "storeid": "ako-386801",
+      "shopid": "ako-386801-paypay-voucher"
+    },
+    {
+      "name": "味の駅 ちぎり",
+      "address": "赤穂市 加里屋 2159-11",
+      "storeid": "ako-7f0119",
+      "shopid": "ako-7f0119-paypay-voucher"
+    },
+    {
+      "name": "ASUKA ピエ・ド・プール",
+      "address": "赤穂市 加里屋 48-5",
+      "storeid": "ako-d84893",
+      "shopid": "ako-d84893-paypay-voucher"
+    },
+    {
+      "name": "Atelier日日屋",
+      "address": "赤穂市 新田 597-6",
+      "storeid": "ako-aaf688",
+      "shopid": "ako-aaf688-paypay-voucher"
+    },
+    {
+      "name": "アッちゃん弁当",
+      "address": "赤穂市 加里屋 2172-2",
+      "storeid": "ako-9e6450",
+      "shopid": "ako-9e6450-paypay-voucher"
+    },
+    {
+      "name": "anom",
+      "address": "赤穂市 上仮屋北2-16",
+      "storeid": "ako-36193b",
+      "shopid": "ako-36193b-paypay-voucher"
+    },
+    {
+      "name": "apollostation 赤穂SS",
+      "address": "赤穂市 細野町779-1",
+      "storeid": "ako-3ba7f9",
+      "shopid": "ako-3ba7f9-paypay-voucher"
+    },
+    {
+      "name": "apollostation 西相生トラックステーション",
+      "address": "赤穂市 西有年字長畑2220-1",
+      "storeid": "ako-13b01d",
+      "shopid": "ako-13b01d-paypay-voucher"
+    },
+    {
+      "name": "apollostation 西兵庫トラックステーション",
+      "address": "赤穂市 西有年字柴床1041-1",
+      "storeid": "ako-857ee4",
+      "shopid": "ako-857ee4-paypay-voucher"
+    },
+    {
+      "name": "AMARE(アマーレ)",
+      "address": "赤穂市 加里屋 44-8",
+      "storeid": "ako-01f6f3",
+      "shopid": "ako-01f6f3-paypay-voucher"
+    },
+    {
+      "name": "AMAMI TERRACE",
+      "address": "赤穂市 御崎2-1",
+      "storeid": "ako-c28f11",
+      "shopid": "ako-c28f11-paypay-voucher"
+    },
+    {
+      "name": "AMAMITERRCE赤穂化成店",
+      "address": "赤穂市 坂越329 赤穂化成株式会社 3F",
+      "storeid": "ako-24c5e5",
+      "shopid": "ako-24c5e5-paypay-voucher"
+    },
+    {
+      "name": "ありなしファームイチゴ狩り",
+      "address": "赤穂市 有年原 1088",
+      "storeid": "ako-87e58f",
+      "shopid": "ako-87e58f-paypay-voucher"
+    },
+    {
+      "name": "あれやこれ屋&マチャイ",
+      "address": "赤穂市 加里屋中州",
+      "storeid": "ako-b0cffc",
+      "shopid": "ako-b0cffc-paypay-voucher"
+    },
+    {
+      "name": "and",
+      "address": "赤穂市 中広 133-62",
+      "storeid": "ako-24ffd5",
+      "shopid": "ako-24ffd5-paypay-voucher"
+    },
+    {
+      "name": "いかりや 赤穂店",
+      "address": "赤穂市 南野中 434",
+      "storeid": "ako-26c4fb",
+      "shopid": "ako-26c4fb-paypay-voucher"
+    },
+    {
+      "name": "居酒屋風らーめん屋とっけ",
+      "address": "赤穂市 加里屋駅前 39ー9 江崎ビル102",
+      "storeid": "ako-c2f112",
+      "shopid": "ako-c2f112-paypay-voucher"
+    },
+    {
+      "name": "イダ貸衣裳店",
+      "address": "赤穂市 加里屋 43-12",
+      "storeid": "ako-6e3cef",
+      "shopid": "ako-6e3cef-paypay-voucher"
+    },
+    {
+      "name": "クレープカメレオン",
+      "address": "赤穂市 加里屋 2103-14",
+      "storeid": "ako-fae66c",
+      "shopid": "ako-fae66c-paypay-voucher"
+    },
+    {
+      "name": "海辺のテラスカフェ",
+      "address": "赤穂市 尾崎丸山 2300-3",
+      "storeid": "ako-71c23d",
+      "shopid": "ako-71c23d-paypay-voucher"
+    },
+    {
+      "name": "一花",
+      "address": "赤穂市 尾崎2470-150 オサキ和カフェ 奥入口",
+      "storeid": "ako-71752d",
+      "shopid": "ako-71752d-paypay-voucher"
+    },
+    {
+      "name": "ISSAロックサービス",
+      "address": "赤穂市 加里屋 290-10 プラット赤穂2階",
+      "storeid": "ako-7a18a7",
+      "shopid": "ako-7a18a7-paypay-voucher"
+    },
+    {
+      "name": "一粋",
+      "address": "赤穂市 加里屋南 2-8",
+      "storeid": "ako-8d5f15",
+      "shopid": "ako-8d5f15-paypay-voucher"
+    },
+    {
+      "name": "いつみ美容室",
+      "address": "赤穂市 加里屋 68-11",
+      "storeid": "ako-230673",
+      "shopid": "ako-230673-paypay-voucher"
+    },
+    {
+      "name": "いぬのヘアサロン ワンラック",
+      "address": "赤穂市 加里屋 3230-16",
+      "storeid": "ako-1d5c10",
+      "shopid": "ako-1d5c10-paypay-voucher"
+    },
+    {
+      "name": "今井荘",
+      "address": "赤穂市 御崎550-2",
+      "storeid": "ako-ee2040",
+      "shopid": "ako-ee2040-paypay-voucher"
+    },
+    {
+      "name": "イオン赤穂店",
+      "address": "赤穂市 中広 55-3 イオン赤穂店 2F",
+      "storeid": "ako-e47101",
+      "shopid": "ako-e47101-paypay-voucher"
+    },
+    {
+      "name": "上田水産",
+      "address": "赤穂市 坂越 319",
+      "storeid": "ako-031004",
+      "shopid": "ako-031004-paypay-voucher"
+    },
+    {
+      "name": "株式会社上田電気",
+      "address": "赤穂市 砂子 229-3",
+      "storeid": "ako-7a2107",
+      "shopid": "ako-7a2107-paypay-voucher"
+    },
+    {
+      "name": "海と坂と",
+      "address": "赤穂市 御崎2-1",
+      "storeid": "ako-e73963",
+      "shopid": "ako-e73963-paypay-voucher"
+    },
+    {
+      "name": "運転代行うめ",
+      "address": "赤穂市 御崎 343",
+      "storeid": "ako-fe5d6f",
+      "shopid": "ako-fe5d6f-paypay-voucher"
+    },
+    {
+      "name": "virtue",
+      "address": "赤穂市 加里屋52-3",
+      "storeid": "ako-9432a0",
+      "shopid": "ako-9432a0-paypay-voucher"
+    },
+    {
+      "name": "ヴァンティーム・マトノ",
+      "address": "赤穂市 上仮屋南 4-5",
+      "storeid": "ako-53603e",
+      "shopid": "ako-53603e-paypay-voucher"
+    },
+    {
+      "name": "えくらんど",
+      "address": "赤穂市 加里屋 1618",
+      "storeid": "ako-ce5c67",
+      "shopid": "ako-ce5c67-paypay-voucher"
+    },
+    {
+      "name": "エステサロンAkita",
+      "address": "赤穂市 加里屋 44-11",
+      "storeid": "ako-725537",
+      "shopid": "ako-725537-paypay-voucher"
+    },
+    {
+      "name": "エディオン 赤穂店",
+      "address": "赤穂市 中広2-8",
+      "storeid": "ako-a6a1a5",
+      "shopid": "ako-a6a1a5-paypay-voucher"
+    },
+    {
+      "name": "縁 赤穂駅前店",
+      "address": "赤穂市 加里屋67-1",
+      "storeid": "ako-9c5e4f",
+      "shopid": "ako-9c5e4f-paypay-voucher"
+    },
+    {
+      "name": "F.T.E.",
+      "address": "赤穂市 加里屋中洲4-1 グリーンクウ101号",
+      "storeid": "ako-6f0f32",
+      "shopid": "ako-6f0f32-paypay-voucher"
+    },
+    {
+      "name": "En",
+      "address": "赤穂市 加里屋 56-9",
+      "storeid": "ako-f39e9d",
+      "shopid": "ako-f39e9d-paypay-voucher"
+    },
+    {
+      "name": "おうちサロンリバイブ",
+      "address": "赤穂市 塩屋3232-14 ピスタ105号",
+      "storeid": "ako-0cda54",
+      "shopid": "ako-0cda54-paypay-voucher"
+    },
+    {
+      "name": "オートバックス 赤穂店",
+      "address": "赤穂市三樋町 3",
+      "storeid": "ako-9de6fe",
+      "shopid": "ako-9de6fe-paypay-voucher"
+    },
+    {
+      "name": "岡本mameラボ.",
+      "address": "赤穂市 元禄橋町 110",
+      "storeid": "ako-d695fc",
+      "shopid": "ako-d695fc-paypay-voucher"
+    },
+    {
+      "name": "屋外カキ食べ放題",
+      "address": "赤穂市 坂越 290-7",
+      "storeid": "ako-4830c7",
+      "shopid": "ako-4830c7-paypay-voucher"
+    },
+    {
+      "name": "奥藤商事",
+      "address": "赤穂市 坂越1419",
+      "storeid": "ako-e0a363",
+      "shopid": "ako-e0a363-paypay-voucher"
+    },
+    {
+      "name": "お好み焼き・海鮮・明石焼きおこおこ",
+      "address": "赤穂市 黒崎町 170番地",
+      "storeid": "ako-d5fb19",
+      "shopid": "ako-d5fb19-paypay-voucher"
+    },
+    {
+      "name": "オサキ和カフェ",
+      "address": "赤穂市 尾崎 2470-150",
+      "storeid": "ako-78c4f6",
+      "shopid": "ako-78c4f6-paypay-voucher"
+    },
+    {
+      "name": "お食事処 かましま",
+      "address": "赤穂市 加里屋 89-5 Kビル",
+      "storeid": "ako-97e41d",
+      "shopid": "ako-97e41d-paypay-voucher"
+    },
+    {
+      "name": "赤穂有楽町店",
+      "address": "赤穂市 加里屋 42-3 西野ビル103号",
+      "storeid": "ako-183105",
+      "shopid": "ako-183105-paypay-voucher"
+    },
+    {
+      "name": "お仏壇の浜屋 赤穂店",
+      "address": "赤穂市 加里屋中洲1丁目11−2",
+      "storeid": "ako-d62ed2",
+      "shopid": "ako-d62ed2-paypay-voucher"
+    },
+    {
+      "name": "オムチャーハンの店とんこう",
+      "address": "赤穂市 新田 583-1",
+      "storeid": "ako-d931fa",
+      "shopid": "ako-d931fa-paypay-voucher"
+    },
+    {
+      "name": "廻鮮寿したいの鯛赤穂店",
+      "address": "赤穂市 加里屋中洲2-22",
+      "storeid": "ako-bc1323",
+      "shopid": "ako-bc1323-paypay-voucher"
+    },
+    {
+      "name": "牡蠣小屋りょうちゃん",
+      "address": "赤穂市 御崎1782-12",
+      "storeid": "ako-2b28d7",
+      "shopid": "ako-2b28d7-paypay-voucher"
+    },
+    {
+      "name": "鹿久居荘 赤穂",
+      "address": "赤穂市 さつき町 35-5",
+      "storeid": "ako-1884bb",
+      "shopid": "ako-1884bb-paypay-voucher"
+    },
+    {
+      "name": "菓澄想",
+      "address": "赤穂市 加里屋 40-6 赤穂プラザハイツ104",
+      "storeid": "ako-387205",
+      "shopid": "ako-387205-paypay-voucher"
+    },
+    {
+      "name": "勝下印房",
+      "address": "赤穂市 加里屋 48-4",
+      "storeid": "ako-5da09a",
+      "shopid": "ako-5da09a-paypay-voucher"
+    },
+    {
+      "name": "cut shop MT",
+      "address": "赤穂市 加里屋 28-9",
+      "storeid": "ako-47608e",
+      "shopid": "ako-47608e-paypay-voucher"
+    },
+    {
+      "name": "割烹美鶴",
+      "address": "赤穂市 加里屋 53-6",
+      "storeid": "ako-3c7b6e",
+      "shopid": "ako-3c7b6e-paypay-voucher"
+    },
+    {
+      "name": "Cadou",
+      "address": "赤穂市 加里屋55-11",
+      "storeid": "ako-f8c262",
+      "shopid": "ako-f8c262-paypay-voucher"
+    },
+    {
+      "name": "金川工作所 ダイハツ赤穂",
+      "address": "赤穂市 加里屋 29-8",
+      "storeid": "ako-8cc8cc",
+      "shopid": "ako-8cc8cc-paypay-voucher"
+    },
+    {
+      "name": "cafe&grill MUSASHI",
+      "address": "赤穂市 黒崎町 154-1",
+      "storeid": "ako-0b5478",
+      "shopid": "ako-0b5478-paypay-voucher"
+    },
+    {
+      "name": "cafeBROWNFLAG",
+      "address": "赤穂市 加里屋中洲 6-46",
+      "storeid": "ako-467b26",
+      "shopid": "ako-467b26-paypay-voucher"
+    },
+    {
+      "name": "SUMIYA Cosmetic&Beauty",
+      "address": "赤穂市 加里屋 47-4",
+      "storeid": "ako-4fc603",
+      "shopid": "ako-4fc603-paypay-voucher"
+    },
+    {
+      "name": "山本自動車技研企画",
+      "address": "赤穂市 元町6-6",
+      "storeid": "ako-51686e",
+      "shopid": "ako-51686e-paypay-voucher"
+    },
+    {
+      "name": "株式会社山本自動車技研企画",
+      "address": "赤穂市 元町 4-20",
+      "storeid": "ako-0535d7",
+      "shopid": "ako-0535d7-paypay-voucher"
+    },
+    {
+      "name": "株式会社横山サポートテック",
+      "address": "赤穂市 中広1370番地1",
+      "storeid": "ako-b49367",
+      "shopid": "ako-b49367-paypay-voucher"
+    },
+    {
+      "name": "カラオケハウスビート",
+      "address": "赤穂市 朝日町 9-3",
+      "storeid": "ako-34c147",
+      "shopid": "ako-34c147-paypay-voucher"
+    },
+    {
+      "name": "Kariya Ryokan Q",
+      "address": "赤穂市 加里屋 1996",
+      "storeid": "ako-c12f73",
+      "shopid": "ako-c12f73-paypay-voucher"
+    },
+    {
+      "name": "かん川本舗 大手門前店",
+      "address": "赤穂市加里屋南 3-5",
+      "storeid": "ako-e32c41",
+      "shopid": "ako-e32c41-paypay-voucher"
+    },
+    {
+      "name": "COUNTRY STORE 501",
+      "address": "赤穂市 朝日町 11-20",
+      "storeid": "ako-f2e70f",
+      "shopid": "ako-f2e70f-paypay-voucher"
+    },
+    {
+      "name": "赤穂店(すかいらーくグループ)",
+      "address": "赤穂市 黒崎町191番地",
+      "storeid": "ako-9f3d90",
+      "shopid": "ako-9f3d90-paypay-voucher"
+    },
+    {
+      "name": "生そば 更科",
+      "address": "赤穂市 加里屋 74-2",
+      "storeid": "ako-8881ab",
+      "shopid": "ako-8881ab-paypay-voucher"
+    },
+    {
+      "name": "きのした理容",
+      "address": "赤穂市 北野中 337-9",
+      "storeid": "ako-b89745",
+      "shopid": "ako-b89745-paypay-voucher"
+    },
+    {
+      "name": "キムラカメラスタジオ",
+      "address": "赤穂市 加里屋 42-19",
+      "storeid": "ako-89089c",
+      "shopid": "ako-89089c-paypay-voucher"
+    },
+    {
+      "name": "きらり",
+      "address": "赤穂市 浜市 488-1",
+      "storeid": "ako-f8ce5b",
+      "shopid": "ako-f8ce5b-paypay-voucher"
+    },
+    {
+      "name": "くいどうらく",
+      "address": "赤穂市 坂越290-7",
+      "storeid": "ako-0fa9cd",
+      "shopid": "ako-0fa9cd-paypay-voucher"
+    },
+    {
+      "name": "食い処まるはち",
+      "address": "赤穂市 加里屋 2103-12",
+      "storeid": "ako-3f4881",
+      "shopid": "ako-3f4881-paypay-voucher"
+    },
+    {
+      "name": "クラフト 空のいろ",
+      "address": "赤穂市 新田 938",
+      "storeid": "ako-4ec5a0",
+      "shopid": "ako-4ec5a0-paypay-voucher"
+    },
+    {
+      "name": "CRAFT1",
+      "address": "赤穂市 尾崎 3143-28",
+      "storeid": "ako-9a02b2",
+      "shopid": "ako-9a02b2-paypay-voucher"
+    },
+    {
+      "name": "KRAN",
+      "address": "赤穂市 加里屋 290-10 プラット赤穂 1F",
+      "storeid": "ako-4d382f",
+      "shopid": "ako-4d382f-paypay-voucher"
+    },
+    {
+      "name": "クリスタル・ローザ",
+      "address": "赤穂市 中広 285-5",
+      "storeid": "ako-5718c0",
+      "shopid": "ako-5718c0-paypay-voucher"
+    },
+    {
+      "name": "クレープくるり",
+      "address": "赤穂市 加里屋南 6-2",
+      "storeid": "ako-b699a5",
+      "shopid": "ako-b699a5-paypay-voucher"
+    },
+    {
+      "name": "黒田クリーニング",
+      "address": "赤穂市 塩屋 2-5",
+      "storeid": "ako-56092a",
+      "shopid": "ako-56092a-paypay-voucher"
+    },
+    {
+      "name": "グラトニー",
+      "address": "赤穂市 尾崎3936",
+      "storeid": "ako-d63275",
+      "shopid": "ako-d63275-paypay-voucher"
+    },
+    {
+      "name": "ぐらんだぁーぶる",
+      "address": "赤穂市 宮前町 1-4",
+      "storeid": "ako-6a3c89",
+      "shopid": "ako-6a3c89-paypay-voucher"
+    },
+    {
+      "name": "景色 Kesiki",
+      "address": "赤穂市 坂越1653-3",
+      "storeid": "ako-2a3792",
+      "shopid": "ako-2a3792-paypay-voucher"
+    },
+    {
+      "name": "健康専科",
+      "address": "赤穂市 朝日町 16-1 パインハイツ1階",
+      "storeid": "ako-f4df92",
+      "shopid": "ako-f4df92-paypay-voucher"
+    },
+    {
+      "name": "イオン赤穂店",
+      "address": "赤穂市 中広字別所55-3",
+      "storeid": "ako-1eb700",
+      "shopid": "ako-1eb700-paypay-voucher"
+    },
+    {
+      "name": "元気酵素風呂 赤穂店",
+      "address": "赤穂市 兵庫県 赤穂市 東浜町 90−1",
+      "storeid": "ako-13d7c1",
+      "shopid": "ako-13d7c1-paypay-voucher"
+    },
+    {
+      "name": "コインランドリー砂子",
+      "address": "赤穂市 砂子 180-6",
+      "storeid": "ako-75766e",
+      "shopid": "ako-75766e-paypay-voucher"
+    },
+    {
+      "name": "コインランドリー南野中",
+      "address": "赤穂市 南野中字島田 170",
+      "storeid": "ako-b3e6ee",
+      "shopid": "ako-b3e6ee-paypay-voucher"
+    },
+    {
+      "name": "光栄水産",
+      "address": "赤穂市 坂越 319",
+      "storeid": "ako-bad743",
+      "shopid": "ako-bad743-paypay-voucher"
+    },
+    {
+      "name": "神戸唐唐亭 赤穂お城前店",
+      "address": "赤穂市 加里屋南6-2 城北舎1-D",
+      "storeid": "ako-6a6d89",
+      "shopid": "ako-6a6d89-paypay-voucher"
+    },
+    {
+      "name": "功結水産",
+      "address": "赤穂市 坂越 319",
+      "storeid": "ako-ff1c7b",
+      "shopid": "ako-ff1c7b-paypay-voucher"
+    },
+    {
+      "name": "恵海処 功結",
+      "address": "赤穂市 加里屋 42-3 西野ビル1F",
+      "storeid": "ako-1cedc2",
+      "shopid": "ako-1cedc2-paypay-voucher"
+    },
+    {
+      "name": "Cozy Color",
+      "address": "赤穂市 中広 922-1",
+      "storeid": "ako-86b687",
+      "shopid": "ako-86b687-paypay-voucher"
+    },
+    {
+      "name": "CocoMarco",
+      "address": "赤穂市 中広 2-8 フレスポ赤穂",
+      "storeid": "ako-19b5fc",
+      "shopid": "ako-19b5fc-paypay-voucher"
+    },
+    {
+      "name": "cotton",
+      "address": "赤穂市 坂越 1569",
+      "storeid": "ako-4e7fcc",
+      "shopid": "ako-4e7fcc-paypay-voucher"
+    },
+    {
+      "name": "KONOKA",
+      "address": "赤穂市 加里屋中洲4丁目39番地",
+      "storeid": "ako-1ab7c7",
+      "shopid": "ako-1ab7c7-paypay-voucher"
+    },
+    {
+      "name": "加工場",
+      "address": "赤穂市坂越 319 赤穂市坂越漁協牡蠣加工場内5",
+      "storeid": "ako-638e3d",
+      "shopid": "ako-638e3d-paypay-voucher"
+    },
+    {
+      "name": "コメダ珈琲店 イオン赤穂店",
+      "address": "赤穂市 中広字別所55-3 イオン赤穂店1階",
+      "storeid": "ako-3b2ee1",
+      "shopid": "ako-3b2ee1-paypay-voucher"
+    },
+    {
+      "name": "ゴダイドラッグ赤穂上町店",
+      "address": "赤穂市 加里屋上町76",
+      "storeid": "ako-e3d9c7",
+      "shopid": "ako-e3d9c7-paypay-voucher"
+    },
+    {
+      "name": "ゴダイドラッグ赤穂中央店",
+      "address": "赤穂市 加里屋中洲3丁目57番1",
+      "storeid": "ako-d92f8e",
+      "shopid": "ako-d92f8e-paypay-voucher"
+    },
+    {
+      "name": "ゴダイ薬局赤穂駅前店",
+      "address": "赤穂市 加里屋290-10 プラット赤穂内",
+      "storeid": "ako-5f916c",
+      "shopid": "ako-5f916c-paypay-voucher"
+    },
+    {
+      "name": "ゴダイ薬局赤穂店",
+      "address": "赤穂市 中広1096-2",
+      "storeid": "ako-f792c4",
+      "shopid": "ako-f792c4-paypay-voucher"
+    },
+    {
+      "name": "ゴルフショップ イシバシ",
+      "address": "赤穂市 尾崎 551",
+      "storeid": "ako-8aac86",
+      "shopid": "ako-8aac86-paypay-voucher"
+    },
+    {
+      "name": "サイクルヒット赤穂店",
+      "address": "赤穂市 黒崎町 186",
+      "storeid": "ako-e4f98d",
+      "shopid": "ako-e4f98d-paypay-voucher"
+    },
+    {
+      "name": "酒三木",
+      "address": "赤穂市 坂越 1330",
+      "storeid": "ako-eef904",
+      "shopid": "ako-eef904-paypay-voucher"
+    },
+    {
+      "name": "SAKURAGUMI",
+      "address": "赤穂市 御崎 2番地の1",
+      "storeid": "ako-2ccc07",
+      "shopid": "ako-2ccc07-paypay-voucher"
+    },
+    {
+      "name": "Scio'Scio'",
+      "address": "赤穂市 御崎2-1",
+      "storeid": "ako-55549e",
+      "shopid": "ako-55549e-paypay-voucher"
+    },
+    {
+      "name": "幸灯工房",
+      "address": "赤穂市 御崎 44-1",
+      "storeid": "ako-263a68",
+      "shopid": "ako-263a68-paypay-voucher"
+    },
+    {
+      "name": "寒川商店",
+      "address": "赤穂市 加里屋 87番地11",
+      "storeid": "ako-e06ada",
+      "shopid": "ako-e06ada-paypay-voucher"
+    },
+    {
+      "name": "坂利太-Salita-",
+      "address": "赤穂市 坂越 2083",
+      "storeid": "ako-3e3952",
+      "shopid": "ako-3e3952-paypay-voucher"
+    },
+    {
+      "name": "茶寮 馳走庵",
+      "address": "赤穂市 上仮屋南2-1",
+      "storeid": "ako-498461",
+      "shopid": "ako-498461-paypay-voucher"
+    },
+    {
+      "name": "Salon 縁",
+      "address": "赤穂市 尾崎3117ー134",
+      "storeid": "ako-7cbcd3",
+      "shopid": "ako-7cbcd3-paypay-voucher"
+    },
+    {
+      "name": "サロン ド オズ",
+      "address": "赤穂市 長池町 90-1",
+      "storeid": "ako-47d067",
+      "shopid": "ako-47d067-paypay-voucher"
+    },
+    {
+      "name": "サロンドコスメPAX",
+      "address": "赤穂市 中広 55-3 イオン赤穂店1階",
+      "storeid": "ako-fc083b",
+      "shopid": "ako-fc083b-paypay-voucher"
+    },
+    {
+      "name": "ダイレックス赤穂店",
+      "address": "赤穂市 南野中784",
+      "storeid": "ako-ec3660",
+      "shopid": "ako-ec3660-paypay-voucher"
+    },
+    {
+      "name": "ザグザグ赤穂尾崎店",
+      "address": "赤穂市 尾崎 3158-8",
+      "storeid": "ako-34d7d5",
+      "shopid": "ako-34d7d5-paypay-voucher"
+    },
+    {
+      "name": "ザグザグ赤穂中広店",
+      "address": "赤穂市 中広 2-8",
+      "storeid": "ako-3cbeed",
+      "shopid": "ako-3cbeed-paypay-voucher"
+    },
+    {
+      "name": "しあわせなより道",
+      "address": "赤穂市 坂越2065",
+      "storeid": "ako-fd575b",
+      "shopid": "ako-fd575b-paypay-voucher"
+    },
+    {
+      "name": "シェ・ザッコ",
+      "address": "赤穂市 中広 864",
+      "storeid": "ako-ceaecd",
+      "shopid": "ako-ceaecd-paypay-voucher"
+    },
+    {
+      "name": "chainon32",
+      "address": "赤穂市 加里屋57-12",
+      "storeid": "ako-cbdd4f",
+      "shopid": "ako-cbdd4f-paypay-voucher"
+    },
+    {
+      "name": "しばおかデンタルクリニック",
+      "address": "赤穂市 黒崎町 221",
+      "storeid": "ako-ded029",
+      "shopid": "ako-ded029-paypay-voucher"
+    },
+    {
+      "name": "島谷接骨院",
+      "address": "赤穂市 坂越1685",
+      "storeid": "ako-62ec61",
+      "shopid": "ako-62ec61-paypay-voucher"
+    },
+    {
+      "name": "しまむら 赤穂店",
+      "address": "赤穂市 尾崎字明神木 3154ー1",
+      "storeid": "ako-671895",
+      "shopid": "ako-671895-paypay-voucher"
+    },
+    {
+      "name": "しみぬき工房つづれや",
+      "address": "赤穂市 坂越 1754番地",
+      "storeid": "ako-fe905a",
+      "shopid": "ako-fe905a-paypay-voucher"
+    },
+    {
+      "name": "旬鮮食彩館PAONE塩屋店",
+      "address": "赤穂市 塩屋275-1",
+      "storeid": "ako-b23e3b",
+      "shopid": "ako-b23e3b-paypay-voucher"
+    },
+    {
+      "name": "旬彩蔵赤穂",
+      "address": "赤穂市 元町4-7",
+      "storeid": "ako-e5b6f8",
+      "shopid": "ako-e5b6f8-paypay-voucher"
+    },
+    {
+      "name": "ニューオートヤマモトサービス",
+      "address": "赤穂市 新田 1282-1",
+      "storeid": "ako-a5e7c4",
+      "shopid": "ako-a5e7c4-paypay-voucher"
+    },
+    {
+      "name": "ジュエリーSEICO",
+      "address": "赤穂市 加里屋 2233-13",
+      "storeid": "ako-4eea30",
+      "shopid": "ako-4eea30-paypay-voucher"
+    },
+    {
+      "name": "すし若",
+      "address": "赤穂市 加里屋 2184-1",
+      "storeid": "ako-640267",
+      "shopid": "ako-640267-paypay-voucher"
+    },
+    {
+      "name": "250号赤穂駅前店",
+      "address": "赤穂市 加里屋69-11",
+      "storeid": "ako-14a326",
+      "shopid": "ako-14a326-paypay-voucher"
+    },
+    {
+      "name": "鈴木海産",
+      "address": "赤穂市 南野中 202-37",
+      "storeid": "ako-d87190",
+      "shopid": "ako-d87190-paypay-voucher"
+    },
+    {
+      "name": "スナック凜",
+      "address": "赤穂市 加里屋 67-10",
+      "storeid": "ako-36011b",
+      "shopid": "ako-36011b-paypay-voucher"
+    },
+    {
+      "name": "菫屋珈琲房",
+      "address": "赤穂市 塩屋101-7",
+      "storeid": "ako-cdfa7f",
+      "shopid": "ako-cdfa7f-paypay-voucher"
+    },
+    {
+      "name": "THREESQUAD snowboard store",
+      "address": "赤穂市 惣門町 55-14",
+      "storeid": "ako-2e8fa1",
+      "shopid": "ako-2e8fa1-paypay-voucher"
+    },
+    {
+      "name": "関西福祉大学店",
+      "address": "赤穂市 新田 380-3",
+      "storeid": "ako-caa839",
+      "shopid": "ako-caa839-paypay-voucher"
+    },
+    {
+      "name": "セリア0829プラット赤穂店",
+      "address": "赤穂市 加里屋290ー10プラット赤穂駅ビル1F プラット赤穂駅ビル1F",
+      "storeid": "ako-9f25f5",
+      "shopid": "ako-9f25f5-paypay-voucher"
+    },
+    {
+      "name": "ZERO施術院",
+      "address": "赤穂市 加里屋 76-15",
+      "storeid": "ako-61c438",
+      "shopid": "ako-61c438-paypay-voucher"
+    },
+    {
+      "name": "タイヤセンター",
+      "address": "赤穂市 中広 113-9",
+      "storeid": "ako-44ef29",
+      "shopid": "ako-44ef29-paypay-voucher"
+    },
+    {
+      "name": "Sou hair",
+      "address": "赤穂市 片浜町 3-2",
+      "storeid": "ako-bce9b0",
+      "shopid": "ako-bce9b0-paypay-voucher"
+    },
+    {
+      "name": "赤穂新田店",
+      "address": "赤穂市 新田 812-2",
+      "storeid": "ako-051109",
+      "shopid": "ako-051109-paypay-voucher"
+    },
+    {
+      "name": "総本家かん川",
+      "address": "赤穂市 古浜町 201番地",
+      "storeid": "ako-69fa85",
+      "shopid": "ako-69fa85-paypay-voucher"
+    },
+    {
+      "name": "総本家かん川駅前店",
+      "address": "赤穂市 加里屋 65-1",
+      "storeid": "ako-d3941b",
+      "shopid": "ako-d3941b-paypay-voucher"
+    },
+    {
+      "name": "赤穂",
+      "address": "赤穂市 加里屋上町75-8",
+      "storeid": "ako-d6706e",
+      "shopid": "ako-d6706e-paypay-voucher"
+    },
+    {
+      "name": "高岸ぶどう園",
+      "address": "赤穂市 中山 407-1",
+      "storeid": "ako-1eeb65",
+      "shopid": "ako-1eeb65-paypay-voucher"
+    },
+    {
+      "name": "タカモリヘアチェーンモボ&モガ",
+      "address": "赤穂市 上仮屋南13-1",
+      "storeid": "ako-bec34b",
+      "shopid": "ako-bec34b-paypay-voucher"
+    },
+    {
+      "name": "タカモリヘアチェーン山手店",
+      "address": "赤穂市 山手町2-1",
+      "storeid": "ako-0141e2",
+      "shopid": "ako-0141e2-paypay-voucher"
+    },
+    {
+      "name": "たなべ花店",
+      "address": "赤穂市 加里屋 2075",
+      "storeid": "ako-81a7fb",
+      "shopid": "ako-81a7fb-paypay-voucher"
+    },
+    {
+      "name": "田原文具センター",
+      "address": "赤穂市 加里屋中洲 3-68",
+      "storeid": "ako-455d55",
+      "shopid": "ako-455d55-paypay-voucher"
+    },
+    {
+      "name": "ダイソー 赤穂店",
+      "address": "赤穂市 塩屋字寺田285",
+      "storeid": "ako-be4a50",
+      "shopid": "ako-be4a50-paypay-voucher"
+    },
+    {
+      "name": "フレスポ赤穂店",
+      "address": "赤穂市 中広2-8フレスポ赤穂内",
+      "storeid": "ako-e16ec8",
+      "shopid": "ako-e16ec8-paypay-voucher"
+    },
+    {
+      "name": "CHIKI CHIKI",
+      "address": "赤穂市 加里屋 44-7",
+      "storeid": "ako-65c479",
+      "shopid": "ako-65c479-paypay-voucher"
+    },
+    {
+      "name": "AiL by Cherish",
+      "address": "赤穂市 砂子 204-1",
+      "storeid": "ako-73914f",
+      "shopid": "ako-73914f-paypay-voucher"
+    },
+    {
+      "name": "Hair Cherish",
+      "address": "赤穂市 寿町 7-7",
+      "storeid": "ako-201e6a",
+      "shopid": "ako-201e6a-paypay-voucher"
+    },
+    {
+      "name": "茶舗わかさ",
+      "address": "赤穂市 加里屋 56-3",
+      "storeid": "ako-f828a7",
+      "shopid": "ako-f828a7-paypay-voucher"
+    },
+    {
+      "name": "中國菜 有道理",
+      "address": "赤穂市 加里屋中洲五丁目33番地 前川ビル1階3号室",
+      "storeid": "ako-6fb148",
+      "shopid": "ako-6fb148-paypay-voucher"
+    },
+    {
+      "name": "彫脳ドライヘッドセラピーHIYON",
+      "address": "赤穂市 清水町 10-26",
+      "storeid": "ako-7d304b",
+      "shopid": "ako-7d304b-paypay-voucher"
+    },
+    {
+      "name": "月の宿MISAKI",
+      "address": "赤穂市 御崎151-3",
+      "storeid": "ako-9c35e4",
+      "shopid": "ako-9c35e4-paypay-voucher"
+    },
+    {
+      "name": "津村呉服店",
+      "address": "赤穂市 加里屋 58-3",
+      "storeid": "ako-f62ac3",
+      "shopid": "ako-f62ac3-paypay-voucher"
+    },
+    {
+      "name": "テイスティー",
+      "address": "赤穂市 上仮屋 北2-16",
+      "storeid": "ako-072601",
+      "shopid": "ako-072601-paypay-voucher"
+    },
+    {
+      "name": "伝馬船",
+      "address": "赤穂市 坂越 2175",
+      "storeid": "ako-c1460d",
+      "shopid": "ako-c1460d-paypay-voucher"
+    },
+    {
+      "name": "天馬らぁめん 赤穂総本店",
+      "address": "赤穂市 尾崎3158-69",
+      "storeid": "ako-7de0a4",
+      "shopid": "ako-7de0a4-paypay-voucher"
+    },
+    {
+      "name": "播州赤穂駅前",
+      "address": "赤穂市 加里屋30-19",
+      "storeid": "ako-e79b0d",
+      "shopid": "ako-e79b0d-paypay-voucher"
+    },
+    {
+      "name": "トータルインテリアセルビー",
+      "address": "赤穂市 六百目町 8",
+      "storeid": "ako-b5dc69",
+      "shopid": "ako-b5dc69-paypay-voucher"
+    },
+    {
+      "name": "トマトアンドオニオン赤穂店",
+      "address": "赤穂市 尾崎字明神木 3161-14",
+      "storeid": "ako-f9c5bc",
+      "shopid": "ako-f9c5bc-paypay-voucher"
+    },
+    {
+      "name": "大手門前店",
+      "address": "赤穂市 上仮屋南 2-13",
+      "storeid": "ako-48d86f",
+      "shopid": "ako-48d86f-paypay-voucher"
+    },
+    {
+      "name": "ともや手芸店",
+      "address": "赤穂市 加里屋 2069",
+      "storeid": "ako-274694",
+      "shopid": "ako-274694-paypay-voucher"
+    },
+    {
+      "name": "トヨタカローラ姫路 赤穂店",
+      "address": "赤穂市 加里屋25-1",
+      "storeid": "ako-99119a",
+      "shopid": "ako-99119a-paypay-voucher"
+    },
+    {
+      "name": "播州赤穂店",
+      "address": "赤穂市 加里屋字駅前町31-8 スエマサビル2階",
+      "storeid": "ako-ce70f0",
+      "shopid": "ako-ce70f0-paypay-voucher"
+    },
+    {
+      "name": "鳥焼肉ナカスチキン",
+      "address": "赤穂市 加里屋中洲3-21",
+      "storeid": "ako-512e96",
+      "shopid": "ako-512e96-paypay-voucher"
+    },
+    {
+      "name": "TORO",
+      "address": "赤穂市 坂越1540",
+      "storeid": "ako-6e095f",
+      "shopid": "ako-6e095f-paypay-voucher"
+    },
+    {
+      "name": "ドリーム カントリー",
+      "address": "赤穂市 木津1066-1",
+      "storeid": "ako-50f1d1",
+      "shopid": "ako-50f1d1-paypay-voucher"
+    },
+    {
+      "name": "フロント",
+      "address": "赤穂市 御崎 131番地",
+      "storeid": "ako-3ace0d",
+      "shopid": "ako-3ace0d-paypay-voucher"
+    },
+    {
+      "name": "ナフコ 赤穂店",
+      "address": "赤穂市 中広1239",
+      "storeid": "ako-a33a85",
+      "shopid": "ako-a33a85-paypay-voucher"
+    },
+    {
+      "name": "南大門赤穂店",
+      "address": "赤穂市 若草町134-3",
+      "storeid": "ako-b4ea9e",
+      "shopid": "ako-b4ea9e-paypay-voucher"
+    },
+    {
+      "name": "フレスポ赤穂店",
+      "address": "赤穂市 中広2-8",
+      "storeid": "ako-c6af3c",
+      "shopid": "ako-c6af3c-paypay-voucher"
+    },
+    {
+      "name": "農家のおむすび米",
+      "address": "赤穂市 木津334番地",
+      "storeid": "ako-8f12dd",
+      "shopid": "ako-8f12dd-paypay-voucher"
+    },
+    {
+      "name": "nonki picnic",
+      "address": "赤穂市 坂越2190",
+      "storeid": "ako-36a960",
+      "shopid": "ako-36a960-paypay-voucher"
+    },
+    {
+      "name": "紡木",
+      "address": "赤穂市 坂越 2061",
+      "storeid": "ako-71e10e",
+      "shopid": "ako-71e10e-paypay-voucher"
+    },
+    {
+      "name": "暖木",
+      "address": "赤穂市 坂越 2022",
+      "storeid": "ako-96d1f1",
+      "shopid": "ako-96d1f1-paypay-voucher"
+    },
+    {
+      "name": "白十字 赤穂店",
+      "address": "赤穂市 加里屋中洲2丁目53-2",
+      "storeid": "ako-05c711",
+      "shopid": "ako-05c711-paypay-voucher"
+    },
+    {
+      "name": "はしっこぱん",
+      "address": "赤穂市 元禄橋町33",
+      "storeid": "ako-066762",
+      "shopid": "ako-066762-paypay-voucher"
+    },
+    {
+      "name": "田中花店",
+      "address": "赤穂市 加里屋中洲4-29",
+      "storeid": "ako-6ab50a",
+      "shopid": "ako-6ab50a-paypay-voucher"
+    },
+    {
+      "name": "花工房",
+      "address": "赤穂市 加里屋2205",
+      "storeid": "ako-6e2969",
+      "shopid": "ako-6e2969-paypay-voucher"
+    },
+    {
+      "name": "ハニーズ 赤穂店",
+      "address": "赤穂市 中広字別所55-3 イオン焼津SC2F",
+      "storeid": "ako-e1848d",
+      "shopid": "ako-e1848d-paypay-voucher"
+    },
+    {
+      "name": "はるやま赤穂店",
+      "address": "赤穂市 中広島田169-2",
+      "storeid": "ako-a5f615",
+      "shopid": "ako-a5f615-paypay-voucher"
+    },
+    {
+      "name": "播州赤穂 翁",
+      "address": "赤穂市 上仮屋北4ー4 播州赤穂古民家",
+      "storeid": "ako-13265d",
+      "shopid": "ako-13265d-paypay-voucher"
+    },
+    {
+      "name": "イオン赤穂校",
+      "address": "赤穂市 中広55-3 イオン赤穂店2階",
+      "storeid": "ako-50653d",
+      "shopid": "ako-50653d-paypay-voucher"
+    },
+    {
+      "name": "パソコン教室まるとも",
+      "address": "赤穂市 加里屋 2164-46",
+      "storeid": "ako-5761c4",
+      "shopid": "ako-5761c4-paypay-voucher"
+    },
+    {
+      "name": "Passo",
+      "address": "赤穂市 中広 148番地11",
+      "storeid": "ako-914d62",
+      "shopid": "ako-914d62-paypay-voucher"
+    },
+    {
+      "name": "パティスリーノア",
+      "address": "赤穂市 惣門町 55-13番地",
+      "storeid": "ako-de06f5",
+      "shopid": "ako-de06f5-paypay-voucher"
+    },
+    {
+      "name": "イベント用",
+      "address": "赤穂市 砂子157",
+      "storeid": "ako-4abf32",
+      "shopid": "ako-4abf32-paypay-voucher"
+    },
+    {
+      "name": "ひょうご憩の宿 赤穂ハイツ",
+      "address": "赤穂市 尾崎向山 2470-64",
+      "storeid": "ako-79484c",
+      "shopid": "ako-79484c-paypay-voucher"
+    },
+    {
+      "name": "beauty salon teon",
+      "address": "赤穂市 元町 3-16 赤穂駅前ガーデン201",
+      "storeid": "ako-029014",
+      "shopid": "ako-029014-paypay-voucher"
+    },
+    {
+      "name": "美容室OHANA",
+      "address": "赤穂市 寿町 7-4",
+      "storeid": "ako-8ca225",
+      "shopid": "ako-8ca225-paypay-voucher"
+    },
+    {
+      "name": "PEACOCK",
+      "address": "赤穂市 加里屋 2196-1",
+      "storeid": "ako-4f6365",
+      "shopid": "ako-4f6365-paypay-voucher"
+    },
+    {
+      "name": "29-ふく-",
+      "address": "赤穂市 加里屋65-18",
+      "storeid": "ako-a1ed90",
+      "shopid": "ako-a1ed90-paypay-voucher"
+    },
+    {
+      "name": "フランス菓子 ラ・セーヌ",
+      "address": "赤穂市 加里屋69-8",
+      "storeid": "ako-0a6939",
+      "shopid": "ako-0a6939-paypay-voucher"
+    },
+    {
+      "name": "赤穂尾崎",
+      "address": "赤穂市 中浜町12-12",
+      "storeid": "ako-825836",
+      "shopid": "ako-825836-paypay-voucher"
+    },
+    {
+      "name": "ブライヤゲート",
+      "address": "赤穂市 東浜町 68-1",
+      "storeid": "ako-036c5f",
+      "shopid": "ako-036c5f-paypay-voucher"
+    },
+    {
+      "name": "ブリヂストンタイヤショップ坂本ゴム工業所",
+      "address": "赤穂市 加里屋 32番2号",
+      "storeid": "ako-e1fbb4",
+      "shopid": "ako-e1fbb4-paypay-voucher"
+    },
+    {
+      "name": "bliss",
+      "address": "赤穂市 加里屋 52-2",
+      "storeid": "ako-ad471b",
+      "shopid": "ako-ad471b-paypay-voucher"
+    },
+    {
+      "name": "文楽 赤穂店",
+      "address": "赤穂市 朝日町 16-3",
+      "storeid": "ako-ac9fe7",
+      "shopid": "ako-ac9fe7-paypay-voucher"
+    },
+    {
+      "name": "プラット赤穂シネマ",
+      "address": "赤穂市 加里屋290ー10",
+      "storeid": "ako-e7fa61",
+      "shopid": "ako-e7fa61-paypay-voucher"
+    },
+    {
+      "name": "Placeおさべ",
+      "address": "赤穂市 加里屋 46-5",
+      "storeid": "ako-fb514b",
+      "shopid": "ako-fb514b-paypay-voucher"
+    },
+    {
+      "name": "Hair Atelier PLayfuL",
+      "address": "赤穂市 加里屋中洲 4-1",
+      "storeid": "ako-60b46c",
+      "shopid": "ako-60b46c-paypay-voucher"
+    },
+    {
+      "name": "ヘアーメイクワシントン(ワシントン美容室) 赤穂店",
+      "address": "赤穂市 加里屋南 6-2",
+      "storeid": "ako-fa6267",
+      "shopid": "ako-fa6267-paypay-voucher"
+    },
+    {
+      "name": "ヘアーワークショップオール",
+      "address": "赤穂市 大町4-7",
+      "storeid": "ako-1e4a60",
+      "shopid": "ako-1e4a60-paypay-voucher"
+    },
+    {
+      "name": "Hair&NailRICHE",
+      "address": "赤穂市 海浜町 55-2",
+      "storeid": "ako-a5f808",
+      "shopid": "ako-a5f808-paypay-voucher"
+    },
+    {
+      "name": "Hair Salon +PLUS",
+      "address": "赤穂市 大町 10-26",
+      "storeid": "ako-811967",
+      "shopid": "ako-811967-paypay-voucher"
+    },
+    {
+      "name": "HAIR Shangri-la MATSUBARA",
+      "address": "赤穂市 大津 225",
+      "storeid": "ako-988dd8",
+      "shopid": "ako-988dd8-paypay-voucher"
+    },
+    {
+      "name": "Hair Stadium",
+      "address": "赤穂市 新田 164-1",
+      "storeid": "ako-f97365",
+      "shopid": "ako-f97365-paypay-voucher"
+    },
+    {
+      "name": "ヘアスタジオIK赤穂",
+      "address": "赤穂市 加里屋 290-10",
+      "storeid": "ako-103d6a",
+      "shopid": "ako-103d6a-paypay-voucher"
+    },
+    {
+      "name": "HairStudioBerry",
+      "address": "赤穂市 加里屋2072-10",
+      "storeid": "ako-4f57b8",
+      "shopid": "ako-4f57b8-paypay-voucher"
+    },
+    {
+      "name": "Hair Design Jill",
+      "address": "赤穂市 中広839-1",
+      "storeid": "ako-53d458",
+      "shopid": "ako-53d458-paypay-voucher"
+    },
+    {
+      "name": "北京楼",
+      "address": "赤穂市 加里屋南1-41",
+      "storeid": "ako-b76249",
+      "shopid": "ako-b76249-paypay-voucher"
+    },
+    {
+      "name": "ホームドライせんたく館",
+      "address": "赤穂市 加里屋中洲 1-22",
+      "storeid": "ako-73e4e2",
+      "shopid": "ako-73e4e2-paypay-voucher"
+    },
+    {
+      "name": "ほっぺたぱん",
+      "address": "赤穂市 加里屋 2204-1",
+      "storeid": "ako-724c4f",
+      "shopid": "ako-724c4f-paypay-voucher"
+    },
+    {
+      "name": "ホテル 山長",
+      "address": "赤穂市 加里屋お城通り 1729-5 ホテル山長 HOTELYAMACHOU",
+      "storeid": "ako-26b858",
+      "shopid": "ako-26b858-paypay-voucher"
+    },
+    {
+      "name": "本家かまどや赤穂西店",
+      "address": "赤穂市 黒崎町 194",
+      "storeid": "ako-c7b386",
+      "shopid": "ako-c7b386-paypay-voucher"
+    },
+    {
+      "name": "HondaCars赤穂 赤穂店",
+      "address": "赤穂市 新田7",
+      "storeid": "ako-454214",
+      "shopid": "ako-454214-paypay-voucher"
+    },
+    {
+      "name": "m-alama・hair(マーラマヘアー)",
+      "address": "赤穂市 加里屋 2013-14",
+      "storeid": "ako-4476f9",
+      "shopid": "ako-4476f9-paypay-voucher"
+    },
+    {
+      "name": "赤穂インターSS",
+      "address": "赤穂市 新田字大津道の下680-1",
+      "storeid": "ako-83c56d",
+      "shopid": "ako-83c56d-paypay-voucher"
+    },
+    {
+      "name": "赤穂東SS",
+      "address": "赤穂市 加里屋中洲1丁目1-1",
+      "storeid": "ako-125e82",
+      "shopid": "ako-125e82-paypay-voucher"
+    },
+    {
+      "name": "本社",
+      "address": "赤穂市 中広 179番地の6",
+      "storeid": "ako-17df98",
+      "shopid": "ako-17df98-paypay-voucher"
+    },
+    {
+      "name": "Mother",
+      "address": "赤穂市 加里屋 54-7",
+      "storeid": "ako-4136f2",
+      "shopid": "ako-4136f2-paypay-voucher"
+    },
+    {
+      "name": "まねきや",
+      "address": "赤穂市 加里屋67-10 マリンンビル1F",
+      "storeid": "ako-7d4514",
+      "shopid": "ako-7d4514-paypay-voucher"
+    },
+    {
+      "name": "まるおファーム",
+      "address": "赤穂市 中広 1830-2",
+      "storeid": "ako-1fbbac",
+      "shopid": "ako-1fbbac-paypay-voucher"
+    },
+    {
+      "name": "万るやま",
+      "address": "赤穂市 加里屋74-13",
+      "storeid": "ako-d867fc",
+      "shopid": "ako-d867fc-paypay-voucher"
+    },
+    {
+      "name": "MiuiM",
+      "address": "赤穂市 加里屋290-10 プラット赤穂201",
+      "storeid": "ako-e5e7b5",
+      "shopid": "ako-e5e7b5-paypay-voucher"
+    },
+    {
+      "name": "御崎ガラス舎",
+      "address": "赤穂市 御崎 2-1-1",
+      "storeid": "ako-c0a246",
+      "shopid": "ako-c0a246-paypay-voucher"
+    },
+    {
+      "name": "事務所",
+      "address": "赤穂市 中広 142-46",
+      "storeid": "ako-3a4a82",
+      "shopid": "ako-3a4a82-paypay-voucher"
+    },
+    {
+      "name": "ミスターバーク赤穂店",
+      "address": "赤穂市 東浜町 91",
+      "storeid": "ako-cac545",
+      "shopid": "ako-cac545-paypay-voucher"
+    },
+    {
+      "name": "メルショップ赤穂",
+      "address": "赤穂市 鷆和 651",
+      "storeid": "ako-66cc60",
+      "shopid": "ako-66cc60-paypay-voucher"
+    },
+    {
+      "name": "明星 赤穂SS",
+      "address": "赤穂市 城西町125",
+      "storeid": "ako-4d65e1",
+      "shopid": "ako-4d65e1-paypay-voucher"
+    },
+    {
+      "name": "未来屋書店赤穂",
+      "address": "赤穂市 中広55-3 イオン赤穂店2F",
+      "storeid": "ako-6a7af0",
+      "shopid": "ako-6a7af0-paypay-voucher"
+    },
+    {
+      "name": "MiLK",
+      "address": "赤穂市 加里屋 56-9",
+      "storeid": "ako-a23b7f",
+      "shopid": "ako-a23b7f-paypay-voucher"
+    },
+    {
+      "name": "民宿・レストラン 初音",
+      "address": "赤穂市 新田599-1",
+      "storeid": "ako-1f0174",
+      "shopid": "ako-1f0174-paypay-voucher"
+    },
+    {
+      "name": "Meilll hair【メイルヘアー】",
+      "address": "赤穂市 城西町 43",
+      "storeid": "ako-00025f",
+      "shopid": "ako-00025f-paypay-voucher"
+    },
+    {
+      "name": "めーらーさぷなー",
+      "address": "赤穂市 加里屋 290-10",
+      "storeid": "ako-8279bd",
+      "shopid": "ako-8279bd-paypay-voucher"
+    },
+    {
+      "name": "眼鏡市場赤穂",
+      "address": "赤穂市 加里屋新町100-10",
+      "storeid": "ako-d227c5",
+      "shopid": "ako-d227c5-paypay-voucher"
+    },
+    {
+      "name": "メガネストアー赤穂",
+      "address": "赤穂市 中広2-13",
+      "storeid": "ako-ef6308",
+      "shopid": "ako-ef6308-paypay-voucher"
+    },
+    {
+      "name": "メガネの中西",
+      "address": "赤穂市 加里屋駅前町 53-4",
+      "storeid": "ako-3b3fd4",
+      "shopid": "ako-3b3fd4-paypay-voucher"
+    },
+    {
+      "name": "かき氷 滴",
+      "address": "赤穂市 加里屋 63−2",
+      "storeid": "ako-afc566",
+      "shopid": "ako-afc566-paypay-voucher"
+    },
+    {
+      "name": "モスバーガー 赤穂店",
+      "address": "赤穂市 加里屋97-7",
+      "storeid": "ako-53dc62",
+      "shopid": "ako-53dc62-paypay-voucher"
+    },
+    {
+      "name": "MOMOCAFE",
+      "address": "赤穂市 上仮屋北 4-4",
+      "storeid": "ako-41c15c",
+      "shopid": "ako-41c15c-paypay-voucher"
+    },
+    {
+      "name": "魚民 播州赤穂南口駅前店",
+      "address": "赤穂市 加里屋290-10",
+      "storeid": "ako-74a2d5",
+      "shopid": "ako-74a2d5-paypay-voucher"
+    },
+    {
+      "name": "焼肉味楽",
+      "address": "赤穂市 加里屋 68-23",
+      "storeid": "ako-9ad418",
+      "shopid": "ako-9ad418-paypay-voucher"
+    },
+    {
+      "name": "焼肉秀吉 赤穂店",
+      "address": "赤穂市 黒崎町211",
+      "storeid": "ako-b8f61c",
+      "shopid": "ako-b8f61c-paypay-voucher"
+    },
+    {
+      "name": "しょくどうえん",
+      "address": "赤穂市 加里屋 44-13",
+      "storeid": "ako-89e842",
+      "shopid": "ako-89e842-paypay-voucher"
+    },
+    {
+      "name": "やの写真館",
+      "address": "赤穂市 加里屋 79番地8",
+      "storeid": "ako-ab0d7b",
+      "shopid": "ako-ab0d7b-paypay-voucher"
+    },
+    {
+      "name": "ヤマダデンキ 赤穂店",
+      "address": "赤穂市 加里屋中洲2-12",
+      "storeid": "ako-27aab2",
+      "shopid": "ako-27aab2-paypay-voucher"
+    },
+    {
+      "name": "赤穂営業所(赤穂城西)",
+      "address": "赤穂市 新田555-4",
+      "storeid": "ako-068648",
+      "shopid": "ako-068648-paypay-voucher"
+    },
+    {
+      "name": "有限会社 室井電機",
+      "address": "赤穂市 加里屋 2201",
+      "storeid": "ako-8d1184",
+      "shopid": "ako-8d1184-paypay-voucher"
+    },
+    {
+      "name": "YOU SHOP タナカ",
+      "address": "赤穂市 尾崎 3154-15",
+      "storeid": "ako-f44326",
+      "shopid": "ako-f44326-paypay-voucher"
+    },
+    {
+      "name": "ユニクロ 赤穂店",
+      "address": "赤穂市 加里屋中洲1丁目11番",
+      "storeid": "ako-010402",
+      "shopid": "ako-010402-paypay-voucher"
+    },
+    {
+      "name": "ゆんたくカフェ",
+      "address": "赤穂市 福浦2346",
+      "storeid": "ako-718a0e",
+      "shopid": "ako-718a0e-paypay-voucher"
+    },
+    {
+      "name": "ゆんるり",
+      "address": "赤穂市 坂越 1694-3",
+      "storeid": "ako-460a49",
+      "shopid": "ako-460a49-paypay-voucher"
+    },
+    {
+      "name": "来来亭 赤穂店",
+      "address": "赤穂市 塩屋 264-1",
+      "storeid": "ako-257aac",
+      "shopid": "ako-257aac-paypay-voucher"
+    },
+    {
+      "name": "La chic",
+      "address": "赤穂市 浜市 573-1",
+      "storeid": "ako-f2648f",
+      "shopid": "ako-f2648f-paypay-voucher"
+    },
+    {
+      "name": "LOVE&JOY",
+      "address": "赤穂市 加里屋 67-10 マリンビル1F",
+      "storeid": "ako-c5d1e8",
+      "shopid": "ako-c5d1e8-paypay-voucher"
+    },
+    {
+      "name": "リバーサイドテラスSEN",
+      "address": "赤穂市 中広 262-5-2F",
+      "storeid": "ako-7bd2ab",
+      "shopid": "ako-7bd2ab-paypay-voucher"
+    },
+    {
+      "name": "理容プラージュ 赤穂店",
+      "address": "赤穂市 新田28",
+      "storeid": "ako-0441fe",
+      "shopid": "ako-0441fe-paypay-voucher"
+    },
+    {
+      "name": "レーヴ",
+      "address": "赤穂市 黒崎町 107",
+      "storeid": "ako-13444c",
+      "shopid": "ako-13444c-paypay-voucher"
+    },
+    {
+      "name": "ChicThing",
+      "address": "赤穂市 上仮屋南 17-1 奥野第2ビル1F東",
+      "storeid": "ako-2c1f93",
+      "shopid": "ako-2c1f93-paypay-voucher"
+    },
+    {
+      "name": "煉瓦屋R",
+      "address": "赤穂市 加里屋 47-14 104",
+      "storeid": "ako-ab32b9",
+      "shopid": "ako-ab32b9-paypay-voucher"
+    },
+    {
+      "name": "イオン赤穂",
+      "address": "赤穂市 中広字別所55ー3",
+      "storeid": "ako-a2dc87",
+      "shopid": "ako-a2dc87-paypay-voucher"
+    },
+    {
+      "name": "和伊和伊",
+      "address": "赤穂市 惣門町 52-1",
+      "storeid": "ako-0d9657",
+      "shopid": "ako-0d9657-paypay-voucher"
+    },
+    {
+      "name": "和田クリーニング店",
+      "address": "赤穂市 加里屋中洲 5-38",
+      "storeid": "ako-af0e73",
+      "shopid": "ako-af0e73-paypay-voucher"
+    }
+  ]
+}

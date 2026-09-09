@@ -65,6 +65,9 @@ export default function SupportButton({ shopid, initialLikes, initialLiked }: Pr
   useEffect(() => {
     // 両方の初期値が親から渡された場合、Supabase クエリを完全スキップ
     if (initialLikes !== undefined && initialLiked !== undefined) {
+      setLikes(initialLikes);
+      setLiked(initialLiked);
+      setIsLimit(initialLikes >= 10);
       setReady(true);
       return;
     }
@@ -117,7 +120,7 @@ export default function SupportButton({ shopid, initialLikes, initialLiked }: Pr
     }
 
     // ❤️ 押せるけど通信しない：上限だけを弾く
-    if (isLimit) {
+    if (isLimit && !liked) {
       toast.error("このお店は応援上限に達しています。他のお店を応援してね。");
       return; // ← 通信させない！
     }
@@ -154,6 +157,8 @@ export default function SupportButton({ shopid, initialLikes, initialLiked }: Pr
     <button
       onClick={handleClick}
       disabled={pending || !ready} // ← 上限では無効化しない！
+      aria-label={`${liked ? "応援を取り消す" : "この店舗を応援する"}：${shopid}`}
+      aria-pressed={liked}
       aria-disabled={pending || !ready}
       className={`flex items-center space-x-1 transition
         ${liked ? "bg-pink-100 text-pink-600" : "bg-gray-100 text-gray-600"}

@@ -26,6 +26,7 @@ const brandPriority: Record<string, number> = {
   dbarai: 3, // ← 修正
   aupay: 4,
   aeonpay: 5,
+  paydon: 6,
 };
 
 export default function CampaignsContent() {

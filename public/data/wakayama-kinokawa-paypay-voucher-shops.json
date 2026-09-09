@@ -1,0 +1,1198 @@
+{
+  "美容室・サロンなど": [
+    {
+      "name": "3-HEARTS",
+      "address": "紀の川市下井阪104",
+      "storeid": "kinokawa-5286a9",
+      "shopid": "kinokawa-5286a9-paypay-voucher"
+    },
+    {
+      "name": "excellent MOVE",
+      "address": "紀の川市上野77",
+      "storeid": "kinokawa-715a5b",
+      "shopid": "kinokawa-715a5b-paypay-voucher"
+    },
+    {
+      "name": "エステティックサロン縁",
+      "address": "紀の川市尾崎87-13",
+      "storeid": "kinokawa-06e68f",
+      "shopid": "kinokawa-06e68f-paypay-voucher"
+    },
+    {
+      "name": "エステルーム麗宝",
+      "address": "紀の川市東国分407-13",
+      "storeid": "kinokawa-1bf250",
+      "shopid": "kinokawa-1bf250-paypay-voucher"
+    },
+    {
+      "name": "エステルーム麗宝打田店",
+      "address": "紀の川市東国分407-13",
+      "storeid": "kinokawa-5ddb90",
+      "shopid": "kinokawa-5ddb90-paypay-voucher"
+    },
+    {
+      "name": "グラスヘアー",
+      "address": "紀の川市上野118-1",
+      "storeid": "kinokawa-2cd747",
+      "shopid": "kinokawa-2cd747-paypay-voucher"
+    },
+    {
+      "name": "ドクターネイル爪革命和歌山",
+      "address": "紀の川市下井阪455-3グリーンビュー八王子",
+      "storeid": "kinokawa-9969de",
+      "shopid": "kinokawa-9969de-paypay-voucher"
+    },
+    {
+      "name": "有限会社 トップスカンパニー",
+      "address": "紀の川市南中167-2",
+      "storeid": "kinokawa-37790a",
+      "shopid": "kinokawa-37790a-paypay-voucher"
+    },
+    {
+      "name": "BAR BER KATSUMASA",
+      "address": "紀の川市貴志川町神戸784-1",
+      "storeid": "kinokawa-991cf3",
+      "shopid": "kinokawa-991cf3-paypay-voucher"
+    },
+    {
+      "name": "RISE hair",
+      "address": "紀の川市貴志川町長原101-1",
+      "storeid": "kinokawa-79c4bd",
+      "shopid": "kinokawa-79c4bd-paypay-voucher"
+    },
+    {
+      "name": "toilo",
+      "address": "紀の川市貴志川町北山520-1",
+      "storeid": "kinokawa-698fce",
+      "shopid": "kinokawa-698fce-paypay-voucher"
+    },
+    {
+      "name": "カットクラブオズ",
+      "address": "紀の川市貴志川町井ノ口453-15",
+      "storeid": "kinokawa-537abd",
+      "shopid": "kinokawa-537abd-paypay-voucher"
+    },
+    {
+      "name": "カットハウス ザ・ガーデン",
+      "address": "紀の川市貴志川町長原245-3",
+      "storeid": "kinokawa-185d67",
+      "shopid": "kinokawa-185d67-paypay-voucher"
+    },
+    {
+      "name": "ヘアーサロン サンエート",
+      "address": "紀の川市貴志川町長原496-1",
+      "storeid": "kinokawa-fc6a4e",
+      "shopid": "kinokawa-fc6a4e-paypay-voucher"
+    },
+    {
+      "name": "ヘアーズビエイド",
+      "address": "紀の川市貴志川町神戸1023-2",
+      "storeid": "kinokawa-c64cfa",
+      "shopid": "kinokawa-c64cfa-paypay-voucher"
+    },
+    {
+      "name": "ムー美容室",
+      "address": "紀の川市貴志川町井ノ口844-1",
+      "storeid": "kinokawa-16c7b3",
+      "shopid": "kinokawa-16c7b3-paypay-voucher"
+    },
+    {
+      "name": "姿勢矯正 克正",
+      "address": "紀の川市貴志川町岸宮764-1",
+      "storeid": "kinokawa-43023c",
+      "shopid": "kinokawa-43023c-paypay-voucher"
+    },
+    {
+      "name": "CUT CLUB SHINJI",
+      "address": "紀の川市粉河1901-17",
+      "storeid": "kinokawa-754279",
+      "shopid": "kinokawa-754279-paypay-voucher"
+    },
+    {
+      "name": "Hair Produce ALive",
+      "address": "紀の川市粉河940-1",
+      "storeid": "kinokawa-4747fd",
+      "shopid": "kinokawa-4747fd-paypay-voucher"
+    },
+    {
+      "name": "マジックカット",
+      "address": "紀の川市粉河509-5",
+      "storeid": "kinokawa-7627a7",
+      "shopid": "kinokawa-7627a7-paypay-voucher"
+    },
+    {
+      "name": "メナードフェイシャルサロン ミント",
+      "address": "紀の川市馬宿684",
+      "storeid": "kinokawa-da0ae3",
+      "shopid": "kinokawa-da0ae3-paypay-voucher"
+    },
+    {
+      "name": "Y’shair YAMADA",
+      "address": "紀の川市北涌473-5",
+      "storeid": "kinokawa-fcf963",
+      "shopid": "kinokawa-fcf963-paypay-voucher"
+    },
+    {
+      "name": "ティアラ美容室",
+      "address": "紀の川市王子29-5",
+      "storeid": "kinokawa-0c5d1e",
+      "shopid": "kinokawa-0c5d1e-paypay-voucher"
+    },
+    {
+      "name": "ハウスクリーニングアンサー",
+      "address": "紀の川市名手西野377-1",
+      "storeid": "kinokawa-3c154d",
+      "shopid": "kinokawa-3c154d-paypay-voucher"
+    },
+    {
+      "name": "ヘアーサロン林",
+      "address": "紀の川市北涌509-12",
+      "storeid": "kinokawa-6e8ece",
+      "shopid": "kinokawa-6e8ece-paypay-voucher"
+    },
+    {
+      "name": "hair room 和",
+      "address": "紀の川市桃山町調月343-5",
+      "storeid": "kinokawa-54089b",
+      "shopid": "kinokawa-54089b-paypay-voucher"
+    },
+    {
+      "name": "理容モード",
+      "address": "紀の川市桃山町元309",
+      "storeid": "kinokawa-8e5a4d",
+      "shopid": "kinokawa-8e5a4d-paypay-voucher"
+    }
+  ],
+  "飲食店": [
+    {
+      "name": "BIRDCALL FIELD",
+      "address": "紀の川市古和田499-1",
+      "storeid": "kinokawa-86e4bd",
+      "shopid": "kinokawa-86e4bd-paypay-voucher"
+    },
+    {
+      "name": "BREADYS よつばベーカリー",
+      "address": "紀の川市打田1296-1",
+      "storeid": "kinokawa-efb2a1",
+      "shopid": "kinokawa-efb2a1-paypay-voucher"
+    },
+    {
+      "name": "LIFE",
+      "address": "紀の川市下井阪455-3グリーンビュー八王子102号室",
+      "storeid": "kinokawa-ae8989",
+      "shopid": "kinokawa-ae8989-paypay-voucher"
+    },
+    {
+      "name": "yummy",
+      "address": "紀の川市東国分539-1",
+      "storeid": "kinokawa-bca1a1",
+      "shopid": "kinokawa-bca1a1-paypay-voucher"
+    },
+    {
+      "name": "いわつるfam.",
+      "address": "紀の川市赤尾340-5",
+      "storeid": "kinokawa-5e32b1",
+      "shopid": "kinokawa-5e32b1-paypay-voucher"
+    },
+    {
+      "name": "おふくろ弁当紀ノ川",
+      "address": "紀の川市打田299",
+      "storeid": "kinokawa-4679c2",
+      "shopid": "kinokawa-4679c2-paypay-voucher"
+    },
+    {
+      "name": "としキッチン 紀北店",
+      "address": "紀の川市畑野上166-8",
+      "storeid": "kinokawa-821bc1",
+      "shopid": "kinokawa-821bc1-paypay-voucher"
+    },
+    {
+      "name": "パン・ド・パニエ",
+      "address": "紀の川市西大井143-6",
+      "storeid": "kinokawa-218d6a",
+      "shopid": "kinokawa-218d6a-paypay-voucher"
+    },
+    {
+      "name": "リトルキッチン",
+      "address": "紀の川市打田827-1",
+      "storeid": "kinokawa-5e1af2",
+      "shopid": "kinokawa-5e1af2-paypay-voucher"
+    },
+    {
+      "name": "ローランドホリデー",
+      "address": "紀の川市打田1478-2",
+      "storeid": "kinokawa-52f802",
+      "shopid": "kinokawa-52f802-paypay-voucher"
+    },
+    {
+      "name": "喫茶雅園",
+      "address": "紀の川市西大井143-6",
+      "storeid": "kinokawa-b4d2c5",
+      "shopid": "kinokawa-b4d2c5-paypay-voucher"
+    },
+    {
+      "name": "御料理 竹屋",
+      "address": "紀の川市下井阪473-1",
+      "storeid": "kinokawa-28518e",
+      "shopid": "kinokawa-28518e-paypay-voucher"
+    },
+    {
+      "name": "御料理・仕出し・岩鶴屋",
+      "address": "紀の川市中三谷127",
+      "storeid": "kinokawa-e620b1",
+      "shopid": "kinokawa-e620b1-paypay-voucher"
+    },
+    {
+      "name": "自家焙煎シーソーコーヒー",
+      "address": "紀の川市東大井348",
+      "storeid": "kinokawa-c56c3e",
+      "shopid": "kinokawa-c56c3e-paypay-voucher"
+    },
+    {
+      "name": "炭火焼肉惠命園",
+      "address": "紀の川市東三谷158-7",
+      "storeid": "kinokawa-8f0057",
+      "shopid": "kinokawa-8f0057-paypay-voucher"
+    },
+    {
+      "name": "麺彩工房ふる里",
+      "address": "紀の川市打田21-1",
+      "storeid": "kinokawa-c20c08",
+      "shopid": "kinokawa-c20c08-paypay-voucher"
+    },
+    {
+      "name": "cafe しおん",
+      "address": "紀の川市貴志川町神戸802",
+      "storeid": "kinokawa-0b05ca",
+      "shopid": "kinokawa-0b05ca-paypay-voucher"
+    },
+    {
+      "name": "COPAIN コパン",
+      "address": "紀の川市貴志川町北山515-1",
+      "storeid": "kinokawa-b45d54",
+      "shopid": "kinokawa-b45d54-paypay-voucher"
+    },
+    {
+      "name": "うてび",
+      "address": "紀の川市貴志川町長山277-47",
+      "storeid": "kinokawa-325217",
+      "shopid": "kinokawa-325217-paypay-voucher"
+    },
+    {
+      "name": "ハーブカフェ まあとみい",
+      "address": "紀の川市貴志川町国主173-2",
+      "storeid": "kinokawa-79c54f",
+      "shopid": "kinokawa-79c54f-paypay-voucher"
+    },
+    {
+      "name": "ハトバコーヒー",
+      "address": "紀の川市貴志川町長原102-5",
+      "storeid": "kinokawa-e98c49",
+      "shopid": "kinokawa-e98c49-paypay-voucher"
+    },
+    {
+      "name": "やきとり鳥こ",
+      "address": "紀の川市貴志川町長原130-2",
+      "storeid": "kinokawa-3e396d",
+      "shopid": "kinokawa-3e396d-paypay-voucher"
+    },
+    {
+      "name": "焼肉一八",
+      "address": "紀の川市貴志川町神戸767-2",
+      "storeid": "kinokawa-acb7bd",
+      "shopid": "kinokawa-acb7bd-paypay-voucher"
+    },
+    {
+      "name": "中華料理 孝司",
+      "address": "紀の川市貴志川町北山516-2",
+      "storeid": "kinokawa-6cf6af",
+      "shopid": "kinokawa-6cf6af-paypay-voucher"
+    },
+    {
+      "name": "中国料理ふくふく",
+      "address": "紀の川市貴志川町神戸1023-2",
+      "storeid": "kinokawa-81d750",
+      "shopid": "kinokawa-81d750-paypay-voucher"
+    },
+    {
+      "name": "料理旅館 大池荘",
+      "address": "紀の川市貴志川町長山1287-1",
+      "storeid": "kinokawa-5edf0f",
+      "shopid": "kinokawa-5edf0f-paypay-voucher"
+    },
+    {
+      "name": "KII",
+      "address": "紀の川市粉河1107-5",
+      "storeid": "kinokawa-688a61",
+      "shopid": "kinokawa-688a61-paypay-voucher"
+    },
+    {
+      "name": "MIKASAKAN 三笠館カフェ",
+      "address": "紀の川市粉河2086",
+      "storeid": "kinokawa-d40a79",
+      "shopid": "kinokawa-d40a79-paypay-voucher"
+    },
+    {
+      "name": "SNACKえっちゃん",
+      "address": "紀の川市嶋142-1",
+      "storeid": "kinokawa-ea89b3",
+      "shopid": "kinokawa-ea89b3-paypay-voucher"
+    },
+    {
+      "name": "あしたの家族",
+      "address": "紀の川市深田72-1",
+      "storeid": "kinokawa-d441d2",
+      "shopid": "kinokawa-d441d2-paypay-voucher"
+    },
+    {
+      "name": "うなカフェ555",
+      "address": "紀の川市粉河74-1",
+      "storeid": "kinokawa-b103c7",
+      "shopid": "kinokawa-b103c7-paypay-voucher"
+    },
+    {
+      "name": "お食事処ふみ",
+      "address": "紀の川市東野64",
+      "storeid": "kinokawa-4c1259",
+      "shopid": "kinokawa-4c1259-paypay-voucher"
+    },
+    {
+      "name": "ホカベン屋 DOCATI.",
+      "address": "紀の川市粉河938-1",
+      "storeid": "kinokawa-fd76b6",
+      "shopid": "kinokawa-fd76b6-paypay-voucher"
+    },
+    {
+      "name": "まる乕本店",
+      "address": "紀の川市粉河1797",
+      "storeid": "kinokawa-d56bda",
+      "shopid": "kinokawa-d56bda-paypay-voucher"
+    },
+    {
+      "name": "ユーカリット",
+      "address": "紀の川市南志野644",
+      "storeid": "kinokawa-a794d3",
+      "shopid": "kinokawa-a794d3-paypay-voucher"
+    },
+    {
+      "name": "薗田商店",
+      "address": "紀の川市馬宿775",
+      "storeid": "kinokawa-8448b4",
+      "shopid": "kinokawa-8448b4-paypay-voucher"
+    },
+    {
+      "name": "観音山フルーツパーラー",
+      "address": "紀の川市粉河3186-126",
+      "storeid": "kinokawa-71965e",
+      "shopid": "kinokawa-71965e-paypay-voucher"
+    },
+    {
+      "name": "桃の木",
+      "address": "紀の川市嶋142-1阪本テナント内",
+      "storeid": "kinokawa-5a3d6e",
+      "shopid": "kinokawa-5a3d6e-paypay-voucher"
+    },
+    {
+      "name": "福太郎",
+      "address": "紀の川市粉河980-1",
+      "storeid": "kinokawa-d676b8",
+      "shopid": "kinokawa-d676b8-paypay-voucher"
+    },
+    {
+      "name": "力寿し",
+      "address": "紀の川市粉河10-6",
+      "storeid": "kinokawa-b33b3f",
+      "shopid": "kinokawa-b33b3f-paypay-voucher"
+    },
+    {
+      "name": "bistronomie palm",
+      "address": "紀の川市名手西野363",
+      "storeid": "kinokawa-704d4b",
+      "shopid": "kinokawa-704d4b-paypay-voucher"
+    },
+    {
+      "name": "mulino",
+      "address": "紀の川市平野927",
+      "storeid": "kinokawa-d35884",
+      "shopid": "kinokawa-d35884-paypay-voucher"
+    },
+    {
+      "name": "風車 オープンカフェ風車",
+      "address": "紀の川市平野927",
+      "storeid": "kinokawa-4d39b4",
+      "shopid": "kinokawa-4d39b4-paypay-voucher"
+    },
+    {
+      "name": "カフェ&レスト サンスイ",
+      "address": "紀の川市藤崎341",
+      "storeid": "kinokawa-de94f8",
+      "shopid": "kinokawa-de94f8-paypay-voucher"
+    },
+    {
+      "name": "すし和歌",
+      "address": "紀の川市名手市場51-2",
+      "storeid": "kinokawa-5107a1",
+      "shopid": "kinokawa-5107a1-paypay-voucher"
+    },
+    {
+      "name": "スナック夢蘭",
+      "address": "紀の川市名手市場1296-1",
+      "storeid": "kinokawa-dfde83",
+      "shopid": "kinokawa-dfde83-paypay-voucher"
+    },
+    {
+      "name": "だいちゃんスタンド",
+      "address": "紀の川市名手西野363",
+      "storeid": "kinokawa-079334",
+      "shopid": "kinokawa-079334-paypay-voucher"
+    },
+    {
+      "name": "ミートショップニシイ",
+      "address": "紀の川市名手市場1433",
+      "storeid": "kinokawa-e535f7",
+      "shopid": "kinokawa-e535f7-paypay-voucher"
+    },
+    {
+      "name": "りんでんばあむ",
+      "address": "紀の川市名手市場1535-2",
+      "storeid": "kinokawa-d8889b",
+      "shopid": "kinokawa-d8889b-paypay-voucher"
+    },
+    {
+      "name": "喫茶まどか",
+      "address": "紀の川市名手西野290",
+      "storeid": "kinokawa-790633",
+      "shopid": "kinokawa-790633-paypay-voucher"
+    },
+    {
+      "name": "旬彩バイキング和音",
+      "address": "紀の川市西野山473道の駅青洲の里",
+      "storeid": "kinokawa-c6db46",
+      "shopid": "kinokawa-c6db46-paypay-voucher"
+    },
+    {
+      "name": "二代目 よなきや",
+      "address": "紀の川市藤崎268",
+      "storeid": "kinokawa-e1b853",
+      "shopid": "kinokawa-e1b853-paypay-voucher"
+    },
+    {
+      "name": "不二家 名手店",
+      "address": "紀の川市名手市場154",
+      "storeid": "kinokawa-4d0d7f",
+      "shopid": "kinokawa-4d0d7f-paypay-voucher"
+    },
+    {
+      "name": "Copain de Fromage",
+      "address": "紀の川市桃山町調月769-136",
+      "storeid": "kinokawa-164c7f",
+      "shopid": "kinokawa-164c7f-paypay-voucher"
+    },
+    {
+      "name": "momoyamastand",
+      "address": "紀の川市桃山町元118-3",
+      "storeid": "kinokawa-ef0795",
+      "shopid": "kinokawa-ef0795-paypay-voucher"
+    },
+    {
+      "name": "PUO market",
+      "address": "紀の川市桃山町調月903",
+      "storeid": "kinokawa-5c6a05",
+      "shopid": "kinokawa-5c6a05-paypay-voucher"
+    },
+    {
+      "name": "じゅげむ",
+      "address": "紀の川市桃山町元319-1",
+      "storeid": "kinokawa-f88765",
+      "shopid": "kinokawa-f88765-paypay-voucher"
+    },
+    {
+      "name": "メゾン フルリール",
+      "address": "紀の川市桃山町市場309-2",
+      "storeid": "kinokawa-3b2329",
+      "shopid": "kinokawa-3b2329-paypay-voucher"
+    },
+    {
+      "name": "ももやまらぐまん",
+      "address": "紀の川市桃山町調月92-8",
+      "storeid": "kinokawa-53f01b",
+      "shopid": "kinokawa-53f01b-paypay-voucher"
+    },
+    {
+      "name": "モモンスター",
+      "address": "紀の川市桃山町市場526-9",
+      "storeid": "kinokawa-f47d24",
+      "shopid": "kinokawa-f47d24-paypay-voucher"
+    },
+    {
+      "name": "根来商店",
+      "address": "紀の川市桃山町神田179",
+      "storeid": "kinokawa-1ac82c",
+      "shopid": "kinokawa-1ac82c-paypay-voucher"
+    },
+    {
+      "name": "藤桃庵",
+      "address": "紀の川市桃山町元901",
+      "storeid": "kinokawa-171968",
+      "shopid": "kinokawa-171968-paypay-voucher"
+    },
+    {
+      "name": "B.G.M",
+      "address": "紀の川市桃山町最上158-3",
+      "storeid": "kinokawa-ec8501",
+      "shopid": "kinokawa-ec8501-paypay-voucher"
+    }
+  ],
+  "車": [
+    {
+      "name": "GARAGE ASK",
+      "address": "紀の川市中井阪359-1",
+      "storeid": "kinokawa-c92de9",
+      "shopid": "kinokawa-c92de9-paypay-voucher"
+    },
+    {
+      "name": "那賀自動車",
+      "address": "紀の川市尾﨑185-1",
+      "storeid": "kinokawa-531ece",
+      "shopid": "kinokawa-531ece-paypay-voucher"
+    },
+    {
+      "name": "ミスタータイヤマンとみはら店",
+      "address": "紀の川市打田63-1",
+      "storeid": "kinokawa-1faf29",
+      "shopid": "kinokawa-1faf29-paypay-voucher"
+    },
+    {
+      "name": "AUTO SALON 貴志川",
+      "address": "紀の川市貴志川町長山277-112",
+      "storeid": "kinokawa-2c7013",
+      "shopid": "kinokawa-2c7013-paypay-voucher"
+    },
+    {
+      "name": "ミスタータイヤマンM-Tech",
+      "address": "紀の川市貴志川町北山516-3",
+      "storeid": "kinokawa-24581e",
+      "shopid": "kinokawa-24581e-paypay-voucher"
+    },
+    {
+      "name": "有限会社キタハラオート",
+      "address": "紀の川市貴志川町長山125-3",
+      "storeid": "kinokawa-6d24ff",
+      "shopid": "kinokawa-6d24ff-paypay-voucher"
+    },
+    {
+      "name": "光貴自動車 貴志川店",
+      "address": "紀の川市貴志川町国主293-12",
+      "storeid": "kinokawa-2273eb",
+      "shopid": "kinokawa-2273eb-paypay-voucher"
+    },
+    {
+      "name": "Car Auto ヤマダ",
+      "address": "紀の川市東野67-1",
+      "storeid": "kinokawa-d48e11",
+      "shopid": "kinokawa-d48e11-paypay-voucher"
+    },
+    {
+      "name": "River field motor",
+      "address": "紀の川市粉河3523-1",
+      "storeid": "kinokawa-4206f0",
+      "shopid": "kinokawa-4206f0-paypay-voucher"
+    },
+    {
+      "name": "カーショップカネタ",
+      "address": "紀の川市深田102-2",
+      "storeid": "kinokawa-fe41b1",
+      "shopid": "kinokawa-fe41b1-paypay-voucher"
+    },
+    {
+      "name": "ダイハツプラザ紀の川",
+      "address": "紀の川市粉河784-7",
+      "storeid": "kinokawa-ac9e5e",
+      "shopid": "kinokawa-ac9e5e-paypay-voucher"
+    },
+    {
+      "name": "熊井自動車長田店",
+      "address": "紀の川市北長田93-1",
+      "storeid": "kinokawa-16cb26",
+      "shopid": "kinokawa-16cb26-paypay-voucher"
+    },
+    {
+      "name": "兼崎自動車整備工場",
+      "address": "紀の川市粉河331-2",
+      "storeid": "kinokawa-288c86",
+      "shopid": "kinokawa-288c86-paypay-voucher"
+    },
+    {
+      "name": "大谷自動車",
+      "address": "紀の川市深田77-2",
+      "storeid": "kinokawa-623145",
+      "shopid": "kinokawa-623145-paypay-voucher"
+    },
+    {
+      "name": "ANNY AUTO",
+      "address": "紀の川市西脇529-1",
+      "storeid": "kinokawa-49c688",
+      "shopid": "kinokawa-49c688-paypay-voucher"
+    },
+    {
+      "name": "BUZZ STYLE",
+      "address": "紀の川市江川中425-2",
+      "storeid": "kinokawa-89d249",
+      "shopid": "kinokawa-89d249-paypay-voucher"
+    },
+    {
+      "name": "I’S GAREGE",
+      "address": "紀の川市後田28-5",
+      "storeid": "kinokawa-95206a",
+      "shopid": "kinokawa-95206a-paypay-voucher"
+    },
+    {
+      "name": "農協自動車",
+      "address": "紀の川市西脇176-6",
+      "storeid": "kinokawa-8ce3a8",
+      "shopid": "kinokawa-8ce3a8-paypay-voucher"
+    },
+    {
+      "name": "平川自転車店 平川モータース",
+      "address": "紀の川市名手市場108",
+      "storeid": "kinokawa-0e277c",
+      "shopid": "kinokawa-0e277c-paypay-voucher"
+    },
+    {
+      "name": "西本自動車",
+      "address": "紀の川市名手市場292",
+      "storeid": "kinokawa-e99e35",
+      "shopid": "kinokawa-e99e35-paypay-voucher"
+    },
+    {
+      "name": "AUTO SALON 桃山",
+      "address": "紀の川市桃山町調月1239-1",
+      "storeid": "kinokawa-efe99d",
+      "shopid": "kinokawa-efe99d-paypay-voucher"
+    },
+    {
+      "name": "桃山オートセンター",
+      "address": "紀の川市桃山町元69-1",
+      "storeid": "kinokawa-e8147c",
+      "shopid": "kinokawa-e8147c-paypay-voucher"
+    }
+  ],
+  "各種小売": [
+    {
+      "name": "インテリア早水 ホビーショップはやみず",
+      "address": "紀の川市打田293-1",
+      "storeid": "kinokawa-0228b7",
+      "shopid": "kinokawa-0228b7-paypay-voucher"
+    },
+    {
+      "name": "かたやま農園",
+      "address": "紀の川市上野92-14",
+      "storeid": "kinokawa-c369c6",
+      "shopid": "kinokawa-c369c6-paypay-voucher"
+    },
+    {
+      "name": "カメレオン笑店",
+      "address": "紀の川市北大井45-2",
+      "storeid": "kinokawa-a685bc",
+      "shopid": "kinokawa-a685bc-paypay-voucher"
+    },
+    {
+      "name": "下津商店 せせらぎ整体院",
+      "address": "紀の川市中三谷86-1",
+      "storeid": "kinokawa-5d6668",
+      "shopid": "kinokawa-5d6668-paypay-voucher"
+    },
+    {
+      "name": "昌和無線株式会社",
+      "address": "紀の川市西大井84",
+      "storeid": "kinokawa-0fe2df",
+      "shopid": "kinokawa-0fe2df-paypay-voucher"
+    },
+    {
+      "name": "ビユテイショップ木村",
+      "address": "紀の川市打田391",
+      "storeid": "kinokawa-20345c",
+      "shopid": "kinokawa-20345c-paypay-voucher"
+    },
+    {
+      "name": "フタバ屋 着楽館FUTABA",
+      "address": "紀の川市西大井337-1着楽館FUTABA",
+      "storeid": "kinokawa-d7be9c",
+      "shopid": "kinokawa-d7be9c-paypay-voucher"
+    },
+    {
+      "name": "ヤマ三商会",
+      "address": "紀の川市東大井210-1",
+      "storeid": "kinokawa-5fb521",
+      "shopid": "kinokawa-5fb521-paypay-voucher"
+    },
+    {
+      "name": "宇田化粧品店",
+      "address": "紀の川市西大井94-1",
+      "storeid": "kinokawa-e9fbea",
+      "shopid": "kinokawa-e9fbea-paypay-voucher"
+    },
+    {
+      "name": "酒の紀の川",
+      "address": "紀の川市西大井342-4",
+      "storeid": "kinokawa-4d507b",
+      "shopid": "kinokawa-4d507b-paypay-voucher"
+    },
+    {
+      "name": "早水畳店",
+      "address": "紀の川市打田293-1",
+      "storeid": "kinokawa-20b97f",
+      "shopid": "kinokawa-20b97f-paypay-voucher"
+    },
+    {
+      "name": "大上石油店 打田サービスステーション",
+      "address": "紀の川市中井阪103",
+      "storeid": "kinokawa-4af683",
+      "shopid": "kinokawa-4af683-paypay-voucher"
+    },
+    {
+      "name": "薬局きい",
+      "address": "紀の川市打田19-11",
+      "storeid": "kinokawa-0486ad",
+      "shopid": "kinokawa-0486ad-paypay-voucher"
+    },
+    {
+      "name": "サンドウ",
+      "address": "紀の川市貴志川町神戸535-3",
+      "storeid": "kinokawa-0d4391",
+      "shopid": "kinokawa-0d4391-paypay-voucher"
+    },
+    {
+      "name": "宝紀工房",
+      "address": "紀の川市貴志川町長山277-633",
+      "storeid": "kinokawa-01438b",
+      "shopid": "kinokawa-01438b-paypay-voucher"
+    },
+    {
+      "name": "ナカジ(中治)",
+      "address": "紀の川市貴志川町国主67",
+      "storeid": "kinokawa-59e981",
+      "shopid": "kinokawa-59e981-paypay-voucher"
+    },
+    {
+      "name": "まるよ サラダ館貴志川店",
+      "address": "紀の川市貴志川町前田232-1",
+      "storeid": "kinokawa-994b4f",
+      "shopid": "kinokawa-994b4f-paypay-voucher"
+    },
+    {
+      "name": "ヤマト企画印刷",
+      "address": "紀の川市貴志川町長原563-5",
+      "storeid": "kinokawa-aef6fe",
+      "shopid": "kinokawa-aef6fe-paypay-voucher"
+    },
+    {
+      "name": "吉村商事",
+      "address": "紀の川市貴志川町国主41",
+      "storeid": "kinokawa-917deb",
+      "shopid": "kinokawa-917deb-paypay-voucher"
+    },
+    {
+      "name": "山田商店【プロパンガス販売】",
+      "address": "紀の川市貴志川町井ノ口430-1",
+      "storeid": "kinokawa-314da8",
+      "shopid": "kinokawa-314da8-paypay-voucher"
+    },
+    {
+      "name": "自然食品の店 しおん",
+      "address": "紀の川市貴志川町神戸802",
+      "storeid": "kinokawa-5a5af6",
+      "shopid": "kinokawa-5a5af6-paypay-voucher"
+    },
+    {
+      "name": "写真のイズミ",
+      "address": "紀の川市貴志川町神戸354-1",
+      "storeid": "kinokawa-9f00a7",
+      "shopid": "kinokawa-9f00a7-paypay-voucher"
+    },
+    {
+      "name": "寝装の店 いわた",
+      "address": "紀の川市貴志川町北山722-2",
+      "storeid": "kinokawa-4c468f",
+      "shopid": "kinokawa-4c468f-paypay-voucher"
+    },
+    {
+      "name": "西川化粧品店",
+      "address": "紀の川市貴志川町神戸343-5",
+      "storeid": "kinokawa-6ae1d2",
+      "shopid": "kinokawa-6ae1d2-paypay-voucher"
+    },
+    {
+      "name": "西川商店",
+      "address": "紀の川市貴志川町神戸446",
+      "storeid": "kinokawa-5e35aa",
+      "shopid": "kinokawa-5e35aa-paypay-voucher"
+    },
+    {
+      "name": "中西ミシン商会",
+      "address": "紀の川市貴志川町神戸335",
+      "storeid": "kinokawa-f1ed8f",
+      "shopid": "kinokawa-f1ed8f-paypay-voucher"
+    },
+    {
+      "name": "長谷川石油店",
+      "address": "紀の川市貴志川町上野山269",
+      "storeid": "kinokawa-1dd441",
+      "shopid": "kinokawa-1dd441-paypay-voucher"
+    },
+    {
+      "name": "白山写真館",
+      "address": "紀の川市貴志川町長原246-7",
+      "storeid": "kinokawa-8d4bbe",
+      "shopid": "kinokawa-8d4bbe-paypay-voucher"
+    },
+    {
+      "name": "北山正積商店",
+      "address": "紀の川市貴志川町丸栖517",
+      "storeid": "kinokawa-bd1209",
+      "shopid": "kinokawa-bd1209-paypay-voucher"
+    },
+    {
+      "name": "Ksマートちからや",
+      "address": "紀の川市粉河1805",
+      "storeid": "kinokawa-52c7ad",
+      "shopid": "kinokawa-52c7ad-paypay-voucher"
+    },
+    {
+      "name": "Yショップ粉河どい",
+      "address": "紀の川市風市84-1",
+      "storeid": "kinokawa-337e0a",
+      "shopid": "kinokawa-337e0a-paypay-voucher"
+    },
+    {
+      "name": "きしと貴志酒店",
+      "address": "紀の川市粉河1733",
+      "storeid": "kinokawa-78fe48",
+      "shopid": "kinokawa-78fe48-paypay-voucher"
+    },
+    {
+      "name": "粉河ガス",
+      "address": "紀の川市粉河1759-6",
+      "storeid": "kinokawa-39fafb",
+      "shopid": "kinokawa-39fafb-paypay-voucher"
+    },
+    {
+      "name": "サクセム",
+      "address": "紀の川市北長田130",
+      "storeid": "kinokawa-ea8485",
+      "shopid": "kinokawa-ea8485-paypay-voucher"
+    },
+    {
+      "name": "野崎米穀店",
+      "address": "紀の川市嶋11",
+      "storeid": "kinokawa-162a2b",
+      "shopid": "kinokawa-162a2b-paypay-voucher"
+    },
+    {
+      "name": "まるた呉服店",
+      "address": "紀の川市粉河1796",
+      "storeid": "kinokawa-8b415e",
+      "shopid": "kinokawa-8b415e-paypay-voucher"
+    },
+    {
+      "name": "みふく薬局粉河店",
+      "address": "紀の川市粉河420-2",
+      "storeid": "kinokawa-ef9e53",
+      "shopid": "kinokawa-ef9e53-paypay-voucher"
+    },
+    {
+      "name": "有限会社楠酒販サラダ館粉河店",
+      "address": "紀の川市粉河2141",
+      "storeid": "kinokawa-52b1c5",
+      "shopid": "kinokawa-52b1c5-paypay-voucher"
+    },
+    {
+      "name": "渦川農園 直売店",
+      "address": "紀の川市松井136-1",
+      "storeid": "kinokawa-045a59",
+      "shopid": "kinokawa-045a59-paypay-voucher"
+    },
+    {
+      "name": "恩賀建材株式会社",
+      "address": "紀の川市粉河410-2",
+      "storeid": "kinokawa-45a18d",
+      "shopid": "kinokawa-45a18d-paypay-voucher"
+    },
+    {
+      "name": "株式会社おかい商店",
+      "address": "紀の川市粉河517-6",
+      "storeid": "kinokawa-725cbf",
+      "shopid": "kinokawa-725cbf-paypay-voucher"
+    },
+    {
+      "name": "観光特産センターこかわ",
+      "address": "紀の川市粉河2046-1",
+      "storeid": "kinokawa-e8d2a9",
+      "shopid": "kinokawa-e8d2a9-paypay-voucher"
+    },
+    {
+      "name": "紀州武道具店",
+      "address": "紀の川市粉河1799",
+      "storeid": "kinokawa-3f3ab4",
+      "shopid": "kinokawa-3f3ab4-paypay-voucher"
+    },
+    {
+      "name": "紀和石油",
+      "address": "紀の川市粉河784-1",
+      "storeid": "kinokawa-a59b42",
+      "shopid": "kinokawa-a59b42-paypay-voucher"
+    },
+    {
+      "name": "金尾製薬株式会社 薬局部",
+      "address": "紀の川市粉河845",
+      "storeid": "kinokawa-5f5533",
+      "shopid": "kinokawa-5f5533-paypay-voucher"
+    },
+    {
+      "name": "小畑種苗店 小畑商店",
+      "address": "紀の川市粉河1760-2",
+      "storeid": "kinokawa-955837",
+      "shopid": "kinokawa-955837-paypay-voucher"
+    },
+    {
+      "name": "西山化粧品店 エステ西山化粧品店",
+      "address": "紀の川市粉河2108-1",
+      "storeid": "kinokawa-0871d6",
+      "shopid": "kinokawa-0871d6-paypay-voucher"
+    },
+    {
+      "name": "青柳産業",
+      "address": "紀の川市粉河816",
+      "storeid": "kinokawa-b35e1b",
+      "shopid": "kinokawa-b35e1b-paypay-voucher"
+    },
+    {
+      "name": "大西電設株式会社",
+      "address": "紀の川市粉河410-7",
+      "storeid": "kinokawa-b8c993",
+      "shopid": "kinokawa-b8c993-paypay-voucher"
+    },
+    {
+      "name": "中井農機店",
+      "address": "紀の川市北長田107",
+      "storeid": "kinokawa-4e7cbf",
+      "shopid": "kinokawa-4e7cbf-paypay-voucher"
+    },
+    {
+      "name": "鳥居カメラ",
+      "address": "紀の川市粉河1524-8",
+      "storeid": "kinokawa-06bc55",
+      "shopid": "kinokawa-06bc55-paypay-voucher"
+    },
+    {
+      "name": "シューズショップサカイ",
+      "address": "紀の川市名手市場153",
+      "storeid": "kinokawa-a15aaf",
+      "shopid": "kinokawa-a15aaf-paypay-voucher"
+    },
+    {
+      "name": "スミレ化粧品店",
+      "address": "紀の川市名手市場112",
+      "storeid": "kinokawa-6a304a",
+      "shopid": "kinokawa-6a304a-paypay-voucher"
+    },
+    {
+      "name": "フォトスタジオワカミズ",
+      "address": "紀の川市名手市場651-1",
+      "storeid": "kinokawa-3424e9",
+      "shopid": "kinokawa-3424e9-paypay-voucher"
+    },
+    {
+      "name": "メガネのクスノキ",
+      "address": "紀の川市名手西野286-3",
+      "storeid": "kinokawa-83587c",
+      "shopid": "kinokawa-83587c-paypay-voucher"
+    },
+    {
+      "name": "竹田燃料店",
+      "address": "紀の川市名手市場1064",
+      "storeid": "kinokawa-4be10b",
+      "shopid": "kinokawa-4be10b-paypay-voucher"
+    },
+    {
+      "name": "中村時計メガネ店",
+      "address": "紀の川市名手市場127",
+      "storeid": "kinokawa-7ca5d5",
+      "shopid": "kinokawa-7ca5d5-paypay-voucher"
+    },
+    {
+      "name": "道の駅青洲の里",
+      "address": "紀の川市西野山473",
+      "storeid": "kinokawa-d17b55",
+      "shopid": "kinokawa-d17b55-paypay-voucher"
+    },
+    {
+      "name": "片山燃料店",
+      "address": "紀の川市名手市場557-9",
+      "storeid": "kinokawa-28acb3",
+      "shopid": "kinokawa-28acb3-paypay-voucher"
+    },
+    {
+      "name": "マルミ農園",
+      "address": "紀の川市桃山町段新田456",
+      "storeid": "kinokawa-ab663e",
+      "shopid": "kinokawa-ab663e-paypay-voucher"
+    },
+    {
+      "name": "まるよ サラダ館桃山店",
+      "address": "紀の川市桃山町市場72-1",
+      "storeid": "kinokawa-6b630b",
+      "shopid": "kinokawa-6b630b-paypay-voucher"
+    },
+    {
+      "name": "みふく薬局",
+      "address": "紀の川市桃山町元361-1第一ビル1階",
+      "storeid": "kinokawa-bf1560",
+      "shopid": "kinokawa-bf1560-paypay-voucher"
+    },
+    {
+      "name": "有限会社宮村石油店",
+      "address": "紀の川市桃山町元289",
+      "storeid": "kinokawa-35a5dd",
+      "shopid": "kinokawa-35a5dd-paypay-voucher"
+    },
+    {
+      "name": "わかさや商店",
+      "address": "紀の川市桃山町元404-9",
+      "storeid": "kinokawa-486df5",
+      "shopid": "kinokawa-486df5-paypay-voucher"
+    },
+    {
+      "name": "村上養蜂",
+      "address": "紀の川市桃山町調月586-1",
+      "storeid": "kinokawa-eea698",
+      "shopid": "kinokawa-eea698-paypay-voucher"
+    },
+    {
+      "name": "大西農園",
+      "address": "紀の川市桃山町最上223-3大西農園",
+      "storeid": "kinokawa-d9b761",
+      "shopid": "kinokawa-d9b761-paypay-voucher"
+    },
+    {
+      "name": "八旗農園 事務所",
+      "address": "紀の川市桃山町元266-3",
+      "storeid": "kinokawa-d402bd",
+      "shopid": "kinokawa-d402bd-paypay-voucher"
+    },
+    {
+      "name": "八旗農園 直売所",
+      "address": "紀の川市桃山町最上640-1",
+      "storeid": "kinokawa-2bd596",
+      "shopid": "kinokawa-2bd596-paypay-voucher"
+    },
+    {
+      "name": "有限会社山田電業社",
+      "address": "紀の川市桃山町市場175",
+      "storeid": "kinokawa-8e5687",
+      "shopid": "kinokawa-8e5687-paypay-voucher"
+    }
+  ],
+  "サービス": [
+    {
+      "name": "うめもと鍼灸整骨院",
+      "address": "紀の川市西大井84",
+      "storeid": "kinokawa-2b1c66",
+      "shopid": "kinokawa-2b1c66-paypay-voucher"
+    },
+    {
+      "name": "ペットメモリアル紀の川",
+      "address": "紀の川市東国分435-2",
+      "storeid": "kinokawa-248407",
+      "shopid": "kinokawa-248407-paypay-voucher"
+    },
+    {
+      "name": "進学教室 トーセミ 貴志川教室",
+      "address": "紀の川市貴志川町長原1037-4",
+      "storeid": "kinokawa-d6580d",
+      "shopid": "kinokawa-d6580d-paypay-voucher"
+    },
+    {
+      "name": "千田木工所",
+      "address": "紀の川市荒見670-6",
+      "storeid": "kinokawa-010b2e",
+      "shopid": "kinokawa-010b2e-paypay-voucher"
+    },
+    {
+      "name": "株式会社 三貴 開運夢工房",
+      "address": "紀の川市荒見757-1",
+      "storeid": "kinokawa-519dbd",
+      "shopid": "kinokawa-519dbd-paypay-voucher"
+    },
+    {
+      "name": "斎藤税理士・行政書士事務所",
+      "address": "紀の川市荒見1309-725",
+      "storeid": "kinokawa-8b5dc9",
+      "shopid": "kinokawa-8b5dc9-paypay-voucher"
+    },
+    {
+      "name": "なが整骨院 鍼灸院",
+      "address": "紀の川市北涌526-6",
+      "storeid": "kinokawa-a13885",
+      "shopid": "kinokawa-a13885-paypay-voucher"
+    },
+    {
+      "name": "宮本電設",
+      "address": "紀の川市平野850",
+      "storeid": "kinokawa-355f67",
+      "shopid": "kinokawa-355f67-paypay-voucher"
+    },
+    {
+      "name": "農協レンタリース",
+      "address": "紀の川市西脇176-6",
+      "storeid": "kinokawa-4cc021",
+      "shopid": "kinokawa-4cc021-paypay-voucher"
+    }
+  ],
+  "建設": [
+    {
+      "name": "前川組",
+      "address": "紀の川市久留壁180",
+      "storeid": "kinokawa-6deecb",
+      "shopid": "kinokawa-6deecb-paypay-voucher"
+    },
+    {
+      "name": "コーキ建設",
+      "address": "紀の川市貴志川町長山30-4",
+      "storeid": "kinokawa-79b84b",
+      "shopid": "kinokawa-79b84b-paypay-voucher"
+    },
+    {
+      "name": "湯山工務店",
+      "address": "紀の川市貴志川町尼寺81-1",
+      "storeid": "kinokawa-b797bd",
+      "shopid": "kinokawa-b797bd-paypay-voucher"
+    },
+    {
+      "name": "仁井田電機",
+      "address": "紀の川市桃山町神田126-2",
+      "storeid": "kinokawa-f6a4ca",
+      "shopid": "kinokawa-f6a4ca-paypay-voucher"
+    },
+    {
+      "name": "西前瓦産業株式会社",
+      "address": "紀の川市桃山町最上563",
+      "storeid": "kinokawa-53d2ac",
+      "shopid": "kinokawa-53d2ac-paypay-voucher"
+    },
+    {
+      "name": "林工業所",
+      "address": "紀の川市桃山町元409-4",
+      "storeid": "kinokawa-724e29",
+      "shopid": "kinokawa-724e29-paypay-voucher"
+    }
+  ],
+  "宿泊": [
+    {
+      "name": "丸浅旅館",
+      "address": "紀の川市粉河2071-1",
+      "storeid": "kinokawa-26495e",
+      "shopid": "kinokawa-26495e-paypay-voucher"
+    }
+  ]
+}
