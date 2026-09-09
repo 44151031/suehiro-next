@@ -5,623 +5,969 @@
       "address": "富田林市梅の里1-3-1",
       "storeid": "tondabayashi-9721c0",
       "shopid": "tondabayashi-9721c0-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "美容室 ポパイ&オリーブ",
       "address": "富田林市梅の里4-9-2",
       "storeid": "tondabayashi-4450e9",
       "shopid": "tondabayashi-4450e9-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ea hair studio",
       "address": "富田林市喜志町1-12-20",
       "storeid": "tondabayashi-9f052a",
       "shopid": "tondabayashi-9f052a-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "eyelash N-Lian",
       "address": "富田林市喜志町2-2-23松田ビル2階",
       "storeid": "tondabayashi-97f36d",
       "shopid": "tondabayashi-97f36d-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "CSONE plus",
       "address": "富田林市喜志町3-11-1",
       "storeid": "tondabayashi-7fca9d",
       "shopid": "tondabayashi-7fca9d-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ハレ",
       "address": "富田林市喜志町3-11-2りんごビル1階",
       "storeid": "tondabayashi-8dfe78",
       "shopid": "tondabayashi-8dfe78-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "男爵喜志店",
       "address": "富田林市喜志町3-1-38",
       "storeid": "tondabayashi-476def",
       "shopid": "tondabayashi-476def-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "aile riche",
       "address": "富田林市喜志町3-2-5",
       "storeid": "tondabayashi-5d873f",
       "shopid": "tondabayashi-5d873f-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "FLAG喜志店",
       "address": "富田林市喜志町3-4-27",
       "storeid": "tondabayashi-07d3c2",
       "shopid": "tondabayashi-07d3c2-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "美容室ZOOM 喜志店",
       "address": "富田林市喜志町3-7-5-103藤和喜志ハイタウン1F",
       "storeid": "tondabayashi-ab5566",
       "shopid": "tondabayashi-ab5566-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "eyelashsaloncoco",
       "address": "富田林市喜志町5-1-17SAMURAIマンション408号",
       "storeid": "tondabayashi-7f6f02",
       "shopid": "tondabayashi-7f6f02-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "souriant",
       "address": "富田林市喜志町5-1-1エムズマンション103",
       "storeid": "tondabayashi-9bf17f",
       "shopid": "tondabayashi-9bf17f-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "IWAI美容室 喜志店",
       "address": "富田林市喜志町5-1-2エイトビル3階",
       "storeid": "tondabayashi-70ac57",
       "shopid": "tondabayashi-70ac57-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Re:Beau",
       "address": "富田林市喜志町5-1-3",
       "storeid": "tondabayashi-bb84c9",
       "shopid": "tondabayashi-bb84c9-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ビューティーサロン アート",
       "address": "富田林市喜志町5-1-9",
       "storeid": "tondabayashi-c90cc6",
       "shopid": "tondabayashi-c90cc6-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "jambox.",
       "address": "富田林市喜志町5-2-11アンメゾンド喜志101",
       "storeid": "tondabayashi-8eb4c2",
       "shopid": "tondabayashi-8eb4c2-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Lunoa",
       "address": "富田林市喜志町5-4-44喜志マンション103号室",
       "storeid": "tondabayashi-422a00",
       "shopid": "tondabayashi-422a00-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "FULL A HEAD",
       "address": "富田林市旭ケ丘町10-24ラ・フェスタ喜志1F",
       "storeid": "tondabayashi-391c7f",
       "shopid": "tondabayashi-391c7f-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Yippee!hair",
       "address": "富田林市旭ケ丘町10-25-16",
       "storeid": "tondabayashi-477b4b",
       "shopid": "tondabayashi-477b4b-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "月夜に浮かぶ君のまつげ LILY LASH",
       "address": "富田林市南旭ケ丘町23",
       "storeid": "tondabayashi-8c4bc6",
       "shopid": "tondabayashi-8c4bc6-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "太田屋理容館",
       "address": "富田林市若松町1-13-5",
       "storeid": "tondabayashi-9b05f4",
       "shopid": "tondabayashi-9b05f4-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "理容プラージュ 富田林店",
       "address": "富田林市若松町1-5-15",
       "storeid": "tondabayashi-82f9e4",
       "shopid": "tondabayashi-82f9e4-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "美容プラージュ 富田林店",
       "address": "富田林市若松町2-2-13",
       "storeid": "tondabayashi-cb8efb",
       "shopid": "tondabayashi-cb8efb-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "moa+eyelash",
       "address": "富田林市若松町2-2-13",
       "storeid": "tondabayashi-79e46e",
       "shopid": "tondabayashi-79e46e-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "アート オブ スペース",
       "address": "富田林市若松町2-2-15",
       "storeid": "tondabayashi-471e6b",
       "shopid": "tondabayashi-471e6b-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "salon LH 富田林店",
       "address": "富田林市若松町西1-1182-1麻野ビル1F",
       "storeid": "tondabayashi-f71b27",
       "shopid": "tondabayashi-f71b27-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "リル・ヘアー",
       "address": "富田林市若松町西1-1807-1",
       "storeid": "tondabayashi-c9afb2",
       "shopid": "tondabayashi-c9afb2-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Agu hair kafka 富田林",
       "address": "富田林市若松町西1-1886-3トトロッソレジデンス1-D",
       "storeid": "tondabayashi-4c3256",
       "shopid": "tondabayashi-4c3256-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "IWAI美容室 富田林店",
       "address": "富田林市若松町西1-1888-1",
       "storeid": "tondabayashi-0003df",
       "shopid": "tondabayashi-0003df-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "aile ciel",
       "address": "富田林市若松町西1-1898-2",
       "storeid": "tondabayashi-060c39",
       "shopid": "tondabayashi-060c39-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "lulu CHARIS",
       "address": "富田林市若松町西1903-1",
       "storeid": "tondabayashi-7df83f",
       "shopid": "tondabayashi-7df83f-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "CHURA BLANC Ventus(理容)",
       "address": "富田林市若松町西2-1734-2セブンフロアハイツ1B",
       "storeid": "tondabayashi-cf7e94",
       "shopid": "tondabayashi-cf7e94-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "LIG",
       "address": "富田林市寿町2-10-32",
       "storeid": "tondabayashi-811d2e",
       "shopid": "tondabayashi-811d2e-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "カトルズヘアー",
       "address": "富田林市常盤町3-13イングスビル101",
       "storeid": "tondabayashi-413315",
       "shopid": "tondabayashi-413315-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ricerca",
       "address": "富田林市常盤町6-3杉田ビル2階",
       "storeid": "tondabayashi-94faae",
       "shopid": "tondabayashi-94faae-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "美容室 studio Oggi",
       "address": "富田林市谷川町5-14101",
       "storeid": "tondabayashi-69b1b9",
       "shopid": "tondabayashi-69b1b9-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Petit Plus",
       "address": "富田林市甲田1ー11ー5",
       "storeid": "tondabayashi-d69128",
       "shopid": "tondabayashi-d69128-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Lea Lea_K",
       "address": "富田林市甲田2-18-26富士第2ハイツ302号室",
       "storeid": "tondabayashi-275f61",
       "shopid": "tondabayashi-275f61-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "RUG hair",
       "address": "富田林市甲田3-13ー1",
       "storeid": "tondabayashi-685979",
       "shopid": "tondabayashi-685979-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Hair’s Peace World",
       "address": "富田林市甲田4-12-15",
       "storeid": "tondabayashi-ed75eb",
       "shopid": "tondabayashi-ed75eb-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "hair’s[vog]",
       "address": "富田林市錦ケ丘町5-11",
       "storeid": "tondabayashi-28556f",
       "shopid": "tondabayashi-28556f-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "PEEK-A-BOO",
       "address": "富田林市北大伴町1-10-16-2",
       "storeid": "tondabayashi-2283d5",
       "shopid": "tondabayashi-2283d5-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "nail salon yuu",
       "address": "富田林市別井3-9-15",
       "storeid": "tondabayashi-9b30b1",
       "shopid": "tondabayashi-9b30b1-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "HairDesign MUTE",
       "address": "富田林市山中田町2-13-8",
       "storeid": "tondabayashi-79ae15",
       "shopid": "tondabayashi-79ae15-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Riyu美容室 Park店",
       "address": "富田林市山中田町2ー160ー15",
       "storeid": "tondabayashi-350e15",
       "shopid": "tondabayashi-350e15-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "hairsalon Knewday",
       "address": "富田林市西板持町2-4-1",
       "storeid": "tondabayashi-dcdf2f",
       "shopid": "tondabayashi-dcdf2f-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "m",
       "address": "富田林市西板持町5-864-1",
       "storeid": "tondabayashi-047fe3",
       "shopid": "tondabayashi-047fe3-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "more.",
       "address": "富田林市楠風台1-4-17",
       "storeid": "tondabayashi-99a165",
       "shopid": "tondabayashi-99a165-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "HAUNT 須賀店",
       "address": "富田林市須賀1-5-5",
       "storeid": "tondabayashi-da9326",
       "shopid": "tondabayashi-da9326-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "HAIR SALON tumuji",
       "address": "富田林市須賀2-16-24",
       "storeid": "tondabayashi-b8c208",
       "shopid": "tondabayashi-b8c208-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Hair Salon MANI kutir",
       "address": "富田林市須賀2-28-19",
       "storeid": "tondabayashi-6c2377",
       "shopid": "tondabayashi-6c2377-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "hair labo toaru",
       "address": "富田林市須賀2-6-4",
       "storeid": "tondabayashi-061a9a",
       "shopid": "tondabayashi-061a9a-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "La Peche",
       "address": "富田林市須賀2-9-11",
       "storeid": "tondabayashi-846c30",
       "shopid": "tondabayashi-846c30-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Healing",
       "address": "富田林市錦織中1-14-10",
       "storeid": "tondabayashi-3bcb3b",
       "shopid": "tondabayashi-3bcb3b-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ASHRAY",
       "address": "富田林市錦織中1-20-15池側ビル1F",
       "storeid": "tondabayashi-24d181",
       "shopid": "tondabayashi-24d181-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "RuRu.-HAIR-",
       "address": "富田林市錦織中2-22-5-202",
       "storeid": "tondabayashi-9bc954",
       "shopid": "tondabayashi-9bc954-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Beauty Salon8",
       "address": "富田林市錦織中2-22-5-202弘成エステート",
       "storeid": "tondabayashi-bcb7e0",
       "shopid": "tondabayashi-bcb7e0-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "FANTASY",
       "address": "富田林市錦織東2-19-3",
       "storeid": "tondabayashi-646b7a",
       "shopid": "tondabayashi-646b7a-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "IWAI美容室 藤沢台店",
       "address": "富田林市藤沢台3-2-43102",
       "storeid": "tondabayashi-761b7d",
       "shopid": "tondabayashi-761b7d-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "美容室 STITCH",
       "address": "富田林市藤沢台5-3-5",
       "storeid": "tondabayashi-ef42c5",
       "shopid": "tondabayashi-ef42c5-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ヘアーサロン・エイト",
       "address": "富田林市藤沢台5-3-7ヘアーサロンエイト",
       "storeid": "tondabayashi-b061f2",
       "shopid": "tondabayashi-b061f2-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "美容室 ヨリソウ",
       "address": "富田林市藤沢台5-4-14フローラルハイツ102号",
       "storeid": "tondabayashi-9baf72",
       "shopid": "tondabayashi-9baf72-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Pono Hair",
       "address": "富田林市藤沢台7-1-18-1",
       "storeid": "tondabayashi-ca8ec1",
       "shopid": "tondabayashi-ca8ec1-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "atelier ReMARGE",
       "address": "富田林市高辺台1-10-10",
       "storeid": "tondabayashi-e9b324",
       "shopid": "tondabayashi-e9b324-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "G-with hair",
       "address": "富田林市高辺台1-2-9",
       "storeid": "tondabayashi-1854ee",
       "shopid": "tondabayashi-1854ee-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ヘアーサロンダイマル",
       "address": "富田林市高辺台2-15-26",
       "storeid": "tondabayashi-19635a",
       "shopid": "tondabayashi-19635a-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "salon.de.Ai",
       "address": "富田林市高辺台2-4-34",
       "storeid": "tondabayashi-c7a7f0",
       "shopid": "tondabayashi-c7a7f0-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "エメール ヘア",
       "address": "富田林市寺池台1ー9ー206ー105",
       "storeid": "tondabayashi-474966",
       "shopid": "tondabayashi-474966-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "barbershop NEO",
       "address": "富田林市寺池台1-20-21",
       "storeid": "tondabayashi-aed80b",
       "shopid": "tondabayashi-aed80b-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "pri・ma・ry",
       "address": "富田林市寺池台1-8-34-201",
       "storeid": "tondabayashi-7d88c1",
       "shopid": "tondabayashi-7d88c1-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "メモラクーレ金剛店",
       "address": "富田林市寺池台1-9-60ファミール金剛ヒルズソシエテ1階2",
       "storeid": "tondabayashi-4573db",
       "shopid": "tondabayashi-4573db-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "positive making innerve",
       "address": "富田林市寺池台1-9-60金剛ショッピングモール1F",
       "storeid": "tondabayashi-8b9ef1",
       "shopid": "tondabayashi-8b9ef1-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "lulu",
       "address": "富田林市寺池台5-3-1ラビクレール1F",
       "storeid": "tondabayashi-fc2401",
       "shopid": "tondabayashi-fc2401-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "VLOC",
       "address": "富田林市寺池台5-3ー1ラ・ビ・クレール2F",
       "storeid": "tondabayashi-91d96a",
       "shopid": "tondabayashi-91d96a-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Veve",
       "address": "富田林市久野喜台1-1-26",
       "storeid": "tondabayashi-b56108",
       "shopid": "tondabayashi-b56108-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "CLOVER〜HAIR SALON〜",
       "address": "富田林市久野喜台1-1-28",
       "storeid": "tondabayashi-5737d2",
       "shopid": "tondabayashi-5737d2-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "fleece hair",
       "address": "富田林市久野喜台2-10-18",
       "storeid": "tondabayashi-0b1d5d",
       "shopid": "tondabayashi-0b1d5d-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "L inC",
       "address": "富田林市久野喜台2-15-5",
       "storeid": "tondabayashi-a4d361",
       "shopid": "tondabayashi-a4d361-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "まつ毛エクステ専門店 Lana",
       "address": "富田林市五軒家1-20-1",
       "storeid": "tondabayashi-f2b6cb",
       "shopid": "tondabayashi-f2b6cb-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "イッツ",
       "address": "富田林市向陽台2-1-9",
       "storeid": "tondabayashi-bb828e",
       "shopid": "tondabayashi-bb828e-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "ヘアーサロンエイト",
       "address": "富田林市向陽台3-1-1エコール・ロゼ3階",
       "storeid": "tondabayashi-0ace3b",
       "shopid": "tondabayashi-0ace3b-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Luxurious",
       "address": "富田林市小金台1-12-15",
       "storeid": "tondabayashi-5d9a5e",
       "shopid": "tondabayashi-5d9a5e-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "CHURA BARBER 富田林店(理容)",
       "address": "富田林市小金台2-1-40",
       "storeid": "tondabayashi-6f0ac7",
       "shopid": "tondabayashi-6f0ac7-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "BANBI CREER",
       "address": "富田林市津々山台2-5-23",
       "storeid": "tondabayashi-d409ca",
       "shopid": "tondabayashi-d409ca-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "gigifullahead",
       "address": "富田林市昭和町1-3-2",
       "storeid": "tondabayashi-2c10d4",
       "shopid": "tondabayashi-2c10d4-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Total salon Bell 富田林店",
       "address": "富田林市昭和町1-646-1",
       "storeid": "tondabayashi-632ea5",
       "shopid": "tondabayashi-632ea5-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "lulu CHARIS",
       "address": "富田林市昭和町2-1907-1",
       "storeid": "tondabayashi-29b6bc",
       "shopid": "tondabayashi-29b6bc-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "男爵 富田林駅前店",
       "address": "富田林市本町16-15",
       "storeid": "tondabayashi-b85d32",
       "shopid": "tondabayashi-b85d32-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "abp",
       "address": "富田林市本町19-21",
       "storeid": "tondabayashi-b76a5c",
       "shopid": "tondabayashi-b76a5c-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     }
   ],
   "各種小売 / 食品スーパー": [
@@ -630,98 +976,141 @@
       "address": "富田林市梅の里3-1-4",
       "storeid": "tondabayashi-ffce64",
       "shopid": "tondabayashi-ffce64-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "サンプラザ喜志店",
       "address": "富田林市喜志町3-11-3",
       "storeid": "tondabayashi-932996",
       "shopid": "tondabayashi-932996-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "オークワ富田林旭ヶ丘店",
       "address": "富田林市旭ケ丘町14-43",
       "storeid": "tondabayashi-d3a8fe",
       "shopid": "tondabayashi-d3a8fe-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "コープ富田林店",
       "address": "富田林市中野町1-110-1",
       "storeid": "tondabayashi-37f999",
       "shopid": "tondabayashi-37f999-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "クスリのアオキ 富田林中野店",
       "address": "富田林市中野町1-465-1",
       "storeid": "tondabayashi-5d6360",
       "shopid": "tondabayashi-5d6360-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "関西スーパーマーケット 富田林駅前店",
       "address": "富田林市若松町1-5-15",
       "storeid": "tondabayashi-d3cde4",
       "shopid": "tondabayashi-d3cde4-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "サンディ 富田林駅前店",
       "address": "富田林市若松町西1-1828-1",
       "storeid": "tondabayashi-0d099f",
       "shopid": "tondabayashi-0d099f-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "サンプラザ富田林店",
       "address": "富田林市富田林町31-1",
       "storeid": "tondabayashi-4590a9",
       "shopid": "tondabayashi-4590a9-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "サンディ 富田林川西店",
       "address": "富田林市甲田3-8-34",
       "storeid": "tondabayashi-78fef6",
       "shopid": "tondabayashi-78fef6-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "サンプラザ 山中田店",
       "address": "富田林市山中田町1-6-26",
       "storeid": "tondabayashi-48e002",
       "shopid": "tondabayashi-48e002-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "ライフ 滝谷店",
       "address": "富田林市須賀2-14-6",
       "storeid": "tondabayashi-1f99bb",
       "shopid": "tondabayashi-1f99bb-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "スカイマート",
       "address": "富田林市藤沢台1-4-20",
       "storeid": "tondabayashi-47c923",
       "shopid": "tondabayashi-47c923-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "関西スーパーマーケット 金剛店",
       "address": "富田林市寺池台1-9-60",
       "storeid": "tondabayashi-3ca216",
       "shopid": "tondabayashi-3ca216-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "コノミヤ 富田林店",
       "address": "富田林市昭和町1-7-1号",
       "storeid": "tondabayashi-1fb3b5",
       "shopid": "tondabayashi-1fb3b5-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     }
   ],
   "サービス / 自動車整備・各種 修理": [
@@ -730,91 +1119,141 @@
       "address": "富田林市平町1-4103-1",
       "storeid": "tondabayashi-7da029",
       "shopid": "tondabayashi-7da029-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "オートサイクルベンリー",
       "address": "富田林市喜志町2-3-16D&Mビル",
       "storeid": "tondabayashi-411e1b",
       "shopid": "tondabayashi-411e1b-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "南海スズキ富田林営業所",
       "address": "富田林市中野町西1-1502-1",
       "storeid": "tondabayashi-37eb9b",
       "shopid": "tondabayashi-37eb9b-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "KTN GARAGE 富田林工場",
       "address": "富田林市中野町西2-239-3",
       "storeid": "tondabayashi-2d1141",
       "shopid": "tondabayashi-2d1141-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "アイサポ 富田林甲田店",
       "address": "富田林市甲田2-18-26",
       "storeid": "tondabayashi-532f2e",
       "shopid": "tondabayashi-532f2e-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Valley Rise",
       "address": "富田林市北大伴町4-8-41",
       "storeid": "tondabayashi-fa48ea",
       "shopid": "tondabayashi-fa48ea-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "浅岡鈑金塗装工業所",
       "address": "富田林市西板持町4-6-16",
       "storeid": "tondabayashi-c82af6",
       "shopid": "tondabayashi-c82af6-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "KWA",
       "address": "富田林市佐備2086-1",
       "storeid": "tondabayashi-2b7cea",
       "shopid": "tondabayashi-2b7cea-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ベビーフェイス",
       "address": "富田林市錦織北1-5-3",
       "storeid": "tondabayashi-74d4a4",
       "shopid": "tondabayashi-74d4a4-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "バイクショップタキ YOUSHOP TAKI",
       "address": "富田林市錦織東2-2-5",
       "storeid": "tondabayashi-177374",
       "shopid": "tondabayashi-177374-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "プラザ二輪館",
       "address": "富田林市久野喜台1-1-5",
       "storeid": "tondabayashi-bb7147",
       "shopid": "tondabayashi-bb7147-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "M's Auto",
       "address": "富田林市五軒家2-6-30",
       "storeid": "tondabayashi-52c63e",
       "shopid": "tondabayashi-52c63e-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "HondaCars南河内 富田林北店",
       "address": "富田林市昭和町2-3-43",
       "storeid": "tondabayashi-9ca6e8",
       "shopid": "tondabayashi-9ca6e8-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     }
   ],
   "サービス / スポーツ施設・ フィットネスクラブ": [
@@ -823,42 +1262,63 @@
       "address": "富田林市平町1-4103-1GYMLANDYOSHI",
       "storeid": "tondabayashi-d766d0",
       "shopid": "tondabayashi-d766d0-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "アヴニール富田林店",
       "address": "富田林市常盤町1-8",
       "storeid": "tondabayashi-c78b9d",
       "shopid": "tondabayashi-c78b9d-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "くまジム Best Body 鍼灸院",
       "address": "富田林市甲田2-20-4",
       "storeid": "tondabayashi-c44705",
       "shopid": "tondabayashi-c44705-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ビートストレックス和泉",
       "address": "富田林市金剛伏山台26-2",
       "storeid": "tondabayashi-ca54f6",
       "shopid": "tondabayashi-ca54f6-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "DMCダンススタジオ 富田林校",
       "address": "富田林市寺池台1-9-47",
       "storeid": "tondabayashi-525261",
       "shopid": "tondabayashi-525261-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "KeepFit 向陽台店",
       "address": "富田林市向陽台2-13Y1ビル1F",
       "storeid": "tondabayashi-e53b10",
       "shopid": "tondabayashi-e53b10-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     }
   ],
   "各種小売 / リサイクル・中古 品": [
@@ -867,84 +1327,132 @@
       "address": "富田林市喜志新家町1-4040-1",
       "storeid": "tondabayashi-0916ba",
       "shopid": "tondabayashi-0916ba-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "アロマセラピー香房・古道具 樂",
       "address": "富田林市喜志町5-11-8",
       "storeid": "tondabayashi-babbbe",
       "shopid": "tondabayashi-babbbe-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "masurika DOMO富田林店",
       "address": "富田林市中野町1-653-1",
       "storeid": "tondabayashi-5b3ad6",
       "shopid": "tondabayashi-5b3ad6-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "トリトン&ミルコビッチ",
       "address": "富田林市寿町3-4-16",
       "storeid": "tondabayashi-9f7d88",
       "shopid": "tondabayashi-9f7d88-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "BikeShopSTRUT",
       "address": "富田林市常盤町10-11",
       "storeid": "tondabayashi-595b03",
       "shopid": "tondabayashi-595b03-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "菜ごもか",
       "address": "富田林市富田林町12-12",
       "storeid": "tondabayashi-678f80",
       "shopid": "tondabayashi-678f80-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ポクー・レコード",
       "address": "富田林市富田林町12−12",
       "storeid": "tondabayashi-04eb91",
       "shopid": "tondabayashi-04eb91-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "antique TANTRA",
       "address": "富田林市富田林町3-13",
       "storeid": "tondabayashi-c4a5ef",
       "shopid": "tondabayashi-c4a5ef-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "motor shop Lively",
       "address": "富田林市甲田1-9-13",
       "storeid": "tondabayashi-812949",
       "shopid": "tondabayashi-812949-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ジーズガレージアイケーシー",
       "address": "富田林市西板持町4-1-43",
       "storeid": "tondabayashi-073422",
       "shopid": "tondabayashi-073422-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ユンオートライン",
       "address": "富田林市西板持町64-22",
       "storeid": "tondabayashi-653a1a",
       "shopid": "tondabayashi-653a1a-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "古着屋mills",
       "address": "富田林市須賀1-3-13",
       "storeid": "tondabayashi-bfa5e6",
       "shopid": "tondabayashi-bfa5e6-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     }
   ],
   "飲食 / 飲食店・喫茶店": [
@@ -953,819 +1461,1264 @@
       "address": "富田林市喜志新家町1-4-12",
       "storeid": "tondabayashi-a5fd03",
       "shopid": "tondabayashi-a5fd03-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "天下第一 外環富田林店",
       "address": "富田林市喜志新家町2-27-1",
       "storeid": "tondabayashi-663604",
       "shopid": "tondabayashi-663604-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "つなぐ Cafe ちはる",
       "address": "富田林市喜志町2-1-50ハイツイーストII202",
       "storeid": "tondabayashi-142247",
       "shopid": "tondabayashi-142247-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "絵本カフェ はびき堂",
       "address": "富田林市喜志町2-5-16",
       "storeid": "tondabayashi-bae668",
       "shopid": "tondabayashi-bae668-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "亜瑠瑠",
       "address": "富田林市喜志町3-11-4",
       "storeid": "tondabayashi-7a1101",
       "shopid": "tondabayashi-7a1101-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "きしたこ2008",
       "address": "富田林市喜志町3-5-16",
       "storeid": "tondabayashi-d5c53a",
       "shopid": "tondabayashi-d5c53a-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "maison de noel",
       "address": "富田林市喜志町3-6-28",
       "storeid": "tondabayashi-c02fe1",
       "shopid": "tondabayashi-c02fe1-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Coffee8BarTAG.",
       "address": "富田林市喜志町3-7-28ユーコート21102",
       "storeid": "tondabayashi-3a95d3",
       "shopid": "tondabayashi-3a95d3-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "ドーナツ55ピザ55",
       "address": "富田林市喜志町3-9-1",
       "storeid": "tondabayashi-09cbc4",
       "shopid": "tondabayashi-09cbc4-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "小春日和lunch",
       "address": "富田林市喜志町4-1-6",
       "storeid": "tondabayashi-0add39",
       "shopid": "tondabayashi-0add39-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "極みとんかつ かつ喜 喜志本店",
       "address": "富田林市喜志町5-10-10",
       "storeid": "tondabayashi-d5b4c6",
       "shopid": "tondabayashi-d5b4c6-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "自分流 お好み・茹であげ焼きそば鉄板串焼き 源氏本店",
       "address": "富田林市喜志町5-10-6",
       "storeid": "tondabayashi-575ec0",
       "shopid": "tondabayashi-575ec0-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "一鳥一炭 喜志本店",
       "address": "富田林市喜志町5-10-7",
       "storeid": "tondabayashi-991d1c",
       "shopid": "tondabayashi-991d1c-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "きらく ONIJUSCOFFEEVILLAGE",
       "address": "富田林市喜志町5-10-8",
       "storeid": "tondabayashi-ae7be9",
       "shopid": "tondabayashi-ae7be9-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "喜神菜館 喜志店",
       "address": "富田林市喜志町5-4-10",
       "storeid": "tondabayashi-b8954e",
       "shopid": "tondabayashi-b8954e-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "セルフカフェ 喜志店",
       "address": "富田林市喜志町5ー3-37ー101メゾン・ド・MIYAVI",
       "storeid": "tondabayashi-7bb2f2",
       "shopid": "tondabayashi-7bb2f2-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "和牛焼肉 まつり家 富田林店",
       "address": "富田林市喜志町5-9-3",
       "storeid": "tondabayashi-f0c2ca",
       "shopid": "tondabayashi-f0c2ca-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "インドネパール料理マウントエベレスト",
       "address": "富田林市旭ケ丘町10-25",
       "storeid": "tondabayashi-1fd5f4",
       "shopid": "tondabayashi-1fd5f4-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "鳥きんぐ 富田林店",
       "address": "富田林市旭ケ丘町11-45",
       "storeid": "tondabayashi-f89b54",
       "shopid": "tondabayashi-f89b54-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "オーキッドカフェ 喜志",
       "address": "富田林市旭ケ丘町9-31",
       "storeid": "tondabayashi-0f94cb",
       "shopid": "tondabayashi-0f94cb-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "来来亭 富田林店",
       "address": "富田林市宮町1-6-22",
       "storeid": "tondabayashi-40e06c",
       "shopid": "tondabayashi-40e06c-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "tokimeki-life ナカリン",
       "address": "富田林市宮町2-1-6カフェ&レンタルスペース",
       "storeid": "tondabayashi-945fbd",
       "shopid": "tondabayashi-945fbd-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "オレンジカウンティカフェ",
       "address": "富田林市宮町2-7-39",
       "storeid": "tondabayashi-65adbf",
       "shopid": "tondabayashi-65adbf-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "大阪うどん きらく 富田林店",
       "address": "富田林市宮町2-8-16",
       "storeid": "tondabayashi-9d4951",
       "shopid": "tondabayashi-9d4951-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "FROZEN DOOR 富田林店",
       "address": "富田林市宮町2-8-20",
       "storeid": "tondabayashi-4b27fe",
       "shopid": "tondabayashi-4b27fe-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "キッチンカフェ キルシェ",
       "address": "富田林市桜井町2-1587-16",
       "storeid": "tondabayashi-9c61de",
       "shopid": "tondabayashi-9c61de-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "寿司・懐石 内海",
       "address": "富田林市川面町2-2-27",
       "storeid": "tondabayashi-26bbb4",
       "shopid": "tondabayashi-26bbb4-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "はま寿司 富田林中野町店",
       "address": "富田林市中野町3-904-2",
       "storeid": "tondabayashi-19c0e0",
       "shopid": "tondabayashi-19c0e0-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "yayaトキヲコエテ",
       "address": "富田林市若松町東2-6-2",
       "storeid": "tondabayashi-357aab",
       "shopid": "tondabayashi-357aab-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "喫茶フランス",
       "address": "富田林市若松町1-4-10",
       "storeid": "tondabayashi-6ed1b8",
       "shopid": "tondabayashi-6ed1b8-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "カフェカムナ",
       "address": "富田林市若松町1-5-7",
       "storeid": "tondabayashi-563744",
       "shopid": "tondabayashi-563744-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "ライノ",
       "address": "富田林市若松町2-2-13",
       "storeid": "tondabayashi-cc14bf",
       "shopid": "tondabayashi-cc14bf-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Cafe Wahha",
       "address": "富田林市若松町2ー2ー13樋口ビル101",
       "storeid": "tondabayashi-aa9608",
       "shopid": "tondabayashi-aa9608-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "cafe me time",
       "address": "富田林市若松町2-3-2太陽ビル1階",
       "storeid": "tondabayashi-d9ae4a",
       "shopid": "tondabayashi-d9ae4a-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "和食麺処サガミ 富田林店",
       "address": "富田林市若松町5-1418-3",
       "storeid": "tondabayashi-7c6d5e",
       "shopid": "tondabayashi-7c6d5e-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "焼肉ソウル",
       "address": "富田林市若松町5-6-7",
       "storeid": "tondabayashi-5352fd",
       "shopid": "tondabayashi-5352fd-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "お好み焼き ここ",
       "address": "富田林市若松町西1-1809",
       "storeid": "tondabayashi-b3b114",
       "shopid": "tondabayashi-b3b114-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "喃風 富田林店",
       "address": "富田林市若松町西3−1593-3",
       "storeid": "tondabayashi-16b82e",
       "shopid": "tondabayashi-16b82e-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "鶏とそば 玄",
       "address": "富田林市若松町西3-1594-1",
       "storeid": "tondabayashi-100423",
       "shopid": "tondabayashi-100423-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "海鮮炉端風 魚輝水産 富田林店",
       "address": "富田林市若松町西3-1596-1",
       "storeid": "tondabayashi-91c573",
       "shopid": "tondabayashi-91c573-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "BALLEBALLECOFFEESTAND",
       "address": "富田林市中野町西2-89-1",
       "storeid": "tondabayashi-655a2d",
       "shopid": "tondabayashi-655a2d-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "お弁当屋 おれんち",
       "address": "富田林市寿町2-1-3",
       "storeid": "tondabayashi-f2b492",
       "shopid": "tondabayashi-f2b492-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "大衆鰻屋うな八",
       "address": "富田林市寿町3-7-15",
       "storeid": "tondabayashi-b56864",
       "shopid": "tondabayashi-b56864-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "TAKE5",
       "address": "富田林市常盤町3-13イングスビル201",
       "storeid": "tondabayashi-e00d7b",
       "shopid": "tondabayashi-e00d7b-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ナマステキッチン富田林",
       "address": "富田林市常盤町5-3",
       "storeid": "tondabayashi-cf33f6",
       "shopid": "tondabayashi-cf33f6-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "居酒屋ゆるり",
       "address": "富田林市常盤町5-6",
       "storeid": "tondabayashi-42af24",
       "shopid": "tondabayashi-42af24-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "町屋 河京富月",
       "address": "富田林市富田林町11-11",
       "storeid": "tondabayashi-4e0470",
       "shopid": "tondabayashi-4e0470-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ピーターズ",
       "address": "富田林市富田林町20-12",
       "storeid": "tondabayashi-e2cfea",
       "shopid": "tondabayashi-e2cfea-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "LaLa(ONIGIRI&焙煎COFFEE)",
       "address": "富田林市富田林町23-6",
       "storeid": "tondabayashi-780d3c",
       "shopid": "tondabayashi-780d3c-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "ハンドメイドカフェ ShuKran",
       "address": "富田林市富田林町3-13",
       "storeid": "tondabayashi-09c99d",
       "shopid": "tondabayashi-09c99d-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "古民家カフェゆうぷく",
       "address": "富田林市富田林町9-36",
       "storeid": "tondabayashi-9f5d4b",
       "shopid": "tondabayashi-9f5d4b-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "富田林高等学校 食堂",
       "address": "富田林市谷川町4−30",
       "storeid": "tondabayashi-e3db21",
       "shopid": "tondabayashi-e3db21-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "ラーメン まこと屋 富田林甲田店",
       "address": "富田林市甲田1-11-28",
       "storeid": "tondabayashi-6652c1",
       "shopid": "tondabayashi-6652c1-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "ら・ばーる",
       "address": "富田林市甲田1-3-22",
       "storeid": "tondabayashi-d98956",
       "shopid": "tondabayashi-d98956-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "maru。cafe",
       "address": "富田林市甲田1-3-24-5",
       "storeid": "tondabayashi-e1094d",
       "shopid": "tondabayashi-e1094d-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "LAZOS",
       "address": "富田林市甲田1-3-28",
       "storeid": "tondabayashi-d04b83",
       "shopid": "tondabayashi-d04b83-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "KitchenBulldog",
       "address": "富田林市甲田3-13-42",
       "storeid": "tondabayashi-a82628",
       "shopid": "tondabayashi-a82628-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "手打ちうどん 初太",
       "address": "富田林市甲田3-2-31",
       "storeid": "tondabayashi-dcb30b",
       "shopid": "tondabayashi-dcb30b-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "鉄板居酒屋 きまま",
       "address": "富田林市甲田3-2-31ベルベサンサンビル2F",
       "storeid": "tondabayashi-17dab7",
       "shopid": "tondabayashi-17dab7-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "粉もん酒場たこ心",
       "address": "富田林市北大伴町2-3-10",
       "storeid": "tondabayashi-b0ad7a",
       "shopid": "tondabayashi-b0ad7a-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "Cafe andy",
       "address": "富田林市南大伴町3-253-7",
       "storeid": "tondabayashi-8ec38c",
       "shopid": "tondabayashi-8ec38c-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Cafe berry",
       "address": "富田林市東板持町603-1",
       "storeid": "tondabayashi-46db38",
       "shopid": "tondabayashi-46db38-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "とんかつの山田屋",
       "address": "富田林市西板持町8-2-22",
       "storeid": "tondabayashi-d314bf",
       "shopid": "tondabayashi-d314bf-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "つむる",
       "address": "富田林市甘南備1660-2",
       "storeid": "tondabayashi-ee5f44",
       "shopid": "tondabayashi-ee5f44-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "豆小屋",
       "address": "富田林市横山5-2",
       "storeid": "tondabayashi-95be40",
       "shopid": "tondabayashi-95be40-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "古民家彼方",
       "address": "富田林市大字彼方527",
       "storeid": "tondabayashi-a86a27",
       "shopid": "tondabayashi-a86a27-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "リバーサイドレストラン&カフェ",
       "address": "富田林市彼方99",
       "storeid": "tondabayashi-24dd92",
       "shopid": "tondabayashi-24dd92-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "焼肉 武蔵",
       "address": "富田林市須賀138-1焼肉武蔵",
       "storeid": "tondabayashi-3360f7",
       "shopid": "tondabayashi-3360f7-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "へべれけ",
       "address": "富田林市須賀2-19-111階",
       "storeid": "tondabayashi-ff0d67",
       "shopid": "tondabayashi-ff0d67-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "気まぐれハート",
       "address": "富田林市須賀2-19-81-E",
       "storeid": "tondabayashi-332ea9",
       "shopid": "tondabayashi-332ea9-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "シタル",
       "address": "富田林市大字須賀138-1サンシャイン須賀",
       "storeid": "tondabayashi-4f669e",
       "shopid": "tondabayashi-4f669e-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "千一夜",
       "address": "富田林市金剛伏山台12-15",
       "storeid": "tondabayashi-c6f176",
       "shopid": "tondabayashi-c6f176-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ラーメン ニャン福",
       "address": "富田林市錦織南1-13-3",
       "storeid": "tondabayashi-0a89b5",
       "shopid": "tondabayashi-0a89b5-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "たかはし",
       "address": "富田林市錦織東2-18-30",
       "storeid": "tondabayashi-280763",
       "shopid": "tondabayashi-280763-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "たこ焼き 吾一",
       "address": "富田林市錦織東2-2-5",
       "storeid": "tondabayashi-f1ac45",
       "shopid": "tondabayashi-f1ac45-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "超大型犬ふれあいカフェTWIN’S",
       "address": "富田林市錦織東2丁目19-10GrowGold1階",
       "storeid": "tondabayashi-1d65b2",
       "shopid": "tondabayashi-1d65b2-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "きっちん花吉祥",
       "address": "富田林市錦織東3-7-5",
       "storeid": "tondabayashi-77b2ed",
       "shopid": "tondabayashi-77b2ed-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "金剛高校 食堂",
       "address": "富田林市藤沢台2-1−1",
       "storeid": "tondabayashi-dd497f",
       "shopid": "tondabayashi-dd497f-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "MAYU kitchen",
       "address": "富田林市藤沢台5-3-2",
       "storeid": "tondabayashi-e5c900",
       "shopid": "tondabayashi-e5c900-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ぢどり亭藤沢台店",
       "address": "富田林市藤沢台6-2-3",
       "storeid": "tondabayashi-bf3143",
       "shopid": "tondabayashi-bf3143-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "レストラン オゼルブ",
       "address": "富田林市藤沢台6-2-8",
       "storeid": "tondabayashi-ba2297",
       "shopid": "tondabayashi-ba2297-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "coffee house BAMBOO",
       "address": "富田林市高辺台1-7-14",
       "storeid": "tondabayashi-6efd15",
       "shopid": "tondabayashi-6efd15-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Patisserie Esprit",
       "address": "富田林市高辺台1-7-5",
       "storeid": "tondabayashi-a3f6f3",
       "shopid": "tondabayashi-a3f6f3-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "たんぽぽ",
       "address": "富田林市高辺台2-30-20",
       "storeid": "tondabayashi-d0efb8",
       "shopid": "tondabayashi-d0efb8-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "コーヒーハウス ムッシュ",
       "address": "富田林市寺池台1-9-60金剛ショッピングモール1F",
       "storeid": "tondabayashi-bd1473",
       "shopid": "tondabayashi-bd1473-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "わっくカフェ",
       "address": "富田林市寺池台1-9第207号棟101号室",
       "storeid": "tondabayashi-f91385",
       "shopid": "tondabayashi-f91385-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Cafe-yu",
       "address": "富田林市寺池台3-1-15",
       "storeid": "tondabayashi-60b81c",
       "shopid": "tondabayashi-60b81c-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "中国料理蓮花",
       "address": "富田林市寺池台3-23-34",
       "storeid": "tondabayashi-1914ce",
       "shopid": "tondabayashi-1914ce-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "天ぷら和食 陸",
       "address": "富田林市久野喜台1-1-26",
       "storeid": "tondabayashi-ea0a35",
       "shopid": "tondabayashi-ea0a35-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "串揚げ DINING Lamp亭",
       "address": "富田林市久野喜台1-18-8",
       "storeid": "tondabayashi-8a15af",
       "shopid": "tondabayashi-8a15af-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "韓国料理 ソウル豚家",
       "address": "富田林市久野喜台1-2-5",
       "storeid": "tondabayashi-cf88ac",
       "shopid": "tondabayashi-cf88ac-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "グルメたこ焼きのお店 かつらぎ",
       "address": "富田林市久野喜台1-2-5",
       "storeid": "tondabayashi-740e6c",
       "shopid": "tondabayashi-740e6c-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "千房 金剛店",
       "address": "富田林市久野喜台2-4-1",
       "storeid": "tondabayashi-3dac3d",
       "shopid": "tondabayashi-3dac3d-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "川田屋",
       "address": "富田林市大字廿山20-1",
       "storeid": "tondabayashi-179fa0",
       "shopid": "tondabayashi-179fa0-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "sunship",
       "address": "富田林市向陽台2-19-9sunship",
       "storeid": "tondabayashi-d34987",
       "shopid": "tondabayashi-d34987-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "昭和堂Q ★New",
       "address": "富田林市向陽台2-2-13ヤマモトビル1F北",
       "storeid": "tondabayashi-d01d2a",
       "shopid": "tondabayashi-d01d2a-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "中華居酒屋 蒼河",
       "address": "富田林市向陽台2-2-15kビル",
       "storeid": "tondabayashi-64e795",
       "shopid": "tondabayashi-64e795-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "PIZZA GALLERIA",
       "address": "富田林市向陽台2-2-7",
       "storeid": "tondabayashi-e2ecc2",
       "shopid": "tondabayashi-e2ecc2-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "和洋空間居酒屋いさりび 富田林店",
       "address": "富田林市向陽台2-6-25",
       "storeid": "tondabayashi-2b0a68",
       "shopid": "tondabayashi-2b0a68-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "富田林なおすけ",
       "address": "富田林市向陽台2-7-20",
       "storeid": "tondabayashi-3fdbe2",
       "shopid": "tondabayashi-3fdbe2-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ブー太郎",
       "address": "富田林市向陽台2-7-31",
       "storeid": "tondabayashi-f09659",
       "shopid": "tondabayashi-f09659-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Holly's Cafe エコールロゼ店",
       "address": "富田林市向陽台3-1-1エコール・ロゼ本館2階",
       "storeid": "tondabayashi-e2d737",
       "shopid": "tondabayashi-e2d737-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "大阪の味ラーメン 喜らく 金剛店",
       "address": "富田林市向陽台3-1-1エコールロゼ",
       "storeid": "tondabayashi-d309a8",
       "shopid": "tondabayashi-d309a8-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "とんかつ利信",
       "address": "富田林市向陽台5-4-19",
       "storeid": "tondabayashi-4380dd",
       "shopid": "tondabayashi-4380dd-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "そば処 和久",
       "address": "富田林市小金台2-2-8",
       "storeid": "tondabayashi-538967",
       "shopid": "tondabayashi-538967-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Big Joe 富田林店",
       "address": "富田林市新家1-2-24",
       "storeid": "tondabayashi-913226",
       "shopid": "tondabayashi-913226-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "音",
       "address": "富田林市津々山台2-4-3Rinon津々山台1-C",
       "storeid": "tondabayashi-9080ed",
       "shopid": "tondabayashi-9080ed-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Rural Garden",
       "address": "富田林市津々山台3-10-13",
       "storeid": "tondabayashi-aa3013",
       "shopid": "tondabayashi-aa3013-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "きつねいろ",
       "address": "富田林市津々山台3-3-4",
       "storeid": "tondabayashi-538113",
       "shopid": "tondabayashi-538113-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "富田林わっしょい",
       "address": "富田林市昭和町1ー4ー7",
       "storeid": "tondabayashi-fbff92",
       "shopid": "tondabayashi-fbff92-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "YAKINIKUEN 忍鬨 富田林店",
       "address": "富田林市昭和町1-2-34",
       "storeid": "tondabayashi-bce51f",
       "shopid": "tondabayashi-bce51f-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "居酒屋 照",
       "address": "富田林市昭和町2-1-39",
       "storeid": "tondabayashi-3a708d",
       "shopid": "tondabayashi-3a708d-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "暮らし屋",
       "address": "富田林市本町12-10",
       "storeid": "tondabayashi-3fa885",
       "shopid": "tondabayashi-3fa885-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "macca.m",
       "address": "富田林市本町17-2",
       "storeid": "tondabayashi-4319ed",
       "shopid": "tondabayashi-4319ed-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "laule'a",
       "address": "富田林市本町20-20",
       "storeid": "tondabayashi-e6d837",
       "shopid": "tondabayashi-e6d837-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "natarry",
       "address": "富田林市本町21-21",
       "storeid": "tondabayashi-d221a3",
       "shopid": "tondabayashi-d221a3-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "炉端焼わっしょい",
       "address": "富田林市本町4-122F",
       "storeid": "tondabayashi-bfc9b5",
       "shopid": "tondabayashi-bfc9b5-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     }
   ],
   "サービス / リース・レンタル": [
@@ -1774,28 +2727,43 @@
       "address": "富田林市喜志新家町1-6-10",
       "storeid": "tondabayashi-4cc0d9",
       "shopid": "tondabayashi-4cc0d9-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "パークフィールド 近鉄富田林西口駅前",
       "address": "富田林市寿町1-1-35",
       "storeid": "tondabayashi-ffc875",
       "shopid": "tondabayashi-ffc875-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "クイックレンタカー富田林西口駅前",
       "address": "富田林市常盤町10-7西口駅前ビル",
       "storeid": "tondabayashi-01d54c",
       "shopid": "tondabayashi-01d54c-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "NCI",
       "address": "富田林市津々山台44-2",
       "storeid": "tondabayashi-162e9b",
       "shopid": "tondabayashi-162e9b-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     }
   ],
   "各種小売 / その他": [
@@ -1804,119 +2772,185 @@
       "address": "富田林市喜志町2‐3‐16‐405",
       "storeid": "tondabayashi-afb78b",
       "shopid": "tondabayashi-afb78b-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "KOKOBODY",
       "address": "富田林市喜志町3-4-272F",
       "storeid": "tondabayashi-d1fa51",
       "shopid": "tondabayashi-d1fa51-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "お仏壇のにっこう",
       "address": "富田林市桜井町2-1587-9",
       "storeid": "tondabayashi-dcdaba",
       "shopid": "tondabayashi-dcdaba-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ルミデザ",
       "address": "富田林市中野町東2-4-393F",
       "storeid": "tondabayashi-2ad378",
       "shopid": "tondabayashi-2ad378-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "アイアイクック",
       "address": "富田林市若松町西1-1865-10",
       "storeid": "tondabayashi-7c1acd",
       "shopid": "tondabayashi-7c1acd-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "たばき",
       "address": "富田林市富田林町23-11",
       "storeid": "tondabayashi-77e186",
       "shopid": "tondabayashi-77e186-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ぶつだんの天照堂",
       "address": "富田林市甲田1-9-1",
       "storeid": "tondabayashi-adfff5",
       "shopid": "tondabayashi-adfff5-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "BICYCLE STEP",
       "address": "富田林市甲田3-9-5",
       "storeid": "tondabayashi-7769d7",
       "shopid": "tondabayashi-7769d7-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ぺあ農園 富田林事業所店",
       "address": "富田林市楠風台2-7-11",
       "storeid": "tondabayashi-4353d2",
       "shopid": "tondabayashi-4353d2-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "辰巳養鶏場",
       "address": "富田林市佐備2100長吉養鶏1号",
       "storeid": "tondabayashi-95da5a",
       "shopid": "tondabayashi-95da5a-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "不動印房",
       "address": "富田林市彼方208",
       "storeid": "tondabayashi-c234ac",
       "shopid": "tondabayashi-c234ac-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "陶芸工房cocochi",
       "address": "富田林市伏山3-6-17",
       "storeid": "tondabayashi-06edb8",
       "shopid": "tondabayashi-06edb8-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "霽月洞",
       "address": "富田林市錦織北1-2-13",
       "storeid": "tondabayashi-2d9002",
       "shopid": "tondabayashi-2d9002-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "クラフトショップ ポピー",
       "address": "富田林市寺池台1-9-60金剛ショッピングモール",
       "storeid": "tondabayashi-5e654a",
       "shopid": "tondabayashi-5e654a-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "有限会社 山本商会",
       "address": "富田林市久野喜台2-4-25",
       "storeid": "tondabayashi-6cfdd2",
       "shopid": "tondabayashi-6cfdd2-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "中村商店 エコール・ロゼ店",
       "address": "富田林市向陽台3ー1ー1エコール・ロゼ1F",
       "storeid": "tondabayashi-007cde",
       "shopid": "tondabayashi-007cde-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "富田林印房",
       "address": "富田林市本町6-15",
       "storeid": "tondabayashi-fc2ee4",
       "shopid": "tondabayashi-fc2ee4-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     }
   ],
   "サービス / その他": [
@@ -1925,175 +2959,266 @@
       "address": "富田林市喜志町2-3-16D&Mマンション301",
       "storeid": "tondabayashi-56cd7d",
       "shopid": "tondabayashi-56cd7d-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "villa 富田林",
       "address": "富田林市旭ケ丘町10-10辻店舗B",
       "storeid": "tondabayashi-ebdeac",
       "shopid": "tondabayashi-ebdeac-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "オアシス 喜志店",
       "address": "富田林市旭ケ丘町7-13渡部ビル1F",
       "storeid": "tondabayashi-f4266a",
       "shopid": "tondabayashi-f4266a-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "健活アシスト",
       "address": "富田林市若松町西1ー1841ー1アジア商事ビル3階301号",
       "storeid": "tondabayashi-158757",
       "shopid": "tondabayashi-158757-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "パーソナルトレーニングジムBESIDE富田林店",
       "address": "富田林市若松町西1-1888-1北野第2ビル301号",
       "storeid": "tondabayashi-369f3c",
       "shopid": "tondabayashi-369f3c-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "もみほぐしフィンガー富田林店",
       "address": "富田林市若松町西3-1556-1",
       "storeid": "tondabayashi-e626d2",
       "shopid": "tondabayashi-e626d2-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "アシスト24富田林西口店",
       "address": "富田林市常盤町10-7",
       "storeid": "tondabayashi-a4aa5d",
       "shopid": "tondabayashi-a4aa5d-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "フォトスタジオシミズ",
       "address": "富田林市甲田2-1-24",
       "storeid": "tondabayashi-f1f296",
       "shopid": "tondabayashi-f1f296-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ライフクリーナー 山中田店",
       "address": "富田林市山中田町1-6-26サンプラザ山中田店内",
       "storeid": "tondabayashi-517036",
       "shopid": "tondabayashi-517036-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "Eurasiya",
       "address": "富田林市山中田町2-12-27",
       "storeid": "tondabayashi-f115b8",
       "shopid": "tondabayashi-f115b8-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "sabi和備佐備 ★New",
       "address": "富田林市佐備250",
       "storeid": "tondabayashi-1a007f",
       "shopid": "tondabayashi-1a007f-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "HEBDEN BRIDGE LTD",
       "address": "富田林市甘南備474-2",
       "storeid": "tondabayashi-7741b2",
       "shopid": "tondabayashi-7741b2-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "リラクゼーションサロン ゆるり 滝谷店",
       "address": "富田林市須賀2-16-24",
       "storeid": "tondabayashi-4823ef",
       "shopid": "tondabayashi-4823ef-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ハイマスト",
       "address": "富田林市須賀2-19-82階コモングランズ内",
       "storeid": "tondabayashi-8a58a3",
       "shopid": "tondabayashi-8a58a3-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "Otono波",
       "address": "富田林市錦織中1-14-3-302",
       "storeid": "tondabayashi-2abc01",
       "shopid": "tondabayashi-2abc01-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Luana iti",
       "address": "富田林市錦織中2-17-16",
       "storeid": "tondabayashi-f447cd",
       "shopid": "tondabayashi-f447cd-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "エスポワール",
       "address": "富田林市錦織東3-4-12",
       "storeid": "tondabayashi-bd673c",
       "shopid": "tondabayashi-bd673c-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "メープル関西",
       "address": "富田林市寺池台1-9金剛ショッピングモール",
       "storeid": "tondabayashi-8f4949",
       "shopid": "tondabayashi-8f4949-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "リハビリスラボ",
       "address": "富田林市寺池台5-1-8カーサ寺池1-B1-C",
       "storeid": "tondabayashi-51834c",
       "shopid": "tondabayashi-51834c-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "OUTSIDE",
       "address": "富田林市向陽台4-7-11",
       "storeid": "tondabayashi-b58d6b",
       "shopid": "tondabayashi-b58d6b-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "TAMA・キーロック・サービス",
       "address": "富田林市小金台2-5-8",
       "storeid": "tondabayashi-350151",
       "shopid": "tondabayashi-350151-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "癒し工房 癒し堂 富田林店",
       "address": "富田林市新家2-16-13",
       "storeid": "tondabayashi-87b79a",
       "shopid": "tondabayashi-87b79a-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "Shisha Bar CK",
       "address": "富田林市昭和町2-1-41",
       "storeid": "tondabayashi-d0775b",
       "shopid": "tondabayashi-d0775b-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "リラクゼーションもみもみ 富田林店",
       "address": "富田林市常盤町8-14",
       "storeid": "tondabayashi-8e6373",
       "shopid": "tondabayashi-8e6373-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "カラオケライブ 富田林駅前店",
       "address": "富田林市本町520-2ニューカナヤビル4F",
       "storeid": "tondabayashi-01772c",
       "shopid": "tondabayashi-01772c-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     }
   ],
   "各種小売 / 花・植木・農耕具・ ペット": [
@@ -2102,133 +3227,209 @@
       "address": "富田林市喜志町3-10-15",
       "storeid": "tondabayashi-703e54",
       "shopid": "tondabayashi-703e54-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "サムペット",
       "address": "富田林市喜志町5-7-2サンドリーム1階",
       "storeid": "tondabayashi-fd76ea",
       "shopid": "tondabayashi-fd76ea-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "タタラ動物病院",
       "address": "富田林市喜志町5-8-7",
       "storeid": "tondabayashi-892116",
       "shopid": "tondabayashi-892116-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ペットサロンPONOPONO",
       "address": "富田林市旭ケ丘町10-25-104",
       "storeid": "tondabayashi-a28039",
       "shopid": "tondabayashi-a28039-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "DogParkBonds 富田林店",
       "address": "富田林市中野町東2-2-17",
       "storeid": "tondabayashi-e00875",
       "shopid": "tondabayashi-e00875-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "おがわ動物病院",
       "address": "富田林市若松町2-3-12",
       "storeid": "tondabayashi-4938dd",
       "shopid": "tondabayashi-4938dd-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "花と雑貨 風露",
       "address": "富田林市寿町4-3-5",
       "storeid": "tondabayashi-5abbcd",
       "shopid": "tondabayashi-5abbcd-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "DogCareSalon KatCut",
       "address": "富田林市常盤町10-1ウエストウィングビル1F",
       "storeid": "tondabayashi-753a5d",
       "shopid": "tondabayashi-753a5d-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "うぃっと動物病院",
       "address": "富田林市錦ケ丘町5ー15",
       "storeid": "tondabayashi-7e953f",
       "shopid": "tondabayashi-7e953f-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "AMSS",
       "address": "富田林市西板持町7-1-32",
       "storeid": "tondabayashi-ac0035",
       "shopid": "tondabayashi-ac0035-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Snow Drop",
       "address": "富田林市楠風台3-3-10",
       "storeid": "tondabayashi-a04487",
       "shopid": "tondabayashi-a04487-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "WhiteAngelKennel",
       "address": "富田林市錦織中1-14-31F",
       "storeid": "tondabayashi-38ac22",
       "shopid": "tondabayashi-38ac22-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "inco堂植物園",
       "address": "富田林市高辺台2-20-24",
       "storeid": "tondabayashi-d57272",
       "shopid": "tondabayashi-d57272-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "金剛園芸センター",
       "address": "富田林市寺池台1-8-34",
       "storeid": "tondabayashi-e764c0",
       "shopid": "tondabayashi-e764c0-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "グルーミングサロンタック",
       "address": "富田林市久野喜台2-4-1",
       "storeid": "tondabayashi-b97bcc",
       "shopid": "tondabayashi-b97bcc-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ドッグサロンリレイズ",
       "address": "富田林市廿山2-5-66",
       "storeid": "tondabayashi-fb7acb",
       "shopid": "tondabayashi-fb7acb-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ドッグサロンNoel",
       "address": "富田林市向陽台2-16-30",
       "storeid": "tondabayashi-9e9528",
       "shopid": "tondabayashi-9e9528-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "COCO FLEUR",
       "address": "富田林市津々山台2-4-3Rinon津々山台1-C",
       "storeid": "tondabayashi-49b144",
       "shopid": "tondabayashi-49b144-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Flower Shop グリーンエポック・オオハシ 富田林店",
       "address": "富田林市昭和町1-7-1",
       "storeid": "tondabayashi-f75b33",
       "shopid": "tondabayashi-f75b33-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     }
   ],
   "各種小売 / 食品販売店": [
@@ -2237,336 +3438,517 @@
       "address": "富田林市喜志町3-10-5",
       "storeid": "tondabayashi-5f2d8b",
       "shopid": "tondabayashi-5f2d8b-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "パティスリーリヴィエール",
       "address": "富田林市旭ケ丘町7-13",
       "storeid": "tondabayashi-c960ff",
       "shopid": "tondabayashi-c960ff-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "むか新 富田林店",
       "address": "富田林市宮町2-7-50",
       "storeid": "tondabayashi-b04de3",
       "shopid": "tondabayashi-b04de3-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "株式会社かつら屋",
       "address": "富田林市桜井町1-2-37",
       "storeid": "tondabayashi-0bf78c",
       "shopid": "tondabayashi-0bf78c-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "よねだ弁当 企業団地店",
       "address": "富田林市中野町東1-4",
       "storeid": "tondabayashi-49a197",
       "shopid": "tondabayashi-49a197-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "よねだ弁当",
       "address": "富田林市若松町1-16-15",
       "storeid": "tondabayashi-88f7a7",
       "shopid": "tondabayashi-88f7a7-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "SHO-KYU MART",
       "address": "富田林市若松町西1-1809ー1ー200",
       "storeid": "tondabayashi-db80a7",
       "shopid": "tondabayashi-db80a7-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "シャトレーゼ 富田林店",
       "address": "富田林市若松町西2-1700-1",
       "storeid": "tondabayashi-3c79e4",
       "shopid": "tondabayashi-3c79e4-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "みらいふぁーむ",
       "address": "富田林市寿町3-4-22",
       "storeid": "tondabayashi-722c38",
       "shopid": "tondabayashi-722c38-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "味新",
       "address": "富田林市常盤町9-24",
       "storeid": "tondabayashi-bb8804",
       "shopid": "tondabayashi-bb8804-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "愛菜農園",
       "address": "富田林市富田林町10-21",
       "storeid": "tondabayashi-3ec4d5",
       "shopid": "tondabayashi-3ec4d5-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ボレロレストラン",
       "address": "富田林市富田林町22-28",
       "storeid": "tondabayashi-f6c227",
       "shopid": "tondabayashi-f6c227-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "珈琲豆の蔵 平蔵",
       "address": "富田林市富田林町23-39",
       "storeid": "tondabayashi-c1e30a",
       "shopid": "tondabayashi-c1e30a-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "パン工房カワ 富田林店",
       "address": "富田林市甲田1-13-35",
       "storeid": "tondabayashi-4969b4",
       "shopid": "tondabayashi-4969b4-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "パン工房カワ 川珈琲 富田林店",
       "address": "富田林市甲田1-14-53WAY書店TSUTAYA富田林店内",
       "storeid": "tondabayashi-2527be",
       "shopid": "tondabayashi-2527be-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "ケーキ工房Hara",
       "address": "富田林市甲田2-3-21",
       "storeid": "tondabayashi-af6dec",
       "shopid": "tondabayashi-af6dec-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "猫口商店☆猫口カフェ",
       "address": "富田林市甲田3-毎週水曜日",
       "storeid": "tondabayashi-638c6d",
       "shopid": "tondabayashi-638c6d-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "まるこう",
       "address": "富田林市別井1-10-23",
       "storeid": "tondabayashi-67563b",
       "shopid": "tondabayashi-67563b-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "寺西養鶏場",
       "address": "富田林市別井1-5-6",
       "storeid": "tondabayashi-6bb951",
       "shopid": "tondabayashi-6bb951-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "無添菓子専門店 凜々堂",
       "address": "富田林市西板持町6−6−28",
       "storeid": "tondabayashi-605a01",
       "shopid": "tondabayashi-605a01-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "南さん家の野菜・果物直売所",
       "address": "富田林市佐備1055-1",
       "storeid": "tondabayashi-b5023e",
       "shopid": "tondabayashi-b5023e-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "旬鮮広場 富田林直売所",
       "address": "富田林市佐備1500",
       "storeid": "tondabayashi-6f0ab0",
       "shopid": "tondabayashi-6f0ab0-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "こうこの畑",
       "address": "富田林市佐備478-1",
       "storeid": "tondabayashi-7e9d2f",
       "shopid": "tondabayashi-7e9d2f-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "サバーファーム",
       "address": "富田林市甘南備2300",
       "storeid": "tondabayashi-bb453d",
       "shopid": "tondabayashi-bb453d-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "やまびこ園",
       "address": "富田林市伏見堂928-1",
       "storeid": "tondabayashi-0ae116",
       "shopid": "tondabayashi-0ae116-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "株式会社冨士屋製菓本舗 楽豆屋",
       "address": "富田林市須賀2-20-2",
       "storeid": "tondabayashi-b7a6a1",
       "shopid": "tondabayashi-b7a6a1-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "笑ノ百姓",
       "address": "富田林市錦織北1-23",
       "storeid": "tondabayashi-0d1fa0",
       "shopid": "tondabayashi-0d1fa0-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "みばしょう",
       "address": "富田林市錦織南1-1-18102",
       "storeid": "tondabayashi-5271b6",
       "shopid": "tondabayashi-5271b6-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "パティスリージュイール",
       "address": "富田林市藤沢台3-2-45廣谷ビル",
       "storeid": "tondabayashi-dc9ff3",
       "shopid": "tondabayashi-dc9ff3-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ブーランジェリー ベルドール",
       "address": "富田林市藤沢台5-2-11",
       "storeid": "tondabayashi-98ab7b",
       "shopid": "tondabayashi-98ab7b-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "菓子工房yamao 藤沢台本店",
       "address": "富田林市藤沢台6-3-1",
       "storeid": "tondabayashi-bbff2e",
       "shopid": "tondabayashi-bbff2e-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ワーフル金剛店",
       "address": "富田林市寺池台1-20ー1",
       "storeid": "tondabayashi-cc761f",
       "shopid": "tondabayashi-cc761f-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "肉の和 金剛店",
       "address": "富田林市寺池台1-9-60金剛ショッピングモールB1F",
       "storeid": "tondabayashi-b98819",
       "shopid": "tondabayashi-b98819-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "ヤマザキショップ 済生会富田林病院店",
       "address": "富田林市向陽台1-3-36富田林病院内2階",
       "storeid": "tondabayashi-cf6446",
       "shopid": "tondabayashi-cf6446-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "Milleepi",
       "address": "富田林市向陽台2-19-9",
       "storeid": "tondabayashi-8b20e3",
       "shopid": "tondabayashi-8b20e3-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "大いちょう",
       "address": "富田林市向陽台2-22-16",
       "storeid": "tondabayashi-5101db",
       "shopid": "tondabayashi-5101db-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "お菓子の夢工房 樹",
       "address": "富田林市向陽台2-7-31-102",
       "storeid": "tondabayashi-bc7103",
       "shopid": "tondabayashi-bc7103-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "まるさん",
       "address": "富田林市向陽台3-1-1",
       "storeid": "tondabayashi-ab554b",
       "shopid": "tondabayashi-ab554b-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "魚富",
       "address": "富田林市向陽台3-1-1エコール・ロゼ",
       "storeid": "tondabayashi-d17006",
       "shopid": "tondabayashi-d17006-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "アレクトール ロゼ金剛店",
       "address": "富田林市向陽台3-1-1エコールロゼ1階",
       "storeid": "tondabayashi-757732",
       "shopid": "tondabayashi-757732-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "atelier kaka icing cookies",
       "address": "富田林市向陽台3-3-5409",
       "storeid": "tondabayashi-e3ab5a",
       "shopid": "tondabayashi-e3ab5a-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "青木松風庵 富田林店",
       "address": "富田林市小金台2-1-36",
       "storeid": "tondabayashi-088519",
       "shopid": "tondabayashi-088519-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "TOMOMO kitchen",
       "address": "富田林市桜ケ丘町2-55-409",
       "storeid": "tondabayashi-a195c3",
       "shopid": "tondabayashi-a195c3-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "24h無人ホルモン直売所 富田林店",
       "address": "富田林市昭和町2-1-39河南ハイツ103号室",
       "storeid": "tondabayashi-082725",
       "shopid": "tondabayashi-082725-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "菓子工房yamao 富田林店",
       "address": "富田林市本町19-15",
       "storeid": "tondabayashi-70ad99",
       "shopid": "tondabayashi-70ad99-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "観光交流施設 きらめきファクトリー",
       "address": "富田林市本町19-8",
       "storeid": "tondabayashi-447f0b",
       "shopid": "tondabayashi-447f0b-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Akala",
       "address": "富田林市本町20-9",
       "storeid": "tondabayashi-5c7f79",
       "shopid": "tondabayashi-5c7f79-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ミートショップ半田",
       "address": "富田林市本町21-7",
       "storeid": "tondabayashi-955da8",
       "shopid": "tondabayashi-955da8-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     }
   ],
   "サービス / エステティックサ ロン": [
@@ -2575,119 +3957,186 @@
       "address": "富田林市喜志町3-11-2リンゴビル301",
       "storeid": "tondabayashi-380e3e",
       "shopid": "tondabayashi-380e3e-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "RuanaNail",
       "address": "富田林市喜志町5-5-28",
       "storeid": "tondabayashi-d94347",
       "shopid": "tondabayashi-d94347-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "EN-NAIL 富田林店",
       "address": "富田林市若松町2-2-13",
       "storeid": "tondabayashi-76f9e8",
       "shopid": "tondabayashi-76f9e8-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ネイルサロンCOCO",
       "address": "富田林市寿町1-7-7",
       "storeid": "tondabayashi-197dbc",
       "shopid": "tondabayashi-197dbc-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "MOA salon",
       "address": "富田林市常盤町1-8富田林センタービル3D",
       "storeid": "tondabayashi-5876dd",
       "shopid": "tondabayashi-5876dd-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Bettybeautysalon",
       "address": "富田林市常盤町5-8",
       "storeid": "tondabayashi-151a8c",
       "shopid": "tondabayashi-151a8c-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "BeautyHomeSalon",
       "address": "富田林市富田林町15-11",
       "storeid": "tondabayashi-cf90a4",
       "shopid": "tondabayashi-cf90a4-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ROBED",
       "address": "富田林市清水町3-4-406",
       "storeid": "tondabayashi-afa7b2",
       "shopid": "tondabayashi-afa7b2-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ネイルサロン ソートネイル",
       "address": "富田林市金剛伏山台9-24",
       "storeid": "tondabayashi-2e8db1",
       "shopid": "tondabayashi-2e8db1-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "花夢幻",
       "address": "富田林市錦織東3-7-5",
       "storeid": "tondabayashi-b77e55",
       "shopid": "tondabayashi-b77e55-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "nail tokotoko",
       "address": "富田林市藤沢台3-2-43C-101",
       "storeid": "tondabayashi-290ef4",
       "shopid": "tondabayashi-290ef4-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "aimable",
       "address": "富田林市藤沢台7-3",
       "storeid": "tondabayashi-2f09ba",
       "shopid": "tondabayashi-2f09ba-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "NECCO NAIL",
       "address": "富田林市藤沢台7-7-22",
       "storeid": "tondabayashi-e9c345",
       "shopid": "tondabayashi-e9c345-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "レイアップ 金剛",
       "address": "富田林市寺池台1-20-22",
       "storeid": "tondabayashi-e14e3a",
       "shopid": "tondabayashi-e14e3a-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "いっちも〜れ",
       "address": "富田林市向陽台19-9いっちも〜れ",
       "storeid": "tondabayashi-80adca",
       "shopid": "tondabayashi-80adca-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "メナードフェイシャルサロン lazuli light",
       "address": "富田林市小金台3-8-8ディアコート小金台E102",
       "storeid": "tondabayashi-f514f0",
       "shopid": "tondabayashi-f514f0-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Hinapinail nailbell",
       "address": "富田林市昭和町1907-1ルルカリス富田林",
       "storeid": "tondabayashi-096e37",
       "shopid": "tondabayashi-096e37-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     }
   ],
   "飲食 / 居酒屋・パブ・バー": [
@@ -2696,294 +4145,456 @@
       "address": "富田林市喜志町3-1-38白菊ビル1階",
       "storeid": "tondabayashi-17fa3d",
       "shopid": "tondabayashi-17fa3d-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "縁",
       "address": "富田林市喜志町3ー11ー1ヤマサキビル1F",
       "storeid": "tondabayashi-2ad6d8",
       "shopid": "tondabayashi-2ad6d8-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "茄子び",
       "address": "富田林市喜志町3-4-27",
       "storeid": "tondabayashi-45dc88",
       "shopid": "tondabayashi-45dc88-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "いってつ",
       "address": "富田林市喜志町5-1-4木下ビル1F",
       "storeid": "tondabayashi-5ca3f0",
       "shopid": "tondabayashi-5ca3f0-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "焼肉ガ王",
       "address": "富田林市喜志町5-3-3",
       "storeid": "tondabayashi-bf4a8d",
       "shopid": "tondabayashi-bf4a8d-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "いってつ二号店",
       "address": "富田林市喜志町5-4-22",
       "storeid": "tondabayashi-e8f508",
       "shopid": "tondabayashi-e8f508-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "居酒屋笑暖",
       "address": "富田林市旭ケ丘町9-22グレード旭ヶ丘",
       "storeid": "tondabayashi-e3a7ae",
       "shopid": "tondabayashi-e3a7ae-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "天ぷら三丁目",
       "address": "富田林市中野町3-1-21グリーンコート中野101",
       "storeid": "tondabayashi-0628e4",
       "shopid": "tondabayashi-0628e4-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "宜候",
       "address": "富田林市若松町1-16-8",
       "storeid": "tondabayashi-3c08fd",
       "shopid": "tondabayashi-3c08fd-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "十六夜",
       "address": "富田林市若松町西1ー1850",
       "storeid": "tondabayashi-e35bc3",
       "shopid": "tondabayashi-e35bc3-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "BAR STYLE CRUSH",
       "address": "富田林市若松町西1-1809-1",
       "storeid": "tondabayashi-1bce85",
       "shopid": "tondabayashi-1bce85-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "ろばた焼きまつり小僧",
       "address": "富田林市若松町西1-1867-2",
       "storeid": "tondabayashi-f10271",
       "shopid": "tondabayashi-f10271-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "新屋台 大我",
       "address": "富田林市若松町西2-1402ー1",
       "storeid": "tondabayashi-c81e36",
       "shopid": "tondabayashi-c81e36-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "大政寿司",
       "address": "富田林市常盤町10-34",
       "storeid": "tondabayashi-5e5756",
       "shopid": "tondabayashi-5e5756-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "凪絆",
       "address": "富田林市常盤町11-6",
       "storeid": "tondabayashi-91005a",
       "shopid": "tondabayashi-91005a-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "あんこ暮らし",
       "address": "富田林市常盤町4-17",
       "storeid": "tondabayashi-6321ef",
       "shopid": "tondabayashi-6321ef-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "SNACK MIMI",
       "address": "富田林市常盤町6-7",
       "storeid": "tondabayashi-6107c3",
       "shopid": "tondabayashi-6107c3-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "居炉鶏鳥 よりどり味鳥",
       "address": "富田林市常盤町7−7",
       "storeid": "tondabayashi-03dfc8",
       "shopid": "tondabayashi-03dfc8-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "バンリノハル ビアホール",
       "address": "富田林市富田林町21-22",
       "storeid": "tondabayashi-c4b7bc",
       "shopid": "tondabayashi-c4b7bc-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "TONDA MI",
       "address": "富田林市谷川町3-4102",
       "storeid": "tondabayashi-a91bcd",
       "shopid": "tondabayashi-a91bcd-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "串かつ はやし",
       "address": "富田林市甲田1-3-21",
       "storeid": "tondabayashi-2bdec5",
       "shopid": "tondabayashi-2bdec5-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "とりぞう 富田林店",
       "address": "富田林市甲田3-3-34",
       "storeid": "tondabayashi-7672a1",
       "shopid": "tondabayashi-7672a1-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "自家製ぱん prunus",
       "address": "富田林市川向町7-16",
       "storeid": "tondabayashi-ee355d",
       "shopid": "tondabayashi-ee355d-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "居酒屋はっちん 富田林須賀店",
       "address": "富田林市須賀1-5-5アミューズ須賀1F",
       "storeid": "tondabayashi-efd678",
       "shopid": "tondabayashi-efd678-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "串カツ&もつ鍋 うっでぃ",
       "address": "富田林市須賀2-15-4",
       "storeid": "tondabayashi-cf507a",
       "shopid": "tondabayashi-cf507a-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "plus bar",
       "address": "富田林市須賀2-15-5",
       "storeid": "tondabayashi-671506",
       "shopid": "tondabayashi-671506-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "アクティブ富田林",
       "address": "富田林市須賀2-19-112F",
       "storeid": "tondabayashi-d3bf24",
       "shopid": "tondabayashi-d3bf24-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "居酒屋ぼちぼち",
       "address": "富田林市須賀2-19-8",
       "storeid": "tondabayashi-db87e9",
       "shopid": "tondabayashi-db87e9-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ダイニングバー TaMaRaN ミュージックハウス 気まぐれハート",
       "address": "富田林市須賀2-28-19",
       "storeid": "tondabayashi-d7497c",
       "shopid": "tondabayashi-d7497c-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "養老乃瀧 滝谷不動店",
       "address": "富田林市錦織東3-3-2",
       "storeid": "tondabayashi-830481",
       "shopid": "tondabayashi-830481-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "鶏酒彩匠",
       "address": "富田林市藤沢台3-10-20",
       "storeid": "tondabayashi-af2421",
       "shopid": "tondabayashi-af2421-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "やきとりしば家",
       "address": "富田林市久野喜台1-1-11",
       "storeid": "tondabayashi-8e1a7f",
       "shopid": "tondabayashi-8e1a7f-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "イタリアンバルAuguri",
       "address": "富田林市久野喜台2ー4ー18ー1階",
       "storeid": "tondabayashi-e89b9f",
       "shopid": "tondabayashi-e89b9f-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ホルモンしらい",
       "address": "富田林市加太1-5-1",
       "storeid": "tondabayashi-8d333b",
       "shopid": "tondabayashi-8d333b-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "PADOLOCK",
       "address": "富田林市新家2-12-35",
       "storeid": "tondabayashi-e91237",
       "shopid": "tondabayashi-e91237-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "東雲しょくどう",
       "address": "富田林市昭和町2-1-39河南ハイツ102号室",
       "storeid": "tondabayashi-42b5b1",
       "shopid": "tondabayashi-42b5b1-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "かもめこっぺ",
       "address": "富田林市本町13-16",
       "storeid": "tondabayashi-e451f9",
       "shopid": "tondabayashi-e451f9-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "魚民 富田林南口駅前店",
       "address": "富田林市本町18-19",
       "storeid": "tondabayashi-def74a",
       "shopid": "tondabayashi-def74a-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "いち梅寿司",
       "address": "富田林市本町19-1",
       "storeid": "tondabayashi-631ee9",
       "shopid": "tondabayashi-631ee9-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "SICKS",
       "address": "富田林市本町19-1一梅ビル2F",
       "storeid": "tondabayashi-5c139d",
       "shopid": "tondabayashi-5c139d-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "おうどんと明石焼 美佳月",
       "address": "富田林市本町20-11",
       "storeid": "tondabayashi-e9f50d",
       "shopid": "tondabayashi-e9f50d-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "鳥貴族 富田林店",
       "address": "富田林市本町520-2ニューナカヤビル3F",
       "storeid": "tondabayashi-d9b7a9",
       "shopid": "tondabayashi-d9b7a9-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     }
   ],
   "各種小売 / 衣服・靴・服飾品・ カバン・バッグ": [
@@ -2992,203 +4603,315 @@
       "address": "富田林市喜志町3-5-20",
       "storeid": "tondabayashi-3e33d3",
       "shopid": "tondabayashi-3e33d3-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "SUNSET",
       "address": "富田林市桜井町1-12-12",
       "storeid": "tondabayashi-8dfd89",
       "shopid": "tondabayashi-8dfd89-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "北野洋品店",
       "address": "富田林市常盤町5-3",
       "storeid": "tondabayashi-4e5a89",
       "shopid": "tondabayashi-4e5a89-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ぶぷれBUPLE",
       "address": "富田林市富田林町10-12",
       "storeid": "tondabayashi-948c51",
       "shopid": "tondabayashi-948c51-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ミネミネ",
       "address": "富田林市富田林町17-43",
       "storeid": "tondabayashi-8c5eb3",
       "shopid": "tondabayashi-8c5eb3-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "大正絽漫",
       "address": "富田林市富田林町24-4",
       "storeid": "tondabayashi-5744a1",
       "shopid": "tondabayashi-5744a1-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "PAREL",
       "address": "富田林市美山台7-3-1207",
       "storeid": "tondabayashi-9f5353",
       "shopid": "tondabayashi-9f5353-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Kivi",
       "address": "富田林市美山台7-4ー208",
       "storeid": "tondabayashi-f24342",
       "shopid": "tondabayashi-f24342-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "キーズ",
       "address": "富田林市北大伴町1-10-3",
       "storeid": "tondabayashi-5f735f",
       "shopid": "tondabayashi-5f735f-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "買取王国",
       "address": "富田林市宮甲田町13−10",
       "storeid": "tondabayashi-7441fb",
       "shopid": "tondabayashi-7441fb-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "工房はんど",
       "address": "富田林市錦織中1-14-1",
       "storeid": "tondabayashi-ad5b3e",
       "shopid": "tondabayashi-ad5b3e-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ベビーマッサージ教室「たなか」金剛錦織台",
       "address": "富田林市金剛錦織台8-18",
       "storeid": "tondabayashi-76b817",
       "shopid": "tondabayashi-76b817-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "おけいサン",
       "address": "富田林市寺池台1-9206-105",
       "storeid": "tondabayashi-b2b8cd",
       "shopid": "tondabayashi-b2b8cd-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ショップきのこ",
       "address": "富田林市寺池台1-9206-105",
       "storeid": "tondabayashi-98b784",
       "shopid": "tondabayashi-98b784-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ベビーマッサージ教室「たなか」",
       "address": "富田林市寺池台1-9206-105",
       "storeid": "tondabayashi-d90519",
       "shopid": "tondabayashi-d90519-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ソワンローズ",
       "address": "富田林市久野喜台2-13-9",
       "storeid": "tondabayashi-f87f7f",
       "shopid": "tondabayashi-f87f7f-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Atelier.Kiri",
       "address": "富田林市廿山1-4-6",
       "storeid": "tondabayashi-7909e5",
       "shopid": "tondabayashi-7909e5-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "エンドル",
       "address": "富田林市向陽台1-1エコール・ロゼ1F",
       "storeid": "tondabayashi-3c28a8",
       "shopid": "tondabayashi-3c28a8-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "マルシン 金剛店",
       "address": "富田林市向陽台2-7-31サンハイツ向陽101",
       "storeid": "tondabayashi-3feb07",
       "shopid": "tondabayashi-3feb07-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "本きもの松葉 エコール・ロゼ店",
       "address": "富田林市向陽台3-1-1エコール・ロゼ2F",
       "storeid": "tondabayashi-21b834",
       "shopid": "tondabayashi-21b834-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ピーチクラブ 金剛東店",
       "address": "富田林市向陽台3-1-1エコール・ロゼ2階",
       "storeid": "tondabayashi-caa3c5",
       "shopid": "tondabayashi-caa3c5-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "フェアリー",
       "address": "富田林市向陽台3-1-1エコールロゼ201-2",
       "storeid": "tondabayashi-0d7abe",
       "shopid": "tondabayashi-0d7abe-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "NO WALL エコールロゼ店",
       "address": "富田林市向陽台3-1-1エコールロゼ2F",
       "storeid": "tondabayashi-a51f03",
       "shopid": "tondabayashi-a51f03-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "工房 ハズ",
       "address": "富田林市小金台1-15-21",
       "storeid": "tondabayashi-4700e5",
       "shopid": "tondabayashi-4700e5-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "本きもの松葉",
       "address": "富田林市昭和町2-2-10",
       "storeid": "tondabayashi-0b21b9",
       "shopid": "tondabayashi-0b21b9-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "マルマサ 祭店",
       "address": "富田林市本町17-17",
       "storeid": "tondabayashi-e89eef",
       "shopid": "tondabayashi-e89eef-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "株式会社 マルマサ",
       "address": "富田林市本町18-4",
       "storeid": "tondabayashi-b73745",
       "shopid": "tondabayashi-b73745-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "北モンヤ 本店",
       "address": "富田林市本町21-23",
       "storeid": "tondabayashi-ff81e5",
       "shopid": "tondabayashi-ff81e5-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "暮らしと手仕事の店/日ヨリ",
       "address": "富田林市本町9-21階",
       "storeid": "tondabayashi-df7f0c",
       "shopid": "tondabayashi-df7f0c-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     }
   ],
   "各種小売 / 家電・家具・寝具・ キッチン用品": [
@@ -3197,70 +4920,107 @@
       "address": "富田林市喜志町3-7-22",
       "storeid": "tondabayashi-faeaa4",
       "shopid": "tondabayashi-faeaa4-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "よつばLifeCreateフラグシップいちはし",
       "address": "富田林市喜志町5-12-33小路ビル1F",
       "storeid": "tondabayashi-8792a7",
       "shopid": "tondabayashi-8792a7-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "SWITCHイベント用",
       "address": "富田林市宮町1-2-41",
       "storeid": "tondabayashi-344dbb",
       "shopid": "tondabayashi-344dbb-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "エディオンダイトーデンキ富田林店",
       "address": "富田林市若松町3-1-4",
       "storeid": "tondabayashi-dd569f",
       "shopid": "tondabayashi-dd569f-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "フタバデンキ",
       "address": "富田林市常盤町12-9",
       "storeid": "tondabayashi-4941b2",
       "shopid": "tondabayashi-4941b2-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "灯家 -akarie-®",
       "address": "富田林市富田林町16-31-2",
       "storeid": "tondabayashi-e6ce6f",
       "shopid": "tondabayashi-e6ce6f-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "中林寝装店",
       "address": "富田林市富田林町7-20",
       "storeid": "tondabayashi-89566f",
       "shopid": "tondabayashi-89566f-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "センダデンキ",
       "address": "富田林市錦織東1-3-12",
       "storeid": "tondabayashi-c1f682",
       "shopid": "tondabayashi-c1f682-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "うつわと暮らし 凛",
       "address": "富田林市高辺台2-31-8",
       "storeid": "tondabayashi-0610c8",
       "shopid": "tondabayashi-0610c8-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "インテリア・寝具 道端",
       "address": "富田林市寺池台1ー9ー60金剛ショッピングモール1F",
       "storeid": "tondabayashi-2cbd30",
       "shopid": "tondabayashi-2cbd30-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     }
   ],
   "サービス / 時間貸し駐車場": [
@@ -3269,14 +5029,20 @@
       "address": "富田林市喜志町3-8-13",
       "storeid": "tondabayashi-f0a6f8",
       "shopid": "tondabayashi-f0a6f8-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "パーキングプレイス 若松町第1",
       "address": "富田林市若松町西1-1856",
       "storeid": "tondabayashi-e55950",
       "shopid": "tondabayashi-e55950-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     }
   ],
   "ガソリンスタンド": [
@@ -3285,14 +5051,20 @@
       "address": "富田林市宮町1丁目5-27",
       "storeid": "tondabayashi-ea890a",
       "shopid": "tondabayashi-ea890a-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "コスモ石油セルフピュア富田林",
       "address": "富田林市寿町3丁目8-5",
       "storeid": "tondabayashi-eed1d5",
       "shopid": "tondabayashi-eed1d5-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     }
   ],
   "各種小売 / ガソリンスタンド": [
@@ -3301,35 +5073,50 @@
       "address": "富田林市桜井町1-5-9",
       "storeid": "tondabayashi-9b37e4",
       "shopid": "tondabayashi-9b37e4-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "関西和光 甲田SS",
       "address": "富田林市甲田3-10-24",
       "storeid": "tondabayashi-0f2ab0",
       "shopid": "tondabayashi-0f2ab0-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "apollostation 富田林錦織SS",
       "address": "富田林市錦織2407-1",
       "storeid": "tondabayashi-904b51",
       "shopid": "tondabayashi-904b51-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "キグナス石油 セルフ外環富田林",
       "address": "富田林市錦織南2-15-5",
       "storeid": "tondabayashi-9dfa9c",
       "shopid": "tondabayashi-9dfa9c-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "apollostation 外環富田林SS",
       "address": "富田林市昭和町1-648-1",
       "storeid": "tondabayashi-ad9be6",
       "shopid": "tondabayashi-ad9be6-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     }
   ],
   "ドラッグストア": [
@@ -3338,56 +5125,80 @@
       "address": "富田林市中野町1-126-2",
       "storeid": "tondabayashi-da4bf5",
       "shopid": "tondabayashi-da4bf5-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "キリン堂 富田林中野店",
       "address": "富田林市中野町3-3025-1",
       "storeid": "tondabayashi-ad70ee",
       "shopid": "tondabayashi-ad70ee-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "キリン堂 富田林若松店",
       "address": "富田林市若松町2-1-7",
       "storeid": "tondabayashi-4ccf98",
       "shopid": "tondabayashi-4ccf98-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "スギドラッグ富田林若松店",
       "address": "富田林市若松町5-2-11",
       "storeid": "tondabayashi-8b856e",
       "shopid": "tondabayashi-8b856e-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "スギドラッグ富田林甲田店",
       "address": "富田林市甲田3-3-35",
       "storeid": "tondabayashi-39a912",
       "shopid": "tondabayashi-39a912-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "ココカラファイン山中田店",
       "address": "富田林市山中田町1-237-1",
       "storeid": "tondabayashi-fa2859",
       "shopid": "tondabayashi-fa2859-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "ココカラファイン向陽台店",
       "address": "富田林市向陽台1-2-7",
       "storeid": "tondabayashi-1088ce",
       "shopid": "tondabayashi-1088ce-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "マツモトキヨシ エコール・ロゼ店",
       "address": "富田林市向陽台3-1-1",
       "storeid": "tondabayashi-6ef9ec",
       "shopid": "tondabayashi-6ef9ec-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     }
   ],
   "サービス / ハウスクリーニン グ(衣服洗濯業以外)": [
@@ -3396,35 +5207,51 @@
       "address": "富田林市中野町1-205-1",
       "storeid": "tondabayashi-f8a7ac",
       "shopid": "tondabayashi-f8a7ac-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "タカケンクリーニング寺池台店",
       "address": "富田林市寺池台1-9-60",
       "storeid": "tondabayashi-95a0f1",
       "shopid": "tondabayashi-95a0f1-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "ノムラクリーニング 小金台店",
       "address": "富田林市小金台2-1-38",
       "storeid": "tondabayashi-cdc5d3",
       "shopid": "tondabayashi-cdc5d3-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "クリーニングルビー コノミヤ富田林店",
       "address": "富田林市昭和町1-7-1",
       "storeid": "tondabayashi-771344",
       "shopid": "tondabayashi-771344-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "大黒屋クリーニング",
       "address": "富田林市本町3-18",
       "storeid": "tondabayashi-e04364",
       "shopid": "tondabayashi-e04364-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     }
   ],
   "各種小売 / 書籍・文具・楽器・ スポーツ・自転車・おもちゃ・ CD・DVD": [
@@ -3433,98 +5260,149 @@
       "address": "富田林市中野町1-451",
       "storeid": "tondabayashi-7de2ff",
       "shopid": "tondabayashi-7de2ff-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "えじま",
       "address": "富田林市中野町3-3-20",
       "storeid": "tondabayashi-ca766a",
       "shopid": "tondabayashi-ca766a-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "富田林イトマンss",
       "address": "富田林市若松町2-6-15",
       "storeid": "tondabayashi-7e9907",
       "shopid": "tondabayashi-7e9907-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "サイクルヒーロー 富田林店",
       "address": "富田林市若松町5-6-1",
       "storeid": "tondabayashi-b44937",
       "shopid": "tondabayashi-b44937-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "小池ピアノメンテナンス",
       "address": "富田林市若松町西1-1889-11106",
       "storeid": "tondabayashi-5844ee",
       "shopid": "tondabayashi-5844ee-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "富田林イトマンss",
       "address": "富田林市若松町西2-1732",
       "storeid": "tondabayashi-6fae3b",
       "shopid": "tondabayashi-6fae3b-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "上野スポーツ 富田林店",
       "address": "富田林市常盤町10-33",
       "storeid": "tondabayashi-5e02c1",
       "shopid": "tondabayashi-5e02c1-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "上田盛文堂",
       "address": "富田林市常盤町11-4",
       "storeid": "tondabayashi-b4746b",
       "shopid": "tondabayashi-b4746b-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "松田頌文堂",
       "address": "富田林市谷川町3-9",
       "storeid": "tondabayashi-567e6f",
       "shopid": "tondabayashi-567e6f-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "バイシクルランドSakatani 滝谷駅前店",
       "address": "富田林市須賀2-18-18中村ビル1階",
       "storeid": "tondabayashi-bb123e",
       "shopid": "tondabayashi-bb123e-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "BICYCLE SHOP AXIS",
       "address": "富田林市大字須賀138-1",
       "storeid": "tondabayashi-c491ca",
       "shopid": "tondabayashi-c491ca-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "喜久屋書店 富田林店",
       "address": "富田林市向陽台1-1エコール・ロゼ3F",
       "storeid": "tondabayashi-9ea196",
       "shopid": "tondabayashi-9ea196-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "天理楽器 富田林店",
       "address": "富田林市向陽台2-6-23",
       "storeid": "tondabayashi-8bec94",
       "shopid": "tondabayashi-8bec94-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "芦田書店",
       "address": "富田林市本町14-13",
       "storeid": "tondabayashi-d9cbb6",
       "shopid": "tondabayashi-d9cbb6-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     }
   ],
   "各種小売 / 酒類・リカーショッ プ": [
@@ -3533,21 +5411,33 @@
       "address": "富田林市若松町3ー5ー6",
       "storeid": "tondabayashi-6e3151",
       "shopid": "tondabayashi-6e3151-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "株式会社梶安",
       "address": "富田林市寿町4-10-6",
       "storeid": "tondabayashi-bcf13e",
       "shopid": "tondabayashi-bcf13e-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "美登里屋米酒販",
       "address": "富田林市高辺台1-11-15",
       "storeid": "tondabayashi-1d9b67",
       "shopid": "tondabayashi-1d9b67-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     }
   ],
   "交通・宅配・運転代行 / 運転 代行業": [
@@ -3556,7 +5446,11 @@
       "address": "富田林市若松町4-14-39",
       "storeid": "tondabayashi-22af4a",
       "shopid": "tondabayashi-22af4a-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     }
   ],
   "医療・保険・公共サービス / 学 校法人・学校教育": [
@@ -3565,7 +5459,11 @@
       "address": "富田林市若松町5-15-11階",
       "storeid": "tondabayashi-eb3f96",
       "shopid": "tondabayashi-eb3f96-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     }
   ],
   "サービス / 住宅建設・リ フォーム": [
@@ -3574,7 +5472,11 @@
       "address": "富田林市若松町5-4-11",
       "storeid": "tondabayashi-b061ce",
       "shopid": "tondabayashi-b061ce-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     }
   ],
   "家電量販店": [
@@ -3583,21 +5485,30 @@
       "address": "富田林市若松町西1-1816-1",
       "storeid": "tondabayashi-26356d",
       "shopid": "tondabayashi-26356d-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "ケーズデンキ クロスモール富田林店",
       "address": "富田林市彼方989",
       "storeid": "tondabayashi-62c1d1",
       "shopid": "tondabayashi-62c1d1-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "エディオン 富田林店",
       "address": "富田林市昭和町1-7-1",
       "storeid": "tondabayashi-15347d",
       "shopid": "tondabayashi-15347d-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     }
   ],
   "飲食 / ファーストフード": [
@@ -3606,14 +5517,20 @@
       "address": "富田林市若松町西1-1839-1コテラビル1階",
       "storeid": "tondabayashi-6f7b70",
       "shopid": "tondabayashi-6f7b70-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "にぎり長次郎 富田林店",
       "address": "富田林市向陽台2-1-1",
       "storeid": "tondabayashi-7aad11",
       "shopid": "tondabayashi-7aad11-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     }
   ],
   "各種小売 / 医薬品・化粧品・ド ラッグストア": [
@@ -3622,42 +5539,63 @@
       "address": "富田林市若松町西1-1842-1",
       "storeid": "tondabayashi-b204dc",
       "shopid": "tondabayashi-b204dc-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "メナード若西AZULVERDE",
       "address": "富田林市若松町西3-1447-19",
       "storeid": "tondabayashi-e584f4",
       "shopid": "tondabayashi-e584f4-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ユーミン薬品店",
       "address": "富田林市向陽台2-7-20",
       "storeid": "tondabayashi-000db8",
       "shopid": "tondabayashi-000db8-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "キタバ ロゼ店",
       "address": "富田林市向陽台3ー1ー1エコール・ロゼ1階",
       "storeid": "tondabayashi-64e365",
       "shopid": "tondabayashi-64e365-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ウエルシア富田林小金台店",
       "address": "富田林市小金台1-11-25",
       "storeid": "tondabayashi-80593f",
       "shopid": "tondabayashi-80593f-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "ウエルシア富田林津々山台店",
       "address": "富田林市津々山台5-5-1",
       "storeid": "tondabayashi-15838c",
       "shopid": "tondabayashi-15838c-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     }
   ],
   "ビューティ・リラクゼーション / エステティックサロン": [
@@ -3666,14 +5604,22 @@
       "address": "富田林市若松町西1-1882-1麻野ビル602号室",
       "storeid": "tondabayashi-19949f",
       "shopid": "tondabayashi-19949f-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "Feuile",
       "address": "富田林市宮甲田町1-70",
       "storeid": "tondabayashi-98ea14",
       "shopid": "tondabayashi-98ea14-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     }
   ],
   "各種小売 / 時計・貴金属・メ ガネ・カメラ": [
@@ -3682,21 +5628,32 @@
       "address": "富田林市若松町西2-1401",
       "storeid": "tondabayashi-d6a3eb",
       "shopid": "tondabayashi-d6a3eb-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "MOCA 金剛店",
       "address": "富田林市寺池台1-20-18",
       "storeid": "tondabayashi-2627dc",
       "shopid": "tondabayashi-2627dc-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ジュエリーフルミヤ エコールロゼ店",
       "address": "富田林市向陽台3-1-1エコールロゼ1F",
       "storeid": "tondabayashi-443ddd",
       "shopid": "tondabayashi-443ddd-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     }
   ],
   "ホームセンター": [
@@ -3705,21 +5662,30 @@
       "address": "富田林市若松町西3-1424-1",
       "storeid": "tondabayashi-1534a1",
       "shopid": "tondabayashi-1534a1-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "ホームセンターコーナン富田林店",
       "address": "富田林市甲田3-12-1",
       "storeid": "tondabayashi-50baf4",
       "shopid": "tondabayashi-50baf4-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "ホームセンターコーナン 富田林錦織店",
       "address": "富田林市錦織北2-14-55",
       "storeid": "tondabayashi-19fd99",
       "shopid": "tondabayashi-19fd99-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     }
   ],
   "サービス / DPE・印刷・コ ピー": [
@@ -3728,14 +5694,21 @@
       "address": "富田林市甲田1-45",
       "storeid": "tondabayashi-b4e4f8",
       "shopid": "tondabayashi-b4e4f8-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "パレットプラザ コノミヤ富田林店",
       "address": "富田林市昭和町1-7-1コノミヤ富田林店西館",
       "storeid": "tondabayashi-fb3198",
       "shopid": "tondabayashi-fb3198-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     }
   ],
   "スクール / 学習塾": [
@@ -3744,7 +5717,11 @@
       "address": "富田林市甲田2−20−14",
       "storeid": "tondabayashi-db1935",
       "shopid": "tondabayashi-db1935-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     }
   ],
   "サービス / ホテル・旅館・レ ジャー・浴場": [
@@ -3753,21 +5730,33 @@
       "address": "富田林市佐備1500",
       "storeid": "tondabayashi-4205b5",
       "shopid": "tondabayashi-4205b5-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "グランドホテル二葉",
       "address": "富田林市大字彼方243-6",
       "storeid": "tondabayashi-70d32f",
       "shopid": "tondabayashi-70d32f-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "ビジネスinn翠月",
       "address": "富田林市彼方242-3",
       "storeid": "tondabayashi-670943",
       "shopid": "tondabayashi-670943-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     }
   ],
   "サービス / 接客業": [
@@ -3776,14 +5765,21 @@
       "address": "富田林市須賀2-18-14",
       "storeid": "tondabayashi-32deb5",
       "shopid": "tondabayashi-32deb5-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "プルミエール 富田林店",
       "address": "富田林市高辺台1-2-14",
       "storeid": "tondabayashi-2ee904",
       "shopid": "tondabayashi-2ee904-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     }
   ],
   "各種小売 / 百貨店・GMS・ ディスカウントストア・ホーム センター": [
@@ -3792,14 +5788,20 @@
       "address": "富田林市向陽台3-1-1",
       "storeid": "tondabayashi-068a66",
       "shopid": "tondabayashi-068a66-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     },
     {
       "name": "Pink Diamond エコールロゼ",
       "address": "富田林市向陽台3-1-1",
       "storeid": "tondabayashi-94997c",
       "shopid": "tondabayashi-94997c-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     }
   ],
   "サービス / 旅行代理店・旅行 業": [
@@ -3808,7 +5810,10 @@
       "address": "富田林市向陽台3-1-1エコール・ロゼ4階",
       "storeid": "tondabayashi-fd5cfc",
       "shopid": "tondabayashi-fd5cfc-paypay-voucher",
-      "note": "共通券のみ利用可能(地元応援券は対象外)"
+      "note": "共通券のみ利用可能(地元応援券は対象外)",
+      "voucherTypes": [
+        "common"
+      ]
     }
   ],
   "サービス / 学習塾・語学教室・ パソコン教室・カルチャース クール": [
@@ -3817,21 +5822,33 @@
       "address": "富田林市小金台2-1-302F",
       "storeid": "tondabayashi-06c1cc",
       "shopid": "tondabayashi-06c1cc-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "清水ピアノ教室",
       "address": "富田林市津々山台1-1-3-405",
       "storeid": "tondabayashi-5722e4",
       "shopid": "tondabayashi-5722e4-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     },
     {
       "name": "韓国語スクールMalMoi",
       "address": "富田林市富美ケ丘町13-55",
       "storeid": "tondabayashi-92d6ff",
       "shopid": "tondabayashi-92d6ff-paypay-voucher",
-      "note": "共通券・地元応援券が利用可能"
+      "note": "共通券・地元応援券が利用可能",
+      "voucherTypes": [
+        "common",
+        "local"
+      ]
     }
   ]
 }

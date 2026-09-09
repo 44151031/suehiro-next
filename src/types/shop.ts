@@ -3,6 +3,7 @@ export type Shop = {
   address: string;
   shopid?: string;
   note?: string;
+  voucherTypes?: ("common" | "local")[];
 };
 
 export type ShopDetail = {

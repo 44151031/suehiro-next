@@ -1,6 +1,7 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useContext, useEffect, useState } from "react";
+import { ShopSupportContext } from "@/components/sections/shop/ShopSupportContext";
 import { toggleSupport as toggleSupportAction } from "@/app/actions/support";
 import { toast } from "sonner";
 import { supabaseClient } from "@/lib/supabase/client";
@@ -28,6 +29,7 @@ type Props = {
 };
 
 export default function SupportButton({ shopid, initialLikes, initialLiked }: Props) {
+  const updateSupport = useContext(ShopSupportContext);
   const [likes, setLikes] = useState<number>(initialLikes ?? 0);
   const [liked, setLiked] = useState<boolean>(initialLiked ?? false);
   const [pending, setPending] = useState<boolean>(false);
@@ -140,6 +142,7 @@ export default function SupportButton({ shopid, initialLikes, initialLiked }: Pr
       setLiked(result.liked);
       setLikes(result.likes);
       setIsLimit(result.likes >= 10);
+      updateSupport?.(shopid, result.likes, result.liked);
       localStorage.removeItem("shop_ranking_cache");
       trackSupportEvent(result.liked ? "added" : "removed");
 

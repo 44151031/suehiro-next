@@ -57,6 +57,8 @@ def save(pref, city, pay, rows, url, note, source_date=None):
         item = dict(name=r['name'], address=r['address'], storeid=storeid, shopid=shopid)
         if r['note']:
             item['note'] = r['note']
+        if 'voucherTypes' in r:
+            item['voucherTypes'] = r['voucherTypes']
         groups[r['genre']].append(item)
     ids = [x['shopid'] for group in groups.values() for x in group]
     assert ids and len(ids) == len(set(ids)), f'Duplicate IDs: {base}'
@@ -113,7 +115,9 @@ for table in tables('tondabayashi'):
     for r in table:
         if len(r)!=5 or not r[0] or not any(mark in (r[3] or '') for mark in ['〇','○']): continue
         both = any(mark in (r[4] or '') for mark in ['〇','○'])
-        rows.append(row(r[0], '富田林市'+clean(r[1]), r[2], '共通券・地元応援券が利用可能' if both else '共通券のみ利用可能（地元応援券は対象外）'))
+        item = row(r[0], '富田林市'+clean(r[1]), r[2], '共通券・地元応援券が利用可能' if both else '共通券のみ利用可能（地元応援券は対象外）')
+        item['voucherTypes'] = ['common', 'local'] if both else ['common']
+        rows.append(item)
 save('osaka','tondabayashi','paypay-voucher',rows,'https://www.city.tondabayashi.lg.jp/uploaded/attachment/115818.pdf','とっぴーPAY対象店。共通券と地元応援券の区分を店舗ごとに表示しています。')
 
 rows=[]
