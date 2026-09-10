@@ -4,6 +4,7 @@ export type Shop = {
   shopid?: string;
   note?: string;
   voucherTypes?: ("common" | "local")[];
+  benefit?: { rate: number; type: "cashback" | "discount" };
 };
 
 export type ShopDetail = {

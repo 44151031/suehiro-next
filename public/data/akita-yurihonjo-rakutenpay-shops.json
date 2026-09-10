@@ -5,1148 +5,1804 @@
       "address": "由利本荘市一番堰187-1",
       "storeid": "yurihonjo-e8dc77",
       "shopid": "yurihonjo-e8dc77-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "apollostation 本荘バイパスSS",
       "address": "由利本荘市水林28-10",
       "storeid": "yurihonjo-6e86a3",
       "shopid": "yurihonjo-6e86a3-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "atomoon",
       "address": "由利本荘市小人町26-2",
       "storeid": "yurihonjo-737926",
       "shopid": "yurihonjo-737926-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "Aコープおおうち",
       "address": "由利本荘市大内三川字三川38",
       "storeid": "yurihonjo-686af5",
       "shopid": "yurihonjo-686af5-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "Aコープやしま",
       "address": "由利本荘市矢島町七日町字熊之堂131-1",
       "storeid": "yurihonjo-fd204a",
       "shopid": "yurihonjo-fd204a-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "Aコープ子吉",
       "address": "由利本荘市埋田字小館81-3",
       "storeid": "yurihonjo-9fd5b1",
       "shopid": "yurihonjo-9fd5b1-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "Bar Jungle",
       "address": "由利本荘市裏尾崎町57-4 FM2ビル2F",
       "storeid": "yurihonjo-945d4f",
       "shopid": "yurihonjo-945d4f-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "Bell Epoc イオンスーパーセンター本荘店",
       "address": "由利本荘市石脇田中138 イオン本荘SC内",
       "storeid": "yurihonjo-2beb7e",
       "shopid": "yurihonjo-2beb7e-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "B-Rサーティワンアイスクリーム イオンスーパーセンター本荘店",
       "address": "由利本荘市石脇字田中138 イオン本荘SC内",
       "storeid": "yurihonjo-142951",
       "shopid": "yurihonjo-142951-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "DAYS",
       "address": "由利本荘市砂子下31",
       "storeid": "yurihonjo-550791",
       "shopid": "yurihonjo-550791-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "DOGU",
       "address": "由利本荘市岩城内道川観音下1 三浦製材所倉庫内",
       "storeid": "yurihonjo-1f4be3",
       "shopid": "yurihonjo-1f4be3-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ENEOSニュー矢島SS",
       "address": "由利本荘市矢島町七日町字熊之堂56-1",
       "storeid": "yurihonjo-209e23",
       "shopid": "yurihonjo-209e23-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "FLAQ",
       "address": "由利本荘市 裏尾崎町8-1",
       "storeid": "yurihonjo-f795c6",
       "shopid": "yurihonjo-f795c6-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "fuuukei",
       "address": "由利本荘市新田字壱ノ台41",
       "storeid": "yurihonjo-42e4ea",
       "shopid": "yurihonjo-42e4ea-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "GARAGE",
       "address": "由利本荘市本荘64 AIBAビル201",
       "storeid": "yurihonjo-3464e3",
       "shopid": "yurihonjo-3464e3-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "hair make cocoro",
       "address": "由利本荘市一番堰117-24",
       "storeid": "yurihonjo-6a52e4",
       "shopid": "yurihonjo-6a52e4-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "hairsalonkinone",
       "address": "由利本荘市一番堰228",
       "storeid": "yurihonjo-81abfa",
       "shopid": "yurihonjo-81abfa-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "HALO outdoor",
       "address": "由利本荘市谷地町131",
       "storeid": "yurihonjo-f4ac33",
       "shopid": "yurihonjo-f4ac33-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "JA-SS 鮎川給油センター",
       "address": "由利本荘市東鮎川字石垣327",
       "storeid": "yurihonjo-30cd42",
       "shopid": "yurihonjo-30cd42-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "JA-SS 岩城給油センター",
       "address": "由利本荘市岩城勝手字鳥ヶ森27-10",
       "storeid": "yurihonjo-1ef8f1",
       "shopid": "yurihonjo-1ef8f1-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "JA-SS 笹子給油センター",
       "address": "由利本荘市鳥海町上笹子字堺台109-1",
       "storeid": "yurihonjo-2c69c6",
       "shopid": "yurihonjo-2c69c6-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "JA-SS 大内給油センター",
       "address": "由利本荘市大内三川字三川41",
       "storeid": "yurihonjo-6c8b24",
       "shopid": "yurihonjo-6c8b24-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "JA-SS 鳥海給油センター",
       "address": "由利本荘市鳥海町下川内字大谷地平97-1",
       "storeid": "yurihonjo-05c794",
       "shopid": "yurihonjo-05c794-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "JA-SS 東由利給油センター",
       "address": "由利本荘市東由利老方字両前寺71-2",
       "storeid": "yurihonjo-52ab65",
       "shopid": "yurihonjo-52ab65-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "JA-SS 本荘中央給油センター",
       "address": "由利本荘市荒町字塒台64",
       "storeid": "yurihonjo-80a7f3",
       "shopid": "yurihonjo-80a7f3-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "JA-SS 矢島給油センター",
       "address": "由利本荘市矢島町七日町字羽坂49-1",
       "storeid": "yurihonjo-63595e",
       "shopid": "yurihonjo-63595e-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "kofuen",
       "address": "由利本荘市花畑町4ー45 滝川テナント2階",
       "storeid": "yurihonjo-584b87",
       "shopid": "yurihonjo-584b87-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "LaLa pickles",
       "address": "由利本荘市八幡下113-3",
       "storeid": "yurihonjo-18804b",
       "shopid": "yurihonjo-18804b-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "LARCO",
       "address": "由利本荘市石脇字田尻1-190",
       "storeid": "yurihonjo-5e5248",
       "shopid": "yurihonjo-5e5248-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "LOUNGEBELLE",
       "address": "由利本荘市大門91 VINビル2F",
       "storeid": "yurihonjo-05a684",
       "shopid": "yurihonjo-05a684-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "mellow",
       "address": "由利本荘市川口字八幡前263-2 コーポレインボー1F",
       "storeid": "yurihonjo-d92c94",
       "shopid": "yurihonjo-d92c94-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "MONDE",
       "address": "由利本荘市花畑町1-38",
       "storeid": "yurihonjo-8359b2",
       "shopid": "yurihonjo-8359b2-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "OMS",
       "address": "由利本荘市川口字家後81-1",
       "storeid": "yurihonjo-8d7ccc",
       "shopid": "yurihonjo-8d7ccc-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "PADDLcargo",
       "address": "由利本荘市岩渕下35-1 2F",
       "storeid": "yurihonjo-b5df62",
       "shopid": "yurihonjo-b5df62-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "PETIT GRAIN",
       "address": "由利本荘市美倉町57",
       "storeid": "yurihonjo-f9ac90",
       "shopid": "yurihonjo-f9ac90-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "private salon Bell",
       "address": "由利本荘市本荘81",
       "storeid": "yurihonjo-89b2ff",
       "shopid": "yurihonjo-89b2ff-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "PuaLea",
       "address": "由利本荘市花畑町1-27",
       "storeid": "yurihonjo-2ac5e3",
       "shopid": "yurihonjo-2ac5e3-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "publichouse KATE",
       "address": "由利本荘市谷地町125",
       "storeid": "yurihonjo-d1c732",
       "shopid": "yurihonjo-d1c732-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "Reine Azalea",
       "address": "由利本荘市本田仲町72",
       "storeid": "yurihonjo-dae697",
       "shopid": "yurihonjo-dae697-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "Shine",
       "address": "由利本荘市表尾崎町115 ほまれビル",
       "storeid": "yurihonjo-fe19ea",
       "shopid": "yurihonjo-fe19ea-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "SWEET DREAMS",
       "address": "由利本荘市石脇田中138 イオンス-パ-センタ-本荘店",
       "storeid": "yurihonjo-a7f16e",
       "shopid": "yurihonjo-a7f16e-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "tavern calm",
       "address": "由利本荘市本荘3",
       "storeid": "yurihonjo-cfefa7",
       "shopid": "yurihonjo-cfefa7-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "TOMOKO理容室/Chinail",
       "address": "由利本荘市浜ノ町4-6",
       "storeid": "yurihonjo-3d6f54",
       "shopid": "yurihonjo-3d6f54-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "UTSUKI",
       "address": "由利本荘市 川口字八幡前263-2 コーポレインボー1階テナント3",
       "storeid": "yurihonjo-a0a4ce",
       "shopid": "yurihonjo-a0a4ce-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "アゼル ヘアー&エステ",
       "address": "由利本荘市一番堰110-14",
       "storeid": "yurihonjo-9e15ee",
       "shopid": "yurihonjo-9e15ee-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "アトリエ・タケシ",
       "address": "由利本荘市東町2-3",
       "storeid": "yurihonjo-fde880",
       "shopid": "yurihonjo-fde880-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "イエローハット秋田本荘店",
       "address": "由利本荘市一番堰239",
       "storeid": "yurihonjo-d501f0",
       "shopid": "yurihonjo-d501f0-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "いっぷく食堂ちゃん",
       "address": "由利本荘市桜小路27-1",
       "storeid": "yurihonjo-99e30a",
       "shopid": "yurihonjo-99e30a-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "オートステージ",
       "address": "由利本荘市石脇字田尻3-12",
       "storeid": "yurihonjo-7d7238",
       "shopid": "yurihonjo-7d7238-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "オリエ商会",
       "address": "由利本荘市本田仲町106",
       "storeid": "yurihonjo-b026fc",
       "shopid": "yurihonjo-b026fc-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "おれんじはうす トコ家",
       "address": "由利本荘市川口字後野96",
       "storeid": "yurihonjo-db06ef",
       "shopid": "yurihonjo-db06ef-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "オンデーズイオン本荘店",
       "address": "由利本荘市石脇字田中136 イオン本荘SC内",
       "storeid": "yurihonjo-aaf415",
       "shopid": "yurihonjo-aaf415-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "お食事処 彦",
       "address": "由利本荘市岩城内道川字新鶴潟192-43",
       "storeid": "yurihonjo-fc5c4b",
       "shopid": "yurihonjo-fc5c4b-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ガスト羽後本荘店",
       "address": "由利本荘市一番堰260",
       "storeid": "yurihonjo-37cf0d",
       "shopid": "yurihonjo-37cf0d-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "かっぱ寿司由利本荘店",
       "address": "由利本荘市石脇字尾花沢8-3",
       "storeid": "yurihonjo-c0b4eb",
       "shopid": "yurihonjo-c0b4eb-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "かなこ",
       "address": "由利本荘市花畑町2-67-1",
       "storeid": "yurihonjo-2b7c57",
       "shopid": "yurihonjo-2b7c57-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "カフェ花草",
       "address": "由利本荘市岩谷町字日渡90-6",
       "storeid": "yurihonjo-ed8243",
       "shopid": "yurihonjo-ed8243-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "キッチンカフェkino",
       "address": "由利本荘市町村字鳴瀬台65-1 鳥海山木のおもちゃ館",
       "storeid": "yurihonjo-212f56",
       "shopid": "yurihonjo-212f56-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "キャスタウェイズ",
       "address": "由利本荘市岩渕下117-6",
       "storeid": "yurihonjo-d338bb",
       "shopid": "yurihonjo-d338bb-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ギルバート",
       "address": "由利本荘市東由利老方字畑田38-1",
       "storeid": "yurihonjo-b1479e",
       "shopid": "yurihonjo-b1479e-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "グランマート一番堰店",
       "address": "由利本荘市一番堰135",
       "storeid": "yurihonjo-3bdb0b",
       "shopid": "yurihonjo-3bdb0b-rakutenpay",
-      "note": "最大5%還元"
+      "note": "最大5%還元",
+      "benefit": {
+        "rate": 5,
+        "type": "cashback"
+      }
     },
     {
       "name": "グランマート石脇店",
       "address": "由利本荘市石脇田尻野2-4",
       "storeid": "yurihonjo-573fa3",
       "shopid": "yurihonjo-573fa3-rakutenpay",
-      "note": "最大5%還元"
+      "note": "最大5%還元",
+      "benefit": {
+        "rate": 5,
+        "type": "cashback"
+      }
     },
     {
       "name": "グランマート本荘南店",
       "address": "由利本荘市堤脇15",
       "storeid": "yurihonjo-f21bb7",
       "shopid": "yurihonjo-f21bb7-rakutenpay",
-      "note": "最大5%還元"
+      "note": "最大5%還元",
+      "benefit": {
+        "rate": 5,
+        "type": "cashback"
+      }
     },
     {
       "name": "くら寿司 由利本荘",
       "address": "由利本荘市石脇字尾花沢16",
       "storeid": "yurihonjo-2276db",
       "shopid": "yurihonjo-2276db-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ケーズデンキ本荘店",
       "address": "由利本荘市東梵天141",
       "storeid": "yurihonjo-1dc004",
       "shopid": "yurihonjo-1dc004-rakutenpay",
-      "note": "最大5%還元"
+      "note": "最大5%還元",
+      "benefit": {
+        "rate": 5,
+        "type": "cashback"
+      }
     },
     {
       "name": "ココス由利本荘店",
       "address": "由利本荘市一番堰146-1",
       "storeid": "yurihonjo-42a10b",
       "shopid": "yurihonjo-42a10b-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "コスモ石油 セルフステーション本荘",
       "address": "由利本荘市石脇字田頭206-22",
       "storeid": "yurihonjo-2533e3",
       "shopid": "yurihonjo-2533e3-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "コメリH&G⻄目店",
       "address": "由利本荘市⻄目町沼田字新道下2-148",
       "storeid": "yurihonjo-ff8714",
       "shopid": "yurihonjo-ff8714-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "コメリH&G大内店",
       "address": "由利本荘市大内三川字三川26",
       "storeid": "yurihonjo-c09ab9",
       "shopid": "yurihonjo-c09ab9-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "コメリH&G本荘店",
       "address": "由利本荘市出戶町字赤沼下道58",
       "storeid": "yurihonjo-fcdaad",
       "shopid": "yurihonjo-fcdaad-rakutenpay",
-      "note": "最大5%還元"
+      "note": "最大5%還元",
+      "benefit": {
+        "rate": 5,
+        "type": "cashback"
+      }
     },
     {
       "name": "コメリH&G矢島店",
       "address": "由利本荘市矢島町七日町字曲り渕112-1",
       "storeid": "yurihonjo-5311e5",
       "shopid": "yurihonjo-5311e5-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "コメリPW本荘インター店",
       "address": "由利本荘市薬師堂36",
       "storeid": "yurihonjo-6b6fbe",
       "shopid": "yurihonjo-6b6fbe-rakutenpay",
-      "note": "最大5%還元"
+      "note": "最大5%還元",
+      "benefit": {
+        "rate": 5,
+        "type": "cashback"
+      }
     },
     {
       "name": "ジムワン",
       "address": "由利本荘市東由利老方字畑田38-1",
       "storeid": "yurihonjo-096485",
       "shopid": "yurihonjo-096485-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "しゃぶしゃぶ温野菜 秋田本荘店",
       "address": "由利本荘市表尾崎町20-21",
       "storeid": "yurihonjo-f3d5f1",
       "shopid": "yurihonjo-f3d5f1-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "シュープラザアクロス本荘",
       "address": "由利本荘市東梵天175",
       "storeid": "yurihonjo-d56481",
       "shopid": "yurihonjo-d56481-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "スイーツマーケット由利本荘店",
       "address": "由利本荘市御門278-1",
       "storeid": "yurihonjo-da8e88",
       "shopid": "yurihonjo-da8e88-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "すき家105号 由利本荘店",
       "address": "由利本荘市御門228-1",
       "storeid": "yurihonjo-eb7b89",
       "shopid": "yurihonjo-eb7b89-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "セゾンふうげつ 本荘店",
       "address": "由利本荘市中梵天1-4",
       "storeid": "yurihonjo-895e16",
       "shopid": "yurihonjo-895e16-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ソルティエラ",
       "address": "由利本荘市⻄目町沼田字新道下2-745",
       "storeid": "yurihonjo-b1b951",
       "shopid": "yurihonjo-b1b951-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ダイソー フレスポ本荘店",
       "address": "由利本荘市石脇字田頭195-2 フレスポ本荘店内2階",
       "storeid": "yurihonjo-0cc100",
       "shopid": "yurihonjo-0cc100-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ダイソー 本荘薬師堂店",
       "address": "由利本荘市薬師堂字谷地68-1",
       "storeid": "yurihonjo-4535e1",
       "shopid": "yurihonjo-4535e1-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "タイヤ館本荘",
       "address": "由利本荘市石脇字田中74-1",
       "storeid": "yurihonjo-4e5032",
       "shopid": "yurihonjo-4e5032-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ツルハドラッグフレスポ本荘店",
       "address": "由利本荘市石脇字田頭195-2",
       "storeid": "yurihonjo-c4a70e",
       "shopid": "yurihonjo-c4a70e-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ツルハドラッグ大内店",
       "address": "由利本荘市大内三川字三川34-2",
       "storeid": "yurihonjo-3aa153",
       "shopid": "yurihonjo-3aa153-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ツルハドラッグ本荘中央店",
       "address": "由利本荘市岩渕下18",
       "storeid": "yurihonjo-7d5544",
       "shopid": "yurihonjo-7d5544-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ツルハドラッグ本荘店",
       "address": "由利本荘市中梵天108",
       "storeid": "yurihonjo-954e20",
       "shopid": "yurihonjo-954e20-rakutenpay",
-      "note": "最大5%還元"
+      "note": "最大5%還元",
+      "benefit": {
+        "rate": 5,
+        "type": "cashback"
+      }
     },
     {
       "name": "ツルハドラッグ本荘南店",
       "address": "由利本荘市二番堰54",
       "storeid": "yurihonjo-67d796",
       "shopid": "yurihonjo-67d796-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ドラッグセイムス 本荘大門店",
       "address": "由利本荘市裏尾崎町50-4",
       "storeid": "yurihonjo-21aae0",
       "shopid": "yurihonjo-21aae0-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ドラッグセイムス 本荘中梵天店",
       "address": "由利本荘市中梵天132",
       "storeid": "yurihonjo-2685a9",
       "shopid": "yurihonjo-2685a9-rakutenpay",
-      "note": "最大5%還元"
+      "note": "最大5%還元",
+      "benefit": {
+        "rate": 5,
+        "type": "cashback"
+      }
     },
     {
       "name": "ドリームテテ",
       "address": "由利本荘市美倉町25-1",
       "storeid": "yurihonjo-f177fb",
       "shopid": "yurihonjo-f177fb-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "とりのトリコ本荘店",
       "address": "由利本荘市石脇字田尻野22ー15",
       "storeid": "yurihonjo-27032c",
       "shopid": "yurihonjo-27032c-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "トレンタ 本荘店",
       "address": "由利本荘市石脇字田頭206-21",
       "storeid": "yurihonjo-f1112d",
       "shopid": "yurihonjo-f1112d-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "パーティーサークルソケット",
       "address": "由利本荘市岩渕下117-6 第三リッチビル2F",
       "storeid": "yurihonjo-4606ae",
       "shopid": "yurihonjo-4606ae-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "バー月うさぎ",
       "address": "由利本荘市谷地町120",
       "storeid": "yurihonjo-ac7249",
       "shopid": "yurihonjo-ac7249-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ハッピー・ドラッグ由利本荘石脇店",
       "address": "由利本荘市石脇字田尻野22-13",
       "storeid": "yurihonjo-06e09c",
       "shopid": "yurihonjo-06e09c-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ハニーズ由利本荘店",
       "address": "由利本荘市石脇田中138 イオンスーパーセンター本荘店1F",
       "storeid": "yurihonjo-73f7f5",
       "shopid": "yurihonjo-73f7f5-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "パラダイスカフェ",
       "address": "由利本荘市八幡下151-2",
       "storeid": "yurihonjo-cc94f4",
       "shopid": "yurihonjo-cc94f4-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "フェロー美容室",
       "address": "由利本荘市花畑町1-3",
       "storeid": "yurihonjo-fcf023",
       "shopid": "yurihonjo-fcf023-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ヘアーサロンすずき",
       "address": "由利本荘市薬師堂字堂の下6-1",
       "storeid": "yurihonjo-ea2a9d",
       "shopid": "yurihonjo-ea2a9d-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ヘアーサロンみうら",
       "address": "由利本荘市東町88",
       "storeid": "yurihonjo-fcd5a5",
       "shopid": "yurihonjo-fcd5a5-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "マルフジ種苗店",
       "address": "由利本荘市大鍬町338",
       "storeid": "yurihonjo-56f442",
       "shopid": "yurihonjo-56f442-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "まるみや",
       "address": "由利本荘市東町63-7",
       "storeid": "yurihonjo-bc9dbc",
       "shopid": "yurihonjo-bc9dbc-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "まんぷく処 田吾作",
       "address": "由利本荘市東由利老方字畑田38-1",
       "storeid": "yurihonjo-d05347",
       "shopid": "yurihonjo-d05347-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "みちのくキヤンテイーン 秋田県立大学本莊キャンパス店",
       "address": "由利本荘市土谷字海老の口84-4",
       "storeid": "yurihonjo-12f11f",
       "shopid": "yurihonjo-12f11f-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "メガネの和光 東バイパス店",
       "address": "由利本荘市東梵天264-2",
       "storeid": "yurihonjo-2135ea",
       "shopid": "yurihonjo-2135ea-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "メガネの和光 本店",
       "address": "由利本荘市裏尾崎町3-4",
       "storeid": "yurihonjo-4c5501",
       "shopid": "yurihonjo-4c5501-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "モードポテチーノじゅん",
       "address": "由利本荘市表尾崎町4-3",
       "storeid": "yurihonjo-2c2a09",
       "shopid": "yurihonjo-2c2a09-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ヤマダデンキ テックランド由利本荘店",
       "address": "由利本荘市上大野117-1",
       "storeid": "yurihonjo-c4d00f",
       "shopid": "yurihonjo-c4d00f-rakutenpay",
-      "note": "最大5%還元"
+      "note": "最大5%還元",
+      "benefit": {
+        "rate": 5,
+        "type": "cashback"
+      }
     },
     {
       "name": "ヤマト運輸 秋田本荘営業所",
       "address": "由利本荘市赤沼下道51",
       "storeid": "yurihonjo-d504c0",
       "shopid": "yurihonjo-d504c0-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ゆりの里交流センターゆりえもん",
       "address": "由利本荘市前郷字御伊勢下39-2",
       "storeid": "yurihonjo-36277b",
       "shopid": "yurihonjo-36277b-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "よさい動物病院",
       "address": "由利本荘市⻄目町沼田字新道下2-753",
       "storeid": "yurihonjo-932bdd",
       "shopid": "yurihonjo-932bdd-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ラーメンいちばん星",
       "address": "由利本荘市鶴沼89-2",
       "storeid": "yurihonjo-e8f37b",
       "shopid": "yurihonjo-e8f37b-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ラーメンと定食 献の家",
       "address": "由利本荘市岩城内道川字新鶴潟192-43",
       "storeid": "yurihonjo-f880f5",
       "shopid": "yurihonjo-f880f5-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ラーメン勝負",
       "address": "由利本荘市川口字堂の腰111-1",
       "storeid": "yurihonjo-41cb6b",
       "shopid": "yurihonjo-41cb6b-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ライフファッションアカネヤ",
       "address": "由利本荘市大門48",
       "storeid": "yurihonjo-0850d0",
       "shopid": "yurihonjo-0850d0-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "リヘイム",
       "address": "由利本荘市船ヶ台15-33",
       "storeid": "yurihonjo-3dac8a",
       "shopid": "yurihonjo-3dac8a-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "ルアーショップ ゆにこん堂",
       "address": "由利本荘市花畑町4-48",
       "storeid": "yurihonjo-61cc1f",
       "shopid": "yurihonjo-61cc1f-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "阿部精肉店",
       "address": "由利本荘市大町23",
       "storeid": "yurihonjo-792b58",
       "shopid": "yurihonjo-792b58-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "花友Primavera",
       "address": "由利本荘市赤沼下59-33",
       "storeid": "yurihonjo-577d68",
       "shopid": "yurihonjo-577d68-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "希空",
       "address": "由利本荘市桜小路40",
       "storeid": "yurihonjo-b937ee",
       "shopid": "yurihonjo-b937ee-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "吉野家 105号線由利本荘",
       "address": "由利本荘市一番堰155-1",
       "storeid": "yurihonjo-e65522",
       "shopid": "yurihonjo-e65522-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "喫茶わおん",
       "address": "由利本荘市瓦谷地21-2",
       "storeid": "yurihonjo-faa779",
       "shopid": "yurihonjo-faa779-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "牛角 由利本荘店",
       "address": "由利本荘市一番堰194-1",
       "storeid": "yurihonjo-8d1017",
       "shopid": "yurihonjo-8d1017-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "居酒屋 ささちゃん",
       "address": "由利本荘市川口字八幡前34-7",
       "storeid": "yurihonjo-06f346",
       "shopid": "yurihonjo-06f346-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "居酒屋 勘乃",
       "address": "由利本荘市⻄梵天12-1",
       "storeid": "yurihonjo-99a948",
       "shopid": "yurihonjo-99a948-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "居酒屋 酒仙",
       "address": "由利本荘市花畑町1ー36",
       "storeid": "yurihonjo-cdbaac",
       "shopid": "yurihonjo-cdbaac-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "居酒屋とみ屋",
       "address": "由利本荘市花畑町1-54",
       "storeid": "yurihonjo-ccdd01",
       "shopid": "yurihonjo-ccdd01-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "黑木自動車工業",
       "address": "由利本荘市石脇字田頭71-2",
       "storeid": "yurihonjo-c7bdb4",
       "shopid": "yurihonjo-c7bdb4-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "三浦ガレージ",
       "address": "由利本荘市石脇字赤はげ1-279",
       "storeid": "yurihonjo-8339ed",
       "shopid": "yurihonjo-8339ed-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "三尺堂石油販売本荘SS",
       "address": "由利本荘市表尾崎町23",
       "storeid": "yurihonjo-d98226",
       "shopid": "yurihonjo-d98226-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "小さな美容室 かなえ",
       "address": "由利本荘市薬師堂字堤下8-4",
       "storeid": "yurihonjo-ead844",
       "shopid": "yurihonjo-ead844-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "小松園芸",
       "address": "由利本荘市裏尾崎町53-2",
       "storeid": "yurihonjo-bb7fdf",
       "shopid": "yurihonjo-bb7fdf-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "小川石油",
       "address": "由利本荘市川口字八幡前237-4",
       "storeid": "yurihonjo-45d6d3",
       "shopid": "yurihonjo-45d6d3-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "焼肉ほむら家 本荘店",
       "address": "由利本荘市赤沼下222-1",
       "storeid": "yurihonjo-6470dd",
       "shopid": "yurihonjo-6470dd-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "笑や",
       "address": "由利本荘市花畑町2-67-1",
       "storeid": "yurihonjo-b5ede3",
       "shopid": "yurihonjo-b5ede3-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "清水タイヤ工業",
       "address": "由利本荘市矢島町七日町字曲り渕142-1",
       "storeid": "yurihonjo-e358c7",
       "shopid": "yurihonjo-e358c7-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "⻄松屋チェーン フレスポ本荘店",
       "address": "由利本荘市石脇字田頭159-1",
       "storeid": "yurihonjo-7ba357",
       "shopid": "yurihonjo-7ba357-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "大友商店 自由食堂",
       "address": "由利本荘市花畑町2-48",
       "storeid": "yurihonjo-a80c6a",
       "shopid": "yurihonjo-a80c6a-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "炭火の居酒屋 マナイタ",
       "address": "由利本荘市本田仲町72",
       "storeid": "yurihonjo-78bdc2",
       "shopid": "yurihonjo-78bdc2-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "中央モータース スズキアリーナ本荘",
       "address": "由利本荘市一番堰168",
       "storeid": "yurihonjo-2cd5c8",
       "shopid": "yurihonjo-2cd5c8-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "中古楽器ジプシーワゴン /スタジオ ジプシーワゴン",
       "address": "由利本荘市花畑町4-50",
       "storeid": "yurihonjo-f2a617",
       "shopid": "yurihonjo-f2a617-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "津野商店",
       "address": "由利本荘市中町42",
       "storeid": "yurihonjo-1e646f",
       "shopid": "yurihonjo-1e646f-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "鶴千⻲万",
       "address": "由利本荘市谷地町91",
       "storeid": "yurihonjo-587efb",
       "shopid": "yurihonjo-587efb-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "鉄板ダイニング凛",
       "address": "由利本荘市小人町8-2",
       "storeid": "yurihonjo-71b76c",
       "shopid": "yurihonjo-71b76c-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "道の駅にしめ 物産館",
       "address": "由利本荘市⻄目町沼田新道下1112-2",
       "storeid": "yurihonjo-a91825",
       "shopid": "yurihonjo-a91825-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "日産サティオ秋田 本荘店",
       "address": "由利本荘市石脇字田頭61-1",
       "storeid": "yurihonjo-6ade99",
       "shopid": "yurihonjo-6ade99-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "発酵小路田屋",
       "address": "由利本荘市石脇字石脇279-1",
       "storeid": "yurihonjo-b97585",
       "shopid": "yurihonjo-b97585-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "美容室Tops岩渕店",
       "address": "由利本荘市岩渕下21",
       "storeid": "yurihonjo-279828",
       "shopid": "yurihonjo-279828-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "美容室Tops石脇店",
       "address": "由利本荘市石脇字田頭151",
       "storeid": "yurihonjo-785953",
       "shopid": "yurihonjo-785953-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "美容室フューチャ",
       "address": "由利本荘市川口字八幡前246-1",
       "storeid": "yurihonjo-bc659c",
       "shopid": "yurihonjo-bc659c-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "不二家 グランマート一番堰店",
       "address": "由利本荘市一番堰135 グランマート一番堰店内",
       "storeid": "yurihonjo-40c21c",
       "shopid": "yurihonjo-40c21c-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "本荘グランドホテル TSUBAKI",
       "address": "由利本荘市岩渕下254",
       "storeid": "yurihonjo-7841e6",
       "shopid": "yurihonjo-7841e6-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "本荘ステーションホテル",
       "address": "由利本荘市花畑町1丁目29",
       "storeid": "yurihonjo-24e109",
       "shopid": "yurihonjo-24e109-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "⺠芸さいとう",
       "address": "由利本荘市裏尾崎町1-21",
       "storeid": "yurihonjo-dee990",
       "shopid": "yurihonjo-dee990-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "麺屋 新月",
       "address": "由利本荘市薬師堂字中道121-1",
       "storeid": "yurihonjo-459e89",
       "shopid": "yurihonjo-459e89-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "薬王堂 由利本荘荒町店",
       "address": "由利本荘市荒町字真城20-1",
       "storeid": "yurihonjo-02d0bb",
       "shopid": "yurihonjo-02d0bb-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "薬王堂 由利本荘⻄目店",
       "address": "由利本荘市⻄目町沼田字新道下2-538",
       "storeid": "yurihonjo-6474cd",
       "shopid": "yurihonjo-6474cd-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "薬王堂 由利本荘石脇店",
       "address": "由利本荘市石脇字田中94-2",
       "storeid": "yurihonjo-efdabe",
       "shopid": "yurihonjo-efdabe-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "薬王堂 由利本荘大内店",
       "address": "由利本荘市岩谷町字⻄越94-3",
       "storeid": "yurihonjo-e217e0",
       "shopid": "yurihonjo-e217e0-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "薬王堂 由利本荘矢島店",
       "address": "由利本荘市矢島町城内字築館159-1",
       "storeid": "yurihonjo-94c994",
       "shopid": "yurihonjo-94c994-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "薬王堂 由利本荘薬師堂店",
       "address": "由利本荘市薬師堂字谷地45",
       "storeid": "yurihonjo-558da2",
       "shopid": "yurihonjo-558da2-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "薬王堂 由利本荘裏尾崎店",
       "address": "由利本荘市裏尾崎町7",
       "storeid": "yurihonjo-cbdf1d",
       "shopid": "yurihonjo-cbdf1d-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "洋服の⻘山 フレスポ本荘店",
       "address": "由利本荘市石脇字田頭197",
       "storeid": "yurihonjo-443674",
       "shopid": "yurihonjo-443674-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     },
     {
       "name": "料亭かもめ",
       "address": "由利本荘市肴町31",
       "storeid": "yurihonjo-c545bc",
       "shopid": "yurihonjo-c545bc-rakutenpay",
-      "note": "最大20%還元"
+      "note": "最大20%還元",
+      "benefit": {
+        "rate": 20,
+        "type": "cashback"
+      }
     }
   ]
 }

@@ -59,6 +59,8 @@ def save(pref, city, pay, rows, url, note, source_date=None):
             item['note'] = r['note']
         if 'voucherTypes' in r:
             item['voucherTypes'] = r['voucherTypes']
+        if 'benefit' in r:
+            item['benefit'] = r['benefit']
         groups[r['genre']].append(item)
     ids = [x['shopid'] for group in groups.values() for x in group]
     assert ids and len(ids) == len(set(ids)), f'Duplicate IDs: {base}'
@@ -76,7 +78,9 @@ for table in tables('yurihonjo'):
             continue
         for pay, label in payments.items():
             if key(label) in key(r[4]):
-                rows[pay].append(row(r[1], r[3], note=f'最大{clean(r[0])}還元'))
+                item = row(r[1], r[3], note=f'最大{clean(r[0])}還元')
+                item['benefit'] = dict(rate=float(clean(r[0]).replace('%', '')), type='cashback')
+                rows[pay].append(item)
 for pay, items in rows.items():
     save('akita','yurihonjo',pay,items,'https://yurihonjo-cashless.jp/wp-content/uploads/2026/09/storelist-2026-09-09.pdf','公式一覧の対象決済サービスで絞り込んでいます。未掲載の対象店もあります。一般店と大型店では還元率が異なります。','2026-09-09')
 
