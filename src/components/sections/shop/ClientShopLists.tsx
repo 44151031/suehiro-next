@@ -86,28 +86,30 @@ export default function ClientShopLists({ shopListByGenre, detailsMap }: Props) 
           </div>
           <div className="flex flex-wrap gap-3">
             {hasVoucherTypes && (
-              <label className="flex flex-1 min-w-0 items-center gap-2 text-sm">
-                <span className="shrink-0">商品券</span>
-                <select name="voucher-type" value={voucherFilter}
-                  onChange={e => setVoucherFilter(e.target.value as typeof voucherFilter)}
-                  className="min-w-0 w-full rounded border border-gray-300 bg-white px-2 py-2">
-                  <option value="all">すべて（絞り込みなし）</option>
-                  <option value="common">共通券が使える店舗</option>
-                  <option value="local">地元応援券が使える店舗</option>
-                </select>
-              </label>
+              <div role="group" aria-label="商品券で絞り込み" className="flex flex-wrap gap-2">
+                {([
+                  ["all", "すべて"],
+                  ["common", "共通券"],
+                  ["local", "地元応援券"],
+                ] as const).map(([value, label]) => (
+                  <button key={value} type="button" name="voucher-type" value={value}
+                    aria-pressed={voucherFilter === value} onClick={() => setVoucherFilter(value)}
+                    className={filterButtonClass(voucherFilter === value)}>{label}</button>
+                ))}
+              </div>
             )}
             {hasBenefitRates && (
-              <label className="flex flex-1 min-w-0 items-center gap-2 text-sm">
-                <span className="shrink-0">還元率・割引率</span>
-                <select name="benefit-rate" value={benefitFilter} onChange={e => setBenefitFilter(e.target.value)}
-                  className="min-w-0 w-full rounded border border-gray-300 bg-white px-2 py-2">
-                  <option value="all">すべての率</option>
-                  {benefits.map(([value, benefit]) => <option key={value} value={value}>
+              <div role="group" aria-label="還元率・割引率で絞り込み" className="flex flex-wrap gap-2">
+                <button type="button" name="benefit-rate" value="all" aria-pressed={benefitFilter === "all"}
+                  onClick={() => setBenefitFilter("all")} className={filterButtonClass(benefitFilter === "all")}>すべて</button>
+                {benefits.map(([value, benefit]) => (
+                  <button key={value} type="button" name="benefit-rate" value={value}
+                    aria-pressed={benefitFilter === value} onClick={() => setBenefitFilter(value)}
+                    className={filterButtonClass(benefitFilter === value)}>
                     {benefit.type === "cashback" ? `最大${benefit.rate}％還元` : `${benefit.rate}％割引`}
-                  </option>)}
-                </select>
-              </label>
+                  </button>
+                ))}
+              </div>
             )}
           </div>
         </div>
@@ -122,4 +124,9 @@ export default function ClientShopLists({ shopListByGenre, detailsMap }: Props) 
       </fieldset>
     </div>
   );
+}
+
+function filterButtonClass(selected: boolean) {
+  return "min-h-11 rounded-full border px-4 py-2 text-sm font-semibold transition focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-pink-600 " +
+    (selected ? "border-pink-600 bg-pink-600 text-white" : "border-gray-300 bg-white text-gray-700 hover:bg-pink-50");
 }
