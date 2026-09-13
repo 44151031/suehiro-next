@@ -23,7 +23,8 @@ export default function AdUnit({
   useEffect(() => {
     if (!initialized.current && typeof window !== "undefined") {
       try {
-        if (window.adsbygoogle && adRef.current) {
+        if (adRef.current && !adRef.current.hasAttribute("data-adsbygoogle-status")) {
+          // スクリプト到着前でもキューに登録し、読み込み順による表示漏れを防ぐ。
           (window.adsbygoogle = window.adsbygoogle || []).push({});
           initialized.current = true;
         }

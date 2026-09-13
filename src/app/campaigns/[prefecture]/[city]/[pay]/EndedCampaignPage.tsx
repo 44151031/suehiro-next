@@ -164,6 +164,21 @@ export default async function EndedCampaignPage({
             </div>
           </section>
 
+          <nav aria-label="終了後のキャンペーン案内" className="mt-6 rounded-lg border border-gray-200 bg-white p-4">
+            <p className="font-semibold">このキャンペーンは終了しました。</p>
+            <p className="mt-2 text-sm text-gray-700">
+              現在利用できるキャンペーンは、各地域の最新情報をご確認ください。
+            </p>
+            <div className="mt-3 flex flex-wrap gap-4">
+              <a href={`/campaigns/${prefectureSlug}`} className="text-brand-primary font-semibold underline">
+                {prefecture}のキャンペーンを探す
+              </a>
+              <a href="/campaigns" className="text-brand-primary font-semibold underline">
+                全国の開催中・開催予定キャンペーンを探す
+              </a>
+            </div>
+          </nav>
+
           <div className="mt-4">
             <SNSShareButtons url={pageUrl} title={shareTitle} hashtags={shareHashtags} />
           </div>
