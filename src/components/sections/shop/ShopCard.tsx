@@ -4,6 +4,7 @@ import { Shop } from "@/types/shop";
 import type { ShopDetail } from "@/hooks/useShopDetails";
 import { cn } from "@/lib/utils";
 import SupportButton from "@/components/common/SupportButton";
+import { ShopCommunityActions } from "./ShopCommunity";
 
 type Props = {
   shop: Shop & { likes?: number };
@@ -58,7 +59,7 @@ function DummyLinkCard({
             )}
           </div>
           {shop.shopid && (
-            <SupportButton shopid={shop.shopid} initialLikes={initialLikes} initialLiked={initialLiked} />
+            <SupportButton shopid={shop.shopid} shopName={shop.name} initialLikes={initialLikes} initialLiked={initialLiked} />
           )}
         </div>
 
@@ -116,10 +117,11 @@ function DummyLinkCard({
         {/* PC用 ❤️ 応援ボタン */}
         {shop.shopid && (
           <div className="hidden sm:block mt-2">
-            <SupportButton shopid={shop.shopid} initialLikes={initialLikes} initialLiked={initialLiked} />
+            <SupportButton shopid={shop.shopid} shopName={shop.name} initialLikes={initialLikes} initialLiked={initialLiked} />
           </div>
         )}
       </div>
+      <ShopCommunityActions shop={shop} />
     </details>
   );
 }
@@ -150,7 +152,7 @@ function NormalShopCard({
           )}
         </div>
         {shop.shopid && (
-          <SupportButton shopid={shop.shopid} initialLikes={initialLikes} initialLiked={initialLiked} />
+          <SupportButton shopid={shop.shopid} shopName={shop.name} initialLikes={initialLikes} initialLiked={initialLiked} />
         )}
       </div>
 
@@ -163,10 +165,11 @@ function NormalShopCard({
         </p>
         {shop.shopid && (
           <div className="mt-1">
-            <SupportButton shopid={shop.shopid} initialLikes={initialLikes} initialLiked={initialLiked} />
+            <SupportButton shopid={shop.shopid} shopName={shop.name} initialLikes={initialLikes} initialLiked={initialLiked} />
           </div>
         )}
       </div>
+      <ShopCommunityActions shop={shop} />
     </li>
   );
 }

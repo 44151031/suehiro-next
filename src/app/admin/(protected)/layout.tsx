@@ -33,6 +33,7 @@ export default async function AdminProtectedLayout({
             <span className="text-gray-300">|</span>
             <nav className="flex items-center gap-4 text-sm">
               <Link href="/admin/articles" className="hover:underline">記事一覧</Link>
+              <Link href="/admin/community" className="hover:underline">店舗への投稿</Link>
               <Link href="/admin/logout" className="text-red-600 hover:underline">ログアウト</Link>
             </nav>
           </div>

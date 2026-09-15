@@ -1,7 +1,7 @@
 // /app/campaigns/[prefecture]/[city]/[pay]/VoucherCampaignPage.tsx
 import { loadShopList } from "@/lib/loadShopList";
 import { loadShopDetails } from "@/lib/loadShopDetails";
-import ClientShopLists from "@/components/sections/shop/ClientShopLists";
+import CommunityShopLists from "@/components/sections/shop/CommunityShopLists";
 import ShopListSource from "@/components/sections/shop/ShopListSource";
 import { notFound } from "next/navigation";
 import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster";
@@ -211,7 +211,7 @@ export default async function VoucherCampaignPage({
               <h2 className="headline2">PayPay商品券が使える対象店舗</h2>
               <p>通常のPayPay加盟店でも、この商品券を利用できない場合があります。券種ごとの条件と店頭・アプリの最新表示をご確認ください。♡を押すと店舗を応援できます。</p>
               <ShopListSource listKey={`${prefectureSlug}-${citySlug}-${pay}`} />
-              <ClientShopLists shopListByGenre={shopListByGenre} detailsMap={detailsMap} />
+              <CommunityShopLists pagePath={`/campaigns/${prefectureSlug}/${citySlug}/${pay}`} shopListByGenre={shopListByGenre} detailsMap={detailsMap} />
             </section>
           )}
 

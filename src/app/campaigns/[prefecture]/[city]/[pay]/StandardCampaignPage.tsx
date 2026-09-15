@@ -33,7 +33,7 @@ import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster";
 import VoucherCampaignCardList from "@/components/common/VoucherCampaignCardList";
 
 // ✅ 追加: ランキング付きのクライアントコンポーネント
-import ClientShopLists from "@/components/sections/shop/ClientShopLists";
+import CommunityShopLists from "@/components/sections/shop/CommunityShopLists";
 
 // ✅ 追加: 楽天ペイ専用アフィリエイトブロック
 import RakutenPayAffiliate from "@/components/affiliate/RakutenPayAffiliate";
@@ -253,7 +253,8 @@ export default async function CityPaytypePage({
               公表されましたらこのページで紹介いたします。
             </p>
           ) : (
-            <ClientShopLists
+            <CommunityShopLists
+              pagePath={`/campaigns/${prefectureSlug}/${citySlug}/${paytypeId}`}
               shopListByGenre={shopListByGenre}
               detailsMap={detailsMap}
             />

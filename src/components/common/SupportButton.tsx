@@ -6,6 +6,7 @@ import { toggleSupport as toggleSupportAction } from "@/app/actions/support";
 import { toast } from "sonner";
 import { supabaseClient } from "@/lib/supabase/client";
 import { getOrSetSessionId } from "@/lib/sessionClient";
+import { useShopCommunity } from "@/components/sections/shop/ShopCommunity";
 
 declare global {
   interface Window {
@@ -22,13 +23,15 @@ type SupportActionResult = {
 
 type Props = {
   shopid: string;
+  shopName?: string;
   /** 親から渡す初期いいね数（渡された場合 shop_stats クエリをスキップ） */
   initialLikes?: number;
   /** 親から渡す今日押し済みフラグ（渡された場合 support_events クエリをスキップ） */
   initialLiked?: boolean;
 };
 
-export default function SupportButton({ shopid, initialLikes, initialLiked }: Props) {
+export default function SupportButton({ shopid, shopName, initialLikes, initialLiked }: Props) {
+  const community = useShopCommunity();
   const updateSupport = useContext(ShopSupportContext);
   const [likes, setLikes] = useState<number>(initialLikes ?? 0);
   const [liked, setLiked] = useState<boolean>(initialLiked ?? false);
@@ -148,6 +151,7 @@ export default function SupportButton({ shopid, initialLikes, initialLiked }: Pr
 
       if (!wasLiked && result.liked) {
         toast.success(result.message || "応援ありがとうございます！");
+        if (shopName) community?.open({ shop: { shopid, name: shopName, address: "" }, kind: "support" });
       }
     } catch {
       toast.error("通信エラーが発生しました");
