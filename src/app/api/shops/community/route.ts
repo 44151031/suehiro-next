@@ -6,8 +6,13 @@ import { loadShopList } from "@/lib/loadShopList";
 
 export async function POST(req: Request) {
   if (!communityEnabled()) return NextResponse.json({ error: "現在、投稿の受付を停止しています。" }, { status: 503 });
-  const expected = new URL(process.env.NEXT_PUBLIC_SITE_URL || req.url).origin;
-  if (req.headers.get("origin") !== expected) return NextResponse.json({ error: "このページから送信してください。" }, { status: 403 });
+  const allowedOrigins = new Set([new URL(process.env.NEXT_PUBLIC_SITE_URL || req.url).origin]);
+  if (process.env.VERCEL_ENV === "preview") {
+    for (const host of [process.env.VERCEL_URL, process.env.VERCEL_BRANCH_URL]) {
+      if (host && /^[a-z0-9.-]+\.vercel\.app$/i.test(host)) allowedOrigins.add(`https://${host}`);
+    }
+  }
+  if (!allowedOrigins.has(req.headers.get("origin") ?? "")) return NextResponse.json({ error: "このページから送信してください。" }, { status: 403 });
   let input: Record<string, unknown>;
   try {
     const reader = req.body?.getReader();

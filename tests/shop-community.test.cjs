@@ -45,6 +45,7 @@ test('API blocks disabled, foreign-origin, unknown shop, stale campaign and neve
     '@/lib/loadShopList': { loadShopList:async()=>({'店舗':[{shopid:'shop-1',name:'確認済みの店'}]}) },
   });
   const oldUrl=process.env.NEXT_PUBLIC_SITE_URL, oldKey=process.env.SUPABASE_SERVICE_ROLE_KEY, oldVercel=process.env.VERCEL;
+  const oldPreviewEnv=process.env.VERCEL_ENV, oldPreviewUrl=process.env.VERCEL_URL;
   process.env.NEXT_PUBLIC_SITE_URL='https://paycancampaign.com'; process.env.SUPABASE_SERVICE_ROLE_KEY='test-only'; delete process.env.VERCEL;
   const submit = (data={},origin='https://paycancampaign.com') => POST(new Request('https://paycancampaign.com/api/shops/community',{method:'POST',headers:{origin,'content-type':'application/json'},body:JSON.stringify({...base,pagePath:scope.pagePath,campaignKey:scope.key,shopid:'shop-1',...data})}));
   try {
@@ -58,10 +59,15 @@ test('API blocks disabled, foreign-origin, unknown shop, stale campaign and neve
     assert.equal((await submit({status:'approved',shop_name:'forged',fingerprint:'forged'})).status,200);
     assert.equal(saved.p_post.status,undefined); assert.equal(saved.p_post.shop_name,'確認済みの店');
     assert.match(saved.p_fingerprint,/^[a-f0-9]{64}$/); assert.notEqual(saved.p_fingerprint,'forged');
+    process.env.VERCEL_ENV='preview'; process.env.VERCEL_URL='paycan-test.vercel.app';
+    assert.equal((await submit({},'https://paycan-test.vercel.app')).status,200);
+    assert.equal((await submit({},'https://unrelated.vercel.app')).status,403);
+    process.env.VERCEL_ENV='production';
+    assert.equal((await submit({},'https://paycan-test.vercel.app')).status,403);
     rpcError={message:'community_rate_limit'}; assert.equal((await submit()).status,429);
     rpcError={message:'unavailable'}; assert.equal((await submit()).status,503);
   } finally {
-    for (const [key,value] of Object.entries({NEXT_PUBLIC_SITE_URL:oldUrl,SUPABASE_SERVICE_ROLE_KEY:oldKey,VERCEL:oldVercel})) { if(value===undefined)delete process.env[key];else process.env[key]=value; }
+    for (const [key,value] of Object.entries({NEXT_PUBLIC_SITE_URL:oldUrl,SUPABASE_SERVICE_ROLE_KEY:oldKey,VERCEL:oldVercel,VERCEL_ENV:oldPreviewEnv,VERCEL_URL:oldPreviewUrl})) { if(value===undefined)delete process.env[key];else process.env[key]=value; }
   }
 });
 test('moderation checks authenticated admin on every action and does not publish corrections', async () => {
