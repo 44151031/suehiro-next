@@ -2,12 +2,13 @@
 import { NextResponse } from "next/server";
 import { createClientServer } from "@/lib/supabase/server";
 
-export async function GET() {
+export async function POST(req: Request) {
+  const origin = new URL(req.url).origin;
+  if (req.headers.get("origin") !== origin) return new NextResponse(null, { status: 403 });
   const supabase = await createClientServer();
   // SupabaseのセッションCookieを削除
   await supabase.auth.signOut();
 
   // /admin/login に戻す
-  const base = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
-  return NextResponse.redirect(new URL("/admin/login", base), { status: 302 });
+  return NextResponse.redirect(new URL("/admin/login", origin), { status: 303 });
 }

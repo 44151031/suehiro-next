@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { redirect } from "next/navigation";
 import { communityDatabase } from "@/lib/shopCommunity";
 import { requireCommunityAdmin, reviewCommunityPost } from "./actions";
 
@@ -6,7 +7,8 @@ export const dynamic = "force-dynamic";
 const statusLabels: Record<string,string> = { pending: "未確認", approved: "公開中", hidden: "非公開", resolved: "対応済み" };
 const kindLabels: Record<string,string> = { support: "応援", visit: "来店", correction: "情報訂正", report: "通報・削除依頼" };
 export default async function CommunityAdmin({ searchParams }: { searchParams: Promise<{ status?: string; page?: string }> }) {
-  await requireCommunityAdmin();
+  try { await requireCommunityAdmin(); }
+  catch { redirect("/admin/login"); }
   const query = await searchParams;
   const status = query.status && statusLabels[query.status] ? query.status : "pending";
   const page = Math.max(1, Math.min(10000, Number.parseInt(query.page || "1",10) || 1));

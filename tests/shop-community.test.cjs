@@ -11,6 +11,21 @@ function load(file, mocks = {}) {
 }
 const validation = load('src/lib/shopCommunityValidation.ts');
 const base = { kind: 'support', nickname: 'お客さん', body: 'また行きます！', consent: 'yes' };
+
+test('logout cannot be prefetched and requires a same-origin POST', async () => {
+  let signouts = 0;
+  class NextResponse { constructor(body, options) { this.status = options.status; } static redirect(url, options) { return { url: String(url), status: options.status }; } }
+  const route = load('src/app/admin/logout/route.ts', {
+    'next/server': { NextResponse },
+    '@/lib/supabase/server': { createClientServer: async () => ({ auth: { signOut: async () => { signouts++; } } }) },
+  });
+  assert.equal(route.GET, undefined);
+  const request = origin => new Request('https://preview.vercel.app/admin/logout', { method: 'POST', headers: { origin } });
+  assert.equal((await route.POST(request('https://other.example'))).status, 403);
+  assert.equal(signouts, 0);
+  const result = await route.POST(request('https://preview.vercel.app'));
+  assert.equal(result.status, 303); assert.equal(result.url, 'https://preview.vercel.app/admin/login'); assert.equal(signouts, 1);
+});
 test('public UI hides the feature when disabled and escapes approved message text', () => {
   const React=require('react');const {renderToStaticMarkup}=require('react-dom/server');
   const {ShopCommunityProvider,ShopCommunityActions}=load('src/components/sections/shop/ShopCommunity.tsx',{'@/lib/shopCommunityValidation':validation});

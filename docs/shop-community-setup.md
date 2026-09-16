@@ -15,7 +15,8 @@
 3. `/admin/login` から既存のSupabase Authユーザーでログインし、`profiles.is_admin` が管理者であることを確認。
    新たな管理者権限の付与が必要な場合は対象ユーザーを確認してから実施する。
 4. プレビュー環境で `SHOP_COMMUNITY_ENABLED=true` を設定し、以下の動作を確認。
-   `NEXT_PUBLIC_SITE_URL` はプレビューの正しいオリジンに合わせる。
+   プレビューではVercelが提供する `VERCEL_URL` / `VERCEL_BRANCH_URL` のオリジンも許可する。
+   `NEXT_PUBLIC_SITE_URL` は本番URLを維持する。
 5. 検証後に本番の `SHOP_COMMUNITY_ENABLED=true` を設定して再デプロイ。
    障害時は false にして再デプロイすれば従来の店舗一覧・応援ボタンに戻る。
 
@@ -54,4 +55,9 @@
 - SQLテストはトランザクションをロールバックし、投稿・制限テーブルが0件であることを確認。
 - ユーザーの明示承認を受け、VercelのProduction/Previewにサーバー専用キーをSecretとして登録済み。
 - Previewのみ機能フラグを設定。本番フラグは未設定、一般向け機能は未公開。
-- 管理画面のブラウザーログインと、Vercel経由の投稿・承認テストは未実施。
+- `89bef96` を確認用ブランチ `codex/shop-community` にプッシュし、Vercel PreviewのReadyを確認。
+- Vercelの実フォームからテスト投稿1件を送信し、Supabaseに `pending` で保存されたことを確認。
+- 公開取得RPCが0件を返すこと、未ログインの `/admin/community` がログイン画面へ移ることを確認。
+- あま市ページのタイトル・H1は本番と一致。canonicalは両方のDOMで未検出（今回の変更対象外）。
+- テスト投稿はニックネーム「運営動作確認」、本文先頭「【運営テスト・掲載対象外】」で承認待ち。一般公開はしていない。
+- 管理者ログイン後のブラウザー承認・非公開テストは未実施。本番ブランチへの反映と機能有効化はその確認後に行う。

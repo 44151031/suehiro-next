@@ -34,7 +34,7 @@ export default async function AdminProtectedLayout({
             <nav className="flex items-center gap-4 text-sm">
               <Link href="/admin/articles" className="hover:underline">記事一覧</Link>
               <Link href="/admin/community" className="hover:underline">店舗への投稿</Link>
-              <Link href="/admin/logout" className="text-red-600 hover:underline">ログアウト</Link>
+              <form action="/admin/logout" method="post"><button className="text-red-600 hover:underline">ログアウト</button></form>
             </nav>
           </div>
           <div className="flex flex-col items-end text-xs text-gray-500">
