@@ -31,12 +31,11 @@ export default async function CommunityAdmin({ searchParams }: { searchParams: P
       {post.reason && <p>訂正の種類：{post.reason}</p>}
       <p className="whitespace-pre-wrap break-words">{post.body}</p>
       {post.target_id && <ReportedPost id={post.target_id} />}
-      <form action={reviewCommunityPost} className="flex flex-wrap gap-3">
-        <input type="hidden" name="id" value={post.id} />
-        {["support","visit"].includes(post.kind) && post.status !== "approved" && <button className="rounded bg-green-800 text-white px-3 py-2" name="status" value="approved">確認して公開</button>}
-        {post.status !== "hidden" && <button className="rounded border px-3 py-2" name="status" value="hidden">非公開にする</button>}
-        {["correction","report"].includes(post.kind) && post.status !== "resolved" && <button className="rounded border px-3 py-2" name="status" value="resolved">対応済みにする</button>}
-      </form>
+      <div className="flex flex-wrap gap-3">
+        {["support","visit"].includes(post.kind) && post.status !== "approved" && <ReviewButton id={post.id} status="approved" label="確認して公開" />}
+        {post.status !== "hidden" && <ReviewButton id={post.id} status="hidden" label="非公開にする" />}
+        {["correction","report"].includes(post.kind) && post.status !== "resolved" && <ReviewButton id={post.id} status="resolved" label="対応済みにする" />}
+      </div>
     </article>)}
     <nav className="flex gap-5">{page>1 && <Link href={`/admin/community?status=${status}&page=${page-1}`}>前へ</Link>}{(result.count ?? 0)>page*30 && <Link href={`/admin/community?status=${status}&page=${page+1}`}>次へ</Link>}</nav>
   </section>;
@@ -46,6 +45,14 @@ async function ReportedPost({ id }: { id: string }) {
   if (!data) return <p>対象投稿が見つかりません。</p>;
   return <aside className="border-l-4 pl-3">
     <p>通報対象：{data.nickname}（{statusLabels[data.status]}）</p><p className="whitespace-pre-wrap break-words">{data.body}</p>
-    <form action={reviewCommunityPost}><input type="hidden" name="id" value={id}/><button className="underline py-2" name="status" value="hidden">対象の投稿を非公開にする</button></form>
+    <ReviewButton id={id} status="hidden" label="対象の投稿を非公開にする" />
   </aside>;
+}
+
+function ReviewButton({ id, status, label }: { id: string; status: string; label: string }) {
+  return <form action={reviewCommunityPost}>
+    <input type="hidden" name="id" value={id} />
+    <input type="hidden" name="status" value={status} />
+    <button type="submit" className={status === "approved" ? "rounded bg-green-800 text-white px-3 py-2" : "rounded border px-3 py-2"}>{label}</button>
+  </form>;
 }
