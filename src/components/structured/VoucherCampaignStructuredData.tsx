@@ -17,6 +17,7 @@ type Props = {
   datePublished: string; // YYYY-MM-DD
   dateModified: string;  // YYYY-MM-DD
   officialUrl?: string;  // 自治体や公式の案内ページ
+  campaignSlug?: string;
 };
 
 const VoucherCampaignStructuredData = ({
@@ -33,9 +34,10 @@ const VoucherCampaignStructuredData = ({
   datePublished,
   dateModified,
   officialUrl,
+  campaignSlug,
 }: Props) => {
   const origin = "https://paycancampaign.com";
-  const imageUrl = `${origin}/images/campaigns/ogp/${prefectureSlug}-${citySlug}-${paytype}-ogp.jpg`;
+  const imageUrl = `${origin}/images/campaigns/ogp/${prefectureSlug}-${citySlug}-${paytype}${campaignSlug ? `-${campaignSlug}` : ""}-ogp.jpg`;
   const officialPageUrl =
     officialUrl ?? `${origin}/campaigns/${prefectureSlug}/${citySlug}`;
   const faqGraph = generateFAQGraph(prefecture, city, "商品券");

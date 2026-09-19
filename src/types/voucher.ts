@@ -1,4 +1,9 @@
 export type VoucherCampaign = {
+  campaignSlug?: string;
+  applicationMethod?: "lottery" | "first-come" | "external";
+  salesStatus?: "sold-out";
+  shopListUrl?: string;
+  shopListNote?: string;
   prefecture: string;
   city: string;
   prefectureSlug: string;

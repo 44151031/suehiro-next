@@ -1,4 +1,4 @@
-import { createClientServer } from "@/lib/supabase/server";
+import { createClientServerReadOnly } from "@/lib/supabase/server";
 import EditClient from "./EditClient";
 
 export type Article = {
@@ -15,8 +15,8 @@ export type Article = {
   updated_at: string | null;
 };
 
-export default async function Page({ params }: { params: { publicId: string } }) {
-  const supabase = await createClientServer();
+export default async function Page({ params }: { params: Promise<{ publicId: string }> }) {
+  const supabase = await createClientServerReadOnly();
 
   if (process.env.NEXT_PUBLIC_SKIP_ADMIN_CHECK !== "true") {
     const { data: { user } } = await supabase.auth.getUser();
@@ -25,7 +25,7 @@ export default async function Page({ params }: { params: { publicId: string } })
     if (!me.data?.is_admin) return <div className="p-6">Admin only</div>;
   }
 
-  const pid = Number(params.publicId);
+  const pid = Number((await params).publicId);
   if (!Number.isFinite(pid)) return <div className="p-6">Invalid ID</div>;
 
   const { data, error } = await supabase

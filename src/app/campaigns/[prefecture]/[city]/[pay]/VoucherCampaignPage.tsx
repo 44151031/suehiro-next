@@ -1,264 +1,91 @@
-// /app/campaigns/[prefecture]/[city]/[pay]/VoucherCampaignPage.tsx
+import { notFound } from "next/navigation";
+import Link from "next/link";
+import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster";
+import { voucherAssetKey, voucherPath, voucherStatus } from "@/lib/voucherPresentation";
 import { loadShopList } from "@/lib/loadShopList";
 import { loadShopDetails } from "@/lib/loadShopDetails";
-import CommunityShopLists from "@/components/sections/shop/CommunityShopLists";
-import ShopListSource from "@/components/sections/shop/ShopListSource";
-import { notFound } from "next/navigation";
-import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster";
-import { generateShareContent } from "@/lib/generateShareContent";
-import { SNSShareButtons } from "@/components/common/SNSShareButtons";
-import VoucherCampaignStructuredData from "@/components/structured/VoucherCampaignStructuredData";
-import VoucherCampaignOverviewTable from "@/components/sections/voucher/VoucherCampaignOverviewTable";
-import VoucherCampaignSummaryCard from "@/components/sections/voucher/VoucherCampaignSummaryCard";
-import VoucherCampaignHighlight from "@/components/sections/voucher/VoucherCampaignHighlight";
 import { formatJapaneseDate } from "@/lib/campaignUtils";
 import { calculateVoucherDiscountRate } from "@/lib/voucherUtils";
-import { VoucherApplicationFlow } from "@/components/sections/voucher/VoucherApplicationFlow";
+import VoucherCampaignSummaryCard from "@/components/sections/voucher/VoucherCampaignSummaryCard";
 import { VoucherRedemptionGuide } from "@/components/sections/voucher/VoucherRedemptionGuide";
-import OtherPaytypesCampaigns from "@/components/sections/city/OtherPaytypesCampaigns";
-import { RecommendedCampaigns } from "@/components/sections/city/RecommendedCampaigns";
+import VoucherCampaignStructuredData from "@/components/structured/VoucherCampaignStructuredData";
+import VoucherCampaignCardList from "@/components/common/VoucherCampaignCardList";
+import CommunityShopLists from "@/components/sections/shop/CommunityShopLists";
+import ShopListSource from "@/components/sections/shop/ShopListSource";
+import { SNSShareButtons } from "@/components/common/SNSShareButtons";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
-import AdUnit from "@/components/common/AdUnit";
-export { generateVoucherMetadata as generateMetadata } from "@/lib/voucherMetadateGenerators";
 
-const formatNumber = (num: number) => Number(num).toLocaleString("ja-JP");
-
-export default async function VoucherCampaignPage({
-  params,
-}: {
-  params: { prefecture: string; city: string; pay: string };
+export default async function VoucherCampaignPage({ params }: {
+  params: { prefecture: string; city: string; pay: string; campaignSlug?: string };
 }) {
-  const { prefecture, city, pay } = params;
-
-  const campaign = voucherCampaignMaster.find(
-    (c) =>
-      c.prefectureSlug === prefecture &&
-      c.citySlug === city &&
-      c.paytype === pay
-  );
-
-  if (!campaign) return notFound();
-
-  const {
-    prefecture: prefName,
-    city: cityName,
-    campaigntitle,
-    purchasePrice,
-    ticketAmount,
-    maxUnits,
-    applyStartDate,
-    applyEndDate,
-    useEndDate,
-    resultAnnounceDate,
-    datePublished,
-    dateModified,
-    prefectureSlug,
-    citySlug,
-    eligiblePersons,
-    applicationUrl,
-  } = campaign;
-
-  const shopListByGenre = await loadShopList(prefectureSlug, citySlug, pay);
-  const detailsMap = loadShopDetails(prefectureSlug, citySlug);
-
-  const modified = dateModified ?? datePublished;
-  const discountRate = calculateVoucherDiscountRate(ticketAmount, purchasePrice);
-  const campaignYear = new Date(applyStartDate).getFullYear();
-  const maxDiscount = (ticketAmount - purchasePrice) * maxUnits;
-  const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${pay}`;
-
-  const { title: shareTitle, hashtags: shareHashtags } = generateShareContent({
-    city: cityName,
-    payLabel: "商品券",
-    offer: discountRate,
-    style: "voucher",
-  });
-
-  return (
-    <>
-      <VoucherCampaignStructuredData
-        prefecture={prefName}
-        prefectureSlug={prefectureSlug}
-        city={cityName}
-        citySlug={citySlug}
-        paytype={pay}
-        // H1と意味合わせ：還元ではなく「お得」訴求
-        headline={`${cityName}のPayPay商品券（${campaigntitle}）`}
-        articleDescription={`${prefName}${cityName}の${campaigntitle}は、${formatJapaneseDate(
-          applyStartDate
-        )}〜${formatJapaneseDate(
-          applyEndDate
-        )}にアプリ申込、当選後に購入・利用可。最大${discountRate}％お得（${maxUnits}口で最大${formatNumber(
-          maxDiscount
-        )}円）、利用期限は${formatJapaneseDate(
-          useEndDate
-        )} 23:59。本ページでは対象者・申込方法・購入手順・使い方・注意点と周辺キャンペーンを解説。`}
-        validFrom={applyStartDate}
-        validThrough={applyEndDate}
-        url={pageUrl}
-        datePublished={datePublished}
-        dateModified={modified}
-      />
-
-      <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
-        <main className="max-w-[1200px] mx-auto px-4 py-10">
-          {/* ✅ H1：対象店舗は出さず、「お得・申込・利用」に寄せる */}
-          <h1 className="headline1">
-            {cityName}のPayPay商品券{campaignYear}｜最大{discountRate}％お得！（{maxUnits}
-            口購入で最大{formatNumber(maxDiscount)}円）
-          </h1>
-
-          {datePublished && (
-            <p className="m-1 text-sm text-right text-gray-800">
-              最終更新日：{formatJapaneseDate(modified)}｜ 公開：
-              {formatJapaneseDate(datePublished)}
-            </p>
-          )}
-
-          {/* ✅ 導入文A（万能・指名検索向け）に準拠／タイトルをマスタの campaigntitle で表示 */}
-          <p className="text-xs md:text-base leading-relaxed text-gray-800 mb-2">
-            {prefName}
-            {cityName}の<strong>「{campaigntitle}」</strong>
-            は、
-            <span className="font-semibold">
-              {formatJapaneseDate(applyStartDate)}
-            </span>
-            〜
-            <span className="font-semibold">
-              {formatJapaneseDate(applyEndDate)}
-            </span>
-            に<strong>PayPayアプリから申込</strong>、当選後に<strong>購入・利用</strong>
-            できます
-            {resultAnnounceDate && (
-              <>
-                （当選発表：
-                <span className="font-semibold">
-                  {formatJapaneseDate(resultAnnounceDate)}
-                </span>
-                以降）
-              </>
-            )}
-            。<strong>最大{discountRate}%お得</strong>（
-            {maxUnits}
-            口で<strong>最大{formatNumber(maxDiscount)}円</strong>）、
-            <strong>
-              利用期限は{formatJapaneseDate(useEndDate)} 23:59
-            </strong>
-            。本ページでは<strong>対象者・申込方法・購入手順・使い方・注意点</strong>
-            を最短で理解できるように解説し、<strong>周辺自治体の関連キャンペーン</strong>
-            もまとめて比較。<strong>いつから・いつまで・どう使うか</strong>
-            がこの1ページで分かります。
-          </p>
-
-          <div className="my-6">
-            <VoucherCampaignSummaryCard campaign={campaign} />
-          </div>
-
-          <VoucherCampaignHighlight
-            targetAudience={eligiblePersons}
-            resultAnnounceDate={resultAnnounceDate}
-            applicationUrl={applicationUrl}
-            applicationStart={applyStartDate}
-            applicationEnd={applyEndDate}
-            usageEnd={useEndDate}
-          />
-
-          <div className="mt-8">
-            <SNSShareButtons
-              url={pageUrl}
-              title={shareTitle}
-              hashtags={shareHashtags}
-            />
-          </div>
-
-          <AdUnit placement="voucher-after-summary" />
-
-          {/* ===== H2：概要（商品券とは？） ===== */}
-          <section className="mt-10 text-base text-gray-800 space-y-6 leading-relaxed">
-            <h2 className="headline2">
-              {prefName}
-              {cityName}のPayPay商品券とは？
-            </h2>
-            <p>
-              <strong>
-                {prefName}
-                {cityName}「{campaigntitle}」
-              </strong>
-              は、申込期間中に対象者が申し込み、当選後に購入できるプレミアム商品券（PayPay商品券）です。最大で
-              <span className="text-brand-primary font-bold">
-                {formatNumber(maxDiscount)}円
-              </span>
-              お得にお買い物ができます。
-            </p>
-          </section>
-
-          {/* ===== H2：概要テーブル ===== */}
-          <VoucherCampaignOverviewTable
-            purchasePrice={purchasePrice}
-            resultAnnounceDate={resultAnnounceDate}
-            ticketAmount={ticketAmount}
-            maxUnits={maxUnits}
-            campaigntitle={campaigntitle}
-            eligiblePersons={eligiblePersons}
-            applyStartDate={applyStartDate}
-            applyEndDate={applyEndDate}
-            useEndDate={useEndDate}
-            applicationUrl={applicationUrl}
-          />
-
-          {Object.keys(shopListByGenre).length > 0 && (
-            <section className="mt-10 space-y-4" id="voucher-shops">
-              <h2 className="headline2">PayPay商品券が使える対象店舗</h2>
-              <p>通常のPayPay加盟店でも、この商品券を利用できない場合があります。券種ごとの条件と店頭・アプリの最新表示をご確認ください。♡を押すと店舗を応援できます。</p>
-              <ShopListSource listKey={`${prefectureSlug}-${citySlug}-${pay}`} />
-              <CommunityShopLists pagePath={`/campaigns/${prefectureSlug}/${citySlug}/${pay}`} shopListByGenre={shopListByGenre} detailsMap={detailsMap} />
-            </section>
-          )}
-
-          {/* ===== H2：申込フロー ===== */}
-          <section className="mt-10">
-            <h2 className="headline2">申込方法（ステップ解説）</h2>
-            <VoucherApplicationFlow campaignUrl={pageUrl} />
-          </section>
-
-          {/* ===== H2：利用方法 ===== */}
-          <section className="mt-10">
-            <h2 className="headline2">利用方法（支払いの流れ）</h2>
-            <VoucherRedemptionGuide />
-          </section>
-
-          <div className="mt-8">
-            <SNSShareButtons
-              url={pageUrl}
-              title={shareTitle}
-              hashtags={shareHashtags}
-            />
-          </div>
-
-          {/* ✅ 他のPay系キャンペーン（内部回遊） */}
-          <OtherPaytypesCampaigns
-            prefectureSlug={prefectureSlug}
-            citySlug={citySlug}
-            currentPaytype={pay}
-          />
-
-          {/* ✅ レコメンド */}
-          <div className="mt-20">
-            <RecommendedCampaigns
-              prefectureSlug={prefectureSlug}
-              citySlug={citySlug}
-              currentPaytype={pay}
-              city={cityName}
-            />
-          </div>
-
-          {/* ✅ 戻るボタン */}
-          <BackNavigationButtons
-            prefecture={prefName}
-            prefectureSlug={prefectureSlug}
-          />
-        </main>
-      </div>
-    </>
-  );
+  const c = voucherCampaignMaster.find(v => v.prefectureSlug === params.prefecture && v.citySlug === params.city && v.paytype === params.pay && v.campaignSlug === params.campaignSlug);
+  if (!c) notFound();
+  const path = voucherPath(c);
+  const url = `https://paycancampaign.com${path}`;
+  const key = voucherAssetKey(c);
+  const shops = await loadShopList(c.prefectureSlug, c.citySlug, `${c.paytype}${c.campaignSlug ? `-${c.campaignSlug}` : ""}`);
+  const details = loadShopDetails(c.prefectureSlug, c.citySlug);
+  const rate = calculateVoucherDiscountRate(c.ticketAmount, c.purchasePrice);
+  const method = c.applicationMethod ?? (c.resultAnnounceDate ? "lottery" : "first-come");
+  const official = c.officialUrl || c.applicationUrl;
+  const related = voucherCampaignMaster.filter(v => v.prefectureSlug === c.prefectureSlug && v.citySlug === c.citySlug && voucherPath(v) !== path && new Date(v.useEndDate) >= new Date());
+  const rows = [
+    ["商品券名", c.campaigntitle],
+    ["販売価格・利用額", `${c.purchasePrice.toLocaleString()}円で${c.ticketAmount.toLocaleString()}円分（プレミアム率${rate}%）`],
+    ["購入上限", `1人最大${c.maxUnits}口`],
+    ["対象者", c.eligiblePersons],
+    ["受付方法", method === "first-come" ? "先着販売" : method === "external" ? "自治体指定の方法で事前申込" : "事前申込・抽選"],
+    [method === "first-come" ? "販売期間（予定）" : "申込期間", `${formatJapaneseDate(c.applyStartDate)} ～ ${formatJapaneseDate(c.applyEndDate)}`],
+    ...(c.resultAnnounceDate ? [["当選発表予定日", formatJapaneseDate(c.resultAnnounceDate)]] : []),
+    ["購入期限", formatJapaneseDate(c.purchaseEndDate)],
+    ["利用開始", c.useStartDate ? formatJapaneseDate(c.useStartDate) : "購入後から利用可能"],
+    ["利用期限", formatJapaneseDate(c.useEndDate)],
+  ];
+  return <>
+    <VoucherCampaignStructuredData prefecture={c.prefecture} prefectureSlug={c.prefectureSlug} city={c.city} citySlug={c.citySlug} paytype={c.paytype} campaignSlug={c.campaignSlug} officialUrl={official}
+      headline={c.campaigntitle} articleDescription={`${c.campaigntitle}の対象者・購入条件・対象店舗。${c.purchasePrice.toLocaleString()}円で${c.ticketAmount.toLocaleString()}円分。${voucherStatus(c)}。`}
+      validFrom={c.applyStartDate} validThrough={c.useEndDate} url={url} datePublished={c.datePublished} dateModified={c.dateModified ?? c.datePublished} />
+    <div className="w-full bg-[#f8f7f2] text-secondary-foreground">
+      <main className="max-w-[1200px] mx-auto px-4 py-10">
+        <p className="text-sm text-gray-600 mb-3">{c.prefecture}・{c.city} / PayPay商品券</p>
+        <h1 className="headline1">{c.campaigntitle}｜最大{rate}%お得</h1>
+        <p className="text-sm text-right my-3">最終更新：{formatJapaneseDate(c.dateModified ?? c.datePublished)}</p>
+        <p className="leading-relaxed mb-6">1口{c.purchasePrice.toLocaleString()}円で{c.ticketAmount.toLocaleString()}円分のお買い物ができる商品券です。対象者、受付状況と購入・利用期限をご確認ください。</p>
+        <VoucherCampaignSummaryCard campaign={c} />
+        <section className="rounded-b-2xl border bg-white p-5 space-y-3">
+          <p className="font-bold text-lg">{voucherStatus(c)}</p>
+          {c.salesStatus === "sold-out" && <p>販売予定期間内ですが、販売口数の上限に達したため購入受付は終了しています。購入済みの商品券は利用期限まで使用できます。</p>}
+          {c.notice && <p className="leading-relaxed">{c.notice}</p>}
+          {official && <a href={official} target="_blank" rel="noopener noreferrer" className="inline-block rounded-lg bg-red-600 px-5 py-3 text-white font-bold">公式ページで条件・受付状況を確認</a>}
+        </section>
+        <section className="mt-8 rounded-2xl bg-white border p-5 md:p-8">
+          <h2 className="headline2">商品券の概要とスケジュール</h2>
+          <dl className="divide-y">{rows.map(([label,value]) => <div key={label} className="grid grid-cols-1 sm:grid-cols-[11rem_1fr] gap-2 py-4"><dt className="text-gray-600">{label}</dt><dd className="font-semibold break-words">{value}</dd></div>)}</dl>
+          <p className="mt-4 text-sm text-gray-600">受付開始・締切の時刻、追加販売や早期終了については公式ページをご確認ください。</p>
+        </section>
+        <section className="mt-10 space-y-4" id="voucher-shops">
+          <h2 className="headline2">この商品券が使える対象店舗</h2>
+          <p>通常のPayPay加盟店でも、この商品券を使えない場合があります。券種ごとの条件とアプリ・店頭の表示をご確認ください。</p>
+          {c.shopListNote && <p>{c.shopListNote}</p>}
+          {c.shopListUrl && <a href={c.shopListUrl} target="_blank" rel="noopener noreferrer" className="inline-block text-blue-700 underline">公式の対象店舗一覧を見る</a>}
+          {Object.keys(shops).length > 0 ? <><ShopListSource listKey={key} /><CommunityShopLists pagePath={path} shopListByGenre={shops} detailsMap={details} /></> : <p className="rounded-xl border bg-white p-4">対象店舗は{c.shopListUrl ? "上記の公式一覧" : "公式ページの「使えるお店」やPayPayアプリの商品券画面"}で確認できます。</p>}
+        </section>
+        <section className="mt-10 rounded-2xl border bg-white p-6">
+          <h2 className="headline2">{method === "first-come" ? "購入方法" : "申し込み・購入方法"}</h2>
+          <ol className="list-decimal pl-6 space-y-3">
+            <li>対象者と受付状況を確認します。本人確認が必要な商品券は、PayPayアプリで事前に手続きを済ませます。</li>
+            <li>{method === "external" ? "公式ページに記載された自治体指定の方法で申し込みます。" : `PayPayアプリの「地域商品券」から「${c.campaigntitle}」を選び、希望口数（最大${c.maxUnits}口）を入力します。`}</li>
+            {method !== "first-come" && <li>{method === "external" ? "当選通知を確認し、取得した商品券コードをPayPayアプリに入力します。" : "抽選結果の通知を確認し、購入権を取得した口数を確認します。"}</li>}
+            <li>購入期限までにアプリで内容を確認して支払います。購入した商品券はウォレットで確認できます。</li>
+          </ol>
+          {c.salesStatus === "sold-out" && <p className="mt-4 font-semibold">この募集回の販売は終了しています。</p>}
+        </section>
+        <section className="mt-10"><h2 className="headline2">商品券の使い方</h2><VoucherRedemptionGuide /></section>
+        <div className="my-8"><SNSShareButtons url={url} title={c.campaigntitle} hashtags={["PayPay", "商品券", c.city]} /></div>
+        {related.length > 0 && <section className="my-10"><h2 className="headline2">{c.city}のほかの商品券</h2><VoucherCampaignCardList campaigns={related} /></section>}
+        <Link href={`/campaigns/${c.prefectureSlug}/${c.citySlug}`} className="block text-blue-700 underline my-6">{c.city}のキャンペーン一覧へ</Link>
+        <BackNavigationButtons prefecture={c.prefecture} prefectureSlug={c.prefectureSlug} />
+      </main>
+    </div>
+  </>;
 }

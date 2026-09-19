@@ -21,11 +21,12 @@ import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster";
 import VoucherCampaignCardList from "@/components/common/VoucherCampaignCardList";
 
 type Props = {
-  params: { prefecture: string; city: string };
+  params: Promise<{ prefecture: string; city: string }>;
 };
 
-export function generateMetadata({ params }: Props) {
-  return getCityMetadata(params.prefecture, params.city);
+export async function generateMetadata({ params }: Props) {
+  const { prefecture, city } = await params;
+  return getCityMetadata(prefecture, city);
 }
 
 // ✅ ブランド並び順
@@ -38,8 +39,8 @@ const brandPriority: Record<string, number> = {
   paydon: 6,
 };
 
-export default function CityCampaignsPage({ params }: Props) {
-  const { prefecture, city } = params;
+export default async function CityCampaignsPage({ params }: Props) {
+  const { prefecture, city } = await params;
 
   const list = campaigns.filter(
     (c) => c.prefectureSlug === prefecture && c.citySlug === city
@@ -108,7 +109,7 @@ export default function CityCampaignsPage({ params }: Props) {
       (v) =>
         v.prefectureSlug === prefecture &&
         v.citySlug === city &&
-        now <= new Date(v.applyEndDate)
+        now <= new Date(v.useEndDate)
     )
     .sort(
       (a, b) =>

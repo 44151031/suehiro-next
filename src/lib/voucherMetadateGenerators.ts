@@ -1,6 +1,7 @@
 import { Metadata } from "next";
 import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster";
 import { calculateVoucherDiscountRate } from "@/lib/voucherUtils";
+import { voucherPath } from "@/lib/voucherPresentation";
 
 type VoucherPaySlug = "paypay-voucher";
 
@@ -18,19 +19,21 @@ function formatJP(d?: string) {
 export function getVoucherMetadata(
   prefectureSlug: string,
   citySlug: string,
-  _paySlug?: VoucherPaySlug // 受け取っても無視して固定運用
+  _paySlug?: VoucherPaySlug,
+  campaignSlug?: string
 ): Metadata {
   void _paySlug;
   const paySlug: VoucherPaySlug = "paypay-voucher";
-  const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${paySlug}`;
-  const ogImageUrl = `https://paycancampaign.com/images/campaigns/ogp/${prefectureSlug}-${citySlug}-${paySlug}-ogp.jpg?v=1`;
+  const suffix = campaignSlug ? `/${campaignSlug}` : "";
+  const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${paySlug}${suffix}`;
+  const ogImageUrl = `https://paycancampaign.com/images/campaigns/ogp/${prefectureSlug}-${citySlug}-${paySlug}${campaignSlug ? `-${campaignSlug}` : ""}-ogp.jpg?v=20260919`;
 
   const matched = voucherCampaignMaster
     .filter(
       (v) =>
         v.prefectureSlug === prefectureSlug &&
         v.citySlug === citySlug &&
-        v.paytype === "paypay-voucher"
+        v.paytype === "paypay-voucher" && v.campaignSlug === campaignSlug
     )
     .sort(
       (a, b) =>
@@ -74,12 +77,13 @@ export function getVoucherMetadata(
   const payLabel = "PayPay";
 
   const applicationDeadline = formatJP(end);
-  const title = `${city}の${payLabel}商品券${year}｜申込は${applicationDeadline}まで・最大${rate}%お得–Payキャン`;
+  const title = `${v.campaigntitle}｜最大${rate}%お得${v.salesStatus === "sold-out" ? "・完売" : `・申込${applicationDeadline}まで`}–Payキャン`;
   const description = `${prefecture}${city}の${payLabel}商品券は、最大${rate}%お得に購入できるプレミアム商品券です。申込期間、購入上限、対象者、利用方法をわかりやすく解説します。地域で賢く節約できるチャンスをチェックしてください。`;
 
   return {
     title,
     description,
+    alternates: { canonical: `https://paycancampaign.com${voucherPath(v)}` },
     openGraph: {
       title,
       description,

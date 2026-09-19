@@ -3,7 +3,7 @@ type GenerateShareContentParams = {
   payLabel?: string;
   offer?: number;
   prefecture?: string;
-  style?: "prefecture" | "city" | "impact" | "formal" | "limited" | "default" | "voucher";
+  style?: "prefecture" | "city" | "impact" | "formal" | "limited" | "default" | "voucher" | "archive";
 };
 
 export function generateShareContent({
@@ -22,6 +22,9 @@ export function generateShareContent({
 
   let title = "";
   switch (style) {
+    case "archive":
+      title = `【終了】${area}の${pay}${offerText}還元キャンペーン開催実績`;
+      break;
     case "impact":
       title = `${area}で${offerText}還元！${pay}開催中🔥`;
       break;

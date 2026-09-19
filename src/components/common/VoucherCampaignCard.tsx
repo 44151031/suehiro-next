@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { voucherPath, voucherStatus } from "@/lib/voucherPresentation";
 import { VoucherCampaign } from "@/types/voucher";
 import { calculateVoucherDiscountRate, formatJapaneseDateOnly } from "@/lib/voucherUtils";
 
@@ -12,7 +13,7 @@ export default function VoucherCampaignCard({ campaign }: Props) {
   const start = new Date(campaign.applyStartDate);
   const end = new Date(campaign.applyEndDate);
   const now = new Date();
-  const isActive = now >= start && now <= end;
+  const isActive = now >= start && now <= end && campaign.salesStatus !== "sold-out";
 
   const ticketAmount = Number(campaign.ticketAmount ?? 0);
   const purchasePrice = Number(campaign.purchasePrice ?? 0);
@@ -27,7 +28,7 @@ export default function VoucherCampaignCard({ campaign }: Props) {
     eligibilityLabel = "誰でもOK(年齢制限有)";
   }
 
-  const href = `/campaigns/${campaign.prefectureSlug}/${campaign.citySlug}/${campaign.paytype}`;
+  const href = voucherPath(campaign);
 
   return (
     <Link
@@ -63,6 +64,8 @@ export default function VoucherCampaignCard({ campaign }: Props) {
           {type}
         </span>
       </h3>
+      <p className="text-sm font-semibold mb-2">{campaign.campaigntitle}</p>
+      <p className="text-sm text-gray-600 mb-2">{voucherStatus(campaign)} · 利用期限 {formatJapaneseDateOnly(campaign.useEndDate)}</p>
 
       {/* 申込期間と受付中表示（受付前はバッジなし） */}
       <p className="text-sm text-gray-500 mb-1">

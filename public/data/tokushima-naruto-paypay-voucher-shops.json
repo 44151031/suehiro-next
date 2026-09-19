@@ -1,0 +1,25 @@
+{
+  "ドラッグストア": [
+    {
+      "name": "ドラッグストアモリ 鳴門駅前店",
+      "address": "鳴門市",
+      "note": "店舗公式が2026年度のデジタル商品券対応を案内",
+      "storeid": "tokushima-naruto-0abaec8e6023",
+      "shopid": "tokushima-naruto-paypay-voucher-0abaec8e6023"
+    },
+    {
+      "name": "ドラッグストアモリ 鳴門大津店",
+      "address": "鳴門市",
+      "note": "店舗公式が2026年度のデジタル商品券対応を案内",
+      "storeid": "tokushima-naruto-0051f0d6cf7d",
+      "shopid": "tokushima-naruto-paypay-voucher-0051f0d6cf7d"
+    },
+    {
+      "name": "ドラッグストアモリ 鳴門南店",
+      "address": "鳴門市",
+      "note": "店舗公式が2026年度のデジタル商品券対応を案内",
+      "storeid": "tokushima-naruto-8040c7f29fb3",
+      "shopid": "tokushima-naruto-paypay-voucher-8040c7f29fb3"
+    }
+  ]
+}

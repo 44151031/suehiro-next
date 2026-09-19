@@ -2,6 +2,7 @@
 import { MetadataRoute } from "next";
 import { campaigns } from "@/lib/campaignMaster";
 import { voucherCampaignMaster } from "@/lib/voucherCampaignMaster";
+import { voucherPath } from "@/lib/voucherPresentation";
 import { prefectures } from "@/lib/prefectures";
 import { createClientServerRSC } from "@/lib/supabase/rsc";
 
@@ -55,7 +56,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const voucherPages: MetadataRoute.Sitemap = voucherCampaignMaster
     .filter((v) => !!v.prefectureSlug && !!v.citySlug && !!v.paytype)
     .map((v) => ({
-      url: `${siteUrl}/campaigns/${v.prefectureSlug}/${v.citySlug}/${v.paytype}`,
+      url: `${siteUrl}${voucherPath(v)}`,
       lastModified: (v as any).dateModified ?? (v as any).datePublished ?? now,
     }));
 
