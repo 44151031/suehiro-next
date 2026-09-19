@@ -1,4 +1,5 @@
 import type { VoucherCampaign } from "@/types/voucher";
+import { voucherAdditions202609 } from "./voucherAdditions202609";
 
 /**
  * 商品券キャンペーンのマスターデータ
@@ -2478,7 +2479,7 @@ const voucherCampaignsRaw: VoucherCampaign[] = [
 function deduplicateBySlug(campaigns: VoucherCampaign[]): VoucherCampaign[] {
   const latestBySlug = campaigns.reduce<Record<string, VoucherCampaign>>(
     (acc, campaign) => {
-      const key = `${campaign.prefectureSlug}-${campaign.citySlug}`;
+      const key = `${campaign.prefectureSlug}-${campaign.citySlug}-${campaign.campaignSlug ?? ""}`;
       const existing = acc[key];
       if (
         !existing ||
@@ -2498,4 +2499,9 @@ function deduplicateBySlug(campaigns: VoucherCampaign[]): VoucherCampaign[] {
  * - 常に最新の applyStartDate を持つデータのみ
  */
 export const voucherCampaignMaster: VoucherCampaign[] =
-  deduplicateBySlug(voucherCampaignsRaw);
+  deduplicateBySlug([
+    ...voucherAdditions202609,
+    ...voucherCampaignsRaw.filter(old => !voucherAdditions202609.some(
+      current => current.prefectureSlug === old.prefectureSlug && current.citySlug === old.citySlug && !current.campaignSlug
+    )),
+  ]);

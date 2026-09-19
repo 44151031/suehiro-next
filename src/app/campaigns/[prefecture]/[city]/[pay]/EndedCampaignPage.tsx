@@ -95,7 +95,7 @@ export default async function EndedCampaignPage({
     citySlug,
     datePublished,
     dateModified,
-  } = campaign as Record<string, any>;
+  } = campaign;
 
   const modified = dateModified ?? datePublished;
   const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${paytypeId}`;
@@ -128,7 +128,6 @@ export default async function EndedCampaignPage({
         offerRate={Number(offer)}
         onePayLimit={String(onepoint)}
         fullPayLimit={String(fullpoint)}
-        eventStatus="https://schema.org/EventCancelled"
         datePublished={datePublished}
         dateModified={modified}
         url={pageUrl}

@@ -28,9 +28,10 @@ async function fetchArticleBySlug(slug: string) {
 
 // ===== OGP/メタ生成（SSR） =====
 export async function generateMetadata(
-  { params }: { params: Params }
+  { params }: { params: Promise<Params> }
 ): Promise<Metadata> {
-  const a = await fetchArticleBySlug(params.slug);
+  const resolvedParams = await params;
+  const a = await fetchArticleBySlug(resolvedParams.slug);
   if (!a || !a.published_at) return {};
 
   const pub = new Date(a.published_at);
@@ -66,15 +67,16 @@ export async function generateMetadata(
 }
 
 // ===== 記事ページ本体 =====
-export default async function ArticlePage({ params }: { params: Params }) {
-  const a = await fetchArticleBySlug(params.slug);
+export default async function ArticlePage({ params }: { params: Promise<Params> }) {
+  const resolvedParams = await params;
+  const a = await fetchArticleBySlug(resolvedParams.slug);
   if (!a || !a.published_at) notFound();
 
   const pub = new Date(a.published_at);
   const y = String(pub.getFullYear());
   const m = String(pub.getMonth() + 1).padStart(2, "0");
 
-  if (params.year !== y || params.month !== m) {
+  if (resolvedParams.year !== y || resolvedParams.month !== m) {
     redirect(`/articles/${y}/${m}/${a.slug}`);
   }
 

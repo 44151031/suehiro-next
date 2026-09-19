@@ -120,5 +120,63 @@
     "note": "商工会の利用可能店舗一覧で「デジタル」に対応マークがある店舗のみ掲載。冊子・マーくんのみ対応する店舗は含みません。",
     "count": 66,
     "sourceDate": "2026-08-17"
+  },
+  "ibaraki-kamisu-paypay-voucher": {
+    "url": "https://www.kamisu.or.jp/coupon2026/kameitend.pdf",
+    "checkedAt": "2026-09-19",
+    "note": "2026デジタルクーポン専用の公式取扱店一覧。共通券・専用券の利用区分を表示しています。",
+    "count": 200
+  },
+  "tokyo-shinagawa-paypay-voucher": {
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/sangyo/sangyo-syomono/sangyo-syomono-syogyo/20250623114336.html",
+    "checkedAt": "2026-09-19",
+    "note": "区公式の5地区のデジタル商品券利用可能店舗リスト。第1回・第2回で店舗の対象範囲は変更なしと公式が案内。所在地は町名・丁目まで。",
+    "count": 4196,
+    "sourceDate": "2026-08-17"
+  },
+  "tokyo-shinagawa-paypay-voucher-2026-first": {
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/sangyo/sangyo-syomono/sangyo-syomono-syogyo/20250623114336.html",
+    "checkedAt": "2026-09-19",
+    "note": "区公式の5地区のデジタル商品券利用可能店舗リスト。第1回・第2回で店舗の対象範囲は変更なしと公式が案内。所在地は町名・丁目まで。",
+    "count": 4196,
+    "sourceDate": "2026-08-17"
+  },
+  "tochigi-nasukarasuyama-paypay-voucher": {
+    "url": "https://www.city.nasukarasuyama.lg.jp/data/doc/1788774570_doc_32_0.pdf",
+    "checkedAt": "2026-09-19",
+    "note": "第3弾デジタルわくわく商品券の取扱店一覧。所在地は公式の地区名まで。大型店で支店名の記載がないものは原文どおり掲載。",
+    "count": 112,
+    "sourceDate": "2026-09-07"
+  },
+  "tokyo-sumida-paypay-voucher": {
+    "url": "https://www.sumida-showren.jp/paypay/",
+    "checkedAt": "2026-09-19",
+    "note": "商店街連合会が案内するA・B券対象店CSVとB券一覧から個別店を掲載。公式側も最新情報はアプリで確認するよう案内しているため、変更がある場合があります。商業施設の一括表記は省略。",
+    "count": 730
+  },
+  "fukuoka-fukuoka-paypay-voucher": {
+    "url": "https://www.e-bivi.com/fukuoka/shop/pop-eventnews.jsp?id=357",
+    "checkedAt": "2026-09-19",
+    "note": "BiVi福岡公式の2026年モバイル商品券対象13店舗。紙券とは対象が異なり、シアトルズベストコーヒーは対象外です。",
+    "count": 13
+  },
+  "tokushima-naruto-paypay-voucher": {
+    "url": "https://www.doramori.co.jp/premium/",
+    "checkedAt": "2026-09-19",
+    "note": "店舗公式の2026年度デジタル商品券取扱いを確認した店舗の一部を掲載。全対象店舗の一覧ではありません。",
+    "count": 3
+  },
+  "nagasaki-shimabara-paypay-voucher": {
+    "url": "https://www.doramori.co.jp/premium/",
+    "checkedAt": "2026-09-19",
+    "note": "店舗公式の2026年度デジタル商品券取扱いを確認した店舗の一部を掲載。全対象店舗の一覧ではありません。",
+    "count": 1
+  },
+  "kanagawa-kawasaki-paypay-voucher": {
+    "url": "https://kawasaki-premium.com/doc/map/map_01.pdf",
+    "checkedAt": "2026-09-19",
+    "note": "令和8年度公式特設サイトの全区版一覧。全店舗共通券・中小店舗専用券の対応を店舗ごとに表示。所在地は公式に記載された町名・丁目まで。",
+    "count": 10436,
+    "sourceDate": "2026-09-18"
   }
 }

@@ -1,0 +1,1227 @@
+{
+  "掲載店舗": [
+    {
+      "name": "なべや履物店",
+      "address": "那須烏山市あたご",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-12dc5631813e",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-12dc5631813e"
+    },
+    {
+      "name": "居酒屋れすとらん さの富",
+      "address": "那須烏山市あたご",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-4757ea652e5d",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-4757ea652e5d"
+    },
+    {
+      "name": "グリル&バー ガパガポ",
+      "address": "那須烏山市あたご",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-6bd51dbe682c",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-6bd51dbe682c"
+    },
+    {
+      "name": "那須烏山市観光協会",
+      "address": "那須烏山市あたご",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-a7c450b74304",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-a7c450b74304"
+    },
+    {
+      "name": "クリーニングのミツワ",
+      "address": "那須烏山市あたご",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-665513c6eb0a",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-665513c6eb0a"
+    },
+    {
+      "name": "GoodFellas",
+      "address": "那須烏山市あたご",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-fde9a352dcb2",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-fde9a352dcb2"
+    },
+    {
+      "name": "ガパガポ弁当工房",
+      "address": "那須烏山市あたご",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-cfcd01875926",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-cfcd01875926"
+    },
+    {
+      "name": "弐代目 祐",
+      "address": "那須烏山市あたご",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-5ccaa67be3a2",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-5ccaa67be3a2"
+    },
+    {
+      "name": "FLORIST TAKANO",
+      "address": "那須烏山市あたご",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-545d4a7c2e68",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-545d4a7c2e68"
+    },
+    {
+      "name": "港屋",
+      "address": "那須烏山市あたご",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-e1847ca38037",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-e1847ca38037"
+    },
+    {
+      "name": "かつぎ時計店",
+      "address": "那須烏山市あたご",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-65a53ddba027",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-65a53ddba027"
+    },
+    {
+      "name": "喫茶院アルッテ",
+      "address": "那須烏山市あたご",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-8fb4d5477a90",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-8fb4d5477a90"
+    },
+    {
+      "name": "ひらさわ菓子店",
+      "address": "那須烏山市金井",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-43536257d1ce",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-43536257d1ce"
+    },
+    {
+      "name": "(有)大伊勢屋",
+      "address": "那須烏山市金井",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-b22284d4b87b",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-b22284d4b87b"
+    },
+    {
+      "name": "烏山合同タクシー(株)",
+      "address": "那須烏山市金井",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-890811a2dfba",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-890811a2dfba"
+    },
+    {
+      "name": "福田川",
+      "address": "那須烏山市金三・南",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-b8c96410fb62",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-b8c96410fb62"
+    },
+    {
+      "name": "嶋田屋菓子店",
+      "address": "那須烏山市金三・南",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-120988983491",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-120988983491"
+    },
+    {
+      "name": "ピッツェリアラレプロッティ",
+      "address": "那須烏山市金三・南",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-cc5bd97ea791",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-cc5bd97ea791"
+    },
+    {
+      "name": "那須南トラベル",
+      "address": "那須烏山市初音",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-2bc4bc3d0d8e",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-2bc4bc3d0d8e"
+    },
+    {
+      "name": "JA-SS(烏山SS)",
+      "address": "那須烏山市初音",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-b13d06262881",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-b13d06262881"
+    },
+    {
+      "name": "ひふみメモリアルホール初音本館",
+      "address": "那須烏山市初音",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-51d033ae60c1",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-51d033ae60c1"
+    },
+    {
+      "name": "塩那自動車販売",
+      "address": "那須烏山市田野倉",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-f8faef255fe8",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-f8faef255fe8"
+    },
+    {
+      "name": "天ぷら生蕎麦 なかだや",
+      "address": "那須烏山市田野倉",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-b7f190dd2162",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-b7f190dd2162"
+    },
+    {
+      "name": "生活衣料こすぎ",
+      "address": "那須烏山市田野倉",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-09e658939287",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-09e658939287"
+    },
+    {
+      "name": "桧山ふとん店",
+      "address": "那須烏山市田野倉",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-cad453e50928",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-cad453e50928"
+    },
+    {
+      "name": "(有)ヒグチ電器",
+      "address": "那須烏山市田野倉",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-16b71e6e7aa0",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-16b71e6e7aa0"
+    },
+    {
+      "name": "田代接骨院",
+      "address": "那須烏山市田野倉",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-c6fc28490985",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-c6fc28490985"
+    },
+    {
+      "name": "(株)島崎酒造",
+      "address": "那須烏山市仲町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-9a84f24365ea",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-9a84f24365ea"
+    },
+    {
+      "name": "越雲書店",
+      "address": "那須烏山市仲町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-40699d3a26c7",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-40699d3a26c7"
+    },
+    {
+      "name": "アラマン",
+      "address": "那須烏山市仲町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-1a31e3d1731e",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-1a31e3d1731e"
+    },
+    {
+      "name": "えちごや丸山菓子店",
+      "address": "那須烏山市仲町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-90846e33f350",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-90846e33f350"
+    },
+    {
+      "name": "松月庵",
+      "address": "那須烏山市仲町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-ff27c0c2e008",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-ff27c0c2e008"
+    },
+    {
+      "name": "FLORIST TAKANO",
+      "address": "那須烏山市仲町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-f0c33050e83c",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-f0c33050e83c"
+    },
+    {
+      "name": "新亀屋商店",
+      "address": "那須烏山市仲町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-0ac4e96a6fd6",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-0ac4e96a6fd6"
+    },
+    {
+      "name": "手打ちそば 石川屋",
+      "address": "那須烏山市仲町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-6946dee9db61",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-6946dee9db61"
+    },
+    {
+      "name": "濱村屋",
+      "address": "那須烏山市仲町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-d6d8e1c2447f",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-d6d8e1c2447f"
+    },
+    {
+      "name": "(株)アド・ワークス",
+      "address": "那須烏山市仲町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-8801d7cf343b",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-8801d7cf343b"
+    },
+    {
+      "name": "寝装・寝具のよろづや",
+      "address": "那須烏山市鍛冶町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-ea67fe60bd5c",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-ea67fe60bd5c"
+    },
+    {
+      "name": "サトウムセン",
+      "address": "那須烏山市鍛冶町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-3440206ca0b2",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-3440206ca0b2"
+    },
+    {
+      "name": "メガネのヒラノ",
+      "address": "那須烏山市鍛冶町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-ab739dbe2436",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-ab739dbe2436"
+    },
+    {
+      "name": "烏山クラフト館",
+      "address": "那須烏山市鍛冶町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-ffd061c6a28a",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-ffd061c6a28a"
+    },
+    {
+      "name": "MONTECORVO",
+      "address": "那須烏山市鍛冶町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-1b0761c76b69",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-1b0761c76b69"
+    },
+    {
+      "name": "和菓子処 美与志堂",
+      "address": "那須烏山市鍛冶町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-072dba75c435",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-072dba75c435"
+    },
+    {
+      "name": "BAOgym",
+      "address": "那須烏山市鍛冶町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-32633f7a73f6",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-32633f7a73f6"
+    },
+    {
+      "name": "HEART FLORA",
+      "address": "那須烏山市鍛冶町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-4d53ba66a704",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-4d53ba66a704"
+    },
+    {
+      "name": "ナスカラ市場",
+      "address": "那須烏山市大金",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-b6d6dd797619",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-b6d6dd797619"
+    },
+    {
+      "name": "渡辺オートサービス",
+      "address": "那須烏山市曲畑・曲田",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-6e6cf8a859f6",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-6e6cf8a859f6"
+    },
+    {
+      "name": "吉兵衛窯",
+      "address": "那須烏山市曲畑・曲田",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-2857046b10aa",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-2857046b10aa"
+    },
+    {
+      "name": "ヘアーブティックオオガネ",
+      "address": "那須烏山市元田町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-338fbcd9e50f",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-338fbcd9e50f"
+    },
+    {
+      "name": "ハリカ烏山店",
+      "address": "那須烏山市元田町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-1e363b3108a0",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-1e363b3108a0"
+    },
+    {
+      "name": "烏山観光タクシー",
+      "address": "那須烏山市元田町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-685f7c8a00e4",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-685f7c8a00e4"
+    },
+    {
+      "name": "滝田茶店",
+      "address": "那須烏山市元田町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-e8ff74246c24",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-e8ff74246c24"
+    },
+    {
+      "name": "西原ドライクリーニング店",
+      "address": "那須烏山市元田町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-bf2ea9479c54",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-bf2ea9479c54"
+    },
+    {
+      "name": "(有)さつまや",
+      "address": "那須烏山市日野町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-6cf032203e76",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-6cf032203e76"
+    },
+    {
+      "name": "(有)レストラン笠井",
+      "address": "那須烏山市日野町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-c2135990f809",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-c2135990f809"
+    },
+    {
+      "name": "焼肉南都烏山店",
+      "address": "那須烏山市日野町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-0605aacca816",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-0605aacca816"
+    },
+    {
+      "name": "パソコンお助け烏山",
+      "address": "那須烏山市日野町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-5431958f8e7a",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-5431958f8e7a"
+    },
+    {
+      "name": "カイロプラクティックRevive",
+      "address": "那須烏山市日野町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-e882ca5f477c",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-e882ca5f477c"
+    },
+    {
+      "name": "黒須商事",
+      "address": "那須烏山市日野町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-cd94ad6ba0ac",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-cd94ad6ba0ac"
+    },
+    {
+      "name": "G.Diner",
+      "address": "那須烏山市日野町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-08ed1650b11b",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-08ed1650b11b"
+    },
+    {
+      "name": "絵本喫茶ぱたぽん",
+      "address": "那須烏山市日野町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-4bff637aa2c6",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-4bff637aa2c6"
+    },
+    {
+      "name": "居酒屋嘉",
+      "address": "那須烏山市日野町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-6bfa5f16d12c",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-6bfa5f16d12c"
+    },
+    {
+      "name": "美喜寿司",
+      "address": "那須烏山市日野町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-701768e004f1",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-701768e004f1"
+    },
+    {
+      "name": "AKIMOTO洋菓子店",
+      "address": "那須烏山市日野町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-65744450771b",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-65744450771b"
+    },
+    {
+      "name": "ブリューコロニー",
+      "address": "那須烏山市日野町",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-7657a3fc9ce8",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-7657a3fc9ce8"
+    },
+    {
+      "name": "フォレストパークおいらの森",
+      "address": "那須烏山市福岡",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-76a87490dcdb",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-76a87490dcdb"
+    },
+    {
+      "name": "エビス電器",
+      "address": "那須烏山市南大和久",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-2b77879fada1",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-2b77879fada1"
+    },
+    {
+      "name": "佐藤モータース",
+      "address": "那須烏山市南大和久",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-3a6c6a0be98f",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-3a6c6a0be98f"
+    },
+    {
+      "name": "cafeローズ",
+      "address": "那須烏山市泉町・坂下・屋敷",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-e238f49a4f4b",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-e238f49a4f4b"
+    },
+    {
+      "name": "和菓子 白木屋",
+      "address": "那須烏山市泉町・坂下・屋敷",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-887e42d61d75",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-887e42d61d75"
+    },
+    {
+      "name": "karaoke snack Eve.",
+      "address": "那須烏山市泉町・坂下・屋敷",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-93fe410efd18",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-93fe410efd18"
+    },
+    {
+      "name": "くすりのもりしま",
+      "address": "那須烏山市泉町・坂下・屋敷",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-5b0f139f765c",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-5b0f139f765c"
+    },
+    {
+      "name": "(株)BRILLER",
+      "address": "那須烏山市泉町・坂下・屋敷",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-ba759ab1e45e",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-ba759ab1e45e"
+    },
+    {
+      "name": "スライヴ・イーヴス",
+      "address": "那須烏山市泉町・坂下・屋敷",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-ebac19d52a04",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-ebac19d52a04"
+    },
+    {
+      "name": "フレッシュあい",
+      "address": "那須烏山市泉町・坂下・屋敷",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-9b547f93114c",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-9b547f93114c"
+    },
+    {
+      "name": "あゆの里 矢沢のヤナ",
+      "address": "那須烏山市滝田・中山",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-7b1ace84ed68",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-7b1ace84ed68"
+    },
+    {
+      "name": "(有)吉成印刷",
+      "address": "那須烏山市滝田・中山",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-454dfd09ca0f",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-454dfd09ca0f"
+    },
+    {
+      "name": "竹のや",
+      "address": "那須烏山市谷浅見・大桶",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-1d2f4d422030",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-1d2f4d422030"
+    },
+    {
+      "name": "栃木トヨタ自動車",
+      "address": "那須烏山市谷浅見・大桶",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-b4521d1f5957",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-b4521d1f5957"
+    },
+    {
+      "name": "船橋精肉店",
+      "address": "那須烏山市興野",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-481ad0636042",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-481ad0636042"
+    },
+    {
+      "name": "(株)Grow",
+      "address": "那須烏山市興野",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-9c49230373dd",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-9c49230373dd"
+    },
+    {
+      "name": "クローバーステーキHOUSE",
+      "address": "那須烏山市興野",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-63b01cdd7275",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-63b01cdd7275"
+    },
+    {
+      "name": "ひのきや",
+      "address": "那須烏山市宮原",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-3b84fbe27e04",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-3b84fbe27e04"
+    },
+    {
+      "name": "コムロモータース",
+      "address": "那須烏山市上境",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-bbd20d7e65ce",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-bbd20d7e65ce"
+    },
+    {
+      "name": "るりいろ",
+      "address": "那須烏山市上境",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-51732c92a1bf",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-51732c92a1bf"
+    },
+    {
+      "name": "M’s Place",
+      "address": "那須烏山市上境",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-74bfae993226",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-74bfae993226"
+    },
+    {
+      "name": "横山農機",
+      "address": "那須烏山市上境",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-cd5c9804355c",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-cd5c9804355c"
+    },
+    {
+      "name": "(有)塩沢商事ニュー月次SS",
+      "address": "那須烏山市月次",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-87d158625d2c",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-87d158625d2c"
+    },
+    {
+      "name": "珈琲工房 みつばちの里",
+      "address": "那須烏山市三箇",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-d32d88ea27b0",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-d32d88ea27b0"
+    },
+    {
+      "name": "きらぼし",
+      "address": "那須烏山市三箇",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-278328069578",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-278328069578"
+    },
+    {
+      "name": "美容室TomoTomo",
+      "address": "那須烏山市三箇",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-8c9ba41863da",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-8c9ba41863da"
+    },
+    {
+      "name": "田舎そば処 長山",
+      "address": "那須烏山市小木須・大木須・横枕",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-dca7859ef3eb",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-dca7859ef3eb"
+    },
+    {
+      "name": "龍門ふるさと民芸館",
+      "address": "那須烏山市滝・神長",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-4c136ced8120",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-4c136ced8120"
+    },
+    {
+      "name": "龍門カフェ",
+      "address": "那須烏山市滝・神長",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-787abc3dc45f",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-787abc3dc45f"
+    },
+    {
+      "name": "(株)島崎酒造 洞窟酒蔵",
+      "address": "那須烏山市滝・神長",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-15760a9e19ee",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-15760a9e19ee"
+    },
+    {
+      "name": "(有)塩沢商事 神長SS",
+      "address": "那須烏山市滝・神長",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-91b99913f40c",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-91b99913f40c"
+    },
+    {
+      "name": "ヘアーサロン Oosima",
+      "address": "那須烏山市滝・神長",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-09e06485c8bc",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-09e06485c8bc"
+    },
+    {
+      "name": "ヘアースタジオリバー",
+      "address": "那須烏山市滝・神長",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-2545d8083fca",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-2545d8083fca"
+    },
+    {
+      "name": "pakjapantrading",
+      "address": "那須烏山市向田",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-5a06654fcf8b",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-5a06654fcf8b"
+    },
+    {
+      "name": "ベイシア",
+      "address": "那須烏山市",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "tochigi-nasukarasuyama-d8a7a238c3f5",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-d8a7a238c3f5"
+    },
+    {
+      "name": "たいらや",
+      "address": "那須烏山市",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "tochigi-nasukarasuyama-0eb6ed7cabdc",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-0eb6ed7cabdc"
+    },
+    {
+      "name": "ヤマダデンキ",
+      "address": "那須烏山市",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "tochigi-nasukarasuyama-2081d9d1283e",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-2081d9d1283e"
+    },
+    {
+      "name": "ツルハホールディングス",
+      "address": "那須烏山市",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "tochigi-nasukarasuyama-4d84afd54cf8",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-4d84afd54cf8"
+    },
+    {
+      "name": "ホームセンターカンセキ",
+      "address": "那須烏山市",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "tochigi-nasukarasuyama-cb93037efb22",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-cb93037efb22"
+    },
+    {
+      "name": "カワチ薬品 那須烏山店",
+      "address": "那須烏山市",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "tochigi-nasukarasuyama-66ebfd8b83f4",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-66ebfd8b83f4"
+    },
+    {
+      "name": "カワチ薬品 大金店",
+      "address": "那須烏山市",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "tochigi-nasukarasuyama-30f698d037d8",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-30f698d037d8"
+    },
+    {
+      "name": "コメリ 烏山店",
+      "address": "那須烏山市",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "tochigi-nasukarasuyama-1e11a3ee5487",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-1e11a3ee5487"
+    },
+    {
+      "name": "コメリ 大金店",
+      "address": "那須烏山市",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "tochigi-nasukarasuyama-537b5666a05e",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-537b5666a05e"
+    },
+    {
+      "name": "モリバヤシ石油那須南サービスステーション 本店",
+      "address": "那須烏山市志鳥",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-b7b6e868b28f",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-b7b6e868b28f"
+    },
+    {
+      "name": "モリバヤシ石油那須南サービスステーション 整備工場",
+      "address": "那須烏山市志鳥",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-45abe8e90853",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-45abe8e90853"
+    },
+    {
+      "name": "鴻野山どうぶつ病院",
+      "address": "那須烏山市鴻野山",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-014e4b45d26c",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-014e4b45d26c"
+    },
+    {
+      "name": "森田城やな",
+      "address": "那須烏山市森田",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "tochigi-nasukarasuyama-7cda4df73e1d",
+      "shopid": "tochigi-nasukarasuyama-paypay-voucher-7cda4df73e1d"
+    }
+  ]
+}

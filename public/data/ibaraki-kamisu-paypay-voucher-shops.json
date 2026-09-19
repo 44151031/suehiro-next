@@ -1,0 +1,2424 @@
+{
+  "メンズ・レディーススーツ他": [
+    {
+      "name": "AOKI 神栖平泉店",
+      "address": "神栖市平泉281-24",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-22b1665b4a59",
+      "shopid": "ibaraki-kamisu-paypay-voucher-22b1665b4a59"
+    }
+  ],
+  "タクシー": [
+    {
+      "name": "アステル交通(株)",
+      "address": "神栖市波崎7423-1",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-3fde73fc541f",
+      "shopid": "ibaraki-kamisu-paypay-voucher-3fde73fc541f"
+    },
+    {
+      "name": "神栖モビリティサービス(株)",
+      "address": "神栖市知手3011-22",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-c9cf36bd7166",
+      "shopid": "ibaraki-kamisu-paypay-voucher-c9cf36bd7166"
+    },
+    {
+      "name": "神栖タクシー",
+      "address": "神栖市筒井1701-9",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-7f1af8097363",
+      "shopid": "ibaraki-kamisu-paypay-voucher-7f1af8097363"
+    },
+    {
+      "name": "南部タクシー",
+      "address": "神栖市知手中央9-11-14",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-1b0d6101243e",
+      "shopid": "ibaraki-kamisu-paypay-voucher-1b0d6101243e"
+    },
+    {
+      "name": "(有)港タクシー",
+      "address": "神栖市土合中央3-7-15",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-d228e36e81d3",
+      "shopid": "ibaraki-kamisu-paypay-voucher-d228e36e81d3"
+    }
+  ],
+  "スポーツ用品販売店": [
+    {
+      "name": "アルペンアクロスプラザ神栖店",
+      "address": "神栖市居切1456-51",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-8e0890451ba6",
+      "shopid": "ibaraki-kamisu-paypay-voucher-8e0890451ba6"
+    }
+  ],
+  "サービス業": [
+    {
+      "name": "息栖にぎわいテラス",
+      "address": "神栖市息栖2509",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-47279ce9eba0",
+      "shopid": "ibaraki-kamisu-paypay-voucher-47279ce9eba0"
+    },
+    {
+      "name": "カラオケ K・F",
+      "address": "神栖市神栖2-3-6",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-2e2b44782c02",
+      "shopid": "ibaraki-kamisu-paypay-voucher-2e2b44782c02"
+    }
+  ],
+  "小売業(ドラッグストア)": [
+    {
+      "name": "ウエルシア神栖大野原店",
+      "address": "神栖市大野原3-9-36",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-0899dd306460",
+      "shopid": "ibaraki-kamisu-paypay-voucher-0899dd306460"
+    },
+    {
+      "name": "ウエルシア神栖知手中央店",
+      "address": "神栖市知手中央6-6-19",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-6bcb13cce758",
+      "shopid": "ibaraki-kamisu-paypay-voucher-6bcb13cce758"
+    },
+    {
+      "name": "ウエルシア神栖知手店",
+      "address": "神栖市知手中央2-2-27",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-90d18fe1fa59",
+      "shopid": "ibaraki-kamisu-paypay-voucher-90d18fe1fa59"
+    },
+    {
+      "name": "ウエルシア神栖中央店",
+      "address": "神栖市神栖1-5-6",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-9ad7fe14a595",
+      "shopid": "ibaraki-kamisu-paypay-voucher-9ad7fe14a595"
+    },
+    {
+      "name": "ウエルシア神栖土合本町店",
+      "address": "神栖市土合本町4-9809-451",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-ba3383dfe301",
+      "shopid": "ibaraki-kamisu-paypay-voucher-ba3383dfe301"
+    },
+    {
+      "name": "ウエルシア神栖波崎店",
+      "address": "神栖市波崎8519",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-44aa0008ee48",
+      "shopid": "ibaraki-kamisu-paypay-voucher-44aa0008ee48"
+    },
+    {
+      "name": "ウエルシア神栖平泉店",
+      "address": "神栖市平泉1-4",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-4109ddd01ba0",
+      "shopid": "ibaraki-kamisu-paypay-voucher-4109ddd01ba0"
+    },
+    {
+      "name": "ウエルシア神栖堀割店",
+      "address": "神栖市堀割3-4-3",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-d0fd7204a640",
+      "shopid": "ibaraki-kamisu-paypay-voucher-d0fd7204a640"
+    },
+    {
+      "name": "ウエルシア神栖矢田部店",
+      "address": "神栖市矢田部7803-51",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-b8a5443e3280",
+      "shopid": "ibaraki-kamisu-paypay-voucher-b8a5443e3280"
+    },
+    {
+      "name": "ウエルシア神栖若松店",
+      "address": "神栖市若松中央2-10",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-81d89a6128a4",
+      "shopid": "ibaraki-kamisu-paypay-voucher-81d89a6128a4"
+    }
+  ],
+  "靴・アパレル小物販売": [
+    {
+      "name": "ABC-MART オークビレッジかみす店",
+      "address": "神栖市大野原4-8-71-23号",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-a1614b228e91",
+      "shopid": "ibaraki-kamisu-paypay-voucher-a1614b228e91"
+    },
+    {
+      "name": "ABC-MART 神栖店",
+      "address": "神栖市平泉527-23",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-dedc90c73c06",
+      "shopid": "ibaraki-kamisu-paypay-voucher-dedc90c73c06"
+    }
+  ],
+  "海鮮・寿司など": [
+    {
+      "name": "海鮮 雅",
+      "address": "神栖市大野原3-10-21",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-afb23414bce5",
+      "shopid": "ibaraki-kamisu-paypay-voucher-afb23414bce5"
+    }
+  ],
+  "スーパーマーケット": [
+    {
+      "name": "カスミ神栖店",
+      "address": "神栖市大野原4-1-41",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-ddd07290d065",
+      "shopid": "ibaraki-kamisu-paypay-voucher-ddd07290d065"
+    },
+    {
+      "name": "カスミフードスクエアライフガーデン神栖店",
+      "address": "神栖市平泉8-76",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-092eac289b2f",
+      "shopid": "ibaraki-kamisu-paypay-voucher-092eac289b2f"
+    }
+  ],
+  "食品全般": [
+    {
+      "name": "カスミ波崎店",
+      "address": "神栖市波崎8473-3",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-ca50de2dcd76",
+      "shopid": "ibaraki-kamisu-paypay-voucher-ca50de2dcd76"
+    }
+  ],
+  "スポーツ用品": [
+    {
+      "name": "(株)カムイ",
+      "address": "神栖市平泉527-80",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-253f246fbe5b",
+      "shopid": "ibaraki-kamisu-paypay-voucher-253f246fbe5b"
+    }
+  ],
+  "焼肉食べ放題": [
+    {
+      "name": "カルビ大将神栖店",
+      "address": "神栖市平泉255-9",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-32b958e75717",
+      "shopid": "ibaraki-kamisu-paypay-voucher-32b958e75717"
+    }
+  ],
+  "小売業": [
+    {
+      "name": "カワチ薬品 神栖店",
+      "address": "神栖市平泉265-22",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-2f1560e4886a",
+      "shopid": "ibaraki-kamisu-paypay-voucher-2f1560e4886a"
+    },
+    {
+      "name": "(有)五十嵐ストア",
+      "address": "神栖市大野原2-13-6",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-cba615244e7b",
+      "shopid": "ibaraki-kamisu-paypay-voucher-cba615244e7b"
+    },
+    {
+      "name": "ヤックスドラッグオークビレッジかみす店",
+      "address": "神栖市大野原4-8-67-4",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-169369ce2380",
+      "shopid": "ibaraki-kamisu-paypay-voucher-169369ce2380"
+    }
+  ],
+  "家電製品全般・スマートフォン": [
+    {
+      "name": "ケーズデンキ神栖店",
+      "address": "神栖市平泉2-120",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-361ae708ea7f",
+      "shopid": "ibaraki-kamisu-paypay-voucher-361ae708ea7f"
+    }
+  ],
+  "家電量販売": [
+    {
+      "name": "ケーズデンキ波崎店",
+      "address": "神栖市波崎8368",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-e99e07f92c39",
+      "shopid": "ibaraki-kamisu-paypay-voucher-e99e07f92c39"
+    }
+  ],
+  "飲食業": [
+    {
+      "name": "ココス神栖店",
+      "address": "神栖市大野原4-1-37",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-eb758643cc1b",
+      "shopid": "ibaraki-kamisu-paypay-voucher-eb758643cc1b"
+    },
+    {
+      "name": "ココス波崎店",
+      "address": "神栖市波崎8352-2",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-f442219cb0c0",
+      "shopid": "ibaraki-kamisu-paypay-voucher-f442219cb0c0"
+    },
+    {
+      "name": "ばんどう太郎神栖店",
+      "address": "神栖市堀割3-1-10",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-187ea67c8b14",
+      "shopid": "ibaraki-kamisu-paypay-voucher-187ea67c8b14"
+    },
+    {
+      "name": "味処 料理番",
+      "address": "神栖市知手2872-32",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-33a70ac6f74a",
+      "shopid": "ibaraki-kamisu-paypay-voucher-33a70ac6f74a"
+    },
+    {
+      "name": "居酒屋 笑福",
+      "address": "神栖市知手中央2-2-23",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-cf3967d0b894",
+      "shopid": "ibaraki-kamisu-paypay-voucher-cf3967d0b894"
+    },
+    {
+      "name": "居酒屋だっしゅ村",
+      "address": "神栖市知手中央5-1-82 すずらんコーポ102",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-7290b806c2a2",
+      "shopid": "ibaraki-kamisu-paypay-voucher-7290b806c2a2"
+    },
+    {
+      "name": "カフェ トラジロウ",
+      "address": "神栖市居切1455-16",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-7de43472801f",
+      "shopid": "ibaraki-kamisu-paypay-voucher-7de43472801f"
+    },
+    {
+      "name": "すし ふぐ に組",
+      "address": "神栖市神栖2-3-50",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-ac444172b201",
+      "shopid": "ibaraki-kamisu-paypay-voucher-ac444172b201"
+    },
+    {
+      "name": "そば処 更科",
+      "address": "神栖市知手中央6-18-9",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-9b46a3a36f3c",
+      "shopid": "ibaraki-kamisu-paypay-voucher-9b46a3a36f3c"
+    },
+    {
+      "name": "珠寿司",
+      "address": "神栖市土合中央2-6-13",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-d1e563040ad5",
+      "shopid": "ibaraki-kamisu-paypay-voucher-d1e563040ad5"
+    },
+    {
+      "name": "博多九兵衛神栖店",
+      "address": "神栖市神栖1-12-10NSTOWN101",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-ed025582314d",
+      "shopid": "ibaraki-kamisu-paypay-voucher-ed025582314d"
+    },
+    {
+      "name": "ビストロ・シーフォー",
+      "address": "神栖市知手6378-7",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-b58c8324d2e4",
+      "shopid": "ibaraki-kamisu-paypay-voucher-b58c8324d2e4"
+    },
+    {
+      "name": "ビストロ十兵衛",
+      "address": "神栖市堀割1-5-4ラヴェリテ101",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-05d12baf4024",
+      "shopid": "ibaraki-kamisu-paypay-voucher-05d12baf4024"
+    },
+    {
+      "name": "モスバーガーオークビレッジかみす店",
+      "address": "神栖市大野原4-8-67-2",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-f90f8402c826",
+      "shopid": "ibaraki-kamisu-paypay-voucher-f90f8402c826"
+    },
+    {
+      "name": "レストラン&バー ネロ",
+      "address": "神栖市平泉527-19-C",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-3f6941344f70",
+      "shopid": "ibaraki-kamisu-paypay-voucher-3f6941344f70"
+    },
+    {
+      "name": "和食や 山いち",
+      "address": "神栖市賀3858-1",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-01841f388f14",
+      "shopid": "ibaraki-kamisu-paypay-voucher-01841f388f14"
+    }
+  ],
+  "そば・うどんなど": [
+    {
+      "name": "信州そば三城",
+      "address": "神栖市大野原1-24-1",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-c2b554264c14",
+      "shopid": "ibaraki-kamisu-paypay-voucher-c2b554264c14"
+    }
+  ],
+  "飲食業 ステーキ・ハンバーグ": [
+    {
+      "name": "ステーキ宮 神栖店",
+      "address": "神栖市平泉527-37",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-f5ab1d002493",
+      "shopid": "ibaraki-kamisu-paypay-voucher-f5ab1d002493"
+    }
+  ],
+  "カフェ": [
+    {
+      "name": "高倉町珈琲 茨城神栖店",
+      "address": "神栖市大野原4-8-67",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-ae24411d9c10",
+      "shopid": "ibaraki-kamisu-paypay-voucher-ae24411d9c10"
+    }
+  ],
+  "書店・文具雑貨・トレカ販売": [
+    {
+      "name": "TSUTAYA鹿嶋南店",
+      "address": "神栖市堀割1-2-25",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-52e5be8cdea7",
+      "shopid": "ibaraki-kamisu-paypay-voucher-52e5be8cdea7"
+    }
+  ],
+  "ホームセンター": [
+    {
+      "name": "DCM神栖店",
+      "address": "神栖市大野原4-4-30",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-53634784df51",
+      "shopid": "ibaraki-kamisu-paypay-voucher-53634784df51"
+    }
+  ],
+  "小売業(ホームセンター)": [
+    {
+      "name": "DCM波崎店",
+      "address": "神栖市波崎7121",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-79681b06dffe",
+      "shopid": "ibaraki-kamisu-paypay-voucher-79681b06dffe"
+    }
+  ],
+  "スーパー": [
+    {
+      "name": "フーズマーケットさえき知手店",
+      "address": "神栖市知手中央2-3-37",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-264c70276026",
+      "shopid": "ibaraki-kamisu-paypay-voucher-264c70276026"
+    }
+  ],
+  "メガネ・コンタクトレンズ・補聴器販売": [
+    {
+      "name": "メガネハット アクロスプラザ神栖店",
+      "address": "神栖市居切1456-12",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-899b5c96ebb3",
+      "shopid": "ibaraki-kamisu-paypay-voucher-899b5c96ebb3"
+    },
+    {
+      "name": "メガネハット 神栖神の池店",
+      "address": "神栖市大野原2-20-20",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-baa2294dbaa9",
+      "shopid": "ibaraki-kamisu-paypay-voucher-baa2294dbaa9"
+    }
+  ],
+  "家電販売": [
+    {
+      "name": "(株)ヤマダデンキ テックランドNew神栖店",
+      "address": "神栖市平泉字北口527-24",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-aaec363f51dd",
+      "shopid": "ibaraki-kamisu-paypay-voucher-aaec363f51dd"
+    },
+    {
+      "name": "(株)鹿光電業",
+      "address": "神栖市知手中央6-13-1",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-429f01e4126e",
+      "shopid": "ibaraki-kamisu-paypay-voucher-429f01e4126e"
+    }
+  ],
+  "自動車販売・修理": [
+    {
+      "name": "(有)ワンオーナー",
+      "address": "神栖市日川1963-150",
+      "voucherTypes": [
+        "common"
+      ],
+      "note": "共通券のみ利用可能（専用券は対象外）",
+      "storeid": "ibaraki-kamisu-2243c404f4bd",
+      "shopid": "ibaraki-kamisu-paypay-voucher-2243c404f4bd"
+    }
+  ],
+  "飲食店": [
+    {
+      "name": "あばんだん",
+      "address": "神栖市波崎9407-2",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-9e5c5b86e2d3",
+      "shopid": "ibaraki-kamisu-paypay-voucher-9e5c5b86e2d3"
+    },
+    {
+      "name": "じごいもの豚",
+      "address": "神栖市波崎5172-3",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-d9707b30d0cd",
+      "shopid": "ibaraki-kamisu-paypay-voucher-d9707b30d0cd"
+    },
+    {
+      "name": "炭火ジギスカン酒場もんごる",
+      "address": "神栖市大野原2-2-14",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-3e5d2957c6ce",
+      "shopid": "ibaraki-kamisu-paypay-voucher-3e5d2957c6ce"
+    },
+    {
+      "name": "創作懐石 しょうえい",
+      "address": "神栖市須田2277-5",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-4114c9e4e734",
+      "shopid": "ibaraki-kamisu-paypay-voucher-4114c9e4e734"
+    },
+    {
+      "name": "大衆割烹みどりや",
+      "address": "神栖市大野原2-19-8",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-aa9928a745e7",
+      "shopid": "ibaraki-kamisu-paypay-voucher-aa9928a745e7"
+    },
+    {
+      "name": "集いの場 にょんまる屋",
+      "address": "神栖市矢田部9773-3",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-b628a051fa4d",
+      "shopid": "ibaraki-kamisu-paypay-voucher-b628a051fa4d"
+    },
+    {
+      "name": "呑喰処みのり",
+      "address": "神栖市波崎5300",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-ff797d8ea00b",
+      "shopid": "ibaraki-kamisu-paypay-voucher-ff797d8ea00b"
+    },
+    {
+      "name": "バカ頭",
+      "address": "神栖市神栖2-19-7",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-e53ccd0ec614",
+      "shopid": "ibaraki-kamisu-paypay-voucher-e53ccd0ec614"
+    },
+    {
+      "name": "美酒佳肴 庵",
+      "address": "神栖市知手5202-2",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-64965b6eec47",
+      "shopid": "ibaraki-kamisu-paypay-voucher-64965b6eec47"
+    },
+    {
+      "name": "和風レストラン 三金",
+      "address": "神栖市矢田部7794",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-a19778589dc8",
+      "shopid": "ibaraki-kamisu-paypay-voucher-a19778589dc8"
+    }
+  ],
+  "飲食業(イタリアン・テイクアウト有)": [
+    {
+      "name": "イタリアンカフェ マラッカ",
+      "address": "神栖市木崎2872-1",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-f1c0c3af1fdd",
+      "shopid": "ibaraki-kamisu-paypay-voucher-f1c0c3af1fdd"
+    }
+  ],
+  "豚しゃぶ居酒屋": [
+    {
+      "name": "旨処いとう",
+      "address": "神栖市土合中央1-2-13",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-9f35f26ebc09",
+      "shopid": "ibaraki-kamisu-paypay-voucher-9f35f26ebc09"
+    }
+  ],
+  "飲食": [
+    {
+      "name": "CAFE PLANT",
+      "address": "神栖市大野原3-2-21",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-63d8f8f7e6b1",
+      "shopid": "ibaraki-kamisu-paypay-voucher-63d8f8f7e6b1"
+    }
+  ],
+  "唐揚げ・弁当": [
+    {
+      "name": "唐揚げ専門 源まる商店",
+      "address": "神栖市神栖4-5-19",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-549689f197a2",
+      "shopid": "ibaraki-kamisu-paypay-voucher-549689f197a2"
+    }
+  ],
+  "カラオケバー": [
+    {
+      "name": "カラオケバー ニュートピア",
+      "address": "神栖市神栖1-12-10",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-8cd15ee2c7f9",
+      "shopid": "ibaraki-kamisu-paypay-voucher-8cd15ee2c7f9"
+    }
+  ],
+  "焼肉": [
+    {
+      "name": "牛角 神栖店",
+      "address": "神栖市大野原4-474-20",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-c9089ea9292e",
+      "shopid": "ibaraki-kamisu-paypay-voucher-c9089ea9292e"
+    }
+  ],
+  "イタリア料理": [
+    {
+      "name": "クッチーナ イタリアーナ ペスカッペ",
+      "address": "神栖市平泉2137-3",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-80db42a1ee41",
+      "shopid": "ibaraki-kamisu-paypay-voucher-80db42a1ee41"
+    }
+  ],
+  "居酒屋・酒・チーズフォンデュ": [
+    {
+      "name": "グリルハウスQUOQUO",
+      "address": "神栖市溝口1681-1",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-92738289a0af",
+      "shopid": "ibaraki-kamisu-paypay-voucher-92738289a0af"
+    }
+  ],
+  "居酒屋": [
+    {
+      "name": "小料理 円か。",
+      "address": "神栖市平泉東1-54-1",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-5b9b96e8c9e2",
+      "shopid": "ibaraki-kamisu-paypay-voucher-5b9b96e8c9e2"
+    },
+    {
+      "name": "地鶏炭火焼 鳥一門",
+      "address": "神栖市大野原3-11-9",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-e370d86bb70b",
+      "shopid": "ibaraki-kamisu-paypay-voucher-e370d86bb70b"
+    },
+    {
+      "name": "soba処 丁 ́s",
+      "address": "神栖市平泉東1-64-99",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-366f1caf4e57",
+      "shopid": "ibaraki-kamisu-paypay-voucher-366f1caf4e57"
+    },
+    {
+      "name": "和ビストロ おてんとさん",
+      "address": "神栖市大野原3-1-12",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-e06cd49ded21",
+      "shopid": "ibaraki-kamisu-paypay-voucher-e06cd49ded21"
+    }
+  ],
+  "お好み焼き": [
+    {
+      "name": "さくら茶屋",
+      "address": "神栖市日川4412-5",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-63462adc562a",
+      "shopid": "ibaraki-kamisu-paypay-voucher-63462adc562a"
+    }
+  ],
+  "焼肉 中華": [
+    {
+      "name": "焼肉レストラン 庄花亭",
+      "address": "神栖市太田1885-6",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-b3ee9ad70745",
+      "shopid": "ibaraki-kamisu-paypay-voucher-b3ee9ad70745"
+    }
+  ],
+  "飲食 居酒屋・お好み焼・もんじゃ焼": [
+    {
+      "name": "昭和レトロ たっちゃんち",
+      "address": "神栖市知手中央6-12-27",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-c4715f82d1a7",
+      "shopid": "ibaraki-kamisu-paypay-voucher-c4715f82d1a7"
+    }
+  ],
+  "スコーン・焼き菓子": [
+    {
+      "name": "スコーンと焼き菓子 SAKU",
+      "address": "神栖市神栖1-1-14",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-9a6f23d99893",
+      "shopid": "ibaraki-kamisu-paypay-voucher-9a6f23d99893"
+    }
+  ],
+  "寿司": [
+    {
+      "name": "寿司居酒屋 徳十",
+      "address": "神栖市深芝南2-29-10",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-75727dce8af8",
+      "shopid": "ibaraki-kamisu-paypay-voucher-75727dce8af8"
+    }
+  ],
+  "飲食業 焼鳥・酒類": [
+    {
+      "name": "炭火串焼 ガキゲン",
+      "address": "神栖市大野原1-2-31",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-c6dec423a32c",
+      "shopid": "ibaraki-kamisu-paypay-voucher-c6dec423a32c"
+    }
+  ],
+  "喫茶店 自家製ケーキ、コーヒー、台湾茶": [
+    {
+      "name": "chachaboo・チャチャブー",
+      "address": "神栖市奥野谷5556-3",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-6a8204715fed",
+      "shopid": "ibaraki-kamisu-paypay-voucher-6a8204715fed"
+    }
+  ],
+  "手打そば・うどん店": [
+    {
+      "name": "手打蕎麦 京七",
+      "address": "神栖市若松中央1-732-83",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-53286fa951e0",
+      "shopid": "ibaraki-kamisu-paypay-voucher-53286fa951e0"
+    }
+  ],
+  "そば・うどん": [
+    {
+      "name": "手打ちそば夢呆",
+      "address": "神栖市大野原3-3-13",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-be8539edc55e",
+      "shopid": "ibaraki-kamisu-paypay-voucher-be8539edc55e"
+    }
+  ],
+  "飲食業 レストラン": [
+    {
+      "name": "鉄板和牛ステーキ きらり",
+      "address": "神栖市矢田部7793-103",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-28773a2a8a39",
+      "shopid": "ibaraki-kamisu-paypay-voucher-28773a2a8a39"
+    }
+  ],
+  "ラーメン・ギョーザ": [
+    {
+      "name": "東京食堂",
+      "address": "神栖市平泉2123-5",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-af62116c7de5",
+      "shopid": "ibaraki-kamisu-paypay-voucher-af62116c7de5"
+    }
+  ],
+  "焼肉店": [
+    {
+      "name": "肉のよいち神栖店",
+      "address": "神栖市平泉東3-23-3",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-c2b7d3963aeb",
+      "shopid": "ibaraki-kamisu-paypay-voucher-c2b7d3963aeb"
+    },
+    {
+      "name": "焼肉ももたろう 神栖店",
+      "address": "神栖市大野原2-22-26 喜多川ビル101",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-06e6de43d9a0",
+      "shopid": "ibaraki-kamisu-paypay-voucher-06e6de43d9a0"
+    }
+  ],
+  "食堂": [
+    {
+      "name": "美食酒房 鳥ふじ",
+      "address": "神栖市太田3280",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-69b865e7976b",
+      "shopid": "ibaraki-kamisu-paypay-voucher-69b865e7976b"
+    }
+  ],
+  "飲食店・レストラン": [
+    {
+      "name": "プライムリブ",
+      "address": "神栖市波崎6482",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-e43afe6e6738",
+      "shopid": "ibaraki-kamisu-paypay-voucher-e43afe6e6738"
+    }
+  ],
+  "クレープ": [
+    {
+      "name": "Peka×Peka café",
+      "address": "神栖市柳川2382-1",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-1fe121518893",
+      "shopid": "ibaraki-kamisu-paypay-voucher-1fe121518893"
+    }
+  ],
+  "そば店": [
+    {
+      "name": "桝屋そば店",
+      "address": "神栖市日川4141",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-22afecd779e7",
+      "shopid": "ibaraki-kamisu-paypay-voucher-22afecd779e7"
+    }
+  ],
+  "モツ鍋・焼鳥": [
+    {
+      "name": "又兵衛 土合店",
+      "address": "神栖市土合中央2-6-8",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-e980285f3638",
+      "shopid": "ibaraki-kamisu-paypay-voucher-e980285f3638"
+    }
+  ],
+  "蕎麦・釜飯・寿司": [
+    {
+      "name": "やまこ庵 波崎店",
+      "address": "神栖市波崎5306-1",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-380433de13e3",
+      "shopid": "ibaraki-kamisu-paypay-voucher-380433de13e3"
+    }
+  ],
+  "飲食業(とんかつ・テイクアウト有)": [
+    {
+      "name": "やわらかとんかつ かつ藤",
+      "address": "神栖市日川4410-1",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-0c549827f118",
+      "shopid": "ibaraki-kamisu-paypay-voucher-0c549827f118"
+    }
+  ],
+  "ラーメン・餃子": [
+    {
+      "name": "らーめん源之丞",
+      "address": "神栖市神栖4-5-19",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-c53e8a1f3442",
+      "shopid": "ibaraki-kamisu-paypay-voucher-c53e8a1f3442"
+    }
+  ],
+  "飲食業(居酒屋)": [
+    {
+      "name": "楽八 ※電子クーポンは10/1から利用可",
+      "address": "神栖市平泉2535-3",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-e3c2d798d4ad",
+      "shopid": "ibaraki-kamisu-paypay-voucher-e3c2d798d4ad"
+    }
+  ],
+  "野菜等販売": [
+    {
+      "name": "WINDS BASE",
+      "address": "神栖市太田580-18",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-f118efb11d10",
+      "shopid": "ibaraki-kamisu-paypay-voucher-f118efb11d10"
+    }
+  ],
+  "カー用品店": [
+    {
+      "name": "オートバックス・鹿島店",
+      "address": "神栖市堀割2-2-21",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-f9d73e754d5a",
+      "shopid": "ibaraki-kamisu-paypay-voucher-f9d73e754d5a"
+    }
+  ],
+  "小売製造業": [
+    {
+      "name": "お惣菜 なないろ",
+      "address": "神栖市土合南3-2-25",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-3a3cd1cb482f",
+      "shopid": "ibaraki-kamisu-paypay-voucher-3a3cd1cb482f"
+    }
+  ],
+  "衣料品販売": [
+    {
+      "name": "かいと衣料",
+      "address": "神栖市矢田部11322",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-9e50271c3ce9",
+      "shopid": "ibaraki-kamisu-paypay-voucher-9e50271c3ce9"
+    }
+  ],
+  "自動車関連部品": [
+    {
+      "name": "(株)神栖部品",
+      "address": "神栖市知手610-3",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-149496f9cd2f",
+      "shopid": "ibaraki-kamisu-paypay-voucher-149496f9cd2f"
+    }
+  ],
+  "小売(ドラッグストア)": [
+    {
+      "name": "カワチ薬品 波崎店",
+      "address": "神栖市波崎8283",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-021e9e4bec09",
+      "shopid": "ibaraki-kamisu-paypay-voucher-021e9e4bec09"
+    }
+  ],
+  "和菓子・洋焼菓子・せんべい": [
+    {
+      "name": "幸鹿堂 本店",
+      "address": "神栖市知手中央3-4-8",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-80f74eb9dbd2",
+      "shopid": "ibaraki-kamisu-paypay-voucher-80f74eb9dbd2"
+    }
+  ],
+  "水産加工": [
+    {
+      "name": "(株)越田水産",
+      "address": "神栖市波崎8233-9",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-4484effcb259",
+      "shopid": "ibaraki-kamisu-paypay-voucher-4484effcb259"
+    }
+  ],
+  "ガソリン・軽油・灯油": [
+    {
+      "name": "コスモ石油",
+      "address": "神栖市知手中央1-10-1",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-473cd9ce68aa",
+      "shopid": "ibaraki-kamisu-paypay-voucher-473cd9ce68aa"
+    }
+  ],
+  "ゴルフ用品販売店": [
+    {
+      "name": "ゴルフ5アクロスプラザ神栖店",
+      "address": "神栖市居切1456-51",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-66b70a3e2da9",
+      "shopid": "ibaraki-kamisu-paypay-voucher-66b70a3e2da9"
+    }
+  ],
+  "コッペパン専門店": [
+    {
+      "name": "GоN ※電子クーポンは10/1から",
+      "address": "神栖市平泉2463-2",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-f496da85ecc0",
+      "shopid": "ibaraki-kamisu-paypay-voucher-f496da85ecc0"
+    }
+  ],
+  "学生服・体操服・上ばき・衣料品": [
+    {
+      "name": "(株)サイトー 知手店",
+      "address": "神栖市知手中央3-1-20",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-5b37d30fe180",
+      "shopid": "ibaraki-kamisu-paypay-voucher-5b37d30fe180"
+    },
+    {
+      "name": "(株)サイトー 土合店",
+      "address": "神栖市土合中央2-5-20",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-590a9f458732",
+      "shopid": "ibaraki-kamisu-paypay-voucher-590a9f458732"
+    }
+  ],
+  "持ち帰り すし": [
+    {
+      "name": "すし 彩り",
+      "address": "神栖市知手中央3-9-8",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-a720d586d54e",
+      "shopid": "ibaraki-kamisu-paypay-voucher-a720d586d54e"
+    }
+  ],
+  "建築資材販売": [
+    {
+      "name": "鈴木建材店",
+      "address": "神栖市知手98",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-92cdc0c75a92",
+      "shopid": "ibaraki-kamisu-paypay-voucher-92cdc0c75a92"
+    }
+  ],
+  "スポーツ用品・用具販売 学校指定体操服等販売": [
+    {
+      "name": "(株)スポーツ高橋",
+      "address": "神栖市知手中央6-21-11",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-8f03b7ddd01f",
+      "shopid": "ibaraki-kamisu-paypay-voucher-8f03b7ddd01f"
+    }
+  ],
+  "韓国屋台フードのキッチンカー": [
+    {
+      "name": "SMILEY POCHA",
+      "address": "神栖市日川",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-cb67e9a43f90",
+      "shopid": "ibaraki-kamisu-paypay-voucher-cb67e9a43f90"
+    }
+  ],
+  "寝具": [
+    {
+      "name": "スリーププラザ本城",
+      "address": "神栖市波崎8934",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-0d6e8d94b34c",
+      "shopid": "ibaraki-kamisu-paypay-voucher-0d6e8d94b34c"
+    }
+  ],
+  "雑貨・衣料・寝具・学生衣料・宝くじ・タバコ": [
+    {
+      "name": "綜合衣料 小美や",
+      "address": "神栖市知手中央2-4-27",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-3505a5f1c54b",
+      "shopid": "ibaraki-kamisu-paypay-voucher-3505a5f1c54b"
+    }
+  ],
+  "薬局": [
+    {
+      "name": "刀水堂薬局",
+      "address": "神栖市知手中央3-2-32",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-a5f986b10446",
+      "shopid": "ibaraki-kamisu-paypay-voucher-a5f986b10446"
+    }
+  ],
+  "コンビニエンスストア": [
+    {
+      "name": "白十字病院内売店",
+      "address": "神栖市賀2148白十字病院内売店",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-1f50124ce2fb",
+      "shopid": "ibaraki-kamisu-paypay-voucher-1f50124ce2fb"
+    }
+  ],
+  "パン": [
+    {
+      "name": "パン工房 ファリーナ",
+      "address": "神栖市知手中央3-4-8",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-55c5636df061",
+      "shopid": "ibaraki-kamisu-paypay-voucher-55c5636df061"
+    }
+  ],
+  "ギフト商品": [
+    {
+      "name": "日の丸ギフトセンター",
+      "address": "神栖市知手2950-78",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-5f0759a0071c",
+      "shopid": "ibaraki-kamisu-paypay-voucher-5f0759a0071c"
+    }
+  ],
+  "ひもの": [
+    {
+      "name": "ひもの屋 矢口商店",
+      "address": "神栖市波崎8808-2",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-73cd3d649f92",
+      "shopid": "ibaraki-kamisu-paypay-voucher-73cd3d649f92"
+    }
+  ],
+  "食品・酒・その他": [
+    {
+      "name": "ファミリーマート ナガイ",
+      "address": "神栖市太田3136-3",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-b7dfd89a3eb8",
+      "shopid": "ibaraki-kamisu-paypay-voucher-b7dfd89a3eb8"
+    }
+  ],
+  "食品小売・酒類販売業": [
+    {
+      "name": "藤原ストア",
+      "address": "神栖市日川311-2",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-880e286972df",
+      "shopid": "ibaraki-kamisu-paypay-voucher-880e286972df"
+    }
+  ],
+  "衣料品小売業": [
+    {
+      "name": "(株)ふたば",
+      "address": "神栖市大野原2-12-5",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-55711e559561",
+      "shopid": "ibaraki-kamisu-paypay-voucher-55711e559561"
+    }
+  ],
+  "婦人洋品販売": [
+    {
+      "name": "ブティック リブ",
+      "address": "神栖市平泉東1-64-183",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-59dc7bace346",
+      "shopid": "ibaraki-kamisu-paypay-voucher-59dc7bace346"
+    }
+  ],
+  "寝具・学校用品・小売り": [
+    {
+      "name": "ふとんのはせがわ",
+      "address": "神栖市知手2950-15",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-7a6fe89301ba",
+      "shopid": "ibaraki-kamisu-paypay-voucher-7a6fe89301ba"
+    }
+  ],
+  "食料品小売販売": [
+    {
+      "name": "堀口商店",
+      "address": "神栖市波崎9572-61",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-67f022862a8e",
+      "shopid": "ibaraki-kamisu-paypay-voucher-67f022862a8e"
+    }
+  ],
+  "小売業(ドラッグストア)薬・化粧品・日用品・食品": [
+    {
+      "name": "マツモトキヨシ神栖店",
+      "address": "神栖市大野原4-4-5",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-24d5488c52d2",
+      "shopid": "ibaraki-kamisu-paypay-voucher-24d5488c52d2"
+    }
+  ],
+  "ドラッグストア": [
+    {
+      "name": "マツモトキヨシ ライフガーデン神栖店",
+      "address": "神栖市平泉8-80",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-df3809eb620b",
+      "shopid": "ibaraki-kamisu-paypay-voucher-df3809eb620b"
+    }
+  ],
+  "青果卸・小売": [
+    {
+      "name": "(株)丸や",
+      "address": "神栖市神栖1-5-1",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-1be0ba121e98",
+      "shopid": "ibaraki-kamisu-paypay-voucher-1be0ba121e98"
+    }
+  ],
+  "メガネ・時計・アクセサリー": [
+    {
+      "name": "メガネ&時計イワモト",
+      "address": "神栖市知手中央3-5-14",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-2deb770cf0c2",
+      "shopid": "ibaraki-kamisu-paypay-voucher-2deb770cf0c2"
+    }
+  ],
+  "最中、ドリンク": [
+    {
+      "name": "もなcafe",
+      "address": "神栖市居切1547-1 人見店舗B号",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-d9f40d7e67a0",
+      "shopid": "ibaraki-kamisu-paypay-voucher-d9f40d7e67a0"
+    }
+  ],
+  "食品・米・肥料小売業": [
+    {
+      "name": "横浜屋商店",
+      "address": "神栖市矢田部2935-2",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-83f1823c8cbe",
+      "shopid": "ibaraki-kamisu-paypay-voucher-83f1823c8cbe"
+    }
+  ],
+  "和・洋菓子製造・販売": [
+    {
+      "name": "ラ・メゾン・ド・ガトー・マサキ",
+      "address": "神栖市太田4578",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-de83fb3a633e",
+      "shopid": "ibaraki-kamisu-paypay-voucher-de83fb3a633e"
+    }
+  ],
+  "サーフショップ": [
+    {
+      "name": "LAP-BEAT",
+      "address": "神栖市波崎9105-7",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-01eba8cd6327",
+      "shopid": "ibaraki-kamisu-paypay-voucher-01eba8cd6327"
+    }
+  ],
+  "ビモロシューズ": [
+    {
+      "name": "ワールドウイング神栖",
+      "address": "神栖市土合本町1-8762-305",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-da56e826312a",
+      "shopid": "ibaraki-kamisu-paypay-voucher-da56e826312a"
+    }
+  ],
+  "スマホ・タブレット・ゲーム機 パソコン修理・買取 中古端末販売": [
+    {
+      "name": "iPhone修理 あいうる",
+      "address": "神栖市平泉2553",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-02cd246cfc9e",
+      "shopid": "ibaraki-kamisu-paypay-voucher-02cd246cfc9e"
+    }
+  ],
+  "はり、きゅう、マッサージ": [
+    {
+      "name": "あさひ鍼灸整骨院",
+      "address": "神栖市砂山1014-492",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-d2b684de32e1",
+      "shopid": "ibaraki-kamisu-paypay-voucher-d2b684de32e1"
+    }
+  ],
+  "健康・美容・骨格矯正": [
+    {
+      "name": "Amy(エイミー)",
+      "address": "神栖市平泉527-117ミヨヒコM2 A室",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-19e8129df2f5",
+      "shopid": "ibaraki-kamisu-paypay-voucher-19e8129df2f5"
+    }
+  ],
+  "まつ毛パーマ、フェイシャル、ネイル、マッサージ": [
+    {
+      "name": "エステサロン クレール",
+      "address": "神栖市太田4588-1",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-2649bb80a35d",
+      "shopid": "ibaraki-kamisu-paypay-voucher-2649bb80a35d"
+    }
+  ],
+  "パソコン教室": [
+    {
+      "name": "エヌエスパソコンスクール",
+      "address": "神栖市太田523-27",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-4bb7da4da27a",
+      "shopid": "ibaraki-kamisu-paypay-voucher-4bb7da4da27a"
+    },
+    {
+      "name": "ペガサスパソコン教室",
+      "address": "神栖市日川1756-75 ビューロジェンテ",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-4f3ac55e125c",
+      "shopid": "ibaraki-kamisu-paypay-voucher-4f3ac55e125c"
+    }
+  ],
+  "カーフィルム、自動車ガラス交換、窓ガラスフィルム": [
+    {
+      "name": "(有)鹿島自動車ガラス",
+      "address": "神栖市奥野谷1996",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-74a77d3cd020",
+      "shopid": "ibaraki-kamisu-paypay-voucher-74a77d3cd020"
+    }
+  ],
+  "理容業": [
+    {
+      "name": "カットハウス坂本",
+      "address": "神栖市大野原中央1-10-53",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-df6a9d617c5a",
+      "shopid": "ibaraki-kamisu-paypay-voucher-df6a9d617c5a"
+    },
+    {
+      "name": "ヘアーコレクション ビッグポール",
+      "address": "神栖市高浜2582-10",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-aee4ff770aa5",
+      "shopid": "ibaraki-kamisu-paypay-voucher-aee4ff770aa5"
+    },
+    {
+      "name": "ヘアーサロンわたる",
+      "address": "神栖市息栖2815-43",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-9e08156bc6cb",
+      "shopid": "ibaraki-kamisu-paypay-voucher-9e08156bc6cb"
+    },
+    {
+      "name": "HairMake TAIYO",
+      "address": "神栖市波崎8478-2",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-e663dd4460d8",
+      "shopid": "ibaraki-kamisu-paypay-voucher-e663dd4460d8"
+    },
+    {
+      "name": "理髪館 丸山",
+      "address": "神栖市大野原中央1-6-36",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-4c87fd992e4b",
+      "shopid": "ibaraki-kamisu-paypay-voucher-4c87fd992e4b"
+    },
+    {
+      "name": "理容 ホワイト",
+      "address": "神栖市太田新町4-1-2",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-1ab5cfd11ef7",
+      "shopid": "ibaraki-kamisu-paypay-voucher-1ab5cfd11ef7"
+    }
+  ],
+  "美容業": [
+    {
+      "name": "カトレア 大野原店",
+      "address": "神栖市神栖1-12-12",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-c37f303cb52a",
+      "shopid": "ibaraki-kamisu-paypay-voucher-c37f303cb52a"
+    },
+    {
+      "name": "カトレア 海岸通り店",
+      "address": "神栖市奥野谷6103-13",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-11a40de89c63",
+      "shopid": "ibaraki-kamisu-paypay-voucher-11a40de89c63"
+    },
+    {
+      "name": "カトレア ストリート店",
+      "address": "神栖市堀割1-1-39",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-590edacf17b2",
+      "shopid": "ibaraki-kamisu-paypay-voucher-590edacf17b2"
+    },
+    {
+      "name": "坂本美容室",
+      "address": "神栖市大野原中央2-2-16",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-082ee281d4ed",
+      "shopid": "ibaraki-kamisu-paypay-voucher-082ee281d4ed"
+    },
+    {
+      "name": "美容室Tabitha",
+      "address": "神栖市深芝南3-1-5",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-41915a21d58b",
+      "shopid": "ibaraki-kamisu-paypay-voucher-41915a21d58b"
+    },
+    {
+      "name": "ワタナベ美容室",
+      "address": "神栖市知手中央3-7-34",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-bac8f4744809",
+      "shopid": "ibaraki-kamisu-paypay-voucher-bac8f4744809"
+    }
+  ],
+  "美容室": [
+    {
+      "name": "髪芝居",
+      "address": "神栖市日川3891-7",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-12bcfff5a950",
+      "shopid": "ibaraki-kamisu-paypay-voucher-12bcfff5a950"
+    },
+    {
+      "name": "Bio Atelier",
+      "address": "神栖市深芝南1-4-3 B棟3",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-6a8d09565877",
+      "shopid": "ibaraki-kamisu-paypay-voucher-6a8d09565877"
+    },
+    {
+      "name": "Le Lien",
+      "address": "神栖市筒井1422-305",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-ee7747810fe8",
+      "shopid": "ibaraki-kamisu-paypay-voucher-ee7747810fe8"
+    },
+    {
+      "name": "ONE'S",
+      "address": "神栖市溝口1770-1",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-171c4691e334",
+      "shopid": "ibaraki-kamisu-paypay-voucher-171c4691e334"
+    }
+  ],
+  "整体": [
+    {
+      "name": "神栖けんこう院",
+      "address": "神栖市大野原4-6-77",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-9fae1938bcdf",
+      "shopid": "ibaraki-kamisu-paypay-voucher-9fae1938bcdf"
+    }
+  ],
+  "整体、O2BOX等": [
+    {
+      "name": "かみす整体院",
+      "address": "神栖市深芝南1-13-1",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-f06fb971c12b",
+      "shopid": "ibaraki-kamisu-paypay-voucher-f06fb971c12b"
+    }
+  ],
+  "ボウリング場": [
+    {
+      "name": "神栖ボウル",
+      "address": "神栖市平泉527-80",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-e2afebc5de19",
+      "shopid": "ibaraki-kamisu-paypay-voucher-e2afebc5de19"
+    }
+  ],
+  "体操教室": [
+    {
+      "name": "KAMISPO Kids Academy",
+      "address": "神栖市深芝南1-5-3",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-18425c967ed7",
+      "shopid": "ibaraki-kamisu-paypay-voucher-18425c967ed7"
+    }
+  ],
+  "ビューティーサロン": [
+    {
+      "name": "CALLA NEO",
+      "address": "神栖市大野原3-1-12伊藤物産ビル2F",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-1421dc0410d6",
+      "shopid": "ibaraki-kamisu-paypay-voucher-1421dc0410d6"
+    }
+  ],
+  "カラオケルーム・駄菓子": [
+    {
+      "name": "カラオケルーム・駄菓子 ちあふる",
+      "address": "神栖市知手中央2-4-27",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-a8e961184617",
+      "shopid": "ibaraki-kamisu-paypay-voucher-a8e961184617"
+    }
+  ],
+  "エステ・化粧品販売": [
+    {
+      "name": "コスメ山本",
+      "address": "神栖市知手2975-51",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-e076a737fb1d",
+      "shopid": "ibaraki-kamisu-paypay-voucher-e076a737fb1d"
+    }
+  ],
+  "エステ": [
+    {
+      "name": "salon KIRARA",
+      "address": "神栖市大野原2-29-28 B102",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-2b8a13195b29",
+      "shopid": "ibaraki-kamisu-paypay-voucher-2b8a13195b29"
+    }
+  ],
+  "ジム 薪サウナ": [
+    {
+      "name": "ジム&薪サウナ 八右衛門",
+      "address": "神栖市日川1963-4,132",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-e039be6e8f17",
+      "shopid": "ibaraki-kamisu-paypay-voucher-e039be6e8f17"
+    }
+  ],
+  "クリーニング": [
+    {
+      "name": "タニカワクリーニング",
+      "address": "神栖市知手中央3-9-16",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-9c0c78d5670d",
+      "shopid": "ibaraki-kamisu-paypay-voucher-9c0c78d5670d"
+    },
+    {
+      "name": "タニカワクリーニング アクアテラス店",
+      "address": "神栖市知手中央2-7-27",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-43008d03dd5e",
+      "shopid": "ibaraki-kamisu-paypay-voucher-43008d03dd5e"
+    },
+    {
+      "name": "タニカワクリーニング 大野原店",
+      "address": "神栖市大野原4-1-41",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-b5fc36972b05",
+      "shopid": "ibaraki-kamisu-paypay-voucher-b5fc36972b05"
+    },
+    {
+      "name": "タニカワクリーニング カスミ土合店",
+      "address": "神栖市土合西1ー2ー5",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-8cb981893cb9",
+      "shopid": "ibaraki-kamisu-paypay-voucher-8cb981893cb9"
+    },
+    {
+      "name": "タニカワクリーニング タイヨー知手店",
+      "address": "神栖市知手字砂3420-57",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-04768b52d1f5",
+      "shopid": "ibaraki-kamisu-paypay-voucher-04768b52d1f5"
+    },
+    {
+      "name": "タニカワクリーニング ライフガーデン店",
+      "address": "神栖市平泉8-7",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-a3e1b7818916",
+      "shopid": "ibaraki-kamisu-paypay-voucher-a3e1b7818916"
+    }
+  ],
+  "電気工事・家電販売": [
+    {
+      "name": "でんきハウスひらの",
+      "address": "神栖市大野原2-22-32",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-8983bc45ea95",
+      "shopid": "ibaraki-kamisu-paypay-voucher-8983bc45ea95"
+    }
+  ],
+  "接骨院": [
+    {
+      "name": "土合接骨院",
+      "address": "神栖市土合本町4-9809-344フーデリアテナント棟B室",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-f90934607599",
+      "shopid": "ibaraki-kamisu-paypay-voucher-f90934607599"
+    }
+  ],
+  "ドッグラン": [
+    {
+      "name": "DOG RUN KAMISU",
+      "address": "神栖市賀2123-13",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-ab15fa132646",
+      "shopid": "ibaraki-kamisu-paypay-voucher-ab15fa132646"
+    }
+  ],
+  "貸切バス": [
+    {
+      "name": "南部観光バス",
+      "address": "神栖市知手中央9-11-14",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-274afadcf571",
+      "shopid": "ibaraki-kamisu-paypay-voucher-274afadcf571"
+    }
+  ],
+  "運転代行": [
+    {
+      "name": "南部代行",
+      "address": "神栖市知手中央9-11-14",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-a459dfed0b23",
+      "shopid": "ibaraki-kamisu-paypay-voucher-a459dfed0b23"
+    }
+  ],
+  "ネイル、フットケアサロン": [
+    {
+      "name": "nailaxs",
+      "address": "神栖市土合本町1-9082-10",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-5a0158d0c396",
+      "shopid": "ibaraki-kamisu-paypay-voucher-5a0158d0c396"
+    }
+  ],
+  "ネイル、まつ毛パーマ、まつ毛エクステ": [
+    {
+      "name": "ネイル&アイラッシュ Nefer",
+      "address": "神栖市筒井1665-2中ビル103",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-51760cac7d63",
+      "shopid": "ibaraki-kamisu-paypay-voucher-51760cac7d63"
+    }
+  ],
+  "化粧品委託販売": [
+    {
+      "name": "NEIGE",
+      "address": "神栖市須田2340-43",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-8a1715fb2a09",
+      "shopid": "ibaraki-kamisu-paypay-voucher-8a1715fb2a09"
+    }
+  ],
+  "フィットネスクラブ": [
+    {
+      "name": "NEX FITNESS",
+      "address": "神栖市太田523-27",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-922ed5ca2ce1",
+      "shopid": "ibaraki-kamisu-paypay-voucher-922ed5ca2ce1"
+    }
+  ],
+  "自動車修理": [
+    {
+      "name": "(株)花ヶ崎モータース",
+      "address": "神栖市芝崎1036",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-649dfabc5319",
+      "shopid": "ibaraki-kamisu-paypay-voucher-649dfabc5319"
+    }
+  ],
+  "陶板浴・ホットヨガ": [
+    {
+      "name": "ヒーリングスパ・マキ",
+      "address": "神栖市深芝南3-7-1",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-fe49e1735b42",
+      "shopid": "ibaraki-kamisu-paypay-voucher-fe49e1735b42"
+    }
+  ],
+  "エステ・ネイル・化粧品販売": [
+    {
+      "name": "Privatesalon Riju",
+      "address": "神栖市高浜2455-20",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-afed1460c7d6",
+      "shopid": "ibaraki-kamisu-paypay-voucher-afed1460c7d6"
+    }
+  ],
+  "ネイルサービス業": [
+    {
+      "name": "ブラッシュネイルズ",
+      "address": "神栖市土合中央2-1-8",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-51074d6231b6",
+      "shopid": "ibaraki-kamisu-paypay-voucher-51074d6231b6"
+    }
+  ],
+  "ストレッチ、ボディケア、頭蓋骨補正": [
+    {
+      "name": "ボディメンテナンスzero",
+      "address": "神栖市平泉2-8秋山店舗",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-c1ae37a10ea6",
+      "shopid": "ibaraki-kamisu-paypay-voucher-c1ae37a10ea6"
+    }
+  ],
+  "鍼灸マッサージ": [
+    {
+      "name": "マッサージタイムアーニカ",
+      "address": "神栖市太田478-3",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-06ac477e0ce0",
+      "shopid": "ibaraki-kamisu-paypay-voucher-06ac477e0ce0"
+    }
+  ],
+  "整体業": [
+    {
+      "name": "松本整体 神栖店",
+      "address": "神栖市神栖4-9-1パレス神栖101",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-a97a7e7ca7b8",
+      "shopid": "ibaraki-kamisu-paypay-voucher-a97a7e7ca7b8"
+    },
+    {
+      "name": "松本整体 ゆーぽーとはさき店",
+      "address": "神栖市砂山15",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-9077d86a9202",
+      "shopid": "ibaraki-kamisu-paypay-voucher-9077d86a9202"
+    }
+  ],
+  "自動車販売整備鈑金": [
+    {
+      "name": "(株)やまてつ",
+      "address": "神栖市知手139-1",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-435df7f22785",
+      "shopid": "ibaraki-kamisu-paypay-voucher-435df7f22785"
+    }
+  ],
+  "リラクゼーションサロン": [
+    {
+      "name": "リラクゼーションサロン ねこのて",
+      "address": "神栖市太田523-27",
+      "voucherTypes": [
+        "common",
+        "local"
+      ],
+      "note": "共通券・専用券の両方が利用可能",
+      "storeid": "ibaraki-kamisu-c0b29f584b46",
+      "shopid": "ibaraki-kamisu-paypay-voucher-c0b29f584b46"
+    }
+  ]
+}

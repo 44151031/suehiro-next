@@ -19,6 +19,7 @@ export type Campaign = {
   datePublished: string; // ✅ 公開日
   dateModified: string;  // ✅ 最終更新日
   officialUrl?: string;
+  shopListStatus?: "pending";
 };
 
 // 動的算出値付き型（必要に応じて拡張用途に使用）

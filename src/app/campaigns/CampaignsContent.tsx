@@ -75,8 +75,7 @@ export default function CampaignsContent() {
     .filter((v) => {
       const now = new Date();
       return (
-        getCampaignStatus(v.startDate, v.endDate) !== "ended" &&
-        new Date(v.applyEndDate) >= now
+        new Date(v.useEndDate) >= now
       );
     })
     .sort(

@@ -78,12 +78,12 @@ export default async function CityPaytypePage({
 
   const payLabel = PayTypeLabels[paytypeId];
 
-  const shopListByGenre = await loadShopList(
+  const shopListByGenre = campaign.shopListStatus === "pending" ? {} : await loadShopList(
     params.prefecture,
     params.city,
     paytypeId
   );
-  const genres = await loadGenres(params.prefecture, params.city, paytypeId);
+  const genres = campaign.shopListStatus === "pending" ? [] : await loadGenres(params.prefecture, params.city, paytypeId);
 
   const {
     prefecture,
@@ -98,10 +98,9 @@ export default async function CityPaytypePage({
     citySlug,
     datePublished,
     dateModified,
-    lastUpdated,
   } = campaign as Campaign;
 
-  const modified = dateModified ?? lastUpdated ?? datePublished;
+  const modified = dateModified ?? datePublished;
 
   const pageUrl = `https://paycancampaign.com/campaigns/${prefectureSlug}/${citySlug}/${paytypeId}`;
   const detailsMap = loadShopDetails(prefectureSlug, citySlug);
@@ -178,6 +177,9 @@ export default async function CityPaytypePage({
             paytype={paytypeId}
           />
           <CampaignStatusNotice campaign={campaign} />
+          {campaign.shopListStatus === "pending" && (
+            <p className="my-4 rounded-xl border border-blue-200 bg-blue-50 p-4 text-sm">今回の対象店舗一覧は公式発表待ちです。公開後の一覧または開催期間中のアプリ・店頭表示で対象店舗をご確認ください。<a className="ml-2 underline" href={campaign.officialUrl} target="_blank" rel="noopener noreferrer">公式案内</a></p>
+          )}
           <CampaignSummaryCard campaign={campaign} />
           <GenreHeaderNav
             genres={genres}
@@ -240,13 +242,13 @@ export default async function CityPaytypePage({
           </h2>
           <AdUnit responsive placement="before-shop-list" />
 
-          {shopListByGenre && (
+          {Object.keys(shopListByGenre).length > 0 && (
             <p className="mb-4 text-sm text-gray-700">
               ♡のついている気になるお店を♥で応援しよう。♥の多いお店は今後いいことが…(開発中)
             </p>
           )}
-          <ShopListSource listKey={`${prefectureSlug}-${citySlug}-${paytypeId}`} />
-          {!shopListByGenre ? (
+          {Object.keys(shopListByGenre).length > 0 && <ShopListSource listKey={`${prefectureSlug}-${citySlug}-${paytypeId}`} />}
+          {Object.keys(shopListByGenre).length === 0 ? (
             <p className="mt-10 text-gray-700 text-base">
               現時点では対象店舗情報が公表されていません。
               <br />

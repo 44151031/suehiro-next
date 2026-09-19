@@ -34,7 +34,7 @@ const brandPriority: Record<string, number> = {
 // ステータス優先度
 function statusOrder(status: CampaignStatus) {
   if (status === "active") return 0;
-  if (status === "upcoming") return 1;
+  if (status === "scheduled") return 1;
   return 2;
 }
 
@@ -58,15 +58,15 @@ function sortCampaigns(list: typeof campaigns) {
 }
 
 type Props = {
-  params: { prefecture: string };
+  params: Promise<{ prefecture: string }>;
 };
 
-export function generateMetadata({ params }: Props) {
-  return getPrefectureMetadata(params.prefecture);
+export async function generateMetadata({ params }: Props) {
+  return getPrefectureMetadata((await params).prefecture);
 }
 
-export default function PrefecturePage({ params }: Props) {
-  const { prefecture } = params;
+export default async function PrefecturePage({ params }: Props) {
+  const { prefecture } = await params;
 
   const list = campaigns.filter((c) => c.prefectureSlug === prefecture);
   const prefectureName =
@@ -99,7 +99,7 @@ export default function PrefecturePage({ params }: Props) {
     .filter(
       (v) =>
         v.prefectureSlug === prefecture &&
-        now <= new Date(v.applyEndDate)
+        now <= new Date(v.useEndDate)
     )
     .sort(
       (a, b) =>

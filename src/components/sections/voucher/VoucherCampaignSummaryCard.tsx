@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { formatJapaneseDate, getCampaignImagePath } from "@/lib/campaignUtils";
 import type { VoucherCampaign } from "@/types/voucher";
+import { voucherStatus } from "@/lib/voucherPresentation";
 
 type Props = {
   campaign?: VoucherCampaign;
@@ -63,7 +64,7 @@ export default function VoucherCampaignSummaryCard({ campaign }: Props) {
       <div
         className={`absolute top-2 right-2 text-white text-xs font-bold px-3 py-1 rounded-full shadow ${status.color}`}
       >
-        {status.label}
+        {voucherStatus(campaign)}
       </div>
 
       <div className="flex flex-col md:flex-row">

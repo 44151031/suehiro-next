@@ -15,9 +15,9 @@ const nextConfig: NextConfig = {
     ignoreDuringBuilds: true,
   },
 
-  // ✅ TypeScriptの型エラーでビルドを止めない（開発優先）
+  // 型エラーがある場合はビルドを停止する。
   typescript: {
-    ignoreBuildErrors: true,
+    ignoreBuildErrors: false,
   },
 
   // ✅ 末尾スラッシュなしでURLを統一（SEO対策）

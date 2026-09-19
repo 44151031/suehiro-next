@@ -22,9 +22,7 @@ export function getActiveOrUpcomingVoucherCities(prefectureSlug: string): {
     .filter((campaign) => {
       // 都道府県一致 + 申込期間が未来または現在中のもの
       if (campaign.prefectureSlug !== prefectureSlug) return false;
-      const start = new Date(campaign.applicationStartDate ?? campaign.startDate);
-      const end = new Date(campaign.applicationEndDate ?? campaign.endDate);
-      return start > now || (start <= now && now <= end);
+      return new Date(campaign.useEndDate) >= now;
     })
     .reduce((acc, cur) => {
       // 重複する citySlug を除外

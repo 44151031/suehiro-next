@@ -14,7 +14,7 @@ export default function VoucherCampaignCardList({ campaigns }: Props) {
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
       {campaigns.map((v) => (
         <VoucherCampaignCard
-          key={`${v.prefectureSlug}-${v.citySlug}-${v.paytype}`}
+          key={`${v.prefectureSlug}-${v.citySlug}-${v.paytype}-${v.campaignSlug ?? ""}`}
           campaign={v}
         />
       ))}
