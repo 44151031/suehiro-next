@@ -14,6 +14,7 @@ import CommunityShopLists from "@/components/sections/shop/CommunityShopLists";
 import ShopListSource from "@/components/sections/shop/ShopListSource";
 import { SNSShareButtons } from "@/components/common/SNSShareButtons";
 import BackNavigationButtons from "@/components/common/BackNavigationButtons";
+import ActiveCampaignLinks from "@/components/sections/city/ActiveCampaignLinks";
 
 export default async function VoucherCampaignPage({ params }: {
   params: { prefecture: string; city: string; pay: string; campaignSlug?: string };
@@ -50,6 +51,11 @@ export default async function VoucherCampaignPage({ params }: {
         <p className="text-sm text-gray-600 mb-3">{c.prefecture}・{c.city} / PayPay商品券</p>
         <h1 className="headline1">{c.campaigntitle}｜最大{rate}%お得</h1>
         <p className="text-sm text-right my-3">最終更新：{formatJapaneseDate(c.dateModified ?? c.datePublished)}</p>
+        <nav aria-label="商品券ページ内の案内" className="my-4 flex flex-wrap gap-3 text-sm font-semibold">
+          <a href="#voucher-shops" className="inline-flex min-h-11 items-center rounded-full border border-red-300 px-4 py-2 text-red-700">対象店舗を探す</a>
+          <Link href="/campaigns/active" className="inline-flex min-h-11 items-center rounded-full bg-red-600 px-4 py-2 text-white">今開催中の還元キャンペーンを見る</Link>
+        </nav>
+        {new Date(c.useEndDate) < new Date() && <ActiveCampaignLinks prefectureSlug={c.prefectureSlug} citySlug={c.citySlug} message="この商品券の利用期間は終了しています。" />}
         <p className="leading-relaxed mb-6">1口{c.purchasePrice.toLocaleString()}円で{c.ticketAmount.toLocaleString()}円分のお買い物ができる商品券です。対象者、受付状況と購入・利用期限をご確認ください。</p>
         <VoucherCampaignSummaryCard campaign={c} />
         <section className="rounded-b-2xl border bg-white p-5 space-y-3">

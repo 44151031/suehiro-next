@@ -19,6 +19,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   // ✅ 一覧系
   const rootPage: MetadataRoute.Sitemap = [
     { url: `${siteUrl}/campaigns`, lastModified: now },
+    { url: `${siteUrl}/campaigns/active`, lastModified: now },
     { url: `${siteUrl}/campaigns/archive`, lastModified: now },
     { url: `${siteUrl}/articles`, lastModified: now }, // 記事一覧トップ
   ];

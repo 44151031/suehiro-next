@@ -10,6 +10,9 @@ import EndedCampaignPage from "./EndedCampaignPage"; // ← 追加
 import { getVoucherMetadata } from "@/lib/voucherMetadateGenerators";
 import { getPaytypeMetadata } from "@/lib/metadataGenerators";
 import { campaigns } from "@/lib/campaignMaster";
+import { getCampaignStatus } from "@/lib/campaignUtils";
+
+export const dynamic = "force-dynamic";
 
 type Props = {
   params: Promise<{
@@ -62,11 +65,8 @@ export default async function Page({ params }: Props) {
   }
 
   // ✅ 終了判定
-  const now = new Date();
-  const end = new Date(`${campaign.endDate}T23:59:59+09:00`);
-
   // 終了日を過ぎていれば EndedCampaignPage に切り替え
-  if (end < now) {
+  if (getCampaignStatus(campaign.startDate, campaign.endDate) === "ended") {
     return <EndedCampaignPage params={{ prefecture, city, pay }} />;
   }
 

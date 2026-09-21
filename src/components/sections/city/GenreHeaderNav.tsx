@@ -58,8 +58,11 @@ export default function GenreHeaderNav({ genres, paytypeLabel, paytype }: Props)
             className="overflow-x-auto scrollbar-none cursor-grab active:cursor-grabbing"
           >
             <div className="flex flex-nowrap gap-1 px-1">
+              {genres.length > 0 && <GenreButton label="店舗を検索" href="#shop-search" />}
               {sortedGenres.map((genre) => (
-                <GenreButton key={genre} label={genre} href={`#genre-${genre}`} />
+                <GenreButton key={genre} label={genre} href={`#genre-${genre}`} onClick={() => {
+                  window.dispatchEvent(new CustomEvent("shop-genre-select", { detail: genre }));
+                }} />
               ))}
               <GenreButton label="ページトップ" href="#top" />
             </div>
@@ -70,10 +73,11 @@ export default function GenreHeaderNav({ genres, paytypeLabel, paytype }: Props)
   );
 }
 
-function GenreButton({ label, href }: { label: string; href: string }) {
+function GenreButton({ label, href, onClick }: { label: string; href: string; onClick?: () => void }) {
   return (
     <Link
       href={href}
+      onClick={onClick}
       className={cn(
         "mx-[1px] sm:mx-1 whitespace-nowrap text-xs sm:text-sm font-semibold px-2 sm:px-4 py-[5px] sm:py-2 rounded-full border",
         "border-pink-200 bg-pink-100 text-pink-700",

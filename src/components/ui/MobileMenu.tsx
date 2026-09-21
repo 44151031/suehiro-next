@@ -9,7 +9,7 @@ type Props = {
 
 export default function MobileMenu({ onClose }: Props) {
   return (
-    <div className="fixed inset-0 z-50 bg-white animate-slideInFull flex flex-col">
+    <div className="fixed inset-0 z-[10000] overflow-y-auto bg-white animate-slideInFull flex flex-col">
       {/* ✕ボタン */}
       <button
         onClick={onClose}
@@ -43,6 +43,7 @@ export default function MobileMenu({ onClose }: Props) {
 
       {/* メニュー項目 */}
       <nav className="mt-10 px-6 space-y-6 text-lg font-medium text-gray-800">
+        <Link href="/campaigns/active" onClick={onClose} className="block rounded-lg bg-red-600 px-4 py-3 font-bold text-white">今開催中のキャンペーン</Link>
         <Link href="/campaigns" onClick={onClose} className="block border-b pb-2 hover:text-red-600">
           全国のキャンペーン一覧
         </Link>

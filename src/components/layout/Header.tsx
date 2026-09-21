@@ -49,6 +49,7 @@ export default function Header() {
             </Link>
 
             <div className="flex items-center space-x-1">
+              <Link href="/campaigns/active" className="hidden sm:inline-flex min-h-11 items-center rounded-full bg-red-600 px-4 py-2 text-sm font-bold text-white hover:bg-red-700">今開催中</Link>
               <PrefectureSelector />
               <button
                 onClick={() => setMenuOpen(true)}

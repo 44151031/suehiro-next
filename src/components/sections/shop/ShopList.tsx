@@ -53,7 +53,7 @@ export default function ShopList({
         id={`genre-${genre}`}
         className="scroll-mt-40 text-xl sm:text-2xl font-semibold text-neutral-800 border-l-4 border-primary pl-4"
       >
-        {genre}の対象店舗
+        {genre}の対象店舗 <span className="text-sm font-normal">（{shops.length.toLocaleString("ja-JP")}店舗）</span>
       </h2>
 
       {!shops || shops.length === 0 ? (
@@ -87,7 +87,7 @@ export default function ShopList({
                 onClick={toggleExpanded}
                 className="inline-block bg-primary text-white text-sm font-semibold rounded-full px-6 py-2 hover:bg-primary/90 transition cursor-pointer"
               >
-                {expanded ? "閉じる" : "さらに表示する"}
+                {expanded ? "最初の12店舗に戻す" : `残り${(shops.length - threshold).toLocaleString("ja-JP")}店舗を表示する`}
               </button>
             </div>
           )}

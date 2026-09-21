@@ -1,6 +1,7 @@
 // ✅ /lib/breadcrumbLabels.ts
 export const breadcrumbLabels: Record<string, string> = {
   campaigns: "全国のキャンペーン一覧",
+  active: "今開催中のキャンペーン",
   management: "運営管理",
   paypay: "PayPay",
   aupay: "au PAY",

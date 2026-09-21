@@ -23,6 +23,8 @@ import { generateShareContent } from "@/lib/generateShareContent";
 import { SNSShareButtons } from "@/components/common/SNSShareButtons";
 import SampleShopExample from "@/components/sections/shop/SampleShopExample";
 import CampaignStatusNotice from "@/components/common/CampaignStatusNotice";
+import ActiveCampaignLinks from "@/components/sections/city/ActiveCampaignLinks";
+import { getCampaignStatus } from "@/lib/campaignUtils";
 import { getPaytypeMetadata } from "@/lib/metadataGenerators";
 import PaytypeCampaignStructuredData from "@/components/structured/PaytypeCampaignStructuredData";
 import CityCampaignFAQ from "@/components/sections/city/CampaignFAQ";
@@ -177,6 +179,7 @@ export default async function CityPaytypePage({
             paytype={paytypeId}
           />
           <CampaignStatusNotice campaign={campaign} />
+          {getCampaignStatus(startDate, endDate) === "scheduled" && <ActiveCampaignLinks prefectureSlug={prefectureSlug} citySlug={citySlug} currentPaytype={paytypeId} message="このキャンペーンは開催前です。今使えるキャンペーンはこちら。" />}
           {campaign.shopListStatus === "pending" && (
             <p className="my-4 rounded-xl border border-blue-200 bg-blue-50 p-4 text-sm">今回の対象店舗一覧は公式発表待ちです。公開後の一覧または開催期間中のアプリ・店頭表示で対象店舗をご確認ください。<a className="ml-2 underline" href={campaign.officialUrl} target="_blank" rel="noopener noreferrer">公式案内</a></p>
           )}

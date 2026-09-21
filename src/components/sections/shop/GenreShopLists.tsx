@@ -4,6 +4,7 @@ import ShopList from "./ShopList";
 import { sortGenresByPriority } from "@/lib/genreSortPriority";
 import type { Shop } from "@/types/shop";
 import type { ShopDetail } from "@/hooks/useShopDetails";
+import { sortShops, type ShopSort } from "@/lib/shopSearch";
 
 type Props = {
   /** ジャンル別店舗リスト */
@@ -16,6 +17,7 @@ type Props = {
   likesMap: Record<string, number>;
   /** 今日すでに押し済みの shopid セット（SupportButton の初期値用） */
   likedShopIds: Set<string>;
+  sortOrder?: ShopSort;
 };
 
 /**
@@ -27,9 +29,9 @@ type Props = {
 export default function GenreShopLists({
   shopListByGenre,
   detailsMap,
-  ranking,
   likesMap,
   likedShopIds,
+  sortOrder = "likes",
 }: Props) {
   if (!shopListByGenre || Object.keys(shopListByGenre).length === 0) {
     return (
@@ -48,11 +50,7 @@ export default function GenreShopLists({
         const shops = shopListByGenre[genre] || [];
 
         // ✅ 応援数順に並び替え（♥が多い順）
-        const sortedShops = [...shops].sort((a, b) => {
-          const likesA = a.shopid ? (likesMap[a.shopid] ?? 0) : 0;
-          const likesB = b.shopid ? (likesMap[b.shopid] ?? 0) : 0;
-          return likesB - likesA;
-        });
+        const sortedShops = sortShops(shops, sortOrder, likesMap);
 
         return (
           <ShopList
