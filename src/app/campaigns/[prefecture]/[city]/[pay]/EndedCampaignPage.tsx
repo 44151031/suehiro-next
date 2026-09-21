@@ -18,6 +18,7 @@ import BackNavigationButtons from "@/components/common/BackNavigationButtons";
 import CityCampaignFAQ from "@/components/sections/city/CampaignFAQ";
 import StoreRegistrationCTA from "@/components/common/StoreRegistrationCTA";
 import AdUnit from "@/components/common/AdUnit";
+import ActiveCampaignLinks from "@/components/sections/city/ActiveCampaignLinks";
 
 // ▼ StandardCampaignPage 準拠の追加要素
 import CampaignSummaryCard from "@/components/sections/city/CampaignSummaryCard";
@@ -145,6 +146,8 @@ export default async function EndedCampaignPage({
               {formatJapaneseDate(datePublished)}
             </p>
           )}
+
+          <ActiveCampaignLinks prefectureSlug={prefectureSlug} citySlug={citySlug} currentPaytype={paytypeId} message="このキャンペーンは終了しました。現在開催中のキャンペーンをご確認ください。" />
 
           {/* 🔰 導入説明 */}
           <section className="mt-6 text-gray-800 leading-relaxed space-y-4">

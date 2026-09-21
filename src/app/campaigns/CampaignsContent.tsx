@@ -90,6 +90,7 @@ export default function CampaignsContent() {
 
       <div className="max-w-[1200px] mx-auto px-4 py-10">
         <h1 className="headline1">全国のキャッシュレスキャンペーン一覧</h1>
+        <Link href="/campaigns/active" className="my-4 inline-flex min-h-11 items-center rounded-full bg-red-600 px-5 py-3 font-bold text-white hover:bg-red-700">今開催中のキャンペーンだけを見る →</Link>
         <CampaignTotalPointSummary campaigns={filtered} areaLabel="全国" />
 
         <p className="text-base leading-relaxed mb-4">
