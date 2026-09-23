@@ -1,6 +1,6 @@
 "use client";
 
-import { useContext, useEffect, useState } from "react";
+import { useContext, useEffect, useRef, useState } from "react";
 import { ShopSupportContext } from "@/components/sections/shop/ShopSupportContext";
 import { toggleSupport as toggleSupportAction } from "@/app/actions/support";
 import { toast } from "sonner";
@@ -36,6 +36,7 @@ export default function SupportButton({ shopid, shopName, initialLikes, initialL
   const [likes, setLikes] = useState<number>(initialLikes ?? 0);
   const [liked, setLiked] = useState<boolean>(initialLiked ?? false);
   const [pending, setPending] = useState<boolean>(false);
+  const inFlight = useRef(false);
   const [ready, setReady] = useState<boolean>(false);
   const [isLimit, setIsLimit] = useState<boolean>((initialLikes ?? 0) >= 10);
 
@@ -130,7 +131,9 @@ export default function SupportButton({ shopid, shopName, initialLikes, initialL
       return; // ← 通信させない！
     }
 
-    if (pending) return;
+    // State updates render later; lock synchronously before starting the request.
+    if (inFlight.current) return;
+    inFlight.current = true;
     setPending(true);
 
     try {
@@ -156,12 +159,14 @@ export default function SupportButton({ shopid, shopName, initialLikes, initialL
     } catch {
       toast.error("通信エラーが発生しました");
     } finally {
+      inFlight.current = false;
       setPending(false);
     }
   };
 
   return (
     <button
+      type="button"
       onClick={handleClick}
       disabled={pending || !ready} // ← 上限では無効化しない！
       aria-label={`${liked ? "応援を取り消す" : "この店舗を応援する"}：${shopid}`}
